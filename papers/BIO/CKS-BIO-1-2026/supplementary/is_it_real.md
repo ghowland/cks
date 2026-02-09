@@ -11,3 +11,5 @@ These are derived, locked equations, that match real world data to a high degree
 As they said in Copenhagen: "Shut up and calculate."
 
 The math and connections stand regardless.
+
+CKS is a sufficient ontology.
