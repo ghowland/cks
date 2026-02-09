@@ -6,4 +6,4 @@ Tag	Source	Strategy
 <<REGISTRY_ID>>	Python Scan	Extracted from **Registry:** field.
 <<PREREQUISITES>>	Python Scan	Extracted from dependencies in your JSON scan.
 <<BIB_KEY>>	Python Scan	cks_ + domain + reg_id slug.
-
+<<FAQS>> Frequeuntly Asked Questions
