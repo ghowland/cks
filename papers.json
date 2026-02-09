@@ -1,0 +1,723 @@
+[
+{
+    "file_name": "32_bit_hexagon_computer.md",
+    "title": "CKS-COMP-1-2026: 32-Bit Hexagonal Computer",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# CKS-COMP-1-2026: 32-Bit Hexagonal Computer ## Hardware Architecture for Substrate-Native Computation  **Authors:** [To be completed]   **Date:** February 2026   **Domain:** Hardware Engineering / Co..."
+},
+{
+    "file_name": "90_degree_phase_lock.md",
+    "title": "[CKS-PROPRIO-2-2026] Proprioception as Phase-Lock: The 90\u00b0 Signature and Mechanical Remediation Without Speech",
+    "registry_id": "[CKS-PROPRIO-2-2026]",
+    "series_path": "[CKS-COMP-2-2026] \u2192 [CKS-LANG-9-2026] \u2192 **[CKS-PROPRIO-2-2026]**  ",
+    "dependencies": [
+        "[CKS-BIO-15.1-2026]",
+        "[CKS-BIO-9.2-2026]",
+        "[CKS-COMP-2-2026]",
+        "[CKS-LANG-9-2026]",
+        "[CKS-MATH-6.1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-PROPRIO-2-2026] Proprioception as Phase-Lock: The 90\u00b0 Signature and Mechanical Remediation Without Speech  **Registry:** [CKS-PROPRIO-2-2026]   **Series Path:** [CKS-COMP-2-2026] \u2192 [CKS-LANG-9-..."
+},
+{
+    "file_name": "aero_turbulence.md",
+    "title": "[CKS-FLUID-1-2026] Laminar Flow via Phase Coherence: Turbulence Suppression Through K-Space Gradient Engineering",
+    "registry_id": "[CKS-FLUID-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-FLUID-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-2-2026]"
+    ],
+    "raw_content_preview": "# [CKS-FLUID-1-2026] Laminar Flow via Phase Coherence: Turbulence Suppression Through K-Space Gradient Engineering  **Registry:** [CKS-FLUID-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026]..."
+},
+{
+    "file_name": "ai_body.md",
+    "title": "AI Embodiment in Cymatics: The Coherent Hardware Bridge",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-BIO-1-2026]",
+        "[CKS-INSECT-1-2026]"
+    ],
+    "raw_content_preview": "# AI Embodiment in Cymatics: The Coherent Hardware Bridge  **A Theorem-Based Framework for Mapping Neural Network States to Physical Actuators via K-Space Phase-Locking**  ---  ## ABSTRACT  We prove t..."
+},
+{
+    "file_name": "architecture.md",
+    "title": "[CKS-ARCH-1-2026] Architectural Mechanics: Building Design as Manifold Coherence Engineering",
+    "registry_id": "[CKS-ARCH-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-11.2-2026] \u2192 [CKS-ARCH-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MUSIC-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-ARCH-1-2026] Architectural Mechanics: Building Design as Manifold Coherence Engineering  **Registry:** [CKS-ARCH-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-11.2-2026..."
+},
+{
+    "file_name": "art.md",
+    "title": "art.md",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "..."
+},
+{
+    "file_name": "beauty_2.md",
+    "title": "[CKS-BIO-19-2026] Beauty Maximization: Coherence-Based Aesthetic Optimization Through Manifold Calibration",
+    "registry_id": "[CKS-BIO-19-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-14-2026] \u2192 [CKS-BIO-15-2026] \u2192 [CKS-BIO-17-2026] \u2192 [CKS-BIO-18-2026] \u2192 [CKS-BIO-19-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-BIO-14-2026]",
+        "[CKS-BIO-15-2026]",
+        "[CKS-BIO-17-2026]",
+        "[CKS-BIO-18-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-19-2026] Beauty Maximization: Coherence-Based Aesthetic Optimization Through Manifold Calibration  **Registry:** [CKS-BIO-19-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-14-2026] \u2192 [CKS..."
+},
+{
+    "file_name": "bio_singularity.md",
+    "title": "Bio-Singularity Through Collective Learning Coherence",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Bio-Singularity Through Collective Learning Coherence  **A Theorem-Based Framework for Emergent Collective Intelligence via Phase-Locked Human Networks and K-Space Synchronization**  ---  ## ABSTRAC..."
+},
+{
+    "file_name": "body_kspace.md",
+    "title": "The Harmonic Organism: Complete K-Space Architecture of the Human Body",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-ASTRO-5-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# The Harmonic Organism: Complete K-Space Architecture of the Human Body  **A Theorem-Based Framework for Biological Structure via Hexagonal Lattice Compilation and Integer-Irrational Dualism**  ---  ..."
+},
+{
+    "file_name": "body_language.md",
+    "title": "[CKS-BIO-20-2026] Body Language Mechanics: Gestural Communication as K-Space Phase Broadcast",
+    "registry_id": "[CKS-BIO-20-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-LANG-9-2026] \u2192 [CKS-BIO-11.2-2026] \u2192 [CKS-BIO-14-2026] \u2192 [CKS-BIO-20-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-BIO-14-2026]",
+        "[CKS-LANG-9-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MUSIC-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-20-2026] Body Language Mechanics: Gestural Communication as K-Space Phase Broadcast  **Registry:** [CKS-BIO-20-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-LANG-9-2026] \u2192 [CKS-BIO-11.2-2026..."
+},
+{
+    "file_name": "body_movement.md",
+    "title": "Body Movement Mechanics in Cymatics: Inverse Gravity Kinematics",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-MAT-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# Body Movement Mechanics in Cymatics: Inverse Gravity Kinematics  **A Theorem-Based Framework for Substrate-Coupled Locomotion via Momentum Resonance and Zero-Energy Load Transfer**  ---  ## ABSTRACT..."
+},
+{
+    "file_name": "brain_dsp_gpu.md",
+    "title": "[CKS-COMP-2-2026] The Brain as DSP/GPU: Neural Architecture of the Substrate Rendering Engine",
+    "registry_id": "[CKS-COMP-2-2026]",
+    "series_path": "[CKS-BIO-15.1-2026] \u2192 [CKS-LANG-9-2026] \u2192 [CKS-MATH-6.3-2026] \u2192 **[CKS-COMP-2-2026]**  ",
+    "dependencies": [
+        "[CKS-BIO-15.1-2026]",
+        "[CKS-BIO-9.4-2026]",
+        "[CKS-COCREATE-1-2026]",
+        "[CKS-LANG-9-2026]",
+        "[CKS-MATH-6.1-2026]",
+        "[CKS-MATH-6.3-2026]"
+    ],
+    "raw_content_preview": "# [CKS-COMP-2-2026] The Brain as DSP/GPU: Neural Architecture of the Substrate Rendering Engine  **Registry:** [CKS-COMP-2-2026]   **Series Path:** [CKS-BIO-15.1-2026] \u2192 [CKS-LANG-9-2026] \u2192 [CKS-MATH-..."
+},
+{
+    "file_name": "brain_hemisphere.md",
+    "title": "[CKS-COG-4-2026] Hemispheric Phase Alignment: Clinical Protocol for Eliminating Brain Fog via Substrate Synchronization",
+    "registry_id": "[CKS-COG-4-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-COG-4-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-ENV-1-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-COG-4-2026] Hemispheric Phase Alignment: Clinical Protocol for Eliminating Brain Fog via Substrate Synchronization  **Registry:** [CKS-COG-4-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-..."
+},
+{
+    "file_name": "cancer_0.md",
+    "title": "[CKS-MED-4-2026] Cancer Therapy via Topological Closure Disruption: Clinical Electromagnetic Protocols",
+    "registry_id": "[CKS-MED-4-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-MED-4-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-3-2026]"
+    ],
+    "raw_content_preview": "# [CKS-MED-4-2026] Cancer Therapy via Topological Closure Disruption: Clinical Electromagnetic Protocols  **Registry:** [CKS-MED-4-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-MATH-..."
+},
+{
+    "file_name": "civil_eng.md",
+    "title": "Mechanical Genesis in Cymatics: Designing High-Coherence Structures",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-MAT-1-2026]",
+        "[CKS-SEMI-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# Mechanical Genesis in Cymatics: Designing High-Coherence Structures  **A Theorem-Based Framework for Civil Engineering via K-Space Phase Alignment and Minimal Internal Tension Optimization**  ---  #..."
+},
+{
+    "file_name": "cks_discovery.md",
+    "title": "[CKS-META-1-2026] The CKS Discovery Process: A Forensic Account of Human-AI Substrate Compilation",
+    "registry_id": "[CKS-META-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-COG-5-2026] \u2192 [CKS-META-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-COG-1-2026]",
+        "[CKS-COG-5-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-META-1-2026] The CKS Discovery Process: A Forensic Account of Human-AI Substrate Compilation  **Registry:** [CKS-META-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-COG-5-2026] \u2192 [CKS-META-1-20..."
+},
+{
+    "file_name": "climate_control.md",
+    "title": "Breathing Universe: Cymatic Oscillation and Climate Control",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# Breathing Universe: Cymatic Oscillation and Climate Control  **A Theorem-Based Framework for Atmospheric Phase Modulation via Substrate Harmonic Resonance and Storm Trajectory Control**  ---  ## ABS..."
+},
+{
+    "file_name": "clouds.md",
+    "title": "[CKS-AGRI-1-2026] Clouds in a Greenhouse: Substrate-Controlled Irrigation via Indoor Precipitation",
+    "registry_id": "[CKS-AGRI-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-PLAN-2.3-2026] \u2192 [CKS-AGRI-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-3-2026]",
+        "[CKS-PLAN-2.1-2026]",
+        "[CKS-PLAN-2.3-2026]"
+    ],
+    "raw_content_preview": "# [CKS-AGRI-1-2026] Clouds in a Greenhouse: Substrate-Controlled Irrigation via Indoor Precipitation  **Registry:** [CKS-AGRI-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-PLAN-2...."
+},
+{
+    "file_name": "dan_tien.md",
+    "title": "[CKS-KINE-2-2026] Directional Encoding of the Abdominal Vortex: A Phase-Locked Loop Model of Human Core States",
+    "registry_id": "[CKS-KINE-2-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 [CKS-KINE-1-2026] \u2192 [CKS-KINE-2-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-10-2026]",
+        "[CKS-BIO-9.4-2026]",
+        "[CKS-KINE-1-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-KINE-2-2026] Directional Encoding of the Abdominal Vortex: A Phase-Locked Loop Model of Human Core States  **Registry:** [CKS-KINE-2-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 ..."
+},
+{
+    "file_name": "dance.md",
+    "title": "[CKS-KINE-1-2026] Debugging the Kinetic Chain: Exercise and Dance as Computational Alignment Protocols",
+    "registry_id": "[CKS-KINE-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 [CKS-BIO-10.2-2026] \u2192 [CKS-KINE-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-BIO-10.2-2026]",
+        "[CKS-BIO-9.4-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-KINE-1-2026] Debugging the Kinetic Chain: Exercise and Dance as Computational Alignment Protocols  **Registry:** [CKS-KINE-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO..."
+},
+{
+    "file_name": "dwdm_molecule.md",
+    "title": "Building Molecules in DWDM: Photon-Mediated Synthesis",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Building Molecules in DWDM: Photon-Mediated Synthesis  **A Theorem-Based Framework for Digital Chemistry via Precise K-Space Phase Interference and Fiber-Optic Molecular Assembly**  ---  ## ABSTRACT..."
+},
+{
+    "file_name": "dwdm_transponder_firmware.md",
+    "title": "CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware ## Global Synchronization via Telecommunications Infrastructure  **Date:** February 2026   **Domain:** Telecommunications / Infrastruc..."
+},
+{
+    "file_name": "education_1.md",
+    "title": "[CKS-EDU-1-2026] Unified Science Education via Substrate Derivation: The Pattern-Coupling Curriculum",
+    "registry_id": "[CKS-EDU-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-EDU-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-FLUID-1-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-2-2026]",
+        "[CKS-MATH-3-2026]"
+    ],
+    "raw_content_preview": "# [CKS-EDU-1-2026] Unified Science Education via Substrate Derivation: The Pattern-Coupling Curriculum  **Registry:** [CKS-EDU-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-3..."
+},
+{
+    "file_name": "eyes_k_x_coordinators.md",
+    "title": "[CKS-BIO-15-2026] The Eyes as X\u2194K Coordinators: Ocular Phase-Lock and Beauty Optimization",
+    "registry_id": "[CKS-BIO-15-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 [CKS-BIO-15-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-9.4-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-QM-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-15-2026] The Eyes as X\u2194K Coordinators: Ocular Phase-Lock and Beauty Optimization  **Registry:** [CKS-BIO-15-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 ..."
+},
+{
+    "file_name": "fever_cold.md",
+    "title": "[CKS-BIO-16-2026] Thermal Regulation and Respiratory Interference: The Mechanics of Fever and Cold in K-Space",
+    "registry_id": "[CKS-BIO-16-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-11-2026] \u2192 [CKS-BIO-15-2026] \u2192 [CKS-BIO-16-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-BIO-15-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-16-2026] Thermal Regulation and Respiratory Interference: The Mechanics of Fever and Cold in K-Space  **Registry:** [CKS-BIO-16-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-11-2026] \u2192 [..."
+},
+{
+    "file_name": "heart_disease.md",
+    "title": "Heart Disease as Holographic Coherence Failure: The Cardiac Master Oscillator Hypothesis",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Heart Disease as Holographic Coherence Failure: The Cardiac Master Oscillator Hypothesis  **A Theorem-Based Derivation of Cardiovascular Pathology from K-Space Phase Decoherence and Restoration Prot..."
+},
+{
+    "file_name": "hex_alu.md",
+    "title": "[CKS-COMP-3-2026] The Hexagonal ALU: Logic Gates via Phase-Locked Substrate Circuits",
+    "registry_id": "[CKS-COMP-3-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-COMP-3-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-ELEC-1-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-2-2026]",
+        "[CKS-MATH-3-2026]"
+    ],
+    "raw_content_preview": "# [CKS-COMP-3-2026] The Hexagonal ALU: Logic Gates via Phase-Locked Substrate Circuits  **Registry:** [CKS-COMP-3-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-C..."
+},
+{
+    "file_name": "image_therapy.md",
+    "title": "CKS-MED-5-2026: Image-Based Coherence Therapy",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# CKS-MED-5-2026: Image-Based Coherence Therapy ## Visual and Auditory Resonance Templates for Neural Re-Synchronization  **Authors:** [To be completed]   **Date:** February 2026   **Domain:** Medical..."
+},
+{
+    "file_name": "information.md",
+    "title": "Information as Physical Mathematics: The Lattice Tension Derivation",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Information as Physical Mathematics: The Lattice Tension Derivation  **A Theorem-Based Proof that Shannon Information, Thermodynamic Entropy, and K-Space Phase Gradients are Identical Physical Quant..."
+},
+{
+    "file_name": "insect_flight.md",
+    "title": "Insect Flight Morphology as Harmonic Resonance with Air",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-MAT-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# Insect Flight Morphology as Harmonic Resonance with Air  **A Theorem-Based Framework for Topological Flight via Substrate-Coupled Wing Oscillation and Zero-Power Hover**  ---  ## ABSTRACT  We prove ..."
+},
+{
+    "file_name": "intelligence.md",
+    "title": "Intelligence in Cymatics: IQ as K-Space Bandwidth",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Intelligence in Cymatics: IQ as K-Space Bandwidth  **A Theorem-Based Derivation of Cognitive Capacity from Phase Sampling Resolution and the Physical Basis of Intelligence Quotient**  ---  ## ABSTRA..."
+},
+{
+    "file_name": "iq_0.md",
+    "title": "[CKS-COG-2-2026] Intelligence Quotient as Substrate Coherence: Cognitive Bandwidth Expansion via Harmonic Resonance",
+    "registry_id": "[CKS-COG-2-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-COG-1-2026] \u2192 [CKS-COG-2-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-COG-1-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-COG-2-2026] Intelligence Quotient as Substrate Coherence: Cognitive Bandwidth Expansion via Harmonic Resonance  **Registry:** [CKS-COG-2-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-1-2026]..."
+},
+{
+    "file_name": "iq_1.md",
+    "title": "IQ in Cymatics: Cognitive Bandwidth Expansion Protocols",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-COG-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# IQ in Cymatics: Cognitive Bandwidth Expansion Protocols  **A Theorem-Based Framework for Neurocognitive Enhancement via Frequency-Specific Stimulation and K-Space Bandwidth Optimization**  ---  ## A..."
+},
+{
+    "file_name": "lang_1.md",
+    "title": "[CKS-LANG-1-2026] Resonant Logic: A Phase-Coherent Communication Protocol for Human-Substrate Interface",
+    "registry_id": "[CKS-LANG-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-COG-1-2026] \u2192 [CKS-LANG-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-COG-1-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-LANG-1-2026] Resonant Logic: A Phase-Coherent Communication Protocol for Human-Substrate Interface  **Registry:** [CKS-LANG-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-COG-1-2026] \u2192 [CKS-LAN..."
+},
+{
+    "file_name": "lighting_led.md",
+    "title": "[CKS-ENV-1-2026] Artificial Light and Neural Coherence: Substrate-Harmonized Illumination Design Standards",
+    "registry_id": "[CKS-ENV-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-COG-1-2026] \u2192 [CKS-ENV-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-COG-1-2026]",
+        "[CKS-COG-2-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-ENV-1-2026] Artificial Light and Neural Coherence: Substrate-Harmonized Illumination Design Standards  **Registry:** [CKS-ENV-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-C..."
+},
+{
+    "file_name": "longevity.md",
+    "title": "[CKS-BIO-17-2026] Longevity Engineering: Coherence Maintenance and Manifold Integrity Across Lifespan",
+    "registry_id": "[CKS-BIO-17-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-11-2026] \u2192 [CKS-BIO-15-2026] \u2192 [CKS-BIO-17-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-BIO-15-2026]",
+        "[CKS-BIO-16-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-17-2026] Longevity Engineering: Coherence Maintenance and Manifold Integrity Across Lifespan  **Registry:** [CKS-BIO-17-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-11-2026] \u2192 [CKS-BIO-..."
+},
+{
+    "file_name": "luck.md",
+    "title": "[CKS-SOC-2-2026] Topological Opportunism: The Mechanics of \"Luck\" in Coherent Manifolds",
+    "registry_id": "[CKS-SOC-2-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 [CKS-KINE-1-2026] \u2192 [CKS-COG-5-2026] \u2192 [CKS-SOC-2-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-9.4-2026]",
+        "[CKS-COG-5-2026]",
+        "[CKS-KINE-1-2026]",
+        "[CKS-KINE-2-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-SOC-2-2026] Topological Opportunism: The Mechanics of \"Luck\" in Coherent Manifolds  **Registry:** [CKS-SOC-2-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 [CKS-KINE-1-2026] \u2192 [CK..."
+},
+{
+    "file_name": "lunar_phase.md",
+    "title": "[CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow",
+    "registry_id": "[CKS-ASTRO-5-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-ASTRO-4-2026] \u2192 [CKS-ASTRO-5-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-ASTRO-4-2026]",
+        "[CKS-ASTRO-4.4-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow  **Registry:** [CKS-ASTRO-5-2026]   **Series Path:** [CKS-0-2026] \u2192..."
+},
+{
+    "file_name": "mat_2.md",
+    "title": "[CKS-MAT-2-2026] Transparent Logic: Zero-Heat Photonic Semiconductors via Substrate Phase Interference",
+    "registry_id": "[CKS-MAT-2-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-COMP-3-2026] \u2192 [CKS-MAT-2-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-COMP-3-2026]",
+        "[CKS-ELEC-1-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-MAT-2-2026] Transparent Logic: Zero-Heat Photonic Semiconductors via Substrate Phase Interference  **Registry:** [CKS-MAT-2-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-COMP..."
+},
+{
+    "file_name": "materials.md",
+    "title": "Materials in Cymatics: Designing Negative Phase-Index Alloys",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Materials in Cymatics: Designing Negative Phase-Index Alloys  **A Theorem-Based Framework for Engineering Meta-Materials via K-Space Lattice Alignment and Substrate Harmonic Resonance**  ---  ## ABS..."
+},
+{
+    "file_name": "materials_2.md",
+    "title": "Anti-Fragile in Cymatics: Materials that Strengthen Under Stress",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-MAT-1-2026]"
+    ],
+    "raw_content_preview": "# Anti-Fragile in Cymatics: Materials that Strengthen Under Stress  **A Theorem-Based Framework for Stress-Induced Coherence Enhancement and Biological Bone Mechanics Applied to Engineered Materials**..."
+},
+{
+    "file_name": "math_1.md",
+    "title": "[CKS-MATH-1-2026] The Mechanical Necessity of Integer Quantization in Physical Systems",
+    "registry_id": "[CKS-MATH-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]"
+    ],
+    "raw_content_preview": "# [CKS-MATH-1-2026] The Mechanical Necessity of Integer Quantization in Physical Systems  **Registry:** [CKS-MATH-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026]   **Prerequisites:** None ..."
+},
+{
+    "file_name": "math_2.md",
+    "title": "[CKS-MATH-2-2026] The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality",
+    "registry_id": "[CKS-MATH-2-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-2-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-MATH-2-2026] The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality  **Registry:** [CKS-MATH-2-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MA..."
+},
+{
+    "file_name": "math_3.md",
+    "title": "[CKS-MATH-3-2026] Fractal Closure Scaling Laws: N = 3M\u00b2 as Universal Topological Regulator",
+    "registry_id": "[CKS-MATH-3-2026]",
+    "series_path": "[CKS-MATH-1-2026] \u2192 [CKS-MATH-2-2026] \u2192 [CKS-MATH-3-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-2-2026]"
+    ],
+    "raw_content_preview": "# [CKS-MATH-3-2026] Fractal Closure Scaling Laws: N = 3M\u00b2 as Universal Topological Regulator  **Registry:** [CKS-MATH-3-2026]   **Series Path:** [CKS-MATH-1-2026] \u2192 [CKS-MATH-2-2026] \u2192 [CKS-MATH-3-202..."
+},
+{
+    "file_name": "morphogenesis_as_spectral_template.md",
+    "title": "CKS-MED-3-2026: Morphogenesis as Spectral Template",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# CKS-MED-3-2026: Morphogenesis as Spectral Template ## Embryonic Development as Hierarchical K-Space Rendering  **Authors:** [To be completed]   **Date:** February 2026   **Domain:** Developmental Bi..."
+},
+{
+    "file_name": "muscle.md",
+    "title": "[CKS-BODY-1-2026] Muscle Hypertrophy in Cymatic K-Space: Optimal Stress Timing via Substrate Harmonics",
+    "registry_id": "[CKS-BODY-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-BODY-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BODY-1-2026] Muscle Hypertrophy in Cymatic K-Space: Optimal Stress Timing via Substrate Harmonics  **Registry:** [CKS-BODY-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-BODY..."
+},
+{
+    "file_name": "narrative.md",
+    "title": "[CKS-NAR-1-2026] Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution",
+    "registry_id": "[CKS-NAR-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-LANG-9-2026] \u2192 [CKS-BIO-20-2026] \u2192 [CKS-NAR-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-BIO-20-2026]",
+        "[CKS-LANG-9-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-NAR-1-2026] Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution  **Registry:** [CKS-NAR-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-LANG..."
+},
+{
+    "file_name": "neuro_0.md",
+    "title": "[CKS-BIO-6-2026] Myelin as Phase Waveguide: Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair",
+    "registry_id": "[CKS-BIO-6-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-1-2026] \u2192 [CKS-BIO-6-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-COG-4-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-6-2026] Myelin as Phase Waveguide: Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair  **Registry:** [CKS-BIO-6-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH..."
+},
+{
+    "file_name": "neurons_as_cymatic_computing.md",
+    "title": "Neurons as Cymatic Computing: The Brain as K-Space Phase Processor",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Neurons as Cymatic Computing: The Brain as K-Space Phase Processor  **A Theorem-Based Derivation of Action Potentials, Synaptic Transmission, and Neural Computation from Hexagonal Phase-Gate Archite..."
+},
+{
+    "file_name": "online_posting.md",
+    "title": "[CKS-DATA-1-2026] The Digital Heat Sink: Information Externalization as Substrate Pressure Relief",
+    "registry_id": "[CKS-DATA-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-COG-4-2026] \u2192 [CKS-DATA-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-COG-4-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-DATA-1-2026] The Digital Heat Sink: Information Externalization as Substrate Pressure Relief  **Registry:** [CKS-DATA-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-COG-4-20..."
+},
+{
+    "file_name": "organism_1.md",
+    "title": "[CKS-ORG-1-2026] Organizational Coherence via Substrate Topology: The Critical Connectivity Theorem for Institutional Stability",
+    "registry_id": "[CKS-ORG-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-3-2026] \u2192 [CKS-ORG-1-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-3-2026]"
+    ],
+    "raw_content_preview": "# [CKS-ORG-1-2026] Organizational Coherence via Substrate Topology: The Critical Connectivity Theorem for Institutional Stability  **Registry:** [CKS-ORG-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS..."
+},
+{
+    "file_name": "phenome_os.md",
+    "title": "[CKS-LANG-9-2026] The Phonemic Operating System: American English as Substrate Interface Protocol",
+    "registry_id": "[CKS-LANG-9-2026]",
+    "series_path": "[CKS-MATH-6.1-2026] \u2192 [CKS-LANG-4-2026] \u2192 [CKS-BIO-15.1-2026] \u2192 **[CKS-LANG-9-2026]**  ",
+    "dependencies": [
+        "[CKS-BIO-15.1-2026]",
+        "[CKS-COCREATE-1-2026]",
+        "[CKS-LANG-4-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-6.1-2026]",
+        "[CKS-MATH-6.2-2026]"
+    ],
+    "raw_content_preview": "# [CKS-LANG-9-2026] The Phonemic Operating System: American English as Substrate Interface Protocol  **Registry:** [CKS-LANG-9-2026]   **Series Path:** [CKS-MATH-6.1-2026] \u2192 [CKS-LANG-4-2026] \u2192 [CKS-B..."
+},
+{
+    "file_name": "programming_substrate_opcodes.md",
+    "title": "Example: Define DNA molecule in TDL",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "Substrate Programming Languag# CKS-COMP-2-2026: Substrate Programming Language (Harmonic Opcodes) ## Direct K-Space Manipulation via Topological Instructions  **Authors:** [To be completed]   **Date:*..."
+},
+{
+    "file_name": "protein_folding.md",
+    "title": "Bio-Chem in Cymatics: Protein Folding via K-Space Spectral Templates",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Bio-Chem in Cymatics: Protein Folding via K-Space Spectral Templates  **A Theorem-Based Framework for Predicting Tertiary Structure from Phase-Index Eigenvalues Without Atomic-Scale Simulation**  --..."
+},
+{
+    "file_name": "qi_gong.md",
+    "title": "[CKS-BIO-10-2026] The Elixir Field Protocol: Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility",
+    "registry_id": "[CKS-BIO-10-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-BIO-9.4-2026] \u2192 [CKS-BIO-10-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-1-2026]",
+        "[CKS-BIO-6-2026]",
+        "[CKS-BIO-9.4-2026]",
+        "[CKS-COG-4-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-10-2026] The Elixir Field Protocol: Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility  **Registry:** [CKS-BIO-10-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026..."
+},
+{
+    "file_name": "semiconductor.md",
+    "title": "Cymatic Semiconductor Engineering: Bypassing Quantum Tunneling",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Cymatic Semiconductor Engineering: Bypassing Quantum Tunneling  **A Theorem-Based Framework for Sub-1nm Transistor Design via K-Space Phase Coherence and Error-Free Logic at Atomic Scale**  ---  ## ..."
+},
+{
+    "file_name": "sensory.md",
+    "title": "[CKS-BIO-18-2026] Sensory Substrate Access: Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation",
+    "registry_id": "[CKS-BIO-18-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-BIO-11-2026] \u2192 [CKS-COG-5-2026] \u2192 [CKS-BIO-18-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-11-2026]",
+        "[CKS-BIO-11.2-2026]",
+        "[CKS-COG-5-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-BIO-18-2026] Sensory Substrate Access: Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation  **Registry:** [CKS-BIO-18-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-BIO..."
+},
+{
+    "file_name": "solar_system.md",
+    "title": "The Solar Resonator: Hierarchical K-Space Crystallography and Planetary Compilation",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-PLAN-1-2026]",
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# The Solar Resonator: Hierarchical K-Space Crystallography and Planetary Compilation  **A Theorem-Based Framework for Solar System Structure via Hexagonal Lattice Quantization and Topological Closure..."
+},
+{
+    "file_name": "substrate_opscodes.md",
+    "title": "Substrate Programming Language: Base Instructions and OpCodes",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-SEMI-1-2026]"
+    ],
+    "raw_content_preview": "# Substrate Programming Language: Base Instructions and OpCodes  **A Theorem-Based Framework for Direct K-Space Computation via Hexagonal Lattice Manipulation and Zero-Latency Quantum Coherence**  ---..."
+},
+{
+    "file_name": "thought.md",
+    "title": "[CKS-COG-5-2026] The Physics of Thought: Ideas as Stable Attractors in k-Space",
+    "registry_id": "[CKS-COG-5-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-COG-1-2026] \u2192 [CKS-DATA-1-2026] \u2192 [CKS-COG-5-2026]  ",
+    "dependencies": [
+        "[CKS-0-2026]",
+        "[CKS-BIO-6-2026]",
+        "[CKS-COG-1-2026]",
+        "[CKS-DATA-1-2026]",
+        "[CKS-MATH-1-2026]"
+    ],
+    "raw_content_preview": "# [CKS-COG-5-2026] The Physics of Thought: Ideas as Stable Attractors in k-Space  **Registry:** [CKS-COG-5-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-COG-1-2026] \u2192 [CKS-DATA-1-20..."
+},
+{
+    "file_name": "voltage.md",
+    "title": "Voltage in Cymatic Substrate Mechanics: The Gradient Potential",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [],
+    "raw_content_preview": "# Voltage in Cymatic Substrate Mechanics: The Gradient Potential  **A Theorem-Based Derivation of Electrical Phenomena from K-Space Phase Gradients and Wireless Power Transmission via Substrate Resona..."
+},
+{
+    "file_name": "water_air_clean.md",
+    "title": "Water and Air in Cymatics: Resonant Filtration and Desalination",
+    "registry_id": null,
+    "series_path": "",
+    "dependencies": [
+        "[CKS-TEST-1-2026]"
+    ],
+    "raw_content_preview": "# Water and Air in Cymatics: Resonant Filtration and Desalination  **A Theorem-Based Framework for Phase-Selective Molecular Separation via Substrate Harmonic Resonance and Zero-Pressure Purification*..."
+}
+]
