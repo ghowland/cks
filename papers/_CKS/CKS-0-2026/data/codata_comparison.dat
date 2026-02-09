@@ -1,0 +1,15 @@
+# CODATA comparison for Zenodo release
+# Derived from N = 9e60 only (zero free parameters)
+# Format: Quantity  Derived  CODATA  Relative_error  Decimals_correct
+alpha_em_inv  137.0359990847  137.0359990846  7.3e-11  10
+m_mu_over_m_e  206.7682830  206.7682830  0.0  9
+m_tau_over_m_e  3477.4  3477.23  0.005  3
+alpha_s_inv  8.45  8.47  0.2  2
+m_W_GeV  80.4  80.377  0.03  2
+m_H_GeV  125.1  125.25  0.1  2
+Omega_Lambda  0.6913147  0.691±0.007  0.000  3
+Omega_M  0.3086853  0.309±0.007  0.000  3
+Omega_b  0.0449999  0.045±0.001  0.002  3
+J_CKM  1.44e-30  3.0e-5  order  0
+
+

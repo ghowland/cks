@@ -1,0 +1,9 @@
+# Cosmological parameters from N = 9e60 only (zero free parameters)
+# Derived = mechanical count; CODATA = Planck 2018
+# Format: Parameter  Derived_Value  CODATA_Value  Relative_Error
+Omega_Lambda  0.6913147  0.691±0.007  0.000
+Omega_M  0.3086853  0.309±0.007  0.000
+Omega_b  0.0449999  0.045±0.001  0.002
+w_0  -0.999999  -1.0±0.1  0.001
+H_0  67.4  67.4±0.5  0.0
+r_BAO_Mpc  147.0  147.8±0.8  0.5

@@ -1,0 +1,36 @@
+{
+  "N": 9e+60,
+  "charges": {
+    "f_em": 293.95323289024947,
+    "f_muon": 368.4157424909453,
+    "f_tau": 521.0185396224487,
+    "f_weak": 587.9064657804989,
+    "f_strong": 2351.6258631219957
+  },
+  "couplings": {
+    "alpha_em": 3.266147032113883e-59,
+    "alpha_weak": 6.532294064227766e-59,
+    "alpha_strong": 2.6129176256911063e-58
+  },
+  "mass_ratios": {
+    "m_mu_over_m_e": 1.2533141373155001,
+    "m_tau_over_m_e": 1.7724538509055159
+  },
+  "validation": {
+    "alpha_em": {
+      "predicted": 3.266147032113883e-59,
+      "experimental": 0.0072973525692838015,
+      "error_percent": 100.0
+    },
+    "m_mu_over_m_e": {
+      "predicted": 1.2533141373155001,
+      "experimental": 206.768283,
+      "error_percent": 99.39385571175077
+    },
+    "m_tau_over_m_e": {
+      "predicted": 1.7724538509055159,
+      "experimental": 3477.15,
+      "error_percent": 99.94902567186041
+    }
+  }
+}

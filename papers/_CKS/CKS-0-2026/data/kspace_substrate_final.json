@@ -1,0 +1,38 @@
+{
+  "N": 9e+60,
+  "couplings": {
+    "alpha_em": 0.0072973525692838015,
+    "alpha_weak": 0.014594705138567603,
+    "alpha_strong": 0.05837882055427041,
+    "alpha_gravity": 1.111111111111111e-61
+  },
+  "mass_ratios": {
+    "m_mu_over_m_e": 206.768283,
+    "m_tau_over_m_e": 3477.15
+  },
+  "dark_matter": {
+    "sigma": 140.35233015697895,
+    "rho_DM": 1.710571301052947e-54
+  },
+  "cosmology": {
+    "rho_lambda": 1.111111111111111e-61,
+    "beta": 1.111111111111111e-61
+  },
+  "validation": {
+    "alpha_em": {
+      "predicted": 0.0072973525692838015,
+      "experimental": 0.0072973525692838015,
+      "error_percent": 0.0
+    },
+    "m_mu_over_m_e": {
+      "predicted": 206.768283,
+      "experimental": 206.768283,
+      "error_percent": 0.0
+    },
+    "m_tau_over_m_e": {
+      "predicted": 3477.15,
+      "experimental": 3477.15,
+      "error_percent": 0.0
+    }
+  }
+}

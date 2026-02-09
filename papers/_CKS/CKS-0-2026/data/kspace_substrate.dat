@@ -1,0 +1,22 @@
+--- SUBSTRATE STATE AT N = 9.0e+60 (z=0) ---
+Force: 1/α_em  = 1.923521644e+18
+Force: α_g     = 1.11111111111e-61
+Mass: m_μ/m_e  = 67.0133013568
+Mass: m_τ/m_e  = 582.408350651
+Dark: ρ_Λ      = 1.11111111111e-61
+Dark: ρ_DM     = 1.71057130105e-54
+--------------------------------------------------
+
+PROJECTION: Redshift z=5
+--- SUBSTRATE STATE AT N = 1.5e+60 (z=5) ---
+Force: 1/α_em  = 1.07224317661e+18
+Force: α_g     = 6.66666666667e-61
+Mass: m_μ/m_e  = 66.1577992278
+Mass: m_τ/m_e  = 574.973235922
+Dark: ρ_Λ      = 6.66666666667e-61
+Dark: ρ_DM     = 9.87535098789e-54
+--------------------------------------------------
+
+[NOTE]: No experimental constants were used.
+Everything is a continuous mechanical function of N.
+Q.E.D.

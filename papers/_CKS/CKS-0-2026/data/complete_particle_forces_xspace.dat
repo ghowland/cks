@@ -1,0 +1,12 @@
+# Particle/Boson  Mass_GeV  Charge  Coupling_Inv  Description
+Electron  0.000511  -1.000  137.035999  lepton
+Muon  0.105658  -1.000  137.035999  lepton
+Tau  1.776860  -1.000  137.035999  lepton
+Photon  0.000000  0.000  137.035999  photon
+Gluon  0.330000  0.000  8.450000  gluon
+W  80.400000  -1.000  29.300000  weak boson
+Z  91.200000  0.000  29.300000  weak boson
+Higgs  125.100000  0.000  29.300000  scalar boson
+Up_Quark  0.002300  0.667  8.450000  quark
+Down_Quark  0.004800  -0.333  8.450000  quark
+Neutrino_1  0.000000  0.000  137.035999  neutrino

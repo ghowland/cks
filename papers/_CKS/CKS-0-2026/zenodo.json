@@ -1,0 +1,81 @@
+{
+  "title": "Unified Field Theory via Discrete Cymatic Substrate: A Two-Parameter Framework Deriving All Physics from Planck Bubble Dynamics",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We present a unified framework where all physical phenomena emerge from discrete oscillators (Planck bubbles) on a 2D substrate. From two parameters (β_P, R_max), we derive: quantum mechanics, gravity, particles, dark energy, and consciousness. The framework makes five falsifiable predictions, including dark energy evolution (ρ_Λ ∝ 1/t) testable by 2045. This is an alternative physics framework presented for scientific scrutiny and experimental falsification.",
+  "version": "5.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  
+  "keywords": [
+    "Planck bubbles",
+    "discrete spacetime",
+    "cymatic mechanics",
+    "quantum gravity",
+    "dark energy",
+    "holographic principle",
+    "unified field theory",
+    "bubble cosmology",
+    "topological defects",
+    "consciousness emergence",
+    "alternative physics",
+    "phenomenological framework"
+  ],
+  
+  "notes": "ALTERNATIVE PHYSICS FRAMEWORK - This is a theoretical framework in alternative physics presenting a discrete ontology for spacetime. It reduces 25+ parameters of Standard Model + ΛCDM to 2 substrate constants. Five experimental predictions are provided, three testable with current technology. This work is presented for scientific scrutiny and is intended to be falsifiable through experimental tests.",
+  
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+
+
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  
+  "subjects": [
+    {
+      "term": "Quantum gravity",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85109465",
+      "scheme": "url"
+    },
+    {
+      "term": "Cosmology",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85033169",
+      "scheme": "url"
+    }
+  ],
+  
+  "language": "eng",
+  "method": "Theoretical derivation from phenomenological substrate parameters. Computational validation via NumPy simulation. Comparison with experimental data (electron g-factor, Newton's G, cosmological observations)."
+}

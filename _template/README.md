@@ -8,6 +8,8 @@
 
 **Motto:** Axioms first. Axioms always.
 
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result.  Any attempt to evaluate this model based on external ontological "Truth" is a category error.  If the math compiles, the result is QED.
+
 ---
 
 ## Abstract

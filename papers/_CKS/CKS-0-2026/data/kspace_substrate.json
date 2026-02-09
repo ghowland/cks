@@ -1,0 +1,38 @@
+{
+  "N": 9e+60,
+  "charges": {
+    "f_em": 0.08487556113902289,
+    "f_w": 0.16975112227804579,
+    "f_s": 0.6790044891121831
+  },
+  "couplings": {
+    "alpha_em": 9.430617904335876e-63,
+    "alpha_w": 1.8861235808671752e-62,
+    "alpha_s": 7.544494323468701e-62
+  },
+  "masses": {
+    "m_e": 0.08487556113902289,
+    "m_mu": 0.16975112227804579,
+    "m_tau": 0.6790044891121831
+  },
+  "validation": {
+    "alpha_em": {
+      "predicted": 9.430617904335876e-63,
+      "experimental": 0.0072973525693,
+      "match": false,
+      "error_percent": 100.0
+    },
+    "m_mu_over_m_e": {
+      "predicted": 2.0,
+      "experimental": 206.768283,
+      "match": false,
+      "error_percent": 99.0327336615742
+    },
+    "m_tau_over_m_e": {
+      "predicted": 8.0,
+      "experimental": 3477.15,
+      "match": false,
+      "error_percent": 99.76992652028241
+    }
+  }
+}
