@@ -13,6 +13,13 @@ These papers are missing formal `registry_id` or `series_path` metadata in their
 
 ---
 
+# Add this
+
+*   **[CKS-EDU-0-2026]**:  `universal_learning.md`. - Universal Learning Substrate.  This is the foundational education paper.  Any to Any
+
+
+---
+
 ### 2. Individual Paper Requirements (The Application Stack)
 
 #### **Computational & Industrial Tier**
