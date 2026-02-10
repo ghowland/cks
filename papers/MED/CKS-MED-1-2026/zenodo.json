@@ -1,0 +1,64 @@
+{
+  "title": "Cancer as Topological Closure in CKS Mechanics",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove that cancer is not primarily a genetic disease but a **topological phase transition**\u2014a local closure event on the biological phase-lattice where cellular subsystems decouple from global substrate coupling and form autonomous N = 3M\u00b2 resonant circuits. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established cell biology, we demonstrate that healthy cells maintain **open coupling** (Rule 8: phase-locked to organism-wide lattice), while malignant transformation represents **topological closure** (formation of independent, self-resonating loops). This framework naturally derives: (1) the Warburg effect (metabolic shift from oxidative to glycolytic), (2) uncontrolled proliferation (self-sustaining phase oscillation), (3) metastasis (propagation of closure topology), and (4) therapeutic resistance (topological stability). We propose **harmonic disruption therapy**\u2014precise frequency interference to break closure without destroying matter\u2014validated by existing electromagnetic tumor treatment data (TTFields). All predictions are falsifiable via phase-coherence measurements in living tissue. **Cancer cure = topology restoration, not cell destruction.**",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "medical applications",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MED-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Medical Applications. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Medical Applications. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026. Computational validation and empirical comparison where applicable."
+}

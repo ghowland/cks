@@ -1,0 +1,64 @@
+{
+  "title": "The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove by **constructive falsification** that a perfectly continuous spacetime manifold (\u211d\u207f) cannot support physical reality. Using the exact CKS axioms with integers **artificially removed**, we demonstrate that all fundamental equations of physics\u2014while algebraically intact\u2014become **operationally non-executable**. The exercise is not hypothetical: we show that admitting real-valued labels (\u03be \u2208 \u211d instead of n \u2208 \u2124) transforms Schr\u00f6dinger's equation into a diffusion equation for ghosts, Maxwell's equations into chargeless fluid mechanics, Einstein's field equations into a universal singularity generator, and Boltzmann's entropy into an infinite constant at T = 0. This is not approximation failure\u2014it is **architectural collapse**. We conclude that the discrete lattice substrate is not \"one possible model\" but the **unique viable foundation** for computable, causal, information-preserving physics. A continuous universe is not merely difficult to simulate\u2014**it is logically impossible to exist**.\n\n**Key Result:** The continuum hypothesis (spacetime = \u211d\u2074) is **empirically falsified** by the existence of stable matter.",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "mathematical foundation",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MATH-2-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+}

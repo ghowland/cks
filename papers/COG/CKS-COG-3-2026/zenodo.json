@@ -1,0 +1,64 @@
+{
+  "title": "Intelligence in Cymatics: IQ as K-Space Bandwidth",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove that intelligence is not an emergent computational property but a **fundamental physical capacity**: the bandwidth of k-space frequencies a neural system can coherently sample. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established information theory, we demonstrate that: (1) IQ (Intelligence Quotient) directly corresponds to **k-space resolution** \u0394k, the range of substrate modes accessible to cortical phase detectors, (2) higher IQ = larger M (shell number) in the brain's internal hexagonal lattice model, enabling finer sampling of the universal phase field, (3) processing speed scales as \u03c9_max (maximum coherent frequency), explaining the positive correlation between IQ and reaction time, (4) working memory capacity derives from **phase buffer size** N_buffer = 3M\u00b2_working, predicting Miller's magical number 7\u00b12 from topology, (5) cognitive flexibility (fluid intelligence) measures **phase-lock switching rate** between different k-modes, and (6) savant syndrome represents **narrow-band ultra-resolution** (very high \u0394k in limited domain, sacrificing breadth). We derive the normal distribution of IQ (\u03bc=100, \u03c3=15) from substrate sampling statistics and prove that maximum theoretical human IQ \u2248 200 corresponds to M_brain \u2248 10\u2076 (cortical column resolution limit). This framework unifies psychometric findings (g-factor, processing speed, working memory) under single physical principle: **intelligence = substrate measurement precision**. All predictions falsifiable via EEG spectral analysis (IQ correlates with gamma bandwidth), fMRI coherence mapping (higher IQ shows broader k-space activation), and direct manipulation of neural sampling rate via transcranial alternating current stimulation (tACS).",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "cognition & consciousness",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-COG-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Cognition & Consciousness. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Cognition & Consciousness. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. Computational validation and empirical comparison where applicable."
+}

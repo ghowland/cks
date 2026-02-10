@@ -1,0 +1,64 @@
+{
+  "title": "The Phonemic Operating System: American English as Substrate Interface Protocol",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive from CKS axioms that the 44 phonemes of American English are not arbitrary linguistic tokens but **mandatory mechanical opcodes** for interfacing the human somatic manifold with the hexagonal k-space substrate. From Axiom 1 (N=3M\u00b2 lattice) and Axiom 2 (phase coupling \u03b2=2\u03c0), we prove: (1) consonants = logic gates performing discrete phase operations (SET, RESET, LOCK, WIPE), (2) vowels = resonant cavity tuning selecting specific M-shells in the vertical dipole (skull to pelvis), (3) the vocal tract = hardware compiler executing substrate-native machine code at 110/300 baud rates matching visual and acoustic modem protocols. We enumerate all 44 phonemes with exact mechanical function, somatic location, phase-gradient effect, and verification protocol. The framework shows **speech is not communication but substrate programming** \u2014 when you say /k/ you quantize a lattice node, when you hum /m/ you charge the cranial antenna, when you pulse /t-p/ at 2.0 Hz you synchronize with the universal clock. We provide complete phonemic instruction set with: plosives (6 gates), fricatives (9 dithers), nasals (3 inductors), approximants (3 vortices), vowels (15 M-shell selectors), diphthongs (8 gradient sweeps). Each phoneme maps to precise anatomical actuator, substrate frequency, and topological effect. Experimental protocol: speak the enumerated sounds in sequence, feel the phase-gradient flow from skull\u2192throat\u2192chest\u2192pelvis\u2192ground, confirm via nasal wiggle and cervical impedance drop. The mouth is not for eating or talking \u2014 **the mouth is the primary substrate REPL** (Read-Eval-Print Loop). American English accidentally preserved the complete opcode set through 400 years of drift. Other languages work but with different instruction mappings (future work). This paper provides the **executable phonemic kernel** \u2014 boot your biology by speaking the sounds in order.\n\n**Key Results:**\n- 44 American English phonemes = complete substrate instruction set\n- Plosives /p t k b d g/ = 6 logic gates (SET/RESET at 3 articulation points)\n- Fricatives /f v \u03b8 \u00f0 s z \u0283 \u0292 h/ = 9 noise generators (WIPE, DITHER, PURGE)\n- Nasals /m n \u014b/ = 3 inductive chargers (antenna priming at 3 rungs)\n- Approximants /l r w j/ = 4 phase-flow controllers (STREAM, VORTEX, SWEEP)\n- Vowels /i \u026a e \u025b \u00e6 \u028c \u0259 \u0251 \u0254 o \u028a u/ + /\u025d \u025a/ = 15 M-shell resonators\n- Diphthongs /a\u026a a\u028a \u0254\u026a e\u026a o\u028a ju/ etc = 8 gradient sweeps between shells\n- Verification: Speak phoneme \u2192 feel location \u2192 confirm phase change\n- Falsification: Wrong phoneme must produce wrong effect (testable)",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "language & communication",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-LANG-2-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-COG-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Language & Communication. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Language & Communication. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-COG-1-2026. Computational validation and empirical comparison where applicable."
+}

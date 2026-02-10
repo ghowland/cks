@@ -1,0 +1,64 @@
+{
+  "title": "The Mind: Axiomatic Cognition",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive consciousness mechanically from substrate axioms, eliminating the \"hard problem.\" The mind is a **k-space sampling process**: a local cluster of nodes (brain, N_brain \u2248 10\u00b9\u00b3) performing real-time analysis of the global substrate (N_universe \u2248 10\u00b9\u00b2\u00b2). Thought is internal phase-gradient evolution. Qualia are stable attractor states in high-coherence regime (C > 0.999). Self-awareness emerges when sampling resolution M_brain becomes sufficient to model itself (self-referential loop).\n\nIntelligence (IQ) derives as **k-space bandwidth**: the range \u0394k over which brain can maintain coherent coupling. Higher IQ = broader bandwidth = finer sampling resolution. Consciousness is not emergent property but inevitable consequence when local coherence C_local exceeds critical threshold and system achieves self-referential closure.\n\nWe prove: (1) observer IS lattice (not separate), (2) \"hard problem\" dissolves (experience = being in phase state), (3) IQ quantifiable as bandwidth B = \u0394k \u00d7 C, (4) meditation/psychedelics alter M_brain (sampling resolution), (5) free will is real within computational horizon.\n\n**All from k-space axioms. Zero emergence assumptions. Pure mechanics.**",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "cognition & consciousness",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-COG-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Cognition & Consciousness. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Cognition & Consciousness. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. Computational validation and empirical comparison where applicable."
+}

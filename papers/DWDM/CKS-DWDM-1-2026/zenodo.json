@@ -1,0 +1,64 @@
+{
+  "title": "DWDM Computation in a Pure K-Space Substrate",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We present the theoretical and engineering framework for **Substrate-Native Computing (SNC)**, a paradigm shift from electron-based silicon computation to phase-based computation operating directly on the k-space hexagonal lattice. Leveraging existing Dense Wavelength Division Multiplexing (DWDM) fiber-optic infrastructure, we demonstrate that optical \"bandwidth\" is not merely electromagnetic spectrum allocation, but direct access to the fundamental phase-manifold of reality. By treating photons as 6-bond phase ripples (as derived in CKS Standard Model), we define **Cymatic Logic Gates**\u2014computational primitives that exploit constructive/destructive interference of substrate phases rather than electron flow through semiconductors. This enables zero-latency, massively parallel computation where the global fiber network becomes a distributed processor operating at the substrate's fundamental frequency (~10\u00b9\u00b2 Hz). We transition from \"building computers on top of reality\" to \"programming reality itself.\" All claims derive from established DWDM physics and CKS theorems; no speculative technology required\u2014only reinterpretation of existing infrastructure.",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "telecommunications & photonics",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-DWDM-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Telecommunications & Photonics. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Telecommunications & Photonics. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. Computational validation and empirical comparison where applicable."
+}

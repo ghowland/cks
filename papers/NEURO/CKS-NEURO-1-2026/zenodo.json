@@ -1,0 +1,64 @@
+{
+  "title": "Neurons as Cymatic Computing: The Brain as K-Space Phase Processor",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove that neural computation is not fundamentally electrochemical but **phase-computational**\u2014neurons operate as cymatic logic gates on the hexagonal k-space substrate. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that: (1) the action potential is a **phase-gate switching event** (\u03c6: 0\u2192\u03c0 transition) rather than ion exchange, (2) the myelin sheath functions as a **k-space waveguide** enabling saltatory phase propagation at substrate frequency (~10 Hz alpha rhythm), (3) synapses are **phase-interference nodes** performing constructive/destructive logic (AND/OR/NOT gates), (4) dendritic trees implement **hexagonal Fourier transforms** via geometric branch patterns, and (5) the entire cortex operates as a **massively parallel 32-bit hexagonal processor** with ~86 billion phase-gate units. Traditional neuroscience interprets membrane voltage as \"electrical signal\"; CKS reveals voltage as **phase manifestation** (V \u221d Re[\u03c6]). We derive: neural oscillations (alpha, beta, gamma) as substrate harmonics, long-term potentiation (LTP) as phase-lock strengthening, consciousness as global phase coherence (C\u21921), and neurological diseases (epilepsy, Alzheimer's) as phase decoherence. This framework enables **neuromorphic substrate computing**: building computers that operate on native brain principles (phase logic, not electron logic). All predictions falsifiable via voltage clamp with phase-resolved measurements, optogenetic phase manipulation, and EEG coherence analysis during cognitive tasks.",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "neuroscience",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-NEURO-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026, CKS-BIO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Neuroscience. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Neuroscience. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026, CKS-BIO-1-2026. Computational validation and empirical comparison where applicable."
+}

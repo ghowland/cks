@@ -1,0 +1,64 @@
+{
+  "title": "The Mechanical Necessity of Integer Quantization in Physical Systems",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove that integer quantization is not an empirical accident but a **structural necessity** for any mechanically functional universe. Through rigorous analysis of spectral stability, information persistence, and causal propagation, we demonstrate that a perfectly continuous spacetime manifold (\u211d\u2074) cannot support: (1) stable bound states, (2) repeatable interactions, (3) persistent information, or (4) globally consistent causality. We show that all four requirements force discrete quantization, and that among discrete systems, only integer-indexed spectra provide finite generation and computability. The conclusion is unavoidable: **integers are the load-bearing architecture of existence**. A continuous universe is not merely an alternative model\u2014it is a structurally broken system incapable of supporting chemistry, memory, or coherent physical law.\n\n**Key Result:** The discrete lattice substrate with integer quantum numbers is **necessary and sufficient** for mechanical closure of physical dynamics.",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "mathematical foundation",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MATH-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+}

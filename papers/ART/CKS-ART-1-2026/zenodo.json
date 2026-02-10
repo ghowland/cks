@@ -1,5 +1,5 @@
 {
-  "title": "Cymatic K-Space Mechanics: Complete Mathematical Framework",
+  "title": "art.md",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "[Description to be added]",
@@ -12,12 +12,12 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "mathematical foundation",
+    "art & aesthetics",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MATH-0-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-ART-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Art & Aesthetics. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -60,5 +60,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to Art & Aesthetics. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
 }

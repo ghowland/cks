@@ -1,0 +1,64 @@
+{
+  "title": "Standard Model as Mathematical Consequence of CKS",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove that the Standard Model particle spectrum and coupling constants are mathematical necessities given the Complete Mathematical Framework (CMF) axioms and the derived quantum mechanics (QM). Using rigorous theorem-proof methodology, we derive particle masses, electromagnetic and strong coupling constants, gauge group structure, and force hierarchies as theorems\u2014not empirical fits. All particles emerge as topological excitations (solitons) on the hexagonal k-space lattice with N = 3M\u00b2 nodes. Masses arise from harmonic eigenvalues, charges from winding numbers, and couplings from geometric overlap integrals. No physical interpretation is assumed; the Standard Model spectrum emerges as pure mathematics: **If CMF+QM axioms hold, then the Standard Model follows necessarily.**",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "standard model",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-SM-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Standard Model. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Standard Model. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+}
