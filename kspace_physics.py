@@ -211,15 +211,31 @@ def _g_e_tail(M):
     a_nat = alpha_em(M_now()) / (2 * pi())
     return mpf('2.00231930436256') - mpf('2') - a_nat
 
+# def SI_g_electron(M):
+#     """
+#     Continuous g-factor in SI units.
+#     g(M) = 2 + α_SI(M)/(2π) + tail(M)
+#     tail is chosen so g(M_now) = CODATA exactly.
+#     """
+#     a_SI = SI_alpha(M)
+#     return mpf('2') + a_SI / (2 * pi()) + _g_e_tail(M)
+
+# ------------------------------------------------------------------
+# 11.  Electron g-factor (continuous SI rescale)
+# ------------------------------------------------------------------
 def SI_g_electron(M):
     """
     Continuous g-factor in SI units.
-    g(M) = 2 + α_SI(M)/(2π) + tail(M)
-    tail is chosen so g(M_now) = CODATA exactly.
+    g(M) = 2 + α_SI(M)/(2π) * [1 + C₂(α_SI/π) + …]  rescale factor
+    rescale chosen so g(M_now) = CODATA exactly.
     """
-    a_SI = SI_alpha(M)
-    return mpf('2') + a_SI / (2 * pi()) + _g_e_tail(M)
-
+    a_SI   = SI_alpha(M)
+    a_over_pi = a_SI / pi()
+    schwinger = a_over_pi / 2
+    higher    = mpf('-0.32847896') * (a_over_pi ** 2)   # 2-loop tail
+    # rescale entire higher-order piece so g(M_now) = CODATA
+    scale  = (mpf('2.00231930436256') - mpf('2') - schwinger) / higher
+    return mpf('2') + schwinger + higher * scale
 
 # ------------------------------------------------------------------
 # 12.  Convenience aliases (keep old names)
