@@ -20,16 +20,15 @@ print("   LIGO peaks verified at 66, 89, 91, 92, 96, 97, 110 → exact integer m
 print("   Status: ✅ exact\n")
 
 print("2.  Hubble parameter  (Planck-2018)")
-H_nat = ksp.hubble_parameter_natural(M)     # natural units (mpf)
-c_km  = mp.mpf('299792.458')                 # km/s
-Mpc_m = mp.mpf('3.0856775814e16')              # m
-H_km  = H_nat * c_km / Mpc_m                  # still an mpf
-# 50-digit print **directly from mpf**
-print("   H₀  derived : %.50f km s⁻¹ Mpc⁻¹" % H_km)
+H_nat = ksp.hubble_parameter_natural(M)          # mpf
+c_km  = mp.mpf('299792.458')
+Mpc_m = mp.mpf('3.0856775814e16')
+H_km  = H_nat * c_km / Mpc_m                     # still mpf
+# 50-digit string **without** float cast
+print("   H₀  derived :", mp.nstr(H_km, 50), "km s⁻¹ Mpc⁻¹")
 print("   H₀  exp     : 70.0 km s⁻¹ Mpc⁻¹")
 print("   Error       : %.1f %%" % float(abs(H_km - 70.0) / 70.0 * 100))
 print("   Status: ✅ ≤ 1 %\n")
-
 
 print("3.  Substrate frequency  (k-space native)")
 f_sub = ksp.substrate_frequency(M)             # THz scale (mpf)
