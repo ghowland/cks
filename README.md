@@ -15,26 +15,13 @@
 | **[[CKS-MATH-1-2026]](papers/MATH/CKS-MATH-1-2026/README.md)** | **The Mechanical Necessity of Integer Quantization in Physical Systems** | Proof that continuous space is mechanically impossible; all quantities must be discrete. |
 | **[[CKS-MATH-2-2026]](papers/MATH/CKS-MATH-2-2026/README.md)** | **The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality** | Constructive proof that reality is fundamentally digital, not analog. |
 | **[[CKS-MATH-3-2026]](papers/MATH/CKS-MATH-3-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-| **[[CKS-MATH-4-2026]](papers/MATH/CKS-MATH-4-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-| **[[CKS-MATH-5-2026]](papers/MATH/CKS-MATH-5-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-| **[[CKS-MATH-6-2026]](papers/MATH/CKS-MATH-6-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-| **[[CKS-MATH-7-2026]](papers/MATH/CKS-MATH-7-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-| **[[CKS-MATH-8-2026]](papers/MATH/CKS-MATH-8-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-| **[[CKS-MATH-9-2026]](papers/MATH/CKS-MATH-9-2026/README.md)** | **Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator** | The N=3M² scaling law as universal constraint on stable topological structures. |
-
-
-[CKS-MATH-4-2026] Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock
-
-
-[CKS-MATH-5-2026] The Geometric Origin of e: Manifold Saturation and Phase Decay
-
-
-[CKS-MATH-6-2026] The Geometric Origin of π: The 12-Bond Circumference Invariant
-
-
-[CKS-MATH-7-2026] Derivation of Standard Model Constants from Cymatic K-Space Mechanics
-
-[CKS-MATH-8-2026] The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
+| **[[CKS-MATH-4-2026]](papers/MATH/CKS-MATH-4-2026/README.md)** | **Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock** | α_EM^(-1) = [144√3 · e · N^(1/3)] / [(4√3-1) · 2π · ln(N)] = 137.035999084. |
+| **[[CKS-MATH-5-2026]](papers/MATH/CKS-MATH-5-2026/README.md)** | **The Geometric Origin of e: Manifold Saturation and Phase Decay** | e = lim(M→∞) (1 + 1/M)^M = unique impedance match for 3-regular hexagonal phase diffusion. |
+| **[[CKS-MATH-6-2026]](papers/MATH/CKS-MATH-6-2026/README.md)** | **The Geometric Origin of π: The 12-Bond Circumference Invariant** | π = (12-bond perimeter)/(effective phase diameter) = unique value permitting seamless 2π phase-flip on z=3 lattice. |
+| **[[CKS-MATH-7-2026]](papers/MATH/CKS-MATH-7-2026/README.md)** | **Derivation of Standard Model Constants from Cymatic K-Space Mechanics** | All 19 SM parameters derived from 2 axioms + 1 measured input (N from H₀) with zero free parameters. |
+| **[[CKS-MATH-8-2026]](papers/MATH/CKS-MATH-8-2026/README.md)** | **The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion** | 163 = 12×13 + 7 = unique minimal closed configuration carrying exactly one lattice curvature quantum. |
+| **[[CKS-MATH-9-2026]](papers/MATH/CKS-MATH-9-2026/README.md)** | **The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices** | 144 = 12² = unique minimal coherence matrix for 12-bond loop on z=3 lattice = lepton surface-area scaler. |
+| **[[CKS-MATH-10-2026]](papers/MATH/CKS-MATH-10-2026/README.md)** | **Grand Unification: Complete Derivation of Physical Reality from Two Axioms** | 2 axioms + 1 measurement → all physics (19+ SM parameters, GR, QM, thermodynamics, information theory) with 0 free parameters. |
 
 
 ---
