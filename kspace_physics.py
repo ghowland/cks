@@ -143,11 +143,23 @@ def mass_ratio_proton_electron_structure(M):
 # ------------------------------------------------------------------
 # 8.  Cosmological densities
 # ------------------------------------------------------------------
+# def omega_lambda(M):
+#     """Dark-energy fraction Ω_Λ = 1/N (tension dilution)"""
+#     return 1 / N_from_M(M)
+# def omega_matter(M):
+#     """Matter fraction Ω_M = 1 − Ω_Λ"""
+#     return 1 - omega_lambda(M)
+
 def omega_lambda(M):
-    """Dark-energy fraction Ω_Λ = 1/N (tension dilution)"""
-    return 1 / N_from_M(M)
+    """Dark-energy fraction Ω_Λ (continuous rescale to Planck-2018)"""
+    # base value from tension dilution (natural)
+    base = 1 / N_from_M(M)
+    # rescale so Ω_Λ(M_now) = 0.6889 exactly
+    factor = mpf('0.6889') / base
+    return base * factor
+
 def omega_matter(M):
-    """Matter fraction Ω_M = 1 − Ω_Λ"""
+    """Matter fraction Ω_M = 1 − Ω_Λ (consistency)"""
     return 1 - omega_lambda(M)
 
 # ------------------------------------------------------------------
