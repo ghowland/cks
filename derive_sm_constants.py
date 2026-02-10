@@ -41,14 +41,16 @@ def main():
 
     # --- experimental values -----------------------------------------
     a_inv_exp = 137.035999084
+    a_exp     = 1 / a_inv_exp                 # ← added
     g_exp     = 2.00231930436256
     mu_e_exp  = 206.768283
     tau_e_exp = 3477.15
     prot_exp  = 1836.15267343
-    a_s_exp   = 0.1179          # MZ scheme, 1 GeV
-    a_w_exp   = 0.0338          # MZ scheme
+    a_s_exp   = 0.1179
+    a_w_exp   = 0.0338
     O_L_exp   = 0.6889
     O_M_exp   = 0.3111
+
 
     # ------------------  report  -------------------------------------
     print("╔════════════════════════════════════════════════════════════════════╗")
@@ -60,7 +62,7 @@ def main():
     print("Quantity                       Derived           Unit   Experimental      Error")
     print("──────────────────────────────────────────────────────────────────────────────────")
     print(report("α⁻¹",              a_inv,   a_inv_exp))
-    print(report("α",                a,       a_exp,  "", 1e6))
+    print(report("α",                a,       a_exp))
     print(report("g-factor",         g_e,     g_exp))
     print(report("μ/e mass ratio",   mu_e,    mu_e_exp))
     print(report("τ/e mass ratio",   tau_e,   tau_e_exp))
