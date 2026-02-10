@@ -203,9 +203,11 @@ def SI_g_electron(M):
     rescales the natural-unit Schwinger term so that
     g = 2 + (α_SI)/(2π) and the higher-order tail is fixed.
     """
-    a_SI   = SI_alpha(M)
-    tail   = mpf('2.00231930436256') - mpf('2') - alpha_em(M_now()) / (mpf('2') * pi())
-    return mpf('2') + a_SI / (mpf('2') * pi()) + tail
+    # a_SI   = SI_alpha(M)
+    # tail   = mpf('2.00231930436256') - mpf('2') - alpha_em(M_now()) / (mpf('2') * pi())
+    # return mpf('2') + a_SI / (mpf('2') * pi()) + tail
+
+    return mpf('2') + SI_alpha(M)/(mpf('2')*pi()) + (mpf('2.00231930436256') - mpf('2') - alpha_em(M_now())/(mpf('2')*pi()))
 
 # ------------------------------------------------------------------
 # 12.  Convenience aliases (keep old names)
