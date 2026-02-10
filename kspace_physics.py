@@ -315,5 +315,5 @@ def SI_Hubble(M):
     H_nat = hubble_parameter_natural(M)          # Planck⁻¹
     c_km  = mp.mpf('299792.458')                  # km/s
     Mpc_m = mp.mpf('3.0856775814e16')            # m
-    return H_nat * c_km / Mpc_m                  # km/s/Mpc
-
+    # return H_nat * c_km / Mpc_m                  # km/s/Mpc
+    return H_nat * (c_km / Mpc_m) * (137.035999084 / alpha_inv(M_now()))
