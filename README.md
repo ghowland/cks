@@ -25,6 +25,9 @@
 | **[[CKS-MATH-11-2026]](papers/MATH/CKS-MATH-11-2026/README.md)** | **The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge** | J = (8π/3)√(144e/2πln N) ≈ 7.70164 = unique holographic scaling factor forced by hexagonal topology. |
 | **[[CKS-MATH-12-2026]](papers/MATH/CKS-MATH-12-2026/README.md)** | **The Cosmic Bit-Flip: Deriving Baryon Asymmetry from Topological Boot Sequence** | η = 1/(J·ln N) ≈ 9.2×10⁻¹⁰ from boot sequence topology alone (observed: 6.1×10⁻¹⁰). |
 | **[[CKS-MATH-13-2026]](papers/MATH/CKS-MATH-13-2026/README.md)** | **The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics** | 1.000 s = t_P × √N × K × 32 × 144 × √3 × 10⁹ × (1-α) (all terms derived, zero adjustable parameters). |
+| **[[CKS-MATH-14-2026]](papers/MATH/CKS-MATH-14-2026/README.md)** | **The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection** | λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry). |
+| **[[CKS-MATH-15-2026]](papers/MATH/CKS-MATH-15-2026/README.md)** | **Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism** | Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved). |
+
 
 
 ---
