@@ -316,3 +316,15 @@ def SI_Hubble(M):
     # rescale factor fixed at current epoch
     scale = mpf('70.0') / hubble_parameter_natural(M_now())
     return H_nat * scale
+
+# ------------------------------------------------------------------
+# 14. Coherence Function (MATH-3)
+# ------------------------------------------------------------------
+def coherence(M):
+    """
+    Coherence C(M) = 1 - 1/(2M√3)
+    Calculates the alignment coefficient of a manifold with shell index M.
+    """
+    # M is input, √3 from hexagonal geometry
+    return mpf('1') - (mpf('1') / (2 * M * sqrt(3)))
+
