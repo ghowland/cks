@@ -12,9 +12,10 @@ mp.dps = 15   # 15 digits is plenty for comparison
 
 
 def report(name, derived, exp, unit="", scale=1e0):
-    """Pretty line with relative error"""
-    err = abs(derived - exp) / exp * scale        # ppm or %
-    return f"{name:30s} {nstr(derived, 12):16s} {unit:3s}  {nstr(exp, 12):16s}  {err:8.2f} ppm"
+    """Pretty line with relative error – safe for mpf"""
+    err = abs(float(derived - exp)) / float(exp) * scale
+    return (f"{name:30s} {nstr(derived, 12):16s} {unit:3s}  "
+            f"{nstr(exp, 12):16s}  {err:8.2f} ppm")
 
 
 def main():
@@ -78,4 +79,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
