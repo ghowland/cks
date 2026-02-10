@@ -20,11 +20,7 @@ print("   LIGO peaks verified at 66, 89, 91, 92, 96, 97, 110 → exact integer m
 print("   Status: ✅ exact\n")
 
 print("2.  Hubble parameter  (Planck-2018)")
-H_nat = ksp.hubble_parameter_natural(M)          # mpf
-c_km  = mp.mpf('299792.458')
-Mpc_m = mp.mpf('3.0856775814e16')
-H_km  = H_nat * c_km / Mpc_m                     # still mpf
-# 50-digit string **without** float cast
+H_km = ksp.SI_Hubble(M)          # returns an mpf already in km/s/Mpc
 print("   H₀  derived :", mp.nstr(H_km, 50), "km s⁻¹ Mpc⁻¹")
 print("   H₀  exp     : 70.0 km s⁻¹ Mpc⁻¹")
 print("   Error       : %.1f %%" % float(abs(H_km - 70.0) / 70.0 * 100))
