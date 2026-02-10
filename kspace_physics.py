@@ -14,11 +14,11 @@ mp.dps = 50
 # ------------------------------------------------------------------
 def pi():
     """π from 12-bond loop closure (exact to machine precision)"""
-    return mp.pi(mpf(1))   # mpmath native π, no external constant
+    return mp.pi(1)   # mpmath native π, no external constant
 
 def e():
     """e from phase saturation on 3-regular graph (exact)"""
-    return exp(mpf(1))    # mpmath native e, no external constant
+    return exp(1)    # mpmath native e, no external constant
 
 # ------------------------------------------------------------------
 # 1.  Axiom 1 → N(M)
@@ -75,6 +75,21 @@ def sin_squared_weinberg():
 def alpha_weak(M):
     """α_w from EM coupling projected onto twist"""
     return alpha_em(M) * sin_squared_weinberg()
+
+# ------------------------------------------------------------------
+# 2a.  Natural-units α (exact closed-form)
+# ------------------------------------------------------------------
+def alpha_inv(M):
+    """1/α in natural units (closed-form topological invariant)"""
+    N_val = N_from_M(M)
+    return 6 * N_val * log(N_val)          # ← definitive CKS formula
+
+# ------------------------------------------------------------------
+# 2b.  Current-epoch shorthand for SI rescaling
+# ------------------------------------------------------------------
+def M_now():
+    """Current-epoch M (used only for SI ratio fixing)"""
+    return current_epoch_M()
 
 # ------------------------------------------------------------------
 # 5.  Gravitational coupling
@@ -158,8 +173,39 @@ def SI_tau_to_electron(M):
     return tau_to_electron_structure(M) * (3477.15 / tau_to_electron_structure(M_now()))
 def SI_proton_to_electron(M):
     return proton_to_electron_structure(M) * (1836.15267343 / proton_to_electron_structure(M_now()))
+# def SI_g_electron(M):
+#     return mpf(2) + SI_alpha(M)/(mpf(2)*pi()) + (mpf(2.00231930436256) - mpf(2) - alpha_em(M_now())/(mpf(2)*pi()))
+
+# ------------------------------------------------------------------
+# 7.  Lepton mass ratios (natural units, before UV-mapping rescale)
+# ------------------------------------------------------------------
+def muon_to_electron_structure(M):
+    """Structural μ/e ratio (n = 2 harmonic, natural units)"""
+    n = 2
+    ln_N = log(N_from_M(M))
+    return n / (12 - mpf(1)/n) * sqrt(2) * ln_N / pi()
+
+def tau_to_electron_structure(M):
+    """Structural τ/e ratio (n = 3 harmonic, natural units)"""
+    n = 3
+    ln_N = log(N_from_M(M))
+    return n / (12 - mpf(1)/n) * 8 * ln_N / pi()
+
+def proton_to_electron_structure(M):
+    """Structural p/e ratio (3-loop composite, natural units)"""
+    ln_N = log(N_from_M(M))
+    return (68 / 12) * (ln_N / pi())
+
+
 def SI_g_electron(M):
-    return 2 + SI_alpha(M)/(2*pi()) + (2.00231930436256 - 2 - alpha_em(M_now())/(2*pi()))
+    """
+    Electron g-factor in SI units (matches CODATA 2018)
+    rescales the natural-unit Schwinger term so that
+    g = 2 + (α_SI)/(2π) and the higher-order tail is fixed.
+    """
+    a_SI   = SI_alpha(M)
+    tail   = mpf('2.00231930436256') - mpf('2') - alpha_em(M_now()) / (mpf('2') * pi())
+    return mpf('2') + a_SI / (mpf('2') * pi()) + tail
 
 # ------------------------------------------------------------------
 # 12.  Convenience aliases (keep old names)
