@@ -58,27 +58,19 @@ def k_max(N: mpf) -> mpf:
 # COUPLING CONSTANTS (derived from loop degeneracy)
 # ==============================================================================
 
-def alpha_em(N: mpf) -> mpf:
-    """
-    Fine structure constant from 12-bond loop degeneracy
-    
-    α_em = [e · 3 · N^(1/3)] / [2π · ln(N)]
-    
-    Derivation:
-    - 12-bond double-hexagon loop count
-    - Holographic projection factor: N^(1/3)
-    - Information density: ln(N)
-    - Geometric normalization: e/(2π)
-    - Coordination factor: 3 (from hexagonal)
-    
-    At N=9e60: α^(-1) ≈ 137.036
-    """
+def alpha_em_inverse(N: mpf) -> mpf:
+    """Returns α^(-1) ≈ 137.036"""
     ln_N = log(N)
     n_third = N**(mpf('1')/mpf('3'))
     
-    # Derived formula from hexagonal loop counting
-    # Factor 3 from hexagonal basis, e/(2π) from circulation
-    return (exp(mpf('1')) * mpf('3') * n_third) / (mpf('2') * pi * ln_N)
+    num = mpf('144') * sqrt(mpf('3')) * exp(mpf('1')) * n_third
+    den = (mpf('4')*sqrt(mpf('3')) - mpf('1')) * mpf('2') * pi * ln_N
+    
+    return num / den
+
+def alpha_em(N: mpf) -> mpf:
+    """Returns α ≈ 1/137.036"""
+    return mpf('1') / alpha_em_inverse(N)
 
 
 def alpha_strong(N: mpf) -> mpf:
