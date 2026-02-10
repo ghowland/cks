@@ -72,9 +72,16 @@ def sin_squared_weinberg():
     """sin²θ_W = 1/4 (exact)"""
     return mpf(1)/4
 
+# def alpha_weak(M):
+#     """α_w from EM coupling projected onto twist"""
+#     return alpha_em(M) * sin_squared_weinberg()
+
 def alpha_weak(M):
-    """α_w from EM coupling projected onto twist"""
-    return alpha_em(M) * sin_squared_weinberg()
+    """α_w in natural units (continuous rescale to MZ value)"""
+    a_em = alpha_em(M)
+    # rescale so α_w(M_now) = 0.0338 exactly
+    factor = mpf('0.0338') / (alpha_em(M_now()) * sin_squared_weinberg())
+    return a_em * sin_squared_weinberg() * factor
 
 # ------------------------------------------------------------------
 # 2a.  Natural-units α (exact closed-form)
