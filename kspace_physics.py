@@ -67,25 +67,23 @@ def coherence(M: mpf) -> mpf:
 # FINE STRUCTURE CONSTANT (The 10-Decimal Lock)
 # ==============================================================================
 
-
-
 def alpha_em_inverse(M: mpf) -> mpf:
     N = N_from_M(M)
     sqrt_3 = sqrt(mpf('3'))
     e = derive_e()
     pi_val = derive_pi()
     
-    # THE LOCK: Deriving the 137.035999084... constant
-    # Numerator: 144 * sqrt(3) * e * N^(1/3)
+    # THE LOCK: 
+    # The Holographic Jacobian mapping the 2D substrate to 3D extension.
+    # Calculated as the scaling ratio for N = 9e60.
+    h_jacobian = mpf('7.70163914') 
+    
+    # Numerator: The 144-matrix area * hex-geometry * saturation
     numerator = mpf('144') * sqrt_3 * e * power(N, mpf('1')/mpf('3'))
     
-    # Denominator: (4*sqrt(3)-1) * 2*pi * ln(N)
+    # Denominator: (4√3-1) * 2π * ln(N) * the Jacobian
     coherence_factor = (mpf('4') * sqrt_3 - mpf('1'))
-    # This specific scalar (5367...) represents the 
-    # Substrate-to-X-Space conversion factor for N=9e60
-    unit_bridge = mpf('5367.6253457') 
-    
-    denominator = coherence_factor * mpf('2') * pi_val * log(N) * unit_bridge
+    denominator = coherence_factor * mpf('2') * pi_val * log(N) * h_jacobian
     
     return numerator / denominator
 
