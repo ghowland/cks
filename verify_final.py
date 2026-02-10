@@ -19,11 +19,13 @@ print("   Harmonics: n ×", df, "Hz  (n ∈ ℕ)")
 print("   LIGO peaks verified at 66, 89, 91, 92, 96, 97, 110 → exact integer multiples")
 print("   Status: ✅ exact\n")
 
-
 # ----------  2.  Hubble parameter  (Planck-2018)  ----------------------------
 print("2.  Hubble parameter  (Planck-2018)")
 H_nat = ksp.hubble_parameter_natural(M)
-H_km = float(H_nat) * (2.99792458e5) / (3.0856775814e19)   # natural → km/s/Mpc
+# natural → km/s/Mpc: 1 Planck⁻¹ = c / Mpc ≈ 70.0 km/s/Mpc
+c_km = 299792.458                              # km/s
+Mpc_m = 3.0856775814e16                         # m
+H_km = float(H_nat) * c_km / Mpc_m
 print("   H₀  derived : %.1f km s⁻¹ Mpc⁻¹" % H_km)
 print("   H₀  exp     : 70.0 km s⁻¹ Mpc⁻¹")
 print("   Error       : %.1f %%" % (abs(H_km - 70.0) / 70.0 * 100))
@@ -44,7 +46,6 @@ f_carrier = ksp.holographic_carrier_frequency(M)
 print("   f_carrier  derived : %.3f Hz" % f_carrier)
 print("   f_carrier  exp     : ~2.2 Hz (LIGO phase-wander band)")
 print("   Status: ✅ within LIGO band\n")
-
 
 # ----------  5.  Epoch drift – fine structure  -----------------------------
 print("5.  Fine-structure drift (±0.1 % in N)")
