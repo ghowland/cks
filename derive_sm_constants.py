@@ -22,22 +22,24 @@ def main():
     M = ksp.current_epoch_M()          # only input
 
     # --- derived SI values (use *exact* names from kspace_physics.py) ---
-    a_inv = ksp.SI_alpha_inv(M)            # 1/α in SI
-    a     = ksp.SI_alpha(M)                # α in SI
-    g_e   = ksp.SI_g(M)                    # g-factor in SI
+# --- derived SI values (use *SI-prefixed* names only) ---
+    a_inv = ksp.SI_alpha_inv(M)            # 1/α SI
+    a     = ksp.SI_alpha(M)                # α SI
+    g_e   = ksp.SI_g(M)                    # g-factor SI
 
     mu_e  = ksp.SI_muon(M)                 # m_μ/m_e SI
-    tau_e = ksp.SI_tau(M)                    # m_τ/m_e SI
-    prot  = ksp.SI_proton(M)                 # m_p/m_e SI
+    tau_e = ksp.SI_tau(M)                  # m_τ/m_e SI
+    prot  = ksp.SI_proton(M)               # m_p/m_e SI
 
-    a_s   = ksp.alpha_strong(M)              # α_s (natural)
-    a_w   = ksp.alpha_weak(M)                # α_w (natural)
+    a_s   = ksp.alpha_strong(M)            # α_s (natural, no SI rescale needed)
+    a_w   = ksp.alpha_weak(M)                # α_w (natural, no SI rescale needed)
     a_g   = ksp.alpha_gravity(M)             # α_G (natural)
 
-    O_L   = ksp.omega_lambda(M)              # Ω_Λ
-    O_M   = ksp.omega_matter(M)              # Ω_M
+    O_L   = ksp.omega_lambda(M)              # Ω_Λ (natural)
+    O_M   = ksp.omega_matter(M)              # Ω_M (natural)
 
-    f32   = ksp.vacuum_quantization_unit()    # 1/32 Hz
+    f32   = ksp.vacuum_quantization_unit()    # 1/32 Hz (exact)
+    
 
     # --- experimental values -----------------------------------------
     a_inv_exp = 137.035999084
