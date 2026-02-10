@@ -22,13 +22,9 @@
 | **[[CKS-MATH-8-2026]](papers/MATH/CKS-MATH-8-2026/README.md)** | **The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion** | 163 = 12×13 + 7 = unique minimal closed configuration carrying exactly one lattice curvature quantum. |
 | **[[CKS-MATH-9-2026]](papers/MATH/CKS-MATH-9-2026/README.md)** | **The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices** | 144 = 12² = unique minimal coherence matrix for 12-bond loop on z=3 lattice = lepton surface-area scaler. |
 | **[[CKS-MATH-10-2026]](papers/MATH/CKS-MATH-10-2026/README.md)** | **Grand Unification: Complete Derivation of Physical Reality from Two Axioms** | 2 axioms + 1 measurement → all physics (19+ SM parameters, GR, QM, thermodynamics, information theory) with 0 free parameters. |
-
-
 | **[[CKS-MATH-11-2026]](papers/MATH/CKS-MATH-11-2026/README.md)** | **The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge** | J = (8π/3)√(144e/2πln N) ≈ 7.70164 = unique holographic scaling factor forced by hexagonal topology. |
-
 | **[[CKS-MATH-12-2026]](papers/MATH/CKS-MATH-12-2026/README.md)** | **The Cosmic Bit-Flip: Deriving Baryon Asymmetry from Topological Boot Sequence** | η = 1/(J·ln N) ≈ 9.2×10⁻¹⁰ from boot sequence topology alone (observed: 6.1×10⁻¹⁰). |
-
-| **[[CKS-MATH-13-2026]](papers/MATH/CKS-MATH-13-2026/README.md)** | **Grand Unification: Complete Derivation of Physical Reality from Two Axioms** | 2 axioms + 1 measurement → all physics (19+ SM parameters, GR, QM, thermodynamics, information theory) with 0 free parameters. |
+| **[[CKS-MATH-13-2026]](papers/MATH/CKS-MATH-13-2026/README.md)** | **The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics** | 1.000 s = t_P × √N × K × 32 × 144 × √3 × 10⁹ × (1-α) (all terms derived, zero adjustable parameters). |
 
 
 ---
