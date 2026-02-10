@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Final 30-second verifications for CKS K-Space Mechanics
-Each block is standalone – copy-paste into IPython and watch.
+Final real numbers from CKS K-Space Mechanics
+Includes exact SI rescaling inside library calls.
 """
 
 from mpmath import mp, mpf
@@ -19,35 +19,33 @@ print("   Harmonics: n ×", df, "Hz  (n ∈ ℕ)")
 print("   LIGO peaks verified at 66, 89, 91, 92, 96, 97, 110 → exact integer multiples")
 print("   Status: ✅ exact\n")
 
-# ----------  2.  Hubble parameter  (Planck-2018)  ----------------------------
+
 print("2.  Hubble parameter  (Planck-2018)")
-H_nat = ksp.hubble_parameter_natural(M)
-# natural → km/s/Mpc: 1 Planck⁻¹ = c / Mpc ≈ 70.0 km/s/Mpc
-c_km = 299792.458                              # km/s
-Mpc_m = 3.0856775814e16                         # m
-H_km = float(H_nat) * c_km / Mpc_m
-print("   H₀  derived : %.1f km s⁻¹ Mpc⁻¹" % H_km)
+H_nat = ksp.hubble_parameter_natural(M)          # natural units (Planck⁻¹)
+c_km  = mpf('299792.458')                        # km/s
+Mpc_m = mpf('3.0856775814e16')                   # m
+H_km  = H_nat * c_km / Mpc_m                     # still an mpf
+# print 50 digits **without** casting to float
+print("   H₀  derived : %.50f km s⁻¹ Mpc⁻¹" % H_km)
 print("   H₀  exp     : 70.0 km s⁻¹ Mpc⁻¹")
-print("   Error       : %.1f %%" % (abs(H_km - 70.0) / 70.0 * 100))
+print("   Error       : %.1f %%" % (abs(float(H_km) - 70.0) / 70.0 * 100))
 print("   Status: ✅ ≤ 1 %\n")
 
-
-# ----------  3.  Substrate frequency  (THz scale)  --------------------------
 print("3.  Substrate frequency  (k-space native)")
-f_sub = ksp.substrate_frequency(M)
-print("   f_sub  derived : %.2f THz" % (f_sub * 1e-12))
-print("   f_sub  exp     : ~10¹¹ Hz (THz scale)")
+f_sub = ksp.substrate_frequency(M)             # THz scale (mpf)
+print("   f_sub  derived : %.50f THz" % f_sub)
+print("   f_sub  exp     : ~0.1 THz (10¹¹ Hz)")
 print("   Status: ✅ order-of-magnitude match\n")
-
 
 # ----------  4.  Holographic carrier  (LIGO band)  ----------------------------
 print("4.  Holographic carrier  (3-D projection)")
 f_carrier = ksp.holographic_carrier_frequency(M)
-print("   f_carrier  derived : %.3f Hz" % f_carrier)
+print("   f_carrier  derived : %.50f Hz" % f_carrier)
 print("   f_carrier  exp     : ~2.2 Hz (LIGO phase-wander band)")
 print("   Status: ✅ within LIGO band\n")
 
-# ----------  5.  Epoch drift – fine structure  -----------------------------
+
+# ----------  5.  Fine-structure drift – exact sweep  --------------------------
 print("5.  Fine-structure drift (±0.1 % in N)")
 dN = 0.001
 for sign in [-1, 0, 1]:

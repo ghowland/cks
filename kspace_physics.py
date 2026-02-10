@@ -7,7 +7,8 @@ No external constants – π and e are derived from lattice closure.
 """
 
 from mpmath import mp, mpf, sqrt, log, exp, sin, power
-mp.dps = 50
+#mp.dps = 50
+mp.dps = 1000
 
 # ------------------------------------------------------------------
 # 0.  Lattice-derived mathematical constants (no imports)
@@ -165,12 +166,44 @@ def omega_matter(M):
 # ------------------------------------------------------------------
 # 9.  Frequencies
 # ------------------------------------------------------------------
+# def substrate_frequency(M):
+#     """Native k-space frequency (THz scale)"""
+#     return 1 / (sqrt(N_from_M(M)) * 2*pi()*sqrt(3))
+
+# def substrate_frequency(M):
+#     """Native k-space frequency (THz scale)"""
+#     N = N_from_M(M)
+#     # keep mpmath arithmetic until the final cast
+#     f_THz = mp.power(N, -mpf('0.5')) / (2 * pi() * sqrt(3))
+#     return f_THz * 1e12   # still a mpf
+
+# def substrate_frequency(M):
+#     """Native k-space frequency (THz scale)"""
+#     N = N_from_M(M)                       # still an mpf
+#     # do the multiply **before** the divide
+
+#     left = 1e12 * mp.power(N, -mpf('0.5'))
+
+#     right = (2 * mp.pi() * mp.sqrt(3))
+
+#     print('Left: %s' % left)
+#     print('Right: %s' % right)
+
+#     # return (1e12 * mp.power(N, -mpf('0.5'))) / (2 * mp.pi() * mp.sqrt(3))
+
+#     return left / right
+
 def substrate_frequency(M):
-    """Native k-space frequency (THz scale)"""
-    return 1 / (sqrt(N_from_M(M)) * 2*pi()*sqrt(3))
+    N = N_from_M(M)
+    f_THz = mpf('1e12') * mp.power(N, -mpf('0.5')) \
+            / (2 * mp.pi() * mp.sqrt(3))
+    return f_THz          # 1000-digit mpf
+
+
 def holographic_carrier_frequency(M):
     """Holographic 3-D carrier (≈ 2.2 Hz)"""
     return substrate_frequency(M) * log(N_from_M(M)) / N_from_M(M)**(mpf(1)/3)
+
 def vacuum_quantization_unit():
     """Vacuum step Δf = 1/32 Hz (exact)"""
     return mpf(1)/32
