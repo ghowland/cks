@@ -28,8 +28,6 @@
 | **[[CKS-MATH-14-2026]](papers/MATH/CKS-MATH-14-2026/README.md)** | **The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection** | λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry). |
 | **[[CKS-MATH-15-2026]](papers/MATH/CKS-MATH-15-2026/README.md)** | **Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism** | Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved). |
 
-## Is it true?  No, but the model is isomorphic to reality.
-
 
 ---
 
