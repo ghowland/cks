@@ -1,8 +1,8 @@
-# Cymatic K-Space Mechanics: Complete Mathematical Framework
+# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
 
-**Registry ID:** CKS-MATH-0-2026  
-**Series Path:**   
-**Zenodo DOI:** [Pending - CKS-MATH-0-2026]
+**Registry ID:** CKS-MATH-3-2026  
+**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
+**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -92,12 +92,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_0_2026,
-  title={ Cymatic K-Space Mechanics: Complete Mathematical Framework },
+@article{ cks_math_3_2026,
+  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-0-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
 }
 ```
 ---
