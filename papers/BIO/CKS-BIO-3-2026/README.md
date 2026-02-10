@@ -13,7 +13,13 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive embryonic development mechanically from k-space template unfolding, eliminating the need for morphogenetic fields, genetic programs, or positional information gradients. The embryo is a **growing N=3M² manifold** that progressively reveals a pre-existing k-space spectral template. Cells do not "create" form through complex signaling—they **migrate to occupy interference maxima** defined by substrate coherence topology.
+
+From axioms alone, we derive: (1) why development follows stereotyped sequences (template is pre-existing), (2) why mutations cause discrete phenotypes (quantized M-levels), (3) why regeneration works (template persists), (4) why identical twins are possible (same template instantiated twice), (5) scaling laws for development time (~M²), and (6) why some organisms regenerate perfectly while others cannot (coherence maintenance capacity).
+
+We prove that DNA does not "encode" body plan but rather serves as **phase-antenna** maintaining alignment between x-space matter and k-space template. Morphogenesis is **rendering process**: k-space pattern (software) → x-space organism (hardware). Pattern exists before matter fills it.
+
+**All from k-space substrate. No vitalism. Pure topology unfolding.**
 
 ---
 

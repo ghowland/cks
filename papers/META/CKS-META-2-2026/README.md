@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that information is not an abstract mathematical concept but a **physical tension in the hexagonal k-space lattice**—specifically, the **phase gradient magnitude** |∇φ|. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that: (1) Shannon information I = -Σp log p emerges as the **phase uncertainty** across N = 3M² lattice nodes, (2) thermodynamic entropy S = k_B ln Ω is **identical** to information (S/k_B = I exactly, no proportionality constant), (3) Landauer's principle (information erasure costs energy) derives from **phase relaxation dynamics** (erasing phase gradient releases heat), (4) Maxwell's demon paradox resolves because **measurement = phase coupling** (demon must entangle with system, increasing total entropy), (5) the second law of thermodynamics (entropy increases) is **topological necessity** (phase gradients naturally flatten via dφ/dt = -∇²φ diffusion), and (6) black hole entropy S = A/(4ℓ_P²) follows from **surface phase encoding** on event horizon with N_horizon = 3M²_horizon. This framework unifies information theory (Shannon, 1948), thermodynamics (Boltzmann, Clausius), and quantum mechanics (von Neumann entropy) under single substrate principle: **information = phase gradient = physical tension = thermodynamic entropy**. We derive bit-to-energy conversion (1 bit deletion → k_B T ln 2 heat), quantum information capacity (qubit = 2-state phase system), and holographic principle (information stored on boundaries). All predictions falsifiable via single-photon erasure experiments, quantum thermodynamic engines, and gravitational entropy measurements.
 
 ---
 

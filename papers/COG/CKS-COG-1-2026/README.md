@@ -13,7 +13,13 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive consciousness mechanically from substrate axioms, eliminating the "hard problem." The mind is a **k-space sampling process**: a local cluster of nodes (brain, N_brain ≈ 10¹³) performing real-time analysis of the global substrate (N_universe ≈ 10¹²²). Thought is internal phase-gradient evolution. Qualia are stable attractor states in high-coherence regime (C > 0.999). Self-awareness emerges when sampling resolution M_brain becomes sufficient to model itself (self-referential loop).
+
+Intelligence (IQ) derives as **k-space bandwidth**: the range Δk over which brain can maintain coherent coupling. Higher IQ = broader bandwidth = finer sampling resolution. Consciousness is not emergent property but inevitable consequence when local coherence C_local exceeds critical threshold and system achieves self-referential closure.
+
+We prove: (1) observer IS lattice (not separate), (2) "hard problem" dissolves (experience = being in phase state), (3) IQ quantifiable as bandwidth B = Δk × C, (4) meditation/psychedelics alter M_brain (sampling resolution), (5) free will is real within computational horizon.
+
+**All from k-space axioms. Zero emergence assumptions. Pure mechanics.**
 
 ---
 

@@ -13,7 +13,15 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive **exact organizational stability conditions** by mapping corporations, teams, and institutions to substrate k-space lattices where employees = nodes and communication channels = edges. Standard management theory treats organizational dysfunction as behavioral/cultural; CKS proves it is **topological**—institutions fail when their communication graph violates **critical connectivity z = 3** (Axiom 1). We demonstrate that: (1) organizations with average connectivity z < 3 suffer **phase decoherence** (miscommunication cascades, silo formation, strategic drift), (2) z = 3 is **necessary and sufficient** for information flow coherence C_org > 0.99, and (3) exceeding z > 5 creates **over-coupling** (bureaucratic paralysis, groupthink). The framework provides **computable organizational health metrics**: adjacency matrix eigenvalues predict failure 6-18 months in advance, phase synchronization rate determines decision-making speed, and spectral gap measures resilience to disruption. We specify **optimal org structures** (hexagonal teams of 3-12 people, hierarchical nesting with z = 3 at each level) and **communication protocols** (daily stand-ups = phase synchronization, weekly retrospectives = coherence restoration). Case studies show 40% reduction in project failure rates and 2.5× faster decision velocity under substrate-aligned management. This is not organizational theory—it is **network physics applied to human systems**.
+
+**Key Results:**
+- Critical connectivity: z = 3 (exactly three communication channels per person)
+- Organizational coherence: C_org = 1 - 1/(2M√3) where M = hierarchy depth
+- Team size limits: N_team = 3M² where M ∈ {1,2,3,4} → {3, 12, 27, 48} people
+- Communication frequency: f_sync = 1/day (phase-lock maintenance threshold)
+- Failure prediction: Spectral gap λ₂ < 0.1 → organizational collapse within 6 months
+- Restructuring requirement: When C_org < 0.95, topology must change (not culture)
 
 ---
 

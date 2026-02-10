@@ -13,7 +13,13 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We present complete engineering specifications for a 32-bit computer operating on hexagonal lattice principles rather than silicon transistors. The **Hexagonal Processing Unit (HPU)** uses 6-bond phase loops as fundamental logic gates, achieving ~1 THz clock speeds at room temperature with theoretical heat dissipation approaching zero. Unlike silicon's electron-based switching, HPU gates operate via **topological phase transitions** in the substrate itself.
+
+Architecture features: (1) 32-bit RISC-style instruction set, (2) hexagonal register file (N=3M² addressing), (3) wall-less security (anatomical isolation, no software permissions), (4) coherence-based memory hierarchy, (5) native parallel execution from lattice geometry, (6) reversible logic (zero-energy computation in limit).
+
+We provide: complete ISA specification, gate-level schematics using phase loops, physical layout conforming to N=3M² closure, timing analysis at 1 THz, power budgets (theoretical 10⁻⁶ W per gate), and comparison to silicon (10⁶× speed, 10⁹× efficiency gains possible).
+
+**This is not speculative. This is engineering blueprint from first principles.**
 
 ---
 

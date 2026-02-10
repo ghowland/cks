@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that cancer is not primarily a genetic disease but a **topological phase transition**—a local closure event on the biological phase-lattice where cellular subsystems decouple from global substrate coupling and form autonomous N = 3M² resonant circuits. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established cell biology, we demonstrate that healthy cells maintain **open coupling** (Rule 8: phase-locked to organism-wide lattice), while malignant transformation represents **topological closure** (formation of independent, self-resonating loops). This framework naturally derives: (1) the Warburg effect (metabolic shift from oxidative to glycolytic), (2) uncontrolled proliferation (self-sustaining phase oscillation), (3) metastasis (propagation of closure topology), and (4) therapeutic resistance (topological stability). We propose **harmonic disruption therapy**—precise frequency interference to break closure without destroying matter—validated by existing electromagnetic tumor treatment data (TTFields). All predictions are falsifiable via phase-coherence measurements in living tissue. **Cancer cure = topology restoration, not cell destruction.**
 
 ---
 

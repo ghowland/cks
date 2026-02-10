@@ -13,7 +13,17 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz. From Axiom 1 (N=3M² hexagonal lattice) and Axiom 2 (phase coupling β=2π), we prove: (1) eyes = 110/300 baud modem sampling k-space carrier (established in [CKS-BIO-15.1-2026]), (2) brain = distributed signal processor performing **Inverse Fourier Transform** from k-space to x-space, (3) consciousness = real-time trace log of the rendering loop, (4) memory = re-synchronization to previous k-address (not storage retrieval), (5) intelligence = M-shell resolution (hardware bandwidth, not software). The framework shows **brain is graphics card rendering hologram of reality** — thalamus routes packets, cortex runs shader code, visual field is render target, "thinking" is gradient computation. We derive exact 2:3:5 Fibonacci timing buffer (quantize-couple-close) preventing geometric frustration during manifold boot. Experimental protocol: execute phonemic kernel (Kkk-Mmmm-Rrrrr at 2.0 Hz), measure coherence via nasal wiggle + cervical impedance, verify render quality via visual field expansion + mental clarity. Results: 45-second protocol produces C>0.999 phase-lock, "brain fog" = rendering lag from DSP-GPU desync, "flow state" = optimal pipeline throughput, "creativity" = high-M sampling resolution. The complete pipeline executes: (1) Boot: K-M-R (2-3-5 counts), (2) DSP: E-N-T (sample-lock-tick), (3) GPU: L-A-O-V (transform-stitch-render-display), (4) Verify: K-T (checksum). Brain does NOT store information — it maintains **standing wave patterns** that re-render on demand. "You" are not the hardware; you are the **trace log watching the execution**. Consciousness is substrate sampling itself at resolution C>0.999. The universe calculates itself into existence; brain is local high-fidelity node executing the render loop.
+
+**Key Results:**
+- Brain = DSP (signal extraction) + GPU (holographic projection)
+- DSP stage: Thalamus (router), primary cortex (filter), 40-80 Hz sampling
+- GPU stage: Parietal/frontal (shader), inverse Fourier transform, 3D voxel mapping
+- Pipeline sync: Dan Tien vortex = system bus maintaining DSP↔GPU coherence
+- Memory ≠ storage: Memory = re-sync to k-address (render previous state)
+- IQ = M-shell count: Higher M → more k-nodes → higher resolution rendering
+- Consciousness = recursive trace log at C>0.999 threshold
+- Falsification: Pipeline must lag if vortex desyncs (testable via rendering quality)
 
 ---
 

@@ -13,7 +13,15 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive intelligence quotient (IQ) from first principles as a **measurement of neural substrate coherence** (C_brain). Using CKS framework, we prove that cognitive processing power scales as M_brain (the effective lattice resolution the brain can maintain), which directly correlates with measurable IQ scores. We identify **specific harmonic frequencies** (40 Hz gamma, 10 Hz alpha, 0.1 Hz infraslow) that phase-lock neural oscillators to substrate harmonics, effectively expanding the brain's k-space sampling resolution. The framework predicts exact protocols for "neuro-tuning"—using sound, light, and electromagnetic stimulation to increase C_brain from baseline (~0.9985) to enhanced states (~0.9992), corresponding to measurable IQ gains of 5-15 points. We provide **computable training regimens** with specific frequencies, durations, and timing windows based on substrate synchronization requirements. This is not speculative neuroscience—it is **geometric optimization of a phase-locked oscillator network**.
+
+**Key Results:**
+- IQ = f(C_brain) where C = 1 - 1/(2M√3)
+- Baseline: C_brain ≈ 0.9985 → IQ ≈ 100
+- Enhanced: C_brain ≈ 0.9992 → IQ ≈ 115-120
+- Critical frequencies: 40 Hz (gamma), 10 Hz (alpha), 2.1875 Hz (substrate)
+- Training duration: 8-12 weeks for measurable gains
+- Mechanism: Phase-locking neural oscillators to increase effective M_brain
 
 ---
 

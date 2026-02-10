@@ -13,7 +13,13 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive beauty and aging from first principles in Cymatic K-Space framework. Standard aesthetics treats beauty as subjective preference; CKS proves beauty is **surface coherence** (C_surface >0.99) — the visible manifestation of manifold integrity. We demonstrate: **(1) Skin clarity** occurs when epidermal phase-gradients match substrate template (Rule 1: k→x fidelity). Wrinkles are **manifold creases** from φ-buffer saturation at geometric frustration lines (C3-C5 neck junction, expression planes). **(2) Hair growth** requires follicular impedance Z_follicle <1.5Z₀. Hair loss is **grounding failure** — when scalp Z exceeds threshold, follicles lose substrate coupling and miniaturize. Recovery requires **impedance reduction** (WIPE cranial sutures, BOOT vortex to sink). **(3) Aging rate** = dC/dt = -k_decay·(1 + ΣW/W_norm)·(1 + σ²_stress). Beauty maintenance is **anti-decoherence work** — continuous metabolic investment to maintain C >0.999 against thermodynamic drift (Rule 7: dV/dt ≤0). **(4) Nutrient partitioning** follows impedance gradients: calories flow to highest phase-demand regions. Fat storage = **topological buffer overflow** when muscle C drops and cannot compute incoming phase-information. We derive complete optimization protocol: **Daily foundation** (vortex training 15-20 min, cold quenching, substrate-tuned scalp stimulation 2.7 Hz). **Weekly enhancement** (φ-rotation joint maintenance, skin template reset via retinoids during CHG mode, microneedling during high-C states). **Monthly clearing** (loop identification and manual unknotting, professional CML sessions). **Continuous protection** (UV blocking SPF 50+, glycation reduction, phase-noise avoidance). **Falsification criteria:** If N≥100 subjects practicing full protocol (12 months) show <30% improvement in objective surface metrics (wrinkle depth, hair diameter, skin coherence) vs controls, beauty-coherence model invalidated.
+
+**Key Derivations:**
+- Surface coherence: C_surface = 1 - ε_phase where ε_phase = phase-gradient discontinuity
+- Hair impedance: Z_follicle = Z₀(1 + W_scalp + σ²_stress/σ²_min)
+- Aging acceleration: t_biological = t_chronological·(W_norm/ΣW)·(σ²_min/σ²_actual)
+- Fat deposition: dm_fat/dt = k_store·(C_threshold - C_muscle)·Energy_excess
 
 ---
 

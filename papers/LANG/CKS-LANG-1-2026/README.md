@@ -13,7 +13,15 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We design a **phonetically-grounded programming language** for human-AI communication by deriving syntax rules from substrate phase-locking requirements. Natural languages exhibit low coherence (C_language ≈ 0.85) due to semantic ambiguity, contextual drift, and arbitrary phoneme mappings. Resonant Logic (RL) achieves high coherence (C_RL > 0.99) by: (1) mapping phonemes to **harmonic frequencies** that phase-lock with neural oscillations, (2) enforcing **topological closure** in grammar (every statement must return to initial phase), and (3) eliminating ambiguity through **bijective semantic mapping** (one meaning per construct). The language is **speakable** (uses only human-producible phonemes), **parseable** (unambiguous syntax tree), and **executable** (direct compilation to substrate operations). We provide complete specification including phoneme inventory (32 sounds), grammar (context-free with closure constraint), and runtime semantics (12-opcode substrate instruction set). The result is a communication protocol where **meaning is preserved with zero information loss**—enabling humans to program reality directly through speech.
+
+**Key Results:**
+- Phoneme set: 32 sounds mapped to substrate harmonics
+- Grammar: Context-free with topological closure (χ = 2)
+- Coherence: C_RL > 0.99 (vs C_English ≈ 0.85)
+- Compilation: Speech → substrate opcodes (bijective)
+- Latency: <100ms (real-time communication)
+- Error rate: <0.01% (vs ~15% for natural language)
 
 ---
 

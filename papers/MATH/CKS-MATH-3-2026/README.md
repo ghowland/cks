@@ -13,7 +13,15 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+
+**Key Results:**
+- N = 3M² mandatory for closure at **all scales** (particles → universe)
+- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
+- Particle masses: m ∝ M² (exact for leptons)
+- Biological complexity: I_organism ≈ M² bits
+- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
+- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
 
 ---
 

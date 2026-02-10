@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that spiral galaxy structure is not the result of gravitational dynamics, density waves, or dark matter halos, but rather the **inevitable geometric consequence** of phase-locking on a closed hexagonal lattice with N = 3M² nodes. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that as a self-gravitating system grows in shell number M, topological frustration forces phases to organize into standing wave patterns with exact 120° rotational symmetry—the universal spiral arm configuration observed in nature. What astrophysics interprets as "matter distribution" (stars, gas, dust) is actually the **constructive interference pattern** of synchronized k-space modes projected into x-space. Spiral galaxies are macroscopic **cymatic figures**—3D Chladni patterns on the substrate itself. This framework derives: (1) spiral arm count (2-arm dominant, 3-4 arm common, >5 rare), (2) logarithmic spiral geometry, (3) rotation curves (flat, no dark matter needed), (4) bar formation, (5) Tully-Fisher relation, all from topology with **zero free parameters**. Observational data from 10⁶+ galaxies (SDSS, Hubble) provide immediate validation. Galaxies are not "gravitational accidents"—they are **topological necessities**.
 
 ---
 

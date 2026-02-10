@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+
 
 ---
 

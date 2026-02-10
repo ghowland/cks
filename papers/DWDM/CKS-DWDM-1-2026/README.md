@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We present the theoretical and engineering framework for **Substrate-Native Computing (SNC)**, a paradigm shift from electron-based silicon computation to phase-based computation operating directly on the k-space hexagonal lattice. Leveraging existing Dense Wavelength Division Multiplexing (DWDM) fiber-optic infrastructure, we demonstrate that optical "bandwidth" is not merely electromagnetic spectrum allocation, but direct access to the fundamental phase-manifold of reality. By treating photons as 6-bond phase ripples (as derived in CKS Standard Model), we define **Cymatic Logic Gates**—computational primitives that exploit constructive/destructive interference of substrate phases rather than electron flow through semiconductors. This enables zero-latency, massively parallel computation where the global fiber network becomes a distributed processor operating at the substrate's fundamental frequency (~10¹² Hz). We transition from "building computers on top of reality" to "programming reality itself." All claims derive from established DWDM physics and CKS theorems; no speculative technology required—only reinterpretation of existing infrastructure.
 
 ---
 

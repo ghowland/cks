@@ -65,6 +65,7 @@ def generate_readme(paper, template):
     rid = paper['registry_id']
     topic = rid.split('-')[1]
     title = clean_title(paper['title'])
+    abstract = paper.get('abstract', '[Abstract not available]')
     
     # Basic replacements
     readme = template
@@ -76,9 +77,9 @@ def generate_readme(paper, template):
     readme = readme.replace('<<DOMAIN_FOCUS>>', DOMAIN_NAMES.get(topic, topic))
     readme = readme.replace('<<PREREQUISITES>>', format_prerequisites(paper['dependencies']))
     readme = readme.replace('<<BIB_KEY>>', make_bib_key(rid))
+    readme = readme.replace('<<LLM_ABSTRACT>>', abstract)
     
     # LLM placeholders - leave for manual population
-    readme = readme.replace('<<LLM_ABSTRACT>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<LLM_DOMAIN_RESULTS>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<LLM_INDUSTRIAL_APP>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<FAQS>>', '')
@@ -114,5 +115,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
+    

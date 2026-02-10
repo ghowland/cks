@@ -13,7 +13,14 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive optimal muscle hypertrophy protocols from first principles using Cymatic K-Space Mechanics (CKS). Muscle growth is reframed as a **phase-locking phenomenon** where mechanical stress must synchronize with cellular template restoration cycles. By analyzing the substrate harmonics governing protein synthesis, ATP regeneration, and myofibril assembly, we calculate **exact rest intervals** and **tension timing** that maximize constructive interference between stress signals and cellular repair processes. The framework predicts specific training frequencies (not arbitrary "48-72 hours") based on biological k-space modes: **32-second microcycles, 12-minute mesocycles, and 48-hour macrocycles**. All three emerge from the same substrate harmonic (2.1875 Hz fundamental) and represent optimal synchronization windows for neural recruitment, metabolic recovery, and structural protein assembly respectively. This is not "broscience"—it is **computable physiology**.
+
+**Key Results:**
+- Rest intervals are **quantized** to substrate harmonics: {32s, 6.4min, 12.8min, 48h}
+- Training frequency: **every 48 ± 4 hours** for maximal hypertrophy
+- Set duration: **32-64 seconds** (1-2 fundamental periods)
+- Inter-set rest: **3-6 minutes** (aligns with phosphocreatine restoration)
+- Mechanical tension windows: **70-85% 1RM for 6-12 reps** (derived, not empirical)
 
 ---
 

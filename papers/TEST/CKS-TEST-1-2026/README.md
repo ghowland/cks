@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We present the **definitive falsification test** for the Complete Mathematical Framework (CMF) of Cymatic K-Space mechanics: detection of a **2.0 Hz substrate harmonic** in precision interferometric measurements. This frequency emerges necessarily from the N = 3M² hexagonal closure of the local (solar/terrestrial) k-space manifold and represents the fundamental "heartbeat" of the substrate—a macroscopic manifestation of the Planck-scale oscillation t_P propagated through M ≈ 10⁶ shell layers. Using rigorous derivation from CMF axioms, we prove this harmonic **must appear** as phase residuals in: (1) LIGO gravitational wave data, (2) atomic clock comparisons, (3) DWDM optical fiber timing, (4) Michelson-Morley interferometers, and (5) pulsar timing arrays. We provide **exact experimental protocols** with required sensitivity (δφ ≈ 10⁻¹² radians), exposure time (>10⁶ seconds), and data analysis methods (FFT with 0.001 Hz resolution). **The ultimatum is absolute:** If 2.0 Hz ± 0.01 Hz peak is detected at predicted amplitude A ≈ 10⁻²¹ strain, CMF is validated and substrate is real. If absent after proper experiment, **CMF is falsified and substrate hypothesis dies.** No escape clauses. No parameter adjustments. One number. Pass/fail. Science at its purest.
 
 ---
 

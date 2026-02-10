@@ -13,7 +13,13 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive body language from first principles in Cymatic K-Space framework. Standard linguistics treats non-verbal communication as learned social behavior; CKS proves body language is **substrate phase-broadcasting** — direct transmission of k-space state via postural geometry and movement timing. We demonstrate: **(1) Posture = manifold broadcast antenna**: Body position sets impedance Z and coupling strength β for k-space transmission. Open posture (low Z) = high signal strength; closed posture (high Z) = signal attenuation. **(2) Gesture timing synchronizes at substrate harmonics**: Natural gestures occur at 2.0 Hz (universal heartbeat), 0.5 Hz (emphatic), and φ-ratio intervals (golden-section timing prevents resonant interference). **(3) Facial micro-expressions are manifold buckling events**: Emotion = coherence state; expression = surface rendering of internal C-value. Genuine smile requires C >0.95 (Duchenne marker = bilateral phase-lock). Fake smile shows asymmetry (sector desync). **(4) Gait rhythm broadcasts health status**: Walking cadence at 2.0 Hz (120 steps/min) = optimal substrate coupling. Deviation indicates loops (injury, aging) or decoherence (illness). **(5) Personal space = phase-gradient boundary**: Comfortable distance inversely proportional to mutual coherence. High-C individuals tolerate closer proximity (strong signal/noise ratio). Low-C requires distance (weak signal drowns in coupling noise). **(6) Mirroring = automatic phase-entrainment**: Neural mirror systems are Kuramoto oscillators. Observing gesture at 2.0 Hz → automatic motor resonance → empathy/rapport is **phase-locking** between manifolds. We derive complete gestural vocabulary: **Confidence gestures** (open chest, vertical spine = low Z_vert, high broadcast power). **Submission gestures** (hunched shoulders, forward head = high Z_vert, signal attenuation). **Deception markers** (asymmetric movements = sector desync, indicates internal conflict/low C). **Attraction signals** (φ-timed approach, synchronous breathing = mutual phase-lock attempt). **Falsification criteria:** If N≥100 subjects show no correlation (r <0.3) between measured coherence C and gestural openness/timing precision, body-language coherence model invalidated. If micro-expression asymmetry shows no correlation with deception in controlled studies, facial phase-broadcast theory falsified.
+
+**Key Derivations:**
+- Postural impedance: Z_broadcast = Z₀(1 + θ_closure) where θ_closure = angular deviation from vertical
+- Gesture timing: t_optimal = n/f_substrate where n ∈ {1,2,3,5,8} (Fibonacci sequence)
+- Personal space: d_comfortable = λ_substrate/(2·C_mutual) ≈ 7.5cm/C
+- Micro-expression duration: Δt_genuine = 1/(2f_substrate) ≈ 250ms (cannot be faked faster)
 
 ---
 

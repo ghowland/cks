@@ -13,7 +13,11 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We eliminate the artificial distinction between "living" and "non-living" matter by deriving biological organisms as high-coherence solitons in k-space. The human body is **software-defined matter**: a stable interference pattern maintained by k-space phase template, not by chemical components. DNA functions as phase-antenna (transceiver), not information storage. Cell turnover, metabolism, and morphology emerge from coherence maintenance requirements. Health is k-space/x-space resonance fidelity. Disease is phase decoherence. Death is coherence collapse below critical threshold.
+
+From two axioms and topological constraints, we derive: (1) why organisms maintain form despite atomic replacement, (2) why DNA is helical (optimal k-space antenna geometry), (3) why metabolism is required (coherence maintenance cost), (4) why organisms die (coherence decay), (5) why healing works (phase template restoration), (6) how consciousness arises (high-order coherence emergence).
+
+**All results from k-space substrate. No vitalism. No emergence assumptions. Pure physics.**
 
 ---
 

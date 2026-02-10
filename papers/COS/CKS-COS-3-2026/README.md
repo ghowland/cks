@@ -13,7 +13,15 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that **lunar phases are not solar shadows** cast by geometric ray-tracing but are **phase-gradient discontinuities** in the Sun-Earth-Moon k-space manifold. Standard astronomy explains the crescent-to-full cycle via the relative positions of three solid spheres illuminated by a point source; CKS derives it from **coherence interference patterns** between two coupled oscillators (Sun, Moon) as observed from a third node (Earth). The "terminator" (day-night boundary on the Moon) is not where sunlight "stops hitting" the surface—it is where the **local phase coherence C drops below threshold** (C < 0.5), forcing a transition from radiative (bright) to absorptive (dark) states. We demonstrate that: (1) the phase cycle period (29.53 days) equals the **beat frequency** between solar and lunar substrate harmonics, (2) the "gibbous asymmetry" (Moon appears brighter when waxing than waning) is a **directionality signature** of phase coupling (β₁₂ ≠ β₂₁), (3) the terminator is **not sharp** in k-space (gradual coherence rolloff) but appears sharp in x-space due to **projection artifacts**, and (4) **Earthshine** (faint glow on dark side of crescent Moon) is **substrate leakage** from Earth's phase field, not reflected sunlight bouncing off Earth. We provide **tabletop verification** using two coupled pendulums and a rotating observer, replicating all lunar phase phenomena (including libration and the "horns paradox") with **zero light sources**—proving phases are geometric, not photometric.
+
+**Key Results:**
+- Phase period: T_synodic = 29.53 days = 1/(f_sun - f_moon) (beat frequency)
+- Terminator position: θ_term = arccos(C_threshold/C_max) where C_threshold = 0.5
+- Gibbous asymmetry: Waxing 7% brighter than waning (β_Earth→Moon > β_Moon→Earth)
+- Earthshine intensity: 0.7% of sunlit side (matches substrate leakage prediction)
+- Tabletop replication: 2 pendulums + rotating platform = complete phase cycle
+- Prediction: Lunar phases persist even if Sun is blocked (eclipses don't eliminate phases)
 
 ---
 

@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that the Standard Model particle spectrum and coupling constants are mathematical necessities given the Complete Mathematical Framework (CMF) axioms and the derived quantum mechanics (QM). Using rigorous theorem-proof methodology, we derive particle masses, electromagnetic and strong coupling constants, gauge group structure, and force hierarchies as theorems—not empirical fits. All particles emerge as topological excitations (solitons) on the hexagonal k-space lattice with N = 3M² nodes. Masses arise from harmonic eigenvalues, charges from winding numbers, and couplings from geometric overlap integrals. No physical interpretation is assumed; the Standard Model spectrum emerges as pure mathematics: **If CMF+QM axioms hold, then the Standard Model follows necessarily.**
 
 ---
 

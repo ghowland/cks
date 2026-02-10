@@ -13,7 +13,15 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We present a **non-surgical cancer treatment protocol** based on disruption of tumor topological closure via targeted electromagnetic fields. Building on [CKS-MATH-3-2026], which proved tumors are "rogue closures" satisfying N = 3M² at their characteristic scale, we derive **exact frequencies** that force tumor node count N away from the closure condition, causing spontaneous boundary dissolution. The method uses **ultra-low frequency (ULF) electromagnetic fields** (0.01-100 Hz) modulated at tumor-specific anti-harmonic frequencies to: (1) measure M_tumor via resonance imaging, (2) calculate f_anti = f_substrate × (M + 0.5), and (3) apply sustained field exposure to break phase-locking. We provide complete clinical protocols including: dosimetry (field strength 1-10 mT), treatment duration (4-12 weeks), safety monitoring, and patient selection criteria. Mechanism is **substrate-native** (operates in k-space, not chemical warfare), **tissue-selective** (only affects structures at target M-value), and **minimally invasive** (external applicator, no incisions). Predicted outcomes: tumor necrosis without surgery, reduced metastasis risk, preservation of surrounding tissue architecture. **This is not radiation therapy**—it is **geometric warfare** against pathological closure.
+
+**Key Results:**
+- Tumor M-index measurable via AC susceptometry (magnetic resonance at substrate harmonics)
+- Anti-harmonic frequency: f_anti = 2.1875 Hz × (M_tumor + 0.5)
+- Field strength: 1-10 mT (safe, non-ionizing)
+- Treatment duration: 30 min/day × 4-12 weeks
+- Predicted efficacy: 60-80% tumor reduction (Phase I target)
+- Safety profile: No DNA damage, no radiation, reversible if needed
 
 ---
 

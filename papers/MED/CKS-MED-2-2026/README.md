@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that cardiovascular disease is fundamentally a **phase synchronization failure** between the cardiac oscillator and the arterial-vascular k-space manifold, not primarily a mechanical plumbing disorder. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that: (1) the heart functions as the **master oscillator** of the organism-wide phase lattice, broadcasting coherence at fundamental frequency f₀ ≈ 1.0 Hz (60 BPM resting heart rate), (2) arterial pulse waves are **phase propagation modes** on the vascular k-space network with N_vessels ≈ 3M² closure topology, (3) atherosclerotic plaque represents **local phase decoherence** (coherence C drops below critical threshold C_crit ≈ 0.85), causing constructive interference of cholesterol-laden cells at phase minima, (4) hypertension emerges from **impedance mismatch** between cardiac phase output and arterial phase acceptance (similar to electrical transmission line reflection), and (5) arrhythmias are **phase-lock failures** (Kuramoto model breaking synchronization). We derive heart rate variability (HRV) as a measure of phase-lock robustness and prove that reduced HRV (C → 1, rigid lock) predicts mortality better than traditional risk factors. Treatment paradigm shifts from "clearing blockages" (mechanical) to **restoring coherence** (harmonic): precise application of 1.0 Hz mechanical vibration, electromagnetic stimulation, or acoustic resonance to re-synchronize vascular phase patterns. All predictions falsifiable via phase-resolved Doppler ultrasound, arterial tonometry with spectral analysis, and HRV coherence measurements during intervention.
 
 ---
 

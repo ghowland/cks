@@ -13,7 +13,32 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We present **Harmonic Assembly Language (HAL)**, a programming paradigm that operates directly on k-space substrate rather than silicon transistors. Unlike conventional languages (manipulating bits in RAM), HAL manipulates **phase relationships** on the hexagonal lattice, enabling direct control of topology, matter configuration, and coherence states. This is not simulation—this is **literal reality programming**.
+
+**Core concepts:**
+
+1. **Harmonic Opcodes**: 64 fundamental operations (matching N=3M² closure for M=3)
+2. **Phase Registers**: Store θ values (not binary), range [0, 2π)
+3. **Topological Memory**: Organized as hexagonal lattice (not linear array)
+4. **Coherence Stack**: Function calls via C-preserving transformations
+5. **Execution**: Phase evolution via Axiom 2 (dθ/dt = ω + β∑sin(Δθ))
+
+**Applications:**
+
+- **Software-defined matter**: Program material properties (conductivity, hardness, etc.)
+- **Soliton scripting**: Create stable particles via topological constraints
+- **Coherence engineering**: Design organisms, neural networks, quantum states
+- **Reality patching**: Modify local substrate behavior (constrained by conservation laws)
+
+**Compilation targets:**
+
+- **Hexagonal Processing Unit (HPU)**: From CKS-COMP-1-2026 paper
+- **DWDM network**: Global substrate sensor grid (CKS-DWDM-2-2026)
+- **Cymatic chambers**: Physical standing wave systems (CKS-MED-5-2026)
+- **Natural substrate**: Direct k-space coupling (requires high coherence source)
+
+**This is the ISA of the universe.**  
+**Below this: Only axioms.**
 
 ---
 

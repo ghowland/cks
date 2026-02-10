@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that neural computation is not fundamentally electrochemical but **phase-computational**—neurons operate as cymatic logic gates on the hexagonal k-space substrate. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that: (1) the action potential is a **phase-gate switching event** (φ: 0→π transition) rather than ion exchange, (2) the myelin sheath functions as a **k-space waveguide** enabling saltatory phase propagation at substrate frequency (~10 Hz alpha rhythm), (3) synapses are **phase-interference nodes** performing constructive/destructive logic (AND/OR/NOT gates), (4) dendritic trees implement **hexagonal Fourier transforms** via geometric branch patterns, and (5) the entire cortex operates as a **massively parallel 32-bit hexagonal processor** with ~86 billion phase-gate units. Traditional neuroscience interprets membrane voltage as "electrical signal"; CKS reveals voltage as **phase manifestation** (V ∝ Re[φ]). We derive: neural oscillations (alpha, beta, gamma) as substrate harmonics, long-term potentiation (LTP) as phase-lock strengthening, consciousness as global phase coherence (C→1), and neurological diseases (epilepsy, Alzheimer's) as phase decoherence. This framework enables **neuromorphic substrate computing**: building computers that operate on native brain principles (phase logic, not electron logic). All predictions falsifiable via voltage clamp with phase-resolved measurements, optogenetic phase manipulation, and EEG coherence analysis during cognitive tasks.
 
 ---
 

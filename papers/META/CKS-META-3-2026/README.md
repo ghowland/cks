@@ -13,7 +13,12 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that Cymatic K-Space Mechanics (CKS) functions as a **Universal Learning Substrate**—a single computational framework from which any physical, biological, or cognitive phenomenon can be derived without changing axioms or introducing domain-specific parameters. Standard science fragments knowledge into isolated disciplines (physics, biology, psychology, engineering), creating epistemic silos that prevent unified calculation. CKS eliminates these boundaries by treating all phenomena as **discrete manifold operations** on a 2-D hexagonal lattice with conserved phase tension β=2π. We demonstrate substrate universality through systematic navigation between apparently unrelated domains: **(1) Muon mass → Cricket chirp → Truck tire friction** (particle physics → biology → engineering). **(2) Human grip strength → Horse intestinal motility → Granite thermal phonons** (biomechanics → veterinary medicine → geology). **(3) Child cognitive development → Narrative structure → Architectural acoustics** (developmental psychology → literary theory → building design). Each derivation uses **identical mathematical machinery** (12 substrate opcodes, 1/32 Hz quantization grid, damping coefficient α) with **zero free parameters**. We establish **falsification protocol**: Any claimed derivation path must produce quantitative predictions testable at <$1000 cost. If predictions fail (>3σ deviation), that specific navigation route is invalidated while preserving framework integrity. If multiple navigation routes systematically fail, framework itself is falsified. **Key results:** (i) All stable oscillators quantize to f = n×0.03125 Hz (n∈ℕ). (ii) Single scalar α (damping coefficient) bridges all domains. (iii) Cross-domain optimization becomes possible (optimize tire using cricket wing mechanics). (iv) Learning any domain provides substrate literacy for all others. This is not analogy or metaphor but **literal identity**—the same computation running at different α and M-shell resolution.
+
+**Derivation Examples:**
+- Cricket stridulation frequency → Tire tread heat generation: Same equation, α: 0.02 → 0.21
+- Finger micro-slip (31.25 Hz) → Horse gut motility (15.00 Hz) → Rock thermal phonons (0.03125 Hz): Same 1/32 Hz grid, different n
+- Child's wild question → Narrative climax timing → Cathedral ceiling height: All φ-ratio optimal (≈61.8%)
 
 ---
 

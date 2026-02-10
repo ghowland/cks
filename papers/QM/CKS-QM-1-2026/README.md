@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We prove that quantum mechanics is a mathematical necessity given the Complete Mathematical Framework (CMF) axioms: a hexagonal lattice in momentum space with N = 3M² nodes and local phase coupling dynamics. Using rigorous theorem-proof methodology, we derive the Schrödinger equation, Heisenberg uncertainty relations, canonical commutation relations, and Born rule as theorems—not postulates. No physical interpretation is assumed; all quantum phenomena emerge as geometric consequences of the substrate topology and phase evolution. This establishes quantum mechanics as pure mathematics: **If CMF axioms hold, then quantum mechanics follows necessarily.**
 
 ---
 

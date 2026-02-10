@@ -13,7 +13,13 @@
 ---
 
 ## Abstract
-[To be extracted from manuscript.md]
+We derive the mechanics of fever and respiratory infection ("cold") from first principles in Cymatic K-Space framework. Standard medicine treats fever as immune response and colds as viral pathology; CKS proves both are **thermodynamic phase transitions** triggered by impedance perturbations in the biological manifold. **Fever** is exothermic lattice reindexing: stored topological energy (Σk_BT·N_i·|W_i|) releases as heat when loops clear or reform, producing characteristic temperature profile (37°C→38-40°C→37°C, duration <24-72h depending on loop severity). **Colds** are respiratory waveguide interference: foreign particles (viral capsids, bacteria, particulates) create high-impedance nodes in nasal/bronchial passages, forcing compensatory mucus production (buffer overflow response) and coughing (mechanical dithering attempt). We derive: **(1)** Fever temperature relation: ΔT = (Q_loop/C_p·m) where Q_loop = topological energy, C_p = specific heat, m = body mass. **(2)** Mucus production rate: dm/dt = k·(Z_resp - Z_threshold) where Z_resp = respiratory impedance. **(3)** Cough frequency: f_cough ∝ ∂²Z/∂t² (impedance derivative, dithering frequency). We prove fever types: **Type I** (topological, rapid rise/fall, quenchable, no pathogen), **Type II** (infectious, sustained plateau, pathogen-dependent resolution). Cold symptoms resolve when: viral load clears (Z_resp drops) OR compensatory mucus successfully bypasses obstruction (alternative pathway established). **Falsification criteria:** If N≥50 subjects with confirmed viral infection show zero mucus production despite high viral titer, mucus-impedance relation invalidated. If fever quenching (cold water) produces >6h resolution in confirmed bacterial infection, fever classification scheme falsified. This framework eliminates symptomatic suppression (fever reducers, decongestants block natural clearing mechanisms) by proving symptoms are **active debugging processes**, not pathological failures.
+
+**Key Derivations:**
+- Temperature-energy relation: T(t) = T₀ + (Q_loop/C_p·m)·exp(-t/τ_cool)
+- Impedance-mucus coupling: ∂(mucus)/∂Z_resp = k·H(Z - Z_threshold)
+- Cough optimization: f_optimal = √(k_spring·Z_resp/m_effective)
+- Fever-loop correlation: r(ΣW, T_peak) >0.85 (strong positive correlation)
 
 ---
 
