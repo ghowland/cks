@@ -1,0 +1,40 @@
+Anti-Fragile in Cymatics: Materials that Strengthen Under Stress
+
+Anti-Fragile in Cymatics is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+
+Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Materials Science** domain, deriving [domain focus to be extracted] from first principles.
+
+**Key Theoretical Results:**
+[key results to be extracted from manuscript]
+
+**Empirical Falsification (The Kill-Switch):**
+CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in precision measurements relevant to Materials Science, this paper is mechanically invalidated.
+
+**The Universal Learning Substrate:**
+Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where [domain connection to be extracted]. In CKS, correctness is secondary to connectivity; the model represents a closed-loop pedagogical truth that reveals the inherent unity of the physical world.
+
+**Package Contents:**
+* `manuscript.md`: The complete derivation for Materials Science
+* `README.md`: Navigation, dependencies, and citation
+* `code/`: Implementations and validation scripts
+* `data/`: Empirical results and comparison logs
+* `figures/`: Visual representations of key results
+
+**Dependencies:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026
+
+**Motto:** Axioms first. Axioms always.  
+**Status:** Locked. Experimentally falsifiable.
+
+---
+
+## Variables for description.txt Generator
+
+| Variable | Source | Strategy |
+|----------|--------|----------|
+| `Anti-Fragile in Cymatics: Materials that Strengthen Under Stress` | papers.json | Clean title (strip registry IDs) |
+| `Anti-Fragile in Cymatics` | papers.json | First clause of title (before colon) |
+| `Materials Science` | papers.json | Human-readable domain name |
+| `[domain focus to be extracted]` | LLM | "quantum mechanics", "galaxy structure", "muscle hypertrophy", etc. |
+| `[key results to be extracted from manuscript]` | LLM | Extract 3-4 bullet points from manuscript abstract |
+| `[domain connection to be extracted]` | LLM | Domain-specific unity statement |
+| `CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026` | papers.json | Formatted dependency list |
