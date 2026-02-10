@@ -196,9 +196,12 @@ def proton_to_electron_structure(M):
     ln_N = log(N_from_M(M))
     return (68 / 12) * (ln_N / pi())
 
-# def SI_g_electron(M):
-#     """g-factor in SI units (exact CODATA rescale)"""
-#     return mpf('2.00231930436256')
+def hubble_parameter_natural(M):
+    """
+    Hubble parameter in natural units (Planck⁻¹)
+    H = 1/N  (from dN/dt = 1/t_P → H = (dN/dt)/N = 1/N)
+    """
+    return 1 / N_from_M(M)
 
 # ------------------------------------------------------------------
 # 11.  Electron g-factor (continuous SI rescale)
@@ -211,14 +214,6 @@ def _g_e_tail(M):
     a_nat = alpha_em(M_now()) / (2 * pi())
     return mpf('2.00231930436256') - mpf('2') - a_nat
 
-# def SI_g_electron(M):
-#     """
-#     Continuous g-factor in SI units.
-#     g(M) = 2 + α_SI(M)/(2π) + tail(M)
-#     tail is chosen so g(M_now) = CODATA exactly.
-#     """
-#     a_SI = SI_alpha(M)
-#     return mpf('2') + a_SI / (2 * pi()) + _g_e_tail(M)
 
 # ------------------------------------------------------------------
 # 11.  Electron g-factor (continuous SI rescale)
