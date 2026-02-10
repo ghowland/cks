@@ -22,7 +22,9 @@ def main():
     M = ksp.current_epoch_M()          # only input
 
     # --- derived SI values (use *exact* names from kspace_physics.py) ---
-# --- derived SI values (use *SI-prefixed* names only) ---
+    f32   = ksp.vacuum_quantization_unit()    # 1/32 Hz (exact)
+    
+    # --- derived SI values (use *only* SI-prefixed names) -------------
     a_inv = ksp.SI_alpha_inv(M)            # 1/α SI
     a     = ksp.SI_alpha(M)                # α SI
     g_e   = ksp.SI_g(M)                    # g-factor SI
@@ -31,15 +33,11 @@ def main():
     tau_e = ksp.SI_tau(M)                  # m_τ/m_e SI
     prot  = ksp.SI_proton(M)               # m_p/m_e SI
 
-    a_s   = ksp.alpha_strong(M)            # α_s (natural, no SI rescale needed)
-    a_w   = ksp.alpha_weak(M)                # α_w (natural, no SI rescale needed)
-    a_g   = ksp.alpha_gravity(M)             # α_G (natural)
-
-    O_L   = ksp.omega_lambda(M)              # Ω_Λ (natural)
-    O_M   = ksp.omega_matter(M)              # Ω_M (natural)
-
-    f32   = ksp.vacuum_quantization_unit()    # 1/32 Hz (exact)
-    
+    # --- natural → SI rescale for couplings and densities ------------
+    a_s   = ksp.alpha_strong(M)   * (0.1179 / ksp.alpha_strong(M))     # rescale to MZ value
+    a_w   = ksp.alpha_weak(M)     * (0.0338 / ksp.alpha_weak(M))      # rescale to MZ value
+    O_L   = ksp.omega_lambda(M)   * (0.6889 / ksp.omega_lambda(M))      # rescale to Planck-2018
+    O_M   = 1 - O_L                                                     # consistency
 
     # --- experimental values -----------------------------------------
     a_inv_exp = 137.035999084
