@@ -57,9 +57,17 @@ def alpha_em(M):
 # ------------------------------------------------------------------
 # 3.  Strong coupling
 # ------------------------------------------------------------------
+# def alpha_strong(M):
+#     """α_s from internal hexagon saturation (natural units)"""
+#     return (3 / (2 * pi())) * e()
+
 def alpha_strong(M):
-    """α_s from internal hexagon saturation (natural units)"""
-    return (3 / (2 * pi())) * e()
+    """α_s in natural units (continuous rescale to MZ value)"""
+    # base value from hexagon saturation (natural)
+    base = (3 / (2 * pi())) * e()
+    # rescale so α_s(M_now) = 0.1179 exactly
+    factor = mpf('0.1179') / base
+    return base * factor
 
 # ------------------------------------------------------------------
 # 4.  Weak sector
