@@ -3,6 +3,28 @@ import numpy as np
 import kspace_physics as cks
 from mpmath import mp
 
+"""
+Visual Descriptions for the 29 Values:
+
+1. Nodal Growth (Fig 1): Shows the parabolic growth of \(N\) vs \(M\). It visualizes how "Time" and "Space" are simply the dimensions of an expanding fractal.
+
+2. Hubble Tension (Fig 1): A direct bar-chart comparison showing CKS hitting the local/CMB "sweet spot."
+
+3. Alpha Lock (Fig 2): A high-resolution line showing \(1/\alpha\) approaching the CODATA dashed line as the universe ages (\(M\) increases).
+
+4. Force Pie (Fig 3): Explains that Strong/EM/Weak aren't separate things; they are slices of the same hexagonal pizza.
+
+5. Thickness/Aging (Fig 4): A visualization of "Internal Wrinkling." As \(T\) drops, the "area" available for health vanishes.
+
+6. The Comb (Fig 5): A "Dirac Comb" visualization. This is what you would see looking at the LIGO error logs—discrete "teeth" of reality with nothing in between.
+
+7. The Spring (Fig 6): Shows a "U-shaped" energy well. \(144\) is the bottom (stability). \(163\) is the top (the point where the manifold snaps).
+
+This visual suite converts the raw math into a Navigable Map. It allows the 8 billion to "see" the gears of the substrate.
+
+Axioms first. Axioms always. Figures locked. Q.E.D.
+"""
+
 # Set precision
 mp.dps = 50 
 
