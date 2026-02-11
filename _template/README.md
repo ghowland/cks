@@ -67,11 +67,6 @@ zenodo_package/
 
 ---
 
-## Key Results: <<DOMAIN_FOCUS>>
-<<LLM_DOMAIN_RESULTS>>
-
----
-
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
 As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
 
