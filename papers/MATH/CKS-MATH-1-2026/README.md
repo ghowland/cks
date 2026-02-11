@@ -2,7 +2,7 @@
 
 **Registry ID:** [CKS-MATH-1-2026]  
 **Series Path:** [CKS-0-2026] → [CKS-MATH-0-2026] → [CKS-MATH-1-2026]    
-**Zenodo DOI:** [Pending - [CKS-MATH-1-2026]]
+**Zenodo DOI:** [10.5281/zenodo.18609953 - [CKS-MATH-1-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
