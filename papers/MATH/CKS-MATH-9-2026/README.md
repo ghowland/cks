@@ -43,7 +43,7 @@ The logical validity of this derivation requires the following "Pillar Proofs":
 ---
 
 ## Repository Contents
-cks_free_parameter_map
+
 ```
 zenodo_package/
 ├── manuscript.md              # Main paper
