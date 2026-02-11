@@ -17,7 +17,7 @@
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-QM-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Quantum Mechanics. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-QM-1-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Quantum Mechanics. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -60,5 +60,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Quantum Mechanics. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to Quantum Mechanics.\n\nDependencies: [CKS-0-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026].\n\nComputational validation and empirical comparison where applicable."
 }

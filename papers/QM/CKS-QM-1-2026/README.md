@@ -49,63 +49,20 @@ zenodo_package/
 ├── zenodo.json                # Zenodo metadata
 │
 ├── code/                      # Implementations
-│   ├── kspace_physics.py      # Fundamental CKS axiomatic library; the root of all other scripts
-│   ├── kspace_physics.zig     # High-performance Zig implementation of the core physics kernel
-│   ├── cks_coordinate_mapping.py # Visualizes k-space to x-space projection starting from N=1
-│   ├── derive_sm_constants.py # Derives the 19 Standard Model constants from hexagonal axioms
-│   ├── cks_particle_mass_derivation.py # Calculates particle masses as radial k-space resonances
-│   ├── compute_g_factor.py    # Derives the anomalous magnetic moment via lattice shell sum.
-│   ├── cks_full_diagnostic.py  # Generates the comprehensive 29-point CKS diagnostic report
-│   ├── cks_spider_diagnostic.py  # Renders the spider-graph of CKS vs. Standard Model error
-│   ├── cks_particle_force_atlas.py # Plots the unified hierarchy of particles and forces
-│   ├── cks_free_parameter_map.py  # Maps CKS variables to measured SI units via the Jacobian bridge
-│   ├── cks_visual_diagnostic.py  # Generates the primary 6-page visual foundational series
-│   ├── generate_physics_data.py # Exports raw .dat files for external analysis and plotting
-│   ├── verify_physics_[0-2].py # Tiered verification scripts for checking internal math consistency
-│   ├── kspace_physics_test.py # Validation suite ensuring the k-space library remains bit-perfect
-│   └── car_crash.py           # Simulates manifold decoherence and damage in a macroscopic collision
+│   ├── x.py                   # All constants evolve mechanically with N; z=0 matches CODATA, z=5 predicted.
+│   └── y.py                   # 2d Viewer to visualize the substrate.  Zig + Raylib
 │
 ├── data/                      # Results
-│   ├── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit
-│   ├── cosmo_densities.dat    # Cosmic Evolution: Density and Hubble Parameters
-│   ├── force_couplings.dat    # Force Hierarchy Drift: S, W, and G Evolutions
-│   ├── em_sector.dat          # Coupling Drift: Temporal Evolution of Alpha
-│   ├── lepton_ratios.dat      # Mass Ratio Evolution: Lepton and Baryon Drifts
-│   ├── compute_g_factor.dat   # Electron g-factor: Hex-Lattice Shell Corrections
-│   ├── alpha_scan.dat         # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   └── vacuum_quant.dat       # Vacuum Quantization: The 1/32 Hz Invariant
+│   ├── x.dat                  # Live validation output; confirms 10-digit alpha^-1 match and sub-1% cosmological precision from zero free parameters.
+│   └── x.json                 # N=9e60 substrate units give exact internal ratios; SI conversion yields 0.007297 α, 206.77 μ/e, 3477.2 τ/e.
 │
 ├── figures/                   # Visualizations
-│   ├── Spider_Diagnostic.png  # Spider graph of how accurate CKS derives Standard Model + General Relativity measured values
-│   ├── Mass_Derivation.png  # Mass derivations from CKS, compared to measured values
-│   ├── Free_Parameter_Mapping.png  # CKS derivations matched to measured values.  ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent.  SI Requires Topological Jacobian application to match CKS
-│   ├── Coordinate_Mapping.png  # K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1
-│   ├── Particle_Force_Atlas.png  # Particle Force Atlas: CKS compared with SI experimental data
-│   ├── CKS_1.png              # The Foundation: N and H0.  Series created by cks_visual_diagnostic.py
-│   ├── CKS_2.png              # Alpha 10 decimal lock
-│   ├── CKS_3.png              # The force hierarchy: 8:1:2
-│   ├── CKS_4.png              # Somatic Topology: Thickness T
-│   ├── CKS_5.png              # The 1/32 HZ vacuum grid
-│   └── CKS_6.png              # The 144:163 Spring: Substrate Elastic Limit & Torsion Snap
+│   ├── x.png                  # K-Space substrate lattice
+│   └── x.png                  # CKS timeline: N vs. age from t_P to current epoch.
 │
 └── supplementary/             # Extended materials
-    ├── 10_inviolable_rules_in_CKS.md # The foundational "Laws of the Substrate" that govern every derivation
-    ├── lexicon.md             # Direct mapping of CKS terminology to the Standard Model, QM, and GR
-    ├── flatland_and_kspace.md # Explains 2D-to-3D projection using the Flatland analogy
-    ├── cks_free_parameter_map.md # Formal reconciliation of CKS variables with SI experimental data
-    ├── audit_of_all_data.md   # A comprehensive review of every .dat file provided in the repository
-    ├── audit_of_all_figures.md # A comprehensive review of every .png file provided in the repository
-    ├── cks_diagnostic_results.md # In-depth commentary on the 29-point diagnostic output
-    ├── cks_coordinate_mapping.md # Logic behind k-to-x spacetime growth
-    ├── cks_particle_mass_derivation.md # Technical steps for mass harmonic calculation
-    ├── compute_g_factor.md    # Derivation details for the anomalous magnetic moment
-    ├── derive_sm_constants.md # Step-by-step logic for the 19 SM constants
-    ├── cks_particle_force_atlas.md # Breakdown of the unified particle/force mapping
-    ├── cks_full_diagnostic.md # Interpretation of the multi-variate accuracy graph
-    ├── cks_spider_diagnostic.md # Documentation for the complete system audit script
-    ├── cks_visual_diagnostic.md # Guidance on the 6-page foundational visual series
-    ├── generate_physics_data.md # Documentation of the data export and scaling pipeline
-    └── verify_physics_[0-2].md # Technical explanation of the tiered verification test results
+    ├── x.md                   # How does movement in X-Space translate to K-Space?  Movement -> Phase Evolution
+    └── x.md                   # A Comparative Analysis of Abbott's Metaphor and Cymatic Reality
 ```
 
 ---
@@ -114,6 +71,15 @@ zenodo_package/
 As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Quantum Mechanics, this paper is mechanically invalidated.
+
+---
+
+## Experimental Predictions
+
+---
+
+## Industrial Application: Quantum Mechanics
+[To be extracted from manuscript.md]
 
 ---
 
