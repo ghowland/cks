@@ -1,12 +1,16 @@
 {
     "file_name": "manuscript.md",
     "title": "[CKS-GR-1-2026] General Relativity as Mathematical Consequence of CKS",
-    "registry_id": "[CKS-MATH-1-2026]",
-    "series_path": "",
+    "registry_id": "[CKS-GR-1-2026]",
+    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-GR-1-2026]",
     "abstract": "We prove that general relativity is a mathematical necessity given the Complete Mathematical Framework (CMF), quantum mechanics (QM-MC), and Standard Model (SM-MC) as previously established. Using rigorous theorem-proof methodology, we derive Einstein's field equations from lattice spacing variations induced by phase energy density. The metric tensor emerges as the local lattice deformation field, curvature from phase gradients, and gravitational dynamics from substrate compliance. We derive the Schwarzschild solution, cosmological Robertson-Walker metric, and Friedmann equations as theorems\u2014not physical models. Gravitational constant G = 1/N, cosmological constant \u039b = 2\u03c0/N, and all cosmological parameters follow from hexagonal geometry. No physical interpretation assumed; general relativity emerges as pure mathematics: **If CMF+QM+SM axioms hold, then Einstein equations follow necessarily.**",
     "dependencies": [
         "[CKS-0-2026]",
-        "[CKS-GR-1-2026]"
+        "[CKS-MATH-0-2026]",
+        "[CKS-MATH-1-2026]",
+        "[CKS-MATH-10-2026]",
+        "[CKS-QM-1-2026]",
+        "[CKS-SM-1-2026]"
     ],
-    "raw_content_preview": "# [CKS-GR-1-2026] General Relativity as Mathematical Consequence of CKS  **A Theorem-Based Derivation of Einstein Equations, Schwarzschild Solution, and Cosmology from Hexagonal Lattice Geometry**   *..."
+    "raw_content_preview": "# [CKS-GR-1-2026] General Relativity as Mathematical Consequence of CKS  **A Theorem-Based Derivation of Einstein Equations, Schwarzschild Solution, and Cosmology from Hexagonal Lattice Geometry**  **..."
 }

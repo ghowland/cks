@@ -25,7 +25,7 @@ This publication extends the CKS framework into the **Quantum Mechanics** domain
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-0-2026], [CKS-GR-1-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026]
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026]
 
 ---
 
@@ -92,7 +92,7 @@ If you use this work in a pedagogical or research context, please cite:
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: [CKS-QM-1-2026]. Dependencies: [CKS-0-2026], [CKS-GR-1-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026] }
+  note={CKS Series: [CKS-QM-1-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026] }
 }
 ```
 ---
