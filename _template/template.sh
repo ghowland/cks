@@ -2,3 +2,4 @@
 
 python3 ../../../_template/scan.py
 python3 ../../../_template/readme_gen.py
+python3 ../../../_template/zenodo_gen.py
