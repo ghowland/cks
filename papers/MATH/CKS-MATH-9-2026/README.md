@@ -91,7 +91,22 @@ zenodo_package/
 │   └── CKS_6.png              # The 144:163 Spring: Substrate Elastic Limit & Torsion Snap
 │
 └── supplementary/             # Extended materials
-    ├── x.md                   # How does movement in X-Space translate to K-Space?  Movement -> Phase Evolution
+    ├── 10_inviolable_rules_in_CKS.md # The 10 Inviolable Rules in CKS
+    ├── lexicon.md             # CKS Lexicon.  How it maps to Standard Model, QM and GR
+    ├── verify_physics_[0-2].md                   # Explains verify_physics_[0-2].dat files
+    ├── audit_of_all_data.md                   # The 10 Inviolable Rules in CKS
+    ├── audit_of_all_figures.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_coordinate_mapping.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_diagnostic_results.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_free_parameter_map.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_full_diagnostic.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_particle_force_atlas.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_particle_mass_derivation.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_spider_diagnostic.md                   # The 10 Inviolable Rules in CKS
+    ├── cks_visual_diagnostic.md                   # The 10 Inviolable Rules in CKS
+    ├── compute_g_factor.md                   # The 10 Inviolable Rules in CKS
+    ├── derive_sm_constants.md                   # The 10 Inviolable Rules in CKS
+    ├── generate_physics_data.md                   # The 10 Inviolable Rules in CKS
     └── x.md                   # A Comparative Analysis of Abbott's Metaphor and Cymatic Reality
 ```
 
