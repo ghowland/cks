@@ -679,7 +679,7 @@ All data and code are publicly available:
 
 ### Q: Is this a "theory of everything"?
 
-**A:** No. CKS is an alternative cogntitive model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
+**A:** No. CKS is a cogntitive learning model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
 
 ### Q: Can I use this for education without accepting it as true?
 
