@@ -1,12 +1,16 @@
-# Standard Model as Mathematical Consequence of CKS
+# [CKS-SM-1-2026] Standard Model as Mathematical Consequence of CKS
 
 **A Theorem-Based Derivation of Particle Spectrum and Coupling Constants from Hexagonal Lattice Axioms**
 
+**Registry:** [CKS-SM-1-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-0-2026] → [CKS-MATH-1-2026] → [CKS-QM-1-2026] → [CKS-SM-1-2026]
+**Prerequisites:** [CKS-QM-1-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026]
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
-**Status:** Peer-Reviewed Final  
-**Parent Framework:** [CKS-0-2026]  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+
+**Motto:** Axioms first. Axioms always.
 
 ---
 
