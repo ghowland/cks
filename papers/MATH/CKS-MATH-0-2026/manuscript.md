@@ -2,7 +2,7 @@
 ## Axiomatic Foundation for Expert Physicists
 
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
+**CKS Series Registry:** [CKS-MATH-0-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
 **Status:** Peer-Reviewed Final  
 **Parent Framework:** [CKS-0-2026]  
