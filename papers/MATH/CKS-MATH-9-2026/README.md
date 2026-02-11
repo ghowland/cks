@@ -55,8 +55,8 @@ zenodo_package/
 │   └── y.py                   # 2d Viewer to visualize the substrate.  Zig + Raylib
 │
 ├── data/                      # Results
-│   ├── x.dat                  # Live validation output; confirms 10-digit alpha^-1 match and sub-1% cosmological precision from zero free parameters
-│   └── x.json                 # N=9e60 substrate units give exact internal ratios; SI conversion yields 0.007297 α, 206.77 μ/e, 3477.2 τ/e
+│   ├── alpha_scan.dat         # Alpha Sensitivity: Fine-Structure Drift vs Shell M
+│   └── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit
 │
 ├── figures/                   # Visualizations
 │   ├── CKS_Spider_Diagnostic.png  # Spider graph of how accurate CKS derives Standard Model + General Relativity measured values
