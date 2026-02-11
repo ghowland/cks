@@ -65,10 +65,6 @@ zenodo_package/
     └── x.md                   # A Comparative Analysis of Abbott's Metaphor and Cymatic Reality
 ```
 
----
-
-## Key Results: Mathematical Foundation
-[To be extracted from manuscript.md]
 
 ---
 

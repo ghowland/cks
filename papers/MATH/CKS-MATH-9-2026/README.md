@@ -55,22 +55,27 @@ zenodo_package/
 │   └── y.py                   # 2d Viewer to visualize the substrate.  Zig + Raylib
 │
 ├── data/                      # Results
-│   ├── x.dat                  # Live validation output; confirms 10-digit alpha^-1 match and sub-1% cosmological precision from zero free parameters.
-│   └── x.json                 # N=9e60 substrate units give exact internal ratios; SI conversion yields 0.007297 α, 206.77 μ/e, 3477.2 τ/e.
+│   ├── x.dat                  # Live validation output; confirms 10-digit alpha^-1 match and sub-1% cosmological precision from zero free parameters
+│   └── x.json                 # N=9e60 substrate units give exact internal ratios; SI conversion yields 0.007297 α, 206.77 μ/e, 3477.2 τ/e
 │
 ├── figures/                   # Visualizations
-│   ├── x.png                  # K-Space substrate lattice
-│   └── x.png                  # CKS timeline: N vs. age from t_P to current epoch.
+│   ├── CKS_Spider_Diagnostic.png  # Spider graph of how accurate CKS derives Standard Model + General Relativity measured values
+│   ├── CKS_Mass_Derivation.png  # Mass derivations from CKS, compared to measured values
+│   ├── CKS_Free_Parameter_Mapping.png  # CKS derivations matched to measured values.  ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent.  SI Requires Topological Jacobian application to match CKS
+│   ├── CKS_Coordinate_Mapping.png  # K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1
+│   ├── CKS_Particle_Force_Atlas.png  # Particle Force Atlas: CKS compared with SI experimental data
+│   ├── CKS_Page_1.png         # The Foundation: N and H0.  Series created by `cks_visual_diagnostic.py`
+│   ├── CKS_Page_2.png         # Alpha 10 decimal lock
+│   ├── CKS_Page_3.png         # The force hierarchy: 8:1:2
+│   ├── CKS_Page_4.png         # Somatic Topology: Thickness T
+│   ├── CKS_Page_5.png         # The 1/32 HZ vacuum grid
+│   └── CKS_Page_6.png         # The 144:163 Spring: Substrate Elastic Limit & Torsion Snap
 │
 └── supplementary/             # Extended materials
     ├── x.md                   # How does movement in X-Space translate to K-Space?  Movement -> Phase Evolution
     └── x.md                   # A Comparative Analysis of Abbott's Metaphor and Cymatic Reality
 ```
 
----
-
-## Key Results: Mathematical Foundation
-[To be extracted from manuscript.md]
 
 ---
 
