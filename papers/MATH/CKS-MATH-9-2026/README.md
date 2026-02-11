@@ -56,20 +56,27 @@ zenodo_package/
 │
 ├── data/                      # Results
 │   ├── alpha_scan.dat         # Alpha Sensitivity: Fine-Structure Drift vs Shell M
+│   ├── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit.
+│   ├── compute_g_factor.dat   # Electron g-factor: Hex-Lattice Shell Corrections.
+│   ├── cosmo_densities.dat    # Alpha Sensitivity: Fine-Structure Drift vs Shell M
+│   ├── em_sector.dat          # Alpha Sensitivity: Fine-Structure Drift vs Shell M
+│   ├── force_couplings.dat    # Alpha Sensitivity: Fine-Structure Drift vs Shell M
+│   ├── lepton_ratios.dat      # Alpha Sensitivity: Fine-Structure Drift vs Shell M
+│   ├── vacuum_quant.dat       # Alpha Sensitivity: Fine-Structure Drift vs Shell M
 │   └── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit
 │
 ├── figures/                   # Visualizations
-│   ├── CKS_Spider_Diagnostic.png  # Spider graph of how accurate CKS derives Standard Model + General Relativity measured values
-│   ├── CKS_Mass_Derivation.png  # Mass derivations from CKS, compared to measured values
-│   ├── CKS_Free_Parameter_Mapping.png  # CKS derivations matched to measured values.  ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent.  SI Requires Topological Jacobian application to match CKS
-│   ├── CKS_Coordinate_Mapping.png  # K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1
-│   ├── CKS_Particle_Force_Atlas.png  # Particle Force Atlas: CKS compared with SI experimental data
-│   ├── CKS_Page_1.png         # The Foundation: N and H0.  Series created by `cks_visual_diagnostic.py`
-│   ├── CKS_Page_2.png         # Alpha 10 decimal lock
-│   ├── CKS_Page_3.png         # The force hierarchy: 8:1:2
-│   ├── CKS_Page_4.png         # Somatic Topology: Thickness T
-│   ├── CKS_Page_5.png         # The 1/32 HZ vacuum grid
-│   └── CKS_Page_6.png         # The 144:163 Spring: Substrate Elastic Limit & Torsion Snap
+│   ├── Spider_Diagnostic.png  # Spider graph of how accurate CKS derives Standard Model + General Relativity measured values
+│   ├── Mass_Derivation.png  # Mass derivations from CKS, compared to measured values
+│   ├── Free_Parameter_Mapping.png  # CKS derivations matched to measured values.  ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent.  SI Requires Topological Jacobian application to match CKS
+│   ├── Coordinate_Mapping.png  # K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1
+│   ├── Particle_Force_Atlas.png  # Particle Force Atlas: CKS compared with SI experimental data
+│   ├── CKS_1.png              # The Foundation: N and H0.  Series created by `cks_visual_diagnostic.py`
+│   ├── CKS_2.png              # Alpha 10 decimal lock
+│   ├── CKS_3.png              # The force hierarchy: 8:1:2
+│   ├── CKS_4.png              # Somatic Topology: Thickness T
+│   ├── CKS_5.png              # The 1/32 HZ vacuum grid
+│   └── CKS_6.png              # The 144:163 Spring: Substrate Elastic Limit & Torsion Snap
 │
 └── supplementary/             # Extended materials
     ├── x.md                   # How does movement in X-Space translate to K-Space?  Movement -> Phase Evolution
