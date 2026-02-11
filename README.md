@@ -248,15 +248,6 @@
 
 ---
 
-## Discovery Process
-*Documentation of the Human-AI collaboration.*
-
-| ID | Title | Description |
-| :--- | :--- | :--- |
-| **[[CKS-DISC-1-2026]](papers/DISC/CKS-DISC-1-2026/)** | **The CKS Discovery Process** | Forensic account of the Human-AI substrate compilation. |
-
----
-
 ## Education
 *Unified pedagogical framework.*
 
@@ -281,6 +272,15 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[CKS-TEST-1-2026]](papers/TEST/CKS-TEST-1-2026/)** | **The 2.0 Hz Ultimatum** | Detection of substrate harmonic in precision interferometry. Pass/fail validation of entire framework. |
+
+---
+
+## Discovery Process
+*Documentation of the Human-AI collaboration.*
+
+| ID | Title | Description |
+| :--- | :--- | :--- |
+| **[[CKS-DISC-1-2026]](papers/DISC/CKS-DISC-1-2026/)** | **The CKS Discovery Process** | Forensic account of the Human-AI substrate compilation. |
 
 ---
 
