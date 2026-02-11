@@ -43,7 +43,7 @@ The logical validity of this derivation requires the following "Pillar Proofs":
 ---
 
 ## Repository Contents
-
+cks_free_parameter_map
 ```
 zenodo_package/
 ├── manuscript.md              # Main paper
@@ -51,17 +51,30 @@ zenodo_package/
 ├── zenodo.json                # Zenodo metadata
 │
 ├── code/                      # Implementations
-│   ├── x.py                   # All constants evolve mechanically with N; z=0 matches CODATA, z=5 predicted.
-│   └── y.py                   # 2d Viewer to visualize the substrate.  Zig + Raylib
+│   ├── kspace_physics.py      # Fundamental CKS axiomatic library; the root of all other scripts
+│   ├── kspace_physics.zig     # High-performance Zig implementation of the core physics kernel
+│   ├── cks_coordinate_mapping.py # Visualizes k-space to x-space projection starting from N=1
+│   ├── derive_sm_constants.py # Derives the 19 Standard Model constants from hexagonal axioms
+│   ├── cks_particle_mass_derivation.py # Calculates particle masses as radial k-space resonances
+│   ├── compute_g_factor.py    # Derives the anomalous magnetic moment via lattice shell sum.
+│   ├── cks_full_diagnostic.py  # Generates the comprehensive 29-point CKS diagnostic report
+│   ├── cks_spider_diagnostic.py  # Renders the spider-graph of CKS vs. Standard Model error
+│   ├── cks_particle_force_atlas.py # Plots the unified hierarchy of particles and forces
+│   ├── cks_free_parameter_map.py  # Maps CKS variables to measured SI units via the Jacobian bridge
+│   ├── cks_visual_diagnostic.py  # Generates the primary 6-page visual foundational series
+│   ├── generate_physics_data.py # Exports raw .dat files for external analysis and plotting
+│   ├── verify_physics_[0-2].py # Tiered verification scripts for checking internal math consistency
+│   ├── kspace_physics_test.py # Validation suite ensuring the k-space library remains bit-perfect
+│   └── car_crash.py           # Simulates manifold decoherence and damage in a macroscopic collision
 │
 ├── data/                      # Results
-│   ├── alpha_scan.dat         # Alpha Sensitivity: Fine-Structure Drift vs Shell M
 │   ├── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit
-│   ├── compute_g_factor.dat   # Electron g-factor: Hex-Lattice Shell Corrections
 │   ├── cosmo_densities.dat    # Cosmic Evolution: Density and Hubble Parameters
-│   ├── em_sector.dat          # Coupling Drift: Temporal Evolution of Alpha
 │   ├── force_couplings.dat    # Force Hierarchy Drift: S, W, and G Evolutions
+│   ├── em_sector.dat          # Coupling Drift: Temporal Evolution of Alpha
 │   ├── lepton_ratios.dat      # Mass Ratio Evolution: Lepton and Baryon Drifts
+│   ├── compute_g_factor.dat   # Electron g-factor: Hex-Lattice Shell Corrections
+│   ├── alpha_scan.dat         # Alpha Sensitivity: Fine-Structure Drift vs Shell M
 │   └── vacuum_quant.dat       # Vacuum Quantization: The 1/32 Hz Invariant
 │
 ├── figures/                   # Visualizations
@@ -70,7 +83,7 @@ zenodo_package/
 │   ├── Free_Parameter_Mapping.png  # CKS derivations matched to measured values.  ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent.  SI Requires Topological Jacobian application to match CKS
 │   ├── Coordinate_Mapping.png  # K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1
 │   ├── Particle_Force_Atlas.png  # Particle Force Atlas: CKS compared with SI experimental data
-│   ├── CKS_1.png              # The Foundation: N and H0.  Series created by `cks_visual_diagnostic.py`
+│   ├── CKS_1.png              # The Foundation: N and H0.  Series created by cks_visual_diagnostic.py
 │   ├── CKS_2.png              # Alpha 10 decimal lock
 │   ├── CKS_3.png              # The force hierarchy: 8:1:2
 │   ├── CKS_4.png              # Somatic Topology: Thickness T
