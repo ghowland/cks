@@ -107,7 +107,7 @@ zenodo_package/
     ├── compute_g_factor.md                   # The 10 Inviolable Rules in CKS
     ├── derive_sm_constants.md                   # The 10 Inviolable Rules in CKS
     ├── generate_physics_data.md                   # The 10 Inviolable Rules in CKS
-    └── x.md                   # A Comparative Analysis of Abbott's Metaphor and Cymatic Reality
+    └── flatland_and_kspace.md                   # Flatland and K-Space: The Dimensional Projection Problem
 ```
 
 
