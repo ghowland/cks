@@ -1,8 +1,8 @@
 {
-  "title": "Fractal Closure Scaling Laws: N = 3M\u00b2 as Universal Topological Regulator",
+  "title": "The Geometric Origin of e: Manifold Saturation and Phase Decay",
   "upload_type": "publication",
   "publication_type": "article",
-  "description": "We prove that the equation **N = 3M\u00b2** (where M \u2208 \u2115) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M \u2248 2-3), (2) cellular structures (M \u2248 10\u2075), (3) biological organisms (M \u2248 10\u00b9\u00b2), (4) planetary systems (M \u2248 10\u00b2\u00b3), and (5) the observable universe (M \u2248 10\u2076\u00b9). The **mechanical distinction between \"useful\" and \"non-useful\" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**\u2014both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters\u2014all from a single dimensionless integer M.\n\n**Key Results:**\n- N = 3M\u00b2 mandatory for closure at **all scales** (particles \u2192 universe)\n- Hierarchical nesting: M_nested = k\u00b7M_host where k \u2208 \u2115\n- Particle masses: m \u221d M\u00b2 (exact for leptons)\n- Biological complexity: I_organism \u2248 M\u00b2 bits\n- Cosmic structure: \u03a9_\u039b = 1/N where N = 3M_universe\u00b2\n- Rogue closures (tumors, cysts): valid topology, disrupted coupling (\u03b2)",
+  "description": "We present the first derivation of Euler's number e from pure geometric axioms. Rather than defining e through calculus (compound interest limit) or analysis (infinite series), we prove that e = 2.718281828... is the **unique saturation constant** of a 3-regular hexagonal manifold under phase diffusion. Starting from Axiom 1 (z = 3 coordination) and Axiom 2 (gradient flow dV/dt \u2264 0), we demonstrate that e is the only value permitting continuous phase-gradient propagation on a discrete lattice without causing (1) catastrophic frustration from sector overlap, (2) frozen configurations from overdamping, or (3) runaway oscillations from underdamping. The derivation proceeds through three stages: branching factor analysis (z-1 = 2 outputs per input), compounding expansion across M shells, and impedance matching between 2\u03c0 phase cycles and 120\u00b0 hexagonal sectors. We show that ln(N) information capacity is only possible with base e, and that the running of coupling constants \u03b1(E) directly encodes e through the formula \u03b1_EM^(-1) \u221d e\u00b7N^(1/3)/ln(N). This completes the geometric derivation of mathematical constants (\u03c0 from 12-bond closure, e from saturation, \u221a3 from z=3 coordination), demonstrating that transcendental numbers are not abstract discoveries but **topological necessities** of discrete manifold dynamics.\n\n**Key Result:** e = lim(M\u2192\u221e) (1 + 1/M)^M = unique impedance match for 3-regular hexagonal phase diffusion",
   "version": "1.0",
   "publication_date": "2026-02",
   "access_right": "open",
@@ -17,7 +17,7 @@
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-5-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-6-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -60,5 +60,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-6-2026].\n\nComputational validation and empirical comparison where applicable."
 }
