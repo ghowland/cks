@@ -87,32 +87,21 @@ def generate_readme(paper, template):
     return readme
 
 
-def main():
-    # Load data
-    papers = json.load(open('papers.json'))
-    template = open('_template/README.md').read()
-    
-    # Process each paper
-    count = 0
-    for paper in papers:
-        rid = paper['registry_id']
-        topic = rid.split('-')[1]
-        
-        # Create output path
-        output_dir = Path('papers') / topic / rid
-        output_dir.mkdir(parents=True, exist_ok=True)
-        
-        # Generate and write README
-        readme = generate_readme(paper, template)
-        output_file = output_dir / 'README.md'
-        output_file.write_text(readme)
-        
-        print(f'Generated: {output_file}')
-        count += 1
-    
-    print(f'\nTotal: {count} README files generated')
+
+
+def single():
+    template = open('../../../_template/README.md').read()
+
+    paper = json.load(open('manuscript.json'))
+    rid = paper['registry_id']
+    topic = rid.split('-')[1]
+
+    # Generate and write README
+    readme = generate_readme(paper, template)
+    with open('README.md', 'w') as fp:
+        fp.write(readme)
 
 
 if __name__ == '__main__':
-    main()
+    single()
     
