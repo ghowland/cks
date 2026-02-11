@@ -56,14 +56,13 @@ zenodo_package/
 │
 ├── data/                      # Results
 │   ├── alpha_scan.dat         # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   ├── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit.
-│   ├── compute_g_factor.dat   # Electron g-factor: Hex-Lattice Shell Corrections.
-│   ├── cosmo_densities.dat    # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   ├── em_sector.dat          # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   ├── force_couplings.dat    # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   ├── lepton_ratios.dat      # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   ├── vacuum_quant.dat       # Alpha Sensitivity: Fine-Structure Drift vs Shell M
-│   └── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit
+│   ├── cks_diagnostic_results.dat  # 29-Point Ledger: Full Universal System Audit
+│   ├── compute_g_factor.dat   # Electron g-factor: Hex-Lattice Shell Corrections
+│   ├── cosmo_densities.dat    # Cosmic Evolution: Density and Hubble Parameters
+│   ├── em_sector.dat          # Coupling Drift: Temporal Evolution of Alpha
+│   ├── force_couplings.dat    # Force Hierarchy Drift: S, W, and G Evolutions
+│   ├── lepton_ratios.dat      # Mass Ratio Evolution: Lepton and Baryon Drifts
+│   └── vacuum_quant.dat       # Vacuum Quantization: The 1/32 Hz Invariant
 │
 ├── figures/                   # Visualizations
 │   ├── Spider_Diagnostic.png  # Spider graph of how accurate CKS derives Standard Model + General Relativity measured values
