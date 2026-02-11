@@ -1,8 +1,8 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism
 
-**Registry ID:** CKS-MATH-3-2026  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
-**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
+**Registry ID:** [CKS-MATH-15-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-12-2026] → [CKS-MATH-15-2026]    
+**Zenodo DOI:** [Pending - [CKS-MATH-15-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -13,15 +13,9 @@
 ---
 
 ## Abstract
-We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (β = 2π phase tension conservation). In standard computation, self-referential paradoxes (Gödelian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction—a "Gödel particle" with φ(t) = -φ(t+Δt)—encounters the β = 2π conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (α → 1) before system-wide decoherence can propagate. We derive the decidability constant Ω = β_total/β_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**—regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M → 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes "physics" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental Gödel states). With zero free parameters, we demonstrate the universe is a formally verified system where Gödel's incompleteness cannot manifest physically—all logical paradoxes are caught at the β = 2π firewall.
 
-**Key Results:**
-- N = 3M² mandatory for closure at **all scales** (particles → universe)
-- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
-- Particle masses: m ∝ M² (exact for leptons)
-- Biological complexity: I_organism ≈ M² bits
-- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
-- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
+**Key Result:** Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved)
 
 ---
 
@@ -33,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026]
 
 ---
 
@@ -100,12 +94,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_3_2026,
-  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
+@article{ [cks_math_15_2026],
+  title={ Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-15-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026] }
 }
 ```
 ---

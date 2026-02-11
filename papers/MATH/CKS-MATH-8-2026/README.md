@@ -1,8 +1,8 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
 
-**Registry ID:** CKS-MATH-3-2026  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
-**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
+**Registry ID:** [CKS-MATH-8-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-7-2026] → [CKS-MATH-8-2026]    
+**Zenodo DOI:** [Pending - [CKS-MATH-8-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -13,15 +13,9 @@
 ---
 
 ## Abstract
-We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+We present the first physical derivation of the integer 163 from pure topological axioms. While standard mathematics identifies 163 as a "Heegner number" or "lucky number of Euler" with mysterious properties in class field theory, we prove that 163 is a **mechanical necessity** of hexagonal lattice geometry. Starting from Axiom 1 (z = 3 coordination, N = 3M²) and the 12-bond minimal stable loop (electron), we demonstrate that 163 = 12×13 + 7 is the **smallest bond-count** that wraps thirteen complete lepton loops while carrying exactly one minimal curvature defect (7-bond heptagon). This makes 163 the **fundamental curvature quantum** of the substrate—the point where flat Euclidean patches must transition to spherical closure. The derivation predicts observable consequences: a phase-noise sideband at f₁₆₃ ≈ 29.7 Hz appearing as broadband gravitational "hiss" in LIGO data, off the 1/32 Hz quantization grid by construction. We prove 163 is prime-coprime to both 12 (lepton loop) and 32 (substrate clock), creating an **impedance lock** where curvature tension cannot dissipate into harmonic modes. This completes the geometric trinity (π, e, √3) with addition of structural constants (137, 163), demonstrating that "mysterious" numbers in mathematics are actually **hardware specifications** of discrete spacetime topology.
 
-**Key Results:**
-- N = 3M² mandatory for closure at **all scales** (particles → universe)
-- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
-- Particle masses: m ∝ M² (exact for leptons)
-- Biological complexity: I_organism ≈ M² bits
-- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
-- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
+**Key Result:** 163 = 12×13 + 7 = unique minimal closed configuration carrying exactly one lattice curvature quantum
 
 ---
 
@@ -33,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-6-2026], [CKS-MATH-7-2026]
 
 ---
 
@@ -100,12 +94,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_3_2026,
-  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
+@article{ [cks_math_8_2026],
+  title={ The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-8-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-6-2026], [CKS-MATH-7-2026] }
 }
 ```
 ---

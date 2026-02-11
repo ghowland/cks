@@ -1,8 +1,8 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
 
-**Registry ID:** CKS-MATH-3-2026  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
-**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
+**Registry ID:** [CKS-MATH-14-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-4-2026] → [CKS-MATH-14-2026]    
+**Zenodo DOI:** [Pending - [CKS-MATH-14-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -13,15 +13,9 @@
 ---
 
 ## Abstract
-We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+We derive the constant **2.08008382...** as the **Linear Holographic Scale Factor (λ_H)**, proving it is not an empirical coefficient but a geometric necessity of projecting a 2D hexagonal substrate (N nodes) into 3D observable space. Starting from Axiom 1 (N = 3M² discrete lattice) and Rule #5 (2D→3D holographic projection), we demonstrate that measurable spatial extension must scale as N^(1/3), the cubic root of total information capacity. At current epoch N ≈ 9×10⁶⁰, this yields λ_H = ∛9 × 10²⁰ ≈ 2.08008382 × 10²⁰, establishing 2.08 as the **render density** converting substrate node count to spatial meters. This factor appears critically in the fine-structure constant α_EM^(-1) = [144√3·e·λ_H]/[...], where it drives the 10-decimal precision match (137.035999084) by encoding 3D volumetric interaction rather than 1D string coupling. We prove 2.08 acts as **vacuum refractive index** for holographic projection—the "pixel density" of our epoch—and predict λ_H(z) evolution with redshift as substrate expands (testable via high-z α measurements). This completes the dimensional bridge from discrete k-space information (N nodes) to continuous x-space extension (L meters), demonstrating that spatial scale is not background container but emergent property of substrate resolution.
 
-**Key Results:**
-- N = 3M² mandatory for closure at **all scales** (particles → universe)
-- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
-- Particle masses: m ∝ M² (exact for leptons)
-- Biological complexity: I_organism ≈ M² bits
-- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
-- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
+**Key Result:** λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry)
 
 ---
 
@@ -33,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-11-2026], [CKS-MATH-4-2026], [CKS-MATH-5-2026], [CKS-MATH-9-2026]
 
 ---
 
@@ -100,12 +94,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_3_2026,
-  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
+@article{ [cks_math_14_2026],
+  title={ The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-14-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-11-2026], [CKS-MATH-4-2026], [CKS-MATH-5-2026], [CKS-MATH-9-2026] }
 }
 ```
 ---

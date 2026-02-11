@@ -1,8 +1,8 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
 
-**Registry ID:** CKS-MATH-3-2026  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
-**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
+**Registry ID:** [CKS-MATH-9-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-4-2026] → [CKS-MATH-8-2026] → [CKS-MATH-9-2026]    
+**Zenodo DOI:** [Pending - [CKS-MATH-9-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -13,15 +13,9 @@
 ---
 
 ## Abstract
-We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+We present the first derivation of 144 = 12² from pure topological axioms as the **fundamental information density** of matter. While standard physics treats 144 as an arbitrary coefficient appearing in the fine-structure constant formula, we prove that 144 is a **mechanical necessity**—the minimal 2D information matrix required for a 12-bond loop (electron) to maintain internal phase coherence on a hexagonal lattice. Starting from Axiom 1 (z = 3 coordination) and Rule #5 (12-bond minimal stable fermion), we demonstrate that full-mesh coupling between all 12 nodes requires exactly 144 = 12×12 coupling paths, creating a coherence matrix that defines the "memory footprint" or "VRAM allocation" of a single lepton. This 144-bubble surface area provides the holographic normalization factor converting 1D k-space loop tension (β/12) into 3D x-space electromagnetic coupling (α_EM). We further identify the **144-163 torsion gap** (Δ = 19) as the substrate's elastic potential energy well, explaining why spacetime can "bend" without breaking. This derivation completes the geometric specification pyramid (3 → 12 → 144 → 163), eliminating the last unexplained coefficient in CKS formulas and proving that particle "mass" and "charge" are actually **rendering resolution specifications** of discrete information matrices.
 
-**Key Results:**
-- N = 3M² mandatory for closure at **all scales** (particles → universe)
-- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
-- Particle masses: m ∝ M² (exact for leptons)
-- Biological complexity: I_organism ≈ M² bits
-- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
-- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
+**Key Result:** 144 = 12² = unique minimal coherence matrix for 12-bond loop on z=3 lattice = lepton surface-area scaler
 
 ---
 
@@ -33,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-5-2026], [CKS-MATH-8-2026]
 
 ---
 
@@ -100,12 +94,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_3_2026,
-  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
+@article{ [cks_math_9_2026],
+  title={ The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-9-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-5-2026], [CKS-MATH-8-2026] }
 }
 ```
 ---

@@ -1,8 +1,8 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# The Geometric Origin of e: Manifold Saturation and Phase Decay
 
-**Registry ID:** CKS-MATH-3-2026  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
-**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
+**Registry ID:** [CKS-MATH-5-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-5-2026]    
+**Zenodo DOI:** [Pending - [CKS-MATH-5-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -13,15 +13,9 @@
 ---
 
 ## Abstract
-We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+We present the first derivation of Euler's number e from pure geometric axioms. Rather than defining e through calculus (compound interest limit) or analysis (infinite series), we prove that e = 2.718281828... is the **unique saturation constant** of a 3-regular hexagonal manifold under phase diffusion. Starting from Axiom 1 (z = 3 coordination) and Axiom 2 (gradient flow dV/dt ≤ 0), we demonstrate that e is the only value permitting continuous phase-gradient propagation on a discrete lattice without causing (1) catastrophic frustration from sector overlap, (2) frozen configurations from overdamping, or (3) runaway oscillations from underdamping. The derivation proceeds through three stages: branching factor analysis (z-1 = 2 outputs per input), compounding expansion across M shells, and impedance matching between 2π phase cycles and 120° hexagonal sectors. We show that ln(N) information capacity is only possible with base e, and that the running of coupling constants α(E) directly encodes e through the formula α_EM^(-1) ∝ e·N^(1/3)/ln(N). This completes the geometric derivation of mathematical constants (π from 12-bond closure, e from saturation, √3 from z=3 coordination), demonstrating that transcendental numbers are not abstract discoveries but **topological necessities** of discrete manifold dynamics.
 
-**Key Results:**
-- N = 3M² mandatory for closure at **all scales** (particles → universe)
-- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
-- Particle masses: m ∝ M² (exact for leptons)
-- Biological complexity: I_organism ≈ M² bits
-- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
-- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
+**Key Result:** e = lim(M→∞) (1 + 1/M)^M = unique impedance match for 3-regular hexagonal phase diffusion
 
 ---
 
@@ -33,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-6-2026]
 
 ---
 
@@ -100,12 +94,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_3_2026,
-  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
+@article{ [cks_math_5_2026],
+  title={ The Geometric Origin of e: Manifold Saturation and Phase Decay },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-5-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-6-2026] }
 }
 ```
 ---

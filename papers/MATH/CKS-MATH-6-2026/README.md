@@ -1,8 +1,8 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# The Geometric Origin of π: The 12-Bond Circumference Invariant
 
-**Registry ID:** CKS-MATH-3-2026  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]    
-**Zenodo DOI:** [Pending - CKS-MATH-3-2026]
+**Registry ID:** [CKS-MATH-6-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-5-2026] → [CKS-MATH-6-2026]    
+**Zenodo DOI:** [Pending - [CKS-MATH-6-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -13,15 +13,9 @@
 ---
 
 ## Abstract
-We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales**. Using group-theoretic analysis, we demonstrate that this requirement applies identically to: (1) fundamental particles (M ≈ 2-3), (2) cellular structures (M ≈ 10⁵), (3) biological organisms (M ≈ 10¹²), (4) planetary systems (M ≈ 10²³), and (5) the observable universe (M ≈ 10⁶¹). The **mechanical distinction between "useful" and "non-useful" closures** (e.g., healthy cells vs. tumors) is revealed to be a **value judgment external to topology**—both are valid solutions to the same hexagonal closure equation. We derive the **fractal scaling laws** governing hierarchical nested structures and prove that **reality is self-similar** across 61 orders of magnitude in M. The framework predicts exact relationships between particle masses, cellular sizes, organism complexity, and cosmological parameters—all from a single dimensionless integer M.
+We present the first derivation of π from pure topological axioms. Rather than defining π through Euclidean geometry (circle circumference/diameter) or infinite series, we prove that π = 3.14159265358979... is the **unique phase-closure constant** required for a 12-bond hexagonal loop to complete a perfect 2π phase rotation without topological seam. Starting from Axiom 1 (N = 3M², z = 3 coordination) and Axiom 2 (β = 2π phase tension), we demonstrate that π is forced by three independent requirements: (1) 12-bond minimal stable closure (electron at M=2), (2) 120° hexagonal junction angles requiring 360° total rotation, and (3) zero geometric frustration at sector boundaries. The derivation proceeds through discrete angular analysis, showing that any value π ± ε causes either incomplete phase return (creating disconnected 12th node) or sector overlap (catastrophic frustration). We prove π is the unique impedance match between 12 discrete steps and continuous S¹ rotation, completing the CKS constant trinity (π, e, √3). This eliminates π as a free parameter, demonstrating that "the most mysterious number in mathematics" is actually a **mechanical tolerance specification** of hexagonal substrate closure.
 
-**Key Results:**
-- N = 3M² mandatory for closure at **all scales** (particles → universe)
-- Hierarchical nesting: M_nested = k·M_host where k ∈ ℕ
-- Particle masses: m ∝ M² (exact for leptons)
-- Biological complexity: I_organism ≈ M² bits
-- Cosmic structure: Ω_Λ = 1/N where N = 3M_universe²
-- Rogue closures (tumors, cysts): valid topology, disrupted coupling (β)
+**Key Result:** π = (12-bond perimeter)/(effective phase diameter) = unique value permitting seamless 2π phase-flip on z=3 lattice
 
 ---
 
@@ -33,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-5-2026]
 
 ---
 
@@ -100,12 +94,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_math_3_2026,
-  title={ Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator },
+@article{ [cks_math_6_2026],
+  title={ The Geometric Origin of π: The 12-Bond Circumference Invariant },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-MATH-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-6-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-4-2026], [CKS-MATH-5-2026] }
 }
 ```
 ---
