@@ -55,11 +55,16 @@ def generate_zenodo_json(paper, template):
     # Load template as dict
     zenodo = json.loads(template)
     
+    # Path
+    fullpath = Path.cwd()
+    path = fullpath.parts[-2:]
+
     # Update fields
     zenodo['title'] = title
     zenodo['description'] = abstract if abstract else '[Description to be added]'
     zenodo['version'] = '1.0'
     zenodo['publication_date'] = '2026-02'
+    zenodo['related_identifiers']['identifier'] = zenodo['related_identifiers']['identifier'].replace('<<PATH>>', '/'.join(path))
     
     # Update notes with registry ID and dependencies
     deps = [d for d in paper['dependencies'] if d != 'CKS-0-2026']

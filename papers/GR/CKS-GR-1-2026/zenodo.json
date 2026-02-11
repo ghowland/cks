@@ -18,6 +18,12 @@
     "substrate mechanics"
   ],
   "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-GR-1-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-QM-1-2026], [CKS-SM-1-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into General Relativity. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": {
+    "scheme": "url",
+    "identifier": "https://github.com/ghowland/cks/GR/CKS-GR-1-2026",
+    "relation": "isSupplementedBy",
+    "resource_type": "software"
+  },
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +56,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
