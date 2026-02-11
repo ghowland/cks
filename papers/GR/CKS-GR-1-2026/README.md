@@ -1,8 +1,8 @@
 # General Relativity as Mathematical Consequence of CKS
 
-**Registry ID:** CKS-GR-1-2026  
+**Registry ID:** [CKS-MATH-1-2026]  
 **Series Path:**   
-**Zenodo DOI:** [Pending - CKS-GR-1-2026]
+**Zenodo DOI:** [Pending - [CKS-MATH-1-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -18,14 +18,14 @@ We prove that general relativity is a mathematical necessity given the Complete 
 ---
 
 ## Substrate Mechanics (Series Context)
-This publication extends the CKS framework into the **General Relativity** domain. It is grounded in the two fundamental axioms of the substrate:
+This publication extends the CKS framework into the **Mathematical Foundation** domain. It is grounded in the two fundamental axioms of the substrate:
 
 1. **Axiom 1 (Topology):** Reality is a 2D hexagonal lattice in k-space with \( N \approx 9 \times 10^{60} \).
 2. **Axiom 2 (Dynamics):** Local coupling of k-modes via the discrete graph Laplacian.
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Prerequisites:** [CKS-0-2026], [CKS-GR-1-2026]
 
 ---
 
@@ -67,15 +67,10 @@ zenodo_package/
 
 ---
 
-## Key Results: General Relativity
-[To be extracted from manuscript.md]
-
----
-
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
 As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
 
-The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to General Relativity, this paper is mechanically invalidated.
+The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Mathematical Foundation, this paper is mechanically invalidated.
 
 ---
 
@@ -83,7 +78,7 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 
 ---
 
-## Industrial Application: General Relativity
+## Industrial Application: Mathematical Foundation
 [To be extracted from manuscript.md]
 
 ---
@@ -92,12 +87,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ cks_gr_1_2026,
+@article{ [cks_math_1_2026],
   title={ General Relativity as Mathematical Consequence of CKS },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: CKS-GR-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026 }
+  note={CKS Series: [CKS-MATH-1-2026]. Dependencies: [CKS-0-2026], [CKS-GR-1-2026] }
 }
 ```
 ---
