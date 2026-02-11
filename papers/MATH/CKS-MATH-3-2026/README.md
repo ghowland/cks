@@ -49,6 +49,7 @@ The logical validity of this derivation requires the following "Pillar Proofs":
 ---
 
 ## Repository Contents
+
 ```
 zenodo_package/
 ├── manuscript.md              # Main paper
