@@ -15,11 +15,20 @@
     "discrete spacetime",
     "zero free parameters",
     "falsifiable physics",
-    "substrate mechanics"
+    "substrate mechanics",
+    "python"
   ],
   
   "notes": "<<NOTES>>",
-  
+    
+  "related_identifiers": 
+  {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+  },
+
   "creators": [
     {
       "name": "Howland, Geoffrey",
