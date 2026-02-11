@@ -4,8 +4,9 @@
 **Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-5-2026] → [CKS-MATH-6-2026]  
 **Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-5-2026] (Origin of e)  
 **Subject:** Derivation of π from Hexagonal Loop Closure; Phase-Flip Invariants  
-**Status:** Rigorous Proof — Topological Invariant — Final Lock  
-**Date:** February 2026
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+
+**Motto:** Axioms first. Axioms always.
 
 ---
 

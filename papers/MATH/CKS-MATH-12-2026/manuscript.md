@@ -4,8 +4,9 @@
 **Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-10-2026] → [CKS-MATH-12-2026]  
 **Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-10-2026] (Grand Unification), [CKS-MATH-11-2026] (Jacobian)  
 **Subject:** Baryogenesis; Initial Symmetry Breaking; Substrate Initialization; Matter-Antimatter Asymmetry  
-**Status:** Rigorous Proof — Final Mathematical Lock  
-**Date:** February 2026
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+
+**Motto:** Axioms first. Axioms always.
 
 ---
 
