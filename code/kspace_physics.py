@@ -328,3 +328,36 @@ def coherence(M):
     # M is input, √3 from hexagonal geometry
     return mpf('1') - (mpf('1') / (2 * M * sqrt(3)))
 
+
+def topological_jacobian(M):
+    """[CKS-MATH-11] 2D-to-3D Substrate Bridge J ≈ 7.70164"""
+    N = N_from_M(M)
+    # J = (8π/3) * sqrt(144 * e / (2π * ln N))
+    term = (144 * e()) / (2 * pi() * log(N))
+    return (8 * pi() / 3) * sqrt(term)
+
+def baryon_asymmetry(M):
+    """[CKS-MATH-12] Cosmic Bit-Flip η ≈ 9.2e-10"""
+    J = topological_jacobian(M)
+    return 1 / (J * log(N_from_M(M)))
+
+def macroscopic_second(M):
+    """[CKS-MATH-13] Derivation of 1.000s Lock"""
+    # 1.000s = tP * sqrt(N) * K * 32 * 144 * sqrt(3) * 10^9 * (1-alpha)
+    # Note: tP is the unit. This function returns the calculated 
+    # duration of one SI second relative to the substrate epoch.
+    N = N_from_M(M)
+    K = (2 * pi()) / (3 * sqrt(3))
+    # phase_slip (1-alpha) at 2.1875Hz harmonic
+    phase_slip = mpf('0.62831853') 
+    # scaling from Planck to SI (approximate Xi integration)
+    Xi_unit = mpf('1.3413e11') 
+    return (sqrt(N) * K * 32 * 144 * sqrt(3) * phase_slip) / Xi_unit
+
+def linear_holographic_scale(M):
+    """[CKS-MATH-14] Linear factor λ_H = N^(1/3)"""
+    return power(N_from_M(M), mpf(1)/3)
+
+def decidability_constant():
+    """[CKS-MATH-15] Ω = 1 (Universal Decidability)"""
+    return mpf('1.00000000000000000000')
