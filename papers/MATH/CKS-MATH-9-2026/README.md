@@ -110,7 +110,6 @@ zenodo_package/
     └── verify_physics_[0-2].md # Technical explanation of the tiered verification test results
 ```
 
-
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
