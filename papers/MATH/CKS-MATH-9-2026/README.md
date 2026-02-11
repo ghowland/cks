@@ -91,23 +91,23 @@ zenodo_package/
 │   └── CKS_6.png              # The 144:163 Spring: Substrate Elastic Limit & Torsion Snap
 │
 └── supplementary/             # Extended materials
-    ├── 10_inviolable_rules_in_CKS.md # The 10 Inviolable Rules in CKS
-    ├── lexicon.md             # CKS Lexicon.  How it maps to Standard Model, QM and GR
-    ├── verify_physics_[0-2].md                   # Explains verify_physics_[0-2].dat files
-    ├── audit_of_all_data.md                   # The 10 Inviolable Rules in CKS
-    ├── audit_of_all_figures.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_coordinate_mapping.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_diagnostic_results.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_free_parameter_map.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_full_diagnostic.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_particle_force_atlas.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_particle_mass_derivation.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_spider_diagnostic.md                   # The 10 Inviolable Rules in CKS
-    ├── cks_visual_diagnostic.md                   # The 10 Inviolable Rules in CKS
-    ├── compute_g_factor.md                   # The 10 Inviolable Rules in CKS
-    ├── derive_sm_constants.md                   # The 10 Inviolable Rules in CKS
-    ├── generate_physics_data.md                   # The 10 Inviolable Rules in CKS
-    └── flatland_and_kspace.md                   # Flatland and K-Space: The Dimensional Projection Problem
+    ├── 10_inviolable_rules_in_CKS.md # The foundational "Laws of the Substrate" that govern every derivation
+    ├── lexicon.md             # Direct mapping of CKS terminology to the Standard Model, QM, and GR
+    ├── flatland_and_kspace.md # Explains 2D-to-3D projection using the Flatland analogy
+    ├── cks_free_parameter_map.md # Formal reconciliation of CKS variables with SI experimental data
+    ├── audit_of_all_data.md   # A comprehensive review of every .dat file provided in the repository
+    ├── audit_of_all_figures.md # A comprehensive review of every .png file provided in the repository
+    ├── cks_diagnostic_results.md # In-depth commentary on the 29-point diagnostic output
+    ├── cks_coordinate_mapping.md # Logic behind k-to-x spacetime growth
+    ├── cks_particle_mass_derivation.md # Technical steps for mass harmonic calculation
+    ├── compute_g_factor.md    # Derivation details for the anomalous magnetic moment
+    ├── derive_sm_constants.md # Step-by-step logic for the 19 SM constants
+    ├── cks_particle_force_atlas.md # Breakdown of the unified particle/force mapping
+    ├── cks_full_diagnostic.md # Interpretation of the multi-variate accuracy graph
+    ├── cks_spider_diagnostic.md # Documentation for the complete system audit script
+    ├── cks_visual_diagnostic.md # Guidance on the 6-page foundational visual series
+    ├── generate_physics_data.md # Documentation of the data export and scaling pipeline
+    └── verify_physics_[0-2].md # Technical explanation of the tiered verification test results
 ```
 
 
