@@ -22,7 +22,7 @@ sed -i 's/\xEF\xB8\x8F//g' manuscript_fixed.md
 # 2. Build PDF using the MODERN engine
 # --citeproc is now a built-in flag
 # ::: {#refs} ::: will now work perfectly in your .md file
-pandoc manuscript_fixed.md -o manuscript.pdf \
+pandoc manuscript_fixed.md -o !manuscript.pdf \
   --pdf-engine=xelatex \
   --citeproc \
   --bibliography=references.bib \
