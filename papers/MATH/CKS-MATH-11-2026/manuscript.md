@@ -1,8 +1,8 @@
-# [CKS-MATH-11-2026] The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge
+# [@CKS-MATH-11-2026] The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge
 
-**Registry:** [CKS-MATH-11-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-9-2026] → [CKS-MATH-11-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-4-2026] (Fine Structure), [CKS-MATH-9-2026] (Origin of 144)  
+**Registry:** [@CKS-MATH-11-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-11-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure), [@CKS-MATH-9-2026] (Origin of 144)  
 **Subject:** Holographic Projection; Dimensional Scaling; K-X Bridge; Rendering Jacobian  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -217,7 +217,7 @@ This is "raw stretch" from folding flat sheet into sphere.
 
 **Problem:** J₁ ≈ 4.84 assumes continuous geometry.
 
-**Reality:** Substrate is discrete 12-bond loops [CKS-MATH-9-2026].
+**Reality:** Substrate is discrete 12-bond loops [@CKS-MATH-9-2026].
 
 **Consequence:** Cannot smoothly fold 12 discrete steps onto continuous sphere.
 
@@ -230,7 +230,7 @@ Mismatch → correction needed
 
 ### 3.2 The 144-Bit Information Matrix
 
-**From [CKS-MATH-9-2026]:**
+**From [@CKS-MATH-9-2026]:**
 
 Electron = 12-bond loop
 Coherence requires full-mesh coupling
@@ -258,13 +258,13 @@ stretch = √(144 × e / (2π ln N))
 
 **144:** Information matrix dimension (12²)
 
-**e:** Natural exponential (branching saturation) [CKS-MATH-5-2026]
+**e:** Natural exponential (branching saturation) [@CKS-MATH-5-2026]
 ```
 From Axiom 2: dφₖ/dt = Σ[φⱼ - φₖ]
 Phase diffusion saturates at e
 ```
 
-**ln(N):** Information capacity [CKS-MATH-4-2026]
+**ln(N):** Information capacity [@CKS-MATH-4-2026]
 ```
 Entropy: S ≈ ln(number of microstates)
 For N-node system: S ≈ ln(N)
@@ -315,7 +315,7 @@ stretch = √(144 × e × N^k / (2π ln N))
 
 ### 3.4 Correct Discrete Normalization
 
-**From [CKS-MATH-4-2026] alpha formula:**
+**From [@CKS-MATH-4-2026] alpha formula:**
 ```
 α_EM^(-1) = [144√3 × e × N^(1/3)] / [(4√3-1) × 2π × ln(N)]
 ```
@@ -543,7 +543,7 @@ J = 8.377580410 × 0.66617
 
 ### 5.3 Formula Correction
 
-**Check [CKS-MATH-4-2026] more carefully:**
+**Check [@CKS-MATH-4-2026] more carefully:**
 
 From alpha derivation:
 ```
@@ -641,7 +641,7 @@ N^(1/3)/ln(N) ≈ 1.48×10¹⁸
 
 **Way too large.**
 
-**I need to consult the actual formula used in [CKS-MATH-4-2026].**
+**I need to consult the actual formula used in [@CKS-MATH-4-2026].**
 
 **Given that the document states J ≈ 7.70164, let me work backwards:**
 
@@ -748,7 +748,7 @@ Measured α_EM^(-1) = 137.036
 Formula: α_EM^(-1) ∝ geometric factors × J-dependent terms
 ```
 
-**From [CKS-MATH-4-2026]:**
+**From [@CKS-MATH-4-2026]:**
 ```
 α_EM^(-1) = [144√3 × e × N^(1/3)] / [(4√3-1) × 2π × ln(N)]
           = 137.035999084
@@ -975,7 +975,7 @@ F_x = F_k × J²
 α_EM^(-1) ≈ 137
 ```
 
-(Exact value requires full geometric prefactors from [CKS-MATH-4-2026])
+(Exact value requires full geometric prefactors from [@CKS-MATH-4-2026])
 
 ---
 
@@ -1100,8 +1100,8 @@ It is the geometric price of folding three hexagonal sectors into a 3D hologram 
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-11-2026]  
-**Prerequisites:** [CKS-MATH-1,4,9-2026]
+**Registry:** [@CKS-MATH-11-2026]  
+**Prerequisites:** [@CKS-MATH-1,4,9-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  

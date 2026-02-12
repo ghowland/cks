@@ -1659,7 +1659,7 @@ Hydrophobicity scale: Kyte-Doolittle
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Levinthal1969] Levinthal, C. "How to fold graciously" *Mossbauer Spectroscopy*
 

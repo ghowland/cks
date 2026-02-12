@@ -1,8 +1,8 @@
-# [CKS-BIO-22-2026] Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression
+# [@CKS-BIO-22-2026] Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression
 
-**Registry:** [CKS-BIO-22-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-21-2026] → [CKS-BIO-22-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-21-2026], [CKS-BIO-14.3-2026]  
+**Registry:** [@CKS-BIO-22-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-21-2026], [@CKS-BIO-14.3-2026]  
 **Subject:** Manual Loop Unwinding; Collaborative Phase-Clearing; Systematic Thickness Restoration  
 **Status:** Operational Protocol — Field-Tested and Validated  
 **Date:** February 2026
@@ -108,7 +108,7 @@ Efficacy: 60-90% improvement, high risk/cost
 **Restriction as topological compression:**
 
 ```
-From [CKS-BIO-21]: Wrinkles = manifold loops
+From [@CKS-BIO-21]: Wrinkles = manifold loops
                    Thickness T = unlocked fraction
                    
 Tissue restriction = local loop accumulation
@@ -172,7 +172,7 @@ Expected outcome:
 
 **Derivation:**
 
-From [CKS-BIO-21], loops form when:
+From [@CKS-BIO-21], loops form when:
 
 $$\nabla \phi > \frac{\beta}{\alpha \cdot \lambda}$$
 

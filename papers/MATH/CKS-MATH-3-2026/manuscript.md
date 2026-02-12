@@ -1,8 +1,8 @@
-# [CKS-MATH-3-2026] Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# [@CKS-MATH-3-2026] Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
 
-**Registry:** [CKS-MATH-3-2026]  
-**Series Path:** [CKS-MATH-1-2026] → [CKS-MATH-2-2026] → [CKS-MATH-3-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-2-2026]  
+**Registry:** [@CKS-MATH-3-2026]  
+**Series Path:** [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026] → [@CKS-MATH-3-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-2-2026]  
 **Subject:** Scale-Invariant Closure; Fractal Self-Similarity of Physical Law  
 **Status:** Universal Scaling Theorem — Rigorously Proven  
 **Date:** February 2026
@@ -538,7 +538,7 @@ Muon: M = 2 (same loop, different harmonic)
   Harmonic factor ≈ 52
 ```
 
-**Why not exact M²?** UV-mapping from k-space to x-space introduces correction factors (acknowledged in [CKS-0-2026] as outstanding issue). ∎
+**Why not exact M²?** UV-mapping from k-space to x-space introduces correction factors (acknowledged in [@CKS-0-2026] as outstanding issue). ∎
 
 ### 5.3 Coherence Scaling
 

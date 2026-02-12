@@ -1723,7 +1723,7 @@ Expected outcomes:
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Laurent2006] Laurent, S. et al. "Arterial stiffness and CVD" *Hypertension*
 

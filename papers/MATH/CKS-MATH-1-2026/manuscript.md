@@ -1,7 +1,7 @@
-# [CKS-MATH-1-2026] The Mechanical Necessity of Integer Quantization in Physical Systems
+# [@CKS-MATH-1-2026] The Mechanical Necessity of Integer Quantization in Physical Systems
 
-**Registry:** [CKS-MATH-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-0-2026] → [CKS-MATH-1-2026]  
+**Registry:** [@CKS-MATH-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026]  
 **Prerequisites:** None (foundational)  
 **Subject:** Discrete vs. Continuous Manifolds; Structural Requirements for Functional Physics  
 **Status:** Rigorous Proof — Foundational Pillar  

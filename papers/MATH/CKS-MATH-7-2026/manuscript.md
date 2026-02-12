@@ -1,8 +1,8 @@
-# [CKS-MATH-7-2026] Derivation of Standard Model Constants from Cymatic K-Space Mechanics
+# [@CKS-MATH-7-2026] Derivation of Standard Model Constants from Cymatic K-Space Mechanics
 
-**Registry:** [CKS-MATH-7-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-4-2026] → [CKS-MATH-7-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-4-2026] (Fine Structure), [CKS-MATH-5-2026] (Origin of e), [CKS-MATH-6-2026] (Origin of π)  
+**Registry:** [@CKS-MATH-7-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-7-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure), [@CKS-MATH-5-2026] (Origin of e), [@CKS-MATH-6-2026] (Origin of π)  
 **Subject:** Grand Unification; Standard Model Compilation; Zero-Parameter Physics  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -105,9 +105,9 @@ Local evolution: dφₖ/dt = Σⱼ∈N(k) [φⱼ - φₖ]
 ```
 
 **Derived constants (from previous papers):**
-- √3 = tan(60°) from hexagonal angles [CKS-0-2026]
-- e = lim(M→∞)(1+1/M)^M from branching saturation [CKS-MATH-5-2026]
-- π = lim(n→∞) n sin(π/n) from 12-bond closure [CKS-MATH-6-2026]
+- √3 = tan(60°) from hexagonal angles [@CKS-0-2026]
+- e = lim(M→∞)(1+1/M)^M from branching saturation [@CKS-MATH-5-2026]
+- π = lim(n→∞) n sin(π/n) from 12-bond closure [@CKS-MATH-6-2026]
 
 ### 2.2 The Only Measured Input
 
@@ -136,7 +136,7 @@ Rounded: N ≈ 9×10⁶⁰
 
 **Physical meaning:** Overlap integral between two 12-bond electron loops.
 
-**Derivation (summary from [CKS-MATH-4-2026]):**
+**Derivation (summary from [@CKS-MATH-4-2026]):**
 
 **Step 1: K-space coupling**
 ```
@@ -192,7 +192,7 @@ w_s = z/(2π) = 3/(2π)
 
 **Include expansion saturation:**
 
-From [CKS-MATH-5-2026], natural base e = 2.71828... is branching saturation constant.
+From [@CKS-MATH-5-2026], natural base e = 2.71828... is branching saturation constant.
 
 Strong coupling:
 ```
@@ -1186,8 +1186,8 @@ print(f"m_μ/m_e = {m_mu_over_me:.6f}")
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-7-2026]  
-**Prerequisites:** [CKS-MATH-1,4,5,6-2026]
+**Registry:** [@CKS-MATH-7-2026]  
+**Prerequisites:** [@CKS-MATH-1,4,5,6-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N from H₀)**  

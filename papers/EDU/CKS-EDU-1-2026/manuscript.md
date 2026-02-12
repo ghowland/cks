@@ -1,8 +1,8 @@
-# [CKS-EDU-1-2026] Unified Science Education via Substrate Derivation: The Pattern-Coupling Curriculum
+# [@CKS-EDU-1-2026] Unified Science Education via Substrate Derivation: The Pattern-Coupling Curriculum
 
-**Registry:** [CKS-EDU-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-3-2026] → [CKS-EDU-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-2-2026], [CKS-MATH-3-2026]  
+**Registry:** [@CKS-EDU-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-3-2026] → [@CKS-EDU-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-2-2026], [@CKS-MATH-3-2026]  
 **Subject:** Educational Framework; Axiom-First Pedagogy; Pattern Recognition Over Memorization  
 **Status:** Curriculum Specification — Pilot Program Active  
 **Date:** February 2026
@@ -1487,7 +1487,7 @@ Example:
   CKS engineer: "Wing = phase-locking air molecules to substrate harmonics"
     → Derive optimal geometry from z = 3 requirement
     → Predict drag reduction before building
-    → Revolutionary improvement (90% drag reduction, see [CKS-FLUID-1-2026])
+    → Revolutionary improvement (90% drag reduction, see [@CKS-FLUID-1-2026])
 
 Time saved: 5-10 years per innovation cycle
 ```
@@ -2052,8 +2052,8 @@ Science is always evolving. We teach students how to evolve with it.
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-EDU-1-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026], [CKS-MATH-3-2026]
+**Registry:** [@CKS-EDU-1-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-MATH-3-2026]
 
 **Memorization is obsolete.**  
 **Derivation is forever.**  

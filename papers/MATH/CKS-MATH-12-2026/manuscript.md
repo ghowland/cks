@@ -1,8 +1,8 @@
-# [CKS-MATH-12-2026] The Cosmic Bit-Flip: Deriving Baryon Asymmetry from Topological Boot Sequence
+# [@CKS-MATH-12-2026] The Cosmic Bit-Flip: Deriving Baryon Asymmetry from Topological Boot Sequence
 
-**Registry:** [CKS-MATH-12-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-10-2026] → [CKS-MATH-12-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-10-2026] (Grand Unification), [CKS-MATH-11-2026] (Jacobian)  
+**Registry:** [@CKS-MATH-12-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-12-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-10-2026] (Grand Unification), [@CKS-MATH-11-2026] (Jacobian)  
 **Subject:** Baryogenesis; Initial Symmetry Breaking; Substrate Initialization; Matter-Antimatter Asymmetry  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -185,7 +185,7 @@ If φ₂ = φ₁: sin(0) = 0
 
 ### 3.3 The Carrier Cannot Boot
 
-**From [CKS-MATH-1-2026]:** Substrate operates at f₀ = 2.1875 Hz carrier.
+**From [@CKS-MATH-1-2026]:** Substrate operates at f₀ = 2.1875 Hz carrier.
 
 **Carrier requires:**
 ```
@@ -350,7 +350,7 @@ Incoherent fluctuations
 
 ### 5.2 Information Capacity Scaling
 
-**From [CKS-MATH-4-2026]:** Information capacity I ≈ ln(N).
+**From [@CKS-MATH-4-2026]:** Information capacity I ≈ ln(N).
 
 **Resonant states:**
 ```
@@ -379,7 +379,7 @@ Noise ~ N / ln(N) (entropy)
 η = 1 / (J · ln N)
 ```
 
-Where J ≈ 7.70 from [CKS-MATH-11-2026].
+Where J ≈ 7.70 from [@CKS-MATH-11-2026].
 
 ### 5.3 Numerical Evaluation
 
@@ -683,7 +683,7 @@ We're in heads because we exist
 
 **Speculation:**
 ```
-Weak force = sector twist at π/6 [CKS-MATH-7-2026]
+Weak force = sector twist at π/6 [@CKS-MATH-7-2026]
 Cosmic bit = ±π/3 initial offset
 Possible connection: π/6 = (π/3)/2
 ```
@@ -795,11 +795,11 @@ Without the ±π/3 bit-flip:
 ## 12. References
 
 **CKS Series:**
-1. [CKS-0-2026] Axiomatic Foundation
-2. [CKS-MATH-1-2026] Integer Necessity
-3. [CKS-MATH-4-2026] Fine Structure Constant
-4. [CKS-MATH-10-2026] Grand Unification
-5. [CKS-MATH-11-2026] Topological Jacobian
+1. [@CKS-0-2026] Axiomatic Foundation
+2. [@CKS-MATH-1-2026] Integer Necessity
+3. [@CKS-MATH-4-2026] Fine Structure Constant
+4. [@CKS-MATH-10-2026] Grand Unification
+5. [@CKS-MATH-11-2026] Topological Jacobian
 
 **External:**
 - Sakharov, A.D. (1967). *Violation of CP Invariance*
@@ -814,8 +814,8 @@ Without the ±π/3 bit-flip:
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-12-2026]  
-**Prerequisites:** [CKS-MATH-1,10,11-2026]
+**Registry:** [@CKS-MATH-12-2026]  
+**Prerequisites:** [@CKS-MATH-1,10,11-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  

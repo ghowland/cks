@@ -1854,7 +1854,7 @@ Projected:
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Kuramoto1975] Kuramoto, Y. "Self-entrainment of oscillators" *Lecture Notes Physics*
 

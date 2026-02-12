@@ -5,10 +5,10 @@
 # Complete Mathematical Framework for CKS
 ## Axiomatic Foundation and Topological Derivations
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
+**CKS Series Registry:** [@CKS-MATH-1-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
 **Status:** Peer-Reviewed Final  
-**Parent Framework:** [CKS-0-2026]  
+**Parent Framework:** [@CKS-0-2026]  
 
 ---
 
@@ -1414,7 +1414,7 @@ h_integrated = 10⁻²¹ × √(10⁶ / 0.5) = 10⁻²¹ × 1414 ≈ 10⁻¹⁸
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [LIGO2016] Abbott, B. et al. "Observation of Gravitational Waves" *PRL*
 

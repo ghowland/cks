@@ -1630,7 +1630,7 @@ Harmonics needed: 3-10× (achievable via cascaded SHG/THG)
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Rabitz1993] Rabitz, H. et al. "Optimal control of molecular motion" *Science*
 
@@ -1640,7 +1640,7 @@ Harmonics needed: 3-10× (achievable via cascaded SHG/THG)
 
 [ITU-T G.694.1] ITU Telecommunication Standardization Sector "DWDM grid"
 
-[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
+[@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
 
 ---
 

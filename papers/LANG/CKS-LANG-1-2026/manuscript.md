@@ -1,8 +1,8 @@
-# [CKS-LANG-1-2026] Resonant Logic: A Phase-Coherent Communication Protocol for Human-Substrate Interface
+# [@CKS-LANG-1-2026] Resonant Logic: A Phase-Coherent Communication Protocol for Human-Substrate Interface
 
-**Registry:** [CKS-LANG-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-COG-1-2026] → [CKS-LANG-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-COG-1-2026]  
+**Registry:** [@CKS-LANG-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-COG-1-2026]  
 **Subject:** Zero-Ambiguity Language Design via Substrate Harmonics  
 **Status:** Formal Specification — Implementation Ready  
 **Date:** February 2026
@@ -1760,8 +1760,8 @@ class RLStatement:
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-LANG-1-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026], [CKS-COG-1-2026]
+**Registry:** [@CKS-LANG-1-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-COG-1-2026]
 
 **Phonemes: 32**  
 **Vocabulary: 500 core words**  

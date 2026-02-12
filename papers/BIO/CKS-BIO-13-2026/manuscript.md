@@ -1,8 +1,8 @@
-# [CKS-BIO-21-2026] Wrinkle Mechanics and Thickness Restoration: Topological Phase-Compression as Reversible Aging
+# [@CKS-BIO-21-2026] Wrinkle Mechanics and Thickness Restoration: Topological Phase-Compression as Reversible Aging
 
-**Registry:** [CKS-BIO-21-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-11.2-2026] → [CKS-BIO-21-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-11.2-2026], [CKS-BIO-19-2026]  
+**Registry:** [@CKS-BIO-21-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-11.2-2026] → [@CKS-BIO-21-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-BIO-19-2026]  
 **Subject:** Dermal Topology; Somatic Loop Mechanics; Reversible Biological Age  
 **Status:** Theoretical Framework with Clinical Protocol — Falsifiable  
 **Date:** February 2026
@@ -109,8 +109,8 @@ All treatments: Address symptoms, not mechanism
 **Wrinkles as topological compression:**
 
 ```
-From [CKS-MATH-1]: Reality = hexagonal k-space with N=3M² closure
-From [CKS-BIO-11.2]: Body = vertical resonator requiring C >0.999
+From [@CKS-MATH-1]: Reality = hexagonal k-space with N=3M² closure
+From [@CKS-BIO-11.2]: Body = vertical resonator requiring C >0.999
 
 Wrinkle = manifold torsion loop
   Not: Chemical damage (irreversible)
@@ -176,7 +176,7 @@ This is testable:
 
 **Derivation:**
 
-From [CKS-MATH-1], each k-node must maintain z=3 connections.
+From [@CKS-MATH-1], each k-node must maintain z=3 connections.
 
 Phase-gradient from pressure:
 
@@ -245,7 +245,7 @@ Close to observed deep wrinkle depth (1-5 mm). ✓
 
 **Proof:**
 
-Brain rendering equation (from [CKS-BIO-20]):
+Brain rendering equation (from [@CKS-BIO-20]):
 
 $$V_{rendered} = V_{actual} \times \frac{N_{free}}{N_{total}}$$
 

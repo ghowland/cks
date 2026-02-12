@@ -1869,7 +1869,7 @@ Year    Node    Gate Length    Transistors/chip    Applications
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Caldwell2014] Caldwell, J. et al. "h-BN phonon polaritons" *Nat Commun*
 
@@ -1881,7 +1881,7 @@ Year    Node    Gate Length    Transistors/chip    Applications
 
 [ITRS2024] International Technology Roadmap for Semiconductors (2024 edition)
 
-[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
+[@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
 
 [Materials-MAT2026] Materials in Cymatics (CKS materials engineering)
 

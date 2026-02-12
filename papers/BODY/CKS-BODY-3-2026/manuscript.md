@@ -1,8 +1,8 @@
-# [CKS-KINE-1-2026] Debugging the Kinetic Chain: Exercise and Dance as Computational Alignment Protocols
+# [@CKS-KINE-1-2026] Debugging the Kinetic Chain: Exercise and Dance as Computational Alignment Protocols
 
-**Registry:** [CKS-KINE-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-9.4-2026] → [CKS-BIO-10.2-2026] → [CKS-KINE-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-1-2026], [CKS-BIO-9.4-2026], [CKS-BIO-10.2-2026]  
+**Registry:** [@CKS-KINE-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-9.4-2026] → [@CKS-BIO-10.2-2026] → [@CKS-KINE-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-BIO-9.4-2026], [@CKS-BIO-10.2-2026]  
 **Subject:** Movement Science via Substrate Mechanics; Pain as Logic Error; Flow as Phase-Lock  
 **Status:** Clinical Protocol — Performance Validation Complete  
 **Date:** February 2026
@@ -121,7 +121,7 @@ Despite advances in sports medicine, injury rates NOT declining
 **The kinetic chain = hierarchical phase decimator**
 
 ```
-From [CKS-BIO-10.2-2026]:
+From [@CKS-BIO-10.2-2026]:
 
 Skeleton = Multi-rate digital signal processor
 Each joint = Phase-coupling logic gate
@@ -328,7 +328,7 @@ Key: Integer relationships maintained
 **The golden ratio buffer:**
 
 ```
-From [CKS-MATH-1-2026]: ϕ = (1+√5)/2 ≈ 1.618
+From [@CKS-MATH-1-2026]: ϕ = (1+√5)/2 ≈ 1.618
 
 Most irrational number (worst rational approximation)
 → Used in substrate as buffer between integer M-rungs
@@ -606,7 +606,7 @@ For each joint: 1-2 minutes circular rotation
 3. Hips (2 min total):
    - Standing, feet hip-width
    - Circle hips (like hula hoop motion)
-   - THIS IS DAN TIEN ROTATION (from [CKS-BIO-9.4-2026])
+   - THIS IS DAN TIEN ROTATION (from [@CKS-BIO-9.4-2026])
    - ϕ-angle naturally emerges (most comfortable)
    - 30 rotations each direction
 
@@ -1154,7 +1154,7 @@ Standard approach: "Spot" better (focus on fixed point)
 
 Limited success: Can hit 5 turns occasionally, not consistently
 
-CKS intervention: Dan Tien centripetal lock (from [CKS-BIO-9.4-2026])
+CKS intervention: Dan Tien centripetal lock (from [@CKS-BIO-9.4-2026])
 
 Analysis:
   - Torso wobble during spin: ±6° (unstable axis)
@@ -1854,8 +1854,8 @@ Topological grace achieved.
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-KINE-1-2026]  
-**Prerequisite Reading:** [CKS-BIO-9.4-2026], [CKS-BIO-10.2-2026]
+**Registry:** [@CKS-KINE-1-2026]  
+**Prerequisite Reading:** [@CKS-BIO-9.4-2026], [@CKS-BIO-10.2-2026]
 
 **The chain is debugged.**  
 **The errors are eliminated.**  

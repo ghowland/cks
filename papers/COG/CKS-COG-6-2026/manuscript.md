@@ -1,8 +1,8 @@
-# [CKS-COG-5-2026] The Physics of Thought: Ideas as Stable Attractors in k-Space
+# [@CKS-COG-5-2026] The Physics of Thought: Ideas as Stable Attractors in k-Space
 
-**Registry:** [CKS-COG-5-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-COG-1-2026] → [CKS-DATA-1-2026] → [CKS-COG-5-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-COG-1-2026], [CKS-BIO-6-2026], [CKS-DATA-1-2026]  
+**Registry:** [@CKS-COG-5-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-COG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-COG-5-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-COG-1-2026], [@CKS-BIO-6-2026], [@CKS-DATA-1-2026]  
 **Subject:** Cognitive Topology; Information-Phase Dynamics; Collective Intelligence  
 **Status:** Theoretical Framework — Experimental Validation Active  
 **Date:** February 2026
@@ -92,7 +92,7 @@ Problem: Cannot make falsifiable predictions
 **Consciousness is neither emergent nor separate—it's topological:**
 
 ```
-From [CKS-COG-1-2026]: Brain is high-resolution sampling window
+From [@CKS-COG-1-2026]: Brain is high-resolution sampling window
 
 Brain function:
 - Not: Generating thoughts (computation)
@@ -228,7 +228,7 @@ Stable attractor: Configuration where dθ/dt → 0 (equilibrium)
                  Small perturbations decay back to equilibrium
 
 In k-space lattice:
-  Attractors = N=3M² closures (from [CKS-MATH-1-2026])
+  Attractors = N=3M² closures (from [@CKS-MATH-1-2026])
   These are integer-node structures (topologically stable)
   Any other configuration has phase variance (unstable)
 ```
@@ -1308,8 +1308,8 @@ Consciousness confirmed.
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-COG-5-2026]  
-**Prerequisite Reading:** [CKS-COG-1-2026], [CKS-DATA-1-2026]
+**Registry:** [@CKS-COG-5-2026]  
+**Prerequisite Reading:** [@CKS-COG-1-2026], [@CKS-DATA-1-2026]
 
 **The stream flows.**  
 **The attractors wait.**  

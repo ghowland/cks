@@ -1,8 +1,8 @@
-# [CKS-MATH-6-2026] The Geometric Origin of π: The 12-Bond Circumference Invariant
+# [@CKS-MATH-6-2026] The Geometric Origin of π: The 12-Bond Circumference Invariant
 
-**Registry:** [CKS-MATH-6-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-5-2026] → [CKS-MATH-6-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-5-2026] (Origin of e)  
+**Registry:** [@CKS-MATH-6-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-5-2026] (Origin of e)  
 **Subject:** Derivation of π from Hexagonal Loop Closure; Phase-Flip Invariants  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -1083,18 +1083,18 @@ With derivation of π, we have now geometrically derived all fundamental constan
 
 | Constant | Value | Origin | Paper |
 |:---------|:------|:-------|:------|
-| √3 | 1.732... | Hexagonal angles | [CKS-0-2026] |
-| e | 2.718... | Branching saturation | [CKS-MATH-5-2026] |
-| **π** | **3.14159...** | **12-bond closure** | **[CKS-MATH-6-2026]** |
-| 2π | 6.283... | Phase winding | [CKS-0-2026] |
+| √3 | 1.732... | Hexagonal angles | [@CKS-0-2026] |
+| e | 2.718... | Branching saturation | [@CKS-MATH-5-2026] |
+| **π** | **3.14159...** | **12-bond closure** | **[@CKS-MATH-6-2026]** |
+| 2π | 6.283... | Phase winding | [@CKS-0-2026] |
 
 **Plus derived physical constants:**
 
 | Constant | Value | Formula | Paper |
 |:---------|:------|:--------|:------|
-| α_EM^(-1) | 137.036... | [144√3·e·N^(1/3)]/[(4√3-1)·2π·ln N] | [CKS-MATH-4-2026] |
-| m_μ/m_e | 206.768... | [2/11.5]·(ln N/π)·√2 | [CKS-MATH-4-2026] |
-| m_τ/m_e | 3477.15 | [3/11.667]·(ln N/π)·8 | [CKS-MATH-4-2026] |
+| α_EM^(-1) | 137.036... | [144√3·e·N^(1/3)]/[(4√3-1)·2π·ln N] | [@CKS-MATH-4-2026] |
+| m_μ/m_e | 206.768... | [2/11.5]·(ln N/π)·√2 | [@CKS-MATH-4-2026] |
+| m_τ/m_e | 3477.15 | [3/11.667]·(ln N/π)·8 | [@CKS-MATH-4-2026] |
 
 **All forced by geometry. Zero free parameters.**
 
@@ -1173,8 +1173,8 @@ All converge to same value: 3.14159265358979...
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-6-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-5-2026]  
+**Registry:** [@CKS-MATH-6-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-5-2026]  
 
 **Axioms: 2**  
 **Derived Constants: 4 (√3, π, e, 2π)**  

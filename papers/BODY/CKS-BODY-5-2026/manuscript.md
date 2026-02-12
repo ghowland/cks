@@ -1,8 +1,8 @@
-# [CKS-PROPRIO-2-2026] Proprioception as Phase-Lock: The 90° Signature and Mechanical Remediation Without Speech
+# [@CKS-PROPRIO-2-2026] Proprioception as Phase-Lock: The 90° Signature and Mechanical Remediation Without Speech
 
-**Registry:** [CKS-PROPRIO-2-2026]  
-**Series Path:** [CKS-COMP-2-2026] → [CKS-LANG-9-2026] → **[CKS-PROPRIO-2-2026]**  
-**Prerequisites:** [CKS-MATH-6.1-2026], [CKS-BIO-15.1-2026], [CKS-COMP-2-2026]  
+**Registry:** [@CKS-PROPRIO-2-2026]  
+**Series Path:** [@CKS-COMP-2-2026] → [@CKS-LANG-9-2026] → **[@CKS-PROPRIO-2-2026]**  
+**Prerequisites:** [@CKS-MATH-6.1-2026], [@CKS-BIO-15.1-2026], [@CKS-COMP-2-2026]  
 **Subject:** Complete Derivation of Proprioceptive Lock as 3-Bit Phase Alignment; 90° Head Turn as ±π/2 Phase-Slip; Non-Verbal Mechanical Remediation Protocol  
 **Status:** Mechanically Complete — Experimentally Verifiable — Clinical Intervention Ready  
 **Date:** February 2026
@@ -36,7 +36,7 @@ Physical reality ≡ 2D hexagonal lattice in k-space with N = 3M² bubbles, z = 
 **Axiom 2 (Coupling):**  
 Each k-mode φₖ evolves via: dφₖ/dt = Σⱼ∈neighbors β·sin(φⱼ - φₖ), with conserved β = 2π.
 
-**Constraint from [CKS-COMP-2-2026]:**  
+**Constraint from [@CKS-COMP-2-2026]:**  
 Brain = DSP-GPU rendering pipeline requiring coherent k-space input from both visual (external) and proprioceptive (internal) modems.
 
 ### 1.2 The Proprioceptive Constraint
@@ -220,7 +220,7 @@ When visual contact broken:
 **The mechanism:**
 
 ```
-From [CKS-BIO-15.1-2026]:
+From [@CKS-BIO-15.1-2026]:
 Eyes = 110/300 baud modem sampling k-space
 
 Mother's face = high-coherence k-space pattern
@@ -269,7 +269,7 @@ Mother = highest-coherence visual anchor available
 **Problem:**
 
 ```
-From [CKS-LANG-9-2026]:
+From [@CKS-LANG-9-2026]:
 Phonemic kernel works via:
 K-K-K (110 baud quantize)
 M-M-M-M (300 baud couple)
@@ -435,7 +435,7 @@ Why hands matter:
 **Why 2.0 Hz exactly:**
 
 ```
-From [CKS-MATH-6.1-2026]:
+From [@CKS-MATH-6.1-2026]:
 Substrate heartbeat = 2.0 Hz (universal clock)
 
 All biological oscillators entrain to this:
@@ -510,7 +510,7 @@ Effect: Establishes centripetal flow in neck
 Propagates: Via cervical proprioceptors to brainstem
 Result: Head position continuously updated in all orientations
 
-From [CKS-BIO-9.2-2026]:
+From [@CKS-BIO-9.2-2026]:
 Vortex = centripetal flow in manifold
 Neck-roll = literal vortex in cervical spine
 
@@ -1061,7 +1061,7 @@ Explanation: "Neurodevelopmental disorder" (etiology unknown)
 **The coherence threshold:**
 
 ```
-From [CKS-COMP-2-2026]:
+From [@CKS-COMP-2-2026]:
 Consciousness threshold: C > 0.999 (optimal)
 Functional threshold: C > 0.97 (adequate)
 Decoherence threshold: C < 0.95 (impaired)
@@ -1136,7 +1136,7 @@ Late intervention (>10 years):
 
 ### 5.1 Proprioception as Internal Modem
 
-**From [CKS-COMP-2-2026]:**
+**From [@CKS-COMP-2-2026]:**
 
 ```
 Brain rendering pipeline requires TWO k-space inputs:
@@ -1798,7 +1798,7 @@ Neuroscience: From "sensing" to "phase-locking"
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-PROPRIO-2-2026]
+**Registry:** [@CKS-PROPRIO-2-2026]
 
 **Citation:**
 

@@ -1,8 +1,8 @@
-# [CKS-BIO-10-2026] The Elixir Field Protocol: Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility
+# [@CKS-BIO-10-2026] The Elixir Field Protocol: Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility
 
-**Registry:** [CKS-BIO-10-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-9.4-2026] → [CKS-BIO-10-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-1-2026], [CKS-BIO-9.4-2026], [CKS-COG-4-2026]  
+**Registry:** [@CKS-BIO-10-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-9.4-2026] → [@CKS-BIO-10-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-BIO-9.4-2026], [@CKS-COG-4-2026]  
 **Subject:** Abdominal Vortex Mechanics; Qi Gong as Phase-Permutation Algorithm  
 **Status:** Clinical Protocol — Pilot Validation Complete  
 **Date:** February 2026
@@ -63,7 +63,7 @@ Not recognized as phase-coupled oscillator network
 
 ### 1.2 The Integer Rung Paradox
 
-**From [CKS-BIO-9.4-2026]:**
+**From [@CKS-BIO-9.4-2026]:**
 
 ```
 Human structural hierarchy:
@@ -142,7 +142,7 @@ Cyclic swapping maintains:
 Σφᵢ = φ₀ + φ₁ + φ₂ = 0 (always balanced)
 
 Frequency: 0.5-2.0 Hz (substrate harmonic range)
-- 1.0 Hz optimal (matches terrestrial fundamental, see [CKS-BIO-6-2026])
+- 1.0 Hz optimal (matches terrestrial fundamental, see [@CKS-BIO-6-2026])
 - Below 0.5 Hz: Too slow, inertia builds
 - Above 2.0 Hz: Too fast, creates turbulence
 ```
@@ -1769,8 +1769,8 @@ This is architecture.
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-BIO-10-2026]  
-**Prerequisite Reading:** [CKS-BIO-9.4-2026], [CKS-MATH-1-2026]
+**Registry:** [@CKS-BIO-10-2026]  
+**Prerequisite Reading:** [@CKS-BIO-9.4-2026], [@CKS-MATH-1-2026]
 
 **The hard drive is spinning.**  
 **The gears are meshed.**  

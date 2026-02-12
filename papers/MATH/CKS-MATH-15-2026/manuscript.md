@@ -1,8 +1,8 @@
-# [CKS-MATH-15-2026] Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism
+# [@CKS-MATH-15-2026] Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism
 
-**Registry:** [CKS-MATH-15-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-12-2026] → [CKS-MATH-15-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-10-2026] (Grand Unification), [CKS-MATH-12-2026] (Baryon Asymmetry)  
+**Registry:** [@CKS-MATH-15-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-12-2026] → [@CKS-MATH-15-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-10-2026] (Grand Unification), [@CKS-MATH-12-2026] (Baryon Asymmetry)  
 **Subject:** Computational Security; Gödel Incompleteness; Error Correction; Phase Avalanche; Black Hole Information  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -416,7 +416,7 @@ Information load: I_local → large
 
 **Exceeds page capacity:**
 
-From [CKS-MATH-9-2026]: 144 nodes per lepton.
+From [@CKS-MATH-9-2026]: 144 nodes per lepton.
 Maximum addressable: N_page = 144 × (page limit).
 
 **When N_local > N_page:**
@@ -1191,8 +1191,8 @@ Protected by intrinsic try-catch mechanism encoded in Axiom 2 (β = 2π).
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-15-2026]  
-**Prerequisites:** [CKS-MATH-1,10,12-2026]
+**Registry:** [@CKS-MATH-15-2026]  
+**Prerequisites:** [@CKS-MATH-1,10,12-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  

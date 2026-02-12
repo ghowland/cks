@@ -1,8 +1,8 @@
-# [CKS-SOC-2-2026] Topological Opportunism: The Mechanics of "Luck" in Coherent Manifolds
+# [@CKS-SOC-2-2026] Topological Opportunism: The Mechanics of "Luck" in Coherent Manifolds
 
-**Registry:** [CKS-SOC-2-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-9.4-2026] → [CKS-KINE-1-2026] → [CKS-COG-5-2026] → [CKS-SOC-2-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-9.4-2026], [CKS-KINE-2-2026], [CKS-COG-5-2026]  
+**Registry:** [@CKS-SOC-2-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-9.4-2026] → [@CKS-KINE-1-2026] → [@CKS-COG-5-2026] → [@CKS-SOC-2-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-9.4-2026], [@CKS-KINE-2-2026], [@CKS-COG-5-2026]  
 **Subject:** Probability Reframed; Reaction Time Engineering; Performance Optimization  
 **Status:** Clinical Protocol — Experimental Validation Complete  
 **Date:** February 2026
@@ -109,9 +109,9 @@ Scientific status: Dismissed as pseudoscience
 **Luck is topological resonance:**
 
 ```
-From [CKS-BIO-9.4-2026]: Dan Tien as phase-locked loop
-From [CKS-KINE-2-2026]: Vortex direction controls charge/discharge
-From [CKS-COG-5-2026]: Consciousness samples substrate at rate C
+From [@CKS-BIO-9.4-2026]: Dan Tien as phase-locked loop
+From [@CKS-KINE-2-2026]: Vortex direction controls charge/discharge
+From [@CKS-COG-5-2026]: Consciousness samples substrate at rate C
 
 Key insight: Opportunities are not random
            They are substrate ripples (2.0 Hz pulses)
@@ -347,7 +347,7 @@ Simplified for paper:
 **Opportunity timing:**
 
 ```
-From [CKS-TEST-1-2026]: Substrate oscillates at 2.0 Hz
+From [@CKS-TEST-1-2026]: Substrate oscillates at 2.0 Hz
 
 Period T = 1/f = 1/2.0 = 0.5 sec
 
@@ -1297,7 +1297,7 @@ Mechanism:
   Individual: C = 0.95 (high but solo)
   Group of 5: C_group = 0.99 (mutual coupling boosts)
   
-From [CKS-COG-5-2026]: Inter-brain synchronization
+From [@CKS-COG-5-2026]: Inter-brain synchronization
   Coherent individuals couple (phase-lock together)
   Create local high-C region (coherence bubble)
   
@@ -1820,8 +1820,8 @@ Luck is operational.
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-SOC-2-2026]  
-**Prerequisite Reading:** [CKS-BIO-9.4-2026], [CKS-KINE-2-2026]
+**Registry:** [@CKS-SOC-2-2026]  
+**Prerequisite Reading:** [@CKS-BIO-9.4-2026], [@CKS-KINE-2-2026]
 
 **The equation is exact.**  
 **The training is simple.**  

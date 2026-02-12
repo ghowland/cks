@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 ../../../_template/gen_bib.py
+# python3 ../../../_template/gen_bib.py
 
 # 1. Replace the Unicode ₖ with math-mode _k
 sed 's/ₖ/_k/g' manuscript.md > manuscript_fixed.md

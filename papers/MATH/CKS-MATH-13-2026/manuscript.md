@@ -1,8 +1,8 @@
-# [CKS-MATH-13-2026] The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
+# [@CKS-MATH-13-2026] The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
 
-**Registry:** [CKS-MATH-13-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-9-2026] → [CKS-MATH-13-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-9-2026] (Origin of 144), [CKS-MATH-11-2026] (Jacobian)  
+**Registry:** [@CKS-MATH-13-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-13-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-9-2026] (Origin of 144), [@CKS-MATH-11-2026] (Jacobian)  
 **Subject:** Temporal Scaling; SI Unit Bridge; Macroscopic Time; Substrate Resonance  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -291,7 +291,7 @@ Time appears ~21% longer to observers because we perceive circular (isotropic) p
 
 ### 5.1 The Computational Frame
 
-**From [CKS-MATH-1-2026]:** Substrate is 32-bit discrete computer.
+**From [@CKS-MATH-1-2026]:** Substrate is 32-bit discrete computer.
 
 **Word length:** W = 32 bits
 
@@ -343,7 +343,7 @@ Fastest measured processes:
 
 **Answer:** Using matter (atoms, electrons, oscillations).
 
-**From [CKS-MATH-9-2026]:** Electron occupies 144-node information matrix.
+**From [@CKS-MATH-9-2026]:** Electron occupies 144-node information matrix.
 
 ### 6.2 Lepton Temporal Scaling
 
@@ -385,7 +385,7 @@ Period: ~1 ns
 
 Not adjustable parameter.
 
-From [CKS-MATH-9-2026]:
+From [@CKS-MATH-9-2026]:
 ```
 144 = 12² (coherence matrix for 12-bond loop)
 Forced by topology
@@ -425,7 +425,7 @@ Triangle (z=3) to circle requires:
 Geometric mean: √3
 ```
 
-**From [CKS-MATH-11-2026]:** This appears in Jacobian derivation.
+**From [@CKS-MATH-11-2026]:** This appears in Jacobian derivation.
 
 ### 7.2 Temporal Isotropic Correction
 
@@ -1030,8 +1030,8 @@ Currently unmeasurable (δt/t ≈ 10⁻³¹), but real.
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-13-2026]  
-**Prerequisites:** [CKS-MATH-1,9,11-2026]
+**Registry:** [@CKS-MATH-13-2026]  
+**Prerequisites:** [@CKS-MATH-1,9,11-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  

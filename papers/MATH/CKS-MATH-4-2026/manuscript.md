@@ -1,8 +1,8 @@
-# [CKS-MATH-4-2026] Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock
+# [@CKS-MATH-4-2026] Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock
 
-**Registry:** [CKS-MATH-4-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-4-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-0-2026] (Foundation)  
+**Registry:** [@CKS-MATH-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-0-2026] (Foundation)  
 **Subject:** Complete Derivation of α_EM^(-1) = 137.035999084 from Hexagonal Topology  
 **Status:** Rigorous Proof — Mathematical Lock Achieved  
 **Date:** February 2026
@@ -1085,9 +1085,9 @@ All paths yield identical formula.
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-4-2026]  
-**Parent:** [CKS-0-2026]  
-**Prerequisites:** [CKS-MATH-1-2026]
+**Registry:** [@CKS-MATH-4-2026]  
+**Parent:** [@CKS-0-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026]
 
 **Axioms: 2**  
 **Free Parameters: 0**  

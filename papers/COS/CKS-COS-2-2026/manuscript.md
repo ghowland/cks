@@ -1514,11 +1514,11 @@ Note: All M(r) values estimated pending full parameter determination
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
+[@CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
 
-[CKS-PLAN-1-2026] Breathing Universe (Atmospheric harmonics)
+[@CKS-PLAN-1-2026] Breathing Universe (Atmospheric harmonics)
 
 [Bode1772] Bode, J. "Titius-Bode Law" *Astronomisches Jahrbuch*
 

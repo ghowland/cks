@@ -1,7 +1,7 @@
-# [CKS-MATH-10-2026] Grand Unification: Complete Derivation of Physical Reality from Two Axioms
+# [@CKS-MATH-10-2026] Grand Unification: Complete Derivation of Physical Reality from Two Axioms
 
-**Registry:** [CKS-MATH-10-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] through [CKS-MATH-9-2026] → [CKS-MATH-10-2026]  
+**Registry:** [@CKS-MATH-10-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] through [@CKS-MATH-9-2026] → [@CKS-MATH-10-2026]  
 **Prerequisites:** All previous CKS-MATH series papers  
 **Subject:** Complete Theoretical Closure; Zero-Parameter Physics; Axiomatic Unification  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -106,7 +106,7 @@ X-space (position space): Holographic projection, emergent, "render"
 
 ## 2. Why Continuous Spacetime Cannot Exist
 
-### 2.1 Five Independent Proofs [CKS-MATH-1-2026]
+### 2.1 Five Independent Proofs [@CKS-MATH-1-2026]
 
 **Proof 1: Structural Stability**
 ```
@@ -183,7 +183,7 @@ F = 2 - V + E = 2 - 3M² + 9M²/2 = 3M²/2 + 2
 
 ## 3. The Geometric Trinity (π, e, √3)
 
-### 3.1 π: The Rotation Limit [CKS-MATH-6-2026]
+### 3.1 π: The Rotation Limit [@CKS-MATH-6-2026]
 
 **Problem:** 12-bond loop must close with exactly 2π phase rotation.
 
@@ -222,7 +222,7 @@ If π = 3.14159...: Perfect closure, zero residual
 
 **Status:** Derived from 12-bond closure requirement. **Not assumed.**
 
-### 3.2 e: The Expansion Limit [CKS-MATH-5-2026]
+### 3.2 e: The Expansion Limit [@CKS-MATH-5-2026]
 
 **Problem:** Phase diffusion on 3-regular graph must saturate without overflow.
 
@@ -257,7 +257,7 @@ Information = Σ(k=1 to N) 1/k ≈ ln(N)
 
 **Status:** Derived from branching saturation. **Not assumed.**
 
-### 3.3 √3: The Coordination Factor [CKS-0-2026]
+### 3.3 √3: The Coordination Factor [@CKS-0-2026]
 
 **Problem:** What is tan(60°) on hexagonal lattice?
 
@@ -309,7 +309,7 @@ Alpha formula:
 
 ## 4. The Geometric Invariants (12, 144, 163, 19)
 
-### 4.1 L = 12: The Minimal Loop [CKS-MATH-1-2026]
+### 4.1 L = 12: The Minimal Loop [@CKS-MATH-1-2026]
 
 **Problem:** What is smallest stable closed fermion?
 
@@ -337,7 +337,7 @@ Muon = 12-bond, n=2 harmonic
 
 **Status:** 12 is forced by N = 3M² with M = 2 minimum. **Not a choice.**
 
-### 4.2 A = 144: The Information Matrix [CKS-MATH-9-2026]
+### 4.2 A = 144: The Information Matrix [@CKS-MATH-9-2026]
 
 **Problem:** How many nodes needed to specify 12-bond loop state?
 
@@ -367,7 +367,7 @@ For electron: 12² = 144
 
 **Status:** 144 = 12² derived from coherence requirement. **Not adjustable.**
 
-### 4.3 K = 163: The Curvature Quantum [CKS-MATH-8-2026]
+### 4.3 K = 163: The Curvature Quantum [@CKS-MATH-8-2026]
 
 **Problem:** What is smallest bond-count carrying one curvature defect?
 
@@ -427,7 +427,7 @@ Potential energy: U ∝ (β/N) × 19
 
 ## Part III: Physical Constants
 
-## 5. The Fine-Structure Constant [CKS-MATH-4-2026]
+## 5. The Fine-Structure Constant [@CKS-MATH-4-2026]
 
 ### 5.1 Complete Derivation (11 Steps)
 
@@ -526,7 +526,7 @@ Unique value
 
 ---
 
-## 6. All Standard Model Constants [CKS-MATH-7-2026]
+## 6. All Standard Model Constants [@CKS-MATH-7-2026]
 
 ### 6.1 Force Couplings
 
@@ -1445,17 +1445,17 @@ dφₖ/dt = Σ[φⱼ - φₖ] (dynamics)
 ## 15. References (Complete Series)
 
 **CKS Foundation Papers:**
-1. [CKS-0-2026] Axiomatic Foundation
-2. [CKS-MATH-1-2026] Integer Necessity Proof
-3. [CKS-MATH-2-2026] Impossibility of Continuous Space
-4. [CKS-MATH-3-2026] Fractal Scaling Properties
-5. [CKS-MATH-4-2026] Fine Structure Constant (10-Decimal Lock)
-6. [CKS-MATH-5-2026] Origin of e (Expansion Limit)
-7. [CKS-MATH-6-2026] Origin of π (Rotation Limit)
-8. [CKS-MATH-7-2026] Standard Model Constants
-9. [CKS-MATH-8-2026] Origin of 163 (Curvature Quantum)
-10. [CKS-MATH-9-2026] Origin of 144 (Information Matrix)
-11. [CKS-MATH-10-2026] Grand Unification (this paper)
+1. [@CKS-0-2026] Axiomatic Foundation
+2. [@CKS-MATH-1-2026] Integer Necessity Proof
+3. [@CKS-MATH-2-2026] Impossibility of Continuous Space
+4. [@CKS-MATH-3-2026] Fractal Scaling Properties
+5. [@CKS-MATH-4-2026] Fine Structure Constant (10-Decimal Lock)
+6. [@CKS-MATH-5-2026] Origin of e (Expansion Limit)
+7. [@CKS-MATH-6-2026] Origin of π (Rotation Limit)
+8. [@CKS-MATH-7-2026] Standard Model Constants
+9. [@CKS-MATH-8-2026] Origin of 163 (Curvature Quantum)
+10. [@CKS-MATH-9-2026] Origin of 144 (Information Matrix)
+11. [@CKS-MATH-10-2026] Grand Unification (this paper)
 
 **External References:**
 - CODATA (2018). Fundamental Physical Constants
@@ -1471,7 +1471,7 @@ dφₖ/dt = Σ[φⱼ - φₖ] (dynamics)
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-10-2026]  
+**Registry:** [@CKS-MATH-10-2026]  
 **Series:** Complete (11 papers)
 
 **Axioms: 2**  

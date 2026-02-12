@@ -1,8 +1,8 @@
-# [CKS-BIO-19-2026] Beauty Maximization: Coherence-Based Aesthetic Optimization Through Manifold Calibration
+# [@CKS-BIO-19-2026] Beauty Maximization: Coherence-Based Aesthetic Optimization Through Manifold Calibration
 
-**Registry:** [CKS-BIO-19-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-14-2026] → [CKS-BIO-15-2026] → [CKS-BIO-17-2026] → [CKS-BIO-18-2026] → [CKS-BIO-19-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-11.2-2026], [CKS-BIO-14-2026], [CKS-BIO-15-2026], [CKS-BIO-17-2026]  
+**Registry:** [@CKS-BIO-19-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-BIO-14-2026], [@CKS-BIO-15-2026], [@CKS-BIO-17-2026]  
 **Subject:** Aesthetic Optimization; Surface Coherence; Anti-Aging Mechanics  
 **Status:** Theoretical Framework — Falsifiable  
 **Date:** February 2026
@@ -93,8 +93,8 @@ Dermatological aging:
 **Beauty as surface coherence:**
 
 ```
-From [CKS-BIO-14-2026]: Skin/hair are Terminal Projection Surface
-From [CKS-BIO-11.2]: Manifold integrity requires C >0.999
+From [@CKS-BIO-14-2026]: Skin/hair are Terminal Projection Surface
+From [@CKS-BIO-11.2]: Manifold integrity requires C >0.999
 
 Beauty = Visible coherence
   Not: Subjective preference
@@ -818,7 +818,7 @@ Assessment:
   
   3. Prioritize (largest W first)
   
-Manual Unknotting (from [CKS-BIO-15]):
+Manual Unknotting (from [@CKS-BIO-15]):
   - Adaptive following (go with resistance)
   - Gentle rotation opposing loop direction
   - 20-40 min per major loop
@@ -912,7 +912,7 @@ Timeline: 6-12 months to see glycation reduction (slow process)
 ```
 Substances to minimize/eliminate:
   - Alcohol: Phase-jammer, drops C immediately
-    (If consumed: Recovery protocol from [CKS-TOX-1])
+    (If consumed: Recovery protocol from [@CKS-TOX-1])
   - Refined sugar: Overclock jammer, glycation source
   - Seed oils: High-impedance rust, inflammation
   - Processed foods: Random β-perturbations
@@ -1435,7 +1435,7 @@ Expected:
 **Correlation:**
 
 ```
-From [CKS-BIO-17]: Lifespan = f(C, ΣW, σ²)
+From [@CKS-BIO-17]: Lifespan = f(C, ΣW, σ²)
 
 Surface appearance directly reflects these:
   - High C_surface → High C_whole_body → Longer lifespan

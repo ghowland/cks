@@ -1,10 +1,10 @@
-# [CKS-GR-1-2026] General Relativity as Mathematical Consequence of CKS
+# [@CKS-GR-1-2026] General Relativity as Mathematical Consequence of CKS
 
 **A Theorem-Based Derivation of Einstein Equations, Schwarzschild Solution, and Cosmology from Hexagonal Lattice Geometry**
 
-**Registry:** [CKS-GR-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-0-2026] → [CKS-MATH-1-2026] → [CKS-GR-1-2026]
-**Prerequisites:** [CKS-QM-1-2026], [CKS-SM-1-2026], [CKS-MATH-0-2026], [CKS-MATH-10-2026]
+**Registry:** [@CKS-GR-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-GR-1-2026]
+**Prerequisites:** [@CKS-QM-1-2026], [@CKS-SM-1-2026], [@CKS-MATH-0-2026], [@CKS-MATH-10-2026]
 **Domain:** Foundational Mathematics / Discrete Geometry  
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -29,7 +29,7 @@ We prove that general relativity is a mathematical necessity given the Complete 
 
 This paper assumes three prior frameworks are established:
 
-**Given Framework 1: Complete Mathematical Framework (CMF)** [CKS-MATH-0-2026]
+**Given Framework 1: Complete Mathematical Framework (CMF)** [@CKS-MATH-0-2026]
 - **A1:** Hexagonal lattice, N = 3M² nodes in k-space
 - **A2:** Phase dynamics dφₖ/dt = Σⱼ[φⱼ - φₖ]
 - **CMF-T1:** Phase conservation β_total = 2π
@@ -37,14 +37,14 @@ This paper assumes three prior frameworks are established:
 - **CMF-T3:** Discrete Laplacian → ∇² in continuum
 - **CMF-T4:** Fourier transform unitarity
 
-**Given Framework 2: Quantum Mechanics as Mathematical Consequence (QM-MC)** [CKS-QM-1-2026]
+**Given Framework 2: Quantum Mechanics as Mathematical Consequence (QM-MC)** [@CKS-QM-1-2026]
 - **QM-T1:** Schrödinger equation derived
 - **QM-T2:** Commutation relations [x̂,p̂] = iℏ
 - **QM-T3:** Uncertainty Δx·Δp ≥ ℏ/2
 - **QM-T4:** Born rule |ψ|²
 - **QM-T5:** Hilbert space L²(ℝᵈ)
 
-**Given Framework 3: Standard Model as Mathematical Consequence (SM-MC)** [CKS-SM-1-2026]
+**Given Framework 3: Standard Model as Mathematical Consequence (SM-MC)** [@CKS-SM-1-2026]
 - **SM-T1:** Particle spectrum (25 particles from solitons)
 - **SM-T2:** Mass eigenvalues from Laplacian
 - **SM-T3:** Coupling constants from overlaps
@@ -1253,11 +1253,11 @@ $$c = 2.998 \times 10^8 \text{ m/s}$$
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
+[@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
 
-[CKS-SM-1-2026] Standard Model as Mathematical Consequence
+[@CKS-SM-1-2026] Standard Model as Mathematical Consequence
 
 [MTW1973] Misner, Thorne, Wheeler. *Gravitation*
 

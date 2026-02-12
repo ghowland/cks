@@ -1791,7 +1791,7 @@ Orthogonal (φ_mat ⊥ φ_sub):
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Huang2011] Huang, H. et al. "Negative effective mass in acoustic metamaterials" *Nat Mater*
 

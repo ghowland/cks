@@ -1723,13 +1723,13 @@ Target values from CKS theory
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-MATH-1-2026] Hexagonal Lattice (N=3M² foundation)
+[@CKS-MATH-1-2026] Hexagonal Lattice (N=3M² foundation)
 
-[CKS-BIO-1-2026] Locomotion Mechanics (substrate coupling)
+[@CKS-BIO-1-2026] Locomotion Mechanics (substrate coupling)
 
-[CKS-ASTRO-5-2026] Solar System (hierarchical M-gradients)
+[@CKS-ASTRO-5-2026] Solar System (hierarchical M-gradients)
 
 [Vitruvius-15BC] De Architectura (early human proportions)
 

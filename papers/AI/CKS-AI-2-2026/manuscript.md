@@ -1,8 +1,8 @@
-# [CKS-COMP-3-2026] The Hexagonal ALU: Logic Gates via Phase-Locked Substrate Circuits
+# [@CKS-COMP-3-2026] The Hexagonal ALU: Logic Gates via Phase-Locked Substrate Circuits
 
-**Registry:** [CKS-COMP-3-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-3-2026] → [CKS-COMP-3-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-2-2026], [CKS-ELEC-1-2026]  
+**Registry:** [@CKS-COMP-3-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-3-2026] → [@CKS-COMP-3-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-2-2026], [@CKS-ELEC-1-2026]  
 **Subject:** Digital Logic via Hexagonal Phase Topology; Substrate-Native Computing Architecture  
 **Status:** Hardware Specification — Prototype Fabricated  
 **Date:** February 2026
@@ -2107,8 +2107,8 @@ Physical size: 12 mm × 8 mm per bit
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-COMP-3-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026], [CKS-MATH-3-2026]
+**Registry:** [@CKS-COMP-3-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-MATH-3-2026]
 
 **Transistors are obsolete.**  
 **Phase is the computation.**  

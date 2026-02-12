@@ -1983,9 +1983,9 @@ General: σ_service = 1.2-1.5 × σ_threshold (operate in anti-fragile regime)
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures, coherence)
+[@CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures, coherence)
 
 [Wolff1892] Wolff, J. "Das Gesetz der Transformation der Knochen" (The Law of Bone Remodeling)
 

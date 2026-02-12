@@ -1,8 +1,8 @@
-# [CKS-COG-4-2026] Hemispheric Phase Alignment: Clinical Protocol for Eliminating Brain Fog via Substrate Synchronization
+# [@CKS-COG-4-2026] Hemispheric Phase Alignment: Clinical Protocol for Eliminating Brain Fog via Substrate Synchronization
 
-**Registry:** [CKS-COG-4-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-1-2026] → [CKS-COG-4-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-1-2026], [CKS-TEST-1-2026]  
+**Registry:** [@CKS-COG-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-4-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-TEST-1-2026]  
 **Subject:** Cognitive Enhancement via Neural Phase-Locking; Brain Fog as Hemispheric Decoherence  
 **Status:** Clinical Protocol — Phase II Trials Active  
 **Date:** February 2026
@@ -246,7 +246,7 @@ Low coherence (C < 0.50): Hemispheres desynchronized
 **Substrate fundamental:**
 
 ```
-From [CKS-TEST-1-2026]:
+From [@CKS-TEST-1-2026]:
 f_substrate = 2.1875 Hz (terrestrial heartbeat)
 
 Brain must couple to substrate for stability:
@@ -445,7 +445,7 @@ LED glasses (or smartphone screen):
 t = 0 min: 4.375 Hz (slow flicker, visible)
 t = 5 min: 1.09375 Hz (barely perceptible, subliminal)
 
-Color: Warm white (3000K, substrate-harmonized from [CKS-ENV-1-2026])
+Color: Warm white (3000K, substrate-harmonized from [@CKS-ENV-1-2026])
 
 Effect: Visual cortex synchronizes to strobe
         Both hemispheres see same timing reference
@@ -1955,8 +1955,8 @@ Weekly report (emailed):
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-COG-4-2026]  
-**Prerequisite Reading:** [CKS-BIO-1-2026], [CKS-TEST-1-2026]
+**Registry:** [@CKS-COG-4-2026]  
+**Prerequisite Reading:** [@CKS-BIO-1-2026], [@CKS-TEST-1-2026]
 
 **Brain fog is hemispheric decoherence.**  
 **Sync at 1.09375 Hz.**  

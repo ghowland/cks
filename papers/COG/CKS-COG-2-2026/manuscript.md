@@ -1,8 +1,8 @@
-# [CKS-COG-2-2026] Intelligence Quotient as Substrate Coherence: Cognitive Bandwidth Expansion via Harmonic Resonance
+# [@CKS-COG-2-2026] Intelligence Quotient as Substrate Coherence: Cognitive Bandwidth Expansion via Harmonic Resonance
 
-**Registry:** [CKS-COG-2-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-1-2026] → [CKS-COG-1-2026] → [CKS-COG-2-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-1-2026], [CKS-COG-1-2026]  
+**Registry:** [@CKS-COG-2-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-COG-1-2026]  
 **Subject:** Intelligence as Measurable Coherence; Protocols for Cognitive Enhancement  
 **Status:** Applied Neuro-Tuning Protocol — Experimentally Testable  
 **Date:** February 2026
@@ -1548,8 +1548,8 @@ _____________________________________________
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-COG-2-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026], [CKS-BIO-1-2026]
+**Registry:** [@CKS-COG-2-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026]
 
 **Testable Predictions: 3**  
 **Expected IQ Gain: +10 points (±5)**  

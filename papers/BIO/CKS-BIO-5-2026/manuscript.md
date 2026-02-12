@@ -1851,11 +1851,11 @@ Note: 100% match to substrate harmonics (no exceptions in dataset)
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures)
+[@CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures)
 
-[CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
+[@CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
 
 [Dudley2000] Dudley, R. "The Biomechanics of Insect Flight" *Princeton*
 

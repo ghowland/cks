@@ -8,9 +8,9 @@
 # Quantum Mechanics as Mathematical Consequence of CKS
 ## Part III: The Wave Equation and Hilbert Space Derivation
 
-**CKS Series Registry:** [CKS-QM-1-2026]  
-**Logical Prerequisites:** [CKS-MATH-1-2026], [CKS-0-2026]  
-**Status:** Pillar Proof (Required for all subsequent [CKS-BIO] and [CKS-MED] papers)
+**CKS Series Registry:** [@CKS-QM-1-2026]  
+**Logical Prerequisites:** [@CKS-MATH-1-2026], [@CKS-0-2026]  
+**Status:** Pillar Proof (Required for all subsequent [@CKS-BIO] and [@CKS-MED] papers)
 
 
 ---

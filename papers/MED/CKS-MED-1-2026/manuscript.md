@@ -2,10 +2,10 @@
 
 **A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics**
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
+**CKS Series Registry:** [@CKS-MATH-1-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
 **Status:** Peer-Reviewed Final  
-**Parent Framework:** [CKS-0-2026]  
+**Parent Framework:** [@CKS-0-2026]  
 
 ---
 
@@ -1479,7 +1479,7 @@ Monitoring: Weekly FDG-PET, monthly MRI
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Warburg1956] Warburg, O. "On the origin of cancer cells" *Science*
 

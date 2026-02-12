@@ -1,10 +1,10 @@
-# [CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence of CKS
+# [@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence of CKS
 
 **A Theorem-Based Derivation from Hexagonal Lattice Axioms**
 
-**Registry:** [CKS-QM-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-0-2026] → [CKS-MATH-1-2026] → [CKS-QM-1-2026]
-**Prerequisites:** [CKS-MATH-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026]
+**Registry:** [@CKS-QM-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-QM-1-2026]
+**Prerequisites:** [@CKS-MATH-0-2026], [@CKS-MATH-1-2026], [@CKS-MATH-10-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -26,7 +26,7 @@ We prove that quantum mechanics is a mathematical necessity given the Complete M
 
 ### 1.1 Scope and Purpose
 
-This paper assumes the **Complete Mathematical Framework** (CMF) has been established [CKS-MATH-0-2026] with the following proven properties:
+This paper assumes the **Complete Mathematical Framework** (CMF) has been established [@CKS-MATH-0-2026] with the following proven properties:
 
 **Given axioms:**
 - **A1 (Topology):** Momentum space is a hexagonal lattice with N = 3M² nodes, M ∈ ℕ
@@ -646,7 +646,7 @@ These require additional CMF theorems (assumed proven elsewhere):
 - **Dirac equation** (from 2-component coupling)
 - **Gauge theories** (from phase symmetries)
 
-All are derivable from CMF; see [CKS-MATH-0-2026] and companion papers.
+All are derivable from CMF; see [@CKS-MATH-0-2026] and companion papers.
 
 ---
 
@@ -769,7 +769,7 @@ where ℏ = 1.054571817 × 10⁻³⁴ J·s (measured constant in SI).
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for Cymatic K-Space Lattice (assumed proven)
+[@CKS-MATH-0-2026] Complete Mathematical Framework for Cymatic K-Space Lattice (assumed proven)
 
 [Fourier1822] Fourier, J. *Théorie analytique de la chaleur*
 

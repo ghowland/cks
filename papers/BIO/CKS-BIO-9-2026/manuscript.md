@@ -1,8 +1,8 @@
-# [CKS-BIO-16-2026] Thermal Regulation and Respiratory Interference: The Mechanics of Fever and Cold in K-Space
+# [@CKS-BIO-16-2026] Thermal Regulation and Respiratory Interference: The Mechanics of Fever and Cold in K-Space
 
-**Registry:** [CKS-BIO-16-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-11-2026] → [CKS-BIO-15-2026] → [CKS-BIO-16-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-11.2-2026], [CKS-BIO-15-2026]  
+**Registry:** [@CKS-BIO-16-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-BIO-15-2026]  
 **Subject:** Thermodynamics; Respiratory Mechanics; Phase Transitions  
 **Status:** Theoretical Framework — Falsifiable  
 **Date:** February 2026
@@ -68,8 +68,8 @@ Colds:
 **Thermodynamic model:**
 
 ```
-From [CKS-BIO-11.2]: Biological manifold as vertical resonator
-From [CKS-BIO-15]: Impedance Z_vert = Z₀(1 + ΣW_i)
+From [@CKS-BIO-11.2]: Biological manifold as vertical resonator
+From [@CKS-BIO-15]: Impedance Z_vert = Z₀(1 + ΣW_i)
 
 Fever = Exothermic phase transition
   Not: Immune system "fighting" infection
@@ -120,7 +120,7 @@ where:
 
 **Topological energy source:**
 
-From [CKS-MATH-1-2026], loop at junction i stores energy:
+From [@CKS-MATH-1-2026], loop at junction i stores energy:
 
 $$E_{loop,i} = k_B T \cdot N_i \cdot |W_i|$$
 
@@ -300,7 +300,7 @@ With mucus: Foreign particles bind to mucus, swept away by ciliary action
 
 This is buffer overflow response:
   Primary pathway blocked → Create secondary pathway
-  Same as compensatory binding in motor dysfunction ([CKS-BIO-15])
+  Same as compensatory binding in motor dysfunction ([@CKS-BIO-15])
 
 Production rate must match clearance need:
   Higher Z → More blockage → More mucus needed
@@ -321,7 +321,7 @@ where:
 
 **Derivation:**
 
-Cough is mechanical dithering (same mechanism as drumming rudiments in [CKS-BIO-15]):
+Cough is mechanical dithering (same mechanism as drumming rudiments in [@CKS-BIO-15]):
 
 ```
 Purpose: Dislodge foreign particles via resonant oscillation
@@ -384,7 +384,7 @@ Trigger: Loop formation or clearing (ΔW ≠ 0)
   - Physical trauma (impact creates loops)
   - Intense exercise (metabolic stress)
   - Emotional shock (sudden coherence change)
-  - Manual loop clearing ([CKS-BIO-15] protocol)
+  - Manual loop clearing ([@CKS-BIO-15] protocol)
 
 Temperature profile:
   - Onset: Rapid (1-4 hours to peak)
@@ -599,7 +599,7 @@ This is buffer overflow response:
   Secondary pathway (mucus layer) created
   Blockage bypassed
   
-Same topology as compensatory binding ([CKS-BIO-14.6]):
+Same topology as compensatory binding ([@CKS-BIO-14.6]):
   Cannot use internal closure → Create external closure
   Cannot breathe through airway → Create mucus bypass
 ```
@@ -908,7 +908,7 @@ Expected outcomes:
 Keep Z_vert low (reduce loop formation):
 
 Daily practice:
-  - Joint mobility (ϕ-rotations, [CKS-KINE-1])
+  - Joint mobility (ϕ-rotations, [@CKS-KINE-1])
   - Vortex activation (Dan Tien, 2.0 Hz)
   - Coherence check (proprioception awareness)
 
@@ -1107,7 +1107,7 @@ But this doesn't explain:
 **CKS explanation:**
 
 ```
-From [CKS-BIO-11.2]: Coherence affected by environmental conditions
+From [@CKS-BIO-11.2]: Coherence affected by environmental conditions
 
 Temperature effects on coherence:
 

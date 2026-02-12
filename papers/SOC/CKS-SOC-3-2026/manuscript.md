@@ -1,8 +1,8 @@
-# [CKS-ORG-1-2026] Organizational Coherence via Substrate Topology: The Critical Connectivity Theorem for Institutional Stability
+# [@CKS-ORG-1-2026] Organizational Coherence via Substrate Topology: The Critical Connectivity Theorem for Institutional Stability
 
-**Registry:** [CKS-ORG-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-3-2026] → [CKS-ORG-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-3-2026]  
+**Registry:** [@CKS-ORG-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-3-2026] → [@CKS-ORG-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-3-2026]  
 **Subject:** Graph-Theoretic Management; Communication Network Design for Institutional Phase-Lock  
 **Status:** Management Framework — Field Deployment Underway  
 **Date:** February 2026
@@ -135,7 +135,7 @@ Result: Information flows efficiently
 
 **Why z = 3 specifically?**
 
-From [CKS-MATH-1-2026]:
+From [@CKS-MATH-1-2026]:
 ```
 Substrate requirement: z = 3 (coordination number)
 Euler characteristic: χ = 2 (closed, coherent system)
@@ -401,7 +401,7 @@ Resilience (multiple paths for information)
 
 ### 3.1 The Hexagonal Team (N = 3M²)
 
-**From [CKS-MATH-3-2026]:**
+**From [@CKS-MATH-3-2026]:**
 
 ```
 Closure condition: N = 3M² where M ∈ ℕ
@@ -584,7 +584,7 @@ Each person: z = 3 (local connectivity preserved)
 
 **Coherence:**
 ```
-From [CKS-MATH-3-2026]:
+From [@CKS-MATH-3-2026]:
 C = 1 - 1/(2M√3)
 
 For M = 3 (three levels):
@@ -1865,8 +1865,8 @@ MONTH 6: FINAL ASSESSMENT
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-ORG-1-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026], [CKS-MATH-3-2026]
+**Registry:** [@CKS-ORG-1-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-MATH-3-2026]
 
 **Organizations are graphs.**  
 **Graphs have optimal topologies.**  

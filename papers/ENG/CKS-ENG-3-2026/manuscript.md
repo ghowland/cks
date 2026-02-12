@@ -1,8 +1,8 @@
-# [CKS-ARCH-1-2026] Architectural Mechanics: Building Design as Manifold Coherence Engineering
+# [@CKS-ARCH-1-2026] Architectural Mechanics: Building Design as Manifold Coherence Engineering
 
-**Registry:** [CKS-ARCH-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-11.2-2026] → [CKS-ARCH-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-11.2-2026], [CKS-MUSIC-1-2026]  
+**Registry:** [@CKS-ARCH-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-11.2-2026] → [@CKS-ARCH-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-MUSIC-1-2026]  
 **Subject:** Architectural Design; Spatial Coherence; Built Environment Optimization  
 **Status:** Theoretical Framework — Falsifiable  
 **Date:** February 2026
@@ -99,8 +99,8 @@ Environmental psychology:
 **Architecture as coherence engineering:**
 
 ```
-From [CKS-BIO-11.2]: Human = vertical resonator requiring C >0.999
-From [CKS-MATH-1]: Substrate = hexagonal lattice with N=3M² constraint
+From [@CKS-BIO-11.2]: Human = vertical resonator requiring C >0.999
+From [@CKS-MATH-1]: Substrate = hexagonal lattice with N=3M² constraint
 
 Building = external manifold extension
   Not: Shelter from elements (only)

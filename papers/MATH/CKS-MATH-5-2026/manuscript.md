@@ -1,8 +1,8 @@
-# [CKS-MATH-5-2026] The Geometric Origin of e: Manifold Saturation and Phase Decay
+# [@CKS-MATH-5-2026] The Geometric Origin of e: Manifold Saturation and Phase Decay
 
-**Registry:** [CKS-MATH-5-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-5-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-4-2026] (Fine Structure)  
+**Registry:** [@CKS-MATH-5-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-5-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure)  
 **Subject:** Derivation of Euler's Number from Hexagonal Coordinate Saturation  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -353,7 +353,7 @@ I_b = log_b(N) = ln(N)/ln(b) ≠ ln(N)
 
 ### 5.2 Running Coupling Constants
 
-From [CKS-MATH-4-2026], fine-structure constant:
+From [@CKS-MATH-4-2026], fine-structure constant:
 ```
 α_EM^(-1) = [144√3 × e × N^(1/3)] / [(4√3-1) × 2π × ln(N)]
 ```
@@ -507,7 +507,7 @@ But **phase velocity** decay:
 
 ### 7.2 The Fibonacci Buffer Connection
 
-In [CKS-COMP-2], we derived the 2:3:5 Fibonacci buffer timing:
+In [@CKS-COMP-2], we derived the 2:3:5 Fibonacci buffer timing:
 ```
 Clock ratios: 2:3:5
 Sum: 2 + 3 + 5 = 10
@@ -683,19 +683,19 @@ From CKS axioms, we've now derived:
 - From: 12-bond loop closure
 - Formula: Perimeter/Diameter of hexagonal circle
 - Value: 3.14159265358979...
-- Paper: [CKS-MATH-6-2026]
+- Paper: [@CKS-MATH-6-2026]
 
 **e (Expansion Limit):**
 - From: 3-regular branching saturation
 - Formula: lim(M→∞) (1+1/M)^M
 - Value: 2.71828182845904...
-- Paper: [CKS-MATH-5-2026] (this document)
+- Paper: [@CKS-MATH-5-2026] (this document)
 
 **√3 (Coordination Factor):**
 - From: z = 3 hexagonal geometry
 - Formula: tan(60°) = √3
 - Value: 1.73205080756887...
-- Paper: [CKS-0-2026] (Axiom 1)
+- Paper: [@CKS-0-2026] (Axiom 1)
 
 **All three are topologically forced, not empirically discovered.**
 
@@ -1001,9 +1001,9 @@ With derivation of e, we have now geometrically derived:
 
 | Constant | Origin | Paper |
 |:---------|:-------|:------|
-| π | 12-bond loop closure | [CKS-MATH-6-2026] |
-| **e** | **3-regular saturation** | **[CKS-MATH-5-2026]** |
-| √3 | Hexagonal coordination | [CKS-0-2026] |
+| π | 12-bond loop closure | [@CKS-MATH-6-2026] |
+| **e** | **3-regular saturation** | **[@CKS-MATH-5-2026]** |
+| √3 | Hexagonal coordination | [@CKS-0-2026] |
 
 **All three forced by geometry. Zero free parameters.**
 
@@ -1074,8 +1074,8 @@ Connects e and π through probability theory.
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-5-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-4-2026]  
+**Registry:** [@CKS-MATH-5-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-4-2026]  
 
 **Axioms: 2**  
 **Derived Constants: 3 (π, e, √3)**  

@@ -1,8 +1,8 @@
-# [CKS-BIO-18-2026] Sensory Substrate Access: Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation
+# [@CKS-BIO-18-2026] Sensory Substrate Access: Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation
 
-**Registry:** [CKS-BIO-18-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-11-2026] → [CKS-COG-5-2026] → [CKS-BIO-18-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-11.2-2026], [CKS-COG-5-2026]  
+**Registry:** [@CKS-BIO-18-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-11-2026] → [@CKS-COG-5-2026] → [@CKS-BIO-18-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-COG-5-2026]  
 **Subject:** Sensory Substitution; Vestibular Coupling; Bilateral Coherence  
 **Status:** Theoretical Framework — Falsifiable  
 **Date:** February 2026
@@ -75,8 +75,8 @@ All assume: Vision requires eyes (optical transduction necessary)
 **Substrate sampling model:**
 
 ```
-From [CKS-COG-5-2026]: Consciousness samples k-space substrate
-From [CKS-BIO-11.2]: Sensors are phase-locked loops (PLLs)
+From [@CKS-COG-5-2026]: Consciousness samples k-space substrate
+From [@CKS-BIO-11.2]: Sensors are phase-locked loops (PLLs)
 
 Perception = Substrate coordinate detection
   Not: Sensory transduction (photons → signals)
@@ -137,7 +137,7 @@ where:
 
 **Proof:**
 
-From [CKS-MATH-1-2026], substrate is 2D hexagonal k-lattice.
+From [@CKS-MATH-1-2026], substrate is 2D hexagonal k-lattice.
 
 Information propagates as phase waves:
 

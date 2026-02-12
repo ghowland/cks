@@ -1,8 +1,8 @@
-# [CKS-META-1-2026] The Universal Learning Substrate: Navigation Protocol for Cross-Domain Derivation
+# [@CKS-META-1-2026] The Universal Learning Substrate: Navigation Protocol for Cross-Domain Derivation
 
-**Registry:** [CKS-META-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-META-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-LANG-9-2026], [CKS-ARCH-1-2026]  
+**Registry:** [@CKS-META-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-META-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-LANG-9-2026], [@CKS-ARCH-1-2026]  
 **Subject:** Meta-Framework Validation; Universal Substrate Navigation; Cross-Domain Derivation Protocol  
 **Status:** Foundational Methodology — Operational Proof  
 **Date:** February 2026
@@ -191,7 +191,7 @@ Muon (μ⁻) in magnetic field:
   - Spin: 1/2
   - g-factor anomaly: a_μ ≈ 0.00116592
 
-CKS derivation (from [CKS-MATH-6.1]):
+CKS derivation (from [@CKS-MATH-6.1]):
   - Muon = 12-bond electron loop (M=10⁴³)
   - α_muon → 0 (minimal damping, stable particle)
   - Precession frequency locked to substrate

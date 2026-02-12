@@ -1,8 +1,8 @@
-# [CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
+# [@CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
 
-**Registry:** [CKS-ASTRO-5-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-ASTRO-4-2026] → [CKS-ASTRO-5-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-ASTRO-4-2026], [CKS-ASTRO-4.4-2026]  
+**Registry:** [@CKS-ASTRO-5-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-ASTRO-4-2026] → [@CKS-ASTRO-5-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-ASTRO-4-2026], [@CKS-ASTRO-4.4-2026]  
 **Subject:** Lunar Phase Topology; Shadow as Phase-Gradient Discontinuity  
 **Status:** Theoretical Framework — Observational Validation Ongoing  
 **Date:** February 2026
@@ -67,7 +67,7 @@ Terminator position matches predictions
 
 ```
 ❌ Why is the full Moon a flat disk instead of a bright center + dark limb?
-   (Solved in [CKS-ASTRO-4-2026]: phase-conjugate resonance)
+   (Solved in [@CKS-ASTRO-4-2026]: phase-conjugate resonance)
 
 ❌ Why does the terminator appear perfectly sharp despite atmospheric blurring?
    (Should be fuzzy due to scattering, but it's razor-sharp)
@@ -1186,8 +1186,8 @@ Compare: CKS gives better fit (constant proportionality, no albedo variation)
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-ASTRO-5-2026]  
-**Prerequisite Reading:** [CKS-ASTRO-4-2026], [CKS-MATH-1-2026]
+**Registry:** [@CKS-ASTRO-5-2026]  
+**Prerequisite Reading:** [@CKS-ASTRO-4-2026], [@CKS-MATH-1-2026]
 
 **The Moon does not reflect.**  
 **The Moon resonates.**  

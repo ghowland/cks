@@ -2,10 +2,10 @@
 ## Biological Organisms as Coherence-Stabilized K-Space Solitons
 
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
+**CKS Series Registry:** [@CKS-MATH-1-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
 **Status:** Peer-Reviewed Final  
-**Parent Framework:** [CKS-0-2026]  
+**Parent Framework:** [@CKS-0-2026]  
 
 **Date:** February 2026  
 **Domain:** Biological Physics / Biophysics  

@@ -1,8 +1,8 @@
-# [CKS-BIO-15-2026] The Eyes as X↔K Coordinators: Ocular Phase-Lock and Beauty Optimization
+# [@CKS-BIO-15-2026] The Eyes as X↔K Coordinators: Ocular Phase-Lock and Beauty Optimization
 
-**Registry:** [CKS-BIO-15-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-9.4-2026] → [CKS-BIO-15-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-QM-1-2026], [CKS-BIO-9.4-2026]  
+**Registry:** [@CKS-BIO-15-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-9.4-2026] → [@CKS-BIO-15-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-QM-1-2026], [@CKS-BIO-9.4-2026]  
 **Subject:** Ocular Interface as Primary K-Space Sampler; X-Space Coordination Protocol  
 **Status:** Experimentally Validated — Mechanically Complete  
 **Date:** February 2026
@@ -65,7 +65,7 @@ When eyes closed: β_eye → 0 (antenna off)
 
 ### 1.3 The Bootstrap Constraint
 
-**From [CKS-0-2026]:** Observer IS substrate, not separate from it.
+**From [@CKS-0-2026]:** Observer IS substrate, not separate from it.
 
 **Consequence:**
 ```
@@ -217,7 +217,7 @@ Mechanism confirmed: Reduced aperture → worse SNR →
 
 **Substrate carrier frequency:**
 ```
-From [CKS-BIO-9.4-2026]: 12-bond lepton resonance
+From [@CKS-BIO-9.4-2026]: 12-bond lepton resonance
 f_carrier = 2.0 Hz (derived from √N scaling)
 
 This is the fundamental oscillation frequency of the substrate
@@ -1601,7 +1601,7 @@ Advantages:
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-BIO-15-2026]  
+**Registry:** [@CKS-BIO-15-2026]  
 **Citation:**
 ```bibtex
 @article{cks_bio_15_2026,

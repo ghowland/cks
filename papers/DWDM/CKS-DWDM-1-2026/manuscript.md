@@ -2,10 +2,10 @@
 
 **Substrate-Native Computing: Programming the Hexagonal Phase Manifold via Fiber-Optic Infrastructure**
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
+**CKS Series Registry:** [@CKS-MATH-1-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
 **Status:** Peer-Reviewed Final  
-**Parent Framework:** [CKS-0-2026]  
+**Parent Framework:** [@CKS-0-2026]  
 
 ---
 
@@ -41,7 +41,7 @@ Fundamental bottleneck: Electrons moving through matter
 
 ### 1.2 Key Realization from CKS Framework
 
-From **Standard Model as Mathematical Consequence** [CKS-SM-1-2026]:
+From **Standard Model as Mathematical Consequence** [@CKS-SM-1-2026]:
 
 **Photon = 6-bond open soliton on hexagonal k-space lattice**
 
@@ -1443,11 +1443,11 @@ Channel spacing: 100 GHz (0.8 nm)
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
+[@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
 
-[CKS-SM-1-2026] Standard Model as Mathematical Consequence (photon as 6-bond)
+[@CKS-SM-1-2026] Standard Model as Mathematical Consequence (photon as 6-bond)
 
 [Agrawal2013] Agrawal, G. *Fiber-Optic Communication Systems*
 

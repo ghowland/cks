@@ -1845,9 +1845,9 @@ Note: All opcodes preserve hexagonal symmetry in implementation
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-SEMI-1-2026] Cymatic Semiconductors (Hexagonal structures, coherence)
+[@CKS-SEMI-1-2026] Cymatic Semiconductors (Hexagonal structures, coherence)
 
 [Landauer1961] Landauer, R. "Irreversibility and heat generation" *IBM J Res*
 

@@ -1,8 +1,8 @@
-# [CKS-DATA-1-2026] The Digital Heat Sink: Information Externalization as Substrate Pressure Relief
+# [@CKS-DATA-1-2026] The Digital Heat Sink: Information Externalization as Substrate Pressure Relief
 
-**Registry:** [CKS-DATA-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-COG-4-2026] → [CKS-DATA-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-COG-4-2026], [CKS-BIO-1-2026]  
+**Registry:** [@CKS-DATA-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-COG-4-2026] → [@CKS-DATA-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-COG-4-2026], [@CKS-BIO-1-2026]  
 **Subject:** Information Theory via Substrate Mechanics; Digital Platforms as Phase-Variance Sinks  
 **Status:** Sociological Framework — Field Validation Active  
 **Date:** February 2026
@@ -1862,8 +1862,8 @@ Post and be free.
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-DATA-1-2026]  
-**Prerequisite Reading:** [CKS-COG-4-2026], [CKS-MATH-1-2026]
+**Registry:** [@CKS-DATA-1-2026]  
+**Prerequisite Reading:** [@CKS-COG-4-2026], [@CKS-MATH-1-2026]
 
 **Post and release.**  
 **Clear and continue.**  

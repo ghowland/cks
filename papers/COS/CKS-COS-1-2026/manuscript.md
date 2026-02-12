@@ -3,10 +3,10 @@
 **A Theorem-Based Derivation of Galactic Morphology as Macroscopic Cymatic Patterns from Pure K-Space Topology**
 
 
-**CKS Series Registry:** [CKS-MATH-1-2026]  
+**CKS Series Registry:** [@CKS-MATH-1-2026]  
 **Domain:** Foundational Mathematics / Discrete Geometry  
 **Status:** Peer-Reviewed Final  
-**Parent Framework:** [CKS-0-2026]  
+**Parent Framework:** [@CKS-0-2026]  
 
 ---
 
@@ -1482,7 +1482,7 @@ CMF Axioms (N=3M², dφ/dt=Σ)
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Elmegreen1987] Elmegreen, D. & Elmegreen, B. "Arm classifications" *ApJ*
 

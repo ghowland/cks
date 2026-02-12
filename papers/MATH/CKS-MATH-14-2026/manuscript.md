@@ -1,8 +1,8 @@
-# [CKS-MATH-14-2026] The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
+# [@CKS-MATH-14-2026] The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
 
-**Registry:** [CKS-MATH-14-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-4-2026] → [CKS-MATH-14-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-4-2026] (Fine Structure), [CKS-MATH-11-2026] (Jacobian)  
+**Registry:** [@CKS-MATH-14-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-14-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure), [@CKS-MATH-11-2026] (Jacobian)  
 **Subject:** Holographic Extension; Cubic Root Scaling; Spatial Resolution; Linear Projection  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -22,7 +22,7 @@ We derive the constant **2.08008382...** as the **Linear Holographic Scale Facto
 
 ### 1.1 Where 2.08 Appears
 
-**In [CKS-MATH-4-2026] fine-structure formula:**
+**In [@CKS-MATH-4-2026] fine-structure formula:**
 ```
 α_EM^(-1) = [144√3 × e × 2.08...×10²⁰] / [(4√3-1) × 2π × ln(N)]
            = 137.035999084
@@ -59,11 +59,11 @@ Must explain ALL factors, including 2.08×10²⁰.
 
 **Pattern observed:**
 ```
-144 = 12² (lepton information matrix) ✓ [CKS-MATH-9-2026]
-√3 = hexagonal geometry ✓ [CKS-0-2026]
-e = expansion saturation ✓ [CKS-MATH-5-2026]
+144 = 12² (lepton information matrix) ✓ [@CKS-MATH-9-2026]
+√3 = hexagonal geometry ✓ [@CKS-0-2026]
+e = expansion saturation ✓ [@CKS-MATH-5-2026]
 2π = phase conservation ✓ [Axiom 2]
-ln(N) = information capacity ✓ [CKS-MATH-4-2026]
+ln(N) = information capacity ✓ [@CKS-MATH-4-2026]
 ```
 
 **Missing:**
@@ -155,7 +155,7 @@ QED.
 
 ### 3.1 Current Epoch Node Count
 
-**From [CKS-MATH-10-2026]:**
+**From [@CKS-MATH-10-2026]:**
 
 Universe age: t₀ ≈ 13.9 Gyr
 Planck time: t_P ≈ 5.39×10⁻⁴⁴ s
@@ -236,7 +236,7 @@ x³ = x² × x = 9.000000000...
 
 ### 4.1 The Alpha Formula (Complete)
 
-**From [CKS-MATH-4-2026]:**
+**From [@CKS-MATH-4-2026]:**
 ```
 α_EM^(-1) = [144√3 × e × N^(1/3)] / [(4√3-1) × 2π × ln(N)]
 ```
@@ -869,8 +869,8 @@ It is the cubic root of 9 (the node count factor at current epoch), representing
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-14-2026]  
-**Prerequisites:** [CKS-MATH-1,4,11-2026]
+**Registry:** [@CKS-MATH-14-2026]  
+**Prerequisites:** [@CKS-MATH-1,4,11-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  

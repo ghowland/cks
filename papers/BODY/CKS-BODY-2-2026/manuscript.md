@@ -1978,11 +1978,11 @@ Note: All optimal gaits at integer or half-integer multiples of 2 Hz
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures)
+[@CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures)
 
-[CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
+[@CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
 
 [Alexander2003] Alexander, R. "Principles of Animal Locomotion" *Princeton*
 

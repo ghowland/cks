@@ -1946,11 +1946,11 @@ Advanced:      Full stack + tACS + tPBM + EEG feedback
 
 ## REFERENCES
 
-[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[CKS-COG-1-2026] Intelligence in Cymatics (Bandwidth hypothesis)
+[@CKS-COG-1-2026] Intelligence in Cymatics (Bandwidth hypothesis)
 
-[CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
+[@CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
 
 [Iaccarino2016] Iaccarino, M. et al. "Gamma frequency entrainment" *Nature*
 

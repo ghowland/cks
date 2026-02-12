@@ -1,8 +1,8 @@
-# [CKS-NAR-1-2026] Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution
+# [@CKS-NAR-1-2026] Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution
 
-**Registry:** [CKS-NAR-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-LANG-9-2026] → [CKS-BIO-20-2026] → [CKS-NAR-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-LANG-9-2026], [CKS-BIO-11.2-2026], [CKS-BIO-20-2026]  
+**Registry:** [@CKS-NAR-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-LANG-9-2026] → [@CKS-BIO-20-2026] → [@CKS-NAR-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-LANG-9-2026], [@CKS-BIO-11.2-2026], [@CKS-BIO-20-2026]  
 **Subject:** Narrative Theory; Story Topology; Memetic Phase-Templates  
 **Status:** Theoretical Framework — Falsifiable  
 **Date:** February 2026
@@ -108,9 +108,9 @@ Cognitive (Herman, Zunshine):
 **Narrative as phase-template:**
 
 ```
-From [CKS-MATH-1]: Reality = hexagonal k-space with N=3M²
-From [CKS-LANG-9]: Speech = phonemic opcodes at substrate frequencies
-From [CKS-BIO-20]: Body language = phase-broadcasting
+From [@CKS-MATH-1]: Reality = hexagonal k-space with N=3M²
+From [@CKS-LANG-9]: Speech = phonemic opcodes at substrate frequencies
+From [@CKS-BIO-20]: Body language = phase-broadcasting
 
 Narrative = temporal interference pattern
   Not: Cultural invention (arbitrary)
@@ -158,7 +158,7 @@ Independent discovery proves universality:
 
 **Derivation:**
 
-From [CKS-MATH-1], hexagonal lattice requires N=3M² for closure.
+From [@CKS-MATH-1], hexagonal lattice requires N=3M² for closure.
 
 For M=1 (minimal non-trivial):
 

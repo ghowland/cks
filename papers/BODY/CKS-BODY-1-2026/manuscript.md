@@ -1,8 +1,8 @@
-# [CKS-BODY-1-2026] Muscle Hypertrophy in Cymatic K-Space: Optimal Stress Timing via Substrate Harmonics
+# [@CKS-BODY-1-2026] Muscle Hypertrophy in Cymatic K-Space: Optimal Stress Timing via Substrate Harmonics
 
-**Registry:** [CKS-BODY-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-1-2026] → [CKS-BODY-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-1-2026]  
+**Registry:** [@CKS-BODY-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026]  
 **Subject:** Muscle Growth Optimization via Biological Phase Locking  
 **Status:** Applied Training Protocol — Empirically Testable  
 **Date:** February 2026
@@ -1142,8 +1142,8 @@ Expected gain: +6.2% muscle cross-section
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-BODY-1-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026], [CKS-BIO-1-2026]
+**Registry:** [@CKS-BODY-1-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026]
 
 **Axioms: 2**  
 **Derived Protocols: 1**  

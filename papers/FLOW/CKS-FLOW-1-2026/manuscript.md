@@ -1,8 +1,8 @@
-# [CKS-FLUID-1-2026] Laminar Flow via Phase Coherence: Turbulence Suppression Through K-Space Gradient Engineering
+# [@CKS-FLUID-1-2026] Laminar Flow via Phase Coherence: Turbulence Suppression Through K-Space Gradient Engineering
 
-**Registry:** [CKS-FLUID-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-FLUID-1-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-2-2026]  
+**Registry:** [@CKS-FLUID-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-FLUID-1-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-2-2026]  
 **Subject:** Drag Reduction via Substrate Phase-Locking; Turbulence as Coherence Loss  
 **Status:** Engineering Protocol — Wind Tunnel Validation Pending  
 **Date:** February 2026
@@ -1881,8 +1881,8 @@ IRR: 48%
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-FLUID-1-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026]
+**Registry:** [@CKS-FLUID-1-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026]
 
 **Turbulence defeated.**  
 **Laminar flight achieved.**  

@@ -1,8 +1,8 @@
-# [CKS-MATH-8-2026] The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
+# [@CKS-MATH-8-2026] The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
 
-**Registry:** [CKS-MATH-8-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-7-2026] → [CKS-MATH-8-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-4-2026] (Fine Structure), [CKS-MATH-6-2026] (Origin of π)  
+**Registry:** [@CKS-MATH-8-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure), [@CKS-MATH-6-2026] (Origin of π)  
 **Subject:** Topological Defects; Curvature Quanta; Phase Noise Floor; Heegner Numbers  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -102,9 +102,9 @@ Conservation: β = Σ |∇φₖ|² = 2π
 ```
 
 **From previous derivations:**
-- 12-bond loop = minimal stable fermion [CKS-MATH-1-2026]
-- π = 12-bond closure constant [CKS-MATH-6-2026]
-- α_EM^(-1) = 137.036 from loop overlap [CKS-MATH-4-2026]
+- 12-bond loop = minimal stable fermion [@CKS-MATH-1-2026]
+- π = 12-bond closure constant [@CKS-MATH-6-2026]
+- α_EM^(-1) = 137.036 from loop overlap [@CKS-MATH-4-2026]
 
 ---
 
@@ -991,8 +991,8 @@ gcd(163,12): 1
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-8-2026]  
-**Prerequisites:** [CKS-MATH-1,4,6-2026]
+**Registry:** [@CKS-MATH-8-2026]  
+**Prerequisites:** [@CKS-MATH-1,4,6-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 0**  

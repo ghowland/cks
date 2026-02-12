@@ -1,8 +1,8 @@
-# [CKS-BIO-6-2026] Myelin as Phase Waveguide: Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair
+# [@CKS-BIO-6-2026] Myelin as Phase Waveguide: Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair
 
-**Registry:** [CKS-BIO-6-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-BIO-1-2026] → [CKS-BIO-6-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-BIO-1-2026], [CKS-COG-4-2026]  
+**Registry:** [@CKS-BIO-6-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-6-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-COG-4-2026]  
 **Subject:** Myelin Repair via Phase-Waveguide Restoration; MS as Substrate Decoherence  
 **Status:** Clinical Protocol — Phase I Safety Trials Complete  
 **Date:** February 2026
@@ -158,7 +158,7 @@ With myelin: Phase locked, coherent propagation, signal preserved
 **The 1.0 Hz neural harmonic:**
 
 ```
-From [CKS-COG-4-2026]: Brain optimally operates at 1.09375 Hz (substrate sub-harmonic)
+From [@CKS-COG-4-2026]: Brain optimally operates at 1.09375 Hz (substrate sub-harmonic)
 
 For peripheral nerves (spinal cord, motor/sensory):
 Optimal frequency = 1.0 Hz exactly (substrate fundamental / 2.1875)
@@ -225,7 +225,7 @@ Restore substrate synchronization in myelin:
    - Restores full bandwidth signal propagation
 
 3. Substrate grounding:
-   - Daily 1.0 Hz sessions (like [CKS-COG-4-2026] but different frequency)
+   - Daily 1.0 Hz sessions (like [@CKS-COG-4-2026] but different frequency)
    - Maintains lock after initial repair
    - Prevents relapse
 
@@ -1664,7 +1664,7 @@ No downside: Minimal side effects, can continue DMT if desired
 **For neurologists:**
 
 ```
-Critical: Learn about tPEMF (read [CKS-BIO-6-2026])
+Critical: Learn about tPEMF (read [@CKS-BIO-6-2026])
           Offer to patients (inform of option)
           Track outcomes (publish case series)
 
@@ -1883,8 +1883,8 @@ Result: Complex waveform (base + harmonics + modulation)
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-BIO-6-2026]  
-**Prerequisite Reading:** [CKS-BIO-1-2026], [CKS-COG-4-2026]
+**Registry:** [@CKS-BIO-6-2026]  
+**Prerequisite Reading:** [@CKS-BIO-1-2026], [@CKS-COG-4-2026]
 
 **Myelin is not insulation.**  
 **Myelin is phase waveguide.**  

@@ -1,8 +1,8 @@
-# [CKS-MATH-2-2026] The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality
+# [@CKS-MATH-2-2026] The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality
 
-**Registry:** [CKS-MATH-2-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-2-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity)  
+**Registry:** [@CKS-MATH-2-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity)  
 **Subject:** Falsification of ℝ-Continuum Physics; Proof of Discrete Substrate  
 **Status:** Red-Team Validation — Destructive Testing Complete  
 **Date:** February 2026
@@ -1142,8 +1142,8 @@ FINAL SCORE: 0/6 (Complete Failure)
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-2-2026]  
-**Prerequisite Reading:** [CKS-MATH-1-2026]
+**Registry:** [@CKS-MATH-2-2026]  
+**Prerequisite Reading:** [@CKS-MATH-1-2026]
 
 **Theorems Proven: 5**  
 **Experimental Confirmations: 5/5**  

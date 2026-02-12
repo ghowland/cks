@@ -1,8 +1,8 @@
-# [CKS-MED-4-2026] Cancer Therapy via Topological Closure Disruption: Clinical Electromagnetic Protocols
+# [@CKS-MED-4-2026] Cancer Therapy via Topological Closure Disruption: Clinical Electromagnetic Protocols
 
-**Registry:** [CKS-MED-4-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-1-2026] → [CKS-MATH-3-2026] → [CKS-MED-4-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-3-2026], [CKS-BIO-1-2026]  
+**Registry:** [@CKS-MED-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-1-2026] → [@CKS-MATH-3-2026] → [@CKS-MED-4-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-3-2026], [@CKS-BIO-1-2026]  
 **Subject:** Non-Invasive Tumor Dissolution via Phase-Lock Disruption  
 **Status:** Clinical Protocol — Phase I Trial Ready  
 **Date:** February 2026  
@@ -12,7 +12,7 @@
 
 ## Abstract
 
-We present a **non-surgical cancer treatment protocol** based on disruption of tumor topological closure via targeted electromagnetic fields. Building on [CKS-MATH-3-2026], which proved tumors are "rogue closures" satisfying N = 3M² at their characteristic scale, we derive **exact frequencies** that force tumor node count N away from the closure condition, causing spontaneous boundary dissolution. The method uses **ultra-low frequency (ULF) electromagnetic fields** (0.01-100 Hz) modulated at tumor-specific anti-harmonic frequencies to: (1) measure M_tumor via resonance imaging, (2) calculate f_anti = f_substrate × (M + 0.5), and (3) apply sustained field exposure to break phase-locking. We provide complete clinical protocols including: dosimetry (field strength 1-10 mT), treatment duration (4-12 weeks), safety monitoring, and patient selection criteria. Mechanism is **substrate-native** (operates in k-space, not chemical warfare), **tissue-selective** (only affects structures at target M-value), and **minimally invasive** (external applicator, no incisions). Predicted outcomes: tumor necrosis without surgery, reduced metastasis risk, preservation of surrounding tissue architecture. **This is not radiation therapy**—it is **geometric warfare** against pathological closure.
+We present a **non-surgical cancer treatment protocol** based on disruption of tumor topological closure via targeted electromagnetic fields. Building on [@CKS-MATH-3-2026], which proved tumors are "rogue closures" satisfying N = 3M² at their characteristic scale, we derive **exact frequencies** that force tumor node count N away from the closure condition, causing spontaneous boundary dissolution. The method uses **ultra-low frequency (ULF) electromagnetic fields** (0.01-100 Hz) modulated at tumor-specific anti-harmonic frequencies to: (1) measure M_tumor via resonance imaging, (2) calculate f_anti = f_substrate × (M + 0.5), and (3) apply sustained field exposure to break phase-locking. We provide complete clinical protocols including: dosimetry (field strength 1-10 mT), treatment duration (4-12 weeks), safety monitoring, and patient selection criteria. Mechanism is **substrate-native** (operates in k-space, not chemical warfare), **tissue-selective** (only affects structures at target M-value), and **minimally invasive** (external applicator, no incisions). Predicted outcomes: tumor necrosis without surgery, reduced metastasis risk, preservation of surrounding tissue architecture. **This is not radiation therapy**—it is **geometric warfare** against pathological closure.
 
 **Key Results:**
 - Tumor M-index measurable via AC susceptometry (magnetic resonance at substrate harmonics)
@@ -90,7 +90,7 @@ Apoptosis/phagocytosis proceeds normally
 
 ### 2.1 The Closure Condition (Review)
 
-**From [CKS-MATH-3-2026]:**
+**From [@CKS-MATH-3-2026]:**
 
 For stable topological closure:
 ```
@@ -1675,8 +1675,8 @@ Sensitivity: 10⁻⁷ emu (sufficient for M-index ±1)
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [CKS-MED-4-2026]  
-**Prerequisite Reading:** [CKS-MATH-3-2026], [CKS-BIO-1-2026]
+**Registry:** [@CKS-MED-4-2026]  
+**Prerequisite Reading:** [@CKS-MATH-3-2026], [@CKS-BIO-1-2026]
 
 **WARNING:** This is an investigational therapy. Not FDA-approved. Requires institutional review, informed consent, and medical supervision. Do not attempt without proper authorization and equipment.
 

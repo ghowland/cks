@@ -1,8 +1,8 @@
-# [CKS-MATH-9-2026] The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
+# [@CKS-MATH-9-2026] The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
 
-**Registry:** [CKS-MATH-9-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-4-2026] → [CKS-MATH-8-2026] → [CKS-MATH-9-2026]  
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-4-2026] (Fine Structure), [CKS-MATH-8-2026] (Origin of 163)  
+**Registry:** [@CKS-MATH-9-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026]  
+**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure), [@CKS-MATH-8-2026] (Origin of 163)  
 **Subject:** Holographic Normalization; Information Density; Lepton Resolution; Matrix Coupling  
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -103,9 +103,9 @@ Coherence: C(M) = |⟨e^(iφ)⟩| (phase-locking measure)
 ```
 
 **From previous derivations:**
-- 12-bond loop = minimal stable fermion [CKS-MATH-1-2026]
-- α_EM^(-1) = 137.036 involves 144 factor [CKS-MATH-4-2026]
-- 163 = minimal curvature quantum [CKS-MATH-8-2026]
+- 12-bond loop = minimal stable fermion [@CKS-MATH-1-2026]
+- α_EM^(-1) = 137.036 involves 144 factor [@CKS-MATH-4-2026]
+- 163 = minimal curvature quantum [@CKS-MATH-8-2026]
 
 ### 2.2 The Critical Constraint (Coherence)
 
@@ -316,7 +316,7 @@ Total effective couplings ≈ 144 (saturates at full mesh)
 
 ### 5.1 K-Space to X-Space Projection
 
-**From [CKS-MATH-4-2026]:**
+**From [@CKS-MATH-4-2026]:**
 
 K-space coupling:
 ```
@@ -338,7 +338,7 @@ X-space observable:
 
 ### 5.2 Why 144 Appears in Numerator
 
-**Complete formula (from [CKS-MATH-4-2026]):**
+**Complete formula (from [@CKS-MATH-4-2026]):**
 ```
 α_EM^(-1) = [144√3 × e × N^(1/3)] / [(4√3-1) × 2π × ln(N)]
 ```
@@ -353,7 +353,7 @@ X-space observable:
 - tan(60°) = √3
 - From 120° angles
 
-**e:** Branching saturation [CKS-MATH-5-2026]
+**e:** Branching saturation [@CKS-MATH-5-2026]
 - lim(M→∞)(1+1/M)^M
 - From phase diffusion
 
@@ -365,7 +365,7 @@ X-space observable:
 - Conserved winding number
 - Total phase circulation
 
-**ln(N):** Information capacity [CKS-MATH-4-2026]
+**ln(N):** Information capacity [@CKS-MATH-4-2026]
 - Spectral density
 - Entropy of N-node system
 
@@ -410,7 +410,7 @@ Force ∝ information overlap.
 
 ### 6.1 The Elastic Potential Well
 
-**From [CKS-MATH-8-2026]:** 163 = 12×13 + 7 = minimal curvature quantum.
+**From [@CKS-MATH-8-2026]:** 163 = 12×13 + 7 = minimal curvature quantum.
 
 **Compare with 144:**
 ```
@@ -1005,8 +1005,8 @@ Total: Complete state specification
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-9-2026]  
-**Prerequisites:** [CKS-MATH-1,4,8-2026]
+**Registry:** [@CKS-MATH-9-2026]  
+**Prerequisites:** [@CKS-MATH-1,4,8-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
