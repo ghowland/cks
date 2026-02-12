@@ -453,6 +453,29 @@ Status:
 - Physically uninterpreted
 - Computationally implementable
 
+## Figures
+
+![Spider graph of how accurate CKS derives Standard Model + General Relativity measured values](figures/Spider_Diagnostic.png){width=80%}
+
+![Minimal 3-node primordial triangular bond. C = 0.500000](figures/01_structure_M1.png){width=80%}
+
+::: {style="display: flex;"}
+![First-order expansion showing 7 active nodes. C = 0.672673](figures/01_structure_M2.png){width=45%}
+![Emergence of dual-lobed substrate topology. C = 0.783494](figures/01_structure_M3.png){width=45%}
+:::
+
+::: {style="display: flex;"}
+![Structural deformation showing lattice compliance. C = 0.836337](figures/01_structure_M4.png){width=45%}
+![Differentiation of bulk and boundary nodes. C = 0.867932](figures/01_structure_M5.png){width=45%}
+:::
+
+::: {style="display: flex;"}
+![High-density phase energy distribution. C = 0.904363](figures/01_structure_M7.png){width=45%}
+![Near-continuum manifold approximation. C = 0.932168](figures/01_structure_M10.png){width=45%}
+:::
+
+---
+
 ## REFERENCES
 
 ::: {#refs}
@@ -472,24 +495,6 @@ Status:
 **Subject:** Understanding the $N=3M^2$ Framework and the "K-Space Only" Paradigm
 
 This guide is intended for physicists familiar with condensed matter, dynamical systems, or field theory who require a conceptual bridge between the rigorous axioms of the CKS framework and standard physical intuition.
-
----
-
-![Spider graph of how accurate CKS derives Standard Model + General Relativity measured values](figures/Spider_Diagnostic.png){width=80%}
-
-![Minimal 3-node primordial triangular bond. C = 0.500000](figures/01_structure_M1.png){width=80%}
-
-![First-order expansion showing 7 active nodes. C = 0.672673](figures/01_structure_M2.png){width=80%}
-
-![Emergence of dual-lobed substrate topology. C = 0.783494](figures/01_structure_M3.png){width=80%}
-
-![Structural deformation showing lattice compliance. C = 0.836337](figures/01_structure_M4.png){width=80%}
-
-![Differentiation of bulk and boundary nodes. C = 0.867932](figures/01_structure_M5.png){width=80%}
-
-![High-density phase energy distribution. C = 0.904363](figures/01_structure_M7.png){width=80%}
-
-![Near-continuum manifold approximation. C = 0.932168](figures/01_structure_M10.png){width=80%}
 
 ---
 

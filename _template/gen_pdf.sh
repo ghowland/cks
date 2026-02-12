@@ -31,6 +31,8 @@ pandoc manuscript_fixed.md -o manuscript.pdf \
   -V mainfont="FreeSerif" \
   -V monofont="FreeMono" \
   -V "title:" \
+  -V header-includes="\usepackage{float}" \
+  -V header-includes="\makeatletter\def\fps@figure{H}\makeatother" \
   --metadata nocite='@*' \
   --csl=../../../pass-through.csl \
   -V colorlinks=true \
