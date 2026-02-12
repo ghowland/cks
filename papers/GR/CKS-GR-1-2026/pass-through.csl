@@ -7,15 +7,15 @@
   </info>
   <citation>
     <layout prefix="[" suffix="]">
-      <!-- This is the key: we tell it to print exactly what is in the title field -->
-      <!-- We use 'text-case="none"' to stop the Howl26 behavior -->
-      <text variable="title" text-case="none"/>
+      <text variable="publisher-place"/>
     </layout>
   </citation>
   <bibliography>
     <layout>
-      <text variable="title" font-weight="bold" prefix="[" suffix="] "/>
+      <text variable="publisher-place" font-weight="bold" prefix="[" suffix="] "/>
+      <text variable="title" suffix=". "/>
       <text variable="note"/>
     </layout>
   </bibliography>
 </style>
+
