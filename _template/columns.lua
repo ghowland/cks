@@ -1,19 +1,27 @@
 -- columns.lua
-function Div(el)
-  if el.classes:includes('columns') then
-    -- Convert the div to a LaTeX environment for the PDF
-    return {
-      pandoc.RawBlock('tex', '\\begin{figure}[H]\\centering'),
-      el,
-      pandoc.RawBlock('tex', '\\end{figure}')
-    }
+function Para(el)
+  -- Count how many images are in this paragraph
+  local images = 0
+  for _, inline in ipairs(el.content) do
+    if inline.t == "Image" then
+      images = images + 1
+    end
   end
-end
 
-function Image(img)
-  -- Automatically set a default width for all images if not specified
-  if img.attributes['width'] == nil then
-    img.attributes['width'] = '80%'
+  -- If there is more than one image, we need to make them smaller to fit on one line
+  if images > 1 then
+    for _, inline in ipairs(el.content) do
+      if inline.t == "Image" then
+        inline.attributes['width'] = "45%"
+      end
+    end
+  elseif images == 1 then
+    -- If it's a single image, keep it at your preferred 80%
+    for _, inline in ipairs(el.content) do
+      if inline.t == "Image" then
+        inline.attributes['width'] = "80%"
+      end
+    end
   end
-  return img
+  return el
 end
