@@ -459,20 +459,14 @@ Status:
 
 ![Minimal 3-node primordial triangular bond. C = 0.500000](figures/01_structure_M1.png){width=80%}
 
-::: {style="display: flex;"}
 ![First-order expansion showing 7 active nodes. C = 0.672673](figures/01_structure_M2.png){width=45%}
 ![Emergence of dual-lobed substrate topology. C = 0.783494](figures/01_structure_M3.png){width=45%}
-:::
 
-::: {style="display: flex;"}
 ![Structural deformation showing lattice compliance. C = 0.836337](figures/01_structure_M4.png){width=45%}
 ![Differentiation of bulk and boundary nodes. C = 0.867932](figures/01_structure_M5.png){width=45%}
-:::
 
-::: {style="display: flex;"}
 ![High-density phase energy distribution. C = 0.904363](figures/01_structure_M7.png){width=45%}
 ![Near-continuum manifold approximation. C = 0.932168](figures/01_structure_M10.png){width=45%}
-:::
 
 ---
 
