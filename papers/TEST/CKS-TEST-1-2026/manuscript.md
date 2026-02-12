@@ -1414,7 +1414,7 @@ h_integrated = 10⁻²¹ × √(10⁶ / 0.5) = 10⁻²¹ × 1414 ≈ 10⁻¹⁸
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [LIGO2016] Abbott, B. et al. "Observation of Gravitational Waves" *PRL*
 

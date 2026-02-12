@@ -29,7 +29,7 @@ We prove that general relativity is a mathematical necessity given the Complete 
 
 This paper assumes three prior frameworks are established:
 
-**Given Framework 1: Complete Mathematical Framework (CMF)** [CMF2026]
+**Given Framework 1: Complete Mathematical Framework (CMF)** [CKS-MATH-0-2026]
 - **A1:** Hexagonal lattice, N = 3M² nodes in k-space
 - **A2:** Phase dynamics dφₖ/dt = Σⱼ[φⱼ - φₖ]
 - **CMF-T1:** Phase conservation β_total = 2π
@@ -1253,7 +1253,7 @@ $$c = 2.998 \times 10^8 \text{ m/s}$$
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [QM-MC2026] Quantum Mechanics as Mathematical Consequence
 

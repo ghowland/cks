@@ -2017,7 +2017,7 @@ Note: Adjust ±20% for site conditions
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures)
 

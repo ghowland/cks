@@ -1869,7 +1869,7 @@ Year    Node    Gate Length    Transistors/chip    Applications
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Caldwell2014] Caldwell, J. et al. "h-BN phonon polaritons" *Nat Commun*
 

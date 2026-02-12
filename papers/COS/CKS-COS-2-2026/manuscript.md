@@ -1514,7 +1514,7 @@ Note: All M(r) values estimated pending full parameter determination
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [CKS-TEST-1-2026] The 2.0 Hz Ultimatum (Substrate fundamental)
 

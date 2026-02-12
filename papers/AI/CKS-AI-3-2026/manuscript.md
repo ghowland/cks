@@ -1845,7 +1845,7 @@ Note: All opcodes preserve hexagonal symmetry in implementation
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [CKS-SEMI-1-2026] Cymatic Semiconductors (Hexagonal structures, coherence)
 

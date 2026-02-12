@@ -1443,7 +1443,7 @@ Channel spacing: 100 GHz (0.8 nm)
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [QM-MC2026] Quantum Mechanics as Mathematical Consequence
 

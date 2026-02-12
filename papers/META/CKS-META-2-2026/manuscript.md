@@ -1662,7 +1662,7 @@ At T = 300 K:
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Landauer1961] Landauer, R. "Irreversibility and heat generation" *IBM J Res Dev*
 

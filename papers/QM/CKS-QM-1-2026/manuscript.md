@@ -26,7 +26,7 @@ We prove that quantum mechanics is a mathematical necessity given the Complete M
 
 ### 1.1 Scope and Purpose
 
-This paper assumes the **Complete Mathematical Framework** (CMF) has been established [CMF2026] with the following proven properties:
+This paper assumes the **Complete Mathematical Framework** (CMF) has been established [CKS-MATH-0-2026] with the following proven properties:
 
 **Given axioms:**
 - **A1 (Topology):** Momentum space is a hexagonal lattice with N = 3M² nodes, M ∈ ℕ
@@ -646,7 +646,7 @@ These require additional CMF theorems (assumed proven elsewhere):
 - **Dirac equation** (from 2-component coupling)
 - **Gauge theories** (from phase symmetries)
 
-All are derivable from CMF; see [CMF2026] and companion papers.
+All are derivable from CMF; see [CKS-MATH-0-2026] and companion papers.
 
 ---
 
@@ -769,7 +769,7 @@ where ℏ = 1.054571817 × 10⁻³⁴ J·s (measured constant in SI).
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for Cymatic K-Space Lattice (assumed proven)
+[CKS-MATH-0-2026] Complete Mathematical Framework for Cymatic K-Space Lattice (assumed proven)
 
 [Fourier1822] Fourier, J. *Théorie analytique de la chaleur*
 

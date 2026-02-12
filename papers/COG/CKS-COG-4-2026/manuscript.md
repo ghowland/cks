@@ -1946,7 +1946,7 @@ Advanced:      Full stack + tACS + tPBM + EEG feedback
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [CKS-COG-1-2026] Intelligence in Cymatics (Bandwidth hypothesis)
 

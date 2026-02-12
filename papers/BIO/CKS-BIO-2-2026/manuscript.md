@@ -1723,7 +1723,7 @@ Target values from CKS theory
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [CKS-MATH-1-2026] Hexagonal Lattice (N=3M² foundation)
 

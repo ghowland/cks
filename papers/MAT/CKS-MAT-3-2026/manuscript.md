@@ -1983,7 +1983,7 @@ General: σ_service = 1.2-1.5 × σ_threshold (operate in anti-fragile regime)
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [CKS-MAT-1-2026] Materials in Cymatics (Hexagonal structures, coherence)
 

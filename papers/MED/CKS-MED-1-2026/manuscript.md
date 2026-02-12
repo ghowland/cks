@@ -1479,7 +1479,7 @@ Monitoring: Weekly FDG-PET, monthly MRI
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Warburg1956] Warburg, O. "On the origin of cancer cells" *Science*
 

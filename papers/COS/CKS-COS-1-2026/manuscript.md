@@ -1482,7 +1482,7 @@ CMF Axioms (N=3M², dφ/dt=Σ)
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Elmegreen1987] Elmegreen, D. & Elmegreen, B. "Arm classifications" *ApJ*
 

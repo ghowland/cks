@@ -1571,7 +1571,7 @@ Expected outcomes:
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Haier2009] Haier, R. et al. "Neural efficiency and intelligence" *Neuroimage*
 

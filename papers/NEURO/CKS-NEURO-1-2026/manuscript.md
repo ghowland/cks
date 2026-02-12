@@ -1636,7 +1636,7 @@ Prediction: C_awake > 0.95, C_anesthesia < 0.85
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Hodgkin1952] Hodgkin, A. & Huxley, A. "Action potential mechanism" *J Physiol*
 

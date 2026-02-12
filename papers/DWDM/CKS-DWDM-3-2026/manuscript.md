@@ -1630,7 +1630,7 @@ Harmonics needed: 3-10× (achievable via cascaded SHG/THG)
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Rabitz1993] Rabitz, H. et al. "Optimal control of molecular motion" *Science*
 

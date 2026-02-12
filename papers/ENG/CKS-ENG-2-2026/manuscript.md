@@ -1929,7 +1929,7 @@ Recommended: 1-10 kHz (harmonics 500-5000) for balance of coverage and efficienc
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
 [Tesla1900] Tesla, N. "Wireless transmission of electrical energy" (Wardenclyffe patents)
 

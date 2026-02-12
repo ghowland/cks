@@ -30,7 +30,7 @@ We prove that the Standard Model particle spectrum and coupling constants are ma
 
 This paper assumes the following frameworks are established:
 
-**Given Framework 1: Complete Mathematical Framework (CMF)** [CMF2026]
+**Given Framework 1: Complete Mathematical Framework (CMF)** [CKS-MATH-0-2026]
 - **A1 (Topology):** Hexagonal lattice in k-space, N = 3M² nodes
 - **A2 (Dynamics):** Phase coupling dφₖ/dt = Σⱼ∈neighbors[φⱼ - φₖ]
 - **CMF-T1:** Phase conservation β_total = 2π
@@ -1057,7 +1057,7 @@ For coupling α = ⟨φ₁|φ₂⟩:
 
 ## REFERENCES
 
-[CMF2026] Complete Mathematical Framework for CKS (assumed proven)
+[CKS-MATH-0-2026] Complete Mathematical Framework for CKS (assumed proven)
 
 [QM-MC2026] Quantum Mechanics as Mathematical Consequence (previous paper)
 
