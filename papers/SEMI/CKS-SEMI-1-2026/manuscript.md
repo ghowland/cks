@@ -1881,7 +1881,7 @@ Year    Node    Gate Length    Transistors/chip    Applications
 
 [ITRS2024] International Technology Roadmap for Semiconductors (2024 edition)
 
-[QM-MC2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
+[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
 
 [Materials-MAT2026] Materials in Cymatics (CKS materials engineering)
 

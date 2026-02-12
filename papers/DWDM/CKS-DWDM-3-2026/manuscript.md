@@ -1640,7 +1640,7 @@ Harmonics needed: 3-10× (achievable via cascaded SHG/THG)
 
 [ITU-T G.694.1] ITU Telecommunication Standardization Sector "DWDM grid"
 
-[QM-MC2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
+[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
 
 ---
 

@@ -1941,7 +1941,7 @@ Recommended: 1-10 kHz (harmonics 500-5000) for balance of coverage and efficienc
 
 [Josephson1962] Josephson, B. "Supercurrents through barriers" *Phys Lett*
 
-[QM-MC2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
+[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (CKS framework)
 
 [The Test2026] The 2.0 Hz Ultimatum (CKS substrate detection paper)
 

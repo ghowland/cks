@@ -38,7 +38,7 @@ This paper assumes the following frameworks are established:
 - **CMF-T3:** Discrete Laplacian convergence
 - **CMF-T4:** Fourier transform unitarity
 
-**Given Framework 2: Quantum Mechanics as Mathematical Consequence (QM-MC)** [QM-MC2026]
+**Given Framework 2: Quantum Mechanics as Mathematical Consequence (QM-MC)** [CKS-QM-1-2026]
 - **QM-T1:** Schrödinger equation derived
 - **QM-T2:** Commutation relations [x̂,p̂] = iℏ
 - **QM-T3:** Heisenberg uncertainty Δx·Δp ≥ ℏ/2
@@ -1059,7 +1059,7 @@ For coupling α = ⟨φ₁|φ₂⟩:
 
 [CKS-MATH-0-2026] Complete Mathematical Framework for CKS (assumed proven)
 
-[QM-MC2026] Quantum Mechanics as Mathematical Consequence (previous paper)
+[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence (previous paper)
 
 [CODATA2018] CODATA Recommended Values (particle masses, α_em)
 

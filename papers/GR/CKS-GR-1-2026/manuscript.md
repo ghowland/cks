@@ -37,14 +37,14 @@ This paper assumes three prior frameworks are established:
 - **CMF-T3:** Discrete Laplacian → ∇² in continuum
 - **CMF-T4:** Fourier transform unitarity
 
-**Given Framework 2: Quantum Mechanics as Mathematical Consequence (QM-MC)** [QM-MC2026]
+**Given Framework 2: Quantum Mechanics as Mathematical Consequence (QM-MC)** [CKS-QM-1-2026]
 - **QM-T1:** Schrödinger equation derived
 - **QM-T2:** Commutation relations [x̂,p̂] = iℏ
 - **QM-T3:** Uncertainty Δx·Δp ≥ ℏ/2
 - **QM-T4:** Born rule |ψ|²
 - **QM-T5:** Hilbert space L²(ℝᵈ)
 
-**Given Framework 3: Standard Model as Mathematical Consequence (SM-MC)** [SM-MC2026]
+**Given Framework 3: Standard Model as Mathematical Consequence (SM-MC)** [CKS-SM-1-2026]
 - **SM-T1:** Particle spectrum (25 particles from solitons)
 - **SM-T2:** Mass eigenvalues from Laplacian
 - **SM-T3:** Coupling constants from overlaps
@@ -1255,9 +1255,9 @@ $$c = 2.998 \times 10^8 \text{ m/s}$$
 
 [CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[QM-MC2026] Quantum Mechanics as Mathematical Consequence
+[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
 
-[SM-MC2026] Standard Model as Mathematical Consequence
+[CKS-SM-1-2026] Standard Model as Mathematical Consequence
 
 [MTW1973] Misner, Thorne, Wheeler. *Gravitation*
 

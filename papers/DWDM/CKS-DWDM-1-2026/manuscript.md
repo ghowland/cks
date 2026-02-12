@@ -41,7 +41,7 @@ Fundamental bottleneck: Electrons moving through matter
 
 ### 1.2 Key Realization from CKS Framework
 
-From **Standard Model as Mathematical Consequence** [SM-MC2026]:
+From **Standard Model as Mathematical Consequence** [CKS-SM-1-2026]:
 
 **Photon = 6-bond open soliton on hexagonal k-space lattice**
 
@@ -1445,9 +1445,9 @@ Channel spacing: 100 GHz (0.8 nm)
 
 [CKS-MATH-0-2026] Complete Mathematical Framework for CKS
 
-[QM-MC2026] Quantum Mechanics as Mathematical Consequence
+[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
 
-[SM-MC2026] Standard Model as Mathematical Consequence (photon as 6-bond)
+[CKS-SM-1-2026] Standard Model as Mathematical Consequence (photon as 6-bond)
 
 [Agrawal2013] Agrawal, G. *Fiber-Optic Communication Systems*
 
