@@ -2,31 +2,36 @@ import json
 import os
 import shutil
 
-def generate_bib_entry(manuscript_data):
+def generate_bib_entry(manuscript_data, folder_id):
     """
-    Creates a BibTeX entry using the 'publisher' field as a safe 
-    pass-through variable for the Registry ID.
+    Creates a BibTeX entry. Prefers the registry_id from JSON, 
+    but falls back to folder name if JSON contains placeholders.
     """
-    # Extract ID: "[CKS-GR-1-2026]" -> "CKS-GR-1-2026"
-    full_id = manuscript_data["registry_id"].strip("[]")
-    long_title = manuscript_data["title"]
-    
+    # Use the folder name as the source of truth if JSON is generic
+    full_id = manuscript_data.get("registry_id", "").strip("[]")
+    if full_id == "CKS-0-2026" and folder_id.startswith("CKS-"):
+        full_id = folder_id
+
+    long_title = manuscript_data.get("title", "Untitled CKS Paper")
     parts = full_id.split('-')
     
-    # Determine Topic Folder and Year
     # Pattern CKS-0-2026 (3 parts) -> _CKS
     # Pattern CKS-MATH-0-2026 (4 parts) -> MATH
     if len(parts) == 3:
         topic_folder = "_CKS"
         year = parts[2]
-    else:
+    elif len(parts) >= 4:
         topic_folder = parts[1]
         year = parts[3]
+    else:
+        topic_folder = "UNKNOWN"
+        year = "2026"
 
     github_url = f"https://github.com/ghowland/cks/tree/main/papers/{topic_folder}/{full_id}"
     
-    # Generate entry using double-braces to preserve exact casing and content.
-    # We use 'publisher' because Citeproc reliably passes this string to the CSL.
+    # BibTeX Mapping:
+    # 1. Double braces protect exact casing.
+    # 2. publisher contains the ID for the pass-through CSL.
     entry = f"""@article{{{full_id},
   author = {{Howland, Geoffrey}},
   title = {{{{{long_title}}}}},
@@ -36,10 +41,9 @@ def generate_bib_entry(manuscript_data):
   note = {{Github: {github_url} }}
 }}
 """
-    return entry
+    return (full_id, entry)
 
 def main():
-    # Execute from the root directory where the 'papers' folder lives
     root_papers_dir = "./papers"  
     master_entries = {}
     target_dirs = []
@@ -48,54 +52,54 @@ def main():
         print(f"Error: {root_papers_dir} directory not found.")
         return
 
-    print(f"Scanning for manuscript.json files in {root_papers_dir}...")
+    print(f"Scanning for manifest.json files in {root_papers_dir}...")
 
-    # 1. Walk through all directories to find manuscripts and collect data
     for root, dirs, files in os.walk(root_papers_dir):
+        # We search for manifest.json OR manuscript.json based on your previous logs
+        manifest_file = None
         if "manuscript.json" in files:
-            file_path = os.path.join(root, "manuscript.json")
+            manifest_file = "manuscript.json"
+        elif "manifest.json" in files:
+            manifest_file = "manifest.json"
+
+        if manifest_file:
+            file_path = os.path.join(root, manifest_file)
+            folder_name = os.path.basename(root)
             
             try:
                 with open(file_path, 'r') as f:
                     data = json.load(f)
-                    reg_id = data.get("registry_id")
+                    # Pass the folder name as a fallback ID
+                    reg_id, entry = generate_bib_entry(data, folder_name)
                     
-                    if reg_id:
-                        print(f"  Found: {reg_id}")
-                        # Keep track of every directory that needs a bib file
-                        target_dirs.append(root)
-                        # Generate and store the bib entry
-                        entry = generate_bib_entry(data)
-                        master_entries[reg_id] = entry
-                    else:
-                        print(f"  Warning: No registry_id in {file_path}")
+                    print(f"  Processed: {reg_id} (from {manifest_file})")
+                    target_dirs.append(root)
+                    master_entries[reg_id] = entry
                         
             except Exception as e:
                 print(f"  Error reading {file_path}: {e}")
 
     if not master_entries:
-        print("No valid entries found in manifest.json files.")
+        print("No valid entries found.")
         return
 
-    # 2. Write the Master Bibliography to the current root directory
+    # Write the Master Bibliography
     master_bib_name = "references.bib"
     sorted_ids = sorted(master_entries.keys())
     
     with open(master_bib_name, "w") as f:
-        for reg_id in sorted_ids:
-            f.write(master_entries[reg_id])
+        for rid in sorted_ids:
+            f.write(master_entries[rid])
             f.write("\n")
 
-    print(f"\nSuccess: Generated master {master_bib_name} with {len(sorted_ids)} entries.")
+    print(f"\nSuccess: Generated references.bib with {len(sorted_ids)} unique entries.")
 
-    # 3. Copy the Master Bib to every directory that contains a manifest.json
-    print(f"Distributing {master_bib_name} to {len(target_dirs)} directories...")
+    # Distribute
     for target in target_dirs:
         dest = os.path.join(target, master_bib_name)
         shutil.copy2(master_bib_name, dest)
-        print(f"  Copied to: {target}")
 
-    print("\nGlobal Bibliography Distribution Complete.")
+    print("Global Bibliography Distribution Complete.")
 
 if __name__ == "__main__":
     main()
