@@ -55,6 +55,9 @@ def main():
                         print(f"  Found: {reg_id}")
                         entry = generate_bib_entry(data)
                         master_entries[reg_id] = entry
+                    else:
+                        print (f"  NOT Found in: {file_path}")
+                        
             except Exception as e:
                 print(f"  Error reading {file_path}: {e}")
 

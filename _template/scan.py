@@ -22,6 +22,10 @@ class CKSRegistryScanner:
         registry_match = re.search(r"Registry:\*\*?\s+(\[CKS-[A-Z0-9.-]+-202[0-9]\])", content)
         self_id = registry_match.group(1) if registry_match else None
 
+        if self_id is None:
+            self_id = 'CKS-0-2026'
+
+
         # Extract Series Path
         path_match = re.search(r"Series Path:\*\*?\s+(.*)", content)
         series_path = path_match.group(1) if path_match else ""
