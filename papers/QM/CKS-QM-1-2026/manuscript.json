@@ -1,14 +1,9 @@
 {
     "file_name": "manuscript.md",
-    "title": "[CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence of CKS",
-    "registry_id": "[CKS-QM-1-2026]",
-    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-QM-1-2026]",
+    "title": "Quantum Mechanics as Mathematical Consequence of CKS",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-QM-1-2026]",
     "abstract": "We prove that quantum mechanics is a mathematical necessity given the Complete Mathematical Framework (CMF) axioms: a hexagonal lattice in momentum space with N = 3M\u00b2 nodes and local phase coupling dynamics. Using rigorous theorem-proof methodology, we derive the Schr\u00f6dinger equation, Heisenberg uncertainty relations, canonical commutation relations, and Born rule as theorems\u2014not postulates. No physical interpretation is assumed; all quantum phenomena emerge as geometric consequences of the substrate topology and phase evolution. This establishes quantum mechanics as pure mathematics: **If CMF axioms hold, then quantum mechanics follows necessarily.**",
-    "dependencies": [
-        "[CKS-0-2026]",
-        "[CKS-MATH-0-2026]",
-        "[CKS-MATH-1-2026]",
-        "[CKS-MATH-10-2026]"
-    ],
-    "raw_content_preview": "# [CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence of CKS  **A Theorem-Based Derivation from Hexagonal Lattice Axioms**  **Registry:** [CKS-QM-1-2026]   **Series Path:** [CKS-0-2026] \u2192 [C..."
+    "dependencies": [],
+    "raw_content_preview": "# Quantum Mechanics as Mathematical Consequence of CKS  **A Theorem-Based Derivation from Hexagonal Lattice Axioms**  **Registry:** [@CKS-QM-1-2026]   **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-202..."
 }

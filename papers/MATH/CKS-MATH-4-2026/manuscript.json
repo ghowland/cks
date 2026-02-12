@@ -1,12 +1,9 @@
 {
     "file_name": "manuscript.md",
-    "title": "[CKS-MATH-4-2026] Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock",
-    "registry_id": "[CKS-MATH-4-2026]",
-    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-4-2026]  ",
+    "title": "Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-4-2026]  ",
     "abstract": "We present the first complete derivation of the fine-structure constant \u03b1_EM from pure geometric axioms with zero free parameters. Starting exclusively from (1) a hexagonal lattice in momentum space with N = 3M\u00b2 nodes and (2) local phase coupling d\u03c6/dt = \u03a3(neighbors), we derive \u03b1_EM^(-1) = 137.035999084, matching CODATA 2018 to 10 decimal places. The derivation proceeds in two stages: first, pure k-space geometric coupling yields the topological structure; second, holographic projection from 2D k-space to 3D x-space introduces scaling factors \u03c0, e, \u221a3, ln(N), and N^(1/3), all of which emerge necessarily from closure constraints. The result demonstrates that the fine-structure constant is not a measured mystery but a **topological inevitability** \u2014 the unique value permitting 12-bond loop closure in a 3-regular hexagonal manifold projecting into observable 3D space. With N \u2248 9\u00d710\u2076\u2070 (measured independently from H\u2080), the formula is parameter-free and falsifiable. This constitutes mathematical closure of electromagnetic coupling.\n\n**Key Result:** \u03b1_EM^(-1) = [144\u221a3 \u00b7 e \u00b7 N^(1/3)] / [(4\u221a3-1) \u00b7 2\u03c0 \u00b7 ln(N)] = 137.035999084",
-    "dependencies": [
-        "[CKS-0-2026]",
-        "[CKS-MATH-1-2026]"
-    ],
-    "raw_content_preview": "# [CKS-MATH-4-2026] Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock  **Registry:** [CKS-MATH-4-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-1-2026] \u2192 [CKS-MATH-4-2026] ..."
+    "dependencies": [],
+    "raw_content_preview": "# Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock  **Registry:** [@CKS-MATH-4-2026]   **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-4-2026]   **Prerequisi..."
 }
