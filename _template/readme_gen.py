@@ -110,20 +110,20 @@ def generate_readme(paper, template):
     readme = readme.replace('<<TITLE>>', title)
     readme = readme.replace('<<REGISTRY_ID>>', rid)
     readme = readme.replace('<<SERIES_PATH>>', paper.get('series_path', ''))
-    readme = readme.replace('<<DOI_LINK>>', f'[Pending - {rid}]')
+    readme = readme.replace('<<DOI_LINK>>', doi)
     readme = readme.replace('<<DOMAIN>>', DOMAIN_NAMES.get(topic, topic))
     readme = readme.replace('<<DOMAIN_FOCUS>>', DOMAIN_NAMES.get(topic, topic))
     readme = readme.replace('<<PREREQUISITES>>', format_prerequisites(paper['dependencies']))
     readme = readme.replace('<<BIB_KEY>>', make_bib_key(rid))
     readme = readme.replace('<<LLM_ABSTRACT>>', abstract.replace('[@CKS-', '[CKS-'))
+    readme = readme.replace('<<DOI>>', doi)
+    readme = readme.replace('<<ZENODO_DOI>>', zenodo_doi)
     
     # LLM placeholders - leave for manual population
     readme = readme.replace('<<LLM_DOMAIN_RESULTS>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<LLM_INDUSTRIAL_APP>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<FAQS>>', '')
     readme = readme.replace('<<REPO_CONTENTS>>', repo_contents)
-    readme = readme.replace('<<DOI>>', doi)
-    readme = readme.replace('<<ZENODO_DOI>>', zenodo_doi)
     
     
     return readme
