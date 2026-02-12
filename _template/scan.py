@@ -61,6 +61,8 @@ class CKSRegistryScanner:
 
         for file in files:
             if (file == 'README.md'): continue
+            if (file == 'repo_contents.md'): continue
+            
 
             try:
                 metadata = self.scan_file(file)

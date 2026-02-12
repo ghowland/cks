@@ -1,7 +1,20 @@
 #!/usr/bin/env python3
 """
 CKS README.md Generator
+
 Populates template with paper metadata and generates README.md for each paper
+
+Tag         	    Strategy
+
+<<LLM_ABSTRACT>>	LLM	Prompt: "Summarize the [MANUSCRIPT.md] in 3 paragraphs for a physicist."
+<<LLM_DOMAIN_RESULTS>>	LLM	Prompt: "Extract the 3 most significant math results from [MANUSCRIPT.md]."
+<<LLM_INDUSTRIAL_APP>>	LLM	Prompt: "How does the 2.0Hz sync specifically improve [DOMAIN] industry?"
+<<TITLE>>	Python Scan	Extracted from H1 of the .md file.
+<<REGISTRY_ID>>	Python Scan	Extracted from **Registry:** field.
+<<PREREQUISITES>>	Python Scan	Extracted from dependencies in your JSON scan.
+<<BIB_KEY>>	Python Scan	cks_ + domain + reg_id slug.
+<<FAQS>> Frequeuntly Asked Questions
+<<REPO_CONTENTS>> Load from `repo_contents.md` and insert so it stays stable
 """
 
 import json
@@ -67,6 +80,12 @@ def generate_readme(paper, template):
     title = clean_title(paper['title'])
     abstract = paper.get('abstract', '[Abstract not available]')
     
+    try:
+        repo_contents = open('repo_contents.md').read()
+    except Exception as e:
+        raise e
+
+
     # Basic replacements
     readme = template
     readme = readme.replace('<<TITLE>>', title)
@@ -83,6 +102,8 @@ def generate_readme(paper, template):
     readme = readme.replace('<<LLM_DOMAIN_RESULTS>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<LLM_INDUSTRIAL_APP>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<FAQS>>', '')
+    readme = readme.replace('<<REPO_CONTENTS>>', repo_contents)
+    
     
     return readme
 

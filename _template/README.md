@@ -18,7 +18,6 @@ bibliography: references.bib
 
 ## Abstract
 <<LLM_ABSTRACT>>
-
 ---
 
 ## Substrate Mechanics (Series Context)
@@ -46,28 +45,7 @@ The logical validity of this derivation requires the following "Pillar Proofs":
 
 ## Repository Contents
 
-```
-zenodo_package/
-├── manuscript.md              # Main paper
-├── README.md                  # This file
-├── zenodo.json                # Zenodo metadata
-│
-├── code/                      # Implementations
-│   ├── x.py                   # All constants evolve mechanically with N; z=0 matches CODATA, z=5 predicted.
-│   └── y.py                   # 2d Viewer to visualize the substrate.  Zig + Raylib
-│
-├── data/                      # Results
-│   ├── x.dat                  # Live validation output; confirms 10-digit alpha^-1 match and sub-1% cosmological precision from zero free parameters.
-│   └── x.json                 # N=9e60 substrate units give exact internal ratios; SI conversion yields 0.007297 α, 206.77 μ/e, 3477.2 τ/e.
-│
-├── figures/                   # Visualizations
-│   ├── x.png                  # K-Space substrate lattice
-│   └── x.png                  # CKS timeline: N vs. age from t_P to current epoch.
-│
-└── supplementary/             # Extended materials
-    ├── x.md                   # How does movement in X-Space translate to K-Space?  Movement -> Phase Evolution
-    └── x.md                   # A Comparative Analysis of Abbott's Metaphor and Cymatic Reality
-```
+<<REPO_CONTENTS>>
 
 ---
 
