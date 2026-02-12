@@ -15,6 +15,10 @@ sed -e 's/ₖ/$_k$/g' \
     -e 's/⚠/\\textbf{!}/g' \
     manuscript.md > manuscript_fixed.md
 
+
+# Remove the invisible Variation Selector (U+FE0F)
+sed -i 's/\xEF\xB8\x8F//g' manuscript_fixed.md
+
 # 2. Build PDF using the MODERN engine
 # --citeproc is now a built-in flag
 # ::: {#refs} ::: will now work perfectly in your .md file
