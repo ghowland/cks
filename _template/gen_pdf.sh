@@ -30,6 +30,7 @@ pandoc manuscript_fixed.md -o manuscript.pdf \
   --metadata title="CKS-GR-1-2026" \
   -V mainfont="FreeSerif" \
   -V monofont="FreeMono" \
+  -V "title:" \
   --metadata nocite='@*' \
   --csl=../../../pass-through.csl \
   -V colorlinks=true \
