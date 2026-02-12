@@ -1,4 +1,4 @@
-# [@CKS-SM-1-2026] Standard Model as Mathematical Consequence of CKS
+# Standard Model as Mathematical Consequence of CKS
 
 **A Theorem-Based Derivation of Particle Spectrum and Coupling Constants from Hexagonal Lattice Axioms**
 

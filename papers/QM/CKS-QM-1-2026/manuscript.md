@@ -1,4 +1,4 @@
-# [@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence of CKS
+# Quantum Mechanics as Mathematical Consequence of CKS
 
 **A Theorem-Based Derivation from Hexagonal Lattice Axioms**
 
