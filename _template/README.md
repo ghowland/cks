@@ -89,13 +89,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 **A:** No. CKS is a cognitive learning model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
 
-### Q: What is AI written and what is human written?  (This Q&A was human written, others are not)
+### Q: What is AI written and what is human written?
 
-**A**: The only human writing is the meta-data and copywrite.  Full paper text was written by Anthropic's Claude Sonnet 4.5 using output from Deepseek's KimiK2 and Google's Gemini3 Flash.  Meta-data content may have come from any of them.  
+**A**: The only human editing is the meta-data, copywrite and this Q&A.  The `manuscript.md` was written by Anthropic's Claude Sonnet 4.5 using output from Deepseek's KimiK2 and Google's Gemini3 Flash.  Meta-data content may have come from any of them.  
 
-Over the project my pattern of usage developed so that I used Claude mostly as the integrator and writer, and this is often where very good ideas came out, as the context buffer is very large.  I would use Gemini3 as the idea starter, because it gave both the derivation information and a technical explanation in the first response once primed.
+Over the project, my pattern of usage developed so that I used Claude mostly as the integrator and writer, and this is often where very good ideas came out, as the context buffer is very large.  I would use Gemini3 as the idea starter, because it gave both the derivation information and a technical explanation in the first response once primed.  Kimi was the best at checking and performing derivations, and sometimes came up with insightful connections in it's summaries.
 
-End of author writing.
+End of the author writing.
 
 ### Methodology: How to Prime for CKS Derivations
 
