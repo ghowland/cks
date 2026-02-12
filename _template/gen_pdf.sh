@@ -36,6 +36,12 @@ sed -i 's/\$\(\\[a-zA-Z]\{1,\}\)\$/\\(\1\\)/g' manuscript_fixed.md
 sed -i 's/\\(\\/$/g' manuscript_fixed.md
 sed -i 's/\\)/$/g' manuscript_fixed.md
 
+# Normalize blackboard bold sets and Unicode subscripts to LaTeX math
+sed -i -e 's/ℝ/$\\mathbb{R}$/g' \
+       -e 's/ℚ/$\\mathbb{Q}$/g' \
+       -e 's/ℤ/$\\mathbb{Z}$/g' \
+       -e 's/ₙ/$_n$/g' manuscript_fixed.md
+
 pandoc manuscript_fixed.md -o !manuscript.pdf \
   --pdf-engine=xelatex \
   --from markdown+tex_math_dollars \

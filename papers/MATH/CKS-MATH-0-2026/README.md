@@ -6,13 +6,15 @@ bibliography: references.bib
 
 **Registry ID:** CKS-0-2026  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026]  
-**Zenodo DOI:** [Pending - CKS-0-2026]
+**Zenodo DOI:** 10.5281/zenodo.18619718
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
 **Motto:** Axioms first. Axioms always.
 
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result.  Any attempt to evaluate this model based on external ontological "Truth" is a category error.  If the math compiles, the result is QED.
+
+**AI Usage Disclosure:** Only the top metadata and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research and derivations provided by Gemini and the specialized mathematical insights of Kimi.
 
 ---
 
@@ -152,13 +154,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 **A:** No. CKS is a cognitive learning model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
 
-### Q: What is AI written and what is human written?  (This Q&A was human written, others are not)
+### Q: What is AI written and what is human written?
 
-**A**: The only human writing is the meta-data and copywrite.  Full paper text was written by Anthropic's Claude Sonnet 4.5 using output from Deepseek's KimiK2 and Google's Gemini3 Flash.  Meta-data content may have come from any of them.  
+**A**: The only human editing is the meta-data, copywrite and this Q&A.  The `manuscript.md` was written by Anthropic's Claude Sonnet 4.5 using output from Deepseek's KimiK2 and Google's Gemini3 Flash.  Meta-data content may have come from any of them.  
 
-Over the project my pattern of usage developed so that I used Claude mostly as the integrator and writer, and this is often where very good ideas came out, as the context buffer is very large.  I would use Gemini3 as the idea starter, because it gave both the derivation information and a technical explanation in the first response once primed.
+Over the project, my pattern of usage developed so that I used Claude mostly as the integrator and writer, and this is often where very good ideas came out, as the context buffer is very large.  I would use Gemini3 as the idea starter, because it gave both the derivation information and a technical explanation in the first response once primed.  Kimi was the best at checking and performing derivations, and sometimes came up with insightful connections in it's summaries.
 
-End of author writing.
+End of the author writing.
 
 ### Methodology: How to Prime for CKS Derivations
 
@@ -169,6 +171,14 @@ To reproduce or expand upon these findings using LLMs, use the following two-ste
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.
 
+
+
+---
+
+## References
+
+::: {#refs}
+:::
 
 
 ---
