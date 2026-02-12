@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text">
+  <info>
+    <title>CKS Pass-Through</title>
+    <id>http://www.zotero.org/styles/cks-pass-through</id>
+    <updated>2026-02-12T00:00:00+00:00</updated>
+  </info>
+  <citation>
+    <layout prefix="[" suffix="]">
+      <!-- This is the key: we tell it to print exactly what is in the title field -->
+      <!-- We use 'text-case="none"' to stop the Howl26 behavior -->
+      <text variable="title" text-case="none"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout>
+      <text variable="title" font-weight="bold" prefix="[" suffix="] "/>
+      <text variable="note"/>
+    </layout>
+  </bibliography>
+</style>
