@@ -1,3 +1,7 @@
+---
+title: "<<TITLE>>"
+bibliography: references.bib
+---
 # <<TITLE>>
 
 **Registry ID:** <<REGISTRY_ID>>  
