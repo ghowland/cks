@@ -1,9 +1,9 @@
 {
     "file_name": "manuscript.md",
-    "title": "Cymatic K-Space Mechanics: Complete Mathematical Framework",
+    "title": "Cymatic K-Space Mechanics",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026]",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# Cymatic K-Space Mechanics: Complete Mathematical Framework ## Axiomatic Foundation for Expert Physicists   **Registry:** [@CKS-MATH-0-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026]  **..."
+    "raw_content_preview": "# Cymatic K-Space Mechanics ## Complete Mathematical Framework   **Registry:** [@CKS-MATH-0-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026]  **Parent Framework:** [@CKS-0-2026]    **Domai..."
 }

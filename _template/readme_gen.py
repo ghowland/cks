@@ -15,6 +15,8 @@ Tag         	    Strategy
 <<BIB_KEY>>	Python Scan	cks_ + domain + reg_id slug.
 <<FAQS>> Frequeuntly Asked Questions
 <<REPO_CONTENTS>> Load from `repo_contents.md` and insert so it stays stable
+<<DOI>> DOI
+<<ZENODO_DOI>> Zenedo DOI
 """
 
 import json
@@ -91,6 +93,8 @@ def generate_readme(paper, template):
     except Exception as e:
         raise e
 
+    doi = paper.get('doi', '[DOI]')
+    zenodo_doi = paper.get('zenodo_doi', '[Zenedo DOI]')
 
     # Basic replacements
     readme = template
@@ -109,6 +113,8 @@ def generate_readme(paper, template):
     readme = readme.replace('<<LLM_INDUSTRIAL_APP>>', '[To be extracted from manuscript.md]')
     readme = readme.replace('<<FAQS>>', '')
     readme = readme.replace('<<REPO_CONTENTS>>', repo_contents)
+    readme = readme.replace('<<DOI>>', doi)
+    readme = readme.replace('<<ZENODO_DOI>>', zenodo_doi)
     
     
     return readme

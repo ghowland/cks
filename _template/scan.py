@@ -64,9 +64,8 @@ class CKSRegistryScanner:
         print(f"Scanning {len(files)} files in '{self.directory}'...")
 
         for file in files:
-            if (file == 'README.md'): continue
-            if (file == 'repo_contents.md'): continue
-            
+            # We onyly want manuscript.md, skip everything else
+            if (file != 'manuscript.md'): continue
 
             try:
                 metadata = self.scan_file(file)

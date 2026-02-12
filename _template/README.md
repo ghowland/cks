@@ -74,6 +74,8 @@ If you use this work in a pedagogical or research context, please cite:
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
+  doi = {<<DOI>>},
+  url = {https://zenodo.org/record/<<ZENODO_DOI>>},
   note={CKS Series: <<REGISTRY_ID>>. Dependencies: <<PREREQUISITES>> }
 }
 ```

@@ -1,5 +1,5 @@
-# Cymatic K-Space Mechanics: Complete Mathematical Framework
-## Axiomatic Foundation for Expert Physicists
+# Cymatic K-Space Mechanics
+## Complete Mathematical Framework
 
 
 **Registry:** [@CKS-MATH-0-2026]  

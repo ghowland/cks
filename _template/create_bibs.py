@@ -58,6 +58,8 @@ def generate_bib_entry(manuscript_data, folder_id):
 
     github_url = f"https://github.com/ghowland/cks/tree/main/papers/{topic_folder}/{full_id}"
     
+    zenodo_record = 'zzz'
+
     # CRITICAL CHANGE:
     # 1. 'title' now contains ONLY the CKS-ID.
     # 2. 'note' now contains the Full Descriptive Title + Github link.
@@ -66,7 +68,7 @@ def generate_bib_entry(manuscript_data, folder_id):
   author = {{Howland, Geoffrey}},
   title = {{{{{full_id}}}}},
   year = {{{year}}},
-  url = {{https://zenodo.org/record/YOUR_ID_HERE}},
+  url = {{https://zenodo.org/record/{zenodo_record}}},
   note = {{{{{long_title}. Github: {github_url} }}}}
 }}
 """
