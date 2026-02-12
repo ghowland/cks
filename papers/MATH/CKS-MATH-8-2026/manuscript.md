@@ -1,4 +1,4 @@
-# [@CKS-MATH-8-2026] The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
+# The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
 
 **Registry:** [@CKS-MATH-8-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026]  

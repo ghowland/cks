@@ -1,4 +1,4 @@
-# [@CKS-MATH-15-2026] Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism
+# Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism
 
 **Registry:** [@CKS-MATH-15-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-12-2026] → [@CKS-MATH-15-2026]  

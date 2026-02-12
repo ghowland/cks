@@ -1,4 +1,4 @@
-# [@CKS-MATH-1-2026] The Mechanical Necessity of Integer Quantization in Physical Systems
+# The Mechanical Necessity of Integer Quantization in Physical Systems
 
 **Registry:** [@CKS-MATH-1-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026]  

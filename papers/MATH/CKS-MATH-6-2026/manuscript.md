@@ -1,4 +1,4 @@
-# [@CKS-MATH-6-2026] The Geometric Origin of π: The 12-Bond Circumference Invariant
+# The Geometric Origin of π: The 12-Bond Circumference Invariant
 
 **Registry:** [@CKS-MATH-6-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026]  

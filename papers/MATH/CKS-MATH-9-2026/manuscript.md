@@ -1,4 +1,4 @@
-# [@CKS-MATH-9-2026] The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
+# The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
 
 **Registry:** [@CKS-MATH-9-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026]  

@@ -1,4 +1,4 @@
-# [@CKS-MATH-13-2026] The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
+# The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
 
 **Registry:** [@CKS-MATH-13-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-13-2026]  

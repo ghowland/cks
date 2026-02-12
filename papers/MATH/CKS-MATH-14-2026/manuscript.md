@@ -1,4 +1,4 @@
-# [@CKS-MATH-14-2026] The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
+# The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
 
 **Registry:** [@CKS-MATH-14-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-14-2026]  

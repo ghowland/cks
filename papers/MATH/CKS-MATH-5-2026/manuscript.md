@@ -1,4 +1,4 @@
-# [@CKS-MATH-5-2026] The Geometric Origin of e: Manifold Saturation and Phase Decay
+# The Geometric Origin of e: Manifold Saturation and Phase Decay
 
 **Registry:** [@CKS-MATH-5-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-5-2026]  

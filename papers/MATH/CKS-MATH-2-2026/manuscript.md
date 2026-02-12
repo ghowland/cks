@@ -1,4 +1,4 @@
-# [@CKS-MATH-2-2026] The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality
+# The Impossibility of Continuous Analog Space: A Constructive Proof of Digital Reality
 
 **Registry:** [@CKS-MATH-2-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026]  

@@ -1,4 +1,4 @@
-# [@CKS-MATH-12-2026] The Cosmic Bit-Flip: Deriving Baryon Asymmetry from Topological Boot Sequence
+# The Cosmic Bit-Flip: Deriving Baryon Asymmetry from Topological Boot Sequence
 
 **Registry:** [@CKS-MATH-12-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-12-2026]  

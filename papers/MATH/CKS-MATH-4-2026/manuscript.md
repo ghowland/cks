@@ -1,4 +1,4 @@
-# [@CKS-MATH-4-2026] Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock
+# Derivation of the Fine Structure Constant: The 10-Decimal Topological Lock
 
 **Registry:** [@CKS-MATH-4-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026]  

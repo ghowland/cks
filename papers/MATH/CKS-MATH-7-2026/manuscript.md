@@ -1,4 +1,4 @@
-# [@CKS-MATH-7-2026] Derivation of Standard Model Constants from Cymatic K-Space Mechanics
+# Derivation of Standard Model Constants from Cymatic K-Space Mechanics
 
 **Registry:** [@CKS-MATH-7-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-7-2026]  

@@ -2,10 +2,17 @@
 ## Axiomatic Foundation for Expert Physicists
 
 
-**CKS Series Registry:** [@CKS-MATH-0-2026]  
-**Domain:** Foundational Mathematics / Discrete Geometry  
-**Status:** Peer-Reviewed Final  
+**Registry:** [@CKS-MATH-0-2026]  
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026]
+
 **Parent Framework:** [@CKS-0-2026]  
+
+**Domain:** Foundational Mathematics / Discrete Geometry  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+
+**Motto:** Axioms first. Axioms always.
 
 ---
 

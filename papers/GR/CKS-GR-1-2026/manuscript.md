@@ -1,4 +1,4 @@
-# [@CKS-GR-1-2026] General Relativity as Mathematical Consequence of CKS
+# General Relativity as Mathematical Consequence of CKS
 
 **A Theorem-Based Derivation of Einstein Equations, Schwarzschild Solution, and Cosmology from Hexagonal Lattice Geometry**
 

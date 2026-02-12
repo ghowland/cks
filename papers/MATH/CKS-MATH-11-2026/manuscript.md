@@ -1,4 +1,4 @@
-# [@CKS-MATH-11-2026] The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge
+# The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge
 
 **Registry:** [@CKS-MATH-11-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-11-2026]  

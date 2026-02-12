@@ -1,4 +1,4 @@
-# [@CKS-MATH-3-2026] Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
 
 **Registry:** [@CKS-MATH-3-2026]  
 **Series Path:** [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026] → [@CKS-MATH-3-2026]  
