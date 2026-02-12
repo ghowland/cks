@@ -7,15 +7,14 @@
   </info>
   <citation>
     <layout prefix="[" suffix="]">
-      <!-- This is the key: we tell it to print exactly what is in the title field -->
-      <!-- We use 'text-case="none"' to stop the Howl26 behavior -->
+      <!-- Title now contains the CKS ID -->
       <text variable="title" text-case="none"/>
     </layout>
   </citation>
   <bibliography>
     <layout>
-      <text variable="title" font-weight="bold" />
-      <text variable="note"/>
+      <text variable="title" font-weight="bold" prefix="[" suffix="] " text-case="none"/>
+      <text variable="note" text-case="none"/>
     </layout>
   </bibliography>
 </style>
