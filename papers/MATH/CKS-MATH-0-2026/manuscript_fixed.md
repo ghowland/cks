@@ -28,8 +28,8 @@ Graph: G = (V, E)
 - Coordination: z = 3 (every node has exactly 3 neighbors)
 
 Construction (Three-Sector Rhombic Manifold):
-- Take three M×M rhombic arrays from hexagonal lattice Λ
-- Rotate by 2πs/3 for s ∈ {0,1,2}
+- Take three M×M rhombic arrays from hexagonal lattice $\Lambda$
+- Rotate by 2$\pi$s/3 for s ∈ {0,1,2}
 - Identify radial edges pairwise
 - Result: Closed, boundary-free discrete 2-sphere
 - Symmetry: Cyclic group C₃
@@ -37,7 +37,7 @@ Construction (Three-Sector Rhombic Manifold):
 
 **Axiom 2 (Phase Dynamics)**
 ```
-State space: θ = (θ₁,...,θ_N) ∈ 𝕋^N
+State space: θ = (θ₁,...,θ_N) ∈ $\mathbb{T}$^N
 Evolution: Kuramoto coupling on graph G
 
 dθ_k/dt = ω_k + Σ_{j∈N(k)} β_{kj} sin(θ_j - θ_k)
@@ -67,7 +67,7 @@ Flow is divergence-free: ∇·(dθ/dt) = 0
 Proof: For symmetric β_{kj}, each edge contributes:
 ∂F_k/∂θ_k + ∂F_j/∂θ_j = -β cos(θ_j-θ_k) + β cos(θ_j-θ_k) = 0
 
-∴ Uniform measure dμ = dθ₁∧...∧dθ_N invariant (Liouville).
+∴ Uniform measure d$\mu$ = dθ₁∧...∧dθ_N invariant (Liouville).
 ```
 
 **Theorem 3 (Gradient Flow Structure)**
@@ -93,7 +93,7 @@ d(δθ)/dt = L(δθ)
 where L = graph Laplacian with spectrum:
 0 = λ₀ > λ₁ ≥ ... ≥ λ_{N-1}
 
-All non-zero modes decay: e^{λᵢt} → 0
+All non-zero modes decay: e^{λ$_i$t} → 0
 
 ∴ Synchronized state asymptotically stable for all β > 0.
 ```
@@ -117,7 +117,7 @@ Cannot simultaneously satisfy:
 θ_m - θ_j = α  
 θ_k - θ_m = α
 
-Because: Σ(phase differences) = 3α ≠ 0 (mod 2π)
+Because: Σ(phase differences) = 3α ≠ 0 (mod 2$\pi$)
 
 ∴ No global energy minimum exists.
 ∴ Rich phase structure beyond simple synchronization.
@@ -146,7 +146,7 @@ Z(t) = (1/N) Σ_k e^{iθ_k(t)} = r(t) e^{iψ(t)}
 
 where:
 - r ∈ [0,1]: coherence magnitude
-- ψ ∈ [0,2π]: mean phase
+- ψ ∈ [0,2$\pi$]: mean phase
 
 Bounds:
 - r = 0 ⟺ uniform distribution
@@ -186,8 +186,8 @@ Basin: Almost all initial conditions (generic)
 **S2: Three-Sector State**
 ```
 Sector 0: θ_k = ωt
-Sector 1: θ_k = ωt + 2π/3
-Sector 2: θ_k = ωt + 4π/3
+Sector 1: θ_k = ωt + 2$\pi$/3
+Sector 2: θ_k = ωt + 4$\pi$/3
 
 Respects C₃ symmetry.
 Equilibrium for balanced neighbor counts.
@@ -210,7 +210,7 @@ Analytical proof: Open problem
 
 ## Critical K-Space Constraint
 
-**⚠️ DO NOT FOURIER TRANSFORM TO REAL SPACE**
+**\textbf{!}️ DO NOT FOURIER TRANSFORM TO REAL SPACE**
 
 **Five Fundamental Traps:**
 
@@ -276,15 +276,15 @@ Forcing torus breaks:
 
 **Prescription for Practitioners:**
 ```
-✓ Treat G as abstract graph
-✓ Distance = graph geodesic (edge count)
-✓ Compute entirely in k-space
-✓ Visualize final state only
+$\checkmark$ Treat G as abstract graph
+$\checkmark$ Distance = graph geodesic (edge count)
+$\checkmark$ Compute entirely in k-space
+$\checkmark$ Visualize final state only
 
-✗ Do NOT map to ℝ² grid
-✗ Do NOT use standard FFT
-✗ Do NOT impose periodic BC
-✗ Do NOT interpolate between k-nodes
+$\times$ Do NOT map to ℝ² grid
+$\times$ Do NOT use standard FFT
+$\times$ Do NOT impose periodic BC
+$\times$ Do NOT interpolate between k-nodes
 ```
 
 ---
@@ -355,7 +355,7 @@ for t in timesteps:
             dtheta[k] += beta * sin(theta[j] - theta[k])
     
     theta += dt * dtheta
-    theta = theta % (2*pi)  # wrap to [0, 2π)
+    theta = theta % (2*pi)  # wrap to [0, 2$\pi$)
     
     # Measure coherence
     Z = mean(exp(1j * theta))
