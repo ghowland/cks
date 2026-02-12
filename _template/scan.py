@@ -30,6 +30,10 @@ class CKSRegistryScanner:
         path_match = re.search(r"Series Path:\*\*?\s+(.*)", content)
         series_path = path_match.group(1) if path_match else ""
 
+        # Extract DOI
+        path_match = re.search(r"DOI:\*\*?\s+(.*)", content)
+        doi = path_match.group(1) if path_match else ""
+
         # --- ABSTRACT EXTRACTION ---
         # Matches content starting after ## ABSTRACT until Keywords, a horizontal rule, or next H2
         abstract_pattern = re.compile(
@@ -51,6 +55,7 @@ class CKSRegistryScanner:
             "title": title,
             "registry_id": self_id,
             "series_path": series_path,
+            "doi": doi,
             "abstract": abstract,
             "dependencies": sorted(list(all_refs)),
             "raw_content_preview": content[:200].replace("\n", " ") + "..."
