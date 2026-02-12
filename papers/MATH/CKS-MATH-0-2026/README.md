@@ -140,7 +140,7 @@ If you use this work in a pedagogical or research context, please cite:
   journal={Zenodo},
   year={2026},
   doi = {[DOI]},
-  url = {https://zenodo.org/record/[Zenedo DOI]},
+  url = {https://zenodo.org/record/[DOI:UNKNOWN]},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

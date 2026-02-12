@@ -94,7 +94,16 @@ def generate_readme(paper, template):
         raise e
 
     doi = paper.get('doi', '[DOI]')
-    zenodo_doi = paper.get('zenodo_doi', '[Zenedo DOI]')
+    if doi != '[DOI]':
+      try:
+        zenodo_doi = doi.split('.')[2]
+      except Exception as e:
+        print(f'DOI Malformed: {paper["registry_id"]}')
+        zenodo_doi = '[DOI:MALFORMED]'
+    else:
+        zenodo_doi = '[DOI:UNKNOWN]'
+          
+    
 
     # Basic replacements
     readme = template

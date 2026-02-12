@@ -8,6 +8,8 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
+**DOI:** 10.5281/zenodo.18619718
+
 **Domain:** Foundational Mathematics / Discrete Geometry  
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
