@@ -470,6 +470,10 @@ This guide is intended for physicists familiar with condensed matter, dynamical 
 
 ---
 
+![Lattice spacing variations $\delta a$ induced by phase energy density $\rho$.](figures/Spider_Diagnostic.png){width=80%}
+
+---
+
 #### **1. The Topology: Why $N=3M^2$?**
 In standard lattice physics, we usually work with an infinite plane or a periodic box (torus). This framework rejects both. 
 

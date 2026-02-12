@@ -15,7 +15,7 @@ pandoc manuscript_fixed.md -o manuscript.pdf \
   -V mainfont="FreeSerif" \
   -V monofont="FreeMono" \
   --metadata nocite='@*' \
-  --csl=pass-through.csl \
+  --csl=../../../pass-through.csl \
   -V colorlinks=true \
   -V linkcolor=blue
 
