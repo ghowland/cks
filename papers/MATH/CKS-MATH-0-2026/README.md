@@ -150,7 +150,24 @@ If you use this work in a pedagogical or research context, please cite:
 
 ### Q: Is this a "theory of everything"?
 
-**A:** No. CKS is a cogntitive learning model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
+**A:** No. CKS is a cognitive learning model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
+
+### Q: What is AI written and what is human written?  (This Q&A was human written, others are not)
+
+**A**: The only human writing is the meta-data and copywrite.  Full paper text was written by Anthropic's Claude Sonnet 4.5 using output from Deepseek's KimiK2 and Google's Gemini3 Flash.  Meta-data content may have come from any of them.  
+
+Over the project my pattern of usage developed so that I used Claude mostly as the integrator and writer, and this is often where very good ideas came out, as the context buffer is very large.  I would use Gemini3 as the idea starter, because it gave both the derivation information and a technical explanation in the first response once primed.
+
+End of author writing.
+
+### Methodology: How to Prime for CKS Derivations
+
+To reproduce or expand upon these findings using LLMs, use the following two-step priming sequence:
+
+#### 1. "Read and explain." with [@CKS-0-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
+#### 2. "Derive it."
+ 
+Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.
 
 
 
