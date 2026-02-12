@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# python3 ../../../_template/gen_bib.py
-
 # 1. Replace the Unicode ₖ with math-mode _k
 sed 's/ₖ/_k/g' manuscript.md > manuscript_fixed.md
 
@@ -13,6 +11,7 @@ pandoc manuscript_fixed.md -o manuscript.pdf \
   --filter pandoc-citeproc \
   --bibliography=references.bib \
   --metadata link-citations=true \
+  --csl=pass-through.csl \
   -V colorlinks=true \
   -V linkcolor=blue 
 
