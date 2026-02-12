@@ -110,9 +110,11 @@ Once primed, the models can explain physical phenomena through the CKS lens. Cru
 
 ---
 
-## References:
+## References
 
-<<REFS>>
+::: {#refs}
+:::
+
 
 ---
 *© 2026 Geoffrey Howland. Part of the Cognitive Learning Model for Unified Physics.*
