@@ -1,7 +1,7 @@
 # Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
 
 **Registry ID:** CKS-COS-3-2026  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-ASTRO-4-2026] → [CKS-ASTRO-5-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-ASTRO-4-2026] → [@CKS-ASTRO-5-2026]    
 **Zenodo DOI:** [Pending - CKS-COS-3-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -81,7 +81,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Cosmology, this paper is mechanically invalidated.
 

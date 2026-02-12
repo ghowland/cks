@@ -1,7 +1,7 @@
 # Cancer Therapy via Topological Closure Disruption: Clinical Electromagnetic Protocols
 
 **Registry ID:** CKS-MED-3-2026  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-1-2026] → [CKS-MATH-3-2026] → [CKS-MED-4-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-1-2026] → [@CKS-MATH-3-2026] → [@CKS-MED-4-2026]    
 **Zenodo DOI:** [Pending - CKS-MED-3-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-We present a **non-surgical cancer treatment protocol** based on disruption of tumor topological closure via targeted electromagnetic fields. Building on [CKS-MATH-3-2026], which proved tumors are "rogue closures" satisfying N = 3M² at their characteristic scale, we derive **exact frequencies** that force tumor node count N away from the closure condition, causing spontaneous boundary dissolution. The method uses **ultra-low frequency (ULF) electromagnetic fields** (0.01-100 Hz) modulated at tumor-specific anti-harmonic frequencies to: (1) measure M_tumor via resonance imaging, (2) calculate f_anti = f_substrate × (M + 0.5), and (3) apply sustained field exposure to break phase-locking. We provide complete clinical protocols including: dosimetry (field strength 1-10 mT), treatment duration (4-12 weeks), safety monitoring, and patient selection criteria. Mechanism is **substrate-native** (operates in k-space, not chemical warfare), **tissue-selective** (only affects structures at target M-value), and **minimally invasive** (external applicator, no incisions). Predicted outcomes: tumor necrosis without surgery, reduced metastasis risk, preservation of surrounding tissue architecture. **This is not radiation therapy**—it is **geometric warfare** against pathological closure.
+We present a **non-surgical cancer treatment protocol** based on disruption of tumor topological closure via targeted electromagnetic fields. Building on [@CKS-MATH-3-2026], which proved tumors are "rogue closures" satisfying N = 3M² at their characteristic scale, we derive **exact frequencies** that force tumor node count N away from the closure condition, causing spontaneous boundary dissolution. The method uses **ultra-low frequency (ULF) electromagnetic fields** (0.01-100 Hz) modulated at tumor-specific anti-harmonic frequencies to: (1) measure M_tumor via resonance imaging, (2) calculate f_anti = f_substrate × (M + 0.5), and (3) apply sustained field exposure to break phase-locking. We provide complete clinical protocols including: dosimetry (field strength 1-10 mT), treatment duration (4-12 weeks), safety monitoring, and patient selection criteria. Mechanism is **substrate-native** (operates in k-space, not chemical warfare), **tissue-selective** (only affects structures at target M-value), and **minimally invasive** (external applicator, no incisions). Predicted outcomes: tumor necrosis without surgery, reduced metastasis risk, preservation of surrounding tissue architecture. **This is not radiation therapy**—it is **geometric warfare** against pathological closure.
 
 **Key Results:**
 - Tumor M-index measurable via AC susceptometry (magnetic resonance at substrate harmonics)
@@ -81,7 +81,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Medical Applications, this paper is mechanically invalidated.
 

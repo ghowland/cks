@@ -583,18 +583,18 @@ If you use this work, please cite:
   version={3.0},
   doi={10.5281/zenodo.18520430},
   url={https://zenodo.org/record/18520430}
-  note={Cymatic K-Space Mechanics Series: [CKS-MATH-1-2026]  Depends on: [CKS-0-2026].}
+  note={Cymatic K-Space Mechanics Series: [@CKS-MATH-1-2026]  Depends on: [@CKS-0-2026].}
 }
 ```
 
 ---
 
 ### Logical Stack Position
-[CKS-QM-1-2026]  (Core: Quantum Mechanics) <--- You are here
+[@CKS-QM-1-2026]  (Core: Quantum Mechanics) <--- You are here
        ↑
-[CKS-MATH-1-2026] (Base: Math Foundation)
+[@CKS-MATH-1-2026] (Base: Math Foundation)
        ↑
-[CKS-0-2026] (Base: CSK)
+[@CKS-0-2026] (Base: CSK)
 
 ---
 

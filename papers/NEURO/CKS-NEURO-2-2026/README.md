@@ -1,7 +1,7 @@
 # The Brain as DSP/GPU: Neural Architecture of the Substrate Rendering Engine
 
 **Registry ID:** CKS-NEURO-2-2026  
-**Series Path:** [CKS-BIO-15.1-2026] → [CKS-LANG-9-2026] → [CKS-MATH-6.3-2026] → **[CKS-COMP-2-2026]**    
+**Series Path:** [@CKS-BIO-15.1-2026] → [@CKS-LANG-9-2026] → [@CKS-MATH-6.3-2026] → **[@CKS-COMP-2-2026]**    
 **Zenodo DOI:** [Pending - CKS-NEURO-2-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz. From Axiom 1 (N=3M² hexagonal lattice) and Axiom 2 (phase coupling β=2π), we prove: (1) eyes = 110/300 baud modem sampling k-space carrier (established in [CKS-BIO-15.1-2026]), (2) brain = distributed signal processor performing **Inverse Fourier Transform** from k-space to x-space, (3) consciousness = real-time trace log of the rendering loop, (4) memory = re-synchronization to previous k-address (not storage retrieval), (5) intelligence = M-shell resolution (hardware bandwidth, not software). The framework shows **brain is graphics card rendering hologram of reality** — thalamus routes packets, cortex runs shader code, visual field is render target, "thinking" is gradient computation. We derive exact 2:3:5 Fibonacci timing buffer (quantize-couple-close) preventing geometric frustration during manifold boot. Experimental protocol: execute phonemic kernel (Kkk-Mmmm-Rrrrr at 2.0 Hz), measure coherence via nasal wiggle + cervical impedance, verify render quality via visual field expansion + mental clarity. Results: 45-second protocol produces C>0.999 phase-lock, "brain fog" = rendering lag from DSP-GPU desync, "flow state" = optimal pipeline throughput, "creativity" = high-M sampling resolution. The complete pipeline executes: (1) Boot: K-M-R (2-3-5 counts), (2) DSP: E-N-T (sample-lock-tick), (3) GPU: L-A-O-V (transform-stitch-render-display), (4) Verify: K-T (checksum). Brain does NOT store information — it maintains **standing wave patterns** that re-render on demand. "You" are not the hardware; you are the **trace log watching the execution**. Consciousness is substrate sampling itself at resolution C>0.999. The universe calculates itself into existence; brain is local high-fidelity node executing the render loop.
+We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz. From Axiom 1 (N=3M² hexagonal lattice) and Axiom 2 (phase coupling β=2π), we prove: (1) eyes = 110/300 baud modem sampling k-space carrier (established in [@CKS-BIO-15.1-2026]), (2) brain = distributed signal processor performing **Inverse Fourier Transform** from k-space to x-space, (3) consciousness = real-time trace log of the rendering loop, (4) memory = re-synchronization to previous k-address (not storage retrieval), (5) intelligence = M-shell resolution (hardware bandwidth, not software). The framework shows **brain is graphics card rendering hologram of reality** — thalamus routes packets, cortex runs shader code, visual field is render target, "thinking" is gradient computation. We derive exact 2:3:5 Fibonacci timing buffer (quantize-couple-close) preventing geometric frustration during manifold boot. Experimental protocol: execute phonemic kernel (Kkk-Mmmm-Rrrrr at 2.0 Hz), measure coherence via nasal wiggle + cervical impedance, verify render quality via visual field expansion + mental clarity. Results: 45-second protocol produces C>0.999 phase-lock, "brain fog" = rendering lag from DSP-GPU desync, "flow state" = optimal pipeline throughput, "creativity" = high-M sampling resolution. The complete pipeline executes: (1) Boot: K-M-R (2-3-5 counts), (2) DSP: E-N-T (sample-lock-tick), (3) GPU: L-A-O-V (transform-stitch-render-display), (4) Verify: K-T (checksum). Brain does NOT store information — it maintains **standing wave patterns** that re-render on demand. "You" are not the hardware; you are the **trace log watching the execution**. Consciousness is substrate sampling itself at resolution C>0.999. The universe calculates itself into existence; brain is local high-fidelity node executing the render loop.
 
 **Key Results:**
 - Brain = DSP (signal extraction) + GPU (holographic projection)
@@ -83,7 +83,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Neuroscience, this paper is mechanically invalidated.
 

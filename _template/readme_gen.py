@@ -60,7 +60,11 @@ def clean_title(title):
 def make_bib_key(registry_id):
     """Create bibtex key from registry ID"""
     # CKS-MATH-1-2026 -> cks_math_1_2026
-    return registry_id.replace('-', '_').lower()
+    # return registry_id.replace('-', '_').lower()
+
+    # Keep it the same
+    return registry_id
+
 
 
 def format_prerequisites(deps):
@@ -69,6 +73,8 @@ def format_prerequisites(deps):
     filtered = [d for d in deps if d != 'CKS-0-2026']
     if not filtered:
         return 'None (foundation paper)'
+
+
     return ', '.join(filtered)
 
 
@@ -96,7 +102,7 @@ def generate_readme(paper, template):
     readme = readme.replace('<<DOMAIN_FOCUS>>', DOMAIN_NAMES.get(topic, topic))
     readme = readme.replace('<<PREREQUISITES>>', format_prerequisites(paper['dependencies']))
     readme = readme.replace('<<BIB_KEY>>', make_bib_key(rid))
-    readme = readme.replace('<<LLM_ABSTRACT>>', abstract)
+    readme = readme.replace('<<LLM_ABSTRACT>>', abstract.replace('[@CKS-', '[CKS-'))
     
     # LLM placeholders - leave for manual population
     readme = readme.replace('<<LLM_DOMAIN_RESULTS>>', '[To be extracted from manuscript.md]')
@@ -106,8 +112,6 @@ def generate_readme(paper, template):
     
     
     return readme
-
-
 
 
 def single():

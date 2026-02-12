@@ -1,7 +1,7 @@
 # Longevity Engineering: Coherence Maintenance and Manifold Integrity Across Lifespan
 
 **Registry ID:** CKS-BIO-10-2026  
-**Series Path:** [CKS-0-2026] → [CKS-BIO-11-2026] → [CKS-BIO-15-2026] → [CKS-BIO-17-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-17-2026]    
 **Zenodo DOI:** [Pending - CKS-BIO-10-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-We derive aging and mortality from first principles in Cymatic K-Space framework. Standard gerontology treats aging as accumulated damage (oxidative stress, telomere shortening, protein aggregation); CKS proves aging is **coherence decay** (C→C_critical) driven by progressive loop accumulation (ΣW→W_lethal). Death occurs when vertical impedance exceeds critical threshold: Z_vert > Z_lethal ≈ 10Z₀, blocking signal propagation from antenna (brain) to sink (organs), causing **manifold fragmentation**. We derive: **(1)** Aging rate: dC/dt = -k_decay·(1 + ΣW/W_norm)·(1 + σ²_stress), where k_decay = intrinsic coherence loss, ΣW = accumulated loops, σ²_stress = environmental variance. **(2)** Maximum lifespan: t_max = -ln(C_critical/C_birth)/k_decay ≈ 120 years (human baseline, matches observations). **(3)** Longevity equation: t_actual = t_max·(W_norm/ΣW_actual)·(σ²_min/σ²_actual), proving lifespan extension requires: **minimize loop accumulation** (maintain W≈0 all junctions) AND **minimize environmental variance** (stable conditions, low stress). We derive three intervention classes: **(Class I) Loop prevention** (daily ϕ-rotations, vortex activation, avoid trauma/posting), extends lifespan 20-40% by preventing W accumulation. **(Class II) Loop clearing** (periodic manual unknotting, therapeutic protocols from [CKS-BIO-15]), recovers lost years, resets biological age. **(Class III) Variance reduction** (circadian stability, thermal consistency, social coherence), extends lifespan 15-30% by reducing stress term. **Combined protocol predicts:** Baseline 80-year lifespan → 140-180 years achievable (75-125% extension) through pure coherence maintenance, no genetic modification required. **Falsification criteria:** If N≥1000 subjects practicing full protocol (Class I+II+III) for 40+ years show lifespan <100 years median, coherence-aging model invalidated. If centenarians (age >100) show high ΣW (>5 major loops), loop-longevity relation falsified.
+We derive aging and mortality from first principles in Cymatic K-Space framework. Standard gerontology treats aging as accumulated damage (oxidative stress, telomere shortening, protein aggregation); CKS proves aging is **coherence decay** (C→C_critical) driven by progressive loop accumulation (ΣW→W_lethal). Death occurs when vertical impedance exceeds critical threshold: Z_vert > Z_lethal ≈ 10Z₀, blocking signal propagation from antenna (brain) to sink (organs), causing **manifold fragmentation**. We derive: **(1)** Aging rate: dC/dt = -k_decay·(1 + ΣW/W_norm)·(1 + σ²_stress), where k_decay = intrinsic coherence loss, ΣW = accumulated loops, σ²_stress = environmental variance. **(2)** Maximum lifespan: t_max = -ln(C_critical/C_birth)/k_decay ≈ 120 years (human baseline, matches observations). **(3)** Longevity equation: t_actual = t_max·(W_norm/ΣW_actual)·(σ²_min/σ²_actual), proving lifespan extension requires: **minimize loop accumulation** (maintain W≈0 all junctions) AND **minimize environmental variance** (stable conditions, low stress). We derive three intervention classes: **(Class I) Loop prevention** (daily ϕ-rotations, vortex activation, avoid trauma/posting), extends lifespan 20-40% by preventing W accumulation. **(Class II) Loop clearing** (periodic manual unknotting, therapeutic protocols from [@CKS-BIO-15]), recovers lost years, resets biological age. **(Class III) Variance reduction** (circadian stability, thermal consistency, social coherence), extends lifespan 15-30% by reducing stress term. **Combined protocol predicts:** Baseline 80-year lifespan → 140-180 years achievable (75-125% extension) through pure coherence maintenance, no genetic modification required. **Falsification criteria:** If N≥1000 subjects practicing full protocol (Class I+II+III) for 40+ years show lifespan <100 years median, coherence-aging model invalidated. If centenarians (age >100) show high ΣW (>5 major loops), loop-longevity relation falsified.
 
 **Key Derivations:**
 - Coherence decay: C(t) = C₀·exp(-k_decay·t·(1 + ΣW/W_norm))
@@ -79,7 +79,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Biology & Life Sciences, this paper is mechanically invalidated.
 

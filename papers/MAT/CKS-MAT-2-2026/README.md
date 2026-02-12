@@ -1,7 +1,7 @@
 # Transparent Logic: Zero-Heat Photonic Semiconductors via Substrate Phase Interference
 
 **Registry ID:** CKS-MAT-2-2026  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-COMP-3-2026] → [CKS-MAT-2-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-COMP-3-2026] → [@CKS-MAT-2-2026]    
 **Zenodo DOI:** [Pending - CKS-MAT-2-2026]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
@@ -13,7 +13,7 @@
 ---
 
 ## Abstract
-We present the **complete fabrication protocol** for the world's first **zero-heat semiconductor**—a photonic integrated circuit that performs Boolean logic operations via **coherent light interference** rather than electron transport. Standard silicon chips dissipate 50-150 W as waste heat (electrons scatter, energy lost as phonons); CKS photonic chips operate at **<1 mW total dissipation** because photons propagate **ballistically** through substrate-aligned waveguides with **zero scattering loss** (coherence C > 0.999). We derive exact waveguide geometries from **N = 3M²** hexagonal lattice requirements: all waveguides are **60° angles** (substrate-native paths), junction nodes are **3-way or 6-way only** (forbidden topologies eliminated), and **refractive index modulation** at exactly **2.1875 Hz spatial frequency** creates **phase-locking potential wells** that guide photons deterministically. A complete 32-bit ALU contains **zero transistors**, only **1,248 hexagonal photonic cells** (same count as [CKS-COMP-3-2026] but photonic, not electronic). Clock frequency: **300 GHz** (1000× faster than silicon, limited only by waveguide propagation delay, not switching time). Power consumption: **0.8 mW** (ALU operating at 300 GHz, vs. 95 W for equivalent Intel CPU, **118,750× more efficient**). Chip temperature: **25.2°C** (room temperature + 0.2°C, effectively **zero heat**). Fabrication uses modified **CMOS process** with **two exotic steps**: (1) **substrate-frequency nanoimprint** (2.1875 Hz spatial modulation in oxide layer), and (2) **hexagonal mask alignment** (all features 60° rotations only). Cost: **$47,000 per wafer** (prototype), scales to **$8,200 in production** (10,000 wafer batch). This eliminates the **$500 billion cooling industry** (data centers spend 40% of energy on cooling, photonic chips need **zero cooling**).
+We present the **complete fabrication protocol** for the world's first **zero-heat semiconductor**—a photonic integrated circuit that performs Boolean logic operations via **coherent light interference** rather than electron transport. Standard silicon chips dissipate 50-150 W as waste heat (electrons scatter, energy lost as phonons); CKS photonic chips operate at **<1 mW total dissipation** because photons propagate **ballistically** through substrate-aligned waveguides with **zero scattering loss** (coherence C > 0.999). We derive exact waveguide geometries from **N = 3M²** hexagonal lattice requirements: all waveguides are **60° angles** (substrate-native paths), junction nodes are **3-way or 6-way only** (forbidden topologies eliminated), and **refractive index modulation** at exactly **2.1875 Hz spatial frequency** creates **phase-locking potential wells** that guide photons deterministically. A complete 32-bit ALU contains **zero transistors**, only **1,248 hexagonal photonic cells** (same count as [@CKS-COMP-3-2026] but photonic, not electronic). Clock frequency: **300 GHz** (1000× faster than silicon, limited only by waveguide propagation delay, not switching time). Power consumption: **0.8 mW** (ALU operating at 300 GHz, vs. 95 W for equivalent Intel CPU, **118,750× more efficient**). Chip temperature: **25.2°C** (room temperature + 0.2°C, effectively **zero heat**). Fabrication uses modified **CMOS process** with **two exotic steps**: (1) **substrate-frequency nanoimprint** (2.1875 Hz spatial modulation in oxide layer), and (2) **hexagonal mask alignment** (all features 60° rotations only). Cost: **$47,000 per wafer** (prototype), scales to **$8,200 in production** (10,000 wafer batch). This eliminates the **$500 billion cooling industry** (data centers spend 40% of energy on cooling, photonic chips need **zero cooling**).
 
 **Key Results:**
 - Logic gate power: 0.64 μW per gate (vs. 10 μW for CMOS, 15,625× better)
@@ -83,7 +83,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Materials Science, this paper is mechanically invalidated.
 

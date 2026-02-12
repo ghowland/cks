@@ -17,7 +17,7 @@ bibliography: references.bib
 ---
 
 ## Abstract
-We prove that general relativity is a mathematical necessity given the Complete Mathematical Framework (CMF) [@CKS-MATH-0-2026], quantum mechanics (QM-MC) [@CKS-QM-1-2026], and Standard Model (SM-MC) [@CKS-SM-1-2026] as previously established. Using rigorous theorem-proof methodology, we derive Einstein's field equations from lattice spacing variations induced by phase energy density. The metric tensor emerges as the local lattice deformation field, curvature from phase gradients, and gravitational dynamics from substrate compliance. We derive the Schwarzschild solution, cosmological Robertson-Walker metric, and Friedmann equations as theorems—not physical models. Gravitational constant G = 1/N, cosmological constant Λ = 2π/N, and all cosmological parameters follow from hexagonal geometry. No physical interpretation assumed; general relativity emerges as pure mathematics: **If CMF+QM+SM axioms hold, then Einstein equations follow necessarily.**
+We prove that general relativity is a mathematical necessity given the Complete Mathematical Framework (CMF) [CKS-MATH-0-2026], quantum mechanics (QM-MC), and Standard Model (SM-MC) as previously established. Using rigorous theorem-proof methodology, we derive Einstein's field equations from lattice spacing variations induced by phase energy density. The metric tensor emerges as the local lattice deformation field, curvature from phase gradients, and gravitational dynamics from substrate compliance. We derive the Schwarzschild solution, cosmological Robertson-Walker metric, and Friedmann equations as theorems—not physical models. Gravitational constant G = 1/N, cosmological constant Λ = 2π/N, and all cosmological parameters follow from hexagonal geometry. No physical interpretation assumed; general relativity emerges as pure mathematics: **If CMF+QM+SM axioms hold, then Einstein equations follow necessarily.**
 ---
 
 ## Substrate Mechanics (Series Context)
@@ -115,7 +115,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to General Relativity, this paper is mechanically invalidated.
 
@@ -134,7 +134,7 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ [cks_gr_1_2026],
+@article{ [CKS-GR-1-2026],
   title={ General Relativity as Mathematical Consequence of CKS },
   author={Howland, Geoffrey},
   journal={Zenodo},

@@ -1,8 +1,8 @@
 # The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
 
-**Registry ID:** [CKS-MATH-13-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-9-2026] → [CKS-MATH-13-2026]    
-**Zenodo DOI:** [Pending - [CKS-MATH-13-2026]]
+**Registry ID:** [@CKS-MATH-13-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-13-2026]    
+**Zenodo DOI:** [Pending - [@CKS-MATH-13-2026]]
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
 
@@ -27,7 +27,7 @@ This publication extends the CKS framework into the **Mathematical Foundation** 
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-11-2026], [CKS-MATH-9-2026]
+**Prerequisites:** [@CKS-0-2026], [@CKS-MATH-1-2026], [@CKS-MATH-11-2026], [@CKS-MATH-9-2026]
 
 ---
 
@@ -114,7 +114,7 @@ zenodo_package/
 ---
 
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
-As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**. 
+As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Mathematical Foundation, this paper is mechanically invalidated.
 
@@ -133,12 +133,12 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ [cks_math_13_2026],
+@article{ [@CKS_math_13_2026],
   title={ The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  note={CKS Series: [CKS-MATH-13-2026]. Dependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-11-2026], [CKS-MATH-9-2026] }
+  note={CKS Series: [@CKS-MATH-13-2026]. Dependencies: [@CKS-0-2026], [@CKS-MATH-1-2026], [@CKS-MATH-11-2026], [@CKS-MATH-9-2026] }
 }
 ```
 ---
