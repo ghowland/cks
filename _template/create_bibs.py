@@ -58,7 +58,11 @@ def generate_bib_entry(manuscript_data, folder_id):
 
     github_url = f"https://github.com/ghowland/cks/tree/main/papers/{topic_folder}/{full_id}"
     
-    zenodo_record = 'zzz'
+    doi = manuscript_data['doi']
+    try:
+      zenodo_record = doi.split('.')[2]
+    except Exception as e:
+      zenodo_record = '[DOI-MALFORMED]'
 
     # CRITICAL CHANGE:
     # 1. 'title' now contains ONLY the CKS-ID.
