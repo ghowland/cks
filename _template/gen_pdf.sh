@@ -48,7 +48,7 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   --pdf-engine=xelatex \
   --from markdown+tex_math_dollars \
   --citeproc \
-  --bibliography=references.bib \
+  --bibliography=../../../references.bib \
   --metadata link-citations=true \
   --metadata title="CKS-GR-1-2026" \
   -V mainfont="FreeSerif" \
