@@ -1458,20 +1458,35 @@ dφₖ/dt = Σ[φⱼ - φₖ] (dynamics)
 
 ---
 
-## 15. References (Complete Series)
 
-**CKS Foundation Papers:**
-1. [@CKS-0-2026] Axiomatic Foundation
-2. [@CKS-MATH-1-2026] Integer Necessity Proof
-3. [@CKS-MATH-2-2026] Impossibility of Continuous Space
-4. [@CKS-MATH-3-2026] Fractal Scaling Properties
-5. [@CKS-MATH-4-2026] Fine Structure Constant (10-Decimal Lock)
-6. [@CKS-MATH-5-2026] Origin of e (Expansion Limit)
-7. [@CKS-MATH-6-2026] Origin of π (Rotation Limit)
-8. [@CKS-MATH-7-2026] Standard Model Constants
-9. [@CKS-MATH-8-2026] Origin of 163 (Curvature Quantum)
-10. [@CKS-MATH-9-2026] Origin of 144 (Information Matrix)
-11. [@CKS-MATH-10-2026] Grand Unification (this paper)
+## Figures
+
+![Spider graph of how accurate CKS derives Standard Model + General Relativity measured values](figures/Spider_Diagnostic.png){width=80%}
+
+![Mass derivations from CKS, compared to measured values](figures/Mass_Derivation.png)
+
+![CKS derivations matched to measured values: ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent](figures/Free_Parameter_Mapping.png)
+
+![K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1](figures/Coordinate_Mapping.png)
+
+![Particle Force Atlas: CKS compared with SI experimental data](figures/Particle_Force_Atlas.png)
+
+![The Foundation: N and H0](figures/CKS_1.png)
+
+![Alpha 10 decimal lock](figures/CKS_2.png)
+
+![The force hierarchy: 8:1:2](figures/CKS_3.png)
+
+![Somatic Topology: Thickness T](figures/CKS_4.png)
+
+![The 1/32 HZ vacuum grid](figures/CKS_5.png)
+
+![The 144:163 Spring: Substrate Elastic Limit & Torsion Snap](figures/CKS_6.png)
+
+## References
+
+::: {#refs}
+:::
 
 **External References:**
 - CODATA (2018). Fundamental Physical Constants

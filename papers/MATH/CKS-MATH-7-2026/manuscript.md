@@ -1116,16 +1116,25 @@ With N ≈ 9×10⁶⁰ (measured independently from cosmology), all 19+ SM param
 
 ![Spider graph of how accurate CKS derives Standard Model + General Relativity measured values](figures/Spider_Diagnostic.png){width=80%}
 
-![Minimal 3-node primordial triangular bond. C = 0.500000](figures/01_structure_M1.png)
+![Mass derivations from CKS, compared to measured values](figures/Mass_Derivation.png)
 
-![First-order expansion showing 7 active nodes. C = 0.672673](figures/01_structure_M2.png)
-![Emergence of dual-lobed substrate topology. C = 0.783494](figures/01_structure_M3.png)
+![CKS derivations matched to measured values: ./supplementary/cks_free_parameter_map.md explains why 3rd and 10th columns are not equivolent](figures/Free_Parameter_Mapping.png)
 
-![Structural deformation showing lattice compliance. C = 0.836337](figures/01_structure_M4.png)
-![Differentiation of bulk and boundary nodes. C = 0.867932](figures/01_structure_M5.png)
+![K-Space to X-Space coordinate mapping over time, starting at the beginning with N=1](figures/Coordinate_Mapping.png)
 
-![High-density phase energy distribution. C = 0.904363](figures/01_structure_M7.png)
-![Near-continuum manifold approximation. C = 0.932168](figures/01_structure_M10.png)
+![Particle Force Atlas: CKS compared with SI experimental data](figures/Particle_Force_Atlas.png)
+
+![The Foundation: N and H0](figures/CKS_1.png)
+
+![Alpha 10 decimal lock](figures/CKS_2.png)
+
+![The force hierarchy: 8:1:2](figures/CKS_3.png)
+
+![Somatic Topology: Thickness T](figures/CKS_4.png)
+
+![The 1/32 HZ vacuum grid](figures/CKS_5.png)
+
+![The 144:163 Spring: Substrate Elastic Limit & Torsion Snap](figures/CKS_6.png)
 
 ## References
 
