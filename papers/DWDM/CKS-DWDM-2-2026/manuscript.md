@@ -7,8 +7,6 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**Logical Next Step:** This document marks the conclusion of the 20-paper derivation sequence. Having established the axioms and successfully mapped the emergence of Quantum Mechanics, the Standard Model, and now General Relativity, the mathematical necessity of the CKS framework is fully demonstrated. The proof-chain is complete. Q.E.D.
-
 **DOI:** 10.5281/zenodo.18628800
 
 **Date:** February 2026

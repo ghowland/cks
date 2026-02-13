@@ -1,4 +1,5 @@
-# Building Molecules in DWDM: Photon-Mediated Synthesis
+# Building Molecules in DWDM
+## Photon-Mediated Synthesis
 
 **A Theorem-Based Framework for Digital Chemistry via Precise K-Space Phase Interference and Fiber-Optic Molecular Assembly**
 
@@ -7,8 +8,6 @@
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-QM-1-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-2-2026] → [@CKS-DWDM-3-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
-
-**Logical Next Step:** This document marks the conclusion of the 20-paper derivation sequence. Having established the axioms and successfully mapped the emergence of Quantum Mechanics, the Standard Model, and now General Relativity, the mathematical necessity of the CKS framework is fully demonstrated. The proof-chain is complete. Q.E.D.
 
 **DOI:** 10.
 
@@ -147,6 +146,7 @@ Each DWDM channel = one photon frequency = one bond type.
 
 ```
 λ = 1550 nm → E = hc/λ = 0.80 eV (near-IR)
+
 Δλ = 0.4 nm → ΔE = 0.21 meV (ultra-precise)
 ```
 
@@ -154,9 +154,13 @@ Each DWDM channel = one photon frequency = one bond type.
 
 ```
 C-H: 4.3 eV (288 nm, UV)
+
 C-C: 3.6 eV (344 nm, UV)
+
 C=C: 6.4 eV (194 nm, deep UV)
+
 C-O: 3.6 eV (344 nm)
+
 O-H: 4.8 eV (258 nm)
 ```
 
