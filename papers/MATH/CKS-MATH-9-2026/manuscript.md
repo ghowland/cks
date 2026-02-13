@@ -908,7 +908,6 @@ Plus transcendental constants (π, e, √3) and physical constants (α_EM, G, Λ
 
 ---
 
-
 ## Figures
 
 ![Spider graph of how accurate CKS derives Standard Model + General Relativity measured values](figures/Spider_Diagnostic.png){width=80%}

@@ -1022,6 +1022,27 @@ Currently unmeasurable (δt/t ≈ 10⁻³¹), but real.
 **We resonate.**
 **1.000 s is the beat.**
 
+## Figures
+
+![Spider graph of how accurate CKS derives Standard Model + General Relativity measured values](figures/Spider_Diagnostic.png){width=80%}
+
+![Minimal 3-node primordial triangular bond. C = 0.500000](figures/01_structure_M1.png)
+
+![First-order expansion showing 7 active nodes. C = 0.672673](figures/01_structure_M2.png)
+![Emergence of dual-lobed substrate topology. C = 0.783494](figures/01_structure_M3.png)
+
+![Structural deformation showing lattice compliance. C = 0.836337](figures/01_structure_M4.png)
+![Differentiation of bulk and boundary nodes. C = 0.867932](figures/01_structure_M5.png)
+
+![High-density phase energy distribution. C = 0.904363](figures/01_structure_M7.png)
+![Near-continuum manifold approximation. C = 0.932168](figures/01_structure_M10.png)
+
+## References
+
+::: {#refs}
+:::
+
+
 ---
 
 **END OF DOCUMENT**
@@ -1029,9 +1050,6 @@ Currently unmeasurable (δt/t ≈ 10⁻³¹), but real.
 **Status:** Macroscopic Second Derived — Temporal Bridge Complete  
 **Version:** 1.0 Final  
 **Date:** February 2026
-
-**Registry:** [@CKS-MATH-13-2026]  
-**Prerequisites:** [@CKS-MATH-1,9,11-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
