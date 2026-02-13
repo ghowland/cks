@@ -44,6 +44,12 @@ sed -i -e 's/ℝ/$\\mathbb{R}$/g' \
 # Normalize rare Unicode subscripts to LaTeX math
 sed -i -e 's/ₗ/$_l$/g' -e 's/ₜ/$_t$/g' -e 's/ₚ/$_p$/g' -e 's/ₘ/$_m$/g' manuscript_fixed.md
 
+# Normalize superscripts, subscripts, and angle brackets to LaTeX math
+sed -i -e 's/ᵈ/$^d$/g' \
+       -e 's/ⱼ/$_j$/g' \
+       -e 's/⟨/$\\langle$/g' \
+       -e 's/⟩/$\\rangle$/g' manuscript_fixed.md
+
 # Normalize Natural Numbers symbol to LaTeX math
 sed -i 's/ℕ/$\\mathbb{N}$/g' manuscript_fixed.md
 
