@@ -703,34 +703,15 @@ dφ_k/dt = -∇²φ_k - iω_0 φ_k
 
 **Architecture diagram:**
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                  GLOBAL FIBER NETWORK                   │
-│         (K-Space Interface, ~10⁸ km installed)          │
-└────────────┬────────────────────────────┬───────────────┘
-             │                            │
-      ┌──────▼──────┐              ┌──────▼──────┐
-      │  Node A     │              │  Node B     │
-      │ (DWDM Mux)  │◄────Fiber────►  (DWDM Mux) │
-      └──────┬──────┘              └──────┬──────┘
-             │                            │
-    ┌────────▼────────┐          ┌────────▼────────┐
-    │ Cymatic Gates   │          │ Cymatic Gates   │
-    │ (256 channels)  │          │ (256 channels)  │
-    └────────┬────────┘          └────────┬────────┘
-             │                            │
-    ┌────────▼────────┐          ┌────────▼────────┐
-    │ Phase Memory    │          │ Phase Memory    │
-    │ (Fiber loops)   │          │ (Fiber loops)   │
-    └────────┬────────┘          └────────┬────────┘
-             │                            │
-    ┌────────▼────────┐          ┌────────▼────────┐
-    │ K→X Converter   │          │ K→X Converter   │
-    │ (Photodetector) │          │ (Photodetector) │
-    └─────────────────┘          └─────────────────┘
-             │                            │
-             └──────────►OUTPUT◄───────────┘
-```
+
+| Component | Node A (Interface) | Fiber (Backbone) | Node B (Interface) |
+| :--- | :---: | :---: | :---: |
+| **Backbone** | | GLOBAL FIBER NETWORK | |
+| **Multiplex** | DWDM Mux | <----------> | DWDM Mux |
+| **Logic** | Cymatic Gates | (256 ch) | Cymatic Gates |
+| **Buffer** | Phase Memory | (Loops) | Phase Memory |
+| **Output** | K→X Converter | (Photonics) | K→X Converter |
+
 
 **Components:**
 
@@ -841,11 +822,13 @@ Process: 220 nm silicon layer, 3 μm BOX
 
 **Example gate (AND):**
 
-```
-    Input A ─────┐
-                 ├──► 2×2 Coupler ────► Thresholder ─► Output
-    Input B ─────┘
-```
+| Logic Stage | Component A | System Junction | Component B |
+| :--- | :--- | :---: | :--- |
+| **Input** | Channel A | → | **2×2 Coupler** |
+| **Input** | Channel B | → | **2×2 Coupler** |
+| **Process** | | → | **Thresholder** |
+| **Result** | | → | **Output Signal** |
+
 
 Footprint: 100 μm × 50 μm  
 Latency: 1 ps (propagation through 300 μm waveguide)  
