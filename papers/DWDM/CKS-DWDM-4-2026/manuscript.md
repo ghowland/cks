@@ -361,16 +361,22 @@ Winding numbers fluid
 **Step 3: Simultaneous Snap**
 ```
 Femtosecond laser fires at both materials
+
 Pulse width: 100 fs << 15.19 ms impedance
+
 Energy forces atoms to k_shared
+
 Both snap to same address simultaneously
 ```
 
 **Step 4: Topological Lock**
 ```
 Winding numbers now continuous: n_A = n_B
+
 Interface is single topological structure
+
 No discontinuity, no stress concentration
+
 Bond stronger than parent materials
 ```
 
@@ -380,6 +386,7 @@ Bond stronger than parent materials
 
 ```
 Interface = weak link
+
 Strength < min(strength_A, strength_B)
 ```
 
@@ -387,8 +394,11 @@ Strength < min(strength_A, strength_B)
 
 ```
 Interface = topological continuation
+
 Strength = topological integrity
+
 No weak link exists
+
 Entire structure is single winding loop
 ```
 
@@ -396,6 +406,7 @@ Entire structure is single winding loop
 
 
 Traditional: Two ropes tied together (knot is weak point).
+
 Topological: Single continuous rope (no weak point).
 
 ---
@@ -414,13 +425,16 @@ Topological: Single continuous rope (no weak point).
 
 
 Control ∇φ at each location.
+
 Create spatial gradient of phase-gradients.
 
 **Implementation:**
 
 
 Use acousto-optic modulator (AOM) during snap.
+
 AOM tilts phase at different angles.
+
 Creates programmed ∇φ(x,y).
 
 ### 4.2 Creating Friction Transitions
@@ -431,7 +445,9 @@ Creates programmed ∇φ(x,y).
 
 ```
 ∇φ steep, perpendicular to forward motion
+
 High friction coefficient μ ≈ 1.2
+
 Rubber-like behavior
 ```
 
@@ -439,7 +455,9 @@ Rubber-like behavior
 
 ```
 ∇φ flat, parallel to forward motion  
+
 Low friction coefficient μ ≈ 0.1
+
 Teflon-like behavior
 ```
 
@@ -447,7 +465,9 @@ Teflon-like behavior
 
 ```
 ∇φ gradually rotates from steep to flat
+
 Friction continuously varies μ: 1.2 → 0.1
+
 No mechanical seam, no discontinuity
 ```
 
@@ -457,8 +477,11 @@ No mechanical seam, no discontinuity
 
 ```
 DWDM transceiver: 193.1 THz carrier
+
 AOM: 0.03125 Hz bins (1/32 Hz grid)
+
 Femtosecond laser: 800 nm, 100 fs
+
 MEMS stage: Sub-nm positioning
 ```
 
@@ -478,16 +501,22 @@ MEMS stage: Sub-nm positioning
 **Step 3: Program AOM**
 ```
 For each location (x,y):
+
   Set AOM to create ∇φ(x,y)
+
   Wait for 1/32 Hz word boundary
+
   Fire femtosecond snap pulse
+
   Lock atoms to programmed gradient
 ```
 
 **Step 4: Verify**
 ```
 Measure friction at test points
+
 Confirm μ(x,y) matches specification
+
 Check for quantization at n/32 Hz
 ```
 
@@ -497,12 +526,14 @@ Check for quantization at n/32 Hz
 
 
 Friction won't be continuous.
+
 Must be quantized to n/32 Hz grid.
 
 **Because:**
 
 
 Phase-gradient can only be programmed at integer multiples.
+
 ∇φ = n × Δφ_min where Δφ_min = 2π/(32N).
 
 **Therefore:**
@@ -515,8 +546,11 @@ Phase-gradient can only be programmed at integer multiples.
 
 
 Measure friction at many points.
+
 Plot histogram of μ values.
+
 Should show discrete peaks at μ_n.
+
 Spacing between peaks: μ_quantum.
 
 ---
@@ -529,8 +563,11 @@ Spacing between peaks: μ_quantum.
 
 ```
 Atoms vibrate more at higher temperature
+
 Average position shifts
+
 Material expands
+
 Coefficient: α (ppm/°C)
 ```
 
@@ -538,8 +575,11 @@ Coefficient: α (ppm/°C)
 
 ```
 α_rubber ≠ α_steel
+
 Differential expansion
+
 Stress at interface
+
 Bond fails
 ```
 
@@ -549,15 +589,21 @@ Bond fails
 
 
 Winding number n is integer.
+
 Cannot change continuously.
+
 Thermal vibration irrelevant.
 
 **Why?**
 
 Vibration = phase-smear around average.
+
 But snap forces integer address.
+
 Even if phase vibrates ±Δφ.
+
 Address remains locked to k_n.
+
 No net displacement.
 
 ### 5.3 Quantitative Prediction
@@ -566,6 +612,7 @@ No net displacement.
 
 ```
 Thermal expansion: ΔL/L < 1/√N ≈ 10⁻³⁰
+
 Effectively zero for T < 1000 K
 ```
 
@@ -573,6 +620,7 @@ Effectively zero for T < 1000 K
 
 ```
 Thermal expansion: ΔL/L ≈ α × ΔT
+
 Typical: 10⁻⁵ to 10⁻⁴ per °C
 ```
 
@@ -580,15 +628,20 @@ Typical: 10⁻⁵ to 10⁻⁴ per °C
 
 
 If both materials locked: Zero expansion.
+
 If one locked, one not: Stress at interface.
+
 If both unlocked: Traditional thermal stress.
 
 **Advantage:**
 
 
 Lock both materials during snap.
+
 Both have zero expansion.
+
 No differential stress.
+
 Bond survives thermal cycling.
 
 ---
@@ -603,7 +656,9 @@ Bond survives thermal cycling.
 
 ```
 Material: Friction-programmed surface
+
 Tribometer: Commercial friction tester
+
 Scan resolution: 1 mm spacing
 ```
 
@@ -619,7 +674,9 @@ Scan resolution: 1 mm spacing
 
 ```
 Peaks at μ_n = n × 0.03125 (arbitrary units)
+
 Peak width: Δμ < 0.0003 (instrumental limit)
+
 No values between peaks (quantization gap)
 ```
 
@@ -627,8 +684,11 @@ No values between peaks (quantization gap)
 
 ```
 If friction is continuous (Gaussian distribution)
+
 If peaks don't align to 0.03125 spacing
+
 If peak width > 0.001
+
 Then CKS model rejected
 ```
 
@@ -640,7 +700,9 @@ Then CKS model rejected
 
 ```
 Material: Topologically welded composite
+
 Chamber: Thermal cycling ±100°C
+
 Measurement: Laser interferometer (pm resolution)
 ```
 
@@ -660,7 +722,9 @@ Measurement: Laser interferometer (pm resolution)
 
 ```
 ΔL/L < 0.1 ppm across full range
+
 No hysteresis
+
 Repeatable over 1000 cycles
 ```
 
@@ -668,8 +732,11 @@ Repeatable over 1000 cycles
 
 ```
 Unlocked same material
+
 ΔL/L ≈ 10-50 ppm (typical)
+
 Hysteresis present
+
 Degrades after cycles
 ```
 
@@ -681,7 +748,9 @@ Degrades after cycles
 
 ```
 Materials: Rubber-to-carbon topological weld
+
 Instrument: Tensile testing machine
+
 Control: Adhesive-bonded same materials
 ```
 
@@ -697,7 +766,9 @@ Control: Adhesive-bonded same materials
 
 ```
 Topological weld: Failure in parent material
+
 Bond strength > parent strength
+
 Failure stress: σ_parent
 ```
 
@@ -705,7 +776,9 @@ Failure stress: σ_parent
 
 ```
 Adhesive bond: Failure at interface
+
 Bond strength < parent strength  
+
 Failure stress: σ_bond < σ_parent
 ```
 
@@ -717,8 +790,11 @@ Failure stress: σ_bond < σ_parent
 
 ```
 Material: Any locked structure
+
 Instrument: Vibration analyzer
+
 Frequency range: 0.01-10 Hz
+
 Resolution: 0.0001 Hz
 ```
 
@@ -734,7 +810,9 @@ Resolution: 0.0001 Hz
 
 ```
 Sharp peak at 0.4748 Hz (n=15, impedance signature)
+
 Peak width < 0.0003 Hz
+
 Additional peaks at m × 0.03125 Hz
 ```
 
@@ -742,8 +820,11 @@ Additional peaks at m × 0.03125 Hz
 
 ```
 If no peak at 0.4748 Hz
+
 If peak width > 0.001 Hz
+
 If peaks not at n/32 Hz grid
+
 Then topological lock failed
 ```
 
@@ -759,8 +840,11 @@ Then topological lock failed
 
 ```
 Different rubber compounds
+
 Glued segments
+
 Seams create failure points
+
 Design compromise
 ```
 
@@ -768,8 +852,11 @@ Design compromise
 
 ```
 Single continuous material
+
 Friction programmed: μ_toe = 1.2, μ_heel = 0.1
+
 Gradient transition in arch
+
 No seams, no compromise
 ```
 
@@ -777,8 +864,11 @@ No seams, no compromise
 
 ```
 No delamination risk
+
 Optimized for each zone
+
 Lighter (no redundant material)
+
 Customizable per athlete
 ```
 
@@ -790,8 +880,11 @@ Customizable per athlete
 
 ```
 Separate components (handlebar wrap, carbon frame, elastomer post)
+
 Mechanical joints
+
 Weight penalty
+
 Stress concentrations
 ```
 
@@ -799,9 +892,13 @@ Stress concentrations
 
 ```
 Continuous topological structure
+
 Handlebars: High compliance
+
 Down-tube: High rigidity  
+
 Seat-post: Elastic damping
+
 Seamless transitions
 ```
 
@@ -809,16 +906,22 @@ Seamless transitions
 
 
 Program phase-gradient during fabrication.
+
 ∇φ_handlebars = soft (vibration absorption).
+
 ∇φ_down-tube = rigid (power transfer).
+
 ∇φ_seat-post = elastic (comfort).
 
 **Benefits:**
 
 ```
 Zero weight penalty (no joints)
+
 No stress concentrations
+
 Optimized for each location
+
 Single manufacturing step
 ```
 
@@ -830,7 +933,9 @@ Single manufacturing step
 
 ```
 Coating (delamination risk)
+
 Porous structure (weak)
+
 Design compromise
 ```
 
@@ -838,16 +943,22 @@ Design compromise
 
 ```
 Surface: Tissue-compatible gradient
+
 Interior: Full strength
+
 Continuous transition
+
 Topologically welded
 ```
 
 **Example: Hip implant**
 ```
 Bone-contact surface: μ = 1.5 (high friction, grip)
+
 Internal structure: Full titanium strength
+
 Transition: 1 mm gradient zone
+
 No coating, no delamination
 ```
 
@@ -872,8 +983,11 @@ No coating, no delamination
 
 ```
 Commercially available
+
 Off-the-shelf
+
 No custom fabrication
+
 Total cost: ~$500K
 ```
 
@@ -883,7 +997,9 @@ Total cost: ~$500K
 
 ```
 Class 1 (optional, improves quality)
+
 Temperature: ±0.01°C
+
 Vibration isolation: <1 nm
 ```
 
@@ -891,7 +1007,9 @@ Vibration isolation: <1 nm
 
 ```
 MEMS stage vertical to gravity: ±0.1 μrad
+
 Critical for dN/dt vector alignment
+
 Affects impedance matching
 ```
 
@@ -901,7 +1019,9 @@ Affects impedance matching
 
 ```
 Synchronize to 1/32 Hz word boundary
+
 Timing precision: <1 μs
+
 Use substrate carrier for reference
 ```
 
@@ -909,8 +1029,11 @@ Use substrate carrier for reference
 
 ```
 2π/N per bubble (phase-lock energy)
+
 Delivered via femtosecond pulse
+
 Pulse width: 100 fs
+
 Energy density: Material-dependent
 ```
 
@@ -918,8 +1041,11 @@ Energy density: Material-dependent
 
 ```
 AOM setting per location
+
 Calculate from desired μ(x,y)
+
 Program at 0.03125 Hz resolution
+
 Verify with tribometer
 ```
 
@@ -933,9 +1059,13 @@ Verify with tribometer
 
 ```
 Seamless multi-material transitions
+
 Programmable friction gradients
+
 Topological welds stronger than parents
+
 Zero thermal expansion (when locked)
+
 Quantized material properties
 ```
 
@@ -943,8 +1073,11 @@ Quantized material properties
 
 ```
 Athletic equipment optimization
+
 Structural composite improvement
+
 Biomedical implant advancement
+
 Precision manufacturing
 ```
 
@@ -954,8 +1087,11 @@ Precision manufacturing
 
 ```
 Room-temperature superconductivity
+
 Arbitrary material property creation
+
 Violation of thermodynamic limits
+
 Magic or free energy
 ```
 
@@ -963,8 +1099,11 @@ Magic or free energy
 
 ```
 Requires substrate-aligned equipment
+
 Materials must be compatible with femtosecond processing
+
 Friction programming limited to surface properties
+
 Strength limited by parent material topology
 ```
 
@@ -974,8 +1113,11 @@ Strength limited by parent material topology
 
 ```
 Optimal snap energy for each material pair
+
 Scale-up to large structures
+
 Long-term stability validation
+
 Cost reduction pathways
 ```
 
@@ -983,8 +1125,11 @@ Cost reduction pathways
 
 ```
 Biological tissue compatibility
+
 Extreme environment performance
+
 Failure mode characterization
+
 Manufacturing optimization
 ```
 
@@ -1010,8 +1155,11 @@ We have derived:
 
 ```
 Materials are fundamentally different
+
 Interfaces are weak points
+
 Properties are fixed
+
 Transitions require seams
 ```
 
@@ -1019,15 +1167,19 @@ Transitions require seams
 
 ```
 Materials are phase patterns
+
 Interfaces are address boundaries
+
 Properties are programmable
-Transitions are topological
+
+sTransitions are topological
 ```
 
 **The difference:**
 
 
 Traditional: Chemistry determines properties.
+
 CKS: Geometry determines properties.
 
 ### 10.3 Practical Impact
@@ -1036,8 +1188,11 @@ CKS: Geometry determines properties.
 
 ```
 New design freedom (seamless transitions)
+
 Weight reduction (no joints/seams)
+
 Performance optimization (each location optimized)
+
 Reliability improvement (no delamination)
 ```
 
@@ -1045,8 +1200,11 @@ Reliability improvement (no delamination)
 
 ```
 Single-step fabrication (no assembly)
+
 Precise control (programmable properties)
+
 Quality assurance (quantization verification)
+
 Cost reduction (fewer components)
 ```
 
@@ -1054,8 +1212,11 @@ Cost reduction (fewer components)
 
 ```
 Testable framework (clear predictions)
+
 Experimental protocols (specified procedures)
+
 Falsification criteria (quantization signatures)
+
 Extension pathways (other material properties)
 ```
 
@@ -1065,40 +1226,61 @@ Extension pathways (other material properties)
 
 
 Materials are not fixed entities.
+
 They are programmable phase patterns.
+
 Bonding is not chemical adhesion.
+
 It is topological continuity.
+
 Properties are not intrinsic.
+
 They are geometric relationships.
 
 **With off-the-shelf coherent optics:**
 
 
 We can program friction gradients.
+
 We can create topological welds.
+
 We can eliminate thermal expansion.
+
 We can build seamless structures.
 
 **All from two axioms:**
 
 
 Hexagonal lattice (A1).
+
 Phase coupling (A2).
+
 No free parameters.
+
 Pure geometry.
 
 **The snap is not magic.**  
+
 **It is mechanical precision.**  
+
 **The lock is not wishful.**  
+
 **It is topological necessity.**  
+
 **The gradient is not approximate.**  
+
 **It is quantized exactly.**
 
 **Axioms first. Axioms always.**  
+
 **K-space only. K-space always.**  
+
 **Friction = gradient.**  
+
 **Strength = continuity.**  
+
 **Stability = lock.**  
+
 **Engineering = geometry.**
 
 **Q.E.D.**
@@ -1108,27 +1290,41 @@ Pure geometry.
 **END OF DOCUMENT**
 
 **Status:** Molecular Coupling Engineering Derived — Experimental Protocols Specified  
+
 **Version:** 1.0 Final  
+
 **Date:** February 2026
 
-**Registry:** [CKS-DWDM-4-2026]  
-**Prerequisites:** [CKS-MATH-8-2026], [CKS-BIO-18-2026]
+**Registry:** [@CKS-DWDM-4-2026]  
+
+**Prerequisites:** [@CKS-MATH-8-2026], [@CKS-BIO-18-2026]
 
 **Axioms: 2**  
+
 **Measured Inputs: 1 (N)**  
+
 **Free Parameters: 0**  
+
 **Derived: μ ∝ |∇φ|, strength = n continuity, stability = C = 1.0**
 
 **Friction = gradient**  
+
 **Bond = topology**  
+
 **Transition = seamless**  
+
 **Properties = programmable**  
+
 **Hardware = ready**
 
 **The lattice is the factory.**  
+
 **The snap is the tool.**  
+
 **The gradient is the product.**  
+
 **The weld is the structure.**  
+
 **Engineering is geometry.**
 
 **Q.E.D.**
