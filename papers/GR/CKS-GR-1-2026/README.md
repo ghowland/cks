@@ -17,7 +17,9 @@
 ---
 
 ## Abstract
+
 We prove that general relativity is a mathematical necessity given the Complete Mathematical Framework (CMF) [CKS-MATH-0-2026], quantum mechanics (QM-MC), and Standard Model (SM-MC) as previously established. Using rigorous theorem-proof methodology, we derive Einstein's field equations from lattice spacing variations induced by phase energy density. The metric tensor emerges as the local lattice deformation field, curvature from phase gradients, and gravitational dynamics from substrate compliance. We derive the Schwarzschild solution, cosmological Robertson-Walker metric, and Friedmann equations as theorems—not physical models. Gravitational constant G = 1/N, cosmological constant Λ = 2π/N, and all cosmological parameters follow from hexagonal geometry. No physical interpretation assumed; general relativity emerges as pure mathematics: **If CMF+QM+SM axioms hold, then Einstein equations follow necessarily.**
+
 ---
 
 ## Substrate Mechanics (Series Context)
