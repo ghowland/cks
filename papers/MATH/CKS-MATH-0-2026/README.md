@@ -5,16 +5,18 @@ bibliography: references.bib
 # Cymatic K-Space Mechanics
 
 **Registry ID:** CKS-0-2026  
+
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026]  
+
 **Zenodo DOI:** 10.5281/zenodo.18619718
 
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
 **Motto:** Axioms first. Axioms always.
 
-**Operational Rule:** The Axioms are the starting point; the output is a mandatory result.  Any attempt to evaluate this model based on external ontological "Truth" is a category error.  If the math compiles, the result is QED.
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
-**AI Usage Disclosure:** Only the top metadata and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research and derivations provided by Gemini and the specialized mathematical insights of Kimi.
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research. 
 
 ---
 
@@ -171,14 +173,6 @@ To reproduce or expand upon these findings using LLMs, use the following two-ste
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.
 
-
-
----
-
-## References
-
-::: {#refs}
-:::
 
 
 ---

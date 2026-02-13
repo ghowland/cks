@@ -65,7 +65,8 @@ def generate_bib_entry(manuscript_data, folder_id):
       zenodo_record = '[DOI-MALFORMED]'
 
       # if topic_folder == "_CKS":
-      print(f'    DOI Faided: {full_id}: {e}: {doi}: {manuscript_data}')
+      print(f'    DOI Failed: {full_id}: {e}: {doi}')
+      # print(f'    DOI Failed: {full_id}: {e}: {doi}: {manuscript_data}')
 
     # CRITICAL CHANGE:
     # 1. 'title' now contains ONLY the CKS-ID.
@@ -109,7 +110,7 @@ def main():
                     # Pass the folder name as a fallback ID
                     reg_id, entry = generate_bib_entry(data, folder_name)
                     
-                    print(f"  Processed: {reg_id} (from {manifest_file})")
+                    print(f"  Processed: {reg_id}:")
                     target_dirs.append(root)
                     master_entries[reg_id] = entry
                         

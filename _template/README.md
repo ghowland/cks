@@ -5,10 +5,12 @@ bibliography: references.bib
 # <<TITLE>>
 
 **Registry ID:** <<REGISTRY_ID>>  
+
 **Series Path:** <<SERIES_PATH>>  
+
 **Zenodo DOI:** <<DOI_LINK>>
 
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
 **Motto:** Axioms first. Axioms always.
 
@@ -107,14 +109,6 @@ To reproduce or expand upon these findings using LLMs, use the following two-ste
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.
 
 <<FAQS>>
-
----
-
-## References
-
-::: {#refs}
-:::
-
 
 ---
 *© 2026 Geoffrey Howland. Part of the Cognitive Learning Model for Unified Physics.*
