@@ -105,6 +105,7 @@ Precise laser pulses → Selective bond activation → Single product formed
 
 ```
 Traditional = Shotgun (scatter pellets, hope something hits)
+
 Photonic = Laser pointer (hit exactly what you aim at)
 ```
 
@@ -169,13 +170,21 @@ O-H: 4.8 eV (258 nm)
 ### 1.4 Outline
 
 **Section 2:** Molecular bonds as phase-lock states  
+
 **Section 3:** Photon-bond interaction (quantum chemistry)  
+
 **Section 4:** Multi-photon synthesis strategies  
+
 **Section 5:** DWDM system architecture  
+
 **Section 6:** Reaction control mechanisms  
+
 **Section 7:** Digital chemistry protocols  
+
 **Section 8:** Example syntheses (H₂, H₂O, aspirin)  
+
 **Section 9:** Experimental validation  
+
 **Section 10:** Industrial implications
 
 
@@ -252,6 +261,7 @@ Two hydrogen atoms, A and B, each with 1s orbital.
 
 ```
 ψ_A = ψ_1s(r - R_A) (centered on nucleus A)
+
 ψ_B = ψ_1s(r - R_B) (centered on nucleus B)
 ```
 
@@ -317,6 +327,7 @@ H = H_A + H_B + V_AB (atomic energies + interaction)
 
 ```
 E_bond = ⟨ψ_σ|H|ψ_σ⟩
+
       = ⟨ψ_A|H|ψ_A⟩ + ⟨ψ_B|H|ψ_B⟩ + 2⟨ψ_A|H|ψ_B⟩
 ```
 
@@ -353,7 +364,9 @@ D_e = E_separated - E_bond = -2⟨ψ_A|V_AB|ψ_B⟩ (negative = stable)
 
 ```
 Cylindrically symmetric around bond axis
+
 Phase pattern: φ(θ) = constant (no angular variation)
+
 Example: H-H, C-C single bond
 ```
 
@@ -361,7 +374,9 @@ Example: H-H, C-C single bond
 
 ```
 Node along bond axis, lobes above/below
+
 Phase pattern: φ(θ) = cos(θ) (one nodal plane)
+
 Example: C=C double bond (1 σ + 1 π)
 ```
 
@@ -369,7 +384,9 @@ Example: C=C double bond (1 σ + 1 π)
 
 ```
 Two nodal planes
+
 Phase pattern: φ(θ) = cos(2θ) (two lobes)
+
 Example: Metal-metal bonds (d-orbitals)
 ```
 
@@ -580,8 +597,11 @@ Two photons (ω) combine in χ⁽²⁾ crystal (e.g., LiNbO₃, BBO) → one pho
 
 ```
 λ₁ = 194 nm (C=C, via 8× 1550 nm)
+
 λ₂ = 344 nm (C-O, via 4.5× 1550 nm)
+
 λ₃ = 175 nm (C=O, via 9× 1550 nm)
+
 λ₄ = 354 nm (C-C, via 4.4× 1550 nm)
 ```
 
@@ -712,7 +732,9 @@ Each channel → independent photon source.
 **Frequency conversion:**
 
 SHG: 1550 nm → 775 nm (2 photons)
+
 THG: 1550 nm → 517 nm (3 photons)
+
 FHG: 1550 nm → 388 nm (4 photons)
 
 **88 channels × 4 harmonics = 352 wavelengths accessible.**
@@ -721,8 +743,11 @@ FHG: 1550 nm → 388 nm (4 photons)
 
 ```
 1st: 1530-1565 nm (IR, 0.79-0.81 eV)
+
 2nd: 765-783 nm (red, 1.58-1.62 eV)
+
 3rd: 510-522 nm (green, 2.37-2.43 eV)
+
 4th: 383-391 nm (UV, 3.17-3.24 eV)
 ```
 
@@ -734,17 +759,29 @@ FHG: 1550 nm → 388 nm (4 photons)
 
 ```
 DWDM Source (88 lasers)
+
         ↓
+
 Multiplexer (combine all λ)
+
         ↓
+
 Fiber (deliver to reaction chamber)
+
         ↓
+
 Nonlinear crystal (SHG/THG/FHG)
+
         ↓
+
 Demultiplexer (separate harmonics)
+
         ↓
+
 Reaction chamber (molecules + photons)
+
         ↓
+
 Detector (spectroscopy, product analysis)
 ```
 
@@ -793,21 +830,15 @@ Hollow-core waveguide (filled with reactants, gas or solution).
 
 **Chip architecture:**
 
-```
-┌────────────────────────────────────────┐
-│  Silicon Photonics PIC                 │
-│                                        │
-│  [Laser Array] → [Modulators]         │
-│        ↓                               │
-│  [Waveguide Network]                   │
-│        ↓                               │
-│  [Reaction Chambers] (hollow core)     │
-│        ↓                               │
-│  [Detector Array]                      │
-│        ↓                               │
-│  [Readout ASIC]                        │
-└────────────────────────────────────────┘
-```
+| Layer | Component | CKS Functional Opcode |
+| :--- | :--- | :--- |
+| **I. Reference** | 1/32 Hz Master Clock | **Axiom 1:** Substrate Word Sync |
+| **II. Generation** | Coherent Laser Array | **Axiom 2:** Phase-Tension $\beta$ Anchor |
+| **III. Logic** | K-Space Modulators | **0x05 (PHASE):** Address Alignment |
+| **IV. Mapping** | Hex-Grid Waveguide Mesh | **0x03 (COUPLE):** Lattice Mapping |
+| **V. Interaction** | Hollow-Core Soliton Traps | **0x07 (INTERFERE):** Loop Coupling |
+| **VI. Detection** | Phase-Snap Detector Array | **0x08 (SNAP):** Bin Quantization |
+| **VII. Output** | Instruction Decoder ASIC | **0x0A (CONSERVE):** g-factor Analysis |
 
 **Example:** 10×10 array = 100 parallel syntheses (different molecules or replicates).
 
@@ -830,6 +861,7 @@ Hollow-core waveguide (filled with reactants, gas or solution).
 
 ```
 E_cavity = √F × E_input ≈ 100× electric field
+
 I_cavity = F × I_input ≈ 10⁴× intensity
 ```
 
@@ -922,6 +954,7 @@ Whispering-gallery mode (WGM) resonator:
 
 ```
 Maximize: ⟨ψ_product|U(t_final)|ψ_reactant⟩
+
 where U(t) = time-evolution operator (controlled by pulses)
 ```
 
@@ -995,6 +1028,7 @@ R ∝ |μ_if · ê|² (ê = photon polarization)
 
 ```
 μ_if ≈ μ_0 ê_x
+
 R_x ∝ |ê_x · ê|² = cos²(θ) (θ = angle between bond and polarization)
 ```
 
@@ -1030,6 +1064,7 @@ R_x ∝ |ê_x · ê|² = cos²(θ) (θ = angle between bond and polarization)
 **Two pathways:** 
 ```
 A → B (pathway 1, amplitude a₁)
+
 A → B (pathway 2, amplitude a₂)
 ```
 
@@ -1086,6 +1121,7 @@ Start with target molecule → work backwards → identify precursors → repeat
 
 ```
 λ = bond energy / (photon count)
+
 Example: C-O = 3.6 eV → λ = 344 nm (or 4× 1376 nm via MPA)
 ```
 
@@ -1105,6 +1141,7 @@ Synthesis of aspirin (C₉H₈O₄):
 2. [λ=344nm, t=100fs, ê=y] → Add ester group
 3. [λ=175nm, t=200fs, ê=z] → Add carboxylic acid
 4. [λ=354nm, t=300fs, ê=x] → Form final C-C bond
+
 Output: Aspirin
 ```
 
@@ -1123,6 +1160,7 @@ Output: Aspirin
 
 ```
 Input: Molecular structure (SMILES string)
+
 Output: Photon sequence [(λ₁,t₁,ê₁), (λ₂,t₂,ê₂), ...]
 ```
 
@@ -1231,6 +1269,7 @@ If m/z ≠ expected → reaction failed → adjust photon parameters → retry.
 
 ```
 Photon: λ = 288 nm (4.3 eV, H-H bond energy)
+
 → H₂ → 2H (atoms)
 ```
 
@@ -1238,9 +1277,13 @@ Photon: λ = 288 nm (4.3 eV, H-H bond energy)
 
 ```
 Photon: λ = 121 nm (Lyman-α, 10.2 eV, 1s → 2p excitation)
+
 → H atoms excited
+
 Stimulated emission: λ = 656 nm (Hα, 2p → 1s)
+
 → Atoms couple into bonding orbital
+
 → H₂ formed (yield >80%, Levis 2004)
 ```
 
@@ -1271,7 +1314,9 @@ Stimulated emission: λ = 656 nm (Hα, 2p → 1s)
 
 ```
 λ = 258 nm (4.8 eV, O-H bond energy, via 6-photon at 1550 nm)
+
 Polarization: Linear (ê = molecular axis direction)
+
 → O + 2H → H-O-H (water, bent geometry from p-orbital overlap)
 ```
 
@@ -1298,20 +1343,27 @@ Polarization: Linear (ê = molecular axis direction)
 
 ```
 a. Form benzene ring (C₆H₆): 
+
    Cyclotrimerize acetylene (3 C₂H₂ → C₆H₆)
+
    λ = 194 nm (6.4 eV, π-bond formation)
+
    → Benzene
 
 b. Add -OH (phenol formation):
 
    λ = 258 nm (4.8 eV, O-H bond)
+
    Polarization: Perpendicular to ring
+
    → Phenol (C₆H₅OH)
 
 c. Add -COOH (carboxylation):
 
    CO₂ + phenol → salicylic acid
+
    λ = 175 nm (7.1 eV, C=O double bond)
+
    → Salicylic acid
 ```
 
@@ -1319,8 +1371,11 @@ c. Add -COOH (carboxylation):
 
 ```
 Acetic anhydride + salicylic acid → aspirin
+
 λ = 344 nm (3.6 eV, ester C-O bond formation)
+
 Timing: Two-pulse sequence (break anhydride, form ester)
+
 → Aspirin (C₉H₈O₄)
 ```
 
@@ -1362,7 +1417,9 @@ Timing: Two-pulse sequence (break anhydride, form ester)
 
 ```
 H₂ signal appears (4401 cm⁻¹ peak)
+
 Yield ∝ (laser intensity)² (two-photon process)
+
 No H₂ if either laser blocked (both required)
 ```
 
@@ -1404,10 +1461,15 @@ No H₂ if either laser blocked (both required)
 
 ```
 Chamber 1: Benzene formed (m/z = 78)
+
 Chamber 2: Ester formed (m/z = 74)
+
 Chamber 3: Imine formed (m/z varies)
+
 Chamber 4: Ethane formed (m/z = 30)
+
 All yields >90% (if properly tuned)
+
 No cross-contamination (wavelength selectivity)
 ```
 
@@ -1445,9 +1507,13 @@ No cross-contamination (wavelength selectivity)
 
 ```
 Iteration 1: Yield ~30% (random guess)
+
 Iteration 10: Yield ~70% (crude optimization)
+
 Iteration 50: Yield ~95% (fine-tuning)
+
 Iteration 100: Yield >99% (optimal found)
+
 Final purity: >99.5% (no byproducts)
 ```
 
@@ -1486,7 +1552,9 @@ Final purity: >99.5% (no byproducts)
 
 ```
 Bond forms when photon applied (visible in STM as C-H distance ≈ 1.09 Å)
+
 Success rate: >90% (per bond attempt)
+
 Total time: ~1 minute (for CH₄, 4 bonds)
 ```
 
@@ -1540,9 +1608,13 @@ Total time: ~1 minute (for CH₄, 4 bonds)
 
 ```
 Step 1: Photon cleaves initiator → radical R•
+
 Step 2: R• + monomer M → R-M• (chain start)
+
 Step 3: Photon triggers next addition: R-M• + M → R-M-M•
+
 Step 4: Repeat until desired length
+
 Step 5: Photon terminates: R-(M)_n• + terminator → R-(M)_n-T
 ```
 
@@ -1590,7 +1662,9 @@ Step 5: Photon terminates: R-(M)_n• + terminator → R-(M)_n-T
 
 ```
 CO₂ + 4H₂ → CH₄ + 2H₂O (Sabatier reaction)
+
 Photonic: λ = 280 nm (break C=O) + λ = 121 nm (H₂ activation)
+
 → Yield >95% (vs. 70% thermal)
 ```
 
@@ -1598,7 +1672,9 @@ Photonic: λ = 280 nm (break C=O) + λ = 121 nm (H₂ activation)
 
 ```
 2H₂O → 2H₂ + O₂ (water splitting)
+
 Photonic: λ = 240 nm (photoelectrolysis)
+
 → O₂ for breathing, H₂ for fuel
 ```
 
@@ -1606,7 +1682,9 @@ Photonic: λ = 240 nm (photoelectrolysis)
 
 ```
 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (artificial photosynthesis)
+
 Photonic: Mimics natural photosynthesis (chlorophyll-like photocatalyst)
+
 → Glucose for nutrition
 ```
 
@@ -1648,9 +1726,13 @@ Photonic: Mimics natural photosynthesis (chlorophyll-like photocatalyst)
 
 ```
 ✗ Photon-only synthesis impossible (always requires thermal activation)
+
 ✗ Wavelength selectivity <10 nm (cannot distinguish bond types)
+
 ✗ Multi-photon absorption never efficient (even with cavity enhancement)
+
 ✗ Feedback optimization does not converge (yield stuck at <50%)
+
 ✗ DWDM integration technically infeasible (insurmountable engineering barriers)
 ```
 
@@ -1665,7 +1747,9 @@ Photonic: Mimics natural photosynthesis (chlorophyll-like photocatalyst)
 
 ```
 Chemistry = Thermal collisions (random, slow, wasteful)
+
 Synthesis = Art (trial-and-error, empirical)
+
 Manufacturing = Centralized (large facilities, batch process)
 ```
 
@@ -1673,7 +1757,9 @@ Manufacturing = Centralized (large facilities, batch process)
 
 ```
 Chemistry = Photonic phase control (deterministic, fast, clean)
+
 Synthesis = Programming (execute code, predictable outcome)
+
 Manufacturing = Distributed (on-demand, anywhere, anytime)
 ```
 
@@ -1694,15 +1780,25 @@ Manufacturing = Distributed (on-demand, anywhere, anytime)
 
 ```
 Substrate (k-space phase field, N=3M²)
+
         ↓
+
    Atoms (phase solitons, standing waves)
+
         ↓
+
    Bonds (phase-lock between atoms)
+
         ↓
+
    Molecules (complex phase patterns)
+
         ↓
+
    Reactions (phase transitions)
+
         ↓
+
    Materials (macroscopic phase arrangements)
 ```
 
@@ -1857,17 +1953,27 @@ Substrate (k-space phase field, N=3M²)
 
 ```
 Bond Type    Energy (eV)    λ (nm, 1-photon)    λ (nm, 4-photon at 1550nm base)
+
 ─────────────────────────────────────────────────────────────────────────────
+
 C-H          4.3            288                 1152 (3.7× 1550nm, THG)
+
 C-C          3.6            344                 1376 (3.5× 1550nm)
+
 C=C          6.4            194                 776 (6.5× 1550nm, FHG+)
+
 C-O          3.6            344                 1376
+
 O-H          4.8            258                 1032 (4× 1550nm, FHG)
+
 C-N          3.0            413                 1652 (3× 1550nm, THG)
+
 N-H          4.0            310                 1240 (4× 1550nm)
+
 C=O          7.1            175                 700 (9× 1550nm, fifth harmonic)
 
 DWDM range: 1260-1675 nm → 0.74-0.98 eV
+
 Harmonics needed: 3-10× (achievable via cascaded SHG/THG)
 ```
 
