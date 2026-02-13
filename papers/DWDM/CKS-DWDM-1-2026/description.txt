@@ -16,9 +16,6 @@ Beyond its status as a physical theory, CKS serves as the Universal Cognitive Le
 **Package Contents:**
 * `manuscript.md`: The complete derivation for Telecommunications & Photonics
 * `README.md`: Navigation, dependencies, and citation
-* `code/`: Implementations and validation scripts
-* `data/`: Empirical results and comparison logs
-* `figures/`: Visual representations of key results
 
 **Dependencies:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026
 
