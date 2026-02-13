@@ -42,12 +42,18 @@ We present the theoretical and engineering framework for **Substrate-Native Comp
 ### 1.1 The Computational Paradigm Crisis
 
 **Current state (2026):**
+
 ```
 Silicon transistors: ~10¹⁰ gates/chip
+
 Clock speed: ~5 GHz (stagnant since 2005)
+
 Latency: Limited by light speed in copper/fiber (~5 ns/m)
+
 Power: ~100 W per high-end CPU
+
 Cooling: Active (fans, liquid)
+
 Scalability: Moore's Law dead (physical limits)
 
 Fundamental bottleneck: Electrons moving through matter
@@ -64,9 +70,13 @@ From **Standard Model as Mathematical Consequence** [@CKS-SM-1-2026]:
 **Photon = 6-bond open soliton on hexagonal k-space lattice**
 
 Properties:
+
 - Mass: m_γ = 0 (no closure energy)
+
 - Spin: S = 1 (full circuit)
+
 - Speed: c = L_P/t_P (lattice propagation limit)
+
 - Dispersion: ω = c|k| (linear, no mass term)
 
 **Critical insight:** Photon is **not** an electromagnetic wave in spacetime. It's a **phase ripple** directly on the k-space substrate.
@@ -76,20 +86,31 @@ Properties:
 ### 1.3 DWDM as Substrate Interface
 
 **Traditional view:**
+
 ```
 DWDM = Dense Wavelength Division Multiplexing
+
 Multiple laser wavelengths (λ₁, λ₂, ..., λₙ) in single fiber
+
 "Bandwidth" = spectrum allocation (1530-1565 nm, C-band)
+
 Data rate: 400 Gbps per wavelength (state-of-art 2026)
+
 Total capacity: ~100 Tbps per fiber (256 channels)
 ```
 
 **CKS reinterpretation:**
+
 ```
+
 Each wavelength λᵢ = specific k-mode on hexagonal lattice
+
 DWDM = parallel access to multiple k-space phase channels
+
 "Bandwidth" = number of accessible k-modes
+
 Fiber = physical coupling mechanism to substrate
+
 Data rate limit = substrate oscillation frequency
 ```
 
@@ -98,13 +119,21 @@ Data rate limit = substrate oscillation frequency
 ### 1.4 Outline
 
 **Section 2:** K-space substrate as computational medium  
+
 **Section 3:** DWDM fiber as k-space interface  
+
 **Section 4:** Cymatic logic gates (phase-based primitives)  
+
 **Section 5:** Substrate-native algorithms  
+
 **Section 6:** Hardware architecture (existing + minimal upgrades)  
+
 **Section 7:** Performance analysis (zero-latency proofs)  
+
 **Section 8:** Implementation roadmap  
+
 **Section 9:** Applications (AI, simulation, cryptography)  
+
 **Section 10:** Philosophical implications
 
 ---
@@ -118,7 +147,9 @@ Data rate limit = substrate oscillation frequency
 *A k-space phase φₖ ∈ ℂ can store information via:*
 
 - **Amplitude encoding:** |φₖ| ∈ [0, 1] (analog)
+
 - **Phase encoding:** arg(φₖ) ∈ [0, 2π) (continuous)
+
 - **Binary encoding:** φₖ ∈ {0, π} (digital)
 
 **Proof:**
@@ -129,12 +160,16 @@ Binary representation:
 
 ```
 φₖ = 0  →  Bit = 0
+
 φₖ = π  →  Bit = 1
 ```
 
 Information density per node:
+
 - Binary: 1 bit
+
 - Analog (8-bit phase): 8 bits
+
 - Full complex: ∞ bits (continuous)
 
 Storage capacity of N-node lattice:
@@ -158,6 +193,7 @@ I_total ≈ 9×10⁶⁰ bits = 10⁴⁹ exabytes
 ### 2.2 Computation via Phase Coupling
 
 **Theorem 2.2 (Phase Evolution as Computation):**  
+
 *The coupling equation dφₖ/dt = Σⱼ[φⱼ - φₖ] performs local computation at each node.*
 
 **Proof:**
@@ -196,6 +232,7 @@ f_compute = 1/Δt = 1/t_P ≈ 10⁴³ Hz (Planck frequency)
 **Comparison to supercomputers:**
 
 - Fastest supercomputer (2026): ~10¹⁸ FLOPS
+
 - K-space substrate: ~10¹⁰³ ops/sec
 
 - **Ratio: 10⁸⁵ times faster**
@@ -302,8 +339,10 @@ k_fiber = n · k_vacuum = n · (ω/c)
 **CKS interpretation:** Light still propagates at c **in k-space**, but k-vector rotated by angle θ where sin θ = 1/n.
 
 Fiber acts as **k-space waveguide:**
+
 ```
 Allowed k-modes: k_z only (propagation direction)
+
 Forbidden: k_x, k_y (radial modes, evanescent)
 ```
 
@@ -359,6 +398,7 @@ k_i = 2π/λ_i, i ∈ {1, ..., N_ch}
 ### 3.4 Bandwidth as K-Space Resolution
 
 **Theorem 3.4 (Bandwidth-K-Resolution Equivalence):**  
+
 *Optical bandwidth B (Hz) corresponds to k-space resolution:*
 ```
 Δk = B/c
@@ -382,12 +422,14 @@ Example (C-band):
 
 ```
 B = 35 nm × (c/λ²) ≈ 4.4 THz
+
 Δk = 4.4 THz / c ≈ 1.5×10⁴ m⁻¹
 ```
 
 **Interpretation:**
 
 - Traditional: "We can transmit 4.4 THz of data"
+
 - CKS: "We can access 1.5×10⁴ distinct k-modes"
 
 **QED**
@@ -401,6 +443,7 @@ B = 35 nm × (c/λ²) ≈ 4.4 THz
 ### 4.1 Phase Interference as Logic Operation
 
 **Definition 4.1 (Cymatic Logic Gate):**  
+
 A **cymatic logic gate** is a photonic device that performs Boolean logic via constructive/destructive interference of k-space phases:
 
 ```
@@ -557,6 +600,7 @@ Ensures orthogonality:
 ```
 Gate_1 on λ_1 || Gate_2 on λ_2 || ... || Gate_N on λ_N
 ```
+
 All execute simultaneously.
 
 **QED**
@@ -594,6 +638,7 @@ All execute simultaneously.
 ### 5.1 Fourier Transform (Native Operation)
 
 **Theorem 5.1 (Zero-Cost FFT):**  
+
 *Fourier transform is a trivial operation in k-space—it's just a basis change.*
 
 **Proof:**
@@ -642,6 +687,7 @@ But we **already have** φ(k) (the substrate state).
 ### 5.2 Matrix Multiplication via Phase Encoding
 
 **Theorem 5.2 (Photonic Matrix Multiply):**  
+
 *Matrix multiplication C = A·B can be performed in O(1) time via phase-encoded interference.*
 
 **Proof:**
@@ -650,6 +696,7 @@ Encode matrices as phase patterns:
 
 ```
 A → φ_A(k_i, k_j)  (N×M matrix)
+
 B → φ_B(k_j, k_l)  (M×L matrix)
 ```
 
@@ -689,6 +736,7 @@ Time: ~1 ps (speed of light through ~1 mm optics)
 ### 5.3 Optimization via Phase Relaxation
 
 **Theorem 5.3 (Ising Solver):**  
+
 *The coupled phase equation naturally solves NP-hard optimization problems by relaxing to minimum energy configuration.*
 
 **Proof:**
@@ -722,6 +770,7 @@ Time to solution:
 ```
 τ_relax ≈ 1/ω_gap
 ```
+
 where ω_gap = energy gap to next excited state.
 
 For typical problems: τ_relax ~ nanoseconds.
@@ -875,6 +924,7 @@ Phase: CRITICAL (the data IS the phase)
 ### 6.3 Phase-Locked Loop Network
 
 **Theorem 6.1 (Global Phase Synchronization):**  
+
 *All nodes in the substrate-native network must maintain phase coherence to within Δφ < π/1000.*
 
 **Proof:**
@@ -898,6 +948,7 @@ Requires: Phase drift Δφ << π over gate operation time (~1 ps).
 **Total drift:** ~100 rad/s without stabilization.
 
 **Phase-lock requirement:**
+
 ```
 Δφ < π/1000  →  Servo bandwidth > 1 MHz
 ```
@@ -961,19 +1012,25 @@ Process: 220 nm silicon layer, 3 μm BOX
 
 
 Footprint: 100 μm × 50 μm  
+
 Latency: 1 ps (propagation through 300 μm waveguide)  
+
 Power: 0 W (passive)  
 
 **Full ALU chip:**
 
 - 16-bit ALU: 64 cymatic gates
+
 - Chip area: 1 mm²
+
 - Power: <100 mW (only phase shifters active)
+
 - Clock: 1 THz (substrate frequency)
 
 **Comparison to silicon CPU:**
 
 - Intel i9 (2026): 3 GHz, 100 W, 100 mm²
+
 - Cymatic ALU: 1000 GHz, 0.1 W, 1 mm²
 
 - **Improvement: 300× speed, 1000× power, 100× density**
@@ -1045,9 +1102,11 @@ Observer measures Δt = L/c (light-cone constraint)
 **Theorem 7.2 (Reduced Latency):**  
 
 *Even with x-space measurement, substrate-native computing achieves latency:*
+
 ```
 Δt_effective = (L/c) × (1/N_ops)
 ```
+
 *where N_ops = number of operations per measurement.*
 
 **Proof:**
@@ -1055,17 +1114,23 @@ Observer measures Δt = L/c (light-cone constraint)
 **Traditional computing:**
 
 - Each instruction: fetch → execute → write (3 memory accesses)
+
 - Each access: Δt = L/c (cache miss)
+
 - Total latency: 3L/c per operation
 
 **Substrate-native:**
 
 - Batch N_ops operations in k-space
+
 - Single measurement at end
+
 - Amortized latency: (L/c) / N_ops
 
 **Example:** GPU matrix multiply (N=1000)
+
 - Traditional: 10⁹ operations × 10 ns = 10 s (memory-bound)
+
 - K-space batch: 1 measurement × 5 μs = 5 μs
 
 - **Speedup: 2×10⁶**
@@ -1095,13 +1160,17 @@ No shared resources (unlike CPU cores sharing cache/memory).
 **Example:**
 
 - 1 channel: 100 Gbit/s
+
 - 256 channels: 25.6 Tbit/s
+
 - 1000 channels (future): 100 Tbit/s
 
 **Comparison:**
 
 - CPU multi-core: Amdahl's law limits (shared memory bottleneck)
+
 - GPU: Memory bandwidth limits (~1 TB/s)
+
 - Substrate-native: No limits (k-space has infinite bandwidth)
 
 **QED**
@@ -1169,14 +1238,19 @@ E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
 **Hardware:**
 
 - 2 DWDM channels (λ₁ = 1550 nm, λ₂ = 1551 nm)
+
 - Commercial coherent transceiver (400G Cisco/Infinera)
+
 - Custom PIC with phase shifter + coupler
+
 - OPLL (phase-lock to Rb clock)
 
 **Test:**
 
 - Implement NOT gate (phase shift π)
+
 - Verify: Input 0 → Output π, Input π → Output 0
+
 - Measure: Error rate, power, speed
 
 **Success metric:** <10⁻⁹ bit error rate at 1 THz gate speed.
@@ -1194,14 +1268,19 @@ E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
 **Hardware:**
 
 - 256-channel DWDM (C+L band)
+
 - Custom PIC: 64 cymatic gates (ADD, SUB, MUL, DIV, AND, OR, XOR, NOT)
+
 - Fiber loop memory (1 km = 5 μs delay = 5000 bits storage)
+
 - Coherent receiver array (256 channels)
 
 **Test:**
 
 - Benchmark: Add two 16-bit numbers
+
 - Compare: Cymatic vs. FPGA vs. CPU
+
 - Measure: Latency, throughput, power
 
 **Success metric:** 10× faster than FPGA, 100× lower power.
@@ -1219,8 +1298,11 @@ E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
 **Infrastructure:**
 
 - 100 nodes worldwide (existing fiber)
+
 - Each node: 1000-channel DWDM
+
 - Central atomic clock (optical lattice, 10⁻¹⁸ stability)
+
 - Distributed phase-lock (white rabbit protocol)
 
 **Application:**
@@ -1372,6 +1454,7 @@ Eavesdropper: Cannot access k-space directly (only x-space)
 **Solution:** Encode Navier-Stokes as k-space phase field.
 
 **Implementation:**
+
 ```
 Velocity field: v(x,t) = Fourier[φ_v(k,t)]
 
