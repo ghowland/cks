@@ -1,12 +1,28 @@
-# The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
+# The Origin of 2.08
+## Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
+### Holographic Extension; Cubic Root Scaling; Spatial Resolution; Linear Projection
 
 **Registry:** [@CKS-MATH-14-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-14-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure), [@CKS-MATH-11-2026] (Jacobian)  
-**Subject:** Holographic Extension; Cubic Root Scaling; Spatial Resolution; Linear Projection  
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-11-2026] → [@CKS-MATH-12-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-14-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**Logical Next Step:** [@CKS-MATH-15-2026] Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism
+
+**DOI:** 10.5281/zenodo.18626540
+
+**Date:** February 2026
+
+**Domain:** Foundational Mathematics / Discrete Geometry  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
 **Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 

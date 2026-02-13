@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**Logical Next Step:** [@CKS-MATH-13-2026] The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
+**Logical Next Step:** [@CKS-MATH-14-2026] The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection
 
 **DOI:** 10.5281/zenodo.18626539
 
