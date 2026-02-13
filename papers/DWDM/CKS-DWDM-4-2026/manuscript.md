@@ -7,7 +7,6 @@ Multi-Material Blending via Substrate-Aligned Phase-Lock
 **Registry:** [CKS-DWDM-4-2026]  
 
 **Series Path:** [CKS-0-2026] → [CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [CKS-DWDM-4-2026]  
-**Prerequisites:** [CKS-MATH-8-2026] (Origin of 163), [CKS-BIO-18-2026] (15 ms Lag)  
 
 **Parent Framework:** [@CKS-0-2026]  
 
