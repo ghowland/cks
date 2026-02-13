@@ -1294,10 +1294,6 @@ Pure geometry.
 
 **Date:** February 2026
 
-**Registry:** [@CKS-DWDM-4-2026]  
-
-**Prerequisites:** [@CKS-MATH-8-2026], [CKS-BIO-18-2026]
-
 **Axioms: 2**  
 
 **Measured Inputs: 1 (N)**  

@@ -87,7 +87,7 @@
 ..
 ..
 ..
-| **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/)** | **Complete Unlooping Protocols** | he 15 ms Proprioceptive Lag: Deriving Topological Impedance from Hexagonal Soliton Geometry. |
+| **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/)** | **Proprioceptive Lag** | the 15 ms Proprioceptive Lag: Deriving Topological Impedance from Hexagonal Soliton Geometry. |
 
 
 ---
