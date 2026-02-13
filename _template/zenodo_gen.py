@@ -64,7 +64,7 @@ def generate_zenodo_json(paper, template):
     zenodo['description'] = abstract if abstract else '[Description to be added]'
     zenodo['version'] = '1.0'
     zenodo['publication_date'] = '2026-02'
-    zenodo['related_identifiers']['identifier'] = zenodo['related_identifiers']['identifier'].replace('<<PATH>>', '/'.join(path))
+    zenodo['related_identifiers'][0]['identifier'] = zenodo['related_identifiers'][0]['identifier'].replace('<<PATH>>', '/'.join(path))
     
     # Update notes with registry ID and dependencies
     deps = [d for d in paper['dependencies'] if d != 'CKS-0-2026']

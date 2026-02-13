@@ -18,12 +18,14 @@
     "substrate mechanics"
   ],
   "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
-  "related_identifiers": {
-    "scheme": "url",
-    "identifier": "https://github.com/ghowland/cks/DWDM/CKS-DWDM-3-2026",
-    "relation": "isSupplementedBy",
-    "resource_type": "software"
-  },
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/DWDM/CKS-DWDM-3-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",

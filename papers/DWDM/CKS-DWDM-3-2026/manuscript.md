@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.
+**DOI:** [DOI]
 
 **Date:** February 2026
 

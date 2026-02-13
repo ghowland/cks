@@ -22,12 +22,14 @@
   "notes": "<<NOTES>>",
     
   "related_identifiers": 
+  [
   {
       "scheme": "url",
       "identifier": "https://github.com/ghowland/cks/<<PATH>>",
       "relation": "isSupplementedBy",
       "resource_type": "software"
-  },
+  }
+  ],
 
   "creators": [
     {
