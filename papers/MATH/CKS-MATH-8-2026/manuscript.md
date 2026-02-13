@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**Logical Next Step:** [@CKS-MATH-8-2026] The Origin of 163: Deriving the Minimal Curvature Quantum from Hexagonal Bond Torsion
+**Logical Next Step:** [@CKS-MATH-9-2026] The Origin of 144: Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
 
 **DOI:** 10.5281/zenodo.18626534
 
@@ -1034,9 +1034,6 @@ gcd(163,12): 1
 **Status:** Curvature Quantum Derived — 163 Explained  
 **Version:** 1.0 Final  
 **Date:** February 2026
-
-**Registry:** [@CKS-MATH-8-2026]  
-**Prerequisites:** [@CKS-MATH-1,4,6-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 0**  

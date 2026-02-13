@@ -1229,9 +1229,6 @@ print(f"m_μ/m_e = {m_mu_over_me:.6f}")
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-7-2026]  
-**Prerequisites:** [@CKS-MATH-1,4,5,6-2026]
-
 **Axioms: 2**  
 **Measured Inputs: 1 (N from H₀)**  
 **Free Parameters: 0**  
