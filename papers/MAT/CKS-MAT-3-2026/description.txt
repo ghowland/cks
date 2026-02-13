@@ -4,8 +4,7 @@ Anti-Fragile in Cymatics is a constituent derivation of the **Cymatic K-Space Me
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Materials Science** domain, deriving [domain focus to be extracted] from first principles.
 
-**Key Theoretical Results:**
-[key results to be extracted from manuscript]
+
 
 **Empirical Falsification (The Kill-Switch):**
 CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in precision measurements relevant to Materials Science, this paper is mechanically invalidated.
