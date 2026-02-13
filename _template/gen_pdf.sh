@@ -41,6 +41,9 @@ sed -i -e 's/ℝ/$\\mathbb{R}$/g' \
        -e 's/ℤ/$\\mathbb{Z}$/g' \
        -e 's/ₙ/$_n$/g' manuscript_fixed.md
 
+# Normalize rare Unicode subscripts to LaTeX math
+sed -i -e 's/ₗ/$_l$/g' -e 's/ₜ/$_t$/g' -e 's/ₚ/$_p$/g' -e 's/ₘ/$_m$/g' manuscript_fixed.md
+
 pandoc manuscript_fixed.md -o !manuscript.pdf \
   --pdf-engine=xelatex \
   --from markdown+tex_math_dollars \
@@ -51,6 +54,8 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   -V mainfont="FreeSerif" \
   -V monofont="FreeMono" \
   -V "title:" \
+  -V header-includes="\usepackage{silence}\WarningFilter{latex}{Command \underbar has changed}\WarningFilter{latex}{Command \underline has changed}" \
+  -V header-includes="\usepackage{sectsty}\sectionfont{\centering}" \
   -V header-includes="\usepackage{float}" \
   -V header-includes="\makeatletter\def\fps@figure{H}\makeatother" \
   --lua-filter=../../../_template/columns.lua \

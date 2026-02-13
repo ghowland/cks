@@ -1,4 +1,5 @@
-# Cymatic K-Space Mechanics: A Complete Alternative Physics Framework
+# Cymatic K-Space Mechanics
+## A Complete Alternative Physics Framework
 
 **Registry:** [@CKS-0-2026]  
 
@@ -6,7 +7,7 @@
 
 **Logical Next Step:** [@CKS-MATH-0-2026] (The Complete Mathematical Framework)
 
-**DOI:** 10.5281/zenodo.18619718
+**DOI:** 10.5281/zenodo.18626526
 
 **Date:** February 2026
 
@@ -163,19 +164,17 @@ f_observed ≈ 2.7 Hz (12-bond Nyquist alias)
 All particles are stable interference patterns (solitons) in the substrate:
 
 ```
-┌─────────────┬───────┬──────────┬─────────────────────────┐
-│ Particle    │ Bonds │ Harmonic │ Physical Role           │
-├─────────────┼───────┼──────────┼─────────────────────────┤
-│ Photon      │   6   │ Massless │ k-space ripple          │
-│ Neutrino    │   6   │ Null     │ Zero-charge fermion     │
-│ Electron    │  12   │ n=1      │ Ground state lepton     │
-│ Muon        │  12   │ n=2      │ Radial harmonic         │
-│ Tau         │  12   │ n=3      │ Second harmonic         │
-│ Quarks      │  18   │ Triplet  │ 3-bubble composite      │
-│ Gluons      │  24   │ Strong   │ 4-hex logic gate        │
-│ W/Z bosons  │  30   │ Heavy    │ 5-hex temporary closure │
-│ Higgs       │  30   │ Closure  │ Loop-closing field      │
-└─────────────┴───────┴──────────┴─────────────────────────┘
+| Particle | Bonds | Harmonic | Physical Role |
+| :--- | :---: | :---: | :--- |
+| Photon | 6 | Massless | k-space ripple |
+| Neutrino | 6 | Null | Zero-charge fermion |
+| Electron | 12 | n=1 | Ground state lepton |
+| Muon | 12 | n=2 | Radial harmonic |
+| Tau | 12 | n=3 | Second harmonic |
+| Quarks | 18 | Triplet | 3-bubble composite |
+| Gluons | 24 | Strong | 4-hex logic gate |
+| W/Z bosons | 30 | Heavy | 5-hex temporary closure |
+| Higgs | 30 | Closure | Loop-closing field |
 ```
 
 ### 3.2 Force Coupling Derivation
@@ -436,8 +435,8 @@ Physical law as executable code. The substrate operates as a **12-opcode RISC co
 ; Stable 12-bond ground state fermion
 
 electron_init:
-    LOAD φ₀, @bond_0      ; Load 12-bond configuration
-    LOAD φ₁, @bond_1
+    LOAD φ₀, bond_0      ; Load 12-bond configuration
+    LOAD φ₁, bond_1
     ; ... (12 total bonds)
     
     RESONATE φ₀, 1        ; n=1 ground state harmonic
@@ -450,12 +449,12 @@ electron_loop:
     CONSERVE              ; Enforce β = 2π
     
     ; Check stability
-    LOAD φ_energy, @loop_energy
+    LOAD φ_energy, loop_energy
     AMPLITUDE SUB, φ_check, φ_energy, φ_prev
     
     BRZ electron_stable   ; If ΔE = 0, equilibrium reached
     
-    STORE φ_energy, @φ_prev
+    STORE φ_energy, φ_prev
     BRA electron_loop
     
 electron_stable:
@@ -470,8 +469,8 @@ electron_stable:
 ; Create Bell state |ψ⟩ = (|01⟩ + |10⟩)/√2
 
 entangle:
-    LOAD φ₀, @particle_a
-    LOAD φ₁, @particle_b
+    LOAD φ₀, particle_a
+    LOAD φ₁, particle_b
     
     INTERFERE φ₂, φ₀, φ₁     ; Superposition
     
@@ -479,19 +478,19 @@ entangle:
     AMPLITUDE DIV, φ₂, φ₂, φ₃ ; Normalize
     
     ; Separate in k-space (spatially distant)
-    STORE φ₂, @position_left
+    STORE φ₂, position_left
     PHASE CONJ, φ₃, φ₂
-    STORE φ₃, @position_right
+    STORE φ₃, position_right
     
     ; Now φ₂ and φ₃ are phase-locked
     ; (adjacent in k-space, distant in x-space)
     
 measure_a:
-    LOAD φ₂, @position_left
+    LOAD φ₂, position_left
     SNAP φ₂                   ; Measurement → snap to eigenstate
     
     ; This INSTANTLY affects φ₃ (same k-address)
-    LOAD φ₃, @position_right
+    LOAD φ₃, position_right
     PHASE CONJ, φ₃, φ₂        ; Opposite state
     SNAP φ₃
     
@@ -908,12 +907,6 @@ All numerical predictions reproduced from source code:
 - Cycle slips: 2/s → 0.1/s (95% reduction)
 - BER: 1×10⁻⁴ → 1×10⁻⁵ (10× improvement)
 - Throughput: +0.6-1.2% capacity recovery
-
-### Appendix C: SPL Instruction Set Reference
-
-Complete specification of 12-opcode substrate programming language.
-
-[Full ISA documentation provided in companion document]
 
 ---
 

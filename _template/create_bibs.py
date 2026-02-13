@@ -63,7 +63,9 @@ def generate_bib_entry(manuscript_data, folder_id):
       zenodo_record = doi.split('.')[2]
     except Exception as e:
       zenodo_record = '[DOI-MALFORMED]'
-      print(f'    DOI Faided: {full_id}')
+
+      # if topic_folder == "_CKS":
+      print(f'    DOI Faided: {full_id}: {e}: {doi}: {manuscript_data}')
 
     # CRITICAL CHANGE:
     # 1. 'title' now contains ONLY the CKS-ID.
