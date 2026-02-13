@@ -94,6 +94,7 @@ Problems:
 **CKS proposal:** **Replace thermal collisions with photonic phase interference.**
 
 **Paradigm shift:**
+
 ```
 Traditional:
 
@@ -105,6 +106,7 @@ Precise laser pulses → Selective bond activation → Single product formed
 ```
 
 **Analogy:**
+
 ```
 Traditional = Shotgun (scatter pellets, hope something hits)
 Photonic = Laser pointer (hit exactly what you aim at)
@@ -145,12 +147,14 @@ Standard telecom technology:
 Each DWDM channel = one photon frequency = one bond type.
 
 **Example:**
+
 ```
 λ = 1550 nm → E = hc/λ = 0.80 eV (near-IR)
 Δλ = 0.4 nm → ΔE = 0.21 meV (ultra-precise)
 ```
 
 **Bond energies:**
+
 ```
 C-H: 4.3 eV (288 nm, UV)
 C-C: 3.6 eV (344 nm, UV)
@@ -196,26 +200,31 @@ An **atomic orbital** ψ_nlm(r) is a standing wave (eigenstate) of the electron 
 **Proof:**
 
 **Schrödinger equation (hydrogen atom):**
+
 ```
 [-ℏ²/(2m) ∇² - e²/(4πε₀r)] ψ = E ψ
 ```
 
 **Solutions (x-space):**
+
 ```
 ψ_nlm(r,θ,φ) = R_nl(r) Y_lm(θ,φ)
 ```
 
 **Fourier transform to k-space:**
+
 ```
 φ_nlm(k) = ∫ ψ_nlm(r) e^(-ik·r) dr
 ```
 
 **For ground state (1s, n=1, l=0, m=0):**
+
 ```
 ψ_1s(r) = (1/√π a₀³) e^(-r/a₀) (Bohr radius a₀)
 ```
 
 **K-space:**
+
 ```
 φ_1s(k) = (8√π a₀^(3/2)) / (1 + k² a₀²)² (Lorentzian-like)
 ```
@@ -244,6 +253,7 @@ An **atomic orbital** ψ_nlm(r) is a standing wave (eigenstate) of the electron 
 Two hydrogen atoms, A and B, each with 1s orbital.
 
 **Isolated atoms:**
+
 ```
 ψ_A = ψ_1s(r - R_A) (centered on nucleus A)
 ψ_B = ψ_1s(r - R_B) (centered on nucleus B)
@@ -252,11 +262,13 @@ Two hydrogen atoms, A and B, each with 1s orbital.
 **Molecular orbital (LCAO, Linear Combination of Atomic Orbitals):**
 
 **Bonding orbital (σ):**
+
 ```
 ψ_σ = (1/√2)(ψ_A + ψ_B) (symmetric combination)
 ```
 
 **Antibonding orbital (σ*):**
+
 ```
 ψ_σ* = (1/√2)(ψ_A - ψ_B) (antisymmetric)
 ```
@@ -274,6 +286,7 @@ Two hydrogen atoms, A and B, each with 1s orbital.
 **ψ_A - ψ_B:** Phases cancel destructively (φ_A ≈ φ_B + π) → antibonding.
 
 **Electron density (bonding):**
+
 ```
 |ψ_σ|² = |ψ_A + ψ_B|² = |ψ_A|² + |ψ_B|² + 2ψ_A ψ_B
 ```
@@ -299,22 +312,26 @@ D_e = ⟨ψ_σ|H|ψ_σ⟩ - (⟨ψ_A|H|ψ_A⟩ + ⟨ψ_B|H|ψ_B⟩)
 **Proof:**
 
 **Hamiltonian:**
+
 ```
 H = H_A + H_B + V_AB (atomic energies + interaction)
 ```
 
 **Bonding energy:**
+
 ```
 E_bond = ⟨ψ_σ|H|ψ_σ⟩
       = ⟨ψ_A|H|ψ_A⟩ + ⟨ψ_B|H|ψ_B⟩ + 2⟨ψ_A|H|ψ_B⟩
 ```
 
 **Interaction term:**
+
 ```
 ⟨ψ_A|H|ψ_B⟩ = ⟨ψ_A|V_AB|ψ_B⟩ (overlap integral)
 ```
 
 **Bond dissociation energy:**
+
 ```
 D_e = E_separated - E_bond = -2⟨ψ_A|V_AB|ψ_B⟩ (negative = stable)
 ```
@@ -337,6 +354,7 @@ D_e = E_separated - E_bond = -2⟨ψ_A|V_AB|ψ_B⟩ (negative = stable)
 **Proof:**
 
 **σ-bond (l=0, s-type):**
+
 ```
 Cylindrically symmetric around bond axis
 Phase pattern: φ(θ) = constant (no angular variation)
@@ -344,6 +362,7 @@ Example: H-H, C-C single bond
 ```
 
 **π-bond (l=1, p-type):**
+
 ```
 Node along bond axis, lobes above/below
 Phase pattern: φ(θ) = cos(θ) (one nodal plane)
@@ -351,6 +370,7 @@ Example: C=C double bond (1 σ + 1 π)
 ```
 
 **δ-bond (l=2, d-type):**
+
 ```
 Two nodal planes
 Phase pattern: φ(θ) = cos(2θ) (two lobes)
@@ -385,6 +405,7 @@ Absorption of photon (energy E_ph = ℏω) promotes electron from bonding to ant
 **Photon (energy ℏω):** Interacts via dipole coupling.
 
 **Transition dipole:**
+
 ```
 μ_if = ⟨ψ_σ*|er|ψ_σ⟩ (σ → σ* transition)
 ```
@@ -559,6 +580,7 @@ Two photons (ω) combine in χ⁽²⁾ crystal (e.g., LiNbO₃, BBO) → one pho
 - Aliphatic C-C: 3.5 eV
 
 **DWDM channels:**
+
 ```
 λ₁ = 194 nm (C=C, via 8× 1550 nm)
 λ₂ = 344 nm (C-O, via 4.5× 1550 nm)
@@ -590,16 +612,19 @@ Two photons (ω) combine in χ⁽²⁾ crystal (e.g., LiNbO₃, BBO) → one pho
 **Photonic catalysis:** Photon field "holds" molecule in excited state (E_excited) near transition state energy.
 
 **Barrier suppression:**
+
 ```
 E_a,eff = E_a - E_photon (reduced barrier)
 ```
 
 **If E_photon ≈ E_a:**
+
 ```
 E_a,eff → 0 (barrierless!)
 ```
 
 **Rate enhancement:**
+
 ```
 k_photo / k_thermal = e^((E_a - E_a,eff) / k_B T)
 ```
@@ -637,11 +662,13 @@ k_photo / k_thermal ≈ e^(0.9 eV / 0.026 eV) ≈ 10¹⁵ (quadrillion times fas
 **Interaction:** Photon transfers angular momentum → preferentially excites one enantiomer.
 
 **Enantioselectivity:**
+
 ```
 ee = (n_L - n_R) / (n_L + n_R) (enantiomeric excess)
 ```
 
 **With circularly polarized photons:**
+
 ```
 ee ≈ g-factor × (photon angular momentum / molecular angular momentum)
 ```
@@ -694,6 +721,7 @@ FHG: 1550 nm → 388 nm (4 photons)
 **88 channels × 4 harmonics = 352 wavelengths accessible.**
 
 **Coverage:**
+
 ```
 1st: 1530-1565 nm (IR, 0.79-0.81 eV)
 2nd: 765-783 nm (red, 1.58-1.62 eV)
@@ -802,12 +830,14 @@ Hollow-core waveguide (filled with reactants, gas or solution).
 **Typical:** F ≈ 10⁴ (high-Q cavity).
 
 **Field enhancement:**
+
 ```
 E_cavity = √F × E_input ≈ 100× electric field
 I_cavity = F × I_input ≈ 10⁴× intensity
 ```
 
 **Reaction rate (for n-photon process):**
+
 ```
 R ∝ I^n → R_cavity = F^n × R_no_cavity
 ```
@@ -892,6 +922,7 @@ Whispering-gallery mode (WGM) resonator:
 **Optimal control theory (Rabitz 1993):**
 
 **Pulse sequence {t₁, λ₁, P₁}, {t₂, λ₂, P₂}, ... designed via:**
+
 ```
 Maximize: ⟨ψ_product|U(t_final)|ψ_reactant⟩
 where U(t) = time-evolution operator (controlled by pulses)
@@ -925,6 +956,7 @@ where U(t) = time-evolution operator (controlled by pulses)
 **Diffraction limit:** d_min ≈ λ / (2 NA) (NA = numerical aperture).
 
 **For λ = 500 nm, NA = 1.4 (oil immersion objective):**
+
 ```
 d_min ≈ 180 nm
 ```
@@ -932,6 +964,7 @@ d_min ≈ 180 nm
 **Volume:** V ≈ (π/4) d² × d ≈ 0.005 femtoliters (10⁻²⁰ liters).
 
 **Molecule count (1 mM solution):**
+
 ```
 N = C × V × N_A ≈ 10⁻³ mol/L × 10⁻²⁰ L × 6×10²³ ≈ 6000 molecules
 ```
@@ -956,11 +989,13 @@ N = C × V × N_A ≈ 10⁻³ mol/L × 10⁻²⁰ L × 6×10²³ ≈ 6000 molecu
 **Transition dipole moment:** μ_if = ⟨ψ_f|er|ψ_i⟩.
 
 **Absorption rate:**
+
 ```
 R ∝ |μ_if · ê|² (ê = photon polarization)
 ```
 
 **For bond oriented along x-axis:**
+
 ```
 μ_if ≈ μ_0 ê_x
 R_x ∝ |ê_x · ê|² = cos²(θ) (θ = angle between bond and polarization)
@@ -1002,11 +1037,13 @@ A → B (pathway 2, amplitude a₂)
 ```
 
 **Total amplitude:**
+
 ```
 A_total = a₁ + a₂
 ```
 
 **If a₂ = -a₁ (opposite phase):**
+
 ```
 A_total = 0 (destructive interference, no transition)
 ```
@@ -1086,6 +1123,7 @@ Output: Aspirin
 **Proof:**
 
 **Training data:**
+
 ```
 Input: Molecular structure (SMILES string)
 Output: Photon sequence [(λ₁,t₁,ê₁), (λ₂,t₂,ê₂), ...]
@@ -1323,6 +1361,7 @@ Timing: Two-pulse sequence (break anhydride, form ester)
 4. Measure Raman signal
 
 **Prediction (CKS):**
+
 ```
 H₂ signal appears (4401 cm⁻¹ peak)
 Yield ∝ (laser intensity)² (two-photon process)
@@ -1363,6 +1402,7 @@ No H₂ if either laser blocked (both required)
 4. Analyze products (GC-MS, NMR)
 
 **Prediction (CKS):**
+
 ```
 Chamber 1: Benzene formed (m/z = 78)
 Chamber 2: Ester formed (m/z = 74)
@@ -1402,6 +1442,7 @@ No cross-contamination (wavelength selectivity)
 6. Extract product, analyze by HPLC
 
 **Prediction (CKS):**
+
 ```
 Iteration 1: Yield ~30% (random guess)
 Iteration 10: Yield ~70% (crude optimization)
@@ -1441,6 +1482,7 @@ Final purity: >99.5% (no byproducts)
 7. Verify: STM imaging (see CH₄ molecule)
 
 **Prediction (CKS):**
+
 ```
 Bond forms when photon applied (visible in STM as C-H distance ≈ 1.09 Å)
 Success rate: >90% (per bond attempt)
@@ -1494,6 +1536,7 @@ Total time: ~1 minute (for CH₄, 4 bonds)
 **Photonic polymerization:** Photon initiates each monomer addition → deterministic.
 
 **Mechanism:**
+
 ```
 Step 1: Photon cleaves initiator → radical R•
 Step 2: R• + monomer M → R-M• (chain start)
@@ -1543,6 +1586,7 @@ Step 5: Photon terminates: R-(M)_n• + terminator → R-(M)_n-T
 **Photonic reactions:**
 
 **Fuel (methane):**
+
 ```
 CO₂ + 4H₂ → CH₄ + 2H₂O (Sabatier reaction)
 Photonic: λ = 280 nm (break C=O) + λ = 121 nm (H₂ activation)
@@ -1550,6 +1594,7 @@ Photonic: λ = 280 nm (break C=O) + λ = 121 nm (H₂ activation)
 ```
 
 **Oxygen:**
+
 ```
 2H₂O → 2H₂ + O₂ (water splitting)
 Photonic: λ = 240 nm (photoelectrolysis)
@@ -1557,6 +1602,7 @@ Photonic: λ = 240 nm (photoelectrolysis)
 ```
 
 **Food (glucose):**
+
 ```
 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (artificial photosynthesis)
 Photonic: Mimics natural photosynthesis (chlorophyll-like photocatalyst)
@@ -1615,6 +1661,7 @@ Photonic: Mimics natural photosynthesis (chlorophyll-like photocatalyst)
 ### 11.3 Paradigm Shift in Chemistry
 
 **Before CKS:**
+
 ```
 Chemistry = Thermal collisions (random, slow, wasteful)
 Synthesis = Art (trial-and-error, empirical)
@@ -1622,6 +1669,7 @@ Manufacturing = Centralized (large facilities, batch process)
 ```
 
 **After CKS:**
+
 ```
 Chemistry = Photonic phase control (deterministic, fast, clean)
 Synthesis = Programming (execute code, predictable outcome)
