@@ -44,16 +44,22 @@ We derive **molecular coupling engineering**—the creation of seamless transiti
 
 
 Dissimilar materials delaminate.
+
 Rubber-to-steel bonds fail.
+
 Polymer-to-ceramic cracks under stress.
+
 Foam-to-carbon shears at interfaces.
 
 **Common failure modes:**
 
 ```
 Adhesive failure: Bond breaks at glue layer
+
 Cohesive failure: Material tears near interface
+
 Thermal mismatch: Expansion coefficients differ
+
 Stress concentration: Sharp discontinuities
 ```
 
@@ -61,8 +67,11 @@ Stress concentration: Sharp discontinuities
 
 ```
 Mechanical fasteners (add weight, stress points)
+
 Graded interlayers (complex, expensive)
+
 Surface treatments (inconsistent, degrade)
+
 Adhesive selection (limited, temperature-sensitive)
 ```
 
@@ -72,22 +81,30 @@ Adhesive selection (limited, temperature-sensitive)
 
 ```
 "Different materials have different lattice structures"
+
 "Chemical compatibility determines bonding"
+
 "Interfaces are inherently weak points"
+
 "Transitions must be gradual and mechanical"
 ```
 
 **CKS perspective:**
 
-
 These aren't chemical incompatibilities.
+
 They're **topological address mismatches**.
 
 When rubber atom sits at k-space address A.
+
 And steel atom sits at k-space address B.
+
 If A ≠ B (different integer addresses).
+
 The winding numbers don't match.
+
 Interface forms topological discontinuity.
+
 Stress concentrates, bond fails.
 
 ### 1.3 The Friction Problem
@@ -96,8 +113,11 @@ Stress concentrates, bond fails.
 
 ```
 Friction = surface roughness + adhesion
+
 Programmable only via texture/coating
+
 Transitions are discontinuous
+
 Seams create failure points
 ```
 
@@ -105,8 +125,11 @@ Seams create failure points
 
 ```
 Why does rubber grip?
+
 Why does Teflon slide?
+
 Can friction be programmed?
+
 Can transitions be seamless?
 ```
 
@@ -135,14 +158,18 @@ From [CKS-BIO-18-2026], motion impedance = 4πK ≈ 15.19.
 
 
 Motion vector: v in x-space.
+
 Surface has local phase pattern: φ(x,y).
+
 Phase-gradient: ∇φ = (∂φ/∂x, ∂φ/∂y).
 
 **Friction mechanism:**
 
 
 Moving object must traverse phase-gradient.
+
 Each step requires overcoming impedance.
+
 Steeper gradient = higher resistance.
 
 **Derivation:**
@@ -173,6 +200,7 @@ Where v̂ = unit motion vector.
 
 
 High-friction surface: Steep phase-gradient opposing motion.
+
 Low-friction surface: Flat phase-gradient along motion.
 
 ### 2.2 Material Strength as Topological Continuity
@@ -181,6 +209,7 @@ Low-friction surface: Flat phase-gradient along motion.
 
 ```
 Strength = bond energy × bond density
+
 Interfaces are weak (discontinuous bonds)
 ```
 
@@ -199,6 +228,7 @@ n(x) must be constant across interface
 
 ```
 If n_A = n_B: Topologically continuous (strong)
+
 If n_A ≠ n_B: Topological discontinuity (weak)
 ```
 
@@ -206,10 +236,15 @@ If n_A ≠ n_B: Topological discontinuity (weak)
 
 
 Rubber: n_rubber at address k_1.
+
 Steel: n_steel at address k_2.
+
 If k_1 ≠ k_2: Different addresses.
+
 Winding numbers don't match.
+
 Topological gap forms.
+
 Stress concentrates at gap.
 
 ### 2.3 Thermal Stability as Address Lock
@@ -218,7 +253,9 @@ Stress concentrates at gap.
 
 ```
 Materials expand at different rates
+
 Thermal stress at interfaces
+
 Bonds fail under temperature cycling
 ```
 
@@ -226,13 +263,16 @@ Bonds fail under temperature cycling
 
 
 Thermal expansion = phase-smear.
+
 Atoms vibrate, addresses become fuzzy.
 
 **If address locked (C = 1.0):**
 
 ```
 Winding number n permanently fixed
+
 Thermal vibration cannot change integer
+
 Material dimensionally stable
 ```
 
@@ -240,7 +280,9 @@ Material dimensionally stable
 
 ```
 Winding number can shift
+
 Thermal vibration causes drift
+
 Material expands/contracts
 ```
 
@@ -254,7 +296,9 @@ Material expands/contracts
 
 ```
 Natural resonance: f_rubber
+
 K-space address: k_rubber
+
 Winding number: n_rubber
 ```
 
@@ -262,7 +306,9 @@ Winding number: n_rubber
 
 ```
 Natural resonance: f_carbon  
+
 K-space address: k_carbon
+
 Winding number: n_carbon
 ```
 
@@ -274,16 +320,22 @@ Winding number: n_carbon
 
 
 Wait for substrate word clock tick.
+
 Both materials in liquid phase (1-tick buffer).
+
 Apply femtosecond pulse simultaneously to both.
+
 Energy: 2π/N per bubble (phase-lock energy).
 
 **Result:**
 
 
 Both atoms forced to same integer address k_shared.
+
 Both snap to k_shared at same instant.
+
 Winding numbers become continuous.
+
 Interface becomes topologically welded.
 
 ### 3.3 The Mechanism
@@ -291,14 +343,18 @@ Interface becomes topologically welded.
 **Step 1: Synchronization**
 ```
 Monitor 2.0625 Hz substrate carrier (66th harmonic)
+
 Detect 1/32 Hz word boundary approaching
+
 Prepare snap pulse
 ```
 
 **Step 2: Liquid Phase**
 ```
 Both materials in 1-tick undo buffer
+
 Addresses temporarily undefined
+
 Winding numbers fluid
 ```
 
