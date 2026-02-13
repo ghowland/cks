@@ -107,7 +107,9 @@ Refined calculation with topology:
 τ = 0.500 ± 0.001 seconds (measured)
 
 This is: Universal clock
+
         Substrate heartbeat
+
         Observable everywhere simultaneously
 ```
 
@@ -115,14 +117,19 @@ This is: Universal clock
 
 ```
 Problem: Standard electronics ignore substrate frequency
+
         - GPS: 1575.42 MHz (carrier)
+
         - NTP: ~10 ms accuracy (insufficient)
+
         - Cesium clocks: 9.19 GHz (hyperfine, not substrate)
 
 None synchronized to: 2.0 Hz fundamental
 
 Result: Infrastructure "blind" to substrate
+
        Cannot detect k-space coherence
+
        Missing primary signal
 ```
 
@@ -132,14 +139,19 @@ Result: Infrastructure "blind" to substrate
 
 ```
 Optical fiber: Silica glass waveguide
+
               Transmits light via total internal reflection
               
 Length: Global network ~1.3 × 10⁹ m (1.3 million km)
+
        Submarine cables: ~1.4 million km
+
        Terrestrial: ~5 million km
+
        Total: ~6.4 million km installed
 
 Density: Average 1 fiber per 10 m² on Earth's surface
+
         Forms natural grid for k-space sampling
 ```
 
@@ -150,18 +162,23 @@ Fiber properties that couple to substrate:
 
 
 1. Material: SiO₂ has coherence C_silica ≈ 0.95
+
             High enough to couple to substrate
 
 2. Length: km-scale fibers span multiple k-modes
+
           Can detect ∇θ over distance
 
 3. Strain: Fiber stretches/compresses with substrate phase
+
           Δl/l ≈ 10⁻¹⁸ (at 2 Hz, from substrate oscillation)
 
 4. Refractive index: n = f(θ_substrate)
+
                     Changes with local phase
                     
 5. Light propagation: Photons couple to ∇θ
+
                      Phase velocity modulated by substrate
 ```
 
@@ -169,10 +186,13 @@ Fiber properties that couple to substrate:
 
 ```
 DWDM transponder: Converts electrical → optical
+
                  Multiple wavelengths per fiber
+
                  λ₁, λ₂, ..., λ_n (typically 40-96 channels)
 
 Each channel: Independent carrier
+
              Can be individually phase-locked
 
 Advantages:
@@ -189,7 +209,9 @@ Advantages:
 - Redundant paths (internet backbone)
 
 Upgrading: Firmware only (no hardware replacement)
+
           Minimal cost (~$0.50 per transponder)
+
           Massive deployment via software update
 ```
 
@@ -229,16 +251,21 @@ New capabilities:
 
 ```
 Number of transponders: ~10⁶ globally
+
                        (Major hubs: ~10³ transponders each)
 
 Sampling density: 1 node per ~10⁴ km²
+
                  Sufficient for k_max ≈ 10⁻⁵ m⁻¹
 
 Coherence achievable: C_global = 1 - 1/(2√(10⁶/3))
+
                      ≈ 0.999999
 
 This exceeds: Consciousness threshold (0.999)
+
             Entire network becomes coherent entity
+
             Planet-scale "mind" emerges
 ```
 
@@ -267,6 +294,7 @@ Implementation:
 5. Output: θ_substrate(t) synchronized to local substrate phase
 
 Hardware: Existing photodetector + DSP (already present)
+
 Software: New firmware module (~10 KB)
 ```
 
@@ -288,6 +316,7 @@ f = n × 2.0 Hz for n ≠ 1:
 Method: Adaptive notch filters at harmonic frequencies
 
 Purpose: Ensure lock to fundamental only
+
         Avoid aliasing from environmental noise
 ```
 
@@ -303,6 +332,7 @@ For -40°C to +85°C range:
 Δf < 0.00025 Hz (acceptable)
 
 Implementation: Temperature-compensated oscillator (TCXO)
+
               (Already present in commercial transponders)
 ```
 
@@ -314,16 +344,21 @@ Implementation: Temperature-compensated oscillator (TCXO)
 Transponder shall measure substrate phase θ_substrate(t) with:
 
 Resolution: 0.001 radians (0.057°)
+
 Accuracy: ±0.01 radians (±0.57°) absolute
+
 Rate: 1 kHz sampling (Nyquist for 2 Hz signal)
 
 Output format:
 
 θ(t) ∈ [0, 2π) (wrapped phase)
+
 Timestamp: UTC with <1 ms uncertainty
 
 Storage: Ring buffer, 1 hour depth
+
         → 3.6 × 10⁶ samples × 8 bytes = 29 MB
+
         (Trivial for modern transponders)
 ```
 
@@ -352,6 +387,7 @@ Method: Distributed consensus algorithm
 5. Repeat at 1 Hz (slow compared to 2 Hz substrate)
 
 Convergence: <10 iterations (~10 seconds to global lock)
+
 Maintenance: Continuous background process
 ```
 
@@ -364,6 +400,7 @@ Transponder shall compute and report local coherence:
 C_local = |⟨e^{iθ_substrate(t)}⟩| (time-averaged)
 
 Over: 1 second window (2 substrate cycles)
+
 Report: Every 10 seconds to central registry
 
 Aggregation:
@@ -391,11 +428,15 @@ Substrate sensing shall NOT interfere with data transmission:
 
 
 Data throughput: Unchanged (40 Gbps per channel typical)
+
 Latency: +0 (zero added delay)
+
 Bit error rate: Unchanged (<10⁻¹⁵)
 
 Method: Substrate detection runs on separate DSP core
+
        Uses <5% of transponder CPU
+
        No impact on data path
 ```
 
@@ -413,18 +454,25 @@ Channel allocation:
 - Secondary: Substrate metadata (new, optional)
 
 Format: Out-of-band signaling
+
        λ_substrate = 1310 nm (unused in C-band DWDM)
+
        Bandwidth: 10 Mbps (sufficient for θ, C updates)
 
 Encoding:
 
 θ(t): 32-bit float (4 bytes)
+
 C_local: 16-bit float (2 bytes)
+
 Timestamp: 64-bit UTC (8 bytes)
+
 Total: 14 bytes per update
 
 At 1 Hz update rate: 14 bytes/s × 10⁶ transponders
+
                    = 14 MB/s globally
+
                    (Trivial for backbone capacity)
 ```
 
@@ -435,15 +483,19 @@ Transponder may support phase-shift keying (PSK) on substrate:
 
 
 Modulation: Shift θ_substrate by δθ = ±π/4
+
            Encode binary: +π/4 = 1, -π/4 = 0
 
 Rate: 1 bps (limited by 2 Hz substrate)
+
      But: Globally coherent (all nodes receive)
      
 Use case: Broadcast messages via substrate itself
+
          Emergency alerts, time sync, etc.
          
 Security: Requires substrate-level access (difficult to spoof)
+
          Inherently authenticated by coherence
 ```
 
@@ -481,6 +533,7 @@ Gravitational wave signature:
 Measurement:
 
 Compare: φ_measured(t) vs. φ_substrate(t)
+
 Residual: Δφ_GW = φ_measured - φ_substrate
 
 If |Δφ_GW| > threshold (5σ): Report event
@@ -517,6 +570,7 @@ Applications:
 - Track celestial events (solar flares affect C_Earth)
 
 Spatial resolution: ~100 km (limited by node spacing)
+
 Temporal resolution: 1 second (limited by update rate)
 ```
 
@@ -533,38 +587,70 @@ Temporal resolution: 1 second (limited by update rate)
 // Pseudocode for substrate frequency detection
 
 typedef struct {
+
     float frequency;      // Detected fundamental (Hz)
+
     float phase;          // Current substrate phase (radians)
+
     float coherence;      // Local coherence measure
+
     uint64_t timestamp;   // UTC time (nanoseconds)
+
 } SubstrateState;
 
+
+
 SubstrateState detect_substrate(float* optical_samples, int n_samples) {
+
     // 1. FFT to frequency domain
+
     complex_t* spectrum = fft(optical_samples, n_samples);
-    
+
+
+
     // 2. Bandpass filter around 2.0 Hz
+
     complex_t* filtered = bandpass_filter(spectrum, 1.8, 2.2);
-    
+
+
+
     // 3. Find peak (should be at 2.0 Hz)
+
     int peak_idx = find_peak(filtered);
+
     float f0 = peak_idx * sample_rate / n_samples;
-    
+
+
+
     // 4. Phase-locked loop
+
     float theta = pll_lock(filtered, f0);
-    
+
+
+
     // 5. Compute coherence
+
     float C = compute_coherence(optical_samples, theta);
-    
+
+
+
     // 6. Package result
+
     SubstrateState state = {
+
         .frequency = f0,
+
         .phase = theta,
+
         .coherence = C,
+
         .timestamp = get_utc_nanoseconds()
+
     };
     
+
     return state;
+
 }
 ```
 
@@ -575,38 +661,65 @@ SubstrateState detect_substrate(float* optical_samples, int n_samples) {
 // Distributed consensus for phase alignment
 
 typedef struct {
+
     uint32_t node_id;
+
     float phase;
+
     float coherence;
+
     uint64_t timestamp;
+
 } PhaseUpdate;
 
+
+
 void synchronize_global_phase() {
+
     // 1. Get local measurement
+
     SubstrateState local = detect_substrate(...);
-    
+
+
     // 2. Broadcast to neighbors
+
     PhaseUpdate update = {
+
         .node_id = MY_NODE_ID,
+
         .phase = local.phase,
+
         .coherence = local.coherence,
+
         .timestamp = local.timestamp
+
     };
+
     broadcast_to_neighbors(update);
     
     // 3. Receive neighbor updates
+
     PhaseUpdate neighbors[MAX_NEIGHBORS];
+
     int n_neighbors = receive_neighbor_updates(neighbors);
-    
+
+
     // 4. Compute consensus phase
+
     float theta_consensus = median_phase(neighbors, n_neighbors);
-    
+
+
     // 5. Adjust local VCO
+
     float delta_theta = theta_consensus - local.phase;
+
     adjust_vco(delta_theta);
-    
+
+
     // 6. Update local state
+
     GLOBAL_PHASE = theta_consensus;
+
 }
 ```
 
@@ -620,18 +733,24 @@ float compute_coherence(float* phases, int n_samples) {
     // Order parameter: r = |⟨e^{iθ}⟩|
     
     float sum_cos = 0.0;
+
     float sum_sin = 0.0;
-    
+
     for (int i = 0; i < n_samples; i++) {
+
         sum_cos += cosf(phases[i]);
+
         sum_sin += sinf(phases[i]);
+
     }
-    
+
     float avg_cos = sum_cos / n_samples;
+
     float avg_sin = sum_sin / n_samples;
-    
+
     float r = sqrtf(avg_cos*avg_cos + avg_sin*avg_sin);
-    
+
+
     return r;  // Coherence ∈ [0, 1]
 }
 
