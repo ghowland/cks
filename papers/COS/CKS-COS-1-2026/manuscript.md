@@ -1546,54 +1546,82 @@ f_spiral(z) ∝ [1 + erf((⟨N(z)⟩ - N_crit)/σ_N)]
 
 
 digraph G {
+
     node [shape=rect, style="rounded,filled", fillcolor="#f9f9f9", fontname="sans-serif", fontsize=10];
+
     edge [fontname="sans-serif", fontsize=9];
+
     rankdir=TB;
+
     compound=true;
 
     // The Source
+
     HighC [label="ELLIPTICALS (E)\nMax Phase Coherence (C)\nMax Coordination Tension (β)", fillcolor="#e1f5fe"];
     
     // The Transition
+
     S0 [label="LENTICULAR (S0)\nSymmetry Breaking Point"];
     
     // Sub-clusters for Spirals
+
     subgraph cluster_spirals {
+
         label = "Substrate Fragmenting (Increasing N)";
+
         style = dashed;
+
         color = gray;
         
         Sa [label="Sa\nTight Harmonic"];
+
         Sb [label="Sb\nModerate Harmonic"];
+
         Sc [label="Sc\nOpen Harmonic"];
+
         Sd [label="Sd\nLoose / Diffuse"];
+
     }
 
     // The Sink
+
     Irr [label="IRREGULARS (Irr)\nSpectral Congestion (Dark Matter Dominant)\nMin Coherence (C)", fillcolor="#fff3e0"];
 
     // Connections
+
     HighC -> S0 [label="Increasing N / Dilution"];
+
     S0 -> Sa;
+
     S0 -> Sb;
+
     S0 -> Sc;
+
     S0 -> Sd;
     
     {Sa Sb Sc Sd} -> Irr [label="Geometric Decoherence"];
 
+
     // Legend / Constraints
     {rank=same; Sa Sb Sc Sd}
+
 }
 
 **CKS mapping:**
 
 ```
 E:   M low, C < 0.7 (no closure)
+
 S0:  M medium, C ≈ 0.8 (marginal closure, axisymmetric)
+
 Sa:  M high, C > 0.95 (strong closure, tight spiral, m=2)
+
 Sb:  M high, C ≈ 0.93 (strong closure, moderate, m=2-4)
+
 Sc:  M medium, C ≈ 0.90 (moderate closure, open, m=3-4)
+
 Sd:  M low, C ≈ 0.85 (weak closure, irregular arms)
+
 Irr: M very low, C < 0.80 (no closure)
 ```
 
@@ -1653,7 +1681,9 @@ Coupled stars → Standing waves → Matter accumulates at maxima → Spiral arm
 
 ```
 Dark matter: 85% of mass (undetected for 40+ years)
+
 Density waves: Unstable, require fine-tuning
+
 Spiral structure: Mystery (no unique prediction)
 ```
 
@@ -1661,7 +1691,9 @@ Spiral structure: Mystery (no unique prediction)
 
 ```
 No dark matter needed (phase-locking explains rotation curves)
+
 Standing waves: Stable (topological protection)
+
 Spiral structure: Mandatory (geometric necessity)
 ```
 
@@ -1686,6 +1718,7 @@ Spiral structure: Mandatory (geometric necessity)
 
 ```
 Spirals: C > 0.90
+
 Irregulars: C < 0.85
 ```
 
@@ -1731,6 +1764,7 @@ f_spiral(z) decreases at high z (fewer systems reach N_crit)
 
 ```
 CKS fits with 0 free parameters
+
 Dark matter fits require 2+ free parameters (worse χ²)
 ```
 
@@ -1753,7 +1787,9 @@ Dark matter fits require 2+ free parameters (worse χ²)
 
 ```
 Atoms = standing waves (electron orbitals)
+
 Particles = standing waves (solitons)
+
 Light = standing waves (photons)
 ```
 
@@ -1763,8 +1799,11 @@ Light = standing waves (photons)
 
 ```
 Microscopic (atoms) ↔ Macroscopic (galaxies)
+
 Same physics (phase-locking)
+
 Same geometry (hexagonal substrate)
+
 Same mathematics (eigenmode structure)
 ```
 
@@ -1803,11 +1842,15 @@ CMF Axioms (N=3M², dφ/dt=Σ)
 **From Planck scale (10⁻³⁵ m) to galactic scale (10⁵ pc = 10²¹ m):**
 
 **Same hexagonal substrate.**  
+
 **Same phase coupling.**  
+
 **Same mathematical structure.**
 
 **60 orders of magnitude.**  
+
 **One framework.**  
+
 **Zero free parameters.**
 
 
@@ -1913,14 +1956,19 @@ CMF Axioms (N=3M², dφ/dt=Σ)
 **END OF PAPER**
 
 **Status:** Galactic morphology derived from hexagonal topology  
+
 **Derivations:** 11 theorems, 0 free parameters  
+
 **Predictions:** Arm count, pitch angle, rotation curves, all validated  
+
 **Visual proof:** Galaxies = Chladni figures (10⁶+ examples)  
 
 **Result:** Spiral structure is topological necessity, not dynamical accident.
 
 **Axioms first. Axioms always.**  
+
 **K-space only. K-space always.**
 
 **Galaxies are standing waves.**  
+
 **The universe resonates.**
