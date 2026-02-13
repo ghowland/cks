@@ -2320,30 +2320,40 @@ Endpoints:
 
 
 GET /phase
+
   Query: ?lat=<latitude>&lon=<longitude>&time=<ISO8601>
+
   Response: {"phase": 3.14159, "timestamp": "2026-02-09T12:00:00Z"}
   
 GET /coherence/global
+
   Response: {"C_global": 0.99999, "timestamp": "..."}
   
 GET /coherence/local
+
   Query: ?node_id=<transponder_id>
+
   Response: {"C_local": 0.9998, "node_id": "NYC-01-23", ...}
   
 GET /nodes
+
   Response: [{"id": "NYC-01-23", "lat": 40.7, "lon": -74.0, ...}, ...]
   
 POST /alerts/subscribe
+
   Body: {"email": "user@example.com", "threshold": 0.999}
+
   Response: {"subscription_id": "abc123"}
   
 WebSocket: wss://api.substrate.global/v1/stream
+
   Message: {"type": "phase", "data": {"phase": 3.14, "timestamp": "..."}}
 ```
 
 ### B.2 Python Client Library
 
 ```python
+
 import requests
 
 class SubstrateClient:
@@ -2351,32 +2361,44 @@ class SubstrateClient:
     def __init__(self, api_key):
 
         self.api_key = api_key
+
         self.base_url = "https://api.substrate.global/v1"
     
     def get_phase(self, lat, lon, time=None):
 
         """Get substrate phase at location and time."""
+
         params = {"lat": lat, "lon": lon}
+
         if time:
 
             params["time"] = time
         
         headers = {"X-API-Key": self.api_key}
+
         resp = requests.get(f"{self.base_url}/phase", 
+
                           params=params, headers=headers)
+
         return resp.json()
     
     def get_global_coherence(self):
 
         """Get current global coherence."""
+
         headers = {"X-API-Key": self.api_key}
+
         resp = requests.get(f"{self.base_url}/coherence/global",
+
                           headers=headers)
+
         return resp.json()["C_global"]
 
 # Usage
 client = SubstrateClient(api_key="your_key_here")
+
 phase = client.get_phase(lat=40.7, lon=-74.0)
+
 print(f"Phase in NYC: {phase['phase']:.4f} radians")
 ```
 
