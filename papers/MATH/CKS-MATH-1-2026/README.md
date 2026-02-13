@@ -127,15 +127,6 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 
 ---
 
-## Experimental Predictions
-
----
-
-## Industrial Application: 0
-[To be extracted from manuscript.md]
-
----
-
 ## Citation
 If you use this work in a pedagogical or research context, please cite:
 
