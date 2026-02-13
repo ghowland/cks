@@ -1,4 +1,5 @@
-# Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+# Fractal Closure Scaling Laws
+## N = 3M² as Universal Topological Regulator
 ## Scale-Invariant Closure; Fractal Self-Similarity of Physical Law
 
 **Registry:** [@CKS-MATH-3-2026]  

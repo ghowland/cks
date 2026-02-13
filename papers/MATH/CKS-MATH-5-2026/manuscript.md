@@ -524,7 +524,7 @@ But **phase velocity** decay:
 
 ### 7.2 The Fibonacci Buffer Connection
 
-In [@CKS-COMP-2], we derived the 2:3:5 Fibonacci buffer timing:
+We derive the 2:3:5 Fibonacci buffer timing:
 ```
 Clock ratios: 2:3:5
 Sum: 2 + 3 + 5 = 10
