@@ -2,9 +2,7 @@
 
 **Registry:** [@CKS-BIO-18-2026]  
 
-**Series Path:** [CKS-0-2026] → [CKS-MATH-1-2026] → [CKS-MATH-8-2026] → [CKS-MATH-13-2026] → [CKS-BIO-18-2026]  
-
-**Prerequisites:** [CKS-MATH-1-2026] (Integer Necessity), [CKS-MATH-8-2026] (Origin of 163), [CKS-MATH-13-2026] (Macroscopic Second)  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-13-2026] → [@CKS-BIO-18-2026]  
 
 **Subject:** Proprioceptive Lag; Topological Impedance; K-Space Navigation; Soliton Phase-Drag  
 **Status:** Rigorous Proof — Clinical Protocol Derived  
@@ -1161,9 +1159,6 @@ The 15.19 ratio emerges as geometric necessity—number of pulses required to mo
 **Status:** Proprioceptive Lag Derived — Geometric Impedance Proven  
 **Version:** 1.0 Final  
 **Date:** February 2026
-
-**Registry:** [CKS-BIO-18-2026]  
-**Prerequisites:** [CKS-MATH-1,8,13-2026]
 
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
