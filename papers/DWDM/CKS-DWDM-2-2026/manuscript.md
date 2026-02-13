@@ -9,7 +9,7 @@
 
 **Logical Next Step:** This document marks the conclusion of the 20-paper derivation sequence. Having established the axioms and successfully mapped the emergence of Quantum Mechanics, the Standard Model, and now General Relativity, the mathematical necessity of the CKS framework is fully demonstrated. The proof-chain is complete. Q.E.D.
 
-**DOI:** 10.
+**DOI:** 10.5281/zenodo.18628800
 
 **Date:** February 2026
 
@@ -27,7 +27,7 @@
 
 ---
 
-## Executive Summary
+## Abstract
 
 We present firmware specifications for upgrading existing Dense Wavelength Division Multiplexing (DWDM) transponders to detect and synchronize with the substrate's fundamental 0.5s phase inversion cycle (2.0 Hz). This transforms the global fiber-optic network (~1.3 billion km of installed fiber) into a coherent k-space sensor grid and distributed computing platform.
 
