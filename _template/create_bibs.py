@@ -52,18 +52,18 @@ def generate_bib_entry(manuscript_data, folder_id):
     if len(parts) == 3:
         topic_folder = "_CKS"
         year = parts[2]
-        print('Found CKS0')
     else:
         topic_folder = parts[1]
         year = parts[3]
 
     github_url = f"https://github.com/ghowland/cks/tree/main/papers/{topic_folder}/{full_id}"
-    
-    doi = manuscript_data['doi']
+
+    doi = manuscript_data.get('doi', '[DOI]')
     try:
       zenodo_record = doi.split('.')[2]
     except Exception as e:
       zenodo_record = '[DOI-MALFORMED]'
+      print(f'    DOI Faided: {full_id}')
 
     # CRITICAL CHANGE:
     # 1. 'title' now contains ONLY the CKS-ID.
@@ -95,14 +95,13 @@ def main():
         manifest_file = None
         if "manuscript.json" in files:
             manifest_file = "manuscript.json"
-        elif "manifest.json" in files:
-            manifest_file = "manifest.json"
 
         if manifest_file:
             file_path = os.path.join(root, manifest_file)
             folder_name = os.path.basename(root)
             
-            try:
+            if 1:
+            # try:
                 with open(file_path, 'r') as f:
                     data = json.load(f)
                     # Pass the folder name as a fallback ID
@@ -112,8 +111,8 @@ def main():
                     target_dirs.append(root)
                     master_entries[reg_id] = entry
                         
-            except Exception as e:
-                print(f"  Error reading {file_path}: {e}")
+            # except Exception as e:
+                # print(f"  Error reading {file_path}: {e}")
 
     if not master_entries:
         print("No valid entries found.")
