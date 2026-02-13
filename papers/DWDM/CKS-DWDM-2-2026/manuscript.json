@@ -1,0 +1,10 @@
+{
+    "file_name": "manuscript.md",
+    "title": "CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-14-2026] \u2192 [@CKS-QM-1-2026] \u2192 [@CKS-DWDM-1-2026] \u2192 [@CKS-DWDM-2-2026]",
+    "doi": "10.",
+    "abstract": "",
+    "dependencies": [],
+    "raw_content_preview": "# CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware ## Global Synchronization via Telecommunications Infrastructure  **Registry:** [@CKS-DWDM-2-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@..."
+}
