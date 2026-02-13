@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We present the first derivation of π from pure topological axioms. Rather than defining π through Euclidean geometry (circle circumference/diameter) or infinite series, we prove that π = 3.14159265358979... is the **unique phase-closure constant** required for a 12-bond hexagonal loop to complete a perfect 2π phase rotation without topological seam. Starting from Axiom 1 (N = 3M², z = 3 coordination) and Axiom 2 (β = 2π phase tension), we demonstrate that π is forced by three independent requirements: (1) 12-bond minimal stable closure (electron at M=2), (2) 120° hexagonal junction angles requiring 360° total rotation, and (3) zero geometric frustration at sector boundaries. The derivation proceeds through discrete angular analysis, showing that any value π ± ε causes either incomplete phase return (creating disconnected 12th node) or sector overlap (catastrophic frustration). We prove π is the unique impedance match between 12 discrete steps and continuous S¹ rotation, completing the CKS constant trinity (π, e, √3). This eliminates π as a free parameter, demonstrating that "the most mysterious number in mathematics" is actually a **mechanical tolerance specification** of hexagonal substrate closure.
 
 **Key Result:** π = (12-bond perimeter)/(effective phase diameter) = unique value permitting seamless 2π phase-flip on z=3 lattice
+
 ---
 
 ## Substrate Mechanics (Series Context)

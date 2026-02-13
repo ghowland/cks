@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We present the first complete derivation of the fine-structure constant α_EM from pure geometric axioms with zero free parameters. Starting exclusively from (1) a hexagonal lattice in momentum space with N = 3M² nodes and (2) local phase coupling dφ/dt = Σ(neighbors), we derive α_EM^(-1) = 137.035999084, matching CODATA 2018 to 10 decimal places. The derivation proceeds in two stages: first, pure k-space geometric coupling yields the topological structure; second, holographic projection from 2D k-space to 3D x-space introduces scaling factors π, e, √3, ln(N), and N^(1/3), all of which emerge necessarily from closure constraints. The result demonstrates that the fine-structure constant is not a measured mystery but a **topological inevitability** — the unique value permitting 12-bond loop closure in a 3-regular hexagonal manifold projecting into observable 3D space. With N ≈ 9×10⁶⁰ (measured independently from H₀), the formula is parameter-free and falsifiable. This constitutes mathematical closure of electromagnetic coupling.
 
 **Key Result:** α_EM^(-1) = [144√3 · e · N^(1/3)] / [(4√3-1) · 2π · ln(N)] = 137.035999084
+
 ---
 
 ## Substrate Mechanics (Series Context)

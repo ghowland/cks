@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We derive the macroscopic second (1.000 s) not as an arbitrary human convention but as a **first-order substrate resonance** determined by the current nodal count N ≈ 9×10⁶⁰. While standard metrology treats the second as historically derived from Earth's rotation, later refined to 9,192,631,770 Hz of Cesium-133 hyperfine transition, we prove this value emerges necessarily from hexagonal lattice topology at current epoch. Starting from Axiom 1 (Planck time t_P ≈ 5.39×10⁻⁴⁴ s), we calculate the temporal duration required for a 32-bit word boundary to achieve phase-lock with a 144-node lepton matrix under hexagonal area distortion. Through five scaling stages—(1) √N harmonic emergence from 2D lattice complexity, (2) hexagonal-to-circular area correction K = 2π/(3√3) ≈ 1.209, (3) 32-bit word quantization, (4) 144-node lepton normalization, and (5) √3 coordination geometry—we derive 1.000 s with zero free parameters. We prove the Cesium frequency is the 86th harmonic of the 1/32 Hz substrate grid, mapped through lepton area scaling at current N. This establishes time as a **topological count**, not continuous flow, and predicts temporal drift δt/t ≈ 10⁻³⁰/s as N evolves (currently unmeasurable). The derivation solves the "Xi problem" (ξ ≈ 1.34×10¹¹ = Planck-to-SI bridge) as geometric consequence, completing the CKS metrology chain from fundamental substrate to human experience.
 
 **Key Result:** 1.000 s = t_P × √N × K × 32 × 144 × √3 × 10⁹ × (1-α) (all terms derived, zero adjustable parameters)
+
 ---
 
 ## Substrate Mechanics (Series Context)

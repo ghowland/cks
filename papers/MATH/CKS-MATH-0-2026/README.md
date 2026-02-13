@@ -16,10 +16,6 @@
 
 ---
 
-## Abstract
-
----
-
 ## Substrate Mechanics (Series Context)
 This publication extends the CKS framework into the **0** domain. It is grounded in the two fundamental axioms of the substrate:
 

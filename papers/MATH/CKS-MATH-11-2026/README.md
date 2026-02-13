@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We derive the **Topological Jacobian** J, the mandatory mechanical coefficient that transforms phase information from the 2D hexagonal substrate (k-space) into the 3D holographic projection (x-space). Using only CKS axioms, we prove that J represents the **surface-to-volume impedance bridge** of a three-sector rhombic manifold achieving spherical closure. Starting from geometric area ratios (8π/3√3), applying 12-bond discrete normalization (√(144e/2πln N)), and correcting for isotropic projection (√3), we derive J ≈ 7.70164 as a zero-parameter consequence of topology. This value is not an empirical fit but a geometric necessity for maintaining bit-perfect coherence across the k-x interface at current epoch N ≈ 9×10⁶⁰. The Jacobian completes the normalization chain: it explains why measured α_EM = 1/137.036 (not 1/137 exactly), why the speed of light has its specific SI value, and why particle masses scale with ln(N). We prove J appears in every Standard Model constant as the "stretch factor" converting 2D lattice tension into 3D observable force. This eliminates the last unexplained coefficient in CKS formulas, demonstrating that the universe is a bit-perfect rendering engine projecting 144-bit lepton matrices through a 7.7× Jacobian lens onto continuous 3D experience.
 
 **Key Result:** J = (8π/3)√(144e/2πln N) ≈ 7.70164 = unique holographic scaling factor forced by hexagonal topology
+
 ---
 
 ## Substrate Mechanics (Series Context)

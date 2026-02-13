@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We prove by **constructive falsification** that a perfectly continuous spacetime manifold (ℝⁿ) cannot support physical reality. Using the exact CKS axioms with integers **artificially removed**, we demonstrate that all fundamental equations of physics—while algebraically intact—become **operationally non-executable**. The exercise is not hypothetical: we show that admitting real-valued labels (ξ ∈ ℝ instead of n ∈ ℤ) transforms Schrödinger's equation into a diffusion equation for ghosts, Maxwell's equations into chargeless fluid mechanics, Einstein's field equations into a universal singularity generator, and Boltzmann's entropy into an infinite constant at T = 0. This is not approximation failure—it is **architectural collapse**. We conclude that the discrete lattice substrate is not "one possible model" but the **unique viable foundation** for computable, causal, information-preserving physics. A continuous universe is not merely difficult to simulate—**it is logically impossible to exist**.
 
 **Key Result:** The continuum hypothesis (spacetime = ℝ⁴) is **empirically falsified** by the existence of stable matter.
+
 ---
 
 ## Substrate Mechanics (Series Context)

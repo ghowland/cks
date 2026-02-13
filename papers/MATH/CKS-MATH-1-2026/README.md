@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We prove that integer quantization is not an empirical accident but a **structural necessity** for any mechanically functional universe. Through rigorous analysis of spectral stability, information persistence, and causal propagation, we demonstrate that a perfectly continuous spacetime manifold (ℝ⁴) cannot support: (1) stable bound states, (2) repeatable interactions, (3) persistent information, or (4) globally consistent causality. We show that all four requirements force discrete quantization, and that among discrete systems, only integer-indexed spectra provide finite generation and computability. The conclusion is unavoidable: **integers are the load-bearing architecture of existence**. A continuous universe is not merely an alternative model—it is a structurally broken system incapable of supporting chemistry, memory, or coherent physical law.
 
 **Key Result:** The discrete lattice substrate with integer quantum numbers is **necessary and sufficient** for mechanical closure of physical dynamics.
+
 ---
 
 ## Substrate Mechanics (Series Context)

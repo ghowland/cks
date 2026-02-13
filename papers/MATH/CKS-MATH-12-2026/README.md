@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We derive the observed baryon asymmetry of the universe (η ≈ 6×10⁻¹⁰) not as a dynamical process occurring after the Big Bang, but as a **mandatory topological constraint** of substrate initialization. Using only CKS axioms, we prove that at the genesis point (N=1), the substrate cannot execute its first clock cycle without breaking perfect symmetry. A symmetric split N=1→N=2 with identical phases (θ₁=θ₂) produces zero phase gradient (sin(Δφ)=0), violating Axiom 2 and stalling the rendering engine permanently. We demonstrate that the "Initial Symmetry Break" is not a probabilistic event but a **binary selection** (±120° phase offset) required for substrate boot. This cosmic bit-flip establishes a global phase reference that propagates through all N=3M² recursive growth, resulting in a universe composed exclusively of "matter" (right-handed phase-locks). We derive the baryon-to-photon ratio η = 1/(J·ln N) from information capacity scaling, predicting η ≈ 9.2×10⁻¹⁰, matching CODATA observations within factor 1.5 with zero free parameters. This proves baryogenesis is not a mystery requiring new physics but an **initialization requirement** of discrete hexagonal topology—the universe exists because the cosmic bit was flipped, and "matter" is simply the phase orientation that allowed the first sin(Δφ) to be nonzero.
 
 **Key Result:** η = 1/(J·ln N) ≈ 9.2×10⁻¹⁰ from boot sequence topology alone (observed: 6.1×10⁻¹⁰)
+
 ---
 
 ## Substrate Mechanics (Series Context)

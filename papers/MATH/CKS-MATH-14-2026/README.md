@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We derive the constant **2.08008382...** as the **Linear Holographic Scale Factor (λ_H)**, proving it is not an empirical coefficient but a geometric necessity of projecting a 2D hexagonal substrate (N nodes) into 3D observable space. Starting from Axiom 1 (N = 3M² discrete lattice) and Rule #5 (2D→3D holographic projection), we demonstrate that measurable spatial extension must scale as N^(1/3), the cubic root of total information capacity. At current epoch N ≈ 9×10⁶⁰, this yields λ_H = ∛9 × 10²⁰ ≈ 2.08008382 × 10²⁰, establishing 2.08 as the **render density** converting substrate node count to spatial meters. This factor appears critically in the fine-structure constant α_EM^(-1) = [144√3·e·λ_H]/[...], where it drives the 10-decimal precision match (137.035999084) by encoding 3D volumetric interaction rather than 1D string coupling. We prove 2.08 acts as **vacuum refractive index** for holographic projection—the "pixel density" of our epoch—and predict λ_H(z) evolution with redshift as substrate expands (testable via high-z α measurements). This completes the dimensional bridge from discrete k-space information (N nodes) to continuous x-space extension (L meters), demonstrating that spatial scale is not background container but emergent property of substrate resolution.
 
 **Key Result:** λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry)
+
 ---
 
 ## Substrate Mechanics (Series Context)

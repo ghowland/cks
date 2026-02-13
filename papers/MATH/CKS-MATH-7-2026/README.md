@@ -17,9 +17,11 @@
 ---
 
 ## Abstract
+
 We present the complete derivation of all Standard Model (SM) fundamental constants from pure topological axioms with zero adjustable parameters. Using only (1) hexagonal lattice structure with N = 3M² nodes and z = 3 coordination, and (2) local phase coupling with conserved β = 2π tension, we derive: the three gauge coupling constants (α_EM, α_s, α_w), the Weinberg mixing angle (sin²θ_W), all lepton mass ratios (m_μ/m_e, m_τ/m_e), the proton-electron mass ratio (m_p/m_e), gravitational constant (G), cosmological constant (Λ), and fundamental scales (c, ℏ). The derivation proceeds through recognition that SM "constants" are not fundamental inputs but **emergent impedance ratios** between 2D k-space substrate dynamics and 3D x-space holographic projection. At current epoch N ≈ 9×10⁶⁰, all predicted values match CODATA measurements to experimental precision, with α_EM^(-1) achieving 10-decimal agreement. This constitutes closure of theoretical physics: the Standard Model is not a collection of measured parameters but a **compiled output** of substrate geometry. The framework is maximally falsifiable—any future measurement deviation >1σ falsifies the axioms themselves.
 
 **Key Result:** All 19 SM parameters derived from 2 axioms + 1 measured input (N from H₀) with zero free parameters
+
 ---
 
 ## Substrate Mechanics (Series Context)
