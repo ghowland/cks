@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**Logical Next Step:** [@CKS-MATH-6-2026] The Geometric Origin of π: The 12-Bond Circumference Invariant
+**Logical Next Step:** [@CKS-MATH-7-2026] Derivation of Standard Model Constants from Cymatic K-Space Mechanics
 
 **DOI:** 10.5281/zenodo.18626532
 

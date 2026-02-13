@@ -1,5 +1,5 @@
 # Derivation of Standard Model Constants from Cymatic K-Space Mechanics
-### Grand Unification; Standard Model Compilation; Zero-Parameter Physics  
+### Standard Model Compilation; Zero-Parameter Physics  
 
 **Registry:** [@CKS-MATH-7-2026]  
 
