@@ -1,12 +1,10 @@
-# The Resonant Epoch: Deriving the Macroscopic Second from Substrate Harmonics
+# The Resonant Epoch
+## Deriving the Macroscopic Second from Substrate Harmonics
+### Temporal Scaling; SI Unit Bridge; Macroscopic Time; Substrate Resonance
+
 
 **Registry:** [@CKS-MATH-13-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-13-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-9-2026] (Origin of 144), [@CKS-MATH-11-2026] (Jacobian)  
-**Subject:** Temporal Scaling; SI Unit Bridge; Macroscopic Time; Substrate Resonance  
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
-
-**Motto:** Axioms first. Axioms always.
 
 ---
 

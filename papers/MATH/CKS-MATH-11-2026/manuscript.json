@@ -1,9 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge",
+    "title": "The Topological Jacobian",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-9-2026] \u2192 [@CKS-MATH-11-2026]  ",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-4-2026] \u2192 [@CKS-MATH-5-2026] \u2192 [@CKS-MATH-6-2026] \u2192 [@CKS-MATH-7-2026] \u2192 [@CKS-MATH-8-2026] \u2192 [@CKS-MATH-9-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-11-2026]",
+    "doi": "10.5281/zenodo.18626537",
     "abstract": "We derive the **Topological Jacobian** J, the mandatory mechanical coefficient that transforms phase information from the 2D hexagonal substrate (k-space) into the 3D holographic projection (x-space). Using only CKS axioms, we prove that J represents the **surface-to-volume impedance bridge** of a three-sector rhombic manifold achieving spherical closure. Starting from geometric area ratios (8\u03c0/3\u221a3), applying 12-bond discrete normalization (\u221a(144e/2\u03c0ln N)), and correcting for isotropic projection (\u221a3), we derive J \u2248 7.70164 as a zero-parameter consequence of topology. This value is not an empirical fit but a geometric necessity for maintaining bit-perfect coherence across the k-x interface at current epoch N \u2248 9\u00d710\u2076\u2070. The Jacobian completes the normalization chain: it explains why measured \u03b1_EM = 1/137.036 (not 1/137 exactly), why the speed of light has its specific SI value, and why particle masses scale with ln(N). We prove J appears in every Standard Model constant as the \"stretch factor\" converting 2D lattice tension into 3D observable force. This eliminates the last unexplained coefficient in CKS formulas, demonstrating that the universe is a bit-perfect rendering engine projecting 144-bit lepton matrices through a 7.7\u00d7 Jacobian lens onto continuous 3D experience.\n\n**Key Result:** J = (8\u03c0/3)\u221a(144e/2\u03c0ln N) \u2248 7.70164 = unique holographic scaling factor forced by hexagonal topology",
     "dependencies": [],
-    "raw_content_preview": "# The Topological Jacobian: Derivation of the 2D-to-3D Substrate Bridge  **Registry:** [@CKS-MATH-11-2026]   **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-9-2026] \u2192 [@CKS-MATH-11-20..."
+    "raw_content_preview": "# The Topological Jacobian ## Derivation of the 2D-to-3D Substrate Bridge ### Holographic Projection; Dimensional Scaling; K-X Bridge; Rendering Jacobian  **Registry:** [@CKS-MATH-11-2026]    **Series..."
 }
