@@ -67,6 +67,7 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   -V header-includes="\usepackage{sectsty}\sectionfont{\centering}" \
   -V header-includes="\usepackage{float}" \
   -V header-includes="\makeatletter\def\fps@figure{H}\makeatother" \
+  --lua-filter=../../../_template/diagram-generator.lua \
   --lua-filter=../../../_template/columns.lua \
   --metadata nocite='@*' \
   --csl=../../../pass-through.csl \

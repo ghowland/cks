@@ -1,0 +1,10 @@
+{
+    "file_name": "manuscript.md",
+    "title": "Galaxy Spiral Structure from Hexagonal Lattice Closure",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-14-2026] \u2192 [@CKS-GR-1-2026] \u2192 [@CKS-DWDM-1-2026]",
+    "doi": "10.5281/zenodo.zzz",
+    "abstract": "We prove that spiral galaxy structure is not the result of gravitational dynamics, density waves, or dark matter halos, but rather the **inevitable geometric consequence** of phase-locking on a closed hexagonal lattice with N = 3M\u00b2 nodes. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that as a self-gravitating system grows in shell number M, topological frustration forces phases to organize into standing wave patterns with exact 120\u00b0 rotational symmetry\u2014the universal spiral arm configuration observed in nature. What astrophysics interprets as \"matter distribution\" (stars, gas, dust) is actually the **constructive interference pattern** of synchronized k-space modes projected into x-space. Spiral galaxies are macroscopic **cymatic figures**\u20143D Chladni patterns on the substrate itself. This framework derives: (1) spiral arm count (2-arm dominant, 3-4 arm common, >5 rare), (2) logarithmic spiral geometry, (3) rotation curves (flat, no dark matter needed), (4) bar formation, (5) Tully-Fisher relation, all from topology with **zero free parameters**. Observational data from 10\u2076+ galaxies (SDSS, Hubble) provide immediate validation. Galaxies are not \"gravitational accidents\"\u2014they are **topological necessities**.",
+    "dependencies": [],
+    "raw_content_preview": "# Galaxy Spiral Structure from Hexagonal Lattice Closure  **A Theorem-Based Derivation of Galactic Morphology as Macroscopic Cymatic Patterns from Pure K-Space Topology**   **Registry:** [@CKS-COS-1-2..."
+}

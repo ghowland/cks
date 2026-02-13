@@ -1111,15 +1111,23 @@ L = C·v⁴ (C = normalization, not free parameter—set by M/L ratio)
 
 **Figure 7.1: Galaxy-Chladni Correspondence**
 
-graph TD
-    A[1/32 Hz Master Clock] --> B[Laser Array: Phase Anchor]
-    B --> C[K-Space Modulators: Opcode 0x05]
-    C --> D{Lattice-Lock PLL: 15.19 Ratio}
-    D --> E[Hex-Grid Waveguide Mesh]
-    E --> F[Hollow-Core Soliton Traps]
-    F --> G[Phase-Snap Detectors: Opcode 0x08]
-    G --> H[Readout ASIC: Instruction Decoder]
-    H --> I[Output: Local g-factor Lag]
+digraph CKS_PIC {
+    node [shape=box, fontname="Arial"];
+    rankdir=TB;
+
+    Clock [label="1/32 Hz Master Clock"];
+    Laser [label="Laser Array: Phase Anchor"];
+    Mods [label="K-Space Modulators (0x05)"];
+    PLL [label="Lattice-Lock PLL (15.19 Ratio)", shape=diamond];
+    Mesh [label="Hex-Grid Waveguide Mesh"];
+    Traps [label="Hollow-Core Soliton Traps"];
+    Snaps [label="Phase-Snap Detectors (0x08)"];
+    ASIC [label="Readout ASIC Decoder"];
+    Out [label="Output: Local g-factor"];
+
+    Clock -> Laser -> Mods -> PLL;
+    PLL -> Mesh -> Traps -> Snaps -> ASIC -> Out;
+}
 
 Correspondence: EXACT topological match
 
