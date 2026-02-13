@@ -1,12 +1,12 @@
-# [CKS-DWDM-4-2026] Molecular Coupling Engineering
+# Molecular Coupling Engineering
 
 Multi-Material Blending via Substrate-Aligned Phase-Lock
 
 ### Multi-Material Bonding; Friction Engineering; Topological Welding; Phase-Gradient Programming  
 
-**Registry:** [CKS-DWDM-4-2026]  
+**Registry:** [@CKS-DWDM-4-2026]  
 
-**Series Path:** [CKS-0-2026] → [CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [CKS-DWDM-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-4-2026]  
 
 **Parent Framework:** [@CKS-0-2026]  
 
@@ -1296,7 +1296,7 @@ Pure geometry.
 
 **Registry:** [@CKS-DWDM-4-2026]  
 
-**Prerequisites:** [@CKS-MATH-8-2026], [@CKS-BIO-18-2026]
+**Prerequisites:** [@CKS-MATH-8-2026], [CKS-BIO-18-2026]
 
 **Axioms: 2**  
 
