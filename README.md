@@ -84,6 +84,11 @@
 | **[[@CKS-BIO-12-2026]](papers/BIO/CKS-BIO-12-2026/)** | **Body Language Mechanics** | Gestural communication as direct k-space phase broadcast mechanism. |
 | **[[@CKS-BIO-13-2026]](papers/BIO/CKS-BIO-13-2026/)** | **Wrinkle Mechanics and Thickness Restoration** | Wrinkles as topological phase-compression; reversible via unlooping. |
 | **[[@CKS-BIO-14-2026]](papers/BIO/CKS-BIO-14-2026/)** | **Complete Unlooping Protocols** | Complete systematic protocols for topological manifold restoration. |
+..
+..
+..
+| **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/)** | **Complete Unlooping Protocols** | he 15 ms Proprioceptive Lag: Deriving Topological Impedance from Hexagonal Soliton Geometry. |
+
 
 ---
 
