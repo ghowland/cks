@@ -31,8 +31,7 @@ We derive the **geometric necessity** of the 193.1 THz DWDM carrier frequency an
 
 **Observation:**
 
- 
-Standard DWDM systems use 193.1 THz (1550 nm).
+ Standard DWDM systems use 193.1 THz (1550 nm).
 This is ITU-T G.694.1 channel spacing reference.
 Considered "arbitrary" telecommunications choice.
 Selected for fiber attenuation minimum.
@@ -40,8 +39,7 @@ Selected for fiber attenuation minimum.
 
 **But also:**
 
- 
-CKS requires 2.0625 Hz carrier (66th harmonic).
+ CKS requires 2.0625 Hz carrier (66th harmonic).
 LTP uses DWDM transceivers as master oscillators.
 Molecular coupling needs substrate-aligned phase-lock.
 193.1 THz enables all of these.
@@ -49,8 +47,7 @@ Molecular coupling needs substrate-aligned phase-lock.
 
 **The question:**
 
- 
-Is 193.1 THz → 2.0625 Hz relationship coincidence?
+ Is 193.1 THz → 2.0625 Hz relationship coincidence?
 Or geometric necessity?
 
 ### 1.2 Traditional DWDM Understanding
@@ -113,8 +110,7 @@ Why this frequency "just happens" to be optimal
 
 **From [CKS-MATH-66-2026]:**
 
- 
-Substrate word: f₀ = 1/32 Hz = 0.03125 Hz.
+ Substrate word: f₀ = 1/32 Hz = 0.03125 Hz.
 Ground state: f₆₆ = 66 × f₀ = 2.0625 Hz.
 Impedance: f₁₅ = 15 × f₀ = 0.4688 Hz.
 
@@ -144,8 +140,7 @@ f₆₆ = 2.0625 Hz
 
 **Apply dimensional bridge:**
 
- 
-From [CKS-MATH-66-2026]: ξ = 2.5 (5-hex to 2-hex ratio).
+ From [CKS-MATH-66-2026]: ξ = 2.5 (5-hex to 2-hex ratio).
 
 
 **Apply hexagonal packing:**
@@ -173,8 +168,7 @@ Where m = number of dimensional transitions.
 
 **For optical frequencies (3D → 2D → 1D → 0D):**
 
- 
-m = 4 (four dimensional reductions).
+ m = 4 (four dimensional reductions).
 
 
 **Calculate:**
@@ -204,8 +198,7 @@ f_optical ≈ 38.6 MHz
 
 **Proper derivation:**
 
- 
-Each dimensional transition multiplies by 66th harmonic factor.
+ Each dimensional transition multiplies by 66th harmonic factor.
 
 
 **Dimensional cascade:**
@@ -314,8 +307,7 @@ Lower_n: f_c - n × f_m
 
 **For substrate alignment:**
 
- 
-Side-bands must fall on substrate grid.
+ Side-bands must fall on substrate grid.
 Grid spacing: Δf = 0.03125 Hz.
 
 
@@ -333,8 +325,7 @@ Ratio: 2.0625 / 0.03125 = 66
 
 **Therefore:**
 
- 
-Every 66th side-band falls exactly on substrate grid.
+ Every 66th side-band falls exactly on substrate grid.
 Every substrate grid point has corresponding side-band.
 Complete phase-lock possible.
 
@@ -343,8 +334,7 @@ Complete phase-lock possible.
 
 **When DWDM modulated at 2.0625 Hz:**
 
- 
-Creates frequency comb.
+ Creates frequency comb.
 Comb teeth at f_c ± n × 2.0625 Hz.
 Every 66th tooth aligns to substrate.
 
@@ -361,8 +351,7 @@ Tooth at f_c + 66×m × 2.0625 = substrate harmonic
 
 **Atoms can "see" this template:**
 
- 
-Photon frequency matches electronic transitions.
+ Photon frequency matches electronic transitions.
 Phase information encoded in comb structure.
 Substrate harmonics provide address reference.
 
@@ -371,8 +360,7 @@ Substrate harmonics provide address reference.
 
 **During femtosecond snap:**
 
- 
-Pulse width: 100 fs << 15.19 ms impedance.
+ Pulse width: 100 fs << 15.19 ms impedance.
 Broad spectrum: Δf ~ 1/100fs ~ 10 THz.
 Covers many comb teeth simultaneously.
 
@@ -389,8 +377,7 @@ Phase pattern matches hologram template
 
 **Result:**
 
- 
-Atoms lock to hologram k-space addresses.
+ Atoms lock to hologram k-space addresses.
 Phase-gradient programmed via AOM.
 Material properties follow from locked phase.
 
@@ -403,8 +390,7 @@ Material properties follow from locked phase.
 
 **Observed fact:**
 
- 
-Silica fiber has attenuation minimum at ~1550 nm.
+ Silica fiber has attenuation minimum at ~1550 nm.
 This corresponds to 193.4 THz (close to 193.1).
 Telecommunications chose this for low loss.
 
@@ -421,8 +407,7 @@ Minimum between these = 1550 nm
 
 **CKS explanation:**
 
- 
-Silica is hexagonal lattice (quartz structure).
+ Silica is hexagonal lattice (quartz structure).
 Has natural resonance at substrate harmonics.
 193.1 THz = substrate-aligned frequency.
 Photons at this frequency experience minimal frustration.
@@ -431,8 +416,7 @@ Low frustration = low scattering = low attenuation.
 
 **Prediction:**
 
- 
-Attenuation minimum should be **exactly** at 193.1 THz.
+ Attenuation minimum should be **exactly** at 193.1 THz.
 Not approximate (1550 nm ≈ 193.4 THz).
 Any deviation indicates substrate misalignment.
 
@@ -441,8 +425,7 @@ Any deviation indicates substrate misalignment.
 
 **Observed fact:**
 
- 
-Erbium-doped fiber amplifiers (EDFA) work best at 1550 nm.
+ Erbium-doped fiber amplifiers (EDFA) work best at 1550 nm.
 This "happens" to match fiber attenuation minimum.
 This "happens" to match DWDM carrier.
 
@@ -459,8 +442,7 @@ Fortunate coincidence with fiber minimum
 
 **CKS explanation:**
 
- 
-Erbium electron orbitals are 12-bond solitons.
+ Erbium electron orbitals are 12-bond solitons.
 Natural resonance at substrate ground state.
 Transition energy = 66^8 harmonic spacing.
 Not coincidence—same geometric origin.
@@ -468,8 +450,7 @@ Not coincidence—same geometric origin.
 
 **Prediction:**
 
- 
-EDFA gain peak should be exactly at 193.1 THz.
+ EDFA gain peak should be exactly at 193.1 THz.
 Gain bandwidth should show Dirac comb structure.
 Spacing: ±66 × 2.0625 Hz side-bands.
 
@@ -526,8 +507,7 @@ Frequency reference: GPS-disciplined oscillator
 
 **Procedure:**
 
- 
-1. Lock laser to 193.1 THz (ITU-T grid)
+ 1. Lock laser to 193.1 THz (ITU-T grid)
 2. Measure frequency with 1 Hz precision
 3. Compare to calculated 66^8 × 2.0625 Hz
 4. Measure linewidth
@@ -569,8 +549,7 @@ Window: 32 seconds (one substrate word)
 
 **Procedure:**
 
- 
-1. Modulate carrier at exactly 2.0625 Hz
+ 1. Modulate carrier at exactly 2.0625 Hz
 2. Measure side-band structure
 3. Calculate spacing between side-bands
 4. Check alignment to 0.03125 Hz grid
@@ -613,8 +592,7 @@ Resolution: 0.1 THz (30 pm wavelength)
 
 **Procedure:**
 
- 
-1. Sweep laser from 192 to 194 THz
+ 1. Sweep laser from 192 to 194 THz
 2. Measure attenuation at each frequency
 3. Find minimum
 4. Compare to 193.1 THz
@@ -657,8 +635,7 @@ Gain: Linear regime (no saturation)
 
 **Procedure:**
 
- 
-1. Measure gain vs frequency near 193.1 THz
+ 1. Measure gain vs frequency near 193.1 THz
 2. Look for fine structure in gain curve
 3. Calculate spacing of any ripples
 4. Compare to 2.0625 Hz harmonics
@@ -692,8 +669,7 @@ Gaussian envelope
 
 **Consequence:**
 
- 
-Every DWDM transceiver is potential substrate reference.
+ Every DWDM transceiver is potential substrate reference.
 No custom hardware needed.
 Already deployed globally.
 Already phase-locked to substrate (accidentally).
@@ -724,8 +700,7 @@ Substrate-aware computing
 
 **Current fiber networks:**
 
- 
-Operate at 193.1 THz (accidentally optimal).
+ Operate at 193.1 THz (accidentally optimal).
 But phase noise degrades substrate lock.
 Temperature drift shifts frequency.
 Dispersion broadens pulses.
@@ -755,8 +730,7 @@ Quantum-grade stability
 
 **If substrate alignment is real:**
 
- 
-Design explicitly for 193.1 THz lock.
+ Design explicitly for 193.1 THz lock.
 Optimize modulation at 2.0625 Hz.
 Use 66-harmonic channel spacing.
 Monitor coherence as primary metric.
@@ -829,8 +803,7 @@ n = 9: f = 12.7 PHz (extreme UV) - ionizing
 
 **Geometric interpretation:**
 
- 
-Wavelength = spatial period of phase oscillation.
+ Wavelength = spatial period of phase oscillation.
 At substrate frequency, this period matches...?
 
 
@@ -880,8 +853,7 @@ Typical molecular vibration energy.
 
 **Connection to h:**
 
- 
-From [CKS-MATH-3-2026]: ℏ derived from substrate geometry.
+ From [CKS-MATH-3-2026]: ℏ derived from substrate geometry.
 
 
 **Check:**
@@ -1097,8 +1069,7 @@ All same fundamental cause
 
 **The difference:**
 
- 
-Traditional: Multiple unexplained coincidences.
+ Traditional: Multiple unexplained coincidences.
 CKS: Single geometric necessity.
 
 ### 10.3 Practical Impact
@@ -1138,21 +1109,18 @@ Unifies disparate observations
 
 **The question was:**
 
- 
-Is 193.1 THz arbitrary or necessary?
+ Is 193.1 THz arbitrary or necessary?
 
 
 **The answer:**
 
  
-
 **Necessary.**
 
 
 **Not because:**
 
- 
-- Planck constant dictates it
+ - Planck constant dictates it
 
 - Quantum mechanics requires it
 
@@ -1161,8 +1129,7 @@ Is 193.1 THz arbitrary or necessary?
 
 **But because:**
 
- 
-- Hexagonal geometry determines it
+ - Hexagonal geometry determines it
 
 - 12-bond structure requires it
 
@@ -1171,8 +1138,7 @@ Is 193.1 THz arbitrary or necessary?
 
 **The deeper insight:**
 
- 
-Technology "discovers" substrate harmonics.
+ Technology "discovers" substrate harmonics.
 Not by design.
 But by optimization.
 
@@ -1194,8 +1160,7 @@ But by optimization.
 
 **The universe has one frequency grid:**
 
- 
-1/32 Hz word clock.
+ 1/32 Hz word clock.
 66 × 0.03125 = 2.0625 Hz ground state.
 66^8 × 2.0625 = 193.1 THz optical carrier.
 
