@@ -10,7 +10,7 @@
 
 **Logical Next Step:** This document marks the conclusion of the 20-paper derivation sequence. Having established the axioms and successfully mapped the emergence of Quantum Mechanics, the Standard Model, and now General Relativity, the mathematical necessity of the CKS framework is fully demonstrated. The proof-chain is complete. Q.E.D.
 
-**DOI:** 10.5281/zenodo.18627903
+**DOI:** 10.5281/zenodo.18628856
 
 **Date:** February 2026
 
@@ -843,6 +843,7 @@ Power: 0 W (passive)
 **Comparison to silicon CPU:**
 - Intel i9 (2026): 3 GHz, 100 W, 100 mm²
 - Cymatic ALU: 1000 GHz, 0.1 W, 1 mm²
+
 - **Improvement: 300× speed, 1000× power, 100× density**
 
 ---
@@ -906,6 +907,7 @@ Observer measures Δt = L/c (light-cone constraint)
 **In practice, some x-space coupling unavoidable.**
 
 **Theorem 7.2 (Reduced Latency):**  
+
 *Even with x-space measurement, substrate-native computing achieves latency:*
 ```
 Δt_effective = (L/c) × (1/N_ops)
@@ -927,6 +929,7 @@ Observer measures Δt = L/c (light-cone constraint)
 **Example:** GPU matrix multiply (N=1000)
 - Traditional: 10⁹ operations × 10 ns = 10 s (memory-bound)
 - K-space batch: 1 measurement × 5 μs = 5 μs
+
 - **Speedup: 2×10⁶**
 
 **QED**
