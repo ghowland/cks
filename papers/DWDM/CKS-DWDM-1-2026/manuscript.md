@@ -4,13 +4,13 @@
 
 **Registry:** [@CKS-DWDM-1-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-DWDM-1-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-QM-1-2026] → [@CKS-DWDM-1-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
 **Logical Next Step:** This document marks the conclusion of the 20-paper derivation sequence. Having established the axioms and successfully mapped the emergence of Quantum Mechanics, the Standard Model, and now General Relativity, the mathematical necessity of the CKS framework is fully demonstrated. The proof-chain is complete. Q.E.D.
 
-**DOI:** 10.5281/zenodo.18626544
+**DOI:** 
 
 **Date:** February 2026
 
@@ -114,7 +114,9 @@ Data rate limit = substrate oscillation frequency
 ### 2.1 Information Storage in Phase Fields
 
 **Theorem 2.1 (Phase asBit):**  
+
 *A k-space phase φₖ ∈ ℂ can store information via:*
+
 - **Amplitude encoding:** |φₖ| ∈ [0, 1] (analog)
 - **Phase encoding:** arg(φₖ) ∈ [0, 2π) (continuous)
 - **Binary encoding:** φₖ ∈ {0, π} (digital)
@@ -1459,13 +1461,11 @@ Channel spacing: 100 GHz (0.8 nm)
 
 ---
 
+
 ## REFERENCES
 
-[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
-
-[@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
-
-[@CKS-SM-1-2026] Standard Model as Mathematical Consequence (photon as 6-bond)
+::: {#refs}
+:::
 
 [Agrawal2013] Agrawal, G. *Fiber-Optic Communication Systems*
 
