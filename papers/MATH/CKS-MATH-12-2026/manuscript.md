@@ -837,16 +837,12 @@ Without the ±π/3 bit-flip:
 ::: {#refs}
 :::
 
-**CKS Series:**
-1. [@CKS-0-2026] Axiomatic Foundation
-2. [@CKS-MATH-1-2026] Integer Necessity
-3. [@CKS-MATH-4-2026] Fine Structure Constant
-4. [@CKS-MATH-10-2026] Grand Unification
-5. [@CKS-MATH-11-2026] Topological Jacobian
-
 **External:**
+
 - Sakharov, A.D. (1967). *Violation of CP Invariance*
+
 - Planck Collaboration (2020). *Cosmological Parameters*
+
 - Particle Data Group (2022). *Baryon Asymmetry*
 
 ---

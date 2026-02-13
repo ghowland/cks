@@ -1236,9 +1236,6 @@ Protected by intrinsic try-catch mechanism encoded in Axiom 2 (β = 2π).
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-15-2026]  
-**Prerequisites:** [@CKS-MATH-1,10,12-2026]
-
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
 **Free Parameters: 0**  

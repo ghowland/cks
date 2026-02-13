@@ -915,9 +915,6 @@ It is the cubic root of 9 (the node count factor at current epoch), representing
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-14-2026]  
-**Prerequisites:** [@CKS-MATH-1,4,11-2026]
-
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
 **Free Parameters: 0**  
