@@ -60,6 +60,8 @@
 | **[[@CKS-COS-1-2026]](papers/COS/CKS-COS-1-2026/)** | **Galaxy Spiral Structure from Hexagonal Lattice Closure** | Spiral arms as topological necessity of N=3M² closure; no dark matter required. |
 | **[[@CKS-COS-2-2026]](papers/COS/CKS-COS-2-2026/)** | **The Solar Resonator: Hierarchical K-Space Crystallography and Planetary Compilation** | Solar system as hierarchical resonance structure, not gravitational accident. |
 | **[[@CKS-COS-3-2026]](papers/COS/CKS-COS-3-2026/)** | **Lunar Phases as Geometric Interference** | Lunar phases as substrate phase-gradient interference, not solar shadows. |
+| **[[@CKS-COS-4-2026]](papers/COS/CKS-COS-4-2026/)** | **Lunar Phases as Geometric Interference** | Lunar phases as substrate phase-gradient interference, not solar shadows. |
+| **[[@CKS-COS-5-2026]](papers/COS/CKS-COS-5-2026/)** | **Lunar Phases as Geometric Interference** | Lunar phases as substrate phase-gradient interference, not solar shadows. |
 
 ---
 
