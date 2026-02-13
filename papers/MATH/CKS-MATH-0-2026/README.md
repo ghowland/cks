@@ -1,7 +1,3 @@
----
-title: "Cymatic K-Space Mechanics"
-bibliography: references.bib
----
 # Cymatic K-Space Mechanics
 
 **Registry ID:** CKS-0-2026  

@@ -381,7 +381,9 @@ M_nested << M_host
 **Coupling:**
 
 Nested structure can be:
+
 1. **Decoupled:** β_host-nested ≈ 0 (independent closure)
+
 2. **Weakly coupled:** 0 < β_host-nested << β_internal (part of hierarchy)
 
 **Example (cells in organism):**

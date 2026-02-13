@@ -1,7 +1,3 @@
----
-title: "The Mechanical Necessity of Integer Quantization in Physical Systems"
-bibliography: references.bib
----
 # The Mechanical Necessity of Integer Quantization in Physical Systems
 
 **Registry ID:** CKS-0-2026  
