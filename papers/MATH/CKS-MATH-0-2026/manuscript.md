@@ -477,9 +477,7 @@ Status:
 ![High-density phase energy distribution. C = 0.904363](figures/01_structure_M7.png)
 ![Near-continuum manifold approximation. C = 0.932168](figures/01_structure_M10.png)
 
----
-
-## REFERENCES
+## References
 
 ::: {#refs}
 :::
