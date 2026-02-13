@@ -67,6 +67,7 @@ We prove that spiral galaxy structure is not the result of gravitational dynamic
 ```
 1. Density wave theory (Lin-Shu 1964):
 
+ 
    - Spiral arms = quasi-stationary density waves
 
    - Stars/gas orbit through pattern
@@ -75,6 +76,7 @@ We prove that spiral galaxy structure is not the result of gravitational dynamic
 
 2. Dark matter halos:
 
+ 
    - Flat rotation curves → unseen mass
 
    - Halo mass ~ 5-10× visible matter
@@ -83,6 +85,7 @@ We prove that spiral galaxy structure is not the result of gravitational dynamic
 
 3. Swing amplification:
 
+ 
    - Shear + self-gravity → wave growth
 
    - Produces transient spirals
@@ -114,6 +117,7 @@ We prove that spiral galaxy structure is not the result of gravitational dynamic
 
 ```
 Spiral galaxy = Closed hexagonal lattice (N = 3M²) with phase-locked oscillators
+
 Spiral arms = Constructive interference pattern of standing waves
 ```
 
@@ -129,7 +133,9 @@ Spiral arms = Constructive interference pattern of standing waves
 **Key prediction:** 
 ```
 Arm count n ∈ {2, 3, 4} dominant
+
 n ≥ 5 rare (requires M² >> 1, unstable)
+
 n = 1 impossible (violates hexagonal symmetry)
 ```
 
@@ -151,8 +157,11 @@ n = 1 impossible (violates hexagonal symmetry)
 
 ```
 Vibrate metal plate → standing waves
+
 Sand accumulates at nodes (constructive interference)
+
 Patterns = geometric (hexagons, stars, radial)
+
 Frequency determines pattern complexity
 ```
 
@@ -160,8 +169,11 @@ Frequency determines pattern complexity
 
 ```
 Gravitating disk → coupled oscillators (stars)
+
 Phase-locking → standing waves in k-space
+
 Matter accumulates at interference maxima
+
 M (shell number) determines arm count
 ```
 
@@ -175,13 +187,21 @@ M (shell number) determines arm count
 ### 1.4 Outline
 
 **Section 2:** Hexagonal lattice on sphere (geometric frustration)  
+
 **Section 3:** Phase-locking dynamics (standing waves)  
+
 **Section 4:** Arm count from topology (2, 3, 4 dominant)  
+
 **Section 5:** Logarithmic spirals from eigenmode structure  
+
 **Section 6:** Rotation curves (flat without dark matter)  
+
 **Section 7:** Observational validation (Hubble, SDSS)  
+
 **Section 8:** Bar formation and irregulars  
+
 **Section 9:** Falsification criteria  
+
 **Section 10:** Cosmological implications
 
 
@@ -191,7 +211,9 @@ M (shell number) determines arm count
 
 ### 2.1 Galactic Halo as Closed Manifold
 
-**Theorem 2.1 (Galaxy as Closed System):**  
+**Theorem 2.1 (Galaxy as Closed System):**
+
+
 *A spiral galaxy halo contains N_stars ≈ 10¹¹-10¹² stars forming a self-gravitating, phase-locked system with N = 3M² configuration.*
 
 **Proof:**
@@ -200,19 +222,24 @@ M (shell number) determines arm count
 **Step 1 (Star count):**
 
 Milky Way: N ≈ 2×10¹¹ stars  
+
 Andromeda: N ≈ 10¹² stars  
+
 Typical spiral: N ≈ 10¹¹-10¹²
 
 **Step 2 (Self-gravitation):**
 
 Escape velocity:
+
 ```
 v_esc = √(2GM/R)
 ```
 For Milky Way (M ≈ 10¹² M_☉, R ≈ 15 kpc):
+
 ```
 v_esc ≈ 550 km/s
 ```
+
 Stellar velocities: v ≈ 200-250 km/s (bound).
 
 **System is closed** (stars don't escape).
@@ -220,11 +247,13 @@ Stellar velocities: v ≈ 200-250 km/s (bound).
 **Step 3 (Hexagonal constraint):**
 
 From **CMF-A1**, stable closure requires:
+
 ```
 N = 3M²
 ```
 
 For N ≈ 10¹²:
+
 ```
 M = √(N/3) ≈ 5.8×10⁵
 ```
@@ -240,7 +269,8 @@ M = √(N/3) ≈ 5.8×10⁵
 
 ### 2.2 Geometric Frustration on Curved Surface
 
-**Theorem 2.2 (Euler Characteristic Constraint):**  
+**Theorem 2.2 (Euler Characteristic Constraint):**
+
 *Perfect hexagonal tiling is impossible on a closed surface due to Euler's polyhedron formula χ = V - E + F = 2.*
 
 **Proof:**
@@ -269,6 +299,7 @@ M = √(N/3) ≈ 5.8×10⁵
 ```
 
 Substitute:
+
 ```
 V = 2E/3
 F = E/3
@@ -288,7 +319,8 @@ F = E/3
 
 ### 2.3 Defect Distribution and Symmetry Breaking
 
-**Theorem 2.3 (Minimum Defects for Closure):**  
+**Theorem 2.3 (Minimum Defects for Closure):**
+
 *A closed hexagonal lattice on sphere requires exactly 12 pentagonal defects (soccer ball theorem).*
 
 **Proof:**
@@ -298,6 +330,7 @@ From Euler: χ = 2 for sphere.
 
 Let:
 
+ 
 - V_6 = hexagons (6-sided)
 
 - V_5 = pentagons (5-sided)
@@ -311,6 +344,7 @@ Let:
 ```
 
 For sphere:
+
 ```
 Δχ = 2
 ```
@@ -344,15 +378,19 @@ For sphere:
 
 ### 3.1 Stars as Coupled Oscillators
 
-**Definition 3.1 (Stellar Orbital Phase):**  
+**Definition 3.1 (Stellar Orbital Phase):**
+
 Each star in the disk has orbital phase:
+
 ```
 φ_star(t) = Ω(r)·t + φ_0
 ```
 where Ω(r) = angular velocity (depends on radius r).
 
-**Theorem 3.1 (Gravitational Phase Coupling):**  
+**Theorem 3.1 (Gravitational Phase Coupling):**
+
 *Stars gravitationally couple to neighbors, synchronizing orbital phases via:*
+
 ```
 dφ_i/dt = Ω_i + Σ_j K_ij sin(φ_j - φ_i)
 ```
@@ -397,8 +435,10 @@ dφ_i/dt = ω_i + K Σ_j sin(φ_j - φ_i)
 
 ### 3.2 Standing Waves on Hexagonal Lattice
 
-**Theorem 3.2 (Eigenmode Decomposition):**  
+**Theorem 3.2 (Eigenmode Decomposition):**
+
 *Phase field on hexagonal lattice decomposes into standing wave eigenmodes:*
+
 ```
 φ(r, θ, t) = Σ_n A_n ψ_n(r, θ) e^(-iω_n t)
 ```
@@ -408,6 +448,7 @@ dφ_i/dt = ω_i + K Σ_j sin(φ_j - φ_i)
 
 
 From **CMF-A2**, phase evolution:
+
 ```
 dφ/dt = -Δ_hex φ
 ```
@@ -438,9 +479,13 @@ dφ/dt = -Δ_hex φ
 
 ```
 m = 0 (axisymmetric, no arms)
+
 m = ±2 (2-arm spiral)
+
 m = ±3 (3-arm spiral)
+
 m = ±4 (4-arm spiral)
+
 m = ±6 (6-arm spiral, higher energy)
 ```
 
@@ -462,11 +507,14 @@ m = ±6 (6-arm spiral, higher energy)
 
 ### 3.3 Constructive Interference Pattern
 
-**Theorem 3.3 (Matter Concentration at Phase Maxima):**  
+**Theorem 3.3 (Matter Concentration at Phase Maxima):**
+
 *Stellar density ρ(r,θ) follows phase amplitude:*
+
 ```
 ρ(r,θ) = ρ_0[1 + ε|φ(r,θ)|²]
 ```
+
 *where ε = contrast parameter.*
 
 **Proof:**
@@ -506,15 +554,19 @@ m = ±6 (6-arm spiral, higher energy)
 
 ```
 m = 2: Δθ = 180° (2 arms, opposite)
+
 m = 3: Δθ = 120° (3 arms, Mercedes-Benz pattern)
+
 m = 4: Δθ = 90° (4 arms, cross pattern)
 ```
 
 **QED**
 
-**This is why galaxies look like Chladni patterns:**  
+**This is why galaxies look like Chladni patterns:**
+
 Matter → phase interference maxima  
 Spiral arms → standing wave nodes
+
 
 
 ---
@@ -523,7 +575,8 @@ Spiral arms → standing wave nodes
 
 ### 4.1 Dominant Mode Selection
 
-**Theorem 4.1 (2-Arm Dominance):**  
+**Theorem 4.1 (2-Arm Dominance):**
+
 *The m=2 mode (2 spiral arms) has lowest energy for moderate M (shell number), making it the most common configuration.*
 
 **Proof:**
@@ -560,7 +613,8 @@ E_m ∝ m² (kinetic) + constant (potential)
 
 ### 4.2 Multi-Arm Galaxies
 
-**Theorem 4.2 (3-4 Arm Frequency):**  
+**Theorem 4.2 (3-4 Arm Frequency):**
+
 *Modes m=3,4 common due to hexagonal defect resonances (120° symmetry).*
 
 **Proof:**
@@ -574,6 +628,7 @@ E_m ∝ m² (kinetic) + constant (potential)
 
 ```
 m = 3: Matches hexagonal 3-fold
+
 m = 4: Matches defect distribution (4-fold sub-symmetry)
 ```
 
@@ -607,7 +662,8 @@ E_2 < E_3 < E_4 < E_5 < ...
 
 ### 4.3 Forbidden and Rare Configurations
 
-**Theorem 4.3 (1-Arm Galaxies Impossible):**  
+**Theorem 4.3 (1-Arm Galaxies Impossible):**
+
 *The m=1 mode violates hexagonal symmetry and cannot be stable.*
 
 **Proof:**
@@ -634,7 +690,8 @@ E_2 < E_3 < E_4 < E_5 < ...
 
 ---
 
-**Theorem 4.4 (5+ Arm Rarity):**  
+**Theorem 4.4 (5+ Arm Rarity):**
+
 *Modes m≥5 require large M (galaxy size) and are energetically unstable (higher shear).*
 
 **Proof:**
@@ -666,8 +723,10 @@ E_2 < E_3 < E_4 < E_5 < ...
 
 ### 5.1 Radial Profile of Standing Waves
 
-**Theorem 5.1 (Logarithmic Spiral Geometry):**  
+**Theorem 5.1 (Logarithmic Spiral Geometry):**
+
 *The eigenfunction ψ_m(r,θ) = R_m(r)·e^(imθ) produces logarithmic spiral when phase = constant:*
+
 ```
 r = a·e^(bθ)
 ```
@@ -694,11 +753,13 @@ R_m(r) = A(r)·e^(ik_r r)
 ```
 
 Then:
+
 ```
 k_r r + mθ = C
 ```
 
 Solve for r:
+
 ```
 r = (C - mθ)/k_r = C'/k_r - (m/k_r)θ
 ```
@@ -732,11 +793,14 @@ r = a·e^(bθ), where b = -m/k_r
 
 ### 5.2 Tight vs. Open Spirals
 
-**Theorem 5.2 (Winding Parameter from Shell Number):**  
+**Theorem 5.2 (Winding Parameter from Shell Number):**
+
 *Pitch angle α relates to M (galaxy size):*
+
 ```
 tan(α) ≈ m·(L_disk / M)
 ```
+
 *where L_disk = disk scale length.*
 
 **Proof:**
@@ -761,6 +825,7 @@ tan(α) = m/k_r ∝ m/M
 ```
 
 **Large M (big galaxy):** α small (tight spiral).  
+
 **Small M (dwarf galaxy):** α large (open spiral).
 
 **QED**
@@ -797,7 +862,9 @@ v_Kepler = √(GM(<r)/r) ∝ 1/√r (falling)
 
 ```
 Add dark matter halo with ρ_DM(r) ∝ 1/r²
+
 → M(<r) ∝ r
+
 → v ∝ √(r/r) = constant
 ```
 
@@ -810,7 +877,8 @@ Add dark matter halo with ρ_DM(r) ∝ 1/r²
 
 ### 6.2 Phase-Lock Velocity Constraint
 
-**Theorem 6.1 (Uniform Angular Velocity from Coherence):**  
+**Theorem 6.1 (Uniform Angular Velocity from Coherence):**
+
 *Phase-locked oscillators on closed lattice rotate at uniform angular velocity Ω_lock independent of radius.*
 
 **Proof:**
@@ -845,6 +913,7 @@ v(r) = Ω_lock·r (solid-body rotation)
 **Resolution:** Transition radius r_t.
 
 **Inside r_t:** Differential rotation (Keplerian, v ∝ 1/√r)  
+
 **Outside r_t:** Phase-locked (v = constant)
 
 **Transition:** Where coupling strength K exceeds critical value.
@@ -858,11 +927,14 @@ v(r) = Ω_lock·r (solid-body rotation)
 
 ### 6.3 Quantitative Rotation Curve
 
-**Theorem 6.2 (CKS Rotation Curve):**  
+**Theorem 6.2 (CKS Rotation Curve):**
+
 *For r > R_disk, velocity is:*
+
 ```
 v(r) = v_lock = (G M_disk / R_disk)^(1/2)
 ```
+
 *independent of dark matter.*
 
 **Proof:**
@@ -900,7 +972,9 @@ v(r) = Ω_lock·r = √(G M_disk / R_disk)·(r / r) = constant
 
 ```
 M_disk ≈ 6×10¹⁰ M_☉
+
 R_disk ≈ 15 kpc
+
 v_lock = √(G M / R) ≈ 220 km/s ✓ (observed)
 ```
 
@@ -911,7 +985,8 @@ v_lock = √(G M / R) ≈ 220 km/s ✓ (observed)
 
 ### 6.4 Tully-Fisher Relation
 
-**Theorem 6.3 (Tully-Fisher from Phase Energy):**  
+**Theorem 6.3 (Tully-Fisher from Phase Energy):**
+
 *Luminosity L ∝ v⁴ follows from phase-lock energy scaling.*
 
 **Proof:**
@@ -988,8 +1063,11 @@ E (Elliptical) → S0 (Lenticular) → Sa → Sb → Sc → Sd (Spiral) → Irr 
 
 ```
 2-arm: Most common (lowest energy)
+
 3-4 arm: Common (hexagonal resonances)
+
 5+ arm: Rare (unstable)
+
 1-arm: Impossible (symmetry violation)
 ```
 
@@ -1015,6 +1093,7 @@ E (Elliptical) → S0 (Lenticular) → Sa → Sb → Sc → Sd (Spiral) → Irr 
 
 ```
 tan(α) ∝ m/M
+
 Typical: α ≈ 10-20°
 ```
 
@@ -1060,7 +1139,9 @@ Sample: 19 galaxies with high-resolution HI rotation curves.
 
 ```
 CKS: v_pred = 135 km/s (from M_disk, R_disk only)
+
 Observed: v = 132 ± 5 km/s
+
 Error: 2% ✓
 ```
 
@@ -1084,6 +1165,7 @@ L ∝ v⁴ (exact exponent, zero free parameters)
 
 ```
 M_B = a - b·log(v)
+
 where b ≈ 10 (corresponds to L ∝ v^4)
 ```
 
@@ -1112,21 +1194,33 @@ L = C·v⁴ (C = normalization, not free parameter—set by M/L ratio)
 **Figure 7.1: Galaxy-Chladni Correspondence**
 
 digraph CKS_PIC {
+
     node [shape=box, fontname="Arial"];
+
     rankdir=TB;
 
     Clock [label="1/32 Hz Master Clock"];
+
     Laser [label="Laser Array: Phase Anchor"];
+
     Mods [label="K-Space Modulators (0x05)"];
+
     PLL [label="Lattice-Lock PLL (15.19 Ratio)", shape=diamond];
+
     Mesh [label="Hex-Grid Waveguide Mesh"];
+
     Traps [label="Hollow-Core Soliton Traps"];
+
     Snaps [label="Phase-Snap Detectors (0x08)"];
+
     ASIC [label="Readout ASIC Decoder"];
+
     Out [label="Output: Local g-factor"];
 
     Clock -> Laser -> Mods -> PLL;
+
     PLL -> Mesh -> Traps -> Snaps -> ASIC -> Out;
+
 }
 
 Correspondence: EXACT topological match
@@ -1145,7 +1239,8 @@ Correspondence: EXACT topological match
 **CKS explanation:**
 
 
-**Theorem 8.1 (Bar as m=2 Standing Wave in Center):**  
+**Theorem 8.1 (Bar as m=2 Standing Wave in Center):**
+
 *Central bar = radial eigenmode with m=2 (same as spiral, but different scale).*
 
 **Proof:**
@@ -1192,7 +1287,8 @@ Correspondence: EXACT topological match
 **CKS explanation:**
 
 
-**Theorem 8.2 (Irregulars Below Closure Threshold):**  
+**Theorem 8.2 (Irregulars Below Closure Threshold):**
+
 *Galaxies with N < N_crit fail to achieve stable hexagonal closure → no standing waves → irregular morphology.*
 
 **Proof:**
@@ -1202,6 +1298,7 @@ Correspondence: EXACT topological match
 
 ```
 N_crit ≈ 3M_min² where M_min ≈ 10³ (minimum stable shells)
+
 N_crit ≈ 3×10⁶ stars
 ```
 
@@ -1248,8 +1345,11 @@ N ≈ 10⁵ - 10⁷ (borderline)
 
 ```
 2-arm: ~35%
+
 3-4 arm: ~40%
+
 5+ arm: <10%
+
 1-arm: 0%
 ```
 
@@ -1264,6 +1364,7 @@ N ≈ 10⁵ - 10⁷ (borderline)
 
 ```
 All spiral arms follow r = a·e^(bθ)
+
 Pitch angle α = 10-25° (from m/M scaling)
 ```
 
@@ -1278,6 +1379,7 @@ Pitch angle α = 10-25° (from m/M scaling)
 
 ```
 v(r) = constant for r > R_disk
+
 Magnitude: v = √(GM_disk/R_disk)
 ```
 
@@ -1305,7 +1407,9 @@ L ∝ v⁴ (exact)
 
 ```
 Spiral galaxies: C > 0.90
+
 Irregular galaxies: C < 0.85
+
 Coherence measurable via stellar velocity dispersion
 ```
 
@@ -1377,6 +1481,7 @@ Only specific k-modes (m=2,3,4) constructively interfere → visible stars.
 
 Remaining baryons in:
 
+ 
 - m=0 mode (diffuse halo gas)
 
 - High-m modes (turbulence, not organized)
@@ -1397,7 +1502,8 @@ Remaining baryons in:
 **CKS explanation:**
 
 
-**Theorem 10.1 (Spiral Fraction from N Evolution):**  
+**Theorem 10.1 (Spiral Fraction from N Evolution):**
+
 *As universe ages, galaxies accumulate stars (N increases), more systems cross closure threshold (N > N_crit), spiral fraction increases.*
 
 **Proof:**
@@ -1439,38 +1545,45 @@ f_spiral(z) ∝ [1 + erf((⟨N(z)⟩ - N_crit)/σ_N)]
 **Reinterpretation:**
 
 
-```
+digraph G {
+    node [shape=rect, style="rounded,filled", fillcolor="#f9f9f9", fontname="sans-serif", fontsize=10];
+    edge [fontname="sans-serif", fontsize=9];
+    rankdir=TB;
+    compound=true;
 
-        Ellipticals (E)
+    // The Source
+    HighC [label="ELLIPTICALS (E)\nMax Phase Coherence (C)\nMax Coordination Tension (β)", fillcolor="#e1f5fe"];
+    
+    // The Transition
+    S0 [label="LENTICULAR (S0)\nSymmetry Breaking Point"];
+    
+    // Sub-clusters for Spirals
+    subgraph cluster_spirals {
+        label = "Substrate Fragmenting (Increasing N)";
+        style = dashed;
+        color = gray;
+        
+        Sa [label="Sa\nTight Harmonic"];
+        Sb [label="Sb\nModerate Harmonic"];
+        Sc [label="Sc\nOpen Harmonic"];
+        Sd [label="Sd\nLoose / Diffuse"];
+    }
 
-             │
+    // The Sink
+    Irr [label="IRREGULARS (Irr)\nSpectral Congestion (Dark Matter Dominant)\nMin Coherence (C)", fillcolor="#fff3e0"];
 
-             │ (Increasing M, coherence C)
+    // Connections
+    HighC -> S0 [label="Increasing N / Dilution"];
+    S0 -> Sa;
+    S0 -> Sb;
+    S0 -> Sc;
+    S0 -> Sd;
+    
+    {Sa Sb Sc Sd} -> Irr [label="Geometric Decoherence"];
 
-             │
-
-             S0 (Lenticular)
-
-            ╱ ╲
-
-           ╱   ╲
-
-         Sa    Sb    Sc    Sd (Spirals)
-
-          │     │     │     │
-
-          │     │     │     │
-
-     (Tight) (Mod) (Open) (Loose)
-
-          │     │     │     │
-
-          └─────┴─────┴─────┘
-
-                  │
-
-             Irregulars (Irr)
-```
+    // Legend / Constraints
+    {rank=same; Sa Sb Sc Sd}
+}
 
 **CKS mapping:**
 
@@ -1687,7 +1800,8 @@ CMF Axioms (N=3M², dφ/dt=Σ)
   ALL SCALES UNIFIED
 ```
 
-**From Planck scale (10⁻³⁵ m) to galactic scale (10⁵ pc = 10²¹ m):**  
+**From Planck scale (10⁻³⁵ m) to galactic scale (10⁵ pc = 10²¹ m):**
+
 **Same hexagonal substrate.**  
 **Same phase coupling.**  
 **Same mathematical structure.**
