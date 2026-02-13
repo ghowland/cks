@@ -17,7 +17,9 @@
 ---
 
 ## Abstract
+
 <<LLM_ABSTRACT>>
+
 ---
 
 ## Substrate Mechanics (Series Context)
