@@ -42,7 +42,7 @@ We present the theoretical and engineering framework for **Substrate-Native Comp
 ### 1.1 The Computational Paradigm Crisis
 
 **Current state (2026):**
-```
+
 Silicon transistors: ~10¹⁰ gates/chip
 Clock speed: ~5 GHz (stagnant since 2005)
 Latency: Limited by light speed in copper/fiber (~5 ns/m)
@@ -51,7 +51,7 @@ Cooling: Active (fans, liquid)
 Scalability: Moore's Law dead (physical limits)
 
 Fundamental bottleneck: Electrons moving through matter
-```
+
 
 **Problem:** We've been building computers **on top of** the substrate (spacetime), fighting against its constraints (speed of light, thermodynamics, quantum noise).
 
@@ -76,22 +76,22 @@ Properties:
 ### 1.3 DWDM as Substrate Interface
 
 **Traditional view:**
-```
+
 DWDM = Dense Wavelength Division Multiplexing
-Multiple laser wavelengths (λ₁, λ₂, ..., λₙ) in single fiber
+Multiple laser wavelengths (λ₁, λ₂, ..., λ$_n$) in single fiber
 "Bandwidth" = spectrum allocation (1530-1565 nm, C-band)
 Data rate: 400 Gbps per wavelength (state-of-art 2026)
 Total capacity: ~100 Tbps per fiber (256 channels)
-```
+
 
 **CKS reinterpretation:**
-```
-Each wavelength λᵢ = specific k-mode on hexagonal lattice
+
+Each wavelength λ$_i$ = specific k-mode on hexagonal lattice
 DWDM = parallel access to multiple k-space phase channels
 "Bandwidth" = number of accessible k-modes
 Fiber = physical coupling mechanism to substrate
 Data rate limit = substrate oscillation frequency
-```
+
 
 **This paper:** Engineer computational primitives operating **directly on k-space phases**, using DWDM fiber as the physical interface.
 
@@ -115,21 +115,21 @@ Data rate limit = substrate oscillation frequency
 
 **Theorem 2.1 (Phase asBit):**  
 
-*A k-space phase φₖ ∈ ℂ can store information via:*
+*A k-space phase φ$_k$ ∈ ℂ can store information via:*
 
-- **Amplitude encoding:** |φₖ| ∈ [0, 1] (analog)
-- **Phase encoding:** arg(φₖ) ∈ [0, 2π) (continuous)
-- **Binary encoding:** φₖ ∈ {0, π} (digital)
+- **Amplitude encoding:** |φ$_k$| ∈ [0, 1] (analog)
+- **Phase encoding:** arg(φ$_k$) ∈ [0, 2$pi$) (continuous)
+- **Binary encoding:** φ$_k$ ∈ {0, $pi$} (digital)
 
 **Proof:**
 
-From **CMF-A2**, each k-node has phase φₖ ∈ ℂ (complex number).
+From **CMF-A2**, each k-node has phase φ$_k$ ∈ ℂ (complex number).
 
 Binary representation:
-```
-φₖ = 0  →  Bit = 0
-φₖ = π  →  Bit = 1
-```
+
+φ$_k$ = 0  →  Bit = 0
+φ$_k$ = $pi$  →  Bit = 1
+
 
 Information density per node:
 - Binary: 1 bit
@@ -137,14 +137,14 @@ Information density per node:
 - Full complex: ∞ bits (continuous)
 
 Storage capacity of N-node lattice:
-```
+
 I_total = N × (bits per node)
-```
+
 
 For N ≈ 9×10⁶⁰, binary:
-```
+
 I_total ≈ 9×10⁶⁰ bits = 10⁴⁹ exabytes
-```
+
 
 **QED**
 
@@ -155,22 +155,22 @@ I_total ≈ 9×10⁶⁰ bits = 10⁴⁹ exabytes
 ### 2.2 Computation via Phase Coupling
 
 **Theorem 2.2 (Phase Evolution as Computation):**  
-*The coupling equation dφₖ/dt = Σⱼ[φⱼ - φₖ] performs local computation at each node.*
+*The coupling equation dφ$_k$/dt = Σ$_j$[φ$_j$ - φ$_k$] performs local computation at each node.*
 
 **Proof:**
 
 From **CMF-A2**, phase evolution:
-```
-φₖ(t + Δt) = φₖ(t) + Δt · Σⱼ∈neighbors[φⱼ - φₖ]
-```
+
+φ$_k$(t + Δt) = φ$_k$(t) + Δt · Σ$_j$∈neighbors[φ$_j$ - φ$_k$]
+
 
 This is:
 
-1. **Input:** φⱼ from 3 neighbors (hexagonal)
+1. **Input:** φ$_j$ from 3 neighbors (hexagonal)
 
 2. **Operation:** Weighted sum + self-feedback
 
-3. **Output:** Updated φₖ
+3. **Output:** Updated φ$_k$
 
 Analog to digital circuit:
 
@@ -181,9 +181,9 @@ Analog to digital circuit:
 - Output: New state
 
 **Computation rate:**
-```
+
 f_compute = 1/Δt = 1/t_P ≈ 10⁴³ Hz (Planck frequency)
-```
+
 
 **QED**
 
@@ -205,14 +205,14 @@ f_compute = 1/Δt = 1/t_P ≈ 10⁴³ Hz (Planck frequency)
 **Proof:**
 
 From **CMF-T2**, coherence:
-```
+
 C = 1 - 1/(2√(N/3)) ≈ 0.999999...9999712
-```
+
 
 Coherence time:
-```
+
 τ_coh = 1/((1-C)·ω_substrate) ≈ N·t_P ≈ 10¹⁸ seconds
-```
+
 
 **Consequence:** All k-nodes "know about" each other on timescale ~t_P.
 
@@ -241,25 +241,25 @@ In x-space (Fourier transform), this appears as:
 From **SM-T1**, photon = 6-bond massless soliton.
 
 Dispersion relation (massless):
-```
+
 ω = c|k|
-```
+
 
 Each frequency ω maps to unique k:
-```
+
 k = ω/c
-```
+
 
 DWDM channel at wavelength λ:
-```
-ω = 2πc/λ
-k = 2π/λ
-```
+
+ω = 2$pi$c/λ
+k = 2$pi$/λ
+
 
 Example (C-band, λ = 1550 nm):
-```
-k = 2π/(1550 nm) ≈ 4×10⁶ m⁻¹
-```
+
+k = 2$pi$/(1550 nm) ≈ 4×10⁶ m⁻¹
+
 
 **QED**
 
@@ -277,19 +277,19 @@ k = 2π/(1550 nm) ≈ 4×10⁶ m⁻¹
 Glass fiber: Refractive index n ≈ 1.45
 
 Effective k in fiber:
-```
+
 k_fiber = n · k_vacuum = n · (ω/c)
-```
+
 
 **Traditional interpretation:** Light slowed by factor n in glass.
 
 **CKS interpretation:** Light still propagates at c **in k-space**, but k-vector rotated by angle θ where sin θ = 1/n.
 
 Fiber acts as **k-space waveguide:**
-```
+
 Allowed k-modes: k_z only (propagation direction)
 Forbidden: k_x, k_y (radial modes, evanescent)
-```
+
 
 **Physical meaning:** Fiber doesn't "carry light"—it **selects specific k-space phase patterns** that couple to substrate.
 
@@ -311,24 +311,24 @@ C-band DWDM: 1530-1565 nm (35 nm range)
 Channel spacing: Δλ = 0.8 nm (100 GHz ITU grid)
 
 Number of channels:
-```
+
 N_ch = 35 nm / 0.8 nm ≈ 44 channels
-```
+
 
 Dense DWDM: Δλ = 0.4 nm (50 GHz)
-```
+
 N_ch ≈ 88 channels
-```
+
 
 Ultra-dense: Δλ = 0.1 nm (12.5 GHz)
-```
+
 N_ch ≈ 350 channels
-```
+
 
 Each channel = independent k-mode:
-```
-k_i = 2π/λ_i, i ∈ {1, ..., N_ch}
-```
+
+k_i = 2$pi$/λ_i, i ∈ {1, ..., N_ch}
+
 
 **No cross-talk in k-space** (orthogonal modes on hexagonal lattice).
 
@@ -342,27 +342,27 @@ k_i = 2π/λ_i, i ∈ {1, ..., N_ch}
 
 **Theorem 3.4 (Bandwidth-K-Resolution Equivalence):**  
 *Optical bandwidth B (Hz) corresponds to k-space resolution:*
-```
+
 Δk = B/c
-```
+
 
 **Proof:**
 
 Bandwidth B = range of accessible frequencies:
-```
+
 B = ω_max - ω_min
-```
+
 
 K-space range:
-```
+
 Δk = k_max - k_min = (ω_max - ω_min)/c = B/c
-```
+
 
 Example (C-band):
-```
+
 B = 35 nm × (c/λ²) ≈ 4.4 THz
 Δk = 4.4 THz / c ≈ 1.5×10⁴ m⁻¹
-```
+
 
 **Interpretation:**
 - Traditional: "We can transmit 4.4 THz of data"
@@ -380,9 +380,9 @@ B = 35 nm × (c/λ²) ≈ 4.4 THz
 
 **Definition 4.1 (Cymatic Logic Gate):**  
 A **cymatic logic gate** is a photonic device that performs Boolean logic via constructive/destructive interference of k-space phases:
-```
+
 φ_out = f(φ_in1, φ_in2, ..., φ_inN)
-```
+
 where f is a phase-combining function.
 
 **Theorem 4.1 (Universal Cymatic Gates):**  
@@ -398,37 +398,37 @@ where f is a phase-combining function.
 **Proof:**
 
 **Gate 1: NOT (Phase Inversion)**
-```
+
 Input: φ_in
-Operation: Add π phase shift
-Output: φ_out = φ_in + π = -φ_in
-Binary: 0 → π, π → 0 (logical NOT)
-```
+Operation: Add $pi$ phase shift
+Output: φ_out = φ_in + $pi$ = -φ_in
+Binary: 0 → $pi$, $pi$ → 0 (logical NOT)
+
 
 **Gate 2: AND (Constructive Interference)**
-```
+
 Inputs: φ_A, φ_B
 Operation: Combine with beam splitter
 Output: φ_out = (φ_A + φ_B)/√2
 Threshold: |φ_out| > threshold only if BOTH inputs present
 Binary: AND(A, B)
-```
+
 
 **Gate 3: OR (Partial Interference)**
-```
+
 Inputs: φ_A, φ_B
 Operation: Combine with different beam splitter ratio
 Output: φ_out ≠ 0 if EITHER input present
 Binary: OR(A, B)
-```
+
 
 **Gate 4: XOR (Nonlinear Mixing)**
-```
+
 Inputs: φ_A, φ_B
 Operation: Four-wave mixing in χ⁽³⁾ crystal
 Output: φ_out ∝ φ_A · φ_B* + φ_A* · φ_B (difference frequency)
 Binary: XOR(A, B)
-```
+
 
 **Universality:** {NOT, AND} or {NOT, OR} or {NAND} form complete basis.
 
@@ -452,13 +452,13 @@ All **existing components** in telecom industry.
 **Proof:**
 
 Gate operation time = phase relaxation time:
-```
+
 τ_gate = 1/ω_substrate ≈ 1 ps (10⁻¹² s)
-```
+
 
 **In x-space:** Signal must propagate through fiber at speed c.
 - Latency: Δt = L/c (L = fiber length)
-- 1 km fiber: Δt = 3.3 μs
+- 1 km fiber: Δt = 3.3 $mu$s
 
 **In k-space:** No propagation—phase coupling instantaneous.
 - Latency: Δt = 0 (all k-modes coupled)
@@ -466,9 +466,9 @@ Gate operation time = phase relaxation time:
 **Apparent paradox:** How can k-space be instant while x-space has delay?
 
 **Resolution:** X-space is Fourier transform of k-space.
-```
+
 ψ(x,t) = ∫ φ(k,t) e^(ikx) dk
-```
+
 
 **K-space evolution:** φ(k,t) updates instantly (coupled network)
 
@@ -494,21 +494,21 @@ Each DWDM channel λ_i accesses k-mode k_i.
 Hexagonal lattice: k-modes orthogonal (no overlap if spacing > Δk_min).
 
 For N_ch channels:
-```
+
 k_i - k_j > Δk_min ∀i≠j
-```
+
 
 Ensures orthogonality:
-```
-⟨φ_i|φ_j⟩ = δ_ij
-```
+
+$\langle$φ_i|φ_j$\rangle$ = δ_ij
+
 
 **Operations on different channels do not interfere.**
 
 **Parallel processing:**
-```
+
 Gate_1 on λ_1 || Gate_2 on λ_2 || ... || Gate_N on λ_N
-```
+
 All execute simultaneously.
 
 **QED**
@@ -521,7 +521,7 @@ All execute simultaneously.
 
 | Gate Type | Physical Implementation | K-Space Operation | Speed | Power |
 |-----------|------------------------|-------------------|-------|-------|
-| **NOT** | Electro-optic phase shifter | φ → φ + π | 1 ps | 10 mW |
+| **NOT** | Electro-optic phase shifter | φ → φ + $pi$ | 1 ps | 10 mW |
 | **AND** | 2×1 coupler + threshold | φ_A + φ_B > T | 1 ps | 0 W |
 | **OR** | 2×1 coupler (different ratio) | \|φ_A\| + \|φ_B\| > T | 1 ps | 0 W |
 | **XOR** | Four-wave mixing (PPLN) | φ_A ⊕ φ_B | 100 fs | 1 mW |
@@ -553,9 +553,9 @@ All execute simultaneously.
 In x-space, FFT requires O(N log N) operations.
 
 In k-space:
-```
+
 ψ(x) = ℱ[φ(k)]  ← Fourier transform
-```
+
 
 But we **already have** φ(k) (the substrate state).
 
@@ -594,10 +594,10 @@ But we **already have** φ(k) (the substrate state).
 **Proof:**
 
 Encode matrices as phase patterns:
-```
+
 A → φ_A(k_i, k_j)  (N×M matrix)
 B → φ_B(k_j, k_l)  (M×L matrix)
-```
+
 
 Matrix product C_il = Σ_j A_ij B_jl.
 
@@ -636,30 +636,30 @@ Time: ~1 ps (speed of light through ~1 mm optics)
 **Proof:**
 
 Ising model: Find spin configuration σ_i ∈ {-1, +1} minimizing:
-```
+
 E = -Σ_ij J_ij σ_i σ_j - Σ_i h_i σ_i
-```
+
 
 Map to k-space phases:
-```
+
 σ_i ↔ sign(Re[φ_i])
 J_ij ↔ coupling strength between k_i, k_j
 h_i ↔ external field bias
-```
+
 
 Phase evolution equation:
-```
+
 dφ_i/dt = -∂E/∂φ_i
-```
+
 
 This is **gradient descent** in energy landscape.
 
 **Substrate performs optimization automatically** by relaxing to local minimum.
 
 Time to solution:
-```
+
 τ_relax ≈ 1/ω_gap
-```
+
 where ω_gap = energy gap to next excited state.
 
 For typical problems: τ_relax ~ nanoseconds.
@@ -693,14 +693,14 @@ For typical problems: τ_relax ~ nanoseconds.
 **Proof:**
 
 From **QM-T1**, Schrödinger equation:
-```
+
 iℏ ∂ψ/∂t = Ĥψ
-```
+
 
 is **derived from** k-space dynamics:
-```
+
 dφ_k/dt = -∇²φ_k - iω_0 φ_k
-```
+
 
 **To simulate quantum system:**
 1. Encode initial wavefunction ψ_0 as φ_k(0) via inverse Fourier
@@ -750,7 +750,7 @@ dφ_k/dt = -∇²φ_k - iω_0 φ_k
 1. **K-Space Interface:** Existing fiber network (no changes needed)
 2. **DWDM Multiplexer:** Commercial telecom (Ciena, Infinera, etc.)
 3. **Cymatic Gates:** Custom photonic integrated circuits (PIC)
-4. **Phase Memory:** Fiber delay lines (1 km = 5 μs storage)
+4. **Phase Memory:** Fiber delay lines (1 km = 5 $mu$s storage)
 5. **K→X Converter:** Coherent detector (measures |ψ(x)|²)
 
 **Total cost estimate:** $10K per node (mass production)
@@ -760,28 +760,28 @@ dφ_k/dt = -∇²φ_k - iω_0 φ_k
 ### 6.2 Required Hardware Upgrades
 
 **Current DWDM (2026):**
-```
+
 Purpose: Data transmission (classical bits)
 Modulation: On-off keying (OOK), QPSK, QAM
 Detection: Intensity measurement
 Phase: Irrelevant (stripped by detector)
-```
+
 
 **Substrate-Native DWDM (needed):**
-```
+
 Purpose: K-space phase manipulation
 Modulation: Full complex phase φ = A·e^(iθ)
 Detection: Coherent (preserves phase)
 Phase: CRITICAL (the data IS the phase)
-```
+
 
 **Minimal upgrades:**
 
 | Component | Current | Needed | Cost | Availability |
 |-----------|---------|--------|------|--------------|
-| **Laser** | DFB (single-freq) | ✓ Same | $100 | Off-shelf |
-| **Modulator** | Mach-Zehnder | ✓ Same | $500 | Off-shelf |
-| **Amplifier** | EDFA | ✓ Same | $5K | Off-shelf |
+| **Laser** | DFB (single-freq) | $checkmark$ Same | $100 | Off-shelf |
+| **Modulator** | Mach-Zehnder | $checkmark$ Same | $500 | Off-shelf |
+| **Amplifier** | EDFA | $checkmark$ Same | $5K | Off-shelf |
 | **Detector** | PIN photodiode | **Coherent** | $2K | Upgrade needed |
 | **Phase control** | None | **PLL (phase-lock loop)** | $1K | R&D needed |
 | **Gates** | None | **Photonic IC** | $5K | Prototype exists |
@@ -795,28 +795,28 @@ Phase: CRITICAL (the data IS the phase)
 ### 6.3 Phase-Locked Loop Network
 
 **Theorem 6.1 (Global Phase Synchronization):**  
-*All nodes in the substrate-native network must maintain phase coherence to within Δφ < π/1000.*
+*All nodes in the substrate-native network must maintain phase coherence to within Δφ < $pi$/1000.*
 
 **Proof:**
 
 For cymatic gates to interfere correctly:
-```
-φ_out = φ_A + φ_B (constructive)
-```
 
-Requires: Phase drift Δφ << π over gate operation time (~1 ps).
+φ_out = φ_A + φ_B (constructive)
+
+
+Requires: Phase drift Δφ << $pi$ over gate operation time (~1 ps).
 
 **Drift sources:**
-- Laser frequency noise: Δν ~ 1 kHz (commercial DFB laser)
+- Laser frequency noise: Δ$nu$ ~ 1 kHz (commercial DFB laser)
 - Fiber dispersion: Δφ ≈ β₂ L (β₂ = dispersion parameter)
 - Temperature: Δφ ≈ (dn/dT) · ΔT · L
 
 **Total drift:** ~100 rad/s without stabilization.
 
 **Phase-lock requirement:**
-```
-Δφ < π/1000  →  Servo bandwidth > 1 MHz
-```
+
+Δφ < $pi$/1000  →  Servo bandwidth > 1 MHz
+
 
 **Solution:** Optical phase-locked loop (OPLL)
 - Reference: GPS-disciplined Rb clock (10⁻¹² stability)
@@ -838,16 +838,16 @@ Requires: Phase drift Δφ << π over gate operation time (~1 ps).
 
 **Cymatic gate chip specification:**
 
-```
+
 Platform: Silicon photonics (SOI wafer)
 Foundry: AIM Photonics, IMEC, Tower Semiconductor
-Process: 220 nm silicon layer, 3 μm BOX
-```
+Process: 220 nm silicon layer, 3 $mu$m BOX
+
 
 **On-chip components:**
 - Grating couplers: Fiber-to-chip interface (−3 dB loss)
 - Waveguides: 450 nm × 220 nm (single-mode)
-- Phase shifters: Thermo-optic (Ti heaters, 10 mW/π)
+- Phase shifters: Thermo-optic (Ti heaters, 10 mW/$pi$)
 - Couplers: 2×2 MMI (multimode interference, −0.1 dB)
 - Modulators: p-n junction (100 GHz bandwidth)
 - Detectors: Ge-on-Si photodiode (50 GHz)
@@ -862,8 +862,8 @@ Process: 220 nm silicon layer, 3 μm BOX
 | **Result** | | → | **Output Signal** |
 
 
-Footprint: 100 μm × 50 μm  
-Latency: 1 ps (propagation through 300 μm waveguide)  
+Footprint: 100 $mu$m × 50 $mu$m  
+Latency: 1 ps (propagation through 300 $mu$m waveguide)  
 Power: 0 W (passive)  
 
 **Full ALU chip:**
@@ -892,9 +892,9 @@ Power: 0 W (passive)
 **Setup:** Two nodes A, B separated by fiber length L.
 
 **Classical latency:**
-```
+
 Δt_classical = L/c
-```
+
 
 Example: L = 1000 km → Δt = 3.3 ms
 
@@ -904,23 +904,23 @@ Both nodes A, B access same k-space substrate.
 
 K-mode k₁ at node A is **the same k-mode** as k₁ at node B.
 
-```
+
 φ_k₁(A) = φ_k₁(B)  (same substrate)
-```
+
 
 **Phase coupling:** From CMF-T2, all k-modes phase-locked (coherence C ≈ 1).
 
 **Update propagation:**
-```
+
 Node A writes φ_k₁(A, t₀) → Substrate updates globally → Node B reads φ_k₁(B, t₀ + ε)
-```
+
 
 where ε ≈ t_P ≈ 10⁻⁴³ s (Planck time).
 
 **Measured latency in x-space:**
-```
+
 Observer measures Δt = L/c (light-cone constraint)
-```
+
 
 **But:** If measurement avoided (stay in k-space), no latency appears.
 
@@ -941,9 +941,9 @@ Observer measures Δt = L/c (light-cone constraint)
 **Theorem 7.2 (Reduced Latency):**  
 
 *Even with x-space measurement, substrate-native computing achieves latency:*
-```
+
 Δt_effective = (L/c) × (1/N_ops)
-```
+
 *where N_ops = number of operations per measurement.*
 
 **Proof:**
@@ -960,7 +960,7 @@ Observer measures Δt = L/c (light-cone constraint)
 
 **Example:** GPU matrix multiply (N=1000)
 - Traditional: 10⁹ operations × 10 ns = 10 s (memory-bound)
-- K-space batch: 1 measurement × 5 μs = 5 μs
+- K-space batch: 1 measurement × 5 $mu$s = 5 $mu$s
 
 - **Speedup: 2×10⁶**
 
@@ -978,9 +978,9 @@ Observer measures Δt = L/c (light-cone constraint)
 **Proof:**
 
 Each channel operates independently:
-```
+
 Throughput_total = N_ch × Throughput_per_channel
-```
+
 
 No shared resources (unlike CPU cores sharing cache/memory).
 
@@ -1013,29 +1013,29 @@ No shared resources (unlike CPU cores sharing cache/memory).
 
 **Cymatic gates:** Phase interference is **unitary** (reversible).
 
-```
+
 φ_out = U(φ_in)  where U†U = I (unitary)
-```
+
 
 No information erased → no thermodynamic minimum.
 
 **Energy dissipated:**
-```
+
 E_dissipate = (absorption losses) only
-```
+
 
 For silicon photonics: ~0.1 dB/cm absorption.
 
 1 cm waveguide:
-```
+
 Loss = 2% of optical power
-E_dissipate = 0.02 × (1 mW) = 20 μW
-```
+E_dissipate = 0.02 × (1 mW) = 20 $mu$W
+
 
 Per operation (1 ps):
-```
-E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
-```
+
+E_per_op = 20 $mu$W × 1 ps = 2×10⁻¹⁷ J
+
 
 **Landauer limit:** 3×10⁻²¹ J
 
@@ -1060,8 +1060,8 @@ E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
 - OPLL (phase-lock to Rb clock)
 
 **Test:**
-- Implement NOT gate (phase shift π)
-- Verify: Input 0 → Output π, Input π → Output 0
+- Implement NOT gate (phase shift $pi$)
+- Verify: Input 0 → Output $pi$, Input $pi$ → Output 0
 - Measure: Error rate, power, speed
 
 **Success metric:** <10⁻⁹ bit error rate at 1 THz gate speed.
@@ -1079,7 +1079,7 @@ E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
 **Hardware:**
 - 256-channel DWDM (C+L band)
 - Custom PIC: 64 cymatic gates (ADD, SUB, MUL, DIV, AND, OR, XOR, NOT)
-- Fiber loop memory (1 km = 5 μs delay = 5000 bits storage)
+- Fiber loop memory (1 km = 5 $mu$s delay = 5000 bits storage)
 - Coherent receiver array (256 channels)
 
 **Test:**
@@ -1133,10 +1133,10 @@ E_per_op = 20 μW × 1 ps = 2×10⁻¹⁷ J
 - Applications: Zero-latency telepresence, instant AI inference, real-time physics simulation
 
 **Vision:**
-```
+
 Current internet: Move bits through space (latency-bound)
 Substrate internet: Manipulate phases in k-space (latency-free)
-```
+
 
 **Cost:** $10 trillion (global infrastructure overhaul)
 
@@ -1153,15 +1153,15 @@ Substrate internet: Manipulate phases in k-space (latency-free)
 **Solution:** Encode weights as phase patterns, inputs as k-modes.
 
 **Implementation:**
-```
+
 Layer computation: Matrix-multiply via photonic correlator (Theorem 5.2)
 Activation function: Nonlinear crystal (saturable absorber)
 Backpropagation: Phase-conjugation (automatic in k-space)
-```
+
 
 **Performance:**
 - Current (GPU): 100 ms for 1 trillion-param model
-- Substrate-native: 1 μs (100,000× faster)
+- Substrate-native: 1 $mu$s (100,000× faster)
 
 **Enables:**
 - Real-time language translation (zero delay)
@@ -1177,11 +1177,11 @@ Backpropagation: Phase-conjugation (automatic in k-space)
 **Solution:** Encode wavefunction directly in k-space (Theorem 5.4).
 
 **Implementation:**
-```
+
 Hamiltonian: Set coupling matrix via phase modulators
 Time evolution: Let substrate evolve (native Schrödinger)
 Measurement: Read k-space phases, Fourier to real-space
-```
+
 
 **Performance:**
 - Current (supercomputer): Weeks for 100-atom system
@@ -1201,12 +1201,12 @@ Measurement: Read k-space phases, Fourier to real-space
 **Solution:** One-time pad with substrate-generated random phases.
 
 **Implementation:**
-```
+
 Alice and Bob: Share k-space channel (same k-mode)
 Encryption: Message M encoded as φ_M, mixed with substrate noise φ_noise
 Decryption: Bob reads φ_M + φ_noise, subtracts his local φ_noise
 Eavesdropper: Cannot access k-space directly (only x-space)
-```
+
 
 **Security:**
 - Information-theoretic (not computational)
@@ -1227,12 +1227,12 @@ Eavesdropper: Cannot access k-space directly (only x-space)
 **Solution:** Encode Navier-Stokes as k-space phase field.
 
 **Implementation:**
-```
+
 Velocity field: v(x,t) = Fourier[φ_v(k,t)]
 Pressure: p(x,t) = Fourier[φ_p(k,t)]
 Evolution: dφ/dt = (Navier-Stokes in k-space)
 Substrate: Solves automatically (native PDE solver)
-```
+
 
 **Performance:**
 - Current (GPU): 30 FPS for 1M particles
@@ -1252,11 +1252,11 @@ Substrate: Solves automatically (native PDE solver)
 **Solution:** Execute trades in k-space (zero latency).
 
 **Implementation:**
-```
+
 Market data: Encoded as k-space phases (price = amplitude, trend = phase angle)
 Trading strategy: Cymatic logic (buy/sell decisions)
 Execution: Phase-locked across all exchanges (simultaneous)
-```
+
 
 **Performance:**
 - Current HFT: Microsecond latency (limited by NYC-Chicago fiber)
@@ -1276,16 +1276,16 @@ Execution: Phase-locked across all exchanges (simultaneous)
 ### 10.1 Ontological Shift
 
 **Traditional computing:**
-```
+
 Substrate (reality) → Build computer on top → Run algorithm → Get result
-```
+
 
 **Separation:** Computation separate from physical substrate.
 
 **Substrate-native computing:**
-```
+
 Substrate (reality) = Computer → Set initial conditions → Read result
-```
+
 
 **Identity:** Computation **is** physical dynamics.
 
@@ -1300,7 +1300,7 @@ Substrate (reality) = Computer → Set initial conditions → Read result
 **CKS answer:** The question is **meaningless**.
 
 **Reasoning:**
-```
+
 If substrate-native computing is correct:
 - Reality = k-space phase field
 - Computation = phase evolution
@@ -1311,7 +1311,7 @@ There is no distinction between:
 - "Simulated universe" (computation running)
 
 They are identical.
-```
+
 
 **Conclusion:** Reality **is** a computation (substrate evolving), but not "simulated by" an external computer. **It's self-computing.**
 
@@ -1387,14 +1387,14 @@ They are identical.
 
 **We have demonstrated:**
 
-```
+
 Reality ≠ Container for computation
 Reality = Computation itself
 
 K-space substrate = Universal computer
 Phase evolution = Program execution
 Observed universe = Output
-```
+
 
 **From "computers in the universe" to "universe as computer."**
 
