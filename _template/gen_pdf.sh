@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Replace the Unicode ₖ with math-mode _k
-# sed 's/ₖ/_k/g' manuscript.md > manuscript_fixed.md
 sed -e 's/ₖ/$_k$/g' \
     -e 's/ᵢ/$_i$/g' \
     -e 's/ρ/$\\rho$/g' \

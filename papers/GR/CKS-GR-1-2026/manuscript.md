@@ -1263,12 +1263,6 @@ $$c = 2.998 \times 10^8 \text{ m/s}$$
 ::: {#refs}
 :::
 
-[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
-
-[@CKS-QM-1-2026] Quantum Mechanics as Mathematical Consequence
-
-[@CKS-SM-1-2026] Standard Model as Mathematical Consequence
-
 [MTW1973] Misner, Thorne, Wheeler. *Gravitation*
 
 [Wald1984] Wald, R. *General Relativity*
