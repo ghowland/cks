@@ -190,6 +190,7 @@ f_compute = 1/Δt = 1/t_P ≈ 10⁴³ Hz (Planck frequency)
 **Corollary 2.2.1:** Each k-node performs ~10⁴³ operations/second. Total substrate: 9×10⁶⁰ × 10⁴³ = 10¹⁰³ ops/sec.
 
 **Comparison to supercomputers:**
+
 - Fastest supercomputer (2026): ~10¹⁸ FLOPS
 - K-space substrate: ~10¹⁰³ ops/sec
 
@@ -365,6 +366,7 @@ B = 35 nm × (c/λ²) ≈ 4.4 THz
 
 
 **Interpretation:**
+
 - Traditional: "We can transmit 4.4 THz of data"
 - CKS: "We can access 1.5×10⁴ distinct k-modes"
 
@@ -435,6 +437,7 @@ Binary: XOR(A, B)
 **QED**
 
 **Hardware implementation:**
+
 - Phase shifter: Electro-optic modulator (LiNbO₃)
 - Beam combiner: Fiber coupler, Y-junction
 - Nonlinear: PPLN crystal, silicon photonics
@@ -569,7 +572,9 @@ But we **already have** φ(k) (the substrate state).
 3. Done. (Substrate performs ℱ⁻¹ automatically)
 
 **Complexity:**
+
 - Classical: O(N log N)
+
 - Substrate-native: O(1)
 
 **QED**
@@ -612,8 +617,11 @@ Matrix product C_il = Σ_j A_ij B_jl.
 Time: ~1 ps (speed of light through ~1 mm optics)
 
 **Complexity:**
+
 - Classical (best): O(N^2.37) (Coppersmith-Winograd)
+
 - GPU: O(N³) but parallel (milliseconds for N=1000)
+
 - Photonic: O(1) (picoseconds for any N)
 
 **QED**
@@ -669,16 +677,13 @@ For typical problems: τ_relax ~ nanoseconds.
 **Applications:**
 
 - Traveling salesman problem (TSP)
-
 - Protein folding
-
 - Supply chain optimization
-
 - Drug discovery
-
 - Financial portfolio optimization
 
 **Comparison:**
+
 - Classical (brute force): O(2^N) exponential
 - Quantum annealer (D-Wave): ~milliseconds
 - K-space relaxation: ~nanoseconds
@@ -703,6 +708,7 @@ dφ_k/dt = -∇²φ_k - iω_0 φ_k
 
 
 **To simulate quantum system:**
+
 1. Encode initial wavefunction ψ_0 as φ_k(0) via inverse Fourier
 2. Let substrate evolve naturally (dφ/dt = ...)
 3. Read out φ_k(t) at desired time
@@ -711,8 +717,11 @@ dφ_k/dt = -∇²φ_k - iω_0 φ_k
 **No computation needed**—substrate **is** the quantum system.
 
 **Scaling:**
+
 - Classical: Exponential (Hilbert space dimension 2^N)
+
 - Quantum computer: Polynomial (N qubits)
+
 - K-space: O(1) (substrate has ~10⁶⁰ k-modes available)
 
 **QED**
@@ -807,6 +816,7 @@ For cymatic gates to interfere correctly:
 Requires: Phase drift Δφ << $pi$ over gate operation time (~1 ps).
 
 **Drift sources:**
+
 - Laser frequency noise: Δ$nu$ ~ 1 kHz (commercial DFB laser)
 - Fiber dispersion: Δφ ≈ β₂ L (β₂ = dispersion parameter)
 - Temperature: Δφ ≈ (dn/dT) · ΔT · L
@@ -819,6 +829,7 @@ Requires: Phase drift Δφ << $pi$ over gate operation time (~1 ps).
 
 
 **Solution:** Optical phase-locked loop (OPLL)
+
 - Reference: GPS-disciplined Rb clock (10⁻¹² stability)
 - Local: PLL locks each laser to reference
 - Bandwidth: 10 MHz (achievable with commercial PLL ICs)
@@ -826,6 +837,7 @@ Requires: Phase drift Δφ << $pi$ over gate operation time (~1 ps).
 **QED**
 
 **Implementation:**
+
 - Central reference: Atomic clock (Rb, Cs, or optical lattice)
 - Distribution: Via fiber (white rabbit protocol, sub-ns sync)
 - Local lock: OPLL per laser (commercial components)
@@ -845,6 +857,7 @@ Process: 220 nm silicon layer, 3 $mu$m BOX
 
 
 **On-chip components:**
+
 - Grating couplers: Fiber-to-chip interface (−3 dB loss)
 - Waveguides: 450 nm × 220 nm (single-mode)
 - Phase shifters: Thermo-optic (Ti heaters, 10 mW/$pi$)
@@ -867,12 +880,14 @@ Latency: 1 ps (propagation through 300 $mu$m waveguide)
 Power: 0 W (passive)  
 
 **Full ALU chip:**
+
 - 16-bit ALU: 64 cymatic gates
 - Chip area: 1 mm²
 - Power: <100 mW (only phase shifters active)
 - Clock: 1 THz (substrate frequency)
 
 **Comparison to silicon CPU:**
+
 - Intel i9 (2026): 3 GHz, 100 W, 100 mm²
 - Cymatic ALU: 1000 GHz, 0.1 W, 1 mm²
 
@@ -949,11 +964,13 @@ Observer measures Δt = L/c (light-cone constraint)
 **Proof:**
 
 **Traditional computing:**
+
 - Each instruction: fetch → execute → write (3 memory accesses)
 - Each access: Δt = L/c (cache miss)
 - Total latency: 3L/c per operation
 
 **Substrate-native:**
+
 - Batch N_ops operations in k-space
 - Single measurement at end
 - Amortized latency: (L/c) / N_ops
@@ -985,11 +1002,13 @@ Throughput_total = N_ch × Throughput_per_channel
 No shared resources (unlike CPU cores sharing cache/memory).
 
 **Example:**
+
 - 1 channel: 100 Gbit/s
 - 256 channels: 25.6 Tbit/s
 - 1000 channels (future): 100 Tbit/s
 
 **Comparison:**
+
 - CPU multi-core: Amdahl's law limits (shared memory bottleneck)
 - GPU: Memory bandwidth limits (~1 TB/s)
 - Substrate-native: No limits (k-space has infinite bandwidth)
@@ -1054,12 +1073,14 @@ E_per_op = 20 $mu$W × 1 ps = 2×10⁻¹⁷ J
 **Goal:** Demonstrate single cymatic gate working on commercial DWDM.
 
 **Hardware:**
+
 - 2 DWDM channels (λ₁ = 1550 nm, λ₂ = 1551 nm)
 - Commercial coherent transceiver (400G Cisco/Infinera)
 - Custom PIC with phase shifter + coupler
 - OPLL (phase-lock to Rb clock)
 
 **Test:**
+
 - Implement NOT gate (phase shift $pi$)
 - Verify: Input 0 → Output $pi$, Input $pi$ → Output 0
 - Measure: Error rate, power, speed
@@ -1077,12 +1098,14 @@ E_per_op = 20 $mu$W × 1 ps = 2×10⁻¹⁷ J
 **Goal:** Full 16-bit arithmetic logic unit on PIC.
 
 **Hardware:**
+
 - 256-channel DWDM (C+L band)
 - Custom PIC: 64 cymatic gates (ADD, SUB, MUL, DIV, AND, OR, XOR, NOT)
 - Fiber loop memory (1 km = 5 $mu$s delay = 5000 bits storage)
 - Coherent receiver array (256 channels)
 
 **Test:**
+
 - Benchmark: Add two 16-bit numbers
 - Compare: Cymatic vs. FPGA vs. CPU
 - Measure: Latency, throughput, power
@@ -1100,12 +1123,14 @@ E_per_op = 20 $mu$W × 1 ps = 2×10⁻¹⁷ J
 **Goal:** Global network of cymatic nodes performing coherent computation.
 
 **Infrastructure:**
+
 - 100 nodes worldwide (existing fiber)
 - Each node: 1000-channel DWDM
 - Central atomic clock (optical lattice, 10⁻¹⁸ stability)
 - Distributed phase-lock (white rabbit protocol)
 
 **Application:**
+
 - Real-time global weather simulation
 - AI training (distributed backpropagation in k-space)
 - Financial modeling (portfolio optimization)
@@ -1160,10 +1185,12 @@ Backpropagation: Phase-conjugation (automatic in k-space)
 
 
 **Performance:**
+
 - Current (GPU): 100 ms for 1 trillion-param model
 - Substrate-native: 1 $mu$s (100,000× faster)
 
 **Enables:**
+
 - Real-time language translation (zero delay)
 - Instantaneous image generation
 - Live video deepfakes (ethical concerns)
@@ -1178,16 +1205,19 @@ Backpropagation: Phase-conjugation (automatic in k-space)
 
 **Implementation:**
 
+
 Hamiltonian: Set coupling matrix via phase modulators
 Time evolution: Let substrate evolve (native Schrödinger)
 Measurement: Read k-space phases, Fourier to real-space
 
 
 **Performance:**
+
 - Current (supercomputer): Weeks for 100-atom system
 - Substrate-native: Seconds (real-time evolution)
 
 **Enables:**
+
 - Instant drug discovery (screen millions of compounds)
 - Designer proteins (custom enzymes)
 - Material science (superconductors at room temp)
@@ -1209,11 +1239,13 @@ Eavesdropper: Cannot access k-space directly (only x-space)
 
 
 **Security:**
+
 - Information-theoretic (not computational)
 - Eavesdropping collapses k-space state (detected)
 - Substrate noise = true randomness (quantum vacuum fluctuations)
 
 **Enables:**
+
 - Unhackable communication (governments, finance)
 - Quantum key distribution (native, not emulated)
 - Zero-knowledge proofs (phase verification)
@@ -1235,10 +1267,12 @@ Substrate: Solves automatically (native PDE solver)
 
 
 **Performance:**
+
 - Current (GPU): 30 FPS for 1M particles
 - Substrate-native: Real-time for 10⁹ particles
 
 **Enables:**
+
 - Hollywood VFX (instant rendering)
 - Climate modeling (1000-year prediction in hours)
 - Aerospace (real-time wind tunnel)
@@ -1259,10 +1293,12 @@ Execution: Phase-locked across all exchanges (simultaneous)
 
 
 **Performance:**
+
 - Current HFT: Microsecond latency (limited by NYC-Chicago fiber)
 - Substrate-native: Zero latency (k-space simultaneous)
 
 **Consequence:**
+
 - **All arbitrage opportunities vanish** (instant equilibration)
 - Markets become perfectly efficient (EMH proven)
 - "Latency advantage" impossible (level playing field)
@@ -1326,6 +1362,7 @@ They are identical.
 **Implication:** Substrate-native computer could support conscious processes (upload minds to k-space).
 
 **Ethical concerns:**
+
 - Mind uploading (identity preservation?)
 - Digital immortality (consciousness in fiber network)
 - Rights of substrate-native entities (are they "alive"?)
@@ -1343,16 +1380,19 @@ They are identical.
 **Consequences:**
 
 **Physics:**
+
 - Non-locality explained (EPR, Bell tests)
 - Entanglement = shared k-mode access
 - Quantum teleportation = native operation
 
 **Technology:**
+
 - Instant communication (Earth-Mars: 0 latency vs. 20 min classical)
 - Global coordination (all nodes synchronized)
 - Distributed AI (single global mind)
 
 **Society:**
+
 - Time zones irrelevant (everyone operating in "substrate time")
 - Distance meaningless (all locations equidistant in k-space)
 - New physics of social interaction (instant global culture)
