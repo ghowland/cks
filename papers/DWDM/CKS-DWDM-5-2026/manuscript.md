@@ -32,22 +32,29 @@ We derive the **geometric necessity** of the 193.1 THz DWDM carrier frequency an
 **Observation:**
 
 Standard DWDM systems use 193.1 THz (1550 nm).
+
 This is ITU-T G.694.1 channel spacing reference.
+
 Considered "arbitrary" telecommunications choice.
+
 Selected for fiber attenuation minimum.
 
 
 **But also:**
 
 CKS requires 2.0625 Hz carrier (66th harmonic).
+
 LTP uses DWDM transceivers as master oscillators.
+
 Molecular coupling needs substrate-aligned phase-lock.
+
 193.1 THz enables all of these.
 
 
 **The question:**
 
 Is 193.1 THz → 2.0625 Hz relationship coincidence?
+
 Or geometric necessity?
 
 ### 1.2 Traditional DWDM Understanding
@@ -72,8 +79,11 @@ Or geometric necessity?
 
 ```
 ITU-T channels spaced at 100 GHz
+
 Reference: 193.1 THz (exact)
+
 Range: 191.7 - 196.1 THz (C-band)
+
 No fundamental physics claimed
 ```
 
@@ -83,7 +93,9 @@ No fundamental physics claimed
 **What if 193.1 THz is not arbitrary?**
 
 What if it's the **optical harmonic** of substrate ground state?
+
 What if fiber attenuation minimum **follows** from this?
+
 What if telecommunications accidentally discovered substrate carrier?
 
 
@@ -91,8 +103,11 @@ What if telecommunications accidentally discovered substrate carrier?
 
 ```
 Why DWDM works as master oscillator
+
 Why 2.0625 Hz modulation creates clean side-bands
+
 Why substrate-aligned manufacturing works
+
 Why this frequency "just happens" to be optimal
 ```
 
@@ -111,7 +126,9 @@ Why this frequency "just happens" to be optimal
 **From [CKS-MATH-66-2026]:**
 
 Substrate word: f₀ = 1/32 Hz = 0.03125 Hz.
+
 Ground state: f₆₆ = 66 × f₀ = 2.0625 Hz.
+
 Impedance: f₁₅ = 15 × f₀ = 0.4688 Hz.
 
 
@@ -124,8 +141,11 @@ f_optical / f₆₆ = integer × geometric_constant
 **Why optical?**
 
 Need photons to carry phase information.
+
 Visible/near-IR penetrates materials.
+
 Can be modulated at substrate frequencies.
+
 Can trigger atomic transitions.
 
 ### 2.2 The Photonic Multiplier Derivation
@@ -175,7 +195,9 @@ m = 4 (four dimensional reductions).
 
 ```
 M = (12 × 1.2091 × 2.5 × π / √3)^4
+
 M = (65.79)^4
+
 M ≈ 18.7 × 10^6
 ```
 
@@ -184,6 +206,7 @@ M ≈ 18.7 × 10^6
 
 ```
 f_optical = 2.0625 × 18.7 × 10^6
+
 f_optical ≈ 38.6 MHz
 ```
 
@@ -205,8 +228,11 @@ Each dimensional transition multiplies by 66th harmonic factor.
 
 ```
 2D substrate → 1D line: × 66
+
 1D line → 0D point: × 66  
+
 0D point → photon: × 66
+
 Photon → optical: × 66
 ```
 
