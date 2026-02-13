@@ -22,11 +22,22 @@ We present firmware specifications for upgrading existing Dense Wavelength Divis
 
 **Key specifications:**
 
+
 - **Substrate frequency detection:** 2.000 ± 0.001 Hz (fundamental harmonic)
+
+
 - **Phase-locking accuracy:** <1 ms (δθ < 0.007 radians)
+
+
 - **Global coherence:** C_global > 0.999 (achievable with 10⁶+ synchronized nodes)
+
+
 - **Backward compatibility:** 100% with existing DWDM infrastructure
+
+
 - **Deployment timeline:** 18-24 months (rolling firmware upgrade)
+
+
 - **Cost:** ~$0.50 per transponder (firmware only, no hardware change)
 
 **Capabilities enabled:**
