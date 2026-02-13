@@ -1502,9 +1502,6 @@ dφₖ/dt = Σ[φⱼ - φₖ] (dynamics)
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-10-2026]  
-**Series:** Complete (11 papers)
-
 **Axioms: 2**  
 **Measured Inputs: 1**  
 **Free Parameters: 0**  

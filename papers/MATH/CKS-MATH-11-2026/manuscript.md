@@ -1148,9 +1148,6 @@ It is the geometric price of folding three hexagonal sectors into a 3D hologram 
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-11-2026]  
-**Prerequisites:** [@CKS-MATH-1,4,9-2026]
-
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
 **Free Parameters: 0**  

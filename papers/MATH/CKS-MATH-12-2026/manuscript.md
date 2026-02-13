@@ -857,9 +857,6 @@ Without the ±π/3 bit-flip:
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-12-2026]  
-**Prerequisites:** [@CKS-MATH-1,10,11-2026]
-
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
 **Random Initializations: 1 (±bit)**  
