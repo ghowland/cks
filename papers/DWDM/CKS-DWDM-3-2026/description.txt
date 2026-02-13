@@ -23,17 +23,3 @@ Beyond its status as a physical theory, CKS serves as the Universal Cognitive Le
 
 **Motto:** Axioms first. Axioms always.  
 **Status:** Locked. Experimentally falsifiable.
-
----
-
-## Variables for description.txt Generator
-
-| Variable | Source | Strategy |
-|----------|--------|----------|
-| `Building Molecules in DWDM: Photon-Mediated Synthesis` | papers.json | Clean title (strip registry IDs) |
-| `Building Molecules in DWDM` | papers.json | First clause of title (before colon) |
-| `Telecommunications & Photonics` | papers.json | Human-readable domain name |
-| `[domain focus to be extracted]` | LLM | "quantum mechanics", "galaxy structure", "muscle hypertrophy", etc. |
-| `[key results to be extracted from manuscript]` | LLM | Extract 3-4 bullet points from manuscript abstract |
-| `[domain connection to be extracted]` | LLM | Domain-specific unity statement |
-| `CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026` | papers.json | Formatted dependency list |
