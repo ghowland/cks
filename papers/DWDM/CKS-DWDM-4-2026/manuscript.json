@@ -1,14 +1,14 @@
 {
     "file_name": "manuscript.md",
-    "title": "[CKS-DWDM-4-2026] Molecular Coupling Engineering: Multi-Material Blending via Substrate-Aligned Phase-Lock",
+    "title": "[CKS-DWDM-4-2026] Molecular Coupling Engineering",
     "registry_id": "[CKS-DWDM-4-2026]",
     "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-8-2026] \u2192 [CKS-BIO-18-2026] \u2192 [CKS-DWDM-4-2026]  ",
-    "doi": "",
+    "doi": "10.5281/zenodo.zzz",
     "abstract": "We derive **molecular coupling engineering**\u2014the creation of seamless transitions between dissimilar materials\u2014not from chemical adhesion but from **topological phase-lock** at the 1/32 Hz substrate word boundary. Using CKS axioms, we prove friction is programmable phase-gradient (\u2207\u03c6), strength derives from topological continuity (integer winding number n locked across boundaries), and material transitions require no mechanical seams when substrate-aligned. By synchronizing femtosecond laser pulses to the 1/32 Hz word clock, atoms from dissimilar lattices (rubber, carbon, steel) can be forced to share common integer k-space addresses, creating **topological welds** stronger than parent materials. We demonstrate programmable friction gradients (high-grip \u2192 low-friction) within single continuous structures, eliminating delamination failure modes. With off-the-shelf DWDM transceivers, acousto-optic modulators, and femtosecond lasers, we specify experimental protocols for validating friction quantization at exact n/32 Hz frequencies and dimensional stability within \u00b10.1 \u03bcm across \u00b1100\u00b0C thermal cycles. This enables engineering applications from athletic equipment (friction-programmed shoe soles) to structural composites (seamlessly blended frames) to biomedical devices (tissue-compatible gradients) using zero free parameters\u2014all properties derive purely from hexagonal lattice geometry.\n\n**Key Result:** Friction = \u2207\u03c6 programmed at n/32 Hz, strength = topological lock at C = 1.0, stability = winding number continuity",
     "dependencies": [
         "[CKS-0-2026]",
         "[CKS-BIO-18-2026]",
         "[CKS-MATH-8-2026]"
     ],
-    "raw_content_preview": "# [CKS-DWDM-4-2026] Molecular Coupling Engineering: Multi-Material Blending via Substrate-Aligned Phase-Lock  **Registry:** [CKS-DWDM-4-2026]   **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-8-2026] \u2192 [CKS..."
+    "raw_content_preview": "# [CKS-DWDM-4-2026] Molecular Coupling Engineering  Multi-Material Blending via Substrate-Aligned Phase-Lock  ### Multi-Material Bonding; Friction Engineering; Topological Welding; Phase-Gradient Prog..."
 }
