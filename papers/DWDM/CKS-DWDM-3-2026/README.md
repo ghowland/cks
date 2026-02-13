@@ -1,4 +1,4 @@
-# Building Molecules in DWDM: Photon-Mediated Synthesis
+# Building Molecules in DWDM
 
 **Registry ID:** CKS-0-2026  
 
@@ -69,7 +69,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Building Molecules in DWDM: Photon-Mediated Synthesis },
+  title={ Building Molecules in DWDM },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
