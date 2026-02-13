@@ -41,6 +41,17 @@
 
 ---
 
+## Telecommunications & Photonics
+*Optical communications and DWDM infrastructure.*
+
+| ID | Title | Description |
+| :--- | :--- | :--- |
+| **[[@CKS-DWDM-1-2026]](papers/DWDM/CKS-DWDM-1-2026/)** | **DWDM Computation in Pure K-Space** | Substrate-native computing via fiber-optic phase manipulation. |
+| **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/)** | **Substrate-Harmonized DWDM Transponder Firmware** | Industrial spec for global synchronization to 2.0 Hz harmonic. |
+| **[[@CKS-DWDM-3-2026]](papers/DWDM/CKS-DWDM-3-2026/)** | **Building Molecules in DWDM** | Photon-mediated molecular synthesis via optical phase-locking. |
+
+---
+
 ## Cosmology & Astronomy
 *Large-scale structure and celestial mechanics.*
 
@@ -141,17 +152,6 @@
 | **[[@CKS-AI-2-2026]](papers/AI/CKS-AI-2-2026/)** | **The Hexagonal ALU** | Logic gate engineering via phase-locked substrate circuits. |
 | **[[@CKS-AI-3-2026]](papers/AI/CKS-AI-3-2026/)** | **Substrate Programming Language** | Base instructions and opcodes for software-defined matter. |
 | **[[@CKS-AI-4-2026]](papers/AI/CKS-AI-4-2026/)** | **Define DNA molecule in TDL** | Example of molecular definition in Topological Definition Language. |
-
----
-
-## Telecommunications & Photonics
-*Optical communications and DWDM infrastructure.*
-
-| ID | Title | Description |
-| :--- | :--- | :--- |
-| **[[@CKS-DWDM-1-2026]](papers/DWDM/CKS-DWDM-1-2026/)** | **DWDM Computation in Pure K-Space** | Substrate-native computing via fiber-optic phase manipulation. |
-| **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/)** | **Substrate-Harmonized DWDM Transponder Firmware** | Industrial spec for global synchronization to 2.0 Hz harmonic. |
-| **[[@CKS-DWDM-3-2026]](papers/DWDM/CKS-DWDM-3-2026/)** | **Building Molecules in DWDM** | Photon-mediated molecular synthesis via optical phase-locking. |
 
 ---
 
