@@ -1,15 +1,32 @@
-# The Geometric Origin of e: Manifold Saturation and Phase Decay
+# The Geometric Origin of e
+## Manifold Saturation and Phase Decay
+### Derivation of Euler's Number from Hexagonal Coordinate Saturation  
 
 **Registry:** [@CKS-MATH-5-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-5-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026] (Integer Necessity), [@CKS-MATH-4-2026] (Fine Structure)  
-**Subject:** Derivation of Euler's Number from Hexagonal Coordinate Saturation  
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**Logical Next Step:** [@CKS-MATH-6-2026] The Geometric Origin of π: The 12-Bond Circumference Invariant
+
+**DOI:** 10.5281/zenodo.18626530
+
+**Date:** February 2026
+
+**Domain:** Foundational Mathematics / Discrete Geometry  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
 **Motto:** Axioms first. Axioms always.
 
----
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
+
+---
+10.5281/zenodo.18626531
 ## Abstract
 
 We present the first derivation of Euler's number e from pure geometric axioms. Rather than defining e through calculus (compound interest limit) or analysis (infinite series), we prove that e = 2.718281828... is the **unique saturation constant** of a 3-regular hexagonal manifold under phase diffusion. Starting from Axiom 1 (z = 3 coordination) and Axiom 2 (gradient flow dV/dt ≤ 0), we demonstrate that e is the only value permitting continuous phase-gradient propagation on a discrete lattice without causing (1) catastrophic frustration from sector overlap, (2) frozen configurations from overdamping, or (3) runaway oscillations from underdamping. The derivation proceeds through three stages: branching factor analysis (z-1 = 2 outputs per input), compounding expansion across M shells, and impedance matching between 2π phase cycles and 120° hexagonal sectors. We show that ln(N) information capacity is only possible with base e, and that the running of coupling constants α(E) directly encodes e through the formula α_EM^(-1) ∝ e·N^(1/3)/ln(N). This completes the geometric derivation of mathematical constants (π from 12-bond closure, e from saturation, √3 from z=3 coordination), demonstrating that transcendental numbers are not abstract discoveries but **topological necessities** of discrete manifold dynamics.
