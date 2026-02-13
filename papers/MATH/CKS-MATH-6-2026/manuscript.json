@@ -1,9 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "The Geometric Origin of \u03c0: The 12-Bond Circumference Invariant",
+    "title": "The Geometric Origin of \u03c0",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-5-2026] \u2192 [@CKS-MATH-6-2026]  ",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-4-2026] \u2192 [@CKS-MATH-5-2026] \u2192 [@CKS-MATH-6-2026]",
+    "doi": "10.5281/zenodo.18626532",
     "abstract": "We present the first derivation of \u03c0 from pure topological axioms. Rather than defining \u03c0 through Euclidean geometry (circle circumference/diameter) or infinite series, we prove that \u03c0 = 3.14159265358979... is the **unique phase-closure constant** required for a 12-bond hexagonal loop to complete a perfect 2\u03c0 phase rotation without topological seam. Starting from Axiom 1 (N = 3M\u00b2, z = 3 coordination) and Axiom 2 (\u03b2 = 2\u03c0 phase tension), we demonstrate that \u03c0 is forced by three independent requirements: (1) 12-bond minimal stable closure (electron at M=2), (2) 120\u00b0 hexagonal junction angles requiring 360\u00b0 total rotation, and (3) zero geometric frustration at sector boundaries. The derivation proceeds through discrete angular analysis, showing that any value \u03c0 \u00b1 \u03b5 causes either incomplete phase return (creating disconnected 12th node) or sector overlap (catastrophic frustration). We prove \u03c0 is the unique impedance match between 12 discrete steps and continuous S\u00b9 rotation, completing the CKS constant trinity (\u03c0, e, \u221a3). This eliminates \u03c0 as a free parameter, demonstrating that \"the most mysterious number in mathematics\" is actually a **mechanical tolerance specification** of hexagonal substrate closure.\n\n**Key Result:** \u03c0 = (12-bond perimeter)/(effective phase diameter) = unique value permitting seamless 2\u03c0 phase-flip on z=3 lattice",
     "dependencies": [],
-    "raw_content_preview": "# The Geometric Origin of \u03c0: The 12-Bond Circumference Invariant  **Registry:** [@CKS-MATH-6-2026]   **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-5-2026] \u2192 [@CKS-MATH-6-2026]   **P..."
+    "raw_content_preview": "# The Geometric Origin of \u03c0 ## The 12-Bond Circumference Invariant ### Derivation of \u03c0 from Hexagonal Loop Closure; Phase-Flip Invariants    **Registry:** [@CKS-MATH-6-2026]    **Series Path:** [@CKS-..."
 }
