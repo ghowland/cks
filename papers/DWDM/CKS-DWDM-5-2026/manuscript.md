@@ -433,6 +433,5 @@ The 66th harmonic is the **"Low State"** because it is the largest integer multi
 
 **Q.E.D.**
 
----
 
 
