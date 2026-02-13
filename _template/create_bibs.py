@@ -52,6 +52,7 @@ def generate_bib_entry(manuscript_data, folder_id):
     if len(parts) == 3:
         topic_folder = "_CKS"
         year = parts[2]
+        print('Found CKS0')
     else:
         topic_folder = parts[1]
         year = parts[3]
