@@ -2,14 +2,17 @@
 
 **A Theorem-Based Derivation of Einstein Equations, Schwarzschild Solution, and Cosmology from Hexagonal Lattice Geometry**
 
-**Registry:** [@CKS-GR-1-2026]  
+**Registry:** [@CKS-GR-1-2026]
+
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-GR-1-2026]
+
 **Prerequisites:** [@CKS-QM-1-2026], [@CKS-SM-1-2026], [@CKS-MATH-0-2026], [@CKS-MATH-10-2026]
+
 **Domain:** Foundational Mathematics / Discrete Geometry  
 
 **DOI:** 10.5281/zenodo.18610932
 
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
 **Motto:** Axioms first. Axioms always.
 

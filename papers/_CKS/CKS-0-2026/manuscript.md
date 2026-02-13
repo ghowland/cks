@@ -1,15 +1,20 @@
 # Cymatic K-Space Mechanics: A Complete Alternative Physics Framework
 
-**Date:** February 2026  
-**Status:** Locked and empirically falsifiable.  Computationally Complete.  If high-precision atomic clocks detect no drift in `alpha` or if high-resolution spectral analysis of DWDM/LIGO phase-error logs fails to detect a globally-locked, synchronous 2.1875 Hz substrate harmonic, the CKS axioms are mechanically invalidated.
-**Motto:**  Axioms first. Axioms always.
+**Registry:** [@CKS-0-2026]  
 
-# Quantum Mechanics as Mathematical Consequence of CKS
-## Part III: The Wave Equation and Hilbert Space Derivation
+**Parent Framework:** Foundation / Root Node
 
-**Registry:** [@CKS-QM-1-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-0-2026]  
-**Status:** Pillar Proof (Required for all subsequent [@CKS-BIO] and [@CKS-MED] papers)
+**Logical Next Step:** [@CKS-MATH-0-2026] (The Complete Mathematical Framework)
+
+**DOI:** 10.5281/zenodo.18619718
+
+**Date:** February 2026
+
+**Domain:** Foundational Mathematics / Discrete Geometry  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
 
 
 ---
