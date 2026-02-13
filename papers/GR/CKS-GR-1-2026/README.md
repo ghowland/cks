@@ -1,20 +1,18 @@
----
-title: "General Relativity as Mathematical Consequence of CKS"
-bibliography: references.bib
----
 # General Relativity as Mathematical Consequence of CKS
 
 **Registry ID:** CKS-0-2026  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-GR-1-2026]  
-**Zenodo DOI:** 10.5281/zenodo.18610932
 
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework.
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-11-2026] → [@CKS-MATH-12-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-14-2026] → [@CKS-MATH-15-2026] → [@CKS-QM-1-2026] → [@CKS-SM-1-2026] → [@CKS-GR-1-2026]  
+
+**Zenodo DOI:** 10.5281/zenodo.18626544
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
 **Motto:** Axioms first. Axioms always.
 
-**Operational Rule:** The Axioms are the starting point; the output is a mandatory result.  Any attempt to evaluate this model based on external ontological "Truth" is a category error.  If the math compiles, the result is QED.
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
-**AI Usage Disclosure:** Only the top metadata and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research and derivations provided by Gemini and the specialized mathematical insights of Kimi.
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research. 
 
 ---
 
@@ -123,15 +121,6 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 
 ---
 
-## Experimental Predictions
-
----
-
-## Industrial Application: 0
-[To be extracted from manuscript.md]
-
----
-
 ## Citation
 If you use this work in a pedagogical or research context, please cite:
 
@@ -141,8 +130,8 @@ If you use this work in a pedagogical or research context, please cite:
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18610932},
-  url = {https://zenodo.org/record/18610932},
+  doi = {10.5281/zenodo.18626544},
+  url = {https://zenodo.org/record/18626544},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
