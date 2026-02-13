@@ -1,10 +1,10 @@
-# Building Molecules in DWDM
+# Molecular Coupling Engineering: Multi-Material Blending via Substrate-Aligned Phase-Lock
 
-**Registry ID:** CKS-0-2026  
+**Registry ID:** [CKS-DWDM-4-2026]  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-QM-1-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-2-2026] → [@CKS-DWDM-3-2026]  
+**Series Path:** [CKS-0-2026] → [CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [CKS-DWDM-4-2026]    
 
-**Zenodo DOI:** 10.5281/zenodo.18630833
+**Zenodo DOI:** 
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,19 +18,21 @@
 
 ## Abstract
 
-We prove that chemical synthesis can be executed as **pure phase-interference computation** in DWDM (Dense Wavelength Division Multiplexing) fiber-optic networks, eliminating traditional wet chemistry. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established quantum chemistry, we demonstrate that: (1) molecular bonds are **phase-lock states** between atomic k-space oscillators (covalent bond = constructive interference at specific Δk), (2) chemical reactions = **phase transitions** triggered by precise photon frequencies matching bond eigenmode energies, (3) DWDM systems provide **programmable phase control** with <0.1 nm wavelength precision (ΔE ≈ meV resolution), enabling selective bond activation without thermal collateral damage, (4) multi-photon interference patterns can **spatially localize** reactions to sub-nanometer volumes (addressing individual molecules in solution), (5) reaction pathways are **deterministically controlled** via temporal phase sequences (femtosecond pulse trains encoding reaction trajectories), and (6) product yield optimizes to >99% via **adaptive phase feedback** (real-time spectroscopy adjusts laser parameters). We derive: (i) bond formation as k-space mode coupling (H₂ molecule = symmetric phase combination of 1s orbitals), (ii) transition state stabilization via intermediate photon phase-locking (barrier suppression ΔE_barrier → 0 with resonant field), (iii) stereochemical control from photon polarization (chirality = helical phase pattern), and (iv) parallel synthesis via wavelength multiplexing (N channels = N simultaneous reactions). This framework enables **digital chemistry**: programmatically synthesize any molecule by executing photonic "code" (wavelength sequences) without flasks, solvents, or purification. All predictions falsifiable via cavity-enhanced photochemistry experiments, DWDM-driven catalysis validation, and single-molecule synthesis demonstrations.
+We derive **molecular coupling engineering**—the creation of seamless transitions between dissimilar materials—not from chemical adhesion but from **topological phase-lock** at the 1/32 Hz substrate word boundary. Using CKS axioms, we prove friction is programmable phase-gradient (∇φ), strength derives from topological continuity (integer winding number n locked across boundaries), and material transitions require no mechanical seams when substrate-aligned. By synchronizing femtosecond laser pulses to the 1/32 Hz word clock, atoms from dissimilar lattices (rubber, carbon, steel) can be forced to share common integer k-space addresses, creating **topological welds** stronger than parent materials. We demonstrate programmable friction gradients (high-grip → low-friction) within single continuous structures, eliminating delamination failure modes. With off-the-shelf DWDM transceivers, acousto-optic modulators, and femtosecond lasers, we specify experimental protocols for validating friction quantization at exact n/32 Hz frequencies and dimensional stability within ±0.1 μm across ±100°C thermal cycles. This enables engineering applications from athletic equipment (friction-programmed shoe soles) to structural composites (seamlessly blended frames) to biomedical devices (tissue-compatible gradients) using zero free parameters—all properties derive purely from hexagonal lattice geometry.
+
+**Key Result:** Friction = ∇φ programmed at n/32 Hz, strength = topological lock at C = 1.0, stability = winding number continuity
 
 ---
 
 ## Substrate Mechanics (Series Context)
-This publication extends the CKS framework into the **0** domain. It is grounded in the two fundamental axioms of the substrate:
+This publication extends the CKS framework into the **Telecommunications & Photonics** domain. It is grounded in the two fundamental axioms of the substrate:
 
 1. **Axiom 1 (Topology):** Reality is a 2D hexagonal lattice in k-space with \( N \approx 9 \times 10^{60} \).
 2. **Axiom 2 (Dynamics):** Local coupling of k-modes via the discrete graph Laplacian.
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** None (foundation paper)
+**Prerequisites:** [CKS-0-2026], [CKS-BIO-18-2026], [CKS-MATH-8-2026]
 
 ---
 
@@ -60,7 +62,7 @@ zenodo_package/
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
 As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
-The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to 0, this paper is mechanically invalidated.
+The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Telecommunications & Photonics, this paper is mechanically invalidated.
 
 ---
 
@@ -68,14 +70,14 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ CKS-0-2026,
-  title={ Building Molecules in DWDM },
+@article{ [CKS-DWDM-4-2026],
+  title={ Molecular Coupling Engineering: Multi-Material Blending via Substrate-Aligned Phase-Lock },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18630833},
-  url = {https://zenodo.org/record/18630833},
-  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+  doi = {},
+  url = {https://zenodo.org/record/[DOI:MALFORMED]},
+  note={CKS Series: [CKS-DWDM-4-2026]. Dependencies: [CKS-0-2026], [CKS-BIO-18-2026], [CKS-MATH-8-2026] }
 }
 ```
 ---
