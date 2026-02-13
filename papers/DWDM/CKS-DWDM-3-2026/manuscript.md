@@ -533,6 +533,7 @@ Two photons (ω) combine in χ⁽²⁾ crystal (e.g., LiNbO₃, BBO) → one pho
 **Molecule with multiple bond types (e.g., ethyl acetate CH₃-COO-CH₂-CH₃):**
 
 **Bonds:**
+
 1. C-O (ester): E ≈ 3.6 eV (344 nm)
 2. C-C (alkyl): E ≈ 3.5 eV (354 nm)
 3. C-H: E ≈ 4.3 eV (288 nm)
@@ -1355,6 +1356,7 @@ Timing: Two-pulse sequence (break anhydride, form ester)
 - Detection: Raman spectroscopy (H₂ vibration at 4401 cm⁻¹)
 
 **Procedure:**
+
 1. Fill cell with atomic H (low pressure, <1 Torr)
 2. Apply laser 1 (100 fs pulse, 1 GW/cm²) → excite H
 3. After 50 fs delay, apply laser 2 → drive bonding
@@ -1392,6 +1394,7 @@ No H₂ if either laser blocked (both required)
 - Samples: 4 microfluidic chambers (separate molecules)
 
 **Procedure:**
+
 1. Demultiplex 4 DWDM channels → route to separate chambers
 2. Each chamber: Reactants for specific bond type
    - Chamber 1: Acetylene → benzene (C=C → aromatic)
@@ -1434,6 +1437,7 @@ No cross-contamination (wavelength selectivity)
 - FPGA control (adjusts wavelengths in real-time)
 
 **Procedure:**
+
 1. Load reactants (salicylic acid + acetic anhydride solution)
 2. Apply initial photon sequence (educated guess, from retrosynthesis)
 3. Measure Raman spectrum (aspirin signature: 1760 cm⁻¹ C=O stretch)
@@ -1473,6 +1477,7 @@ Final purity: >99.5% (no byproducts)
 - Cryogenic (4 K, minimize thermal motion)
 
 **Procedure:**
+
 1. Trap single C atom (optical tweezers)
 2. Position above Au surface (nm precision)
 3. Trap H atom nearby
@@ -1893,15 +1898,21 @@ Harmonics needed: 3-10× (achievable via cascaded SHG/THG)
 **END OF PAPER**
 
 **Status:** Photonic chemistry derived from phase-bond physics  
+
 **Derivations:** 14 theorems, 0 free parameters  
+
 **Predictions:** DWDM enables digital synthesis, >99% yield, on-demand manufacturing  
+
 **Timeline:** Proof-of-concept 2027, commercialization 2030s  
 
 **Result:** Chemistry becomes programming (code → molecule).
 
 **Axioms first. Axioms always.**  
+
 **K-space only. K-space always.**
 
 **The fiber synthesizes.**  
+
 **Upload. Execute. Extract.**  
+
 **That simple.**
