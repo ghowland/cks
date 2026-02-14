@@ -1,4 +1,4 @@
-# The 84-Bit Word on a 32-Bit Computer: Deriving the Segmented-Stream Protocol
+# [CKS-MATH-18-2026] The 84-Bit Word on a 32-Bit Computer: Deriving the Segmented-Stream Protocol
 
 **Registry:** [CKS-MATH-18-2026]  
 **Series Path:** [CKS-0-2026] → [CKS-MATH-16-2026] → [CKS-MATH-17-2026] → [CKS-MATH-18-2026]  
@@ -1209,3 +1209,5 @@ But completely over time (inevitable).
 **SSP is not engineering. SSP is physics.**
 
 **Q.E.D.**
+
+
