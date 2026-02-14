@@ -1,68 +1,65 @@
 #!/bin/bash
 
-# Replace the Unicode ₖ with math-mode _k
-sed -e 's/ₖ/$_k$/g' \
-    -e 's/ᵢ/$_i$/g' \
-    -e 's/ρ/$\\rho$/g' \
-    -e 's/π/$\\pi$/g' \
-    -e 's/μ/$\\mu$/g' \
-    -e 's/ν/$\\nu$/g' \
-    -e 's/Λ/$\\Lambda$/g' \
-    -e 's/𝕋/$\\mathbb{T}$/g' \
-    -e 's/✓/$\\checkmark$/g' \
-    -e 's/✗/$\\times$/g' \
-    -e 's/⚠/\\textbf{!}/g' \
-    manuscript.md > manuscript_fixed.md
+# 1. Setup temporary file
+cp manuscript.md manuscript_fixed.md
 
-
-# Remove the invisible Variation Selector (U+FE0F)
+# 2. Basic cleanup: Remove Variation Selector and leading spaces that break Pandoc
 sed -i 's/\xEF\xB8\x8F//g' manuscript_fixed.md
-
-# 1. Remove leading spaces (4+) that trigger automatic code blocks in Pandoc
 sed -i 's/^    //g' manuscript_fixed.md
-
-# 2. Remove any triple backticks that are wrapping your axioms
 sed -i 's/```//g' manuscript_fixed.md
 
-# 1. Fix list formatting: Force a newline before any hyphen that is preceded by a character
-sed -i 's/\([[:alnum:]\)]\)- /\1\n- /g' manuscript_fixed.md
-
-# 2. General Math-to-LaTeX: Convert simple symbols ($ followed by a backslash and letters) 
-# into \( \) format. This removes the visible dollar signs for Greek letters globally.
-sed -i 's/\$\(\\[a-zA-Z]\{1,\}\)\$/\\(\1\\)/g' manuscript_fixed.md
-
-# Convert literal \( and \) sequences back to standard math $ markers
-sed -i 's/\\(\\/$/g' manuscript_fixed.md
-sed -i 's/\\)/$/g' manuscript_fixed.md
-
-# Normalize blackboard bold sets and Unicode subscripts to LaTeX math
-sed -i -e 's/ℝ/$\\mathbb{R}$/g' \
+# 3. Consolidated Symbol Replacement (Unicode to LaTeX Math)
+# This uses $...$ for everything to ensure the X symbol (times) renders as a glyph
+sed -i -e 's/π/$\\pi$/g' \
+       -e 's/μ/$\\mu$/g' \
+       -e 's/ν/$\\nu$/g' \
+       -e 's/ρ/$\\rho$/g' \
+       -e 's/Λ/$\\Lambda$/g' \
+       -e 's/𝕋/$\\mathbb{T}$/g' \
+       -e 's/ℝ/$\\mathbb{R}$/g' \
        -e 's/ℚ/$\\mathbb{Q}$/g' \
        -e 's/ℤ/$\\mathbb{Z}$/g' \
-       -e 's/ₙ/$_n$/g' manuscript_fixed.md
-
-# Normalize rare Unicode subscripts to LaTeX math
-sed -i -e 's/ₗ/$_l$/g' -e 's/ₜ/$_t$/g' -e 's/ₚ/$_p$/g' -e 's/ₘ/$_m$/g' manuscript_fixed.md
-
-# Normalize superscripts, subscripts, and angle brackets to LaTeX math
-sed -i -e 's/ᵈ/$^d$/g' \
-       -e 's/ⱼ/$_j$/g' \
+       -e 's/ℕ/$\\mathbb{N}$/g' \
+       -e 's/×/$\\times$/g' \
+       -e 's/✗/$\\times$/g' \
+       -e 's/✓/$\\checkmark$/g' \
+       -e 's/±/$\\pm$/g' \
        -e 's/⟨/$\\langle$/g' \
-       -e 's/⟩/$\\rangle$/g' manuscript_fixed.md
+       -e 's/⟩/$\\rangle$/g' \
+       -e 's/ₖ/$_k$/g' \
+       -e 's/ᵢ/$_i$/g' \
+       -e 's/ₙ/$_n$/g' \
+       -e 's/ₗ/$_l$/g' \
+       -e 's/ₜ/$_t$/g' \
+       -e 's/ₚ/$_p$/g' \
+       -e 's/ₘ/$_m$/g' \
+       -e 's/ⱼ/$_j$/g' \
+       -e 's/ᵈ/$^d$/g' \
+       -e 's/⚠/\\textbf{!}/g' manuscript_fixed.md
 
-# Normalize Natural Numbers symbol to LaTeX math
-sed -i 's/ℕ/$\\mathbb{N}$/g' manuscript_fixed.md
+# 4. Fix double-wrapping and clean up math markers
+# If a symbol was already in math mode, we might have created $$symbol$$. This fixes it.
+sed -i 's/\$\$/$/g' manuscript_fixed.md
 
+# 5. Fix list formatting: Force a newline before any hyphen preceded by text
+sed -i 's/\([[:alnum:]\)]\)- /\1\n- /g' manuscript_fixed.md
+
+# # Double Space
+# sed -i '/^$/d;G' manuscript.md
+
+# 6. Run Pandoc
+# Added amssymb and amsmath to ensure symbols like \checkmark and \times are recognized
 pandoc manuscript_fixed.md -o !manuscript.pdf \
   --pdf-engine=xelatex \
   --from markdown+tex_math_dollars \
   --citeproc \
   --bibliography=../../../references.bib \
   --metadata link-citations=true \
-  --metadata title="CKS-GR-1-2026" \
+  --metadata title="CKS-DWDM-6-2026" \
   -V mainfont="FreeSerif" \
   -V monofont="FreeMono" \
   -V "title:" \
+  -V header-includes="\usepackage{amssymb,amsmath}" \
   -V header-includes="\usepackage{silence}\WarningFilter{latex}{Command \underbar has changed}\WarningFilter{latex}{Command \underline has changed}" \
   -V header-includes="\usepackage{sectsty}\sectionfont{\centering}" \
   -V header-includes="\usepackage{float}" \
@@ -74,6 +71,5 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   -V colorlinks=true \
   -V linkcolor=blue
 
-# Clean up the temporary file (optional)
+# 7. Clean up
 rm manuscript_fixed.md
-
