@@ -87,10 +87,6 @@ In the **Cymatic K-Space Mechanics (CKS)** framework, the following numerical co
 
 ---
 
-
-
----
-
 ### Summary: The Unified Axiom Map
 1.  **Axiom 1 (Discrete $N$):** Determines the **Scale** (Gravity, Age, Hubble, Planck).
 2.  **Axiom 2 (Liquid $\phi$):** Determines the **Interaction** (Forces, Mass, Coherence).
