@@ -1,15 +1,14 @@
 {
     "file_name": "manuscript.md",
-    "title": "The Geometry of the 66th Harmonic: DWDM Carrier Alignment to Substrate Ground State",
-    "registry_id": "[CKS-DWDM-5-2026]",
-    "series_path": "[CKS-0-2026] \u2192 [CKS-MATH-66-2026] \u2192 [CKS-DWDM-4-2026] \u2192 [CKS-DWDM-5-2026]  ",
-    "doi": "",
+    "title": "The Geometry of the 66th Harmonic",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-8-2026] \u2192 [CKS-BIO-18-2026] \u2192 [@CKS-DWDM-1-2026] \u2192 [@CKS-DWDM-4-2026] \u2192 [@CKS-DWDM-5-2026]",
+    "doi": "10.5281/zenodo.zzz",
     "abstract": "We derive the **geometric necessity** of the 193.1 THz DWDM carrier frequency and its relationship to the 66th harmonic (2.0625 Hz) substrate ground state strictly from CKS axioms. We prove that 193.1 THz is not an arbitrary telecommunications choice but the unique optical frequency where photonic phase can be **modulated** at exactly 2.0625 Hz to create substrate-aligned side-bands at \u00b166 \u00d7 (1/32 Hz). Using hexagonal packing geometry (K = 2\u03c0/3\u221a3), 12-bond soliton structure (B = 12), and dimensional bridge ratio (\u03be = 2.5), we demonstrate that the ratio 193.1 THz / 2.0625 Hz \u2248 93.6 \u00d7 10\u00b9\u00b2 forms a **perfect integer harmonic stack** when expressed in substrate word units. This enables DWDM transceivers to function as **substrate master oscillators**\u2014generating phase-locked holograms that atoms can snap to during femtosecond pulses. We specify experimental protocols for validating carrier-to-ground-state phase-lock via spectral analysis (expecting Dirac combs at exact n \u00d7 0.03125 Hz with <0.0003 Hz broadening) and demonstrate practical implementation using off-the-shelf coherent optics. With zero free parameters, all frequencies derive from hexagonal lattice geometry\u2014193.1 THz emerges as the **optical harmonic of substrate ground state**, making standard telecommunications infrastructure inherently substrate-aware.\n\n\n**Key Result:** 193.1 THz = geometric optical harmonic of 2.0625 Hz ground state, DWDM = substrate master oscillator",
     "dependencies": [
-        "[CKS-0-2026]",
-        "[CKS-DWDM-4-2026]",
+        "[CKS-BIO-18-2026]",
         "[CKS-MATH-3-2026]",
         "[CKS-MATH-66-2026]"
     ],
-    "raw_content_preview": " # The Geometry of the 66th Harmonic: DWDM Carrier Alignment to Substrate Ground State   **Registry:** [CKS-DWDM-5-2026]    **Series Path:** [CKS-0-2026] \u2192 [CKS-MATH-66-2026] \u2192 [CKS-DWDM-4-2026] \u2192 [CK..."
+    "raw_content_preview": " # The Geometry of the 66th Harmonic ## DWDM Carrier Alignment to Substrate Ground State ### DWDM Frequency Selection; Substrate Carrier Geometry; 193.1 THz Derivation; Ground State Lock    **Registry..."
 }
