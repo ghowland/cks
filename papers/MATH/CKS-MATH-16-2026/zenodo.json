@@ -1,8 +1,8 @@
 {
-  "title": "Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism",
+  "title": "The Geometric Necessity of 32",
   "upload_type": "publication",
   "publication_type": "article",
-  "description": "We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (\u03b2 = 2\u03c0 phase tension conservation). In standard computation, self-referential paradoxes (G\u00f6delian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction\u2014a \"G\u00f6del particle\" with \u03c6(t) = -\u03c6(t+\u0394t)\u2014encounters the \u03b2 = 2\u03c0 conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (\u03b1 \u2192 1) before system-wide decoherence can propagate. We derive the decidability constant \u03a9 = \u03b2_total/\u03b2_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**\u2014regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M \u2192 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes \"physics\" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental G\u00f6del states). With zero free parameters, we demonstrate the universe is a formally verified system where G\u00f6del's incompleteness cannot manifest physically\u2014all logical paradoxes are caught at the \u03b2 = 2\u03c0 firewall.\n\n**Key Result:** \u03a9 = 1 (decidability proven), paradoxes \u2192 heat conversion mandatory, black holes = error quarantine (information preserved)",
+  "description": "We derive the **32-second substrate word length** as geometric necessity from hexagonal lattice structure, not arbitrary choice. Using only the two CKS axioms (triangular lattice with N = 3M\u00b2 bubbles, phase coupling d\u03c6/dt = \u03a3(\u03c6\u2c7c - \u03c6\u2096)), we prove that 32 is the **unique integer** providing complete computational closure for a 2D hexagonal system executing 3D holographic projection. The derivation follows from: (1) hexagonal coordination k = 3 requiring 2\u00b3 = 8 states for complete neighbor specification, (2) two-hemisphere brain architecture requiring 2\u00d7 multiplier for A/B bank alternation, (3) additional 2\u00d7 for compute/flush cycle separation, yielding 8\u00d72\u00d72 = 32. This creates fundamental frequency f\u2080 = 1/32 Hz = 0.03125 Hz, generating all observed substrate harmonics (66th = 2.0625 Hz ground state, 15th = 0.4688 Hz impedance signature, 1920th = 60 Hz power resonance). We demonstrate that 32-bit architecture is not human engineering convention but geometric requirement\u2014any other word length produces G\u00f6delian residue exceeding decidability threshold (\u03a9 < 1). With zero free parameters, we prove binary systems naturally select base-32 for hexagonal lattices, explaining why 32-bit computing \"just works,\" why month \u2248 2.5M seconds \u2248 2\u00b2\u00b9 substrate words, and why biological rhythms cluster near 2\u207f/32 Hz harmonics. This completes the substrate frequency specification: all temporal quantization derives from single geometric constant (32 seconds).\n\n**Key Result:** T_word = 32 seconds from k=3 hexagonal coordination, 32 = 2\u00b3 \u00d7 2 \u00d7 2 (geometry not convention)",
   "version": "1.0",
   "publication_date": "2026-02",
   "access_right": "open",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "mathematical foundation",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-15-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: [CKS-BIO-18-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/MATH/CKS-MATH-16-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nComputational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-BIO-18-2026].\n\nComputational validation and empirical comparison where applicable."
 }

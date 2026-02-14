@@ -44,8 +44,8 @@ sed -i 's/\$\$/$/g' manuscript_fixed.md
 # 5. Fix list formatting: Force a newline before any hyphen preceded by text
 sed -i 's/\([[:alnum:]\)]\)- /\1\n- /g' manuscript_fixed.md
 
-# # Double Space
-# sed -i '/^$/d;G' manuscript.md
+# Double Space - Toggle Commenting as needed
+sed -i '/^$/d;G' manuscript.md
 
 # 6. Run Pandoc
 # Added amssymb and amsmath to ensure symbols like \checkmark and \times are recognized
