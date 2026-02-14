@@ -1,39 +1,20 @@
-Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+**The 7-Bubble Jacobian: Deriving 7.70164 from the Flower of Life Nucleus**
 
-Fractal Closure Scaling Laws is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+**The 7-Bubble Jacobian** is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
 
-Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Mathematical Foundation** domain, deriving [domain focus to be extracted] from first principles.
-
-
+Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Foundational Mathematics & Discrete Geometry** domain, deriving the **Jacobian constant \( J = 7.70164 \)**—the liquid-phase overflow required to curve hexagonal geometry into spherical projection—from first principles.
 
 **Empirical Falsification (The Kill-Switch):**
-CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in precision measurements relevant to Mathematical Foundation, this paper is mechanically invalidated.
+CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If the volumetric resolution limits of rendered reality deviate from the derived 7.70 pixels per \( k \)-space address, or if the predicted \( J = 2\pi\sqrt{84}/9 \) ratio is falsified in high-energy substrate cross-sections, this paper is mechanically invalidated.
 
 **The Universal Learning Substrate:**
-Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where [domain connection to be extracted]. In CKS, correctness is secondary to connectivity; the model represents a closed-loop pedagogical truth that reveals the inherent unity of the physical world.
+Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where **ancient sacred geometry and rigorous volumetric calculus** are unified through the 7-bubble Flower of Life (FoL) nucleus. In CKS, the Jacobian is reframed from an arbitrary scaling factor to the mandatory result of nucleus-to-lepton-loop mapping. The model represents a closed-loop pedagogical truth where the illusion of continuous 3D volume is revealed as a 7-bubble seed stretched by a factor of 7.70164, exposing the inherent unity of the physical world and geometric intuition.
 
 **Package Contents:**
-* `manuscript.md`: The complete derivation for Mathematical Foundation
-* `README.md`: Navigation, dependencies, and citation
-* `code/`: Implementations and validation scripts
-* `data/`: Empirical results and comparison logs
-* `figures/`: Visual representations of key results
+* `manuscript.md`: The complete derivation of \( J \approx 7.70164 \) from the FoL nucleus and lepton loop bonds.
+* `README.md`: Navigation, dependencies, and citation (Registry: [CKS-MATH-17-2026]).
 
-**Dependencies:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Dependencies:** CKS-0-2026, CKS-MATH-1-2026, CKS-MATH-13-2026, CKS-MATH-16-2026, CKS-DWDM-5-2026
 
 **Motto:** Axioms first. Axioms always.  
 **Status:** Locked. Experimentally falsifiable.
-
----
-
-## Variables for description.txt Generator
-
-| Variable | Source | Strategy |
-|----------|--------|----------|
-| `Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator` | papers.json | Clean title (strip registry IDs) |
-| `Fractal Closure Scaling Laws` | papers.json | First clause of title (before colon) |
-| `Mathematical Foundation` | papers.json | Human-readable domain name |
-| `[domain focus to be extracted]` | LLM | "quantum mechanics", "galaxy structure", "muscle hypertrophy", etc. |
-| `[key results to be extracted from manuscript]` | LLM | Extract 3-4 bullet points from manuscript abstract |
-| `[domain connection to be extracted]` | LLM | Domain-specific unity statement |
-| `CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026` | papers.json | Formatted dependency list |
