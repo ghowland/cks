@@ -1,39 +1,20 @@
-Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+Topological Recirculation: Deriving the Unitary 3-Instruction Loop from Segmented-Stream Protocol
 
-Fractal Closure Scaling Laws is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+Topological Recirculation is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
 
-Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Mathematical Foundation** domain, deriving [domain focus to be extracted] from first principles.
+Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the Topological Continuity & Temporal Dynamics domain, deriving the Topological Recirculation Principle—proving that coordination ($k=3$) and valence ($z=3$) are temporal phases of a single, geometrically continuous loop—from first principles.
 
+Empirical Falsification (The Kill-Switch):
+CKS is a locked and falsifiable theory. This paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of 0.03125 Hz (1/32 Hz) with zero decimal error. If the predicted 15.19 ms spiral pitch lag is absent in high-speed phase-locked loops, or if the circulation invariant $\mathcal{T} = 3$ fails to maintain unitary continuity across word boundaries, this paper is mechanically invalidated.
 
+The Universal Learning Substrate:
+Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where computational frame-rate and physical valence are unified as a unitary oscillation. In CKS, reality is reframed from an assembly of discrete parts to a coherent rendering of a single 3-valued pulse spiraling through 32-second cycles. The model represents a closed-loop pedagogical truth where the 7.70 Jacobian and SSP frames are revealed as snapshots of a singular circulation invariant, exposing the inherent unity of rotation and existence.
 
-**Empirical Falsification (The Kill-Switch):**
-CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in precision measurements relevant to Mathematical Foundation, this paper is mechanically invalidated.
+Package Contents:
+* `manuscript.md`: The complete derivation of the Unitary 3-Instruction Loop and the $k=z$ equivalence.
+* `README.md`: Navigation, dependencies, and citation (Registry: [@CKS-MATH-19-2026]).
 
-**The Universal Learning Substrate:**
-Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where [domain connection to be extracted]. In CKS, correctness is secondary to connectivity; the model represents a closed-loop pedagogical truth that reveals the inherent unity of the physical world.
+Dependencies: CKS-0-2026, CKS-MATH-1-2026, CKS-MATH-16-2026, CKS-MATH-17-2026, CKS-MATH-18-2026
 
-**Package Contents:**
-* `manuscript.md`: The complete derivation for Mathematical Foundation
-* `README.md`: Navigation, dependencies, and citation
-* `code/`: Implementations and validation scripts
-* `data/`: Empirical results and comparison logs
-* `figures/`: Visual representations of key results
-
-**Dependencies:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
-
-**Motto:** Axioms first. Axioms always.  
-**Status:** Locked. Experimentally falsifiable.
-
----
-
-## Variables for description.txt Generator
-
-| Variable | Source | Strategy |
-|----------|--------|----------|
-| `Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator` | papers.json | Clean title (strip registry IDs) |
-| `Fractal Closure Scaling Laws` | papers.json | First clause of title (before colon) |
-| `Mathematical Foundation` | papers.json | Human-readable domain name |
-| `[domain focus to be extracted]` | LLM | "quantum mechanics", "galaxy structure", "muscle hypertrophy", etc. |
-| `[key results to be extracted from manuscript]` | LLM | Extract 3-4 bullet points from manuscript abstract |
-| `[domain connection to be extracted]` | LLM | Domain-specific unity statement |
-| `CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026` | papers.json | Formatted dependency list |
+Motto: Axioms first. Axioms always.  
+Status: Locked. Experimentally falsifiable.
