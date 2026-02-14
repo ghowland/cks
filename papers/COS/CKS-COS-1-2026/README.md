@@ -2,7 +2,7 @@
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-GR-1-2026] → [@CKS-DWDM-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-GR-1-2026] → [@CKS-COS-1-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 

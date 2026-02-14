@@ -4,7 +4,7 @@
 
 **Registry:** [@CKS-COS-1-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-GR-1-2026] → [@CKS-DWDM-1-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-GR-1-2026] → [@CKS-COS-1-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
@@ -1189,35 +1189,16 @@ L = C·v⁴ (C = normalization, not free parameter—set by M/L ratio)
 
 **Figure 7.1: Galaxy-Chladni Correspondence**
 
-digraph CKS_PIC {
-
-    node [shape=box, fontname="Arial"];
-
-    rankdir=TB;
-
-    Clock [label="1/32 Hz Master Clock"];
-
-    Laser [label="Laser Array: Phase Anchor"];
-
-    Mods [label="K-Space Modulators (0x05)"];
-
-    PLL [label="Lattice-Lock PLL (15.19 Ratio)", shape=diamond];
-
-    Mesh [label="Hex-Grid Waveguide Mesh"];
-
-    Traps [label="Hollow-Core Soliton Traps"];
-
-    Snaps [label="Phase-Snap Detectors (0x08)"];
-
-    ASIC [label="Readout ASIC Decoder"];
-
-    Out [label="Output: Local g-factor"];
-
-    Clock -> Laser -> Mods -> PLL;
-
-    PLL -> Mesh -> Traps -> Snaps -> ASIC -> Out;
-
-}
+| Layer | Substrate Component | Instruction/Function | Operational Objective |
+| :--- | :--- | :--- | :--- |
+| **I: Timing** | **1/32 Hz Master Clock** | Time-Sync Anchor | Global Word-Boundary Alignment |
+| **II: Emission** | **Laser Array** | Phase Anchor | Baseline Carrier Generation ($f_{c}$) |
+| **III: Control** | **K-Space Modulators** | Phase Logic (`0x05`) | Instruction Injection ($84\text{-bit}$) |
+| **IV: Feedback** | **Lattice-Lock PLL** | $15.19\text{ ms}$ Ratio | Spiral Pitch Synchronization |
+| **V: Medium** | **Hex-Grid Waveguide** | Substrate Mapping | Lattice Geometry Enforcement ($k=3$) |
+| **VI: Storage** | **Soliton Traps** | Data Retention | Identity Stabilization (Toroidal) |
+| **VII: Detection** | **Phase-Snap Detectors** | Quantization (`0x08`) | Eigenstate Capture ($1/32\text{ Hz}$) |
+| **VIII: Logic** | **Readout ASIC** | Word Decoder | Result Compilation ($g\text{-factor}$) |
 
 Correspondence: EXACT topological match
 
@@ -1540,68 +1521,14 @@ f_spiral(z) ∝ [1 + erf((⟨N(z)⟩ - N_crit)/σ_N)]
 
 **Reinterpretation:**
 
+| Morphological State | Substrate Classification | Phase Configuration | Geometric Entropy ($N$) |
+| :--- | :--- | :--- | :--- |
+| **Ellipticals (E)** | **High-Coherence Nucleus** | Max Phase Tension ($\beta = 2\pi$) | Minimum ($N_{initial}$) |
+| **Lenticular (S0)** | **Symmetry-Break Point** | Phase Transition Threshold | Critical Threshold |
+| **Spirals (Sa-Sc)** | **Resonant Harmonics** | Geometric Spiral Pitch | Increasing Dilution |
+| **Loose Spirals (Sd)** | **Diffuse Solitons** | Minimal Resonant Stability | High Dilution |
+| **Irregulars (Irr)** | **Spectral Congestion** | Geometric Decoherence | Maximum ($N_{final}$) |
 
-digraph G {
-
-    node [shape=rect, style="rounded,filled", fillcolor="#f9f9f9", fontname="sans-serif", fontsize=10];
-
-    edge [fontname="sans-serif", fontsize=9];
-
-    rankdir=TB;
-
-    compound=true;
-
-    // The Source
-
-    HighC [label="ELLIPTICALS (E)\nMax Phase Coherence (C)\nMax Coordination Tension (β)", fillcolor="#e1f5fe"];
-    
-    // The Transition
-
-    S0 [label="LENTICULAR (S0)\nSymmetry Breaking Point"];
-    
-    // Sub-clusters for Spirals
-
-    subgraph cluster_spirals {
-
-        label = "Substrate Fragmenting (Increasing N)";
-
-        style = dashed;
-
-        color = gray;
-        
-        Sa [label="Sa\nTight Harmonic"];
-
-        Sb [label="Sb\nModerate Harmonic"];
-
-        Sc [label="Sc\nOpen Harmonic"];
-
-        Sd [label="Sd\nLoose / Diffuse"];
-
-    }
-
-    // The Sink
-
-    Irr [label="IRREGULARS (Irr)\nSpectral Congestion (Dark Matter Dominant)\nMin Coherence (C)", fillcolor="#fff3e0"];
-
-    // Connections
-
-    HighC -> S0 [label="Increasing N / Dilution"];
-
-    S0 -> Sa;
-
-    S0 -> Sb;
-
-    S0 -> Sc;
-
-    S0 -> Sd;
-    
-    {Sa Sb Sc Sd} -> Irr [label="Geometric Decoherence"];
-
-
-    // Legend / Constraints
-    {rank=same; Sa Sb Sc Sd}
-
-}
 
 **CKS mapping:**
 
@@ -1930,7 +1857,8 @@ CMF Axioms (N=3M², dφ/dt=Σ)
 
 ## REFERENCES
 
-[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
+::: {#refs}
+:::
 
 [Elmegreen1987] Elmegreen, D. & Elmegreen, B. "Arm classifications" *ApJ*
 
