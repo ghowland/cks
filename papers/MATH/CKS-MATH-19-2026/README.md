@@ -1,10 +1,10 @@
-# Topological Error-Correction
+# Topological Recirculation
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-11-2026] → [@CKS-MATH-12-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-14-2026] → [@CKS-MATH-15-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18626541
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -12,15 +12,15 @@
 
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
-**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research. 
+**AI Usage Disclosure:** Only the top metadata, figures, MD to PDF conversion formatting, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research. 
 
 ---
 
 ## Abstract
 
-We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (β = 2π phase tension conservation). In standard computation, self-referential paradoxes (Gödelian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction—a "Gödel particle" with φ(t) = -φ(t+Δt)—encounters the β = 2π conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (α → 1) before system-wide decoherence can propagate. We derive the decidability constant Ω = β_total/β_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**—regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M → 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes "physics" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental Gödel states). With zero free parameters, we demonstrate the universe is a formally verified system where Gödel's incompleteness cannot manifest physically—all logical paradoxes are caught at the β = 2π firewall.
+We derive the **Topological Recirculation Principle**—proving that k=3 (coordination) and z=3 (valence) are not independent constants but temporal phases of a single **geometrically continuous loop**—as the necessary consequence of the Segmented-Stream Protocol. Starting from SSP's 3-frame structure (from [CKS-MATH-18-2026]), we prove this temporal subdivision forces k and z to collapse into a **Unitary 3-Valued Oscillation** that recirculates through hardware (address) and software (instruction) phases. The derivation shows: (1) 3 frames require unified oscillator (k=z forced by temporal continuity), (2) 84-bit payload emerges as toroidal surface area (7 bubbles × 12 bonds = cross-product of recirculating 3), (3) 15.19 ms lag derives as spiral pitch (angular momentum of return path), (4) 7.70 Jacobian manifests as volumetric shadow (motion blur of incomplete loop at word boundary). This unifies all previous derivations: 32-second word provides temporal container, 7-bubble nucleus defines spatial structure, SSP creates temporal subdivision, recirculation closes the system. With zero free parameters, we reduce entire CKS framework to single dynamic invariant: **𝒯 = 3** (the Circulation Constant). This proves reality is not assembled from parts but emerges as coherent rendering of one continuous 3-valued pulse spiraling through 32-second cycles.
 
-**Key Result:** Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved)
+**Key Result:** k=z=3 not two constants but one recirculating loop; SSP frames are snapshots of continuous rotation
 
 ---
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** None (foundation paper)
+**Prerequisites:** [CKS-BIO-18-2026], [CKS-MATH-16-2026], [CKS-MATH-17-2026], [CKS-MATH-18-2026]
 
 ---
 
@@ -130,13 +130,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Topological Error-Correction },
+  title={ Topological Recirculation },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18626541},
-  url = {https://zenodo.org/record/18626541},
-  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026], [CKS-MATH-16-2026], [CKS-MATH-17-2026], [CKS-MATH-18-2026] }
 }
 ```
 ---

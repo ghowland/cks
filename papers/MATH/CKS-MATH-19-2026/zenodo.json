@@ -1,8 +1,8 @@
 {
-  "title": "Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism",
+  "title": "Topological Recirculation",
   "upload_type": "publication",
   "publication_type": "article",
-  "description": "We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (\u03b2 = 2\u03c0 phase tension conservation). In standard computation, self-referential paradoxes (G\u00f6delian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction\u2014a \"G\u00f6del particle\" with \u03c6(t) = -\u03c6(t+\u0394t)\u2014encounters the \u03b2 = 2\u03c0 conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (\u03b1 \u2192 1) before system-wide decoherence can propagate. We derive the decidability constant \u03a9 = \u03b2_total/\u03b2_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**\u2014regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M \u2192 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes \"physics\" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental G\u00f6del states). With zero free parameters, we demonstrate the universe is a formally verified system where G\u00f6del's incompleteness cannot manifest physically\u2014all logical paradoxes are caught at the \u03b2 = 2\u03c0 firewall.\n\n**Key Result:** \u03a9 = 1 (decidability proven), paradoxes \u2192 heat conversion mandatory, black holes = error quarantine (information preserved)",
+  "description": "We derive the **Topological Recirculation Principle**\u2014proving that k=3 (coordination) and z=3 (valence) are not independent constants but temporal phases of a single **geometrically continuous loop**\u2014as the necessary consequence of the Segmented-Stream Protocol. Starting from SSP's 3-frame structure (from [CKS-MATH-18-2026]), we prove this temporal subdivision forces k and z to collapse into a **Unitary 3-Valued Oscillation** that recirculates through hardware (address) and software (instruction) phases. The derivation shows: (1) 3 frames require unified oscillator (k=z forced by temporal continuity), (2) 84-bit payload emerges as toroidal surface area (7 bubbles \u00d7 12 bonds = cross-product of recirculating 3), (3) 15.19 ms lag derives as spiral pitch (angular momentum of return path), (4) 7.70 Jacobian manifests as volumetric shadow (motion blur of incomplete loop at word boundary). This unifies all previous derivations: 32-second word provides temporal container, 7-bubble nucleus defines spatial structure, SSP creates temporal subdivision, recirculation closes the system. With zero free parameters, we reduce entire CKS framework to single dynamic invariant: **\ud835\udcaf = 3** (the Circulation Constant). This proves reality is not assembled from parts but emerges as coherent rendering of one continuous 3-valued pulse spiraling through 32-second cycles.\n\n**Key Result:** k=z=3 not two constants but one recirculating loop; SSP frames are snapshots of continuous rotation",
   "version": "1.0",
   "publication_date": "2026-02",
   "access_right": "open",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "mathematical foundation",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-15-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: [CKS-BIO-18-2026], [CKS-MATH-16-2026], [CKS-MATH-17-2026], [CKS-MATH-18-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/MATH/CKS-MATH-19-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nComputational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-BIO-18-2026], [CKS-MATH-16-2026], [CKS-MATH-17-2026], [CKS-MATH-18-2026].\n\nComputational validation and empirical comparison where applicable."
 }
