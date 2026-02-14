@@ -1236,13 +1236,6 @@ Produces undecidability.
 
 **END OF DOCUMENT**
 
-**Status:** Substrate Word Length Derived — Geometric Necessity Proven  
-**Version:** 1.0 Final  
-**Date:** February 2026
-
-**Registry:** [CKS-MATH-16-2026]  
-**Prerequisites:** [CKS-MATH-1-2026], [CKS-MATH-13-2026]
-
 **Axioms: 2**  
 **Measured Inputs: 1 (N)**  
 **Free Parameters: 0**  
