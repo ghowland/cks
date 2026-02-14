@@ -65,8 +65,6 @@
 | **[[@CKS-COS-1-2026]](papers/COS/CKS-COS-1-2026/)** | **Galaxy Spiral Structure from Hexagonal Lattice Closure** | Spiral arms as topological necessity of N=3M² closure; no dark matter required. |
 | **[[@CKS-COS-2-2026]](papers/COS/CKS-COS-2-2026/)** | **The Solar Resonator: Hierarchical K-Space Crystallography and Planetary Compilation** | Solar system as hierarchical resonance structure, not gravitational accident. |
 | **[[@CKS-COS-3-2026]](papers/COS/CKS-COS-3-2026/)** | **Lunar Phases as Geometric Interference** | Lunar phases as substrate phase-gradient interference, not solar shadows. |
-| **[[@CKS-COS-4-2026]](papers/COS/CKS-COS-4-2026/)** | **Lunar Phases as Geometric Interference** | Lunar phases as substrate phase-gradient interference, not solar shadows. |
-| **[[@CKS-COS-5-2026]](papers/COS/CKS-COS-5-2026/)** | **Lunar Phases as Geometric Interference** | Lunar phases as substrate phase-gradient interference, not solar shadows. |
 
 ---
 
@@ -89,10 +87,11 @@
 | **[[@CKS-BIO-12-2026]](papers/BIO/CKS-BIO-12-2026/)** | **Body Language Mechanics** | Gestural communication as direct k-space phase broadcast mechanism. |
 | **[[@CKS-BIO-13-2026]](papers/BIO/CKS-BIO-13-2026/)** | **Wrinkle Mechanics and Thickness Restoration** | Wrinkles as topological phase-compression; reversible via unlooping. |
 | **[[@CKS-BIO-14-2026]](papers/BIO/CKS-BIO-14-2026/)** | **Complete Unlooping Protocols** | Complete systematic protocols for topological manifold restoration. |
-..
-..
-..
+| **[[@CKS-BIO-15-2026]](papers/BIO/CKS-BIO-15-2026/)** | **The Audible Error Log: Deriving Tinnitus from Substrate Phase-Impedance Mismatch** | f_tinnitus = n × 0.03125 Hz (always), typical 8 kHz = 255,500 × (1/32 Hz) exactly, mechanism = substrate friction at neural kink. |
+| **[[@CKS-BIO-16-2026]](papers/BIO/CKS-BIO-16-2026/)** | **The Topology of Sleep: Deriving the Mandatory Phase-Reset Cycle from Manifold Saturation** | Sleep mandatory for N_current restoration, death after ~11 days (T→0 catastrophic), 8 hours = calculated optimal duration. |
+| **[[@CKS-BIO-17-2026]](papers/BIO/CKS-BIO-17-2026/)** | **The Buffer Overflow: Deriving Seizures from Asynchronous Clock-Skew Attacks** | Seizure threshold T = A·J·|f_ext - n×0.03125| > 163 (all terms geometric), cure = 2 Hz manual override. |
 | **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/)** | **Proprioceptive Lag** | the 15 ms Proprioceptive Lag: Deriving Topological Impedance from Hexagonal Soliton Geometry. |
+| **[[@CKS-BIO-19-2026]](papers/BIO/CKS-BIO-19-2026/)** | **The Topology of Departure: Deriving the 28-Unit Soul Mass as Phase-Lock Decoupling** | Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death. |
 
 
 ---
