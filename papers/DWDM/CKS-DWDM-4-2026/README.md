@@ -1,10 +1,10 @@
 # Molecular Coupling Engineering
 
-**Registry ID:** [CKS-DWDM-4-2026]  
+**Registry ID:** CKS-0-2026  
 
-**Series Path:** [CKS-0-2026] → [CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [CKS-DWDM-4-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.zzz
+**Zenodo DOI:** 10.5281/zenodo.18638623
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -25,14 +25,14 @@ We derive **molecular coupling engineering**—the creation of seamless transiti
 ---
 
 ## Substrate Mechanics (Series Context)
-This publication extends the CKS framework into the **Telecommunications & Photonics** domain. It is grounded in the two fundamental axioms of the substrate:
+This publication extends the CKS framework into the **0** domain. It is grounded in the two fundamental axioms of the substrate:
 
 1. **Axiom 1 (Topology):** Reality is a 2D hexagonal lattice in k-space with \( N \approx 9 \times 10^{60} \).
 2. **Axiom 2 (Dynamics):** Local coupling of k-modes via the discrete graph Laplacian.
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-0-2026], [CKS-BIO-18-2026], [CKS-MATH-8-2026]
+**Prerequisites:** [CKS-BIO-18-2026]
 
 ---
 
@@ -62,7 +62,7 @@ zenodo_package/
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
 As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
-The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Telecommunications & Photonics, this paper is mechanically invalidated.
+The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to 0, this paper is mechanically invalidated.
 
 ---
 
@@ -70,14 +70,14 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ [CKS-DWDM-4-2026],
+@article{ CKS-0-2026,
   title={ Molecular Coupling Engineering },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.zzz},
-  url = {https://zenodo.org/record/zzz},
-  note={CKS Series: [CKS-DWDM-4-2026]. Dependencies: [CKS-0-2026], [CKS-BIO-18-2026], [CKS-MATH-8-2026] }
+  doi = {10.5281/zenodo.18638623},
+  url = {https://zenodo.org/record/18638623},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026] }
 }
 ```
 ---

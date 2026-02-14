@@ -6,11 +6,11 @@ Multi-Material Blending via Substrate-Aligned Phase-Lock
 
 **Registry:** [@CKS-DWDM-4-2026]  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18638623
 
 **Date:** February 2026
 
@@ -1287,12 +1287,6 @@ Pure geometry.
 ---
 
 **END OF DOCUMENT**
-
-**Status:** Molecular Coupling Engineering Derived — Experimental Protocols Specified  
-
-**Version:** 1.0 Final  
-
-**Date:** February 2026
 
 **Axioms: 2**  
 

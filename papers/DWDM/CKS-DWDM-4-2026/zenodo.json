@@ -12,12 +12,12 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "telecommunications & photonics",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-DWDM-4-2026].\n\nDependencies: [CKS-0-2026], [CKS-BIO-18-2026], [CKS-MATH-8-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Telecommunications & Photonics. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: [CKS-BIO-18-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
   "related_identifiers": [
     {
       "scheme": "url",
@@ -71,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Telecommunications & Photonics.\n\nDependencies: [CKS-0-2026], [CKS-BIO-18-2026], [CKS-MATH-8-2026].\n\nComputational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-BIO-18-2026].\n\nComputational validation and empirical comparison where applicable."
 }
