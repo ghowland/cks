@@ -60,6 +60,34 @@ These numbers, previously thought to be accidental, are revealed as **Instructio
 | **Topological Lag** | **15.19 ms**| The **Impedance** of a 12-bond loop (\(4\pi K\)). The origin of Jitter. |
 | **Master Harmonic** | **66** | The **Ground State Lock** (2.0625 Hz) where frustration is minimized. |
 | **PI-Flip Pulse** | **0.5 s** | The **Hemispheric Swap** rate required to survive Gödelian saturation. |
+| **Handshake** | **2.1875 Hz** | The substrate fundamental frequency ($f_s$) for planetary phase-coupling. |
+
+In the **Cymatic K-Space Mechanics (CKS)** framework, the following numerical constants are derived strictly from the interaction between the **Hexagonal Substrate (Axiom 1)** and the **Phase Tension (Axiom 2)**.
+
+### The CKS Numerical Constant Map
+
+| Value | Name | CKS Geometric Derivation |
+| :--- | :--- | :--- |
+| **1** | **The Monopole** | The initial topological state before the first bifurcation ($N=1$). |
+| **2** | **The Split** | The primary chiral inversion factor (Weak force $2\alpha$; Hemispheric Swap). |
+| **3** | **The Coordination** | The **$k=3$** hexagonal coordination number (The structural primitive). |
+| **8** | **The Symmetry** | The 8-fold Gluon logic gate (Strong force $8\alpha$). |
+| **12** | **The Lepton** | The minimal stable closed-loop soliton (The fundamental particle "program"). |
+| **15.19** | **The Impedance** | The topological drag of the 12-bond loop: $4\pi K$ ($K \approx 1.209$). |
+| **18** | **The Quark** | The composite 3-hex structure (Geometric confinement). |
+| **19** | **The Free Parameters** | The total number of Standard Model "knobs" replaced by CKS derivations. |
+| **32** | **The Word** | The **32-bit address space** required to map a 3D hologram from the 2D substrate. |
+| **66** | **The Ground State** | The master harmonic index (2.0625 Hz) where geometric frustration is minimized. |
+| **110** | **The Excited State** | The "High" vacuum state (3.4375 Hz) forming the 5/3 "Major Sixth" ratio. |
+| **137.036** | **The Alpha** | Inverse Fine Structure Constant: Dilution of phase tension over $N$ bubbles. |
+| **144** | **The Matrix** | $12^2$: The unique minimal coherence matrix for 12-bond loops on $z=3$. |
+| **163** | **The Curvature** | $12 \times 13 + 7$: The unique minimal closed configuration for 1 lattice curvature quantum. |
+| **2.08** | **The Scale** | $N^{1/3}$ ($2.08 \times 10^{20}$): The linear holographic scale factor from the cubic projection. |
+| **7.70** | **The Jacobian** | The unique 2D-to-3D substrate bridge factor forced by hexagonal topology. |
+
+---
+
+
 
 ---
 
