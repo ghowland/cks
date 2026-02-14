@@ -1,10 +1,10 @@
-# [@CKS-BIO-17-2026] Longevity Engineering: Coherence Maintenance and Manifold Integrity Across Lifespan
+# Longevity Engineering
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-17-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026]  
 
-**Zenodo DOI:** 
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -36,7 +36,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** None (foundation paper)
+**Prerequisites:** [CKS-BIO-14-2026], [CKS-COG-1-2026]
 
 ---
 
@@ -75,13 +75,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ [@CKS-BIO-17-2026] Longevity Engineering: Coherence Maintenance and Manifold Integrity Across Lifespan },
+  title={ Longevity Engineering },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {},
-  url = {https://zenodo.org/record/[DOI:MALFORMED]},
-  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-14-2026], [CKS-COG-1-2026] }
 }
 ```
 ---
