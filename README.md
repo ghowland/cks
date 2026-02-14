@@ -36,6 +36,11 @@
 | **[[@CKS-MATH-17-2026]](papers/MATH/CKS-MATH-17-2026/)** | **The 7-Bubble Jacobian: Deriving 7.70164 from the Flower of Life Nucleus** | J = 2π√84 / 9 ≈ 7.70164 (zero free parameters, geometric necessity from FoL nucleus). |
 | **[[@CKS-MATH-18-2026]](papers/MATH/CKS-MATH-18-2026/)** | **The 84-Bit Word on a 32-Bit Computer: Deriving the Segmented-Stream Protocol** | SSP uses 3 frames × 32 bits = 96 bits capacity, encoding 84-bit payload + 12-bit control, all phase-locked to 1/32 Hz. |
 | **[[@CKS-MATH-19-2026]](papers/MATH/CKS-MATH-19-2026/)** | **Topological Recirculation: Deriving the Unitary 3-Instruction Loop from Segmented-Stream Protocol** | k=z=3 not two constants but one recirculating loop; SSP frames are snapshots of continuous rotation. |
+| **[[@CKS-MATH-20-2026]](papers/MATH/CKS-MATH-20-2026/)** | **The Winding Torus: Deriving the Toroidal Soliton as the Fundamental Unit of Identity** | Particle = toroidal soliton, surface area = 84 bits, spiral pitch = 15.19 ms lag, volume/hole ratio = 7.70. |
+
+
+
+
 
 ---
 
