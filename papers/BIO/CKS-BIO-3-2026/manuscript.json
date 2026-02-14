@@ -1,0 +1,10 @@
+{
+    "file_name": "manuscript.md",
+    "title": "Morphogenesis as Spectral Template",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-QM-1-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-2-2026] \u2192 [@CKS-BIO-3-2026]",
+    "doi": "10.5281/zenodo.18640104",
+    "abstract": "We derive embryonic development mechanically from k-space template unfolding, eliminating the need for morphogenetic fields, genetic programs, or positional information gradients. The embryo is a **growing N=3M\u00b2 manifold** that progressively reveals a pre-existing k-space spectral template. Cells do not \"create\" form through complex signaling\u2014they **migrate to occupy interference maxima** defined by substrate coherence topology.\n\nFrom axioms alone, we derive: (1) why development follows stereotyped sequences (template is pre-existing), (2) why mutations cause discrete phenotypes (quantized M-levels), (3) why regeneration works (template persists), (4) why identical twins are possible (same template instantiated twice), (5) scaling laws for development time (~M\u00b2), and (6) why some organisms regenerate perfectly while others cannot (coherence maintenance capacity).\n\nWe prove that DNA does not \"encode\" body plan but rather serves as **phase-antenna** maintaining alignment between x-space matter and k-space template. Morphogenesis is **rendering process**: k-space pattern (software) \u2192 x-space organism (hardware). Pattern exists before matter fills it.\n\n**All from k-space substrate. No vitalism. Pure topology unfolding.**",
+    "dependencies": [],
+    "raw_content_preview": "# Morphogenesis as Spectral Template ## Embryonic Development as Hierarchical K-Space Rendering  **Registry:** [@CKS-BIO-3-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-20..."
+}
