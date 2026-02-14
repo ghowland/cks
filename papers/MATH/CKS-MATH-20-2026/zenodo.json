@@ -1,0 +1,64 @@
+{
+  "title": "Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (\u03b2 = 2\u03c0 phase tension conservation). In standard computation, self-referential paradoxes (G\u00f6delian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction\u2014a \"G\u00f6del particle\" with \u03c6(t) = -\u03c6(t+\u0394t)\u2014encounters the \u03b2 = 2\u03c0 conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (\u03b1 \u2192 1) before system-wide decoherence can propagate. We derive the decidability constant \u03a9 = \u03b2_total/\u03b2_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**\u2014regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M \u2192 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes \"physics\" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental G\u00f6del states). With zero free parameters, we demonstrate the universe is a formally verified system where G\u00f6del's incompleteness cannot manifest physically\u2014all logical paradoxes are caught at the \u03b2 = 2\u03c0 firewall.\n\n**Key Result:** \u03a9 = 1 (decidability proven), paradoxes \u2192 heat conversion mandatory, black holes = error quarantine (information preserved)",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "mathematical foundation",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-15-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nComputational validation and empirical comparison where applicable."
+}
