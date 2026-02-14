@@ -10,44 +10,41 @@ sed -i 's/```//g' manuscript_fixed.md
 
 # 3. Consolidated Symbol Replacement (Unicode to LaTeX Math)
 # This uses $...$ for everything to ensure the X symbol (times) renders as a glyph
-sed -i -e 's/π/$\\pi$/g' \
-       -e 's/μ/$\\mu$/g' \
-       -e 's/ν/$\\nu$/g' \
-       -e 's/ρ/$\\rho$/g' \
-       -e 's/Λ/$\\Lambda$/g' \
-       -e 's/𝕋/$\\mathbb{T}$/g' \
-       -e 's/ℝ/$\\mathbb{R}$/g' \
-       -e 's/ℚ/$\\mathbb{Q}$/g' \
-       -e 's/ℤ/$\\mathbb{Z}$/g' \
-       -e 's/ℕ/$\\mathbb{N}$/g' \
-       -e 's/×/$\\times$/g' \
-       -e 's/✗/$\\times$/g' \
-       -e 's/✓/$\\checkmark$/g' \
-       -e 's/±/$\\pm$/g' \
-       -e 's/⟨/$\\langle$/g' \
-       -e 's/⟩/$\\rangle$/g' \
-       -e 's/ₖ/$_k$/g' \
-       -e 's/ᵢ/$_i$/g' \
-       -e 's/ₙ/$_n$/g' \
-       -e 's/ₗ/$_l$/g' \
-       -e 's/ₜ/$_t$/g' \
-       -e 's/ₚ/$_p$/g' \
-       -e 's/𝒯/$\\mathcal{T}$/g' \
-       -e 's/ₘ/$_m$/g' \
-       -e 's/ⱼ/$_j$/g' \
-       -e 's/ᵈ/$^d$/g' \
+sed -i -e 's/π/ $\\pi$ /g' \
+       -e 's/μ/ $\\mu$ /g' \
+       -e 's/ν/ $\\nu$ /g' \
+       -e 's/ρ/ $\\rho$ /g' \
+       -e 's/Λ/ $\\Lambda$ /g' \
+       -e 's/𝕋/ $\\mathbb{T}$ /g' \
+       -e 's/ℝ/ $\\mathbb{R}$ /g' \
+       -e 's/ℚ/ $\\mathbb{Q}$ /g' \
+       -e 's/ℤ/ $\\mathbb{Z}$ /g' \
+       -e 's/ℕ/ $\\mathbb{N}$ /g' \
+       -e 's/×/ $\\times$ /g' \
+       -e 's/✗/ $\\times$ /g' \
+       -e 's/✓/ $\\checkmark$ /g' \
+       -e 's/±/ $\\pm$ /g' \
+       -e 's/⟨/ $\\langle$ /g' \
+       -e 's/⟩/ $\\rangle$ /g' \
+       -e 's/ₖ/$_k$ /g' \
+       -e 's/ᵢ/$_i$ /g' \
+       -e 's/ₙ/$_n$ /g' \
+       -e 's/ₗ/$_l$ /g' \
+       -e 's/ₜ/$_t$ /g' \
+       -e 's/ₚ/$_p$ /g' \
+       -e 's/𝒯/ $\\mathcal{T}$ /g' \
+       -e 's/ₘ/$_m$ /g' \
+       -e 's/ⱼ/$_j$ /g' \
+       -e 's/ᵈ/$^d$ /g' \
        -e 's/ö/\\text{ö}/g' \
        -e 's/⚠/\\textbf{!}/g' manuscript_fixed.md
 
-# 4. Fix double-wrapping and clean up math markers
-# If a symbol was already in math mode, we might have created $$symbol$$. This fixes it.
-sed -i 's/\$\$/$/g' manuscript_fixed.md
+# # 4. Fix double-wrapping and clean up math markers
+# # If a symbol was already in math mode, we might have created $$symbol$$. This fixes it.
+# sed -i 's/\$\$/$ /g' manuscript_fixed.md
 
 # 5. Fix list formatting: Force a newline before any hyphen preceded by text
 sed -i 's/\([[:alnum:]\)]\)- /\1\n- /g' manuscript_fixed.md
-
-# # Double Space - Toggle Commenting as needed
-# sed -i '/^$/d;G' manuscript_fixed.md
 
 # Double Space - Only if line does not start with |
 sed -i '/^|/!{/^$/d;G}' manuscript_fixed.md
