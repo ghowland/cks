@@ -4,13 +4,13 @@
 
 ### Jacobian Constant Derivation; Flower of Life Geometry; Macro-Pixel Structure; 7.70164 Necessity
 
-**Registry:** [CKS-MATH-17-2026]  
+**Registry:** [@CKS-MATH-17-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18639023
 
 **Date:** February 2026
 
@@ -338,7 +338,7 @@ Total: 5 + 2 = 7.
 
 1. **Nucleus count:** N = 7 (FoL bubbles)
 
-2. **Loop bonds:** B = 12 (lepton structure from [CKS-MATH-8-2026])
+2. **Loop bonds:** B = 12 (lepton structure from [@CKS-MATH-8-2026])
 
 3. **Packing constant:** K = 2π/(3√3) (hexagon-to-circle ratio)
 
@@ -1440,7 +1440,7 @@ Qualia = geometric overflow.
 
 ### 9.1 The 32-Second Word
 
-**From [CKS-MATH-16-2026]:**
+**From [@CKS-MATH-16-2026]:**
 
 Word length T = 32 seconds.
 
@@ -1466,7 +1466,7 @@ Total: 8×2×2 = 32.
 
 ### 9.2 The 66th Harmonic
 
-**From [CKS-MATH-66-2026]:**
+**From [@CKS-DWDM-5-2026]:**
 
 Ground state: f₆₆ = 2.0625 Hz.
 
@@ -1490,7 +1490,7 @@ Ground state for 7-bubble system.
 
 ### 9.3 The 193.1 THz Carrier
 
-**From [CKS-DWDM-6-2026]:**
+**From [@CKS-DWDM-5-2026]:**
 
 Optical carrier: 193.1 THz.
 
@@ -1839,10 +1839,6 @@ Is exactly the Flower of Life.
 **Version:** 1.0 Final  
 
 **Date:** February 2026
-
-**Registry:** [CKS-MATH-17-2026]  
-
-**Prerequisites:** [CKS-MATH-16-2026], [CKS-MATH-66-2026]
 
 **Axioms: 2**  
 

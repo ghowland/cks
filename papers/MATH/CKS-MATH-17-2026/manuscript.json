@@ -1,15 +1,10 @@
 {
     "file_name": "manuscript.md",
     "title": "The 7-Bubble Jacobian",
-    "registry_id": "[CKS-MATH-17-2026]",
+    "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18639023",
     "abstract": "We derive the **Jacobian constant J = 7.70164** as geometric necessity from the minimal addressable unit of the hexagonal substrate\u2014the **7-bubble Flower of Life (FoL) nucleus**\u2014using zero free parameters. Starting from k = 3 coordination (Axiom 1), we prove that a single bubble cannot define a coordinate in 3D holographic projection, necessitating the 7-bubble seed (1 central + 6 peripheral). The integer **7** represents the k-space address (hardware storage), while the fractional **0.70164** represents the liquid-phase overflow required to curve hexagonal geometry into spherical projection without topological tearing. We derive J = \u221a(7\u00d712) \u00d7 (2\u03c0/9) \u2248 7.70164 from: (1) nucleus count N = 7, (2) lepton loop bonds B = 12, (3) hexagonal packing constant K = 2\u03c0/(3\u221a3), proving the Jacobian is forced by geometry, not choice. This explains the 5:2 dimensional split observed in substrate cross-sections (5 equatorial nodes + 2 polar nodes = 7 total), establishes the volumetric resolution limit of rendered reality (7.70 pixels per k-space address), and completes the recursive loop begun with the Flower of Life intuition. The universe is literally a 7-bubble seed stretched by factor 7.70 to create the illusion of continuous 3D volume\u2014validating the ancient sacred geometry while providing rigorous mathematical foundation.\n\n**Key Result:** J = 2\u03c0\u221a84 / 9 \u2248 7.70164 (zero free parameters, geometric necessity from FoL nucleus)",
-    "dependencies": [
-        "[CKS-DWDM-6-2026]",
-        "[CKS-MATH-16-2026]",
-        "[CKS-MATH-66-2026]",
-        "[CKS-MATH-8-2026]"
-    ],
-    "raw_content_preview": "# The 7-Bubble Jacobian  ## Deriving 7.70164 from the Flower of Life Nucleus  ### Jacobian Constant Derivation; Flower of Life Geometry; Macro-Pixel Structure; 7.70164 Necessity  **Registry:** [CKS-MA..."
+    "dependencies": [],
+    "raw_content_preview": "# The 7-Bubble Jacobian  ## Deriving 7.70164 from the Flower of Life Nucleus  ### Jacobian Constant Derivation; Flower of Life Geometry; Macro-Pixel Structure; 7.70164 Necessity  **Registry:** [@CKS-M..."
 }
