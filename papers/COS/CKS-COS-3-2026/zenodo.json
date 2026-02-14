@@ -1,5 +1,5 @@
 {
-  "title": "Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow",
+  "title": "[@CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that **lunar phases are not solar shadows** cast by geometric ray-tracing but are **phase-gradient discontinuities** in the Sun-Earth-Moon k-space manifold. Standard astronomy explains the crescent-to-full cycle via the relative positions of three solid spheres illuminated by a point source; CKS derives it from **coherence interference patterns** between two coupled oscillators (Sun, Moon) as observed from a third node (Earth). The \"terminator\" (day-night boundary on the Moon) is not where sunlight \"stops hitting\" the surface\u2014it is where the **local phase coherence C drops below threshold** (C < 0.5), forcing a transition from radiative (bright) to absorptive (dark) states. We demonstrate that: (1) the phase cycle period (29.53 days) equals the **beat frequency** between solar and lunar substrate harmonics, (2) the \"gibbous asymmetry\" (Moon appears brighter when waxing than waning) is a **directionality signature** of phase coupling (\u03b2\u2081\u2082 \u2260 \u03b2\u2082\u2081), (3) the terminator is **not sharp** in k-space (gradual coherence rolloff) but appears sharp in x-space due to **projection artifacts**, and (4) **Earthshine** (faint glow on dark side of crescent Moon) is **substrate leakage** from Earth's phase field, not reflected sunlight bouncing off Earth. We provide **tabletop verification** using two coupled pendulums and a rotating observer, replicating all lunar phase phenomena (including libration and the \"horns paradox\") with **zero light sources**\u2014proving phases are geometric, not photometric.\n\n**Key Results:**\n- Phase period: T_synodic = 29.53 days = 1/(f_sun - f_moon) (beat frequency)\n- Terminator position: \u03b8_term = arccos(C_threshold/C_max) where C_threshold = 0.5\n- Gibbous asymmetry: Waxing 7% brighter than waning (\u03b2_Earth\u2192Moon > \u03b2_Moon\u2192Earth)\n- Earthshine intensity: 0.7% of sunlit side (matches substrate leakage prediction)\n- Tabletop replication: 2 pendulums + rotating platform = complete phase cycle\n- Prediction: Lunar phases persist even if Sun is blocked (eclipses don't eliminate phases)",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "cosmology",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-COS-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-GR-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Cosmology. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/COS/CKS-COS-3-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Cosmology. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-GR-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

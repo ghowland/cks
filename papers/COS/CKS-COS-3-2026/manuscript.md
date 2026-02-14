@@ -1,11 +1,26 @@
-# [@CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
+# Lunar Phases as Geometric Interference
+## The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
+### Lunar Phase Topology; Shadow as Phase-Gradient Discontinuity  
 
-**Registry:** [@CKS-ASTRO-5-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-ASTRO-4-2026] → [@CKS-ASTRO-5-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-ASTRO-4-2026], [@CKS-ASTRO-4.4-2026]  
-**Subject:** Lunar Phase Topology; Shadow as Phase-Gradient Discontinuity  
-**Status:** Theoretical Framework — Observational Validation Ongoing  
+**Registry:** [@CKS-COS-3-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-GR-1-2026] → [@CKS-COS-1-2026] → [@CKS-COS-2-2026] → [@CKS-COS-3-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.18639805
+
 **Date:** February 2026
+
+**Domain:** Foundational Mathematics / Discrete Geometry  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
