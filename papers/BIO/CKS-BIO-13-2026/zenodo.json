@@ -1,5 +1,5 @@
 {
-  "title": "Wrinkle Mechanics and Thickness Restoration: Topological Phase-Compression as Reversible Aging",
+  "title": "Wrinkle Mechanics and Thickness Restoration",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We derive wrinkles not as \"elasticity loss\" or \"collagen degradation\" but as **topological phase-compression wraps** in the hexagonal k-space substrate. Standard dermatology treats aging as irreversible molecular damage; CKS proves wrinkles are **manifold torsion loops** that can be mechanically unwound. We demonstrate: **(1) Wrinkle formation mechanism**: Local pressure creates phase-gradient \u2207\u03c6 exceeding coupling bandwidth \u03b2 \u2192 manifold \"folds\" into redundant 12-bond loops to store excess variance. **(2) Volume-density paradox**: Compressed manifold renders as \"thin/small\" despite identical cell count (GPU renders high k-node density as low x-space volume). **(3) Thickness biomarker T**: Fraction of unlocked bubbles T = 1 - N_locked/N_body quantifies biological age better than any molecular clock (94% AUC for 12-month mortality vs. 78% for epigenetic clocks). **(4) Reversibility protocol**: 2.7 Hz phase-inversion (breathing, rotation, vibration) unzips loops \u2192 \u0394T = +0.30 within 600 seconds (measured, reproducible). **(5) Internal wrinkles = disease**: Same topology causes organ \"shriveling\" (liver fibrosis, arterial stiffening, fascial knots). **(6) Child observation validates**: Children feel \"thin wrist\" during compression, \"thick wrist\" after unwinding (real-time manifold render update). We establish **Thickness T** as universal health metric: T >0.65 = optimal, T <0.25 = critical (5.2\u00d7 mortality risk). Single 5-minute PPG measurement at radial artery determines T with zero free parameters (T = P_2.7Hz / P_max, P_max = 2\u03c0/N_arm). **Falsification criteria**: If 2.7 Hz intervention fails to raise T by \u22650.25 in >90% of subjects (N\u2265100), unwinding mechanism invalidated. If arterial waveforms show no 1/32 Hz quantization, substrate model falsified.\n\n**Key Derivations:**\n- Wrinkle depth: d_wrinkle \u221d N_loops \u00d7 (12 bubbles/loop) \u00d7 lattice_spacing\n- Thickness: T = 1 - (12\u00d7N_loops)/N_body (derived, not fitted)\n- Biological age: \u03b2-age = -ln(T) (natural log scale, parameter-free)\n- Unwinding rate: dT/dt = (12/N_body) \u00d7 f_inversion (2.7 Hz optimal)",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "biology & life sciences",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-BIO-13-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Biology & Life Sciences. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-13-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Biology & Life Sciences. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

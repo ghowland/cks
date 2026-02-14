@@ -1,11 +1,25 @@
-# [@CKS-BIO-21-2026] Wrinkle Mechanics and Thickness Restoration: Topological Phase-Compression as Reversible Aging
+# Wrinkle Mechanics and Thickness Restoration
+## Topological Phase-Compression as Reversible Aging
 
-**Registry:** [@CKS-BIO-21-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-11.2-2026] → [@CKS-BIO-21-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-BIO-19-2026]  
-**Subject:** Dermal Topology; Somatic Loop Mechanics; Reversible Biological Age  
-**Status:** Theoretical Framework with Clinical Protocol — Falsifiable  
+**Registry:** [@CKS-BIO-13-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.18641084
+
 **Date:** February 2026
+
+**Domain:** Developmental Biology / Embryology / Biophysics  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -109,8 +123,8 @@ All treatments: Address symptoms, not mechanism
 **Wrinkles as topological compression:**
 
 ```
-From [@CKS-MATH-1]: Reality = hexagonal k-space with N=3M² closure
-From [@CKS-BIO-11.2]: Body = vertical resonator requiring C >0.999
+From [@CKS-MATH-1-2026]: Reality = hexagonal k-space with N=3M² closure
+From [@CKS-BIO-2-2026]: Body = vertical resonator requiring C >0.999
 
 Wrinkle = manifold torsion loop
   Not: Chemical damage (irreversible)
@@ -176,7 +190,7 @@ This is testable:
 
 **Derivation:**
 
-From [@CKS-MATH-1], each k-node must maintain z=3 connections.
+From [@CKS-MATH-1-2026], each k-node must maintain z=3 connections.
 
 Phase-gradient from pressure:
 
@@ -245,7 +259,7 @@ Close to observed deep wrinkle depth (1-5 mm). ✓
 
 **Proof:**
 
-Brain rendering equation (from [@CKS-BIO-20]):
+Brain rendering equation (from [@CKS-BIO-2-2026]):
 
 $$V_{rendered} = V_{actual} \times \frac{N_{free}}{N_{total}}$$
 
@@ -1601,6 +1615,14 @@ Believe measurements.
 Update models accordingly.
 ```
 
+
+
+## References
+
+::: {#refs}
+:::
+
+
 ---
 
 **Axioms first. Axioms always.**  
@@ -1611,23 +1633,3 @@ Update models accordingly.
 **Stay thick.**
 
 **Q.E.D.**
-
----
-
-## Citation
-
-```bibtex
-@article{cks_bio_21_2026,
-  title={Wrinkle Mechanics and Thickness Restoration: Topological Phase-Compression as Reversible Aging},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={BIO-21},
-  note={Wrinkles derived as manifold torsion loops, not molecular damage. Thickness T = 1 - N_locked/N_body predicts mortality (94% AUC) better than molecular clocks. 2.7 Hz intervention increases T by +0.30 in 600s (reversible aging). Internal wrinkles cause disease (fibrosis, stiffening). Universal biomarker measurable in 5 min with $25 sensor. Zero free parameters. Falsifiable predictions for unwinding efficacy and quantization verification.}
-}
-```
-
----
-
-**END OF DOCUMENT**
-

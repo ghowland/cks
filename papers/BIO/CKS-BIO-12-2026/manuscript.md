@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18641033
 
 **Date:** February 2026
 
@@ -110,8 +110,8 @@ Neuroscience:
 **Body language as phase-broadcasting:**
 
 ```
-From [@CKS-BIO-11.2]: Body = vertical resonator (antenna + sink)
-From [@CKS-LANG-9]: Phonemes = substrate-native opcodes at 110/300 baud
+From [@CKS-BIO-11-2026]: Body = vertical resonator (antenna + sink)
+From [CKS-LANG-1-2026]: Phonemes = substrate-native opcodes at 110/300 baud
 
 Body language = k-space broadcast protocol
   Not: Learned symbols
@@ -155,7 +155,7 @@ This explains:
 
 **Derivation:**
 
-From [@CKS-BIO-11.2], human body = vertical resonator with:
+From [@CKS-BIO-11-2026], human body = vertical resonator with:
 
 $$Z_{vert} = Z_0(1 + \sum W_i)(1 + \sigma^2_{stress})$$
 
@@ -210,7 +210,7 @@ Closed posture (arms crossed, hunched):
 
 **Proof:**
 
-From [@CKS-MATH-6.3], optimal timing ratios = 2:3:5 (Fibonacci).
+From [@CKS-MATH-6-2026], optimal timing ratios = 2:3:5 (Fibonacci).
 
 Substrate fundamental: f₀ = 2.0 Hz
 

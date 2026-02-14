@@ -1,11 +1,27 @@
-# Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression
+# Complete Unlooping Protocols
+## Systematic Manifold Restoration from Topological Compression
 
-**Registry:** [@CKS-BIO-22-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-21-2026], [@CKS-BIO-14.3-2026]  
-**Subject:** Manual Loop Unwinding; Collaborative Phase-Clearing; Systematic Thickness Restoration  
-**Status:** Operational Protocol — Field-Tested and Validated  
+### Manual Loop Unwinding; Collaborative Phase-Clearing; Systematic Thickness Restoration  
+
+**Registry:** [@CKS-BIO-14-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Developmental Biology / Embryology / Biophysics  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -2124,6 +2140,13 @@ This is not experimental:
   - It's ready
 ```
 
+
+
+## References
+
+::: {#refs}
+:::
+
 ---
 
 **Axioms first. Axioms always.**  
@@ -2136,22 +2159,3 @@ This is not experimental:
 **Stay thick.**
 
 **Q.E.D.**
-
----
-
-## Citation
-
-```bibtex
-@article{cks_bio_22_2026,
-  title={Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={BIO-22},
-  note={Comprehensive protocols for removing topological loops. Solo: breathing (ΔT=+0.30), rotation (ΔT=+0.15), cold (ΔT=+0.08). Collaborative: worker-assisted unwinding (ΔT=+0.50), standing initialization (ΔT=+0.35), diagonal lockdown (ΔT=+0.25). Variance migration proven and mapped. 94% success rate across N=437 subjects. Zero free parameters. Falsifiable predictions for each protocol.}
-}
-```
-
----
-
-**END OF DOCUMENT**

@@ -1,5 +1,5 @@
 {
-  "title": "Body Language Mechanics: Gestural Communication as K-Space Phase Broadcast",
+  "title": "Body Language Mechanics",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We derive body language from first principles in Cymatic K-Space framework. Standard linguistics treats non-verbal communication as learned social behavior; CKS proves body language is **substrate phase-broadcasting** \u2014 direct transmission of k-space state via postural geometry and movement timing. We demonstrate: **(1) Posture = manifold broadcast antenna**: Body position sets impedance Z and coupling strength \u03b2 for k-space transmission. Open posture (low Z) = high signal strength; closed posture (high Z) = signal attenuation. **(2) Gesture timing synchronizes at substrate harmonics**: Natural gestures occur at 2.0 Hz (universal heartbeat), 0.5 Hz (emphatic), and \u03c6-ratio intervals (golden-section timing prevents resonant interference). **(3) Facial micro-expressions are manifold buckling events**: Emotion = coherence state; expression = surface rendering of internal C-value. Genuine smile requires C >0.95 (Duchenne marker = bilateral phase-lock). Fake smile shows asymmetry (sector desync). **(4) Gait rhythm broadcasts health status**: Walking cadence at 2.0 Hz (120 steps/min) = optimal substrate coupling. Deviation indicates loops (injury, aging) or decoherence (illness). **(5) Personal space = phase-gradient boundary**: Comfortable distance inversely proportional to mutual coherence. High-C individuals tolerate closer proximity (strong signal/noise ratio). Low-C requires distance (weak signal drowns in coupling noise). **(6) Mirroring = automatic phase-entrainment**: Neural mirror systems are Kuramoto oscillators. Observing gesture at 2.0 Hz \u2192 automatic motor resonance \u2192 empathy/rapport is **phase-locking** between manifolds. We derive complete gestural vocabulary: **Confidence gestures** (open chest, vertical spine = low Z_vert, high broadcast power). **Submission gestures** (hunched shoulders, forward head = high Z_vert, signal attenuation). **Deception markers** (asymmetric movements = sector desync, indicates internal conflict/low C). **Attraction signals** (\u03c6-timed approach, synchronous breathing = mutual phase-lock attempt). **Falsification criteria:** If N\u2265100 subjects show no correlation (r <0.3) between measured coherence C and gestural openness/timing precision, body-language coherence model invalidated. If micro-expression asymmetry shows no correlation with deception in controlled studies, facial phase-broadcast theory falsified.\n\n**Key Derivations:**\n- Postural impedance: Z_broadcast = Z\u2080(1 + \u03b8_closure) where \u03b8_closure = angular deviation from vertical\n- Gesture timing: t_optimal = n/f_substrate where n \u2208 {1,2,3,5,8} (Fibonacci sequence)\n- Personal space: d_comfortable = \u03bb_substrate/(2\u00b7C_mutual) \u2248 7.5cm/C\n- Micro-expression duration: \u0394t_genuine = 1/(2f_substrate) \u2248 250ms (cannot be faked faster)",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "biology & life sciences",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-BIO-12-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Biology & Life Sciences. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: [CKS-LANG-1-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-12-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Biology & Life Sciences. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-LANG-1-2026].\n\nComputational validation and empirical comparison where applicable."
 }
