@@ -28,6 +28,9 @@
 | **[[@CKS-MATH-14-2026]](papers/MATH/CKS-MATH-14-2026/)** | **The Origin of 2.08: Deriving the Linear Holographic Scale Factor from Cubic Substrate Projection** | λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry). |
 | **[[@CKS-MATH-15-2026]](papers/MATH/CKS-MATH-15-2026/)** | **Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism** | Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved). |
 
+| **[[@CKS-MATH-16-2026]](papers/MATH/CKS-MATH-16-2026/)** | ** zzz ** | zzz. |
+| **[[@CKS-MATH-17-2026]](papers/MATH/CKS-MATH-17-2026/)** | **The 7-Bubble Jacobian: Deriving 7.70164 from the Flower of Life Nucleus** | J = 2π√84 / 9 ≈ 7.70164 (zero free parameters, geometric necessity from FoL nucleus). |
+
 ---
 
 ## Core Physics Layer
