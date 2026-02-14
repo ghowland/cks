@@ -10,7 +10,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18639380
 
 **Date:** February 2026
 
@@ -141,15 +141,10 @@ Not two parallel systems but **one rotating system**.
 **From [CKS-MATH-18-2026], frame boundaries:**
 
 | Word Boundary | $0.000\text{s}$ | $10.667\text{s}$ | $21.333\text{s}$ | $32.000\text{s}$ |
-
 | :--- | :---: | :---: | :---: | :---: |
-
 | **Sync State** | **Rising Edge** | Frame Shift | Frame Shift | **Falling Edge** |
-
 | **Segment** | **Frame 0** | **Frame 1** | **Frame 2** | (Next Word) |
-
 | **Bit Range** | $0 - 31$ | $32 - 63$ | $64 - 83 (+ \text{Pad})$ | Register Reset |
-
 | **Instruction** | Nucleus Load | Bond Mapping | Parity Lock | Execution |
 
 **Critical property:** No gaps between frames.
