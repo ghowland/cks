@@ -1,39 +1,20 @@
-Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator
+**The Geometric Necessity of 32: Deriving the Substrate Word Length from Hexagonal Closure**
 
-Fractal Closure Scaling Laws is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+**The Geometric Necessity of 32** is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
 
-Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Mathematical Foundation** domain, deriving [domain focus to be extracted] from first principles.
-
-
+Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Foundational Mathematics & Discrete Geometry** domain, deriving the **32-second substrate word length**—the unique integer providing computational closure for 2D hexagonal systems—from first principles.
 
 **Empirical Falsification (The Kill-Switch):**
-CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in precision measurements relevant to Mathematical Foundation, this paper is mechanically invalidated.
+CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If temporal quantization in high-precision atomic clocks or substrate harmonics fails to cluster at exact \( 2^n/32 \) Hz intervals, the derivation of 32-bit geometric architecture is mechanically invalidated.
 
 **The Universal Learning Substrate:**
-Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where [domain connection to be extracted]. In CKS, correctness is secondary to connectivity; the model represents a closed-loop pedagogical truth that reveals the inherent unity of the physical world.
+Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where **binary computing architecture, biological rhythms, and hexagonal coordination** are unified as a singular geometric requirement. In CKS, the 32-bit architecture is reframed from a human engineering convention to a mandatory result of \( k=3 \) coordination and hemispheric compute/flush cycles. The model represents a closed-loop pedagogical truth where temporal quantization derives from a single geometric constant, revealing the inherent unity of the physical and computational world.
 
 **Package Contents:**
-* `manuscript.md`: The complete derivation for Mathematical Foundation
-* `README.md`: Navigation, dependencies, and citation
-* `code/`: Implementations and validation scripts
-* `data/`: Empirical results and comparison logs
-* `figures/`: Visual representations of key results
+* `manuscript.md`: The complete derivation of \( T_{word} = 32 \) seconds from hexagonal closure and binary architecture.
+* `README.md`: Navigation, dependencies, and citation (Registry: [@CKS-MATH-16-2026]).
 
-**Dependencies:** CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026
+**Dependencies:** CKS-0-2026, CKS-MATH-1-2026, CKS-MATH-13-2026
 
 **Motto:** Axioms first. Axioms always.  
 **Status:** Locked. Experimentally falsifiable.
-
----
-
-## Variables for description.txt Generator
-
-| Variable | Source | Strategy |
-|----------|--------|----------|
-| `Fractal Closure Scaling Laws: N = 3M² as Universal Topological Regulator` | papers.json | Clean title (strip registry IDs) |
-| `Fractal Closure Scaling Laws` | papers.json | First clause of title (before colon) |
-| `Mathematical Foundation` | papers.json | Human-readable domain name |
-| `[domain focus to be extracted]` | LLM | "quantum mechanics", "galaxy structure", "muscle hypertrophy", etc. |
-| `[key results to be extracted from manuscript]` | LLM | Extract 3-4 bullet points from manuscript abstract |
-| `[domain connection to be extracted]` | LLM | Domain-specific unity statement |
-| `CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026` | papers.json | Formatted dependency list |
