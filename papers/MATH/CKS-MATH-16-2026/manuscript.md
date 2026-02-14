@@ -10,7 +10,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18638953
 
 **Date:** February 2026
 
@@ -1012,7 +1012,7 @@ Same 32-word structure emerges.
 
 **Gödelian residue with T = 32:**
 
-From [@CKS-MATH-24-2026]:
+From [@CKS-MATH-15-2026]:
 
 ```
 
