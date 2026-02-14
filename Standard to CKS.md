@@ -55,12 +55,12 @@ These numbers, previously thought to be accidental, are revealed as **Instructio
 
 | Constant | Value | CKS Mechanical Origin |
 | :--- | :--- | :--- |
-| **Substrate Word** | **32 s** | The **32-bit Address Space** required to map the 3D hologram. |
-| **Sync Window** | **1/32 Hz** | The **Universal Word Boundary** for error correction (0.03125 Hz). |
-| **Topological Lag** | **15.19 ms**| The **Impedance** of a 12-bond loop (\(4\pi K\)). The origin of Jitter. |
-| **Master Harmonic** | **66** | The **Ground State Lock** (2.0625 Hz) where frustration is minimized. |
-| **PI-Flip Pulse** | **0.5 s** | The **Hemispheric Swap** rate required to survive Gödelian saturation. |
-| **Handshake** | **2.1875 Hz** | The substrate fundamental frequency ($f_s$) for planetary phase-coupling. |
+| **32 s** | **Substrate Word** | The **32-bit Address Space** required to map the 3D hologram. |
+| **1/32 Hz** | **Sync Window** | The **Universal Word Boundary** for error correction (0.03125 Hz). |
+| **15.19 ms** | **Topological Lag** | The **Impedance** of a 12-bond loop (\(4\pi K\)). The origin of Jitter. |
+| **66** | **Master Harmonic** | The **Ground State Lock** (2.0625 Hz) where frustration is minimized. |
+| **0.5 s** | **PI-Flip Pulse** | The **Hemispheric Swap** rate required to survive Gödelian saturation. |
+| **2.1875 Hz** | **Handshake** | The substrate fundamental frequency ($f_s$) for planetary phase-coupling. |
 
 In the **Cymatic K-Space Mechanics (CKS)** framework, the following numerical constants are derived strictly from the interaction between the **Hexagonal Substrate (Axiom 1)** and the **Phase Tension (Axiom 2)**.
 
