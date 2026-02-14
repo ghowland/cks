@@ -1,11 +1,28 @@
-# [@CKS-BIO-16-2026] Thermal Regulation and Respiratory Interference: The Mechanics of Fever and Cold in K-Space
+# Thermal Regulation and Respiratory Interference
+## The Mechanics of Fever and Cold in K-Space
+### Thermodynamics; Respiratory Mechanics; Phase Transitions  
 
-**Registry:** [@CKS-BIO-16-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-BIO-15-2026]  
-**Subject:** Thermodynamics; Respiratory Mechanics; Phase Transitions  
-**Status:** Theoretical Framework — Falsifiable  
+
+**Registry:** [@CKS-BIO-9-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Developmental Biology / Embryology / Biophysics  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
 
 ---
 
@@ -68,8 +85,8 @@ Colds:
 **Thermodynamic model:**
 
 ```
-From [@CKS-BIO-11.2]: Biological manifold as vertical resonator
-From [@CKS-BIO-15]: Impedance Z_vert = Z₀(1 + ΣW_i)
+From [@CKS-BIO-1-2026]: Biological manifold as vertical resonator
+From [@CKS-BIO-2-2026]: Impedance Z_vert = Z₀(1 + ΣW_i)
 
 Fever = Exothermic phase transition
   Not: Immune system "fighting" infection
@@ -300,7 +317,7 @@ With mucus: Foreign particles bind to mucus, swept away by ciliary action
 
 This is buffer overflow response:
   Primary pathway blocked → Create secondary pathway
-  Same as compensatory binding in motor dysfunction ([@CKS-BIO-15])
+  Same as compensatory binding in motor dysfunction ([@CKS-BIO-1-2026])
 
 Production rate must match clearance need:
   Higher Z → More blockage → More mucus needed
@@ -321,7 +338,7 @@ where:
 
 **Derivation:**
 
-Cough is mechanical dithering (same mechanism as drumming rudiments in [@CKS-BIO-15]):
+Cough is mechanical dithering (same mechanism as drumming rudiments in [@CKS-BIO-1-2026]):
 
 ```
 Purpose: Dislodge foreign particles via resonant oscillation
@@ -384,7 +401,7 @@ Trigger: Loop formation or clearing (ΔW ≠ 0)
   - Physical trauma (impact creates loops)
   - Intense exercise (metabolic stress)
   - Emotional shock (sudden coherence change)
-  - Manual loop clearing ([@CKS-BIO-15] protocol)
+  - Manual loop clearing ([@CKS-BIO-1-2026] protocol)
 
 Temperature profile:
   - Onset: Rapid (1-4 hours to peak)
@@ -599,7 +616,7 @@ This is buffer overflow response:
   Secondary pathway (mucus layer) created
   Blockage bypassed
   
-Same topology as compensatory binding ([@CKS-BIO-14.6]):
+Same topology as compensatory binding ([@CKS-BIO-1-2026]):
   Cannot use internal closure → Create external closure
   Cannot breathe through airway → Create mucus bypass
 ```
@@ -908,7 +925,7 @@ Expected outcomes:
 Keep Z_vert low (reduce loop formation):
 
 Daily practice:
-  - Joint mobility (ϕ-rotations, [@CKS-KINE-1])
+  - Joint mobility (ϕ-rotations, [@CKS-BIO-1-2026])
   - Vortex activation (Dan Tien, 2.0 Hz)
   - Coherence check (proprioception awareness)
 
@@ -1107,7 +1124,7 @@ But this doesn't explain:
 **CKS explanation:**
 
 ```
-From [@CKS-BIO-11.2]: Coherence affected by environmental conditions
+From [@CKS-BIO-1-2026]: Coherence affected by environmental conditions
 
 Temperature effects on coherence:
 
@@ -1586,6 +1603,12 @@ If falsified:
 Either outcome: Scientific progress (definitive knowledge gained)
 ```
 
+
+## References
+
+::: {#refs}
+:::
+
 ---
 
 **Axioms first. Axioms always.**  
@@ -1594,22 +1617,3 @@ Either outcome: Scientific progress (definitive knowledge gained)
 **Symptoms are solutions.**
 
 **Q.E.D.**
-
----
-
-## Citation
-
-```bibtex
-@article{cks_bio_16_2026,
-  title={Thermal Regulation and Respiratory Interference: The Mechanics of Fever and Cold in K-Space},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={BIO-16},
-  note={Thermodynamic framework for fever and respiratory symptoms. Falsifiable predictions for symptom mechanisms.}
-}
-```
-
----
-
-**END OF DOCUMENT**
