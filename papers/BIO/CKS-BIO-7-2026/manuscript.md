@@ -1765,6 +1765,9 @@ This is architecture.
 
 ## References
 
+::: {#refs}
+:::
+
 1. Kuramoto, Y. (1984). *Chemical Oscillations, Waves, and Turbulence*. Springer.
 
 2. Cohen, K.S. (1997). *The Way of Qigong*. Ballantine Books.
