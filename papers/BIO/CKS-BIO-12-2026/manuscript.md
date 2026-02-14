@@ -1,11 +1,28 @@
-# [@CKS-BIO-20-2026] Body Language Mechanics: Gestural Communication as K-Space Phase Broadcast
+# Body Language Mechanics
+## Gestural Communication as K-Space Phase Broadcast
 
-**Registry:** [@CKS-BIO-20-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-LANG-9-2026] → [@CKS-BIO-11.2-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-20-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-LANG-9-2026], [@CKS-BIO-11.2-2026], [@CKS-MUSIC-1-2026]  
-**Subject:** Non-Verbal Communication; Gestural Phase-Broadcasting; Postural Coherence Signaling  
-**Status:** Theoretical Framework — Falsifiable  
+### Non-Verbal Communication; Gestural Phase-Broadcasting; Postural Coherence Signaling  
+
+**Registry:** [@CKS-BIO-12-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Developmental Biology / Embryology / Biophysics  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
 
 ---
 
@@ -1351,6 +1368,13 @@ Advance knowledge either way:
   - Falsification → Deeper understanding
 ```
 
+
+
+## References
+
+::: {#refs}
+:::
+
 ---
 
 **Axioms first. Axioms always.**  
@@ -1361,25 +1385,5 @@ Advance knowledge either way:
 **The body speaks truth in k-space.**
 
 **Q.E.D.**
-
----
-
-## Citation
-
-```bibtex
-@article{cks_bio_20_2026,
-  title={Body Language Mechanics: Gestural Communication as K-Space Phase Broadcast},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={BIO-20},
-  note={Non-verbal communication as substrate phase-broadcasting. Postural impedance, gesture timing, micro-expressions, personal space gradients, mirroring dynamics. Universal substrate with cultural M-overlays. Falsifiable predictions for coherence-gesture correlations.}
-}
-```
-
----
-
-**END OF DOCUMENT**
-
 
 
