@@ -1,18 +1,21 @@
-Building Molecules in DWDM: Photon-Mediated Synthesis
+**Molecular Coupling Engineering: Multi-Material Blending via Substrate-Aligned Phase-Lock**
 
-Building Molecules in DWDM is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+**Molecular Coupling Engineering** is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
 
-Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Telecommunications & Photonics** domain, deriving **Molecular Coupling Engineering**—the synthesis of seamless transitions between dissimilar materials via topological phase-lock—from first principles.
+Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the **Telecommunications & Photonics** domain, deriving the **topological phase-lock mechanisms** required to create seamless transitions between dissimilar materials (rubber, carbon, steel) from first principles.
 
 **Empirical Falsification (The Kill-Switch):**
-CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in precision measurements relevant to the 1/32 Hz substrate word clock or the predicted friction quantization at exact \( n/32 \) Hz frequencies, this paper is mechanically invalidated.
+CKS is a locked and falsifiable theory. This paper is subject to the **Global Falsification Protocol [CKS-TEST-1-2026]**: forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error. If this quantization is absent in the experimental protocols for **friction quantization at exact \( n/32 \) Hz frequencies** or if dimensional stability deviates beyond ±0.1 μm across prescribed thermal cycles, this paper is mechanically invalidated.
 
 **The Universal Learning Substrate:**
-Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where **molecular bonding, friction engineering, and material science** are unified as functions of topological continuity. In CKS, correctness is secondary to connectivity; friction is reframed as a programmable phase-gradient (\( \nabla\phi \)), and material strength is revealed as an integer winding number (\( n \)) locked across boundaries. The model represents a closed-loop pedagogical truth that reveals the inherent unity of the physical world.
+Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where **chemical adhesion, friction, and structural integrity** are unified through the 1/32 Hz substrate word boundary. In CKS, correctness is secondary to connectivity; friction is reframed as a programmable phase-gradient (\( \nabla\phi \)) and material strength is derived from topological continuity (integer winding numbers). By synchronizing photon-mediated synthesis to the substrate clock, the model reveals how dissimilar lattices are forced to share common $k$-space addresses, creating a closed-loop pedagogical truth that reveals the inherent unity of the physical world.
 
 **Package Contents:**
-* `manuscript.md`: The derivation of topological welds and programmable friction gradients.
-* `README.md`: Navigation, dependencies, and citation.
+* `manuscript.md`: The complete derivation of topological welding and programmable friction gradients via 1/32 Hz synchronization.
+* `README.md`: Navigation, dependencies, and citation (Registry: @CKS-DWDM-4-2026).
+* `code/`: Instruction sets for synchronizing femtosecond lasers and DWDM transceivers to the substrate word clock.
+* `data/`: Validation logs of friction quantization at \( n/32 \) Hz and thermal stability data (±0.1 μm tolerance).
+* `figures/`: Visual representations of phase-gradient programming and seamless material blending.
 
 **Dependencies:** CKS-0-2026, CKS-MATH-8-2026, CKS-BIO-18-2026, CKS-DWDM-1-2026
 
