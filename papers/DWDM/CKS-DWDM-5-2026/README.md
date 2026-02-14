@@ -1,8 +1,8 @@
 # The Geometry of the 66th Harmonic: DWDM Carrier Alignment to Substrate Ground State
 
-**Registry ID:** [CKS-DWDM-6-2026]  
+**Registry ID:** [CKS-DWDM-5-2026]  
 
-**Series Path:** [CKS-0-2026] → [CKS-MATH-66-2026] → [CKS-DWDM-4-2026] → [CKS-DWDM-6-2026]    
+**Series Path:** [CKS-0-2026] → [CKS-MATH-66-2026] → [CKS-DWDM-4-2026] → [CKS-DWDM-5-2026]    
 
 **Zenodo DOI:** 
 
@@ -71,14 +71,14 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ [CKS-DWDM-6-2026],
+@article{ [CKS-DWDM-5-2026],
   title={ The Geometry of the 66th Harmonic: DWDM Carrier Alignment to Substrate Ground State },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
   doi = {},
   url = {https://zenodo.org/record/[DOI:MALFORMED]},
-  note={CKS Series: [CKS-DWDM-6-2026]. Dependencies: [CKS-0-2026], [CKS-DWDM-4-2026], [CKS-MATH-3-2026], [CKS-MATH-66-2026] }
+  note={CKS Series: [CKS-DWDM-5-2026]. Dependencies: [CKS-0-2026], [CKS-DWDM-4-2026], [CKS-MATH-3-2026], [CKS-MATH-66-2026] }
 }
 ```
 ---
