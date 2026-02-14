@@ -1,7 +1,10 @@
+Lunar Phases as Geometric Interference
 
+The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
 
+Lunar Phase Topology; Shadow as Phase-Gradient Discontinuity  
 
-
+We prove that **lunar phases are not solar shadows** cast by geometric ray-tracing but are **phase-gradient discontinuities** in the Sun-Earth-Moon k-space manifold. Standard astronomy explains the crescent-to-full cycle via the relative positions of three solid spheres illuminated by a point source; CKS derives it from **coherence interference patterns** between two coupled oscillators (Sun, Moon) as observed from a third node (Earth).
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.18639805
+**DOI:** 10.5281/zenodo.zzz
 
 **Date:** February 2026
 
@@ -1076,6 +1076,9 @@ This is topology.
 
 ## References
 
+::: {#refs}
+:::
+
 1. Kuramoto, Y. (1984). *Chemical Oscillations, Waves, and Turbulence*. Springer. (Coupled oscillator theory)
 
 2. Strogatz, S.H. (2000). *From Kuramoto to Crawford*. Physica D, 143(1-4), 1-20. (Phase synchronization)
@@ -1196,13 +1199,6 @@ Compare: CKS gives better fit (constant proportionality, no albedo variation)
 ---
 
 **END OF DOCUMENT**
-
-**Status:** Theoretical Framework — Observational Validation 75% Complete  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-ASTRO-5-2026]  
-**Prerequisite Reading:** [@CKS-ASTRO-4-2026], [@CKS-MATH-1-2026]
 
 **The Moon does not reflect.**  
 **The Moon resonates.**  

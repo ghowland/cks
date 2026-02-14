@@ -1,10 +1,10 @@
-# [@CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow
+# Lunar Phases as Geometric Interference
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-ASTRO-4-2026] → [@CKS-ASTRO-5-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-GR-1-2026] → [@CKS-COS-1-2026] → [@CKS-COS-2-2026] → [@CKS-COS-3-2026]  
 
-**Zenodo DOI:** 
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -77,12 +77,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ [@CKS-ASTRO-5-2026] Lunar Phases as Geometric Interference: The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow },
+  title={ Lunar Phases as Geometric Interference },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {},
-  url = {https://zenodo.org/record/[DOI:MALFORMED]},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
