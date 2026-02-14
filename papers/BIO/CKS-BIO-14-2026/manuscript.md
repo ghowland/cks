@@ -1,4 +1,4 @@
-# [@CKS-BIO-22-2026] Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression
+# Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression
 
 **Registry:** [@CKS-BIO-22-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026]  
