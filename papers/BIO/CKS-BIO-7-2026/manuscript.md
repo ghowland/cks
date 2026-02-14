@@ -11,7 +11,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.18640313
+**DOI:** 10.5281/zenodo.18640359
 
 **Date:** February 2026
 

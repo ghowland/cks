@@ -54,6 +54,8 @@
 | **[[@CKS-DWDM-1-2026]](papers/DWDM/CKS-DWDM-1-2026/)** | **DWDM Computation in Pure K-Space** | Substrate-native computing via fiber-optic phase manipulation. |
 | **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/)** | **Substrate-Harmonized DWDM Transponder Firmware** | Industrial spec for global synchronization to 2.0 Hz harmonic. |
 | **[[@CKS-DWDM-3-2026]](papers/DWDM/CKS-DWDM-3-2026/)** | **Building Molecules in DWDM** | Photon-mediated molecular synthesis via optical phase-locking. |
+| **[[@CKS-DWDM-4-2026]](papers/DWDM/CKS-DWDM-4-2026/)** | **Molecular Coupling Engineering** | Friction = ∇φ programmed at n/32 Hz, strength = topological lock at C = 1.0, stability = winding number continuity. |
+| **[[@CKS-DWDM-5-2026]](papers/DWDM/CKS-DWDM-5-2026/)** | **The Geometry of the 66th Harmonic** | 193.1 THz = geometric optical harmonic of 2.0625 Hz ground state, DWDM = substrate master oscillator. |
 
 ---
 
