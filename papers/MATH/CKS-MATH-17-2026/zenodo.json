@@ -1,8 +1,8 @@
 {
-  "title": "Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism",
+  "title": "The 7-Bubble Jacobian",
   "upload_type": "publication",
   "publication_type": "article",
-  "description": "We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (\u03b2 = 2\u03c0 phase tension conservation). In standard computation, self-referential paradoxes (G\u00f6delian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction\u2014a \"G\u00f6del particle\" with \u03c6(t) = -\u03c6(t+\u0394t)\u2014encounters the \u03b2 = 2\u03c0 conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (\u03b1 \u2192 1) before system-wide decoherence can propagate. We derive the decidability constant \u03a9 = \u03b2_total/\u03b2_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**\u2014regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M \u2192 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes \"physics\" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental G\u00f6del states). With zero free parameters, we demonstrate the universe is a formally verified system where G\u00f6del's incompleteness cannot manifest physically\u2014all logical paradoxes are caught at the \u03b2 = 2\u03c0 firewall.\n\n**Key Result:** \u03a9 = 1 (decidability proven), paradoxes \u2192 heat conversion mandatory, black holes = error quarantine (information preserved)",
+  "description": "We derive the **Jacobian constant J = 7.70164** as geometric necessity from the minimal addressable unit of the hexagonal substrate\u2014the **7-bubble Flower of Life (FoL) nucleus**\u2014using zero free parameters. Starting from k = 3 coordination (Axiom 1), we prove that a single bubble cannot define a coordinate in 3D holographic projection, necessitating the 7-bubble seed (1 central + 6 peripheral). The integer **7** represents the k-space address (hardware storage), while the fractional **0.70164** represents the liquid-phase overflow required to curve hexagonal geometry into spherical projection without topological tearing. We derive J = \u221a(7\u00d712) \u00d7 (2\u03c0/9) \u2248 7.70164 from: (1) nucleus count N = 7, (2) lepton loop bonds B = 12, (3) hexagonal packing constant K = 2\u03c0/(3\u221a3), proving the Jacobian is forced by geometry, not choice. This explains the 5:2 dimensional split observed in substrate cross-sections (5 equatorial nodes + 2 polar nodes = 7 total), establishes the volumetric resolution limit of rendered reality (7.70 pixels per k-space address), and completes the recursive loop begun with the Flower of Life intuition. The universe is literally a 7-bubble seed stretched by factor 7.70 to create the illusion of continuous 3D volume\u2014validating the ancient sacred geometry while providing rigorous mathematical foundation.\n\n**Key Result:** J = 2\u03c0\u221a84 / 9 \u2248 7.70164 (zero free parameters, geometric necessity from FoL nucleus)",
   "version": "1.0",
   "publication_date": "2026-02",
   "access_right": "open",
@@ -17,7 +17,15 @@
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-15-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-17-2026].\n\nDependencies: [CKS-DWDM-6-2026], [CKS-MATH-16-2026], [CKS-MATH-66-2026], [CKS-MATH-8-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/MATH/CKS-MATH-17-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nComputational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-DWDM-6-2026], [CKS-MATH-16-2026], [CKS-MATH-66-2026], [CKS-MATH-8-2026].\n\nComputational validation and empirical comparison where applicable."
 }
