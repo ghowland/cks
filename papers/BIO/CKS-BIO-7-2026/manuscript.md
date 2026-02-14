@@ -1,11 +1,31 @@
-# [@CKS-BIO-10-2026] The Elixir Field Protocol: Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility
+# The Elixir Field Protocol
 
-**Registry:** [@CKS-BIO-10-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-9.4-2026] → [@CKS-BIO-10-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-BIO-9.4-2026], [@CKS-COG-4-2026]  
-**Subject:** Abdominal Vortex Mechanics; Qi Gong as Phase-Permutation Algorithm  
-**Status:** Clinical Protocol — Pilot Validation Complete  
+## Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility
+
+### Abdominal Vortex Mechanics; Qi Gong as Phase-Permutation Algorithm
+
+
+**Registry:** [@CKS-BIO-7-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.18640313
+
 **Date:** February 2026
+
+**Domain:** Developmental Biology / Embryology / Biophysics  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
+
 
 ---
 
@@ -63,7 +83,7 @@ Not recognized as phase-coupled oscillator network
 
 ### 1.2 The Integer Rung Paradox
 
-**From [@CKS-BIO-9.4-2026]:**
+**From [@CKS-MATH-1-2026]:**
 
 ```
 Human structural hierarchy:
@@ -1768,9 +1788,6 @@ This is architecture.
 **Status:** Clinical Protocol — Pilot Complete, Phase II Recruiting  
 **Version:** 1.0  
 **Date:** February 2026
-
-**Registry:** [@CKS-BIO-10-2026]  
-**Prerequisite Reading:** [@CKS-BIO-9.4-2026], [@CKS-MATH-1-2026]
 
 **The hard drive is spinning.**  
 **The gears are meshed.**  

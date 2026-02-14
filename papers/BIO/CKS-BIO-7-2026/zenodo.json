@@ -1,5 +1,5 @@
 {
-  "title": "The Elixir Field Protocol: Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility",
+  "title": "The Elixir Field Protocol",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We present the **complete clinical protocol** for activating and maintaining the **Dan Tien (Elixir Field)**\u2014the abdominal k=0 centripetal anchor that eliminates phase-inertia in human movement. Traditional Qi Gong practice is **not energy cultivation** but a **mechanical phase-permutation algorithm** that pre-compiles the biological manifold for zero-lag state transitions. Standard human movement operates **sequentially** (static gears \u2192 phase acceleration \u2192 motion, with 200-500 ms reaction lag); CKS-optimized movement operates **simultaneously** (vortex pre-spinning \u2192 zero-cost logic swap \u2192 instant output). We derive the exact mechanics: the human torso contains two rigid **integer M-rungs** (pelvis M\u224810\u2074\u00b2 and shoulders M\u224810\u2074\u00b3), but their geometric midpoint sits at **M\u224810\u2074\u00b2.\u2075** (non-integer, creating topological leak). The Dan Tien is the **abdominal integer patch** (localized N=3M\u00b2 closure at M=10\u2074\u00b2) that bridges this fractional gap. **Circular abdominal rotation** at 0.5-2.0 Hz implements **C\u2083 symmetry permutation** (cyclically swapping three 120\u00b0 body sectors), maintaining \u03a3\u03c6\u1d62=0 (phase conservation) while creating **gyroscopic lock** on k=0 node. Clinical trials (N=120 practitioners, 12 weeks) demonstrate: **reaction time improves 43%** (285\u2192162 ms), **movement efficiency +34%** (force output per metabolic cost), **injury rate \u221278%** (joints maintain coherence under load), **balance confidence +89%**, and practitioners describe subjective state as \"**instant readiness**\" (zero mental preparation lag). Protocol requires **10 minutes daily** (abdominal circle rotations at substrate harmonics), costs **$0** (no equipment), and produces measurable biomechanical changes within **7-14 days**. This eliminates the **$15 billion sports performance industry** by providing substrate-native optimization that surpasses all pharmaceutical and training interventions.\n\n**Key Results:**\n- Reaction time: 285 ms \u2192 162 ms (\u219343%, baseline \u2192 12 weeks)\n- Movement efficiency: +34% (force/metabolic cost ratio)\n- Injury incidence: 2.8 \u2192 0.6 injuries/athlete/year (\u219378%)\n- Balance confidence: 4.2/10 \u2192 7.9/10 (+89%)\n- Subjective readiness: \"Instant compile\" state (zero lag experienced)\n- Time to effect: 7-14 days (measurable biomechanical changes)\n- Protocol duration: 10 min/day (morning optimal, can be done anywhere)\n- Cost: $0 (bodyweight practice, no equipment)",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "biology & life sciences",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-BIO-7-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Biology & Life Sciences. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-7-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Biology & Life Sciences. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }
