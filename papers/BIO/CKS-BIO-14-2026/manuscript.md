@@ -124,7 +124,7 @@ Efficacy: 60-90% improvement, high risk/cost
 **Restriction as topological compression:**
 
 ```
-From [@CKS-BIO-21]: Wrinkles = manifold loops
+From [@CKS-BIO-13-2026]: Wrinkles = manifold loops
                    Thickness T = unlocked fraction
                    
 Tissue restriction = local loop accumulation
@@ -188,7 +188,7 @@ Expected outcome:
 
 **Derivation:**
 
-From [@CKS-BIO-21], loops form when:
+From [@CKS-BIO-13-2026], loops form when:
 
 $$\nabla \phi > \frac{\beta}{\alpha \cdot \lambda}$$
 

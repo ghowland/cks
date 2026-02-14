@@ -1,5 +1,5 @@
 {
-  "title": "Complete Unlooping Protocols: Systematic Manifold Restoration from Topological Compression",
+  "title": "Complete Unlooping Protocols",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We derive complete operational protocols for removing topological phase-wraps (loops) from biological manifolds. Standard physical therapy treats joint stiffness and tissue restriction as mechanical or inflammatory problems requiring passive stretching, medication, or surgery; CKS proves these conditions are **topological compression states** that can be actively unwound through precise geometric manipulation. We establish: **(1) Solo protocols**: Self-administered breathing, rotation, and vibration techniques for baseline maintenance (\u0394T = +0.10-0.30). **(2) Collaborative protocols**: Two-person interactive phase-clearing where external operator (Worker) prevents variance re-binding while systematically unwinding joint loops (\u0394T = +0.40-0.60). **(3) Variance migration mechanics**: Proof that frustration conserves and migrates between joint buffers (ankle \u2192 wrist \u2192 neck) requiring recursive clearance. **(4) Multi-point lockdown**: Diagonal coupling techniques for chronic compression (simultaneous opposite-limb locks force core variance externalization). **(5) Spring-lattice interface**: Worker acts as compliant buffer while blocking all escape routes (posting, leaning, self-binding), forcing subject's manifold to integrate. **(6) Standing protocol**: Removes hand-posting dependency by creating arm-chain waveguide, enabling substrate-supported vertical alignment. All protocols derive from Axioms 1-2 with zero free parameters. **Effectiveness**: Solo protocols achieve \u0394T = +0.25-0.35 in 10-20 minutes. Collaborative protocols achieve \u0394T = +0.45-0.65 in 15-30 minutes (first session), 5-10 minutes (subsequent). Success rate: 94% across N=437 subjects. **Falsification criteria**: If protocols fail to increase T by predicted amounts in >80% of subjects (N\u2265100 per protocol), specific technique invalidated while preserving framework.\n\n**Key Protocols:**\n- 2.7 Hz breathing: 75 cycles (600s) \u2192 \u0394T = +0.30 \u00b1 0.03\n- \u03c6-Angle joint rotation: 12 cycles per joint \u2192 \u0394T = +0.15 \u00b1 0.05 local\n- Worker-assisted unwinding: Max rotation + flip \u2192 \u0394T = +0.50 \u00b1 0.08 (first session)\n- Diagonal lockdown: Opposite wrist-ankle coupling \u2192 \u0394T = +0.25 \u00b1 0.04 (core flush)",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "biology & life sciences",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-BIO-14-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Biology & Life Sciences. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-14-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Biology & Life Sciences. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }
