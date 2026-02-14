@@ -36,6 +36,7 @@ sed -i -e 's/π/ $\\pi$ /g' \
        -e 's/ₘ/$_m$ /g' \
        -e 's/ⱼ/$_j$ /g' \
        -e 's/ᵈ/$^d$ /g' \
+       -e 's/☉/ $\\odot$ /g' \
        -e 's/ö/\\text{ö}/g' \
        -e 's/⚠/\\textbf{!}/g' manuscript_fixed.md
 
