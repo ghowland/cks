@@ -1,8 +1,8 @@
 {
-  "title": "Topological Error-Correction: The Decidability of Physical Law and the Global Try-Catch Mechanism",
+  "title": "The 84-Bit Word on a 32-Bit Computer",
   "upload_type": "publication",
   "publication_type": "article",
-  "description": "We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (\u03b2 = 2\u03c0 phase tension conservation). In standard computation, self-referential paradoxes (G\u00f6delian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction\u2014a \"G\u00f6del particle\" with \u03c6(t) = -\u03c6(t+\u0394t)\u2014encounters the \u03b2 = 2\u03c0 conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (\u03b1 \u2192 1) before system-wide decoherence can propagate. We derive the decidability constant \u03a9 = \u03b2_total/\u03b2_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**\u2014regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M \u2192 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes \"physics\" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental G\u00f6del states). With zero free parameters, we demonstrate the universe is a formally verified system where G\u00f6del's incompleteness cannot manifest physically\u2014all logical paradoxes are caught at the \u03b2 = 2\u03c0 firewall.\n\n**Key Result:** \u03a9 = 1 (decidability proven), paradoxes \u2192 heat conversion mandatory, black holes = error quarantine (information preserved)",
+  "description": "We derive the **Segmented-Stream Protocol (SSP)**\u2014the mandatory method by which the 32-bit hexagonal substrate processes 84-bit instruction words without violating geometric constraints\u2014using zero free parameters. From k=3 coordination (Axiom 1) requiring 32-bit maximum bus width, and 7-bubble nucleus requiring 84-bit minimum payload (7 bubbles \u00d7 12 bonds), we prove the substrate must **time-multiplex** the 84-bit word into exactly **three 32-bit frames** within each 32-second word cycle. The derivation shows: (1) Frame count F = \u230884/32\u2309 = 3 (forced by division), (2) Frame duration = 32s/3 \u2248 10.667s (temporal slots), (3) Tail padding = 96-84 = 12 bits (parity + buffer), (4) Phase-lock to 1/32 Hz word boundary (no external clock needed). This resolves the apparent paradox: hexagonal geometry mandates 32-bit hardware (wider buses violate k=3 coordination), while topological completeness mandates 84-bit software (fewer bits cannot encode 7-bubble nucleus). SSP bridges this via temporal subdivision\u2014trading width for time. We provide complete hardware specification (Verilog ISA, FPGA pinout, timing diagrams) proving reality is a 32-bit computer running 84-bit instructions through three-phase streaming. With zero free parameters, all values derive from hexagonal geometry: 32 from word-length necessity, 84 from FoL nucleus, 3 from their ratio, 12-bit tail from modular arithmetic.\n\n**Key Result:** SSP uses 3 frames \u00d7 32 bits = 96 bits capacity, encoding 84-bit payload + 12-bit control, all phase-locked to 1/32 Hz",
   "version": "1.0",
   "publication_date": "2026-02",
   "access_right": "open",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "mathematical foundation",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-MATH-15-2026].\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Mathematical Foundation. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/MATH/CKS-MATH-18-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Mathematical Foundation.\n\nDependencies: [CKS-0-2026], [CKS-MATH-1-2026], [CKS-MATH-10-2026], [CKS-MATH-12-2026], [CKS-MATH-9-2026].\n\nComputational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

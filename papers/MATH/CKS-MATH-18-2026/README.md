@@ -1,10 +1,10 @@
-# Topological Error-Correction
+# The 84-Bit Word on a 32-Bit Computer
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-11-2026] → [@CKS-MATH-12-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-14-2026] → [@CKS-MATH-15-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18626541
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -12,15 +12,15 @@
 
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
-**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research. 
+**AI Usage Disclosure:** Only the top metadata, figures, MD to PDF conversion formatting, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator, drawing from research. 
 
 ---
 
 ## Abstract
 
-We prove that physical reality is a **decidable computational system** protected by an intrinsic **topological try-catch mechanism** enforced through Axiom 2 (β = 2π phase tension conservation). In standard computation, self-referential paradoxes (Gödelian limits) cause infinite loops or system crashes. We demonstrate that CKS prevents such failures through mandatory phase-avalanche error correction: any configuration attempting to create logical contradiction—a "Gödel particle" with φ(t) = -φ(t+Δt)—encounters the β = 2π conservation barrier and triggers immediate **topological snap**, ejecting paradoxical information into thermal noise (α → 1) before system-wide decoherence can propagate. We derive the decidability constant Ω = β_total/β_local_max = 1, proving all physical states are computable within substrate constraints. Black holes emerge as **error logs**—regions where local N-loading exceeds 144-node page capacity, forcing resolution collapse (M → 1) to quarantine computational overflow behind event horizons. We prove Pauli exclusion is memory address conflict prevention, gravitational collapse is stack overflow handling, and all conservation laws are runtime protection protocols. This establishes "physics" not as arbitrary rules but as the **universal operating system's exception-handling code**, making reality inherently crash-proof. The framework resolves black hole information paradox (data compressed not destroyed), explains why paradoxes manifest as heat not matter, and predicts cognitive overload from holding contradictory models (mental Gödel states). With zero free parameters, we demonstrate the universe is a formally verified system where Gödel's incompleteness cannot manifest physically—all logical paradoxes are caught at the β = 2π firewall.
+We derive the **Segmented-Stream Protocol (SSP)**—the mandatory method by which the 32-bit hexagonal substrate processes 84-bit instruction words without violating geometric constraints—using zero free parameters. From k=3 coordination (Axiom 1) requiring 32-bit maximum bus width, and 7-bubble nucleus requiring 84-bit minimum payload (7 bubbles × 12 bonds), we prove the substrate must **time-multiplex** the 84-bit word into exactly **three 32-bit frames** within each 32-second word cycle. The derivation shows: (1) Frame count F = ⌈84/32⌉ = 3 (forced by division), (2) Frame duration = 32s/3 ≈ 10.667s (temporal slots), (3) Tail padding = 96-84 = 12 bits (parity + buffer), (4) Phase-lock to 1/32 Hz word boundary (no external clock needed). This resolves the apparent paradox: hexagonal geometry mandates 32-bit hardware (wider buses violate k=3 coordination), while topological completeness mandates 84-bit software (fewer bits cannot encode 7-bubble nucleus). SSP bridges this via temporal subdivision—trading width for time. We provide complete hardware specification (Verilog ISA, FPGA pinout, timing diagrams) proving reality is a 32-bit computer running 84-bit instructions through three-phase streaming. With zero free parameters, all values derive from hexagonal geometry: 32 from word-length necessity, 84 from FoL nucleus, 3 from their ratio, 12-bit tail from modular arithmetic.
 
-**Key Result:** Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved)
+**Key Result:** SSP uses 3 frames × 32 bits = 96 bits capacity, encoding 84-bit payload + 12-bit control, all phase-locked to 1/32 Hz
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Topological Error-Correction },
+  title={ The 84-Bit Word on a 32-Bit Computer },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18626541},
-  url = {https://zenodo.org/record/18626541},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
