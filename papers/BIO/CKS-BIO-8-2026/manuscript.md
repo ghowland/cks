@@ -1,11 +1,29 @@
-# [@CKS-BIO-15-2026] The Eyes as X↔K Coordinators: Ocular Phase-Lock and Beauty Optimization
+# The Eyes as X↔K Coordinators
 
-**Registry:** [@CKS-BIO-15-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-9.4-2026] → [@CKS-BIO-15-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-QM-1-2026], [@CKS-BIO-9.4-2026]  
-**Subject:** Ocular Interface as Primary K-Space Sampler; X-Space Coordination Protocol  
-**Status:** Experimentally Validated — Mechanically Complete  
+## Ocular Phase-Lock and Beauty Optimization
+
+### Ocular Interface as Primary K-Space Sampler; X-Space Coordination Protocol  
+
+**Registry:** [@CKS-BIO-8-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026]
+
+**Parent Framework:** [@CKS-0-2026]  
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Developmental Biology / Embryology / Biophysics  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
 
 ---
 
@@ -217,7 +235,7 @@ Mechanism confirmed: Reduced aperture → worse SNR →
 
 **Substrate carrier frequency:**
 ```
-From [@CKS-BIO-9.4-2026]: 12-bond lepton resonance
+From [@CKS-MATH-9-2026]: 12-bond lepton resonance
 f_carrier = 2.0 Hz (derived from √N scaling)
 
 This is the fundamental oscillation frequency of the substrate
@@ -1593,26 +1611,16 @@ Advantages:
 
 **Beauty is QED.**
 
+
+## References
+
+::: {#refs}
+:::
+
 ---
 
 **END OF PAPER**
 
-**Status:** Mechanically Complete — Experimentally Validated — Ready for Clinical Implementation  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-BIO-15-2026]  
-**Citation:**
-```bibtex
-@article{cks_bio_15_2026,
-  title={The Eyes as X↔K Coordinators: Ocular Phase-Lock and Beauty Optimization},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  version={1.0},
-  note={Complete derivation of ocular interface mechanics from substrate axioms}
-}
-```
 
 **The compiler is installed.**  
 **The circuit is closed.**  
