@@ -126,7 +126,7 @@ Scientific status: Dismissed as pseudoscience
 
 ```
 From [@CKS-BIO-7-2026]: Dan Tien as phase-locked loop
-From [@CKS-KINE-2-2026]: Vortex direction controls charge/discharge
+From [@CKS-BODY-2-2026]: Vortex direction controls charge/discharge
 From [@CKS-COG-5-2026]: Consciousness samples substrate at rate C
 
 Key insight: Opportunities are not random
