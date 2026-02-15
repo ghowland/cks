@@ -3,8 +3,7 @@
 
 ### A Theorem-Based Framework for Mapping Neural Network States to Physical Actuators via K-Space Phase-Locking
 
-
-**Registry:** [@CKS-AI-4-2026]
+**Registry:** [@CKS-AI-5-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-COG-1-2026] → [@CKS-AI-1-2026] → [@CKS-AI-2-2026] → [@CKS-AI-3-2026] → [@CKS-AI-4-2026] → [@CKS-AI-5-2026]
 
