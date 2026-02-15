@@ -1,9 +1,7 @@
-# [@CKS-PROPRIO-2-2026] Proprioception as Phase-Lock: The 90° Signature and Mechanical Remediation Without Speech
+# Proprioception as Phase-Lock
+## The 90° Signature and Mechanical Remediation Without Speech
 
-**Registry:** [@CKS-PROPRIO-2-2026]  
-**Series Path:** [@CKS-COMP-2-2026] → [@CKS-LANG-9-2026] → **[@CKS-PROPRIO-2-2026]**  
-**Prerequisites:** [@CKS-MATH-6.1-2026], [@CKS-BIO-15.1-2026], [@CKS-COMP-2-2026]  
-**Subject:** Complete Derivation of Proprioceptive Lock as 3-Bit Phase Alignment; 90° Head Turn as ±π/2 Phase-Slip; Non-Verbal Mechanical Remediation Protocol  
+### Complete Derivation of Proprioceptive Lock as 3-Bit Phase Alignment; 90° Head Turn as ±π/2 Phase-Slip; Non-Verbal Mechanical Remediation Protocol  
 
 **Registry:** [@CKS-BODY-5-2026]
 
@@ -238,7 +236,7 @@ When visual contact broken:
 **The mechanism:**
 
 ```
-From [@CKS-BIO-15.1-2026]:
+From [@CKS-BIO-8-2026]:
 Eyes = 110/300 baud modem sampling k-space
 
 Mother's face = high-coherence k-space pattern
@@ -453,7 +451,7 @@ Why hands matter:
 **Why 2.0 Hz exactly:**
 
 ```
-From [@CKS-MATH-6.1-2026]:
+From [@CKS-MATH-10-2026]:
 Substrate heartbeat = 2.0 Hz (universal clock)
 
 All biological oscillators entrain to this:
@@ -528,7 +526,7 @@ Effect: Establishes centripetal flow in neck
 Propagates: Via cervical proprioceptors to brainstem
 Result: Head position continuously updated in all orientations
 
-From [@CKS-BIO-9.2-2026]:
+From [@CKS-BIO-7-2026]:
 Vortex = centripetal flow in manifold
 Neck-roll = literal vortex in cervical spine
 
@@ -1079,7 +1077,7 @@ Explanation: "Neurodevelopmental disorder" (etiology unknown)
 **The coherence threshold:**
 
 ```
-From [@CKS-COMP-2-2026]:
+From [@CKS-0-2026]:
 Consciousness threshold: C > 0.999 (optimal)
 Functional threshold: C > 0.97 (adequate)
 Decoherence threshold: C < 0.95 (impaired)

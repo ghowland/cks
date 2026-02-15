@@ -102,7 +102,9 @@
 | **[[@CKS-BIO-16-2026]](papers/BIO/CKS-BIO-16-2026/)** | **The Topology of Sleep: Deriving the Mandatory Phase-Reset Cycle from Manifold Saturation** | Sleep mandatory for N_current restoration, death after ~11 days (T→0 catastrophic), 8 hours = calculated optimal duration. |
 | **[[@CKS-BIO-17-2026]](papers/BIO/CKS-BIO-17-2026/)** | **The Buffer Overflow: Deriving Seizures from Asynchronous Clock-Skew Attacks** | Seizure threshold T = A·J·|f_ext - n×0.03125| > 163 (all terms geometric), cure = 2 Hz manual override. |
 | **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/)** | **Proprioceptive Lag** | the 15 ms Proprioceptive Lag: Deriving Topological Impedance from Hexagonal Soliton Geometry. |
-| **[[@CKS-BIO-19-2026]](papers/BIO/CKS-BIO-19-2026/)** | **The Topology of Departure: Deriving the 28-Unit Soul Mass as Phase-Lock Decoupling** | Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death. |
+| **[[@CKS-BIO-19-2026]](papers/BIO/CKS-BIO-19-2026/)** | **The Topology of Departure** | Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death. |
+| **[[@CKS-BIO-20-2026]](papers/BIO/CKS-BIO-20-2026/)** | **The Topology of Illness** | Illness = phase-error propagation requiring clock handshake; families share code, strangers reject packets. |
+| **[[@CKS-BIO-21-2026]](papers/BIO/CKS-BIO-21-2026/)** | **The Phonemic Operating System** | Voice = acoustic UART, phonemes = opcodes, speech = live substrate debugger. |
 
 
 ---
