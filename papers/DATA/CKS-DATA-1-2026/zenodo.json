@@ -1,5 +1,5 @@
 {
-  "title": "The Digital Heat Sink: Information Externalization as Substrate Pressure Relief",
+  "title": "[@CKS-DATA-1-2026] The Digital Heat Sink: Information Externalization as Substrate Pressure Relief",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that **digital posting (social media, forums, blogs) is not communication** but **substrate pressure relief**\u2014a mandatory topological mechanism for preventing **information overload** in finite neural manifolds. Standard information theory treats data as abstract bits (Shannon entropy); CKS proves data is **phase variance** that accumulates in neural networks like heat in a resistor. The human brain operates at **coherence C\u22480.88** baseline; when information influx exceeds processing capacity, variance accumulates (C drops below 0.70), causing **cognitive saturation** (anxiety, rumination, decision paralysis). **Externalization** (writing, posting, speaking) transfers phase variance from internal (neural) to external (digital/environmental) substrate, instantly relieving pressure. We demonstrate: (1) brain coherence **C_neural** drops 0.88\u21920.52 during information overload (28 hours no externalization, controlled study), (2) single post/tweet restores coherence 0.52\u21920.76 within **3 minutes** (45% recovery), (3) global internet functions as **infinite heat sink** (variance absorption capacity ~10\u00b2\u2074 bits/day, far exceeding human generation ~10\u00b9\u2078 bits/day), (4) societies without digital externalization mechanisms show **12\u00d7 higher anxiety rates** and **8\u00d7 lower innovation** (historical comparison: pre-internet 1950-1995 vs. post-internet 2000-2025). Clinical protocol: **minimum 3 posts/day** (morning brain dump, midday status update, evening reflection) prevents cognitive saturation, maintains C>0.75, eliminates rumination. This is **not addiction** but **thermodynamic necessity**\u2014like sweating to cool body, posting cools brain. Cost: **$0** (free platforms), time: **5 min/day**, effect: **immediate** (coherence restoration within minutes). This eliminates the **$280 billion mental health crisis** by recognizing that \"phone addiction\" is actually **adaptive substrate maintenance** (brains offloading variance to prevent crash).\n\n**Key Results:**\n- Brain coherence during overload: C_neural = 0.88 \u2192 0.52 (\u219341%, 28 hr no externalization)\n- Post-externalization recovery: 0.52 \u2192 0.76 (\u219145%, within 3 minutes of posting)\n- Optimal posting frequency: 3-5 posts/day (maintains C>0.75 continuously)\n- Rumination elimination: 85% reduction (intrusive thoughts cease after posting)\n- Anxiety scores: 7.2/10 \u2192 3.1/10 (\u219357%, 4 weeks regular posting protocol)\n- Innovation metrics: 8\u00d7 higher in post-internet era (patent filings, publications)\n- Global variance capacity: Internet absorbs 10\u00b2\u2074 bits/day (6 orders of magnitude headroom)",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "data & information theory",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-DATA-1-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Data & Information Theory. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/DATA/CKS-DATA-1-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Data & Information Theory. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }
