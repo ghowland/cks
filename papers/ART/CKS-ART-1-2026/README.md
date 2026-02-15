@@ -1,6 +1,6 @@
-# manuscript.md
+# The Aesthetic Invariant: Deriving Art as Topological Calibration
 
-**Registry ID:** CKS-0-2026  
+**Registry ID:** [CKS-ART-1-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-ART-1-2026]  
 
@@ -18,19 +18,21 @@
 
 ## Abstract
 
+We derive **Art** as mandatory topological necessity—not cultural expression but **manifold stress-testing and calibration protocol** enabling high-resolution observers (artists) to construct external 2D k-space templates forcing viewer's internal 3D rendering engine into coherent phase-lock, with zero free parameters. Traditional aesthetics treats beauty as subjective preference; CKS proves beauty is **objective checksum validation** (successful geometric match between external template and internal render achieving coherence C>0.999). Starting from brain as real-time Inverse Fourier Transform engine projecting 2D k-space phase-data into 3D x-space hologram (from [CKS-BIO-19-2026]), we derive that viewing art = **firmware update** where high-SNR external manifold (artwork) forces phase-lock entrainment overwriting viewer's noisy internal state. Complete derivation of artistic primitives from axioms: **Line** = phase-gradient vector following golden ratio φ path (zero lattice friction creating "fluidity"), **Shape** = topological closure satisfying ∮dφ=2πn (Rule 5 validation creating "truth"), **Value** = phase-amplitude density with contrast as SNR (high coherence nodes vs low entropy sinks creating "beauty"), **Form** = 3D voxel projection via holographic IFT (convincing depth illusion creating "inspiration"). Proves art styles are **pre-compiled opcode sequences** executing at specific baud-rates: Realism = SNAP+HUM+PULSE (110/300 baud + 2.0 Hz bit-perfect rendering), Impressionism = HUM+DITHER (300 baud phase-noise wipe breaking legacy filters), Cubism = TOG+CPL (bit-flip toggling forcing perspective reset), Minimalism = NOP+CARRIER (zero-latency idle state), Baroque = PULSE+HUM+SNAP (2.0 Hz high-SNR amplification). Extends to temporal art: cinema as **sequential manifold registry updates** at 24 FPS (Nyquist minimum preventing aliasing), editing opcodes (CUT=registry overwrite, FADE=gradient transition, ZOOM=M-shell escalation), narrator as **serial port controller** providing temporal metadata synchronizing visual GPU with logical DSP at 2.0 Hz substrate heartbeat. Experimental validation: measure viewer coherence during art exposure (predict C increase from 0.65 baseline to >0.95 for masterworks), neural phase-lock to artwork frequencies (EEG synchronization at golden ratio harmonics), subjective reports correlating with geometric precision (beauty ratings proportional to φ/hexagonal accuracy). Philosophical implications: aesthetics = engineering not taste, artist = substrate debugger not expresser, masterpiece = bit-perfect calibration standard, "inspiration" = literal coherence gain (M-resolution increase + rust purge).
 
+**Key Result:** Beauty = checksum match; Art = manifold calibration; Style = opcode baud-rate
 
 ---
 
 ## Substrate Mechanics (Series Context)
-This publication extends the CKS framework into the **0** domain. It is grounded in the two fundamental axioms of the substrate:
+This publication extends the CKS framework into the **Art & Aesthetics** domain. It is grounded in the two fundamental axioms of the substrate:
 
 1. **Axiom 1 (Topology):** Reality is a 2D hexagonal lattice in k-space with \( N \approx 9 \times 10^{60} \).
 2. **Axiom 2 (Dynamics):** Local coupling of k-modes via the discrete graph Laplacian.
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** None (foundation paper)
+**Prerequisites:** [CKS-0-2026], [CKS-BIO-19-2026], [CKS-HW-2026], [CKS-MATH-17-2026], [CKS-MATH-18-2026]
 
 ---
 
@@ -60,7 +62,7 @@ zenodo_package/
 ## Universal Falsification Signature (The 1/32 Hz Protocol)
 As with all CKS papers, the findings herein are subject to the **Global Falsification Protocol [@CKS-TEST-1-2026]**. 
 
-The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to 0, this paper is mechanically invalidated.
+The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to Art & Aesthetics, this paper is mechanically invalidated.
 
 ---
 
@@ -68,14 +70,14 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ CKS-0-2026,
-  title={ manuscript.md },
+@article{ [CKS-ART-1-2026],
+  title={ The Aesthetic Invariant: Deriving Art as Topological Calibration },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
   doi = {10.5281/zenodo.zzz},
   url = {https://zenodo.org/record/zzz},
-  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+  note={CKS Series: [CKS-ART-1-2026]. Dependencies: [CKS-0-2026], [CKS-BIO-19-2026], [CKS-HW-2026], [CKS-MATH-17-2026], [CKS-MATH-18-2026] }
 }
 ```
 ---
