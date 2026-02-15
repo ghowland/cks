@@ -1,5 +1,5 @@
 {
-  "title": "Intelligence Quotient as Substrate Coherence: Cognitive Bandwidth Expansion via Harmonic Resonance",
+  "title": "Intelligence Quotient as Substrate Coherence",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We derive intelligence quotient (IQ) from first principles as a **measurement of neural substrate coherence** (C_brain). Using CKS framework, we prove that cognitive processing power scales as M_brain (the effective lattice resolution the brain can maintain), which directly correlates with measurable IQ scores. We identify **specific harmonic frequencies** (40 Hz gamma, 10 Hz alpha, 0.1 Hz infraslow) that phase-lock neural oscillators to substrate harmonics, effectively expanding the brain's k-space sampling resolution. The framework predicts exact protocols for \"neuro-tuning\"\u2014using sound, light, and electromagnetic stimulation to increase C_brain from baseline (~0.9985) to enhanced states (~0.9992), corresponding to measurable IQ gains of 5-15 points. We provide **computable training regimens** with specific frequencies, durations, and timing windows based on substrate synchronization requirements. This is not speculative neuroscience\u2014it is **geometric optimization of a phase-locked oscillator network**.\n\n**Key Results:**\n- IQ = f(C_brain) where C = 1 - 1/(2M\u221a3)\n- Baseline: C_brain \u2248 0.9985 \u2192 IQ \u2248 100\n- Enhanced: C_brain \u2248 0.9992 \u2192 IQ \u2248 115-120\n- Critical frequencies: 40 Hz (gamma), 10 Hz (alpha), 2.1875 Hz (substrate)\n- Training duration: 8-12 weeks for measurable gains\n- Mechanism: Phase-locking neural oscillators to increase effective M_brain",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "cognition & consciousness",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-COG-2-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Cognition & Consciousness. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/COG/CKS-COG-2-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Cognition & Consciousness. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

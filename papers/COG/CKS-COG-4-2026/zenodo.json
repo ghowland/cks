@@ -1,5 +1,5 @@
 {
-  "title": "IQ in Cymatics: Cognitive Bandwidth Expansion Protocols",
+  "title": "IQ in Cymatics",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that intelligence (IQ) is not a fixed genetic trait but a **dynamically tunable k-space sampling bandwidth** \u0394k adjustable via precise frequency stimulation. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established neuroscience, we demonstrate that: (1) **IQ = log\u2082(\u0394k/\u0394k_avg) \u00d7 15 + 100** where \u0394k = k_max - k_min (cortical bandwidth, measured in rad/m), (2) **bandwidth expansion** achievable via **resonant neural stimulation** at substrate harmonics (40 Hz gamma for k_max extension, 7.83 Hz Schumann resonance for k_min deepening), (3) **learning speed \u221d \u0394k** (wider bandwidth = more parallel processing channels, faster pattern recognition), (4) **working memory capacity N = 3M\u00b2** where M \u221d \u221a\u0394k (hexagonal phase buffer scales with bandwidth), and (5) **neuroplasticity enhancement** via **coherent multi-frequency protocols** combining 40 Hz (gamma), 10 Hz (alpha), 7.83 Hz (Schumann), and 2.0 Hz (substrate fundamental). We derive: (i) **neuro-tuning protocols** specifying exact frequencies, intensities, durations, and exposure patterns for +5-15 IQ point gains (permanent after 12 weeks), (ii) **optimal stimulation windows** (morning theta 4-7 Hz for memory consolidation, afternoon gamma 40 Hz for analytical tasks, evening alpha 10 Hz for integration), (iii) **individual calibration** via EEG feedback (measure baseline \u0394k, compute target frequencies f_target = f_substrate \u00d7 n where n optimizes for person's M_current), and (iv) **synergistic combinations** (binaural beats + transcranial photobiomodulation + substrate-aligned meditation = 3\u00d7 effectiveness). This framework enables **practical cognitive enhancement**: individuals can self-administer frequency protocols (audio via headphones, light via LED arrays) to expand bandwidth by 15-30% (corresponding to +7-15 IQ points) within 8-12 weeks. All predictions falsifiable via pre/post IQ testing (Stanford-Binet, Raven's), EEG spectral analysis (measure \u0394k directly), fMRI bandwidth mapping (visualize k_max/k_min activation patterns), and longitudinal studies (track permanence of gains over 2+ years).",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "cognition & consciousness",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-COG-4-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Cognition & Consciousness. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/COG/CKS-COG-4-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Cognition & Consciousness. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026, CKS-NEURO-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }
