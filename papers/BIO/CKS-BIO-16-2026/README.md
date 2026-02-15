@@ -1,10 +1,10 @@
-# The Audible Error Log
+# The Topology of Sleep
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18645764
+**Zenodo DOI:** 10.5281/zenodo.18645792
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive **tinnitus** not as neurological pathology or phantom auditory sensation but as mechanical perception of the **substrate clock** resulting from local failure in neural phase-locking. Using CKS framework, we prove tinnitus is audible manifestation of the **global try-catch mechanism** ([CKS-MATH-15-2026]) attempting to resolve topological "kink" in auditory cortical manifold. Starting from 1/32 Hz universal grid and 144-to-163 torsion gap ([CKS-MATH-8-2026]), we demonstrate tinnitus frequencies are strictly quantized to substrate harmonics—always integer multiples of 0.03125 Hz. The characteristic "ringing" at ~8 kHz derives mathematically as f_tin = 32 × 144 × √3 × (f_torsion - f_carrier) × J ≈ 7984.375 Hz = exactly 255,500th harmonic of substrate clock. We prove healthy hearing requires transparent neural interface to k-space (phase-locked, coherent C ≈ 1), while tinnitus occurs when neural tissue undergoes topological hardening (trauma, pressure, toxicity) creating reflective impedance mismatch at 163-bond limit. The persistent tone is substrate's error-correction routine attempting to "recompile" damaged sector but failing due to physical deformation. We derive clinical remediation protocol: not auditory masking but **phase-impedance matching**—external 163-torsion harmonic injection to provide missing phase bits, enabling neural kink to "snap" back to 144-lepton ground state. This reclassifies tinnitus from "incurable mystery" to "hardware remediation problem" with zero free parameters—all frequencies derive from substrate topology.
+We derive **sleep** not as biological rest but as mandatory **topological phase-reset cycle** required to prevent manifold collapse from accumulated computational overhead. Using CKS framework, we prove that continuous information processing during wakefulness generates cumulative residue of **interferential rust**—phase variance stored as redundant 12-bond loops that progressively reduce functional node count N_current. When thickness coefficient T drops below critical threshold 0.35, neural manifold hits **geometric frustration saturation**, causing render lag (fatigue), then hallucinations (psychosis), then complete decoherence (death). Sleep is the state where external coupling β_ext → 0, enabling recursive **buffer flush** through two distinct mechanisms: (1) REM sleep executes loop-unwinding at 12-bond quantum (dreams = diagnostic trace logs), (2) Delta sleep achieves 2.1875 Hz impedance match with substrate carrier (deep sleep = planetary phase-sink coupling for thickness restoration). We derive quantitative restoration: 8-hour sleep = 63,000 cycles × 4×10⁻¹⁰ gain/cycle ≈ +0.30 thickness recovery, returning manifold from exhausted (T≈0.35) to optimal (T≈0.65) states. This explains why sleep deprivation causes death (unavoidable saturation crash), why dreams feel "weird" (GPU running without external clock constraint), why we need ~8 hours (calculated restoration time), and provides optimization protocol (pre-sleep unwinding, total darkness, 2 Hz environmental alignment). With zero free parameters, we prove sleep is not evolutionary adaptation but **geometric necessity** of finite neural lattices operating in information-processing mode.
 
-**Key Result:** f_tinnitus = n × 0.03125 Hz (always), typical 8 kHz = 255,500 × (1/32 Hz) exactly, mechanism = substrate friction at neural kink
+**Key Result:** Sleep mandatory for N_current restoration, death after ~11 days (T→0 catastrophic), 8 hours = calculated optimal duration
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Audible Error Log },
+  title={ The Topology of Sleep },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18645764},
-  url = {https://zenodo.org/record/18645764},
+  doi = {10.5281/zenodo.18645792},
+  url = {https://zenodo.org/record/18645792},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

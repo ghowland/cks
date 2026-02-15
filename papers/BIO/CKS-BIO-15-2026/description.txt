@@ -1,5 +1,10 @@
-xxx
+The Audible Error Log
 
+Deriving Tinnitus from Substrate Phase-Impedance Mismatch
+
+Auditory Pathophysiology; Substrate Phase-Bleed; Neural Coherence Failure; Tinnitus Mechanism  
+
+We derive **tinnitus** not as neurological pathology or phantom auditory sensation but as mechanical perception of the **substrate clock** resulting from local failure in neural phase-locking.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

@@ -1,10 +1,10 @@
-# The Audible Error Log
+# The Buffer Overflow
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18645764
+**Zenodo DOI:** 10.5281/zenodo.zzzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive **tinnitus** not as neurological pathology or phantom auditory sensation but as mechanical perception of the **substrate clock** resulting from local failure in neural phase-locking. Using CKS framework, we prove tinnitus is audible manifestation of the **global try-catch mechanism** ([CKS-MATH-15-2026]) attempting to resolve topological "kink" in auditory cortical manifold. Starting from 1/32 Hz universal grid and 144-to-163 torsion gap ([CKS-MATH-8-2026]), we demonstrate tinnitus frequencies are strictly quantized to substrate harmonics—always integer multiples of 0.03125 Hz. The characteristic "ringing" at ~8 kHz derives mathematically as f_tin = 32 × 144 × √3 × (f_torsion - f_carrier) × J ≈ 7984.375 Hz = exactly 255,500th harmonic of substrate clock. We prove healthy hearing requires transparent neural interface to k-space (phase-locked, coherent C ≈ 1), while tinnitus occurs when neural tissue undergoes topological hardening (trauma, pressure, toxicity) creating reflective impedance mismatch at 163-bond limit. The persistent tone is substrate's error-correction routine attempting to "recompile" damaged sector but failing due to physical deformation. We derive clinical remediation protocol: not auditory masking but **phase-impedance matching**—external 163-torsion harmonic injection to provide missing phase bits, enabling neural kink to "snap" back to 144-lepton ground state. This reclassifies tinnitus from "incurable mystery" to "hardware remediation problem" with zero free parameters—all frequencies derive from substrate topology.
+We derive **seizures** (epileptic events, specifically photosensitive and idiopathic epilepsy) not as primary neurological pathology but as **computational buffer overflow** within the brain's real-time rendering engine. Using CKS framework, we prove seizures result from **clock-skew attacks**—high-amplitude external frequencies (flickering screens, strobe lights) violating the 1/32 Hz substrate word boundary and creating recursive aliasing errors in neural phase-locked loops. When local phase-tension from asynchronous input exceeds the 163-torsion limit (T > 163), the brain's GPU stage triggers emergency hardware reset via global try-catch mechanism ([CKS-MATH-15-2026]) to prevent permanent manifold unlooping (cell death). The tonic-clonic convulsion is substrate performing recursive diagnostic at 2.0 Hz heartbeat, re-establishing coordinate links with 144-node pages. We derive critical flicker frequencies as prime mismatches to 1/32 Hz grid (15 Hz, 24 Hz most dangerous; 60 Hz, 120 Hz safe), explain post-ictal exhaustion as topological error-correction recovery time, and provide clinical remediation protocol: not anticonvulsants (which lower DSP gain and IQ) but **direct 2.0 Hz kernel override** (Ttt-Ppp sequence at 120 BPM) providing high-amplitude grid-aligned clock signal that allows DSP to reject asynchronous packets. With zero free parameters, we prove epilepsy is not disease but **protective system reset** preventing catastrophic neural decoherence from phase-asynchrony overflow.
 
-**Key Result:** f_tinnitus = n × 0.03125 Hz (always), typical 8 kHz = 255,500 × (1/32 Hz) exactly, mechanism = substrate friction at neural kink
+**Key Result:** Seizure threshold T = A·J·|f_ext - n×0.03125| > 163 (all terms geometric), cure = 2 Hz manual override
 
 ---
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** None (foundation paper)
+**Prerequisites:** [CKS-BIO-16-2026], [CKS-MATH-13-2026], [CKS-MATH-15-2026], [CKS-MATH-8-2026]
 
 ---
 
@@ -71,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Audible Error Log },
+  title={ The Buffer Overflow },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18645764},
-  url = {https://zenodo.org/record/18645764},
-  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+  doi = {10.5281/zenodo.zzzz},
+  url = {https://zenodo.org/record/zzzz},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-16-2026], [CKS-MATH-13-2026], [CKS-MATH-15-2026], [CKS-MATH-8-2026] }
 }
 ```
 ---

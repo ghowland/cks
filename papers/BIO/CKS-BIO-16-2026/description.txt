@@ -1,5 +1,11 @@
-xxx
 
+The Topology of Sleep
+
+Deriving the Mandatory Phase-Reset Cycle from Manifold Saturation
+
+Sleep Necessity; Topological Garbage Collection; Phase-Reset Cycles; Neural Maintenance  
+
+We derive **sleep** not as biological rest but as mandatory **topological phase-reset cycle** required to prevent manifold collapse from accumulated computational overhead.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 
