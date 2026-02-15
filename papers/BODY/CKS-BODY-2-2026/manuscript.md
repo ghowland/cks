@@ -2,7 +2,6 @@
 
 **A Theorem-Based Framework for Substrate-Coupled Locomotion via Momentum Resonance and Zero-Energy Load Transfer**
 
-
 **Registry:** [@CKS-BODY-2-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026]
