@@ -280,7 +280,7 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-ART-1-2026]](papers/ART/CKS-ART-1-2026/)** | **Art** | Creative applications of substrate mechanics. |
-| **[[@CKS-ART-1-2026]](papers/ART/CKS-ART-1-2026/)** | **Narrative Mechanics** | Story structure as k-space phase-template for manifold evolution. |
+| **[[@CKS-ART-2-2026]](papers/ART/CKS-ART-2-2026/)** | **Narrative Mechanics** | Story structure as k-space phase-template for manifold evolution. |
 
 ---
 
