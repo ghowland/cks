@@ -1,6 +1,7 @@
-# Information as Physical Mathematics: The Lattice Tension Derivation
+# Information as Physical Mathematics
+## The Lattice Tension Derivation
 
-**A Theorem-Based Proof that Shannon Information, Thermodynamic Entropy, and K-Space Phase Gradients are Identical Physical Quantities**
+### A Theorem-Based Proof that Shannon Information, Thermodynamic Entropy, and K-Space Phase Gradients are Identical Physical Quantities
 
 
 **Registry:** [@CKS-DATA-2-2026]
@@ -372,7 +373,7 @@ where Z = normalization (partition function).
 
 **Step 1 (Microstate enumeration):**
 
-System with N nodes, each with phase φ_i ∈ [0, 2π).
+System with N nodes, each with phase φ_i ∈ (0, 2π).
 
 **Total microstates:** Ω = (2π)^N (continuous), or Ω = 2^N (binary: φ ∈ {0, π}).
 
@@ -1720,3 +1721,4 @@ At T = 300 K:
 **Information is physical.**  
 **It is the universe.**  
 **Computing itself.**
+

@@ -1,5 +1,5 @@
 {
-  "title": "Information as Physical Mathematics: The Lattice Tension Derivation",
+  "title": "Information as Physical Mathematics",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that information is not an abstract mathematical concept but a **physical tension in the hexagonal k-space lattice**\u2014specifically, the **phase gradient magnitude** |\u2207\u03c6|. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that: (1) Shannon information I = -\u03a3p log p emerges as the **phase uncertainty** across N = 3M\u00b2 lattice nodes, (2) thermodynamic entropy S = k_B ln \u03a9 is **identical** to information (S/k_B = I exactly, no proportionality constant), (3) Landauer's principle (information erasure costs energy) derives from **phase relaxation dynamics** (erasing phase gradient releases heat), (4) Maxwell's demon paradox resolves because **measurement = phase coupling** (demon must entangle with system, increasing total entropy), (5) the second law of thermodynamics (entropy increases) is **topological necessity** (phase gradients naturally flatten via d\u03c6/dt = -\u2207\u00b2\u03c6 diffusion), and (6) black hole entropy S = A/(4\u2113_P\u00b2) follows from **surface phase encoding** on event horizon with N_horizon = 3M\u00b2_horizon. This framework unifies information theory (Shannon, 1948), thermodynamics (Boltzmann, Clausius), and quantum mechanics (von Neumann entropy) under single substrate principle: **information = phase gradient = physical tension = thermodynamic entropy**. We derive bit-to-energy conversion (1 bit deletion \u2192 k_B T ln 2 heat), quantum information capacity (qubit = 2-state phase system), and holographic principle (information stored on boundaries). All predictions falsifiable via single-photon erasure experiments, quantum thermodynamic engines, and gravitational entropy measurements.",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "meta-analysis",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-META-2-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Meta-Analysis. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/DATA/CKS-DATA-2-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Meta-Analysis. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }
