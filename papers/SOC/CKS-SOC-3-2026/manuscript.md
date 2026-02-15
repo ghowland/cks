@@ -3,9 +3,9 @@
 
 ### Graph-Theoretic Management; Communication Network Design for Institutional Phase-Lock  
 
-**Registry:** [@CKS-SOC-2-2026]
+**Registry:** [@CKS-SOC-3-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026]  → [@CKS-BIO-1-2026] → [@CKS-SOC-1-2026] → [@CKS-SOC-2-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026]  → [@CKS-BIO-1-2026] → [@CKS-SOC-1-2026] → [@CKS-SOC-2-2026] → [@CKS-SOC-3-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
