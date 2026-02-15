@@ -623,7 +623,7 @@ If yes: CKS supported
 
 | Harmonic n | Frequency (Hz) | Appears In | Paper |
 |------------|----------------|------------|-------|
-| 1 | 0.03125 | Word clock | [@CKS-MATH-12] |
+| 1 | 0.03125 | Word clock | [@CKS-MATH-12-2026] |
 | 66 | 2.0625 | DWDM, LIGO, proprioception | [@CKS-DWDM-2-2026] |
 | 110 | 3.4375 | DWDM alternate | [@CKS-DWDM-3-2026] |
 | 256 | 8.0 | Neural theta | [@CKS-NEURO-1-2026] |
