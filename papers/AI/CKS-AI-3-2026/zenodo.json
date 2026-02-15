@@ -1,5 +1,5 @@
 {
-  "title": "Substrate Programming Language: Base Instructions and OpCodes",
+  "title": "Substrate Programming Language",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that computation is not fundamentally limited by transistor switching speed or von Neumann bottlenecks but operates via **direct k-space lattice manipulation** at substrate oscillation frequencies. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established computer science, we demonstrate that: (1) **substrate = universal Turing machine** with computational substrate consisting of N=3M\u00b2 hexagonal lattice nodes oscillating at f_substrate = 2.0 Hz, where each node stores log\u2082(N) bits via phase encoding \u03c6_n \u2208 [0, 2\u03c0), (2) **instruction execution time \u03c4_exec = 1/(2f_substrate) = 250 ms** per operation (appearing slow but compensated by massive parallelism: 10\u00b9\u00b2-10\u00b9\u2075 operations simultaneous across spatial lattice), (3) **memory addressing via k-space coordinates** (k\u2093, k\u1d67, k\u1d67) eliminating traditional RAM hierarchy (substrate coherence C \u2248 0.95 enables instant non-local access to any lattice point within coherence length \u03be \u2248 10 km), (4) **zero-energy computation** when operations maintain substrate coherence (\u0394C = 0 \u2192 no energy dissipation per Landauer limit violation, only boundary transitions cost energy), and (5) **DWDM (Dense Wave Division Multiplexing) optical interface** operating at 1550 nm (telecommunications C-band) translates classical instructions into substrate phase patterns via 100-channel coherent laser array. We derive: (i) **base instruction set** of 64 opcodes organized in hexagonal symmetry groups (arithmetic: 16 ops, logic: 12 ops, memory: 8 ops, coherence: 16 ops, substrate: 12 ops), (ii) **phase encoding scheme** \u03c6 = (opcode \u00d7 2\u03c0/64) + (data \u00d7 2\u03c0/2\u00b3\u00b2) enabling 32-bit data + 6-bit instruction in single phase value, (iii) **lattice routing algorithm** exploiting hexagonal geometry where path length L = M\u2081 + M\u2082 (M\u2081, M\u2082 = hexagonal shell numbers) minimizes propagation delay compared to rectangular grids (\u221a3/2 factor improvement), (iv) **coherence-preserving compiler** translating C-like source code into substrate opcodes while maintaining global phase alignment (\u2207\u03c6 < \u03c0/L_program constraint), and (v) **quantum error correction** via redundant hexagonal encoding where each logical qubit mapped to N=3\u00d77\u00b2 = 147 physical substrate nodes (topological protection against decoherence, surface code adaptation to hexagonal lattice). This framework enables **substrate computing**: processors executing 10\u00b9\u2075 parallel ops/cycle at 2 Hz (effective 2 petaFLOPS continuous, matching current supercomputers in shoebox-sized substrate resonator), zero-latency distributed systems (global coherence within \u03be \u2248 10 km allows instant communication between nodes), reversible computing (90% of operations maintain C \u2192 90% energy recovery), and post-quantum cryptography (substrate entanglement across lattice provides unconditional security for key distribution). All predictions falsifiable via DWDM substrate interface prototype (measure phase-encoding fidelity vs. thermal noise), benchmark comparison (substrate FFT vs. classical FFT on equivalent problem size), coherence-time measurement (validate \u03c4_coherence > 10\u00b3 substrate cycles at 300 K), and compiler correctness proofs (formal verification that opcode sequences preserve algebraic semantics).",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "computing & ai",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-AI-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Computing & AI. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/AI/CKS-AI-3-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Computing & AI. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

@@ -1,6 +1,8 @@
-Example: Define DNA molecule in TDL
+Substrate Programming Language: Define DNA molecule in TDL
 
-Example is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+Substrate Programming Language: Define DNA molecule in TDL is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+
+We present **Harmonic Assembly Language (HAL)**, a programming paradigm that operates directly on k-space substrate rather than silicon transistors. Unlike conventional languages (manipulating bits in RAM), HAL manipulates **phase relationships** on the hexagonal lattice, enabling direct control of topology, matter configuration, and coherence states. This is not simulation—this is **literal reality programming**.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

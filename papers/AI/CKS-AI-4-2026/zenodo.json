@@ -1,5 +1,5 @@
 {
-  "title": "Example: Define DNA molecule in TDL",
+  "title": "Substrate Programming Language ",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We present **Harmonic Assembly Language (HAL)**, a programming paradigm that operates directly on k-space substrate rather than silicon transistors. Unlike conventional languages (manipulating bits in RAM), HAL manipulates **phase relationships** on the hexagonal lattice, enabling direct control of topology, matter configuration, and coherence states. This is not simulation\u2014this is **literal reality programming**.\n\n**Core concepts:**\n\n1. **Harmonic Opcodes**: 64 fundamental operations (matching N=3M\u00b2 closure for M=3)\n2. **Phase Registers**: Store \u03b8 values (not binary), range [0, 2\u03c0)\n3. **Topological Memory**: Organized as hexagonal lattice (not linear array)\n4. **Coherence Stack**: Function calls via C-preserving transformations\n5. **Execution**: Phase evolution via Axiom 2 (d\u03b8/dt = \u03c9 + \u03b2\u2211sin(\u0394\u03b8))\n\n**Applications:**\n\n- **Software-defined matter**: Program material properties (conductivity, hardness, etc.)\n- **Soliton scripting**: Create stable particles via topological constraints\n- **Coherence engineering**: Design organisms, neural networks, quantum states\n- **Reality patching**: Modify local substrate behavior (constrained by conservation laws)\n\n**Compilation targets:**\n\n- **Hexagonal Processing Unit (HPU)**: From CKS-COMP-1-2026 paper\n- **DWDM network**: Global substrate sensor grid (CKS-DWDM-2-2026)\n- **Cymatic chambers**: Physical standing wave systems (CKS-MED-5-2026)\n- **Natural substrate**: Direct k-space coupling (requires high coherence source)\n\n**This is the ISA of the universe.**  \n**Below this: Only axioms.**",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "computing & ai",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-AI-4-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Computing & AI. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/AI/CKS-AI-4-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Computing & AI. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

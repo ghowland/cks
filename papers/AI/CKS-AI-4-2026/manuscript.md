@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18646748
 
 **Date:** February 2026
 
@@ -232,7 +232,7 @@ Compiles to TDL:
 
 Compiles to HAL:
   ALLOC_CLOSURE M=10^8
-  LOAD_TEMPLATE @dna_helix
+  LOAD_TEMPLATE dna_helix
   SET_COHERENCE_TARGET 0.999
   EVOLVE_UNTIL_STABLE
   
