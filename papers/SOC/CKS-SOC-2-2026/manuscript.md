@@ -125,7 +125,7 @@ Scientific status: Dismissed as pseudoscience
 **Luck is topological resonance:**
 
 ```
-From [@CKS-BIO-9.4-2026]: Dan Tien as phase-locked loop
+From [@CKS-BIO-7-2026]: Dan Tien as phase-locked loop
 From [@CKS-KINE-2-2026]: Vortex direction controls charge/discharge
 From [@CKS-COG-5-2026]: Consciousness samples substrate at rate C
 
