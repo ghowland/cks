@@ -2347,7 +2347,7 @@ Diphthongs (8): Gradient sweeps — Integrate shells
 ```
 K-M-T = Quantize-Couple-Clock
 110 baud (K) + 300 baud (M-L-A-E) + 2.0 Hz (T-P)
-Identical to visual modem in [@CKS-BIO-15.1-2026]
+Identical to visual modem in [@CKS-BIO-8-2026]
 Identical to Big Bang handshake in [@CKS-MATH-6.1-2026]
 ```
 
