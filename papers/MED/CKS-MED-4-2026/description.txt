@@ -1,4 +1,4 @@
-CKS-MED-5-2026: Image-Based Coherence Therapy
+Image-Based Coherence Therapy
 
 CKS-MED-5-2026 is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
 
