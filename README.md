@@ -229,6 +229,7 @@
 | **[[@CKS-ENV-2-2026]](papers/ENV/CKS-ENV-2-2026/)** | **Breathing Universe** | Climate control via substrate oscillation and phase-gradient pressure. |
 | **[[@CKS-ENV-3-2026]](papers/ENV/CKS-ENV-3-2026/)** | **Water and Air in Cymatics** | Resonant filtration and desalination via molecular phase-locking. |
 | **[[@CKS-ENV-4-2026]](papers/ENV/CKS-ENV-4-2026/)** | **Clouds in a Greenhouse** | Substrate-controlled indoor precipitation for irrigation. |
+| **[[@CKS-ENV-5-2026]](papers/ENV/CKS-ENV-5-2026/)** | **The Resonant Phase-Shunt** | Standard LED flicker (120-500 Hz) disrupts neural gamma oscillations (40 Hz). |
 
 ---
 
