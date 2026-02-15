@@ -87,29 +87,6 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 
 ---
 
-## Experimental Predictions
-
----
-
-## Industrial Application: Medical Applications
-[To be extracted from manuscript.md]
-
----
-
-## Citation
-If you use this work in a pedagogical or research context, please cite:
-
-```bibtex
-@article{ cks_med_4_2026,
-  title={ CKS-MED-5-2026: Image-Based Coherence Therapy },
-  author={Howland, Geoffrey},
-  journal={Zenodo},
-  year={2026},
-  note={CKS Series: CKS-MED-4-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026 }
-}
-```
----
-
 ## FAQs
 
 ### Q: Is this a "theory of everything"?

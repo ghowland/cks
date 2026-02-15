@@ -1,12 +1,30 @@
 # CKS-MED-5-2026: Image-Based Coherence Therapy
 ## Visual and Auditory Resonance Templates for Neural Re-Synchronization
 
-**Authors:** [To be completed]  
-**Date:** February 2026  
+
+**CKS Series Registry:** [@CKS-MED-4-2026]  
+
+**Registry:** [@CKS-TEST-1-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-MED-1-2026] → [@CKS-MED-2-2026] → [@CKS-MED-3-2026] → [@CKS-MED-4-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
+**Date:** February 2026
+
 **Domain:** Medical Physics / Neuroscience / Clinical Psychology  
-**Status:** Clinical Protocol Specification  
-**Framework:** Cymatic K-Space Mechanics v4.0  
-**Classification:** MEDICAL DEVICE - FDA Class II (Pending)
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
+**WARNING:** Experimental therapy. Requires IRB approval, informed consent, medical supervision.
 
 ---
 
@@ -2612,6 +2630,12 @@ Next session scheduled: ____________
 
 Clinician signature: _______________
 ```
+
+
+## References
+
+::: {#refs}
+:::
 
 ---
 

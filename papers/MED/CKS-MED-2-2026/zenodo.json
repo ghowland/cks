@@ -1,5 +1,5 @@
 {
-  "title": "Heart Disease as Holographic Coherence Failure: The Cardiac Master Oscillator Hypothesis",
+  "title": "Heart Disease as Holographic Coherence Failure",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that cardiovascular disease is fundamentally a **phase synchronization failure** between the cardiac oscillator and the arterial-vascular k-space manifold, not primarily a mechanical plumbing disorder. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms, we demonstrate that: (1) the heart functions as the **master oscillator** of the organism-wide phase lattice, broadcasting coherence at fundamental frequency f\u2080 \u2248 1.0 Hz (60 BPM resting heart rate), (2) arterial pulse waves are **phase propagation modes** on the vascular k-space network with N_vessels \u2248 3M\u00b2 closure topology, (3) atherosclerotic plaque represents **local phase decoherence** (coherence C drops below critical threshold C_crit \u2248 0.85), causing constructive interference of cholesterol-laden cells at phase minima, (4) hypertension emerges from **impedance mismatch** between cardiac phase output and arterial phase acceptance (similar to electrical transmission line reflection), and (5) arrhythmias are **phase-lock failures** (Kuramoto model breaking synchronization). We derive heart rate variability (HRV) as a measure of phase-lock robustness and prove that reduced HRV (C \u2192 1, rigid lock) predicts mortality better than traditional risk factors. Treatment paradigm shifts from \"clearing blockages\" (mechanical) to **restoring coherence** (harmonic): precise application of 1.0 Hz mechanical vibration, electromagnetic stimulation, or acoustic resonance to re-synchronize vascular phase patterns. All predictions falsifiable via phase-resolved Doppler ultrasound, arterial tonometry with spectral analysis, and HRV coherence measurements during intervention.",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "medical applications",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MED-2-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Medical Applications. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/MED/CKS-MED-2-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Medical Applications. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-BIO-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

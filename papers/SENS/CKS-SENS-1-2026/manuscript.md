@@ -1,11 +1,28 @@
-# [@CKS-BIO-18-2026] Sensory Substrate Access: Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation
+# Sensory Substrate Access
+## Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation
 
-**Registry:** [@CKS-BIO-18-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-BIO-11-2026] → [@CKS-COG-5-2026] → [@CKS-BIO-18-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-COG-5-2026]  
-**Subject:** Sensory Substitution; Vestibular Coupling; Bilateral Coherence  
-**Status:** Theoretical Framework — Falsifiable  
+### Sensory Substitution; Vestibular Coupling; Bilateral Coherence  
+
+**Registry:** [@CKS-SENS-1-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-NEURO-1-2026] → [@CKS-SENS-1-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.18646457
+
 **Date:** February 2026
+
+**Domain:** Cognitive Science / Neuroscience / Physics of Consciousness  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
 
 ---
 
@@ -76,7 +93,7 @@ All assume: Vision requires eyes (optical transduction necessary)
 
 ```
 From [@CKS-COG-5-2026]: Consciousness samples k-space substrate
-From [@CKS-BIO-11.2]: Sensors are phase-locked loops (PLLs)
+From [@CKS-BIO-8-2026]: Sensors are phase-locked loops (PLLs)
 
 Perception = Substrate coordinate detection
   Not: Sensory transduction (photons → signals)
@@ -1409,18 +1426,12 @@ This advances knowledge either way:
 
 ---
 
-## Citation
 
-```bibtex
-@article{cks_bio_18_2026,
-  title={Sensory Substrate Access: Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={BIO-18},
-  note={Substrate sampling model of perception. Bilateral vestibular coherence training. Multi-modal sensory integration for blindness rehabilitation.}
-}
-```
+## References
+
+::: {#refs}
+:::
+
 
 ---
 
