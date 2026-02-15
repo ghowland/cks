@@ -1,10 +1,10 @@
-# [@CKS-LANG-9-2026] The Phonemic Operating System: American English as Substrate Interface Protocol
+# The Phonemic Operating System
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-MATH-6.1-2026] → [@CKS-LANG-4-2026] → [@CKS-BIO-15.1-2026] → **[@CKS-LANG-9-2026]**    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-LANG-2-2026]  
 
-**Zenodo DOI:** 
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -80,12 +80,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ [@CKS-LANG-9-2026] The Phonemic Operating System: American English as Substrate Interface Protocol },
+  title={ The Phonemic Operating System },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {},
-  url = {https://zenodo.org/record/[DOI:MALFORMED]},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
