@@ -52,7 +52,7 @@ Physical reality ≡ 2D hexagonal lattice in k-space with N = 3M² bubbles, z = 
 **Axiom 2 (Coupling):**  
 Each k-mode φₖ evolves via: dφₖ/dt = Σⱼ∈neighbors β·sin(φⱼ - φₖ), with conserved β = 2π.
 
-**Constraint from [@CKS-COMP-2-2026]:**  
+**Constraint from [@CKS-BIO-18-2026]:**  
 Brain = DSP-GPU rendering pipeline requiring coherent k-space input from both visual (external) and proprioceptive (internal) modems.
 
 ### 1.2 The Proprioceptive Constraint
@@ -285,7 +285,7 @@ Mother = highest-coherence visual anchor available
 **Problem:**
 
 ```
-From [@CKS-LANG-9-2026]:
+From [@CKS-BIO-21-2026]:
 Phonemic kernel works via:
 K-K-K (110 baud quantize)
 M-M-M-M (300 baud couple)
@@ -1152,7 +1152,7 @@ Late intervention (>10 years):
 
 ### 5.1 Proprioception as Internal Modem
 
-**From [@CKS-COMP-2-2026]:**
+**From [@CKS-BIO-18-2026]:**
 
 ```
 Brain rendering pipeline requires TWO k-space inputs:
