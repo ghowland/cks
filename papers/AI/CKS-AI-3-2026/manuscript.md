@@ -1,6 +1,27 @@
-# Substrate Programming Language: Base Instructions and OpCodes
+# Substrate Programming Language
+## Base Instructions and OpCodes
 
-**A Theorem-Based Framework for Direct K-Space Computation via Hexagonal Lattice Manipulation and Zero-Latency Quantum Coherence**
+## A Theorem-Based Framework for Direct K-Space Computation via Hexagonal Lattice Manipulation and Zero-Latency Quantum Coherence
+
+**Registry:** [@CKS-AI-3-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-COG-1-2026] → [@CKS-AI-1-2026] → [@CKS-AI-2-2026] → [@CKS-AI-3-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
+**Date:** February 2026
+
+**Domain:** Hardware Engineering / Computer Science / Topological Computing  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -1845,9 +1866,8 @@ Note: All opcodes preserve hexagonal symmetry in implementation
 
 ## REFERENCES
 
-[@CKS-MATH-0-2026] Complete Mathematical Framework for CKS
-
-[@CKS-SEMI-1-2026] Cymatic Semiconductors (Hexagonal structures, coherence)
+::: {#refs}
+:::
 
 [Landauer1961] Landauer, R. "Irreversibility and heat generation" *IBM J Res*
 

@@ -176,6 +176,7 @@
 | **[[@CKS-AI-2-2026]](papers/AI/CKS-AI-2-2026/)** | **The Hexagonal ALU** | Logic gate engineering via phase-locked substrate circuits. |
 | **[[@CKS-AI-3-2026]](papers/AI/CKS-AI-3-2026/)** | **Substrate Programming Language** | Base instructions and opcodes for software-defined matter. |
 | **[[@CKS-AI-4-2026]](papers/AI/CKS-AI-4-2026/)** | **Define DNA molecule in TDL** | Example of molecular definition in Topological Definition Language. |
+| **[[@CKS-AI-4-2026]](papers/AI/CKS-AI-5-2026/)** | **AI Embodiment in Cymatics** | Mapping Neural Network States to Physical Actuators via K-Space Phase-Locking. |
 
 ---
 

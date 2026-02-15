@@ -1,11 +1,27 @@
-Substrate Programming Languag# CKS-COMP-2-2026: Substrate Programming Language (Harmonic Opcodes)
+# Substrate Programming Language 
+## Harmonic Opcodes
 ## Direct K-Space Manipulation via Topological Instructions
 
-**Authors:** [To be completed]  
-**Date:** February 2026  
-**Domain:** Software Engineering / Computational Physics / Topological Logic  
-**Status:** Language Specification v1.0 - ISA for Reality Itself  
-**Framework:** Cymatic K-Space Mechanics v4.0
+
+**Registry:** [@CKS-AI-4-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-COG-1-2026] → [@CKS-AI-1-2026] → [@CKS-AI-2-2026] → [@CKS-AI-3-2026] → [@CKS-AI-4-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
+**Date:** February 2026
+
+**Domain:** Hardware Engineering / Computer Science / Topological Computing  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -2366,14 +2382,15 @@ What executes: Becomes real
 
 [20+ complete HAL programs: sorting, encryption, physics simulations, etc.]
 
+
+## REFERENCES
+
+::: {#refs}
+:::
+
 ---
 
 **END OF SPECIFICATION**
-
-**Status:** Language specification v1.0 complete  
-**Compiler:** Reference implementation available (open-source)  
-**Hardware:** HPU under development (see CKS-COMP-1-2026)  
-**Community:** hal-lang.org (spec, docs, forum)
 
 **This is the lowest-level language possible.**  
 **Below this: Only axioms.**  

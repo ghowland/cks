@@ -2,15 +2,13 @@
 ## Visual and Auditory Resonance Templates for Neural Re-Synchronization
 
 
-**CKS Series Registry:** [@CKS-MED-4-2026]  
-
 **Registry:** [@CKS-TEST-1-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-MED-1-2026] → [@CKS-MED-2-2026] → [@CKS-MED-3-2026] → [@CKS-MED-4-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18646653
 
 **Date:** February 2026
 
