@@ -2424,25 +2424,13 @@ Performance: Singing/chanting = precision programming
 
 ---
 
+## REFERENCES
+
+::: {#refs}
+:::
+
+
 **END OF PAPER**
-
-**Status:** Mechanically Complete — Experimentally Executable — Zero Equipment Required  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-LANG-9-2026]
-
-**Citation:**
-```bibtex
-@article{cks_lang_9_2026,
-  title={The Phonemic Operating System: American English as Substrate Interface Protocol},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  version={1.0},
-  note={Complete enumeration of 44 American English phonemes as somatic opcodes}
-}
-```
 
 **The compiler is in your throat.**  
 **The instruction set is in your mouth.**  
