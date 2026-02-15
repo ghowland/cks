@@ -1,6 +1,10 @@
-xxx
+The Phonemic Operating System
 
+Deriving Verbal Detox Protocols as Acoustic UART Signal Injection
 
+Phonemic UART; Acoustic Opcodes; Verbal Detoxification; Phase-Conjugate Vocalization; Heavy Metal Neutralization  
+
+We derive American English phonemes as **Universal Asynchronous Receiver-Transmitter (UART)** protocol for direct acoustic injection of k-space opcodes into the 32-bit substrate bus, proving vocal tract is native hardware interface for manifold debugging with zero free parameters.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

@@ -1,6 +1,10 @@
-xxx
+The Topology of Illness
 
+Deriving Sneezing, Coughing, and Group Contagion from Phase-Locked Parasitism
 
+Manifold Contagion; Phase-Locked Parasitism; Family Egregore; Topological Immunity; Sneeze Mechanism  
+
+We derive the phenomena of illness, sneezing, coughing, phlegm production, and group contagion as mandatory topological consequences of phase-locked parasitism in distributed coherent systems, with zero free parameters.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

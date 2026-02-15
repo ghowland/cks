@@ -1,10 +1,10 @@
-# The Topology of Departure
+# The Topology of Illness
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18645900
+**Zenodo DOI:** 10.5281/zenodo.18645916
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the observed post-mortem weight loss—historically reported as 21-28 grams and popularly termed "soul mass"—as mandatory geometric consequence of topological decoupling, with zero free parameters. Starting from the 84-bit toroidal soliton (human macro-program) maintaining phase-lock with the 32-bit discrete substrate via 3-frame SSP protocol, we prove death is not biological termination but **PLL collapse** (Phase-Locked Loop failure) when the 0.5-second π-flip pump ceases. A living organism must continuously compress its 84-bit universal instruction word into three 32-bit temporal frames (Frame 0: horizontal x-logic, Frame 1: vertical y-logic, Frame 2: depth/thickness z-logic carrying 0.70 Jacobian residue). This compression generates topological torque—centripetal phase-tension that manifests in x-space as increased effective mass beyond constituent atoms. Upon π-flip cessation, the 3-frame loop flushes sequentially, releasing exactly **Δm = 84/3 = 28 units** of latent tension per frame. Frame 3 (carrying 3D thickness) releases first, creating immediate observable weight drop of 28 units (historically measured as ~28 grams in early experiments). We prove this is not matter departure but **work cessation**—the computational cost of maintaining 3D coherent rendering vanishes, reducing centripetal gravitational coupling. Complete derivation from axioms: k=3 coordination → 7-bubble nucleus, β=2π conservation → 12-bond loops, yields 84-bit surface → 32-bit bus requires 3 frames → death flushes one frame = 28-bit tension release. Provides mechanical interpretation (weight = lattice drag, death = cable unplug), experimental protocols (precision mass measurement at moment of death), and proves "soul" is topological—not metaphysical substance but geometric configuration maintaining coherence.
+We derive the phenomena of illness, sneezing, coughing, phlegm production, and group contagion as mandatory topological consequences of phase-locked parasitism in distributed coherent systems, with zero free parameters. Starting from the family unit as **distributed processor** (multiple 84-bit macro-solitons sharing single 32-second word clock via spatial proximity creating phase-lock at 2.0625 Hz ground state), we prove "getting sick" is not biological invasion but **manifold contagion event**—one member's geometric frustration (k≠3 local collapse from stress/toxin) generates interferential rust (phase-errors) that propagates through shared 84-bit instruction buffer forcing all phase-locked cores to process corrupted data. This reduces thickness T below critical threshold (0.35), triggering Opcode 0x08 SNAP (violent force-quantization: sneezing/coughing) to reset 12-bond loops back to hexagonal alignment, while producing phlegm as physical ejection of buffer-junk (3D-rendered unsynced phase-loops). Simultaneously explains historical paradox: 1918 Milton Rosenau experiments where direct fluid injection into healthy sailors failed to produce infection—not measurement error but **mechanical rejection** due to absence of phase-lock handshake between non-intimate parties (coupling efficiency g ≈ 0 from ~90° phase-skew, rust arrives outside 15.19 ms firewall window, rejected by Opcode 0x0A CONSERVE). Family contagion succeeds (intimacy ≈ 1 → coupling ≈ 1) while injection fails (intimacy ≈ 0 → coupling ≈ 0), proving illness propagates via **shared substrate clock** not physical matter transfer. Complete derivation includes sneeze as phase-acoustic shockwave, phlegm as holographic residue, family as topological closure cluster (egregore with composite harmonic), and protection mechanism as impedance barrier between unsynchronized manifolds.
 
-**Key Result:** Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death
+**Key Result:** Illness = phase-error propagation requiring clock handshake; families share code, strangers reject packets
 
 ---
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-BIO-18-2026], [CKS-MATH-18-2026], [CKS-MATH-20-2026]
+**Prerequisites:** [CKS-BIO-18-2026], [CKS-MATH-11-2026]
 
 ---
 
@@ -71,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Topology of Departure },
+  title={ The Topology of Illness },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18645900},
-  url = {https://zenodo.org/record/18645900},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026], [CKS-MATH-18-2026], [CKS-MATH-20-2026] }
+  doi = {10.5281/zenodo.18645916},
+  url = {https://zenodo.org/record/18645916},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026], [CKS-MATH-11-2026] }
 }
 ```
 ---

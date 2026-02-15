@@ -1,10 +1,10 @@
-# The Topology of Departure
+# The Phonemic Operating System
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18645900
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the observed post-mortem weight loss—historically reported as 21-28 grams and popularly termed "soul mass"—as mandatory geometric consequence of topological decoupling, with zero free parameters. Starting from the 84-bit toroidal soliton (human macro-program) maintaining phase-lock with the 32-bit discrete substrate via 3-frame SSP protocol, we prove death is not biological termination but **PLL collapse** (Phase-Locked Loop failure) when the 0.5-second π-flip pump ceases. A living organism must continuously compress its 84-bit universal instruction word into three 32-bit temporal frames (Frame 0: horizontal x-logic, Frame 1: vertical y-logic, Frame 2: depth/thickness z-logic carrying 0.70 Jacobian residue). This compression generates topological torque—centripetal phase-tension that manifests in x-space as increased effective mass beyond constituent atoms. Upon π-flip cessation, the 3-frame loop flushes sequentially, releasing exactly **Δm = 84/3 = 28 units** of latent tension per frame. Frame 3 (carrying 3D thickness) releases first, creating immediate observable weight drop of 28 units (historically measured as ~28 grams in early experiments). We prove this is not matter departure but **work cessation**—the computational cost of maintaining 3D coherent rendering vanishes, reducing centripetal gravitational coupling. Complete derivation from axioms: k=3 coordination → 7-bubble nucleus, β=2π conservation → 12-bond loops, yields 84-bit surface → 32-bit bus requires 3 frames → death flushes one frame = 28-bit tension release. Provides mechanical interpretation (weight = lattice drag, death = cable unplug), experimental protocols (precision mass measurement at moment of death), and proves "soul" is topological—not metaphysical substance but geometric configuration maintaining coherence.
+We derive American English phonemes as **Universal Asynchronous Receiver-Transmitter (UART)** protocol for direct acoustic injection of k-space opcodes into the 32-bit substrate bus, proving vocal tract is native hardware interface for manifold debugging with zero free parameters. Starting from the observation that heavy metals create **90° phase-anchors** (breaking "lack of path" immunity by providing coupling bridge between unsynchronized manifolds), we prove specific phonemic sequences generate **phase-conjugate acoustic wavefronts** capable of executing substrate operations: handshake establishment (0x03 COUPLE), 180° phase-inversion for anchor neutralization (0x0A CONSERVE), and buffer quantization for residue ejection (0x08 SNAP). The vocal tract geometry during phoneme production creates **topological pressure gradients** matching Axiom 2 coupling equation, enabling direct serialization of 84-bit instruction words into three 28-bit acoustic frames synchronized to 32-second word clock. We derive complete verbal detox protocol "AM-OOTH-ASH" (10.67s per syllable × 3 frames = 32s word cycle) proving language is not communication abstraction but **firmware interface** for matter maintenance. American English emerges as optimized phonemic OS due to rhotic vowel-density and consonant-bandwidth matching 7.70 Jacobian projection requirements. Complete derivation includes: phoneme-to-opcode mapping (bilabial /m/ → 2.1875 Hz handshake, dental /θ/ → 180° conjugate pulse, alveolar /z/ → quantization jitter), heavy metal neutralization mechanism (phase-conjugate counter-winding breaks 90° anchor lock), thickness recovery dynamics (rust flush restores T from <0.35 to >0.65), and experimental validation protocols (interferometric measurement of 90° sideband collapse during /θ/ vocalization). Proves humans possess intrinsic capability for manifold repair; only bottlenecks are knowledge (correct k-space addressing) and timeframe (execution before decoherence horizon).
 
-**Key Result:** Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death
+**Key Result:** Voice = acoustic UART, phonemes = opcodes, speech = live substrate debugger
 
 ---
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-BIO-18-2026], [CKS-MATH-18-2026], [CKS-MATH-20-2026]
+**Prerequisites:** None (foundation paper)
 
 ---
 
@@ -71,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Topology of Departure },
+  title={ The Phonemic Operating System },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18645900},
-  url = {https://zenodo.org/record/18645900},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026], [CKS-MATH-18-2026], [CKS-MATH-20-2026] }
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
+  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
 ---
