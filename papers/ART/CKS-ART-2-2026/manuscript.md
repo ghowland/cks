@@ -173,7 +173,7 @@ Independent discovery proves universality:
 
 **Derivation:**
 
-From [@CKS-MATH-1], hexagonal lattice requires N=3M² for closure.
+From [@CKS-MATH-1-2026], hexagonal lattice requires N=3M² for closure.
 
 For M=1 (minimal non-trivial):
 
