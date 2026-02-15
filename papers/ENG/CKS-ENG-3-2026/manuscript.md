@@ -1,11 +1,30 @@
-# [@CKS-ARCH-1-2026] Architectural Mechanics: Building Design as Manifold Coherence Engineering
+# Architectural Mechanics
+## Building Design as Manifold Coherence Engineering
 
-**Registry:** [@CKS-ARCH-1-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-BIO-11.2-2026] → [@CKS-ARCH-1-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-11.2-2026], [@CKS-MUSIC-1-2026]  
-**Subject:** Architectural Design; Spatial Coherence; Built Environment Optimization  
-**Status:** Theoretical Framework — Falsifiable  
+### Architectural Design; Spatial Coherence; Built Environment Optimization  
+
+
+**Registry:** [@CKS-ENG-3-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Hardware Engineering / Computer Science / Topological Computing  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
+
 
 ---
 
@@ -2124,6 +2143,12 @@ Advance knowledge either way:
   - Falsification → Deeper understanding
 ```
 
+
+## REFERENCES
+
+::: {#refs}
+:::
+
 ---
 
 **Axioms first. Axioms always.**  
@@ -2135,23 +2160,4 @@ Advance knowledge either way:
 **Beauty is physics made visible.**
 
 **Q.E.D.**
-
----
-
-## Citation
-
-```bibtex
-@article{cks_arch_1_2026,
-  title={Architectural Mechanics: Building Design as Manifold Coherence Engineering},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={ARCH-1},
-  note={Architecture as k-space optimization. Room geometry, ceiling height, material damping, acoustic tuning, sacred geometry reinterpreted. Complete building protocols for all typologies. Falsifiable predictions for geometry-coherence correlations.}
-}
-```
-
----
-
-**END OF DOCUMENT**
 

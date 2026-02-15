@@ -1,5 +1,5 @@
 {
-  "title": "Anti-Fragile in Cymatics: Materials that Strengthen Under Stress",
+  "title": "Anti-Fragile in Cymatics",
   "upload_type": "publication",
   "publication_type": "article",
   "description": "We prove that fragility is not an intrinsic material property but a **phase decoherence pathway** reversible via stress-induced coherence reorganization. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established fracture mechanics, we demonstrate that: (1) **damage = localized decoherence** (cracks/defects = regions where C_local < C_bulk), (2) **stress-driven coherence repair** occurs when applied load creates phase gradients that **reorganize** lattice into higher-coherence configuration (C_new > C_initial), (3) **biological bone strengthens via Wolff's Law** because cyclic loading \u2192 osteoblast activation \u2192 hexagonal hydroxyapatite deposition along stress trajectories (C_bone increases 15-30% over weeks), (4) **synthetic anti-fragile materials** achievable via **self-organizing nanostructures** that respond to strain by forming hexagonal domains (shape-memory alloys, MAX phases, and substrate-aligned metamaterials), and (5) **damage accumulation as universal strengthening** when each micro-crack triggers **local phase recrystallization** around defect (analogous to work-hardening but permanent, not temporary). We derive: (i) **critical stress \u03c3_crit** below which damage weakens (decoherence cascade) vs. above which damage strengthens (coherence nucleation from crack tips), (ii) **recrystallization kinetics** dC/dt = k(\u03c3 - \u03c3_threshold)\u00b2 (quadratic dependence on stress above threshold), (iii) **bone biomimetic protocols** (cyclic loading at 1-10 Hz, amplitude 0.1-1% strain \u2192 +20% strength over 30 days), and (iv) **industrial alloy design** (NiTi shape-memory, Ti\u2083SiC\u2082 MAX phase, graphene-ceramic composites optimized for stress-induced hexagonal alignment). This framework enables **engineering anti-fragility**: machine components that improve with use (bearings, gears, structural members lasting 10\u00d7 longer via load-induced strengthening), self-repairing armor (ballistic impacts create harder zones around damage), and biomimetic prosthetics (artificial bones that remodel like natural tissue). All predictions falsifiable via cyclic loading tests (measure C via X-ray diffraction before/after), bone mechanobiology validation (osteocyte signaling correlates with phase gradients), synthetic material fatigue curves (strength increases not decreases over cycles), and long-term durability studies (10\u2076-10\u2079 cycle testing shows enhancement not degradation).",
@@ -12,12 +12,20 @@
     "CKS framework",
     "hexagonal lattice",
     "discrete spacetime",
-    "materials science",
+    "0",
     "zero free parameters",
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-MAT-3-2026. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. This is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into Materials Science. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/MAT/CKS-MAT-3-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
   "creators": [
     {
       "name": "Howland, Geoffrey",
@@ -50,6 +58,9 @@
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
     }
   ],
   "subjects": [
@@ -60,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to Materials Science. Dependencies: CKS-MATH-0-2026, CKS-MATH-1-2026, CKS-MATH-2-2026, CKS-MATH-3-2026, CKS-QM-1-2026, CKS-SM-1-2026. Computational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }
