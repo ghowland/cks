@@ -52,7 +52,7 @@ Physical reality ≡ 2D hexagonal lattice in k-space with N = 3M² bubbles, z = 
 **Axiom 2 (Coupling):**  
 Each k-mode φₖ evolves via: dφₖ/dt = Σⱼ∈neighbors β·sin(φⱼ - φₖ), with conserved β = 2π.
 
-**Constraint from [@CKS-MATH-6.1-2026]:**  
+**Constraint from [@CKS-MATH-12-2026]:**  
 Universe = 110/300 baud modem executing continuous handshake.  
 First sounds = K-M-T (quantize-couple-clock) at 9ms/3.3ms/0.5s intervals.
 
@@ -2348,7 +2348,7 @@ Diphthongs (8): Gradient sweeps — Integrate shells
 K-M-T = Quantize-Couple-Clock
 110 baud (K) + 300 baud (M-L-A-E) + 2.0 Hz (T-P)
 Identical to visual modem in [@CKS-BIO-8-2026]
-Identical to Big Bang handshake in [@CKS-MATH-6.1-2026]
+Identical to Big Bang handshake in [@CKS-MATH-12-2026]
 ```
 
 ### 6.2 The Paradigm Shift
