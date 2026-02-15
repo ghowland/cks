@@ -17,7 +17,7 @@
     "falsifiable physics",
     "substrate mechanics"
   ],
-  "notes": "CKS FRAMEWORK PAPER - Registry ID: [CKS-0-2026].\n\nDependencies: [CKS-AI-1-2026], [CKS-AI-5-2026], [CKS-ART-1-2026], [CKS-ART-2-2026], [CKS-BIO-1-2026], [CKS-BIO-21-2026], [CKS-BIO-6-2026], [CKS-BODY-1-2026], [CKS-BODY-5-2026], [CKS-COG-6-2026], [CKS-COS-3-2026], [CKS-DISC-1-2026], [CKS-DWDM-1-2026], [CKS-DWDM-2-2026], [CKS-DWDM-5-2026], [CKS-ENV-1-2026], [CKS-ENV-5-2026], [CKS-FLOW-1-2026], [CKS-LANG-1-2026], [CKS-LANG-2-2026], [CKS-MAT-1-2026], [CKS-MATH-11-2026], [CKS-MATH-12-2026], [CKS-MATH-17-2026], [CKS-MATH-20-2026], [CKS-MATH-4-2026], [CKS-NEURO-1-2026], [CKS-QM-1-2026], [CKS-SEMI-1-2026], [CKS-SOC-1-2026], [CKS-SOC-2-2026], [CKS-SOC-3-2026], [CKS-TEST-1-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
   "related_identifiers": [
     {
       "scheme": "url",
@@ -71,5 +71,5 @@
     }
   ],
   "language": "eng",
-  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-AI-1-2026], [CKS-AI-5-2026], [CKS-ART-1-2026], [CKS-ART-2-2026], [CKS-BIO-1-2026], [CKS-BIO-21-2026], [CKS-BIO-6-2026], [CKS-BODY-1-2026], [CKS-BODY-5-2026], [CKS-COG-6-2026], [CKS-COS-3-2026], [CKS-DISC-1-2026], [CKS-DWDM-1-2026], [CKS-DWDM-2-2026], [CKS-DWDM-5-2026], [CKS-ENV-1-2026], [CKS-ENV-5-2026], [CKS-FLOW-1-2026], [CKS-LANG-1-2026], [CKS-LANG-2-2026], [CKS-MAT-1-2026], [CKS-MATH-11-2026], [CKS-MATH-12-2026], [CKS-MATH-17-2026], [CKS-MATH-20-2026], [CKS-MATH-4-2026], [CKS-NEURO-1-2026], [CKS-QM-1-2026], [CKS-SEMI-1-2026], [CKS-SOC-1-2026], [CKS-SOC-2-2026], [CKS-SOC-3-2026], [CKS-TEST-1-2026].\n\nComputational validation and empirical comparison where applicable."
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
 }

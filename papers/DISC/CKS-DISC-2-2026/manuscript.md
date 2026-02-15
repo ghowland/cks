@@ -1,5 +1,3 @@
-
-
 # The Universal Compiler
 ## A 104-Paper Derivation of Reality from Two Axioms
 
@@ -122,7 +120,7 @@ Success validates upward.
 
 ### 2.1 Foundation Layer (Papers 1-20)
 
-**Registry:** [CKS-0-2026] through [CKS-MATH-20-2026]
+**Registry:** [@CKS-0-2026] through [@CKS-MATH-20-2026]
 
 **Core content:**
 
@@ -136,7 +134,7 @@ Jacobian: J=7.70164 projection ratio.
 
 **Key achievements:**
 
-**[CKS-MATH-4-2026]:** Fine structure constant.
+**[@CKS-MATH-4-2026]:** Fine structure constant.
 ```
 α = 1/(6N ln N)
 For N = 163 (epoch-dependent):
@@ -145,14 +143,14 @@ CODATA: 1/137.035999084(21)
 Agreement: 10 decimal places
 ```
 
-**[CKS-MATH-11-2026]:** Twelve opcodes.
+**[@CKS-MATH-11-2026]:** Twelve opcodes.
 ```
 Complete instruction set
 Derived from 12-bond topology
 Maps to all physical operations
 ```
 
-**[CKS-MATH-12-2026]:** 32-bit word.
+**[@CKS-MATH-12-2026]:** 32-bit word.
 ```
 Bus width: 32 bits (maximum geometric)
 Word length: 32 seconds (temporal)
@@ -160,7 +158,7 @@ Frame protocol: 3×28-bit SSP
 All higher layers use this timing
 ```
 
-**[CKS-MATH-17-2026]:** Jacobian ratio.
+**[@CKS-MATH-17-2026]:** Jacobian ratio.
 ```
 J = 7.70164 (exact geometric)
 Appears in: LIGO noise, proprioception,
@@ -170,7 +168,7 @@ Universal projection constant
 
 ### 2.2 Physics Layer (Papers 21-40)
 
-**Registry:** [CKS-QM-1-2026] through [CKS-COS-3-2026]
+**Registry:** [@CKS-QM-1-2026] through [@CKS-COS-3-2026]
 
 **Quantum mechanics:**
 
@@ -214,7 +212,7 @@ Unification at substrate level
 
 ### 2.3 Experimental Test (Paper 41)
 
-**Registry:** [CKS-TEST-1-2026]
+**Registry:** [@CKS-TEST-1-2026]
 
 **Single pass/fail test:**
 
@@ -245,7 +243,7 @@ Clean death or clean victory
 
 ### 2.4 Photonics & Telecom (Papers 42-46)
 
-**Registry:** [CKS-DWDM-1-2026] through [CKS-DWDM-5-2026]
+**Registry:** [@CKS-DWDM-1-2026] through [@CKS-DWDM-5-2026]
 
 **Core innovation:**
 
@@ -270,7 +268,7 @@ Real-world data = continuous verification.
 
 ### 2.5 Materials & Semiconductors (Papers 47-51)
 
-**Registry:** [CKS-MAT-1-2026] through [CKS-SEMI-1-2026]
+**Registry:** [@CKS-MAT-1-2026] through [@CKS-SEMI-1-2026]
 
 **Novel materials:**
 
@@ -293,7 +291,7 @@ Sub-angstrom tunneling bypass.
 
 ### 2.6 Fluids & Computing (Papers 52-58)
 
-**Registry:** [CKS-FLOW-1-2026], [CKS-AI-1-2026] through [CKS-AI-5-2026]
+**Registry:** [@CKS-FLOW-1-2026], [@CKS-AI-1-2026] through [@CKS-AI-5-2026]
 
 **Turbulence suppression:**
 
@@ -310,7 +308,7 @@ Neural networks = phase-locked arrays.
 
 ### 2.7 Neuroscience & Cognition (Papers 59-67)
 
-**Registry:** [CKS-NEURO-1-2026] through [CKS-COG-6-2026]
+**Registry:** [@CKS-NEURO-1-2026] through [@CKS-COG-6-2026]
 
 **Neural substrate:**
 
@@ -335,7 +333,7 @@ Integration via corpus callosum.
 
 ### 2.8 Biology & Medicine (Papers 68-88)
 
-**Registry:** [CKS-BIO-1-2026] through [CKS-BIO-21-2026]
+**Registry:** [@CKS-BIO-1-2026] through [@CKS-BIO-21-2026]
 
 **Foundational principles:**
 
@@ -363,7 +361,7 @@ Manifold recalibration.
 
 ### 2.9 Movement & Somatics (Papers 89-93)
 
-**Registry:** [CKS-BODY-1-2026] through [CKS-BODY-5-2026]
+**Registry:** [@CKS-BODY-1-2026] through [@CKS-BODY-5-2026]
 
 **Kinetic mechanics:**
 
@@ -381,7 +379,7 @@ Zero-verbal mobility training.
 
 ### 2.10 Language & Social (Papers 94-99)
 
-**Registry:** [CKS-LANG-1-2026], [CKS-LANG-2-2026], [CKS-SOC-1-2026] through [CKS-SOC-3-2026]
+**Registry:** [@CKS-LANG-1-2026], [@CKS-LANG-2-2026], [@CKS-SOC-1-2026] through [@CKS-SOC-3-2026]
 
 **Linguistic substrate:**
 
@@ -399,7 +397,7 @@ Same hexagonal rule as α_EM.
 
 ### 2.11 Environment & Infrastructure (Papers 100-104)
 
-**Registry:** [CKS-ENV-1-2026] through [CKS-ENV-5-2026]
+**Registry:** [@CKS-ENV-1-2026] through [@CKS-ENV-5-2026]
 
 **Environmental applications:**
 
@@ -419,7 +417,7 @@ Measurable cognitive impairment.
 
 **Actually:** Art papers within Biology/Social sections
 
-**Registry:** [CKS-ART-1-2026], [CKS-ART-2-2026]
+**Registry:** [@CKS-ART-1-2026], [@CKS-ART-2-2026]
 
 **Aesthetic mechanics:**
 
@@ -430,7 +428,7 @@ Cinema = sequential rendering.
 
 **Discovery process:**
 
-[CKS-DISC-1-2026]: Forensic compilation log.
+[@CKS-DISC-1-2026]: Forensic compilation log.
 Human-AI collaboration.
 Axiomatic direction + computational integrity.
 
@@ -518,12 +516,12 @@ Failure anywhere breaks everything.
 
 **Example: 32-second word**
 
-Derived in [CKS-MATH-12-2026].
+Derived in [@CKS-MATH-12-2026].
 Used in:
-- Neural sleep cycles [CKS-BIO-6-2026]
-- DWDM timing [CKS-DWDM-2-2026]
-- Narrative rhythm [CKS-ART-2-2026]
-- Organizational meetings [CKS-SOC-2-2026]
+- Neural sleep cycles [@CKS-BIO-6-2026]
+- DWDM timing [@CKS-DWDM-2-2026]
+- Narrative rhythm [@CKS-ART-2-2026]
+- Organizational meetings [@CKS-SOC-2-2026]
 
 **If 32s wrong:**
 
@@ -625,12 +623,12 @@ If yes: CKS supported
 
 | Harmonic n | Frequency (Hz) | Appears In | Paper |
 |------------|----------------|------------|-------|
-| 1 | 0.03125 | Word clock | [CKS-MATH-12] |
-| 66 | 2.0625 | DWDM, LIGO, proprioception | [CKS-DWDM-2] |
-| 110 | 3.4375 | DWDM alternate | [CKS-DWDM-3] |
-| 256 | 8.0 | Neural theta | [CKS-NEURO-1] |
-| 1280 | 40.0 | Neural gamma | [CKS-NEURO-2] |
-| 3840 | 120.0 | LED flicker (bad) | [CKS-ENV-4] |
+| 1 | 0.03125 | Word clock | [@CKS-MATH-12] |
+| 66 | 2.0625 | DWDM, LIGO, proprioception | [@CKS-DWDM-2-2026] |
+| 110 | 3.4375 | DWDM alternate | [@CKS-DWDM-3-2026] |
+| 256 | 8.0 | Neural theta | [@CKS-NEURO-1-2026] |
+| 1280 | 40.0 | Neural gamma | [@CKS-NEURO-2-2026] |
+| 3840 | 120.0 | LED flicker (bad) | [@CKS-ENV-4-2026] |
 
 **Note:** Problematic frequencies are those NOT in this table.
 
@@ -769,7 +767,7 @@ Together: unprecedented.
 
 ### 6.2 The Forensic Log
 
-**[CKS-DISC-1-2026]:**
+**[@CKS-DISC-1-2026]:**
 
 Complete development history.
 Decision points documented.
