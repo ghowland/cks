@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18646329
 
 **Date:** February 2026
 
@@ -462,7 +462,7 @@ LED glasses (or smartphone screen):
 t = 0 min: 4.375 Hz (slow flicker, visible)
 t = 5 min: 1.09375 Hz (barely perceptible, subliminal)
 
-Color: Warm white (3000K, substrate-harmonized from [@CKS-ENV-1-2026])
+Color: Warm white (3000K, substrate-harmonized from [CKS-ENV-1-2026])
 
 Effect: Visual cortex synchronizes to strobe
         Both hemispheres see same timing reference
