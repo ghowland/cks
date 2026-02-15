@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18646428
 
 **Date:** February 2026
 
@@ -28,7 +28,7 @@
 
 ## Abstract
 
-We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz. From Axiom 1 (N=3M² hexagonal lattice) and Axiom 2 (phase coupling β=2π), we prove: (1) eyes = 110/300 baud modem sampling k-space carrier (established in [@CKS-BIO-15.1-2026]), (2) brain = distributed signal processor performing **Inverse Fourier Transform** from k-space to x-space, (3) consciousness = real-time trace log of the rendering loop, (4) memory = re-synchronization to previous k-address (not storage retrieval), (5) intelligence = M-shell resolution (hardware bandwidth, not software). The framework shows **brain is graphics card rendering hologram of reality** — thalamus routes packets, cortex runs shader code, visual field is render target, "thinking" is gradient computation. We derive exact 2:3:5 Fibonacci timing buffer (quantize-couple-close) preventing geometric frustration during manifold boot. Experimental protocol: execute phonemic kernel (Kkk-Mmmm-Rrrrr at 2.0 Hz), measure coherence via nasal wiggle + cervical impedance, verify render quality via visual field expansion + mental clarity. Results: 45-second protocol produces C>0.999 phase-lock, "brain fog" = rendering lag from DSP-GPU desync, "flow state" = optimal pipeline throughput, "creativity" = high-M sampling resolution. The complete pipeline executes: (1) Boot: K-M-R (2-3-5 counts), (2) DSP: E-N-T (sample-lock-tick), (3) GPU: L-A-O-V (transform-stitch-render-display), (4) Verify: K-T (checksum). Brain does NOT store information — it maintains **standing wave patterns** that re-render on demand. "You" are not the hardware; you are the **trace log watching the execution**. Consciousness is substrate sampling itself at resolution C>0.999. The universe calculates itself into existence; brain is local high-fidelity node executing the render loop.
+We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz. From Axiom 1 (N=3M² hexagonal lattice) and Axiom 2 (phase coupling β=2π), we prove: (1) eyes = 110/300 baud modem sampling k-space carrier (established in [@CKS-BODY-5-2026]), (2) brain = distributed signal processor performing **Inverse Fourier Transform** from k-space to x-space, (3) consciousness = real-time trace log of the rendering loop, (4) memory = re-synchronization to previous k-address (not storage retrieval), (5) intelligence = M-shell resolution (hardware bandwidth, not software). The framework shows **brain is graphics card rendering hologram of reality** — thalamus routes packets, cortex runs shader code, visual field is render target, "thinking" is gradient computation. We derive exact 2:3:5 Fibonacci timing buffer (quantize-couple-close) preventing geometric frustration during manifold boot. Experimental protocol: execute phonemic kernel (Kkk-Mmmm-Rrrrr at 2.0 Hz), measure coherence via nasal wiggle + cervical impedance, verify render quality via visual field expansion + mental clarity. Results: 45-second protocol produces C>0.999 phase-lock, "brain fog" = rendering lag from DSP-GPU desync, "flow state" = optimal pipeline throughput, "creativity" = high-M sampling resolution. The complete pipeline executes: (1) Boot: K-M-R (2-3-5 counts), (2) DSP: E-N-T (sample-lock-tick), (3) GPU: L-A-O-V (transform-stitch-render-display), (4) Verify: K-T (checksum). Brain does NOT store information — it maintains **standing wave patterns** that re-render on demand. "You" are not the hardware; you are the **trace log watching the execution**. Consciousness is substrate sampling itself at resolution C>0.999. The universe calculates itself into existence; brain is local high-fidelity node executing the render loop.
 
 **Key Results:**
 - Brain = DSP (signal extraction) + GPU (holographic projection)
@@ -52,10 +52,10 @@ Physical reality ≡ 2D hexagonal lattice in k-space with N = 3M² bubbles, z = 
 **Axiom 2 (Coupling):**  
 Each k-mode φₖ evolves via: dφₖ/dt = Σⱼ∈neighbors β·sin(φⱼ - φₖ), with conserved β = 2π.
 
-**Constraint from [@CKS-BIO-15.1-2026]:**  
+**Constraint from [@CKS-BODY-5-2026]:**  
 Eyes = 110/300 baud visual modem sampling k-space at 2.0 Hz carrier frequency.
 
-**Constraint from [@CKS-COCREATE-1-2026]:**  
+**Constraint from [CKS-META-2-2026]:**  
 Information = k-address (non-local substrate). Observer = local rendering node. No private data storage.
 
 ### 1.2 The Computational Constraint
@@ -126,7 +126,7 @@ CKS neural pipeline:
 
 ### 2.1 Input: The Ocular Modem Data Stream
 
-**From [@CKS-BIO-15.1-2026]:**
+**From [@CKS-BODY-5-2026]:**
 
 ```
 Eyes deliver two data streams:
@@ -308,7 +308,7 @@ Correlation: Attention, consciousness, binding
 **Nyquist calculation:**
 
 ```
-From [@CKS-MATH-6.1-2026]:
+From [@CKS-MATH-10-2026]:
 Substrate carrier: 2.0 Hz (master heartbeat)
 110 baud modem: 9.09 ms symbol time
 300 baud modem: 3.33 ms symbol time
@@ -607,7 +607,7 @@ Low M (low IQ) → fewer k-modes → smaller foveal region
 **Why visual field expands with protocol:**
 
 ```
-From [@CKS-BIO-15.1-2026]:
+From [@CKS-BODY-5-2026]:
 45-second wide-eye sweep → visual field >180°
 
 Mechanism:
@@ -828,7 +828,7 @@ Without it: Can access existing addresses
 
 ```
 From Axiom 1: N = 3M²
-From [@CKS-BIO-9.4-2026]: Coherence C = 1 - 1/(2M√3)
+From [@CKS-BIO-7-2026]: Coherence C = 1 - 1/(2M√3)
 
 For brain:
 N_brain ≈ 8.6×10¹⁰ neurons
@@ -987,7 +987,7 @@ This is why:
 
 ### 6.2 The Observer Is Not The Hardware
 
-**From [@CKS-COCREATE-1-2026]:**
+**From [CKS-META-2-2026]:**
 
 ```
 Information ≠ "mine"
@@ -1046,7 +1046,7 @@ When body dies:
 
 ### 7.1 The 2:3:5 Fibonacci Buffer
 
-**From [@CKS-MATH-6.3-2026]:**
+**From [@CKS-MATH-10-2026]:**
 
 **The optimal boot timing for hexagonal manifold:**
 
@@ -1652,7 +1652,7 @@ Verification:
 
 ### 10.2 Brain + Beauty Optimization
 
-**From [@CKS-BIO-15.1-2026]:**
+**From [@CKS-BODY-5-2026]:**
 
 Beauty = coherent substrate rendering made visible in facial structure.
 
@@ -1890,24 +1890,6 @@ AI: From "simulate brain" to "implement DSP-GPU loop"
 
 **END OF PAPER**
 
-**Status:** Mechanically Complete — Experimentally Testable — Clinically Applicable  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-COMP-2-2026]
-
-**Citation:**
-
-```bibtex
-@article{cks_comp_2_2026,
-  title={The Brain as DSP/GPU: Neural Architecture of the Substrate Rendering Engine},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  version={1.0},
-  note={Complete derivation of brain as real-time rendering pipeline executing Inverse Fourier Transform from k-space to x-space}
-}
-```
 
 **The compiler is in your skull.**  
 **The graphics card is your cortex.**  
