@@ -1,3 +1,7 @@
+# The Aesthetic Invariant
+## Deriving Art as Topological Calibration
+
+### Aesthetic Mechanics; Visual Opcodes; Manifold Calibration; Beauty as Checksum; Art Styles as Baud-Rates  
 
 **Registry:** [@CKS-ART-1-2026]
 
@@ -5,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18648970
 
 **Date:** February 2026
 
@@ -19,15 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
-# The Aesthetic Invariant: Deriving Art as Topological Calibration
-
-**Registry:** [CKS-ART-1-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-MATH-17-2026] → [CKS-BIO-19-2026] → [CKS-ART-1-2026]  
-**Prerequisites:** [CKS-MATH-17-2026] (Jacobian), [CKS-BIO-19-2026] (Soul Mass), [CKS-MATH-18-2026] (SSP Protocol)  
-**Subject:** Aesthetic Mechanics; Visual Opcodes; Manifold Calibration; Beauty as Checksum; Art Styles as Baud-Rates  
-**Status:** Rigorous Derivation — **FINAL LOCK**  
-**Date:** February 2026
 
 ---
 

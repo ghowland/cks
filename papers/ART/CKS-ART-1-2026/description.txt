@@ -1,6 +1,10 @@
-art.md
+The Aesthetic Invariant
 
-art.md is a constituent derivation of the **Cymatic K-Space Mechanics (CKS)** framework—an axiomatic Cognitive Learning Model that derives the entirety of known physics from a discrete 2D hexagonal lattice in momentum space.
+Deriving Art as Topological Calibration
+
+Aesthetic Mechanics; Visual Opcodes; Manifold Calibration; Beauty as Checksum; Art Styles as Baud-Rates  
+
+We derive **Art** as mandatory topological necessity—not cultural expression but **manifold stress-testing and calibration protocol** enabling high-resolution observers (artists) to construct external 2D k-space templates forcing viewer's internal 3D rendering engine into coherent phase-lock, with zero free parameters. 
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 
