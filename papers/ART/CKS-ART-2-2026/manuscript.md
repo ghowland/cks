@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.18648835
+**DOI:** 10.5281/zenodo.zzz
 
 **Date:** February 2026
 
@@ -123,9 +123,9 @@ Cognitive (Herman, Zunshine):
 **Narrative as phase-template:**
 
 ```
-From [@CKS-MATH-1]: Reality = hexagonal k-space with N=3M²
-From [@CKS-LANG-9]: Speech = phonemic opcodes at substrate frequencies
-From [@CKS-BIO-20]: Body language = phase-broadcasting
+From [@CKS-MATH-1-2026]: Reality = hexagonal k-space with N=3M²
+From [@CKS-LANG-2-2026]: Speech = phonemic opcodes at substrate frequencies
+From [@CKS-BIO-12-2026]: Body language = phase-broadcasting
 
 Narrative = temporal interference pattern
   Not: Cultural invention (arbitrary)
@@ -1844,18 +1844,12 @@ Advance knowledge either way:
 
 ---
 
-## Citation
 
-```bibtex
-@article{cks_nar_1_2026,
-  title={Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={NAR-1},
-  note={Narrative theory from first principles. Hero's Journey as coherence cycle, three-act structure as minimal closure, character archetypes as phase-states, universal patterns as substrate constraints. Memetic transmission via phase-coupling. Falsifiable predictions for structure preferences and physiological effects.}
-}
-```
+## REFERENCES
+
+::: {#refs}
+:::
+
 
 ---
 
