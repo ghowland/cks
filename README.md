@@ -46,6 +46,15 @@
 
 ---
 
+## Experimental Falsification
+*The definitive test protocol.*
+
+| ID | Title | Description |
+| :--- | :--- | :--- |
+| **[[@CKS-TEST-1-2026]](papers/TEST/CKS-TEST-1-2026/)** | **The 2.0 Hz Ultimatum** | Detection of substrate harmonic in precision interferometry. Pass/fail validation of entire framework. |
+
+---
+
 ## Telecommunications & Photonics
 *Optical communications and DWDM infrastructure.*
 
@@ -276,15 +285,6 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-ART-1-2026]](papers/ART/CKS-ART-1-2026/)** | **Art** | Creative applications of substrate mechanics. |
-
----
-
-## Experimental Falsification
-*The definitive test protocol.*
-
-| ID | Title | Description |
-| :--- | :--- | :--- |
-| **[[@CKS-TEST-1-2026]](papers/TEST/CKS-TEST-1-2026/)** | **The 2.0 Hz Ultimatum** | Detection of substrate harmonic in precision interferometry. Pass/fail validation of entire framework. |
 
 ---
 

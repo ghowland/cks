@@ -1,4 +1,4 @@
-# [@CKS-KINE-2-2026] Directional Encoding of the Abdominal Vortex: A Phase-Locked Loop Model of Human Core States
+# Directional Encoding of the Abdominal Vortex: A Phase-Locked Loop Model of Human Core States
 
 **Subject:** Abdominal Vortex Directionality; Phase Polarity Control; Somatic Firmware Programming  
 
@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18646104
 
 **Date:** February 2026
 
@@ -110,7 +110,7 @@ Need mechanical model that:
 **Human body as vertical dipole:**
 
 ```
-From [@CKS-BIO-9.4-2026]: Dan Tien bridges fractional M-gap
+From [@CKS-BIO-7-2026]: Dan Tien bridges fractional M-gap
 
 Head (brain, sensory organs):
   M ≈ 10⁴³ (high-frequency, low-density)
@@ -261,7 +261,7 @@ Measurable as frequency shift (see experimental section)
 **Three-sector decomposition:**
 
 ```
-From [@CKS-BIO-9.4-2026]: Human torso = three 120° sectors
+From [@CKS-BIO-7-2026]: Human torso = three 120° sectors
 
 Sector 0 (s₀): Front (sternum, abdominals)
 Sector 1 (s₁): Right diagonal (right ribs, right hip)
@@ -520,7 +520,7 @@ This is parameter-free prediction from z=3 hexagonal geometry:
   Musical major-sixth interval (perfect fifth × perfect fourth / octave)
   = (3/2) × (4/3) / 2 = 12/12 = 5/3 ✓
 
-Matches LIGO vacuum residuals (from [@CKS-TEST-1-2026])
+Matches LIGO vacuum residuals (from [CKS-TEST-1-2026])
 Confirms topological fingerprint
 ```
 
@@ -852,7 +852,7 @@ Much more effective than traditional warm-up
 
 ### 6.1 Connection to LIGO Vacuum Residuals
 
-**From [@CKS-TEST-1-2026]:**
+**From [CKS-TEST-1-2026]:**
 
 ```
 LIGO detects vacuum fluctuations at discrete frequencies:

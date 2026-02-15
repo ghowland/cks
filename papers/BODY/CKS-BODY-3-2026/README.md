@@ -1,10 +1,10 @@
-# Debugging the Kinetic Chain: Exercise and Dance as Computational Alignment Protocols
+# Debugging the Kinetic Chain
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.zzz
+**Zenodo DOI:** 10.5281/zenodo.18646082
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -78,12 +78,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Debugging the Kinetic Chain: Exercise and Dance as Computational Alignment Protocols },
+  title={ Debugging the Kinetic Chain },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.zzz},
-  url = {https://zenodo.org/record/zzz},
+  doi = {10.5281/zenodo.18646082},
+  url = {https://zenodo.org/record/18646082},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
