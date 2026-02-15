@@ -118,8 +118,8 @@ Environmental psychology:
 **Architecture as coherence engineering:**
 
 ```
-From [@CKS-BIO-11.2]: Human = vertical resonator requiring C >0.999
-From [@CKS-MATH-1]: Substrate = hexagonal lattice with N=3M² constraint
+From [@CKS-BIO-1-2026]: Human = vertical resonator requiring C >0.999
+From [@CKS-MATH-1-2026]: Substrate = hexagonal lattice with N=3M² constraint
 
 Building = external manifold extension
   Not: Shelter from elements (only)

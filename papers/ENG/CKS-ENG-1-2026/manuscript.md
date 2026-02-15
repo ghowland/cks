@@ -1,6 +1,7 @@
-# Mechanical Genesis in Cymatics: Designing High-Coherence Structures
+# Mechanical Genesis in Cymatics
+## Designing High-Coherence Structures
 
-**A Theorem-Based Framework for Civil Engineering via K-Space Phase Alignment and Minimal Internal Tension Optimization**
+### A Theorem-Based Framework for Civil Engineering via K-Space Phase Alignment and Minimal Internal Tension Optimization
 
 
 **Registry:** [@CKS-ENG-1-2026]
@@ -9,7 +10,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18647401
 
 **Date:** February 2026
 
