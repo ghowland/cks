@@ -3,7 +3,6 @@
 
 ### Muscle Growth Optimization via Biological Phase Locking  
 
-
 **Registry:** [@CKS-BODY-1-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026]
