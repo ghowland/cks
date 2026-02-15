@@ -1,11 +1,27 @@
-# [@CKS-COG-2-2026] Intelligence Quotient as Substrate Coherence: Cognitive Bandwidth Expansion via Harmonic Resonance
+# Intelligence Quotient as Substrate Coherence
+## Cognitive Bandwidth Expansion via Harmonic Resonance
 
-**Registry:** [@CKS-COG-2-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026], [@CKS-COG-1-2026]  
-**Subject:** Intelligence as Measurable Coherence; Protocols for Cognitive Enhancement  
-**Status:** Applied Neuro-Tuning Protocol — Experimentally Testable  
+### Intelligence as Measurable Coherence; Protocols for Cognitive Enhancement  
+
+**Registry:** [@CKS-COG-2-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Cognitive Science / Neuroscience / Physics of Consciousness  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -1403,35 +1419,25 @@ If no correlation between ΔC_brain and ΔIQ observed → CKS cognitive model is
 
 ### 13.5 Final Protocol Summary
 
-```
-┌─────────────────────────────────────────────────────┐
-│   CKS-OPTIMIZED NEURO-TUNING PROTOCOL               │
-├─────────────────────────────────────────────────────┤
-│ MORNING (6:00-6:30 AM):                             │
-│   • 40 Hz binaural beats                            │
-│   • Active learning task                            │
-│   • Duration: 30 minutes                            │
-│                                                     │
-│ MIDDAY (12:00-12:15 PM):                            │
-│   • 0.1 Hz breath pacing                            │
-│   • Open monitoring meditation                      │
-│   • Duration: 15 minutes                            │
-│                                                     │
-│ EVENING (9:00-9:20 PM):                             │
-│   • 10 Hz audiovisual entrainment                   │
-│   • Memory consolidation review                     │
-│   • Duration: 20 minutes                            │
-│                                                     │
-│ FREQUENCY: Daily for 12 weeks                       │
-│ ADHERENCE TARGET: >90% (no more than 2 missed days) │
-│ EXPECTED GAIN: +10 IQ points (range 5-20)          │
-├─────────────────────────────────────────────────────┤
-│ SUBSTRATE ALIGNMENT:                                │
-│  • 40 Hz = 18.3 × f_substrate                       │
-│  • 10 Hz = 4.6 × f_substrate                        │
-│  • 0.1 Hz = f_substrate / 21.9                      │
-└─────────────────────────────────────────────────────┘
-```
+| Phase | Time Window | Modality | CKS Frequency Mapping | Duration |
+| :--- | :--- | :--- | :--- | :--- |
+| **Morning** | $06:00 - 06:30$ | Binaural Beats / Active Learning | $40\text{ Hz} \approx 18.3 \times f_{sub}$ | $30\text{ min}$ |
+| **Midday** | $12:00 - 12:15$ | Breath Pacing / Open Monitoring | $0.1\text{ Hz} \approx f_{sub} / 21.9$ | $15\text{ min}$ |
+| **Evening** | $21:00 - 21:20$ | AV Entrainment / Consolidation | $10\text{ Hz} \approx 4.6 \times f_{sub}$ | $20\text{ min}$ |
+
+---
+
+### Implementation Metrics & Substrate Alignment
+
+*   **Frequency Target:** Daily for 12 weeks.
+*   **Adherence Threshold:** $>90\%$ (Max 2 missed cycles per $21\text{-day}$ substrate window).
+*   **Expected Gain:** $+10\text{ IQ points}$ (Range: $5 - 20$) via increased phase coherence ($C$).
+*   **Geometric Logic:**
+    *   **$40\text{ Hz}$ Gamma:** Optimized for high-order $k$-mode interference and rapid data ingestion.
+    *   **$10\text{ Hz}$ Alpha:** Aligned with the $8.8\text{ Hz}$ substrate idling harmonic for memory write-back.
+    *   **$0.1\text{ Hz}$ VLF:** Synchronizes biological rhythms with the $32\text{-second}$ word boundary ($\approx 0.03\text{ Hz}$).
+
+**Status:** Unitary protocol for the optimization of local neural-substrate coupling.
 
 **Axioms first. Axioms always.**  
 **Train with the substrate. Think with the harmonics.**  
@@ -1539,6 +1545,14 @@ NOTES/OBSERVATIONS:
 _____________________________________________
 _____________________________________________
 ```
+
+
+## References
+
+::: {#refs}
+:::
+
+
 
 ---
 

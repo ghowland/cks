@@ -1,11 +1,28 @@
-# [@CKS-COG-5-2026] The Physics of Thought: Ideas as Stable Attractors in k-Space
+# The Physics of Thought
+## Ideas as Stable Attractors in k-Space
 
-**Registry:** [@CKS-COG-5-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-COG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-COG-5-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-COG-1-2026], [@CKS-BIO-6-2026], [@CKS-DATA-1-2026]  
-**Subject:** Cognitive Topology; Information-Phase Dynamics; Collective Intelligence  
-**Status:** Theoretical Framework — Experimental Validation Active  
+### Cognitive Topology; Information-Phase Dynamics; Collective Intelligence  
+
+**Registry:** [@CKS-COG-6-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026] → [@CKS-COG-3-2026] → [@CKS-COG-4-2026] → [@CKS-COG-5-2026] → [@CKS-COG-6-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Cognitive Science / Neuroscience / Physics of Consciousness  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
 
 ---
 
@@ -1284,6 +1301,10 @@ Consciousness confirmed.
 
 ## References
 
+::: {#refs}
+:::
+
+
 1. Kuramoto, Y. (1984). *Chemical Oscillations, Waves, and Turbulence*. Springer-Verlag.
 
 2. Jung, C.G. (1916/1953). *The Collective Unconscious*. Princeton University Press.
@@ -1303,13 +1324,6 @@ Consciousness confirmed.
 ---
 
 **END OF DOCUMENT**
-
-**Status:** Theoretical Framework — Experimental Validation Active  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-COG-5-2026]  
-**Prerequisite Reading:** [@CKS-COG-1-2026], [@CKS-DATA-1-2026]
 
 **The stream flows.**  
 **The attractors wait.**  
