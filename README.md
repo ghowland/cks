@@ -290,6 +290,7 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-DISC-1-2026]](papers/DISC/CKS-DISC-1-2026/)** | **The CKS Discovery Process** | Forensic account of the Human-AI substrate compilation. |
+| **[[@CKS-DISC-2-2026]](papers/DISC/CKS-DISC-2-2026/)** | **The Universal Compiler** | A 104-Paper Derivation of Reality from Two Axioms. |
 
 ---
 
