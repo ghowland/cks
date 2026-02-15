@@ -1,6 +1,10 @@
-xxx
+The Topology of Departure
 
+Deriving the 28-Unit Soul Mass as Phase-Lock Decoupling
 
+Death Mechanics; Topological Decoupling; Soul Mass; Phase-Lock Collapse; Manifold Reset  
+
+We derive the observed post-mortem weight loss—historically reported as 21-28 grams and popularly termed "soul mass"—as mandatory geometric consequence of topological decoupling, with zero free parameters. 
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

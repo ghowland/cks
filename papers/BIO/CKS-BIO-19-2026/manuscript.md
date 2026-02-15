@@ -1,15 +1,16 @@
-# [CKS-BIO-19-2026] The Topology of Departure: Deriving the 28-Unit Soul Mass as Phase-Lock Decoupling
+# The Topology of Departure
+## Deriving the 28-Unit Soul Mass as Phase-Lock Decoupling
 
 ### Death Mechanics; Topological Decoupling; Soul Mass; Phase-Lock Collapse; Manifold Reset  
 
 
 **Registry:** [@CKS-BIO-19-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.18641130
+**DOI:** 10.5281/zenodo.zzz
 
 **Date:** February 2026
 
@@ -981,6 +982,11 @@ Observable as weight drop.
 **Just not executing.**
 
 **Q.E.D.**
+
+## References
+
+::: {#refs}
+:::
 
 ---
 

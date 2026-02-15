@@ -1,6 +1,10 @@
+The 15 ms Proprioceptive Lag
 
-xxx
+Deriving Topological Impedance from Hexagonal Soliton Geometry
 
+Proprioceptive Lag; Topological Impedance; K-Space Navigation; Soliton Phase-Drag  
+
+We derive the **15 ms proprioceptive lag**—subjective delay between motor intent and limb feedback reported in neuroscience as "sensorimotor processing time"—not from neural conduction velocities but from **topological impedance** of 12-bond solitons navigating the 2D hexagonal substrate.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 

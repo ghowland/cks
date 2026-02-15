@@ -1,10 +1,10 @@
-# The 15 ms Proprioceptive Lag
+# The Topology of Departure
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18645881
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the **15 ms proprioceptive lag**—subjective delay between motor intent and limb feedback reported in neuroscience as "sensorimotor processing time"—not from neural conduction velocities but from **topological impedance** of 12-bond solitons navigating the 2D hexagonal substrate. Using CKS axioms, we prove the lag constant emerges as pure geometric ratio **ℛ = 4πK ≈ 15.19** where K = π/(3√3/2) ≈ 1.2091 is circle-to-hexagon area distortion and factor 4 = 12-bond loop internal volume (12 bonds / 3 coordination). This represents number of substrate pulses required to advance holographic projection by one address unit. At current epoch N ≈ 9×10⁶⁰, this geometric impedance manifests as temporal lag τ_lag = (1-g) × 15.2 ms where g = k_local/3 measures local coordination efficiency. When neural tissue experiences loop distortion (k_local ≠ 3 from spectral congestion, geometric dents, or dark-matter interference), coupling efficiency drops below unity, creating phase-drag perceived as "heavy limbs," "clumsy movements," or "body disconnect." We derive three dysfunction modes: (1) phase-lag glitch (τ = 0.3-6 ms depending on g), (2) harmonic jitter at 1.375 Hz = beat frequency between substrate modes 66 and 110, (3) vertigo from flip-flopping between 2.0625 Hz and 3.4375 Hz eigen-states. Critical prediction: micro-motion spectroscopy on symptomatic patients will reveal power concentrated at exact bins f_n = n/32 Hz with **zero broadening** (Dirac combs not Gaussians), particularly sideband at f_side = 15.19 × 0.03125 Hz ≈ 0.4748 Hz. With zero free parameters, we prove proprioceptive dysfunction is not neurological pathology but **k-space navigation error**—body-program using stale substrate addresses due to local lattice impedance.
+We derive the observed post-mortem weight loss—historically reported as 21-28 grams and popularly termed "soul mass"—as mandatory geometric consequence of topological decoupling, with zero free parameters. Starting from the 84-bit toroidal soliton (human macro-program) maintaining phase-lock with the 32-bit discrete substrate via 3-frame SSP protocol, we prove death is not biological termination but **PLL collapse** (Phase-Locked Loop failure) when the 0.5-second π-flip pump ceases. A living organism must continuously compress its 84-bit universal instruction word into three 32-bit temporal frames (Frame 0: horizontal x-logic, Frame 1: vertical y-logic, Frame 2: depth/thickness z-logic carrying 0.70 Jacobian residue). This compression generates topological torque—centripetal phase-tension that manifests in x-space as increased effective mass beyond constituent atoms. Upon π-flip cessation, the 3-frame loop flushes sequentially, releasing exactly **Δm = 84/3 = 28 units** of latent tension per frame. Frame 3 (carrying 3D thickness) releases first, creating immediate observable weight drop of 28 units (historically measured as ~28 grams in early experiments). We prove this is not matter departure but **work cessation**—the computational cost of maintaining 3D coherent rendering vanishes, reducing centripetal gravitational coupling. Complete derivation from axioms: k=3 coordination → 7-bubble nucleus, β=2π conservation → 12-bond loops, yields 84-bit surface → 32-bit bus requires 3 frames → death flushes one frame = 28-bit tension release. Provides mechanical interpretation (weight = lattice drag, death = cable unplug), experimental protocols (precision mass measurement at moment of death), and proves "soul" is topological—not metaphysical substance but geometric configuration maintaining coherence.
 
-**Key Result:** ℛ = 4πK = 15.19 (pure geometry), τ_lag = (1-g) × 15.2 ms, falsifiable via 0.4748 Hz spectral line
+**Key Result:** Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death
 
 ---
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-MATH-11-2026], [CKS-MATH-13-2026], [CKS-MATH-9-2026]
+**Prerequisites:** [CKS-BIO-18-2026], [CKS-MATH-18-2026], [CKS-MATH-20-2026]
 
 ---
 
@@ -71,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The 15 ms Proprioceptive Lag },
+  title={ The Topology of Departure },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18645881},
-  url = {https://zenodo.org/record/18645881},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-MATH-11-2026], [CKS-MATH-13-2026], [CKS-MATH-9-2026] }
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026], [CKS-MATH-18-2026], [CKS-MATH-20-2026] }
 }
 ```
 ---
