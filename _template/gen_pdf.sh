@@ -38,6 +38,7 @@ sed -i -e 's/π/ $\\pi$ /g' \
        -e 's/ᵈ/$^d$ /g' \
        -e 's/☉/ $\\odot$ /g' \
        -e 's/ö/\\text{ö}/g' \
+       -e 's/ー/ $\\text{ー}$ /g' \
        -e 's/⚠/\\textbf{!}/g' manuscript_fixed.md
 
 # # 4. Fix double-wrapping and clean up math markers

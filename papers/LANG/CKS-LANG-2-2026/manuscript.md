@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18648594
 
 **Date:** February 2026
 
@@ -293,7 +293,7 @@ Phase: Discrete assignment + periodic energy
 Frequency: Burst + 100-200 Hz fundamental
 ```
 
-**Example words:** "dog," "ladder," "ード"
+**Example words:** "dog," "ladder"
 
 ---
 
