@@ -259,17 +259,7 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-DATA-1-2026]](papers/DATA/CKS-DATA-1-2026/)** | **The Digital Heat Sink** | Information externalization as substrate pressure relief. |
-
----
-
-## Meta-Analysis & Discovery
-*Framework structure, information theory, and narrative mechanics.*
-
-| ID | Title | Description |
-| :--- | :--- | :--- |
-| **[[@CKS-META-1-2026]](papers/META/CKS-META-1-2026/)** | **Narrative Mechanics** | Story structure as k-space phase-template for manifold evolution. |
-| **[[@CKS-META-2-2026]](papers/META/CKS-META-2-2026/)** | **Information as Physical Mathematics** | Shannon information linked directly to substrate lattice tension. |
-| **[[@CKS-META-3-2026]](papers/META/CKS-META-3-2026/)** | **The Universal Learning Substrate** | Navigation protocol for cross-domain derivation. |
+| **[[@CKS-DATA-2-2026]](papers/DATA/CKS-DATA-2-2026/)** | **Information as Physical Mathematics** | Shannon information linked directly to substrate lattice tension. |
 
 ---
 
@@ -279,6 +269,7 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-EDU-1-2026]](papers/EDU/CKS-EDU-1-2026/)** | **Unified Science Education via Substrate Derivation** | Complete curriculum derived from the two CKS axioms. |
+| **[[@CKS-EDU-3-2026]](papers/EDU/CKS-EDU-2-2026/)** | **The Universal Learning Substrate** | Navigation protocol for cross-domain derivation. |
 
 ---
 
@@ -288,6 +279,7 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-ART-1-2026]](papers/ART/CKS-ART-1-2026/)** | **Art** | Creative applications of substrate mechanics. |
+| **[[@CKS-ART-1-2026]](papers/ART/CKS-ART-1-2026/)** | **Narrative Mechanics** | Story structure as k-space phase-template for manifold evolution. |
 
 ---
 

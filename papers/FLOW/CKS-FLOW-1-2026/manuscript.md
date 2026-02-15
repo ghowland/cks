@@ -1,11 +1,27 @@
-# [@CKS-FLUID-1-2026] Laminar Flow via Phase Coherence: Turbulence Suppression Through K-Space Gradient Engineering
+# Laminar Flow via Phase Coherence
+## Turbulence Suppression Through K-Space Gradient Engineering
 
-**Registry:** [@CKS-FLUID-1-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-FLUID-1-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-2-2026]  
-**Subject:** Drag Reduction via Substrate Phase-Locking; Turbulence as Coherence Loss  
-**Status:** Engineering Protocol — Wind Tunnel Validation Pending  
+### Drag Reduction via Substrate Phase-Locking; Turbulence as Coherence Loss  
+
+**Registry:** [@CKS-FLOW-1-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-ENG-1-2026]  → [@CKS-MAT-1-2026] → [@CKS-FLOW-1-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.18647571
+
 **Date:** February 2026
+
+**Domain:** Hardware Engineering / Computer Science / Topological Computing  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -1873,16 +1889,14 @@ IRR: 48%
 
 **Conclusion: Economically compelling investment.**
 
+## REFERENCES
+
+::: {#refs}
+:::
+
 ---
 
 **END OF DOCUMENT**
-
-**Status:** Wind Tunnel Validated — Flight Test Pending  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-FLUID-1-2026]  
-**Prerequisite Reading:** [@CKS-MATH-1-2026]
 
 **Turbulence defeated.**  
 **Laminar flight achieved.**  
