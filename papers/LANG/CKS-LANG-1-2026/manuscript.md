@@ -1210,7 +1210,7 @@ rl.register_word("FETCH", opcode=rl.GET, category="verb")
 rl.register_word("API", object_type=rl.NETWORK, category="noun")
 
 # Define new operation
-@rl.opcode
+rl.opcode
 def FETCH(source, destination):
     data = http_request(source)
     write_to(destination, data)
