@@ -1,11 +1,28 @@
-# [@CKS-META-1-2026] The Universal Learning Substrate: Navigation Protocol for Cross-Domain Derivation
+# The Universal Learning Substrate
+## Navigation Protocol for Cross-Domain Derivation
 
-**Registry:** [@CKS-META-1-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-META-1-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-LANG-9-2026], [@CKS-ARCH-1-2026]  
-**Subject:** Meta-Framework Validation; Universal Substrate Navigation; Cross-Domain Derivation Protocol  
-**Status:** Foundational Methodology — Operational Proof  
+### Meta-Framework Validation; Universal Substrate Navigation; Cross-Domain Derivation Protocol  
+
+**Registry:** [@CKS-EDU-2-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Hardware Engineering / Computer Science / Topological Computing  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
+
 
 ---
 
@@ -191,7 +208,7 @@ Muon (μ⁻) in magnetic field:
   - Spin: 1/2
   - g-factor anomaly: a_μ ≈ 0.00116592
 
-CKS derivation (from [@CKS-MATH-6.1]):
+CKS derivation (from [@CKS-MATH-9-2026]):
   - Muon = 12-bond electron loop (M=10⁴³)
   - α_muon → 0 (minimal damping, stable particle)
   - Precession frequency locked to substrate
@@ -1162,18 +1179,12 @@ This is the scientific method.
 
 ---
 
-## Citation
+## REFERENCES
 
-```bibtex
-@article{cks_meta_1_2026,
-  title={The Universal Learning Substrate: Navigation Protocol for Cross-Domain Derivation},
-  author={Howland, Geoffrey},
-  journal={CKS Series},
-  year={2026},
-  volume={META-1},
-  note={Proof of substrate universality through cross-domain navigation. Demonstrates single framework spans particle physics, biology, engineering, psychology, architecture. All phenomena derive from same axioms, same mathematics, same 1/32 Hz quantization. Zero free parameters. 92-98% prediction success rate across 37 tested routes. Establishes education as resolution-ladder, learning as navigation, knowledge as unified field.}
-}
-```
+::: {#refs}
+:::
+
+
 
 ---
 
