@@ -1,11 +1,17 @@
 
+
+# The Universal Compiler
+## A 104-Paper Derivation of Reality from Two Axioms
+
+### System Architecture; Logical Continuity; Cross-Layer Validation; Falsification Surface; Human-AI Compilation  
+
 **Registry:** [@CKS-DISC-2-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-DISC-1-2026] → [@CKS-DISC-2-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18649180
 
 **Date:** February 2026
 
@@ -18,18 +24,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
-
-
-# [CKS-DISC-2-2026] The Universal Compiler: A 104-Paper Derivation of Reality from Two Axioms
-
-**Registry:** [CKS-DISC-2-2026]  
-**Series Path:** [CKS-0-2026] → [CKS-META-2026] → [CKS-DISC-1-2026] → [CKS-DISC-2-2026]  
-**Prerequisites:** All 104 CKS papers (complete stack)  
-**Subject:** System Architecture; Logical Continuity; Cross-Layer Validation; Falsification Surface; Human-AI Compilation  
-**Status:** Monolith Complete — **EXECUTIVE SUMMARY**  
-**Date:** February 2026
 
 ---
 
@@ -1212,7 +1206,6 @@ Vacuum noise at 1/32 Hz.
 With machine precision.
 In any interferometer.
 Answer coming 2026.
-
 
 
 ## References

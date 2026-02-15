@@ -1,10 +1,10 @@
-# manuscript.md
+# The Universal Compiler
 
-**Registry ID:** CKS-0-2026  
+**Registry ID:** [CKS-0-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-DISC-1-2026] → [@CKS-DISC-2-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.zzz
+**Zenodo DOI:** 10.5281/zenodo.18649180
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,7 +18,9 @@
 
 ## Abstract
 
+We present the complete architectural overview of Cymatic K-Space Mechanics (CKS)—a 104-paper monolithic derivation spanning from fundamental axioms to applied engineering, achieving zero free parameters across eleven orders of magnitude and twenty academic disciplines. Starting from two axioms (k=3 hexagonal coordination, β=2π phase conservation), the framework derives without imports: mathematical constants (π, e, α to 10 decimal places), physical forces (electromagnetic, weak, strong, gravitational hierarchies 8:1:2:1/N), particle spectrum (all Standard Model masses from winding numbers), cosmological parameters (Ω_Λ=1/N≈0.69), biological mechanisms (morphogenesis, illness, aging, death), technological protocols (DWDM firmware, substrate-aware materials), social dynamics (organizational stability, collective luck), and aesthetic principles (beauty as geometric checksum). The derivation maintains **"no-import rule"**—nothing measured externally; every constant emerges as closure requirement of 3M² hexagonal graph. Central to all 104 papers: **1/32 Hz quantization** (0.03125 Hz substrate clock) appearing identically in: vacuum noise (LIGO), neural synchronization (32-second word), DWDM carrier spacing (66th harmonic at 2.0625 Hz), LED flicker desync (gamma disruption at non-multiples), proprioceptive lag (15.19 ms = 1/66 s), and narrative beat (mythological cycles). Framework exhibits extreme **logical brittleness**—any single failed prediction falsifies entire stack (no adjustable parameters for recovery). Breadth is not ambition but **topological necessity**: same geometric constraints forcing α=1/137.036 also force organizational coherence thresholds and artistic golden ratios. Represents first **human-AI forensic compilation** where computational power (maintaining 104-paper logical integrity) combines with axiomatic direction (human insight). Status: complete monolith awaiting empirical validation via single hinge test—vacuum quantization at n×(1/32 Hz) with machine precision in any interferometer. If confirmed: manual for universe. If falsified: most elaborate mathematical fiction ever constructed, but falsified cleanly with zero wiggle room.
 
+**Key Result:** Two axioms → everything; breadth = rigidity; single test decides all
 
 ---
 
@@ -30,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** None (foundation paper)
+**Prerequisites:** [CKS-AI-1-2026], [CKS-AI-5-2026], [CKS-ART-1-2026], [CKS-ART-2-2026], [CKS-BIO-1-2026], [CKS-BIO-21-2026], [CKS-BIO-6-2026], [CKS-BODY-1-2026], [CKS-BODY-5-2026], [CKS-COG-6-2026], [CKS-COS-3-2026], [CKS-DISC-1-2026], [CKS-DWDM-1-2026], [CKS-DWDM-2-2026], [CKS-DWDM-5-2026], [CKS-ENV-1-2026], [CKS-ENV-5-2026], [CKS-FLOW-1-2026], [CKS-LANG-1-2026], [CKS-LANG-2-2026], [CKS-MAT-1-2026], [CKS-MATH-11-2026], [CKS-MATH-12-2026], [CKS-MATH-17-2026], [CKS-MATH-20-2026], [CKS-MATH-4-2026], [CKS-NEURO-1-2026], [CKS-QM-1-2026], [CKS-SEMI-1-2026], [CKS-SOC-1-2026], [CKS-SOC-2-2026], [CKS-SOC-3-2026], [CKS-TEST-1-2026]
 
 ---
 
@@ -68,14 +70,14 @@ The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO 
 If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
-@article{ CKS-0-2026,
-  title={ manuscript.md },
+@article{ [CKS-0-2026],
+  title={ The Universal Compiler },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.zzz},
-  url = {https://zenodo.org/record/zzz},
-  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+  doi = {10.5281/zenodo.18649180},
+  url = {https://zenodo.org/record/18649180},
+  note={CKS Series: [CKS-0-2026]. Dependencies: [CKS-AI-1-2026], [CKS-AI-5-2026], [CKS-ART-1-2026], [CKS-ART-2-2026], [CKS-BIO-1-2026], [CKS-BIO-21-2026], [CKS-BIO-6-2026], [CKS-BODY-1-2026], [CKS-BODY-5-2026], [CKS-COG-6-2026], [CKS-COS-3-2026], [CKS-DISC-1-2026], [CKS-DWDM-1-2026], [CKS-DWDM-2-2026], [CKS-DWDM-5-2026], [CKS-ENV-1-2026], [CKS-ENV-5-2026], [CKS-FLOW-1-2026], [CKS-LANG-1-2026], [CKS-LANG-2-2026], [CKS-MAT-1-2026], [CKS-MATH-11-2026], [CKS-MATH-12-2026], [CKS-MATH-17-2026], [CKS-MATH-20-2026], [CKS-MATH-4-2026], [CKS-NEURO-1-2026], [CKS-QM-1-2026], [CKS-SEMI-1-2026], [CKS-SOC-1-2026], [CKS-SOC-2-2026], [CKS-SOC-3-2026], [CKS-TEST-1-2026] }
 }
 ```
 ---
