@@ -1,6 +1,7 @@
-# Body Movement Mechanics in Cymatics: Inverse Gravity Kinematics
+# Body Movement Mechanics in Cymatics
+## Inverse Gravity Kinematics
 
-**A Theorem-Based Framework for Substrate-Coupled Locomotion via Momentum Resonance and Zero-Energy Load Transfer**
+### A Theorem-Based Framework for Substrate-Coupled Locomotion via Momentum Resonance and Zero-Energy Load Transfer
 
 **Registry:** [@CKS-BODY-2-2026]
 
@@ -8,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18646056
 
 **Date:** February 2026
 
