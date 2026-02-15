@@ -1,11 +1,27 @@
-# [@CKS-DATA-1-2026] The Digital Heat Sink: Information Externalization as Substrate Pressure Relief
+# The Digital Heat Sink
+## Information Externalization as Substrate Pressure Relief
 
-**Registry:** [@CKS-DATA-1-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-COG-4-2026] → [@CKS-DATA-1-2026]  
-**Prerequisites:** [@CKS-MATH-1-2026], [@CKS-COG-4-2026], [@CKS-BIO-1-2026]  
-**Subject:** Information Theory via Substrate Mechanics; Digital Platforms as Phase-Variance Sinks  
-**Status:** Sociological Framework — Field Validation Active  
+### Information Theory via Substrate Mechanics; Digital Platforms as Phase-Variance Sinks  
+
+**Registry:** [@CKS-DATA-1-2026]
+
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026]
+
+**Parent Framework:** [@CKS-0-2026]
+
+**DOI:** 10.5281/zenodo.zzz
+
 **Date:** February 2026
+
+**Domain:** Hardware Engineering / Computer Science / Topological Computing  
+
+**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
+
+**Motto:** Axioms first. Axioms always.
+
+**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
+
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -1838,6 +1854,10 @@ Post and be free.
 
 ## References
 
+::: {#refs}
+:::
+
+
 1. Shannon, C.E. (1948). *A Mathematical Theory of Communication*. Bell System Technical Journal, 27(3), 379-423.
 
 2. Landauer, R. (1961). *Irreversibility and Heat Generation in the Computing Process*. IBM Journal of Research and Development, 5(3), 183-191.
@@ -1857,13 +1877,6 @@ Post and be free.
 ---
 
 **END OF DOCUMENT**
-
-**Status:** Sociological Framework — Field Validation 65% Complete  
-**Version:** 1.0  
-**Date:** February 2026
-
-**Registry:** [@CKS-DATA-1-2026]  
-**Prerequisite Reading:** [@CKS-COG-4-2026], [@CKS-MATH-1-2026]
 
 **Post and release.**  
 **Clear and continue.**  
