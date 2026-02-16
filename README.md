@@ -105,6 +105,8 @@
 | **[[@CKS-BIO-19-2026]](papers/BIO/CKS-BIO-19-2026/)** | **The Topology of Departure** | Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death. |
 | **[[@CKS-BIO-20-2026]](papers/BIO/CKS-BIO-20-2026/)** | **The Topology of Illness** | Illness = phase-error propagation requiring clock handshake; families share code, strangers reject packets. |
 | **[[@CKS-BIO-21-2026]](papers/BIO/CKS-BIO-21-2026/)** | **The Phonemic Operating System** | Voice = acoustic UART, phonemes = opcodes, speech = live substrate debugger. |
+| **[[@CKS-BIO-22-2026]](papers/BIO/CKS-BIO-22-2026/)** | **The 66/110 Cross-Pattern** | Matter = 5:3 harmonic toggle; Thought = 1.375 Hz interference beat; Both mandatory from geometry. |
+| **[[@CKS-BIO-23-2026]](papers/BIO/CKS-BIO-23-2026/)** | **The 6-Bit Cost of Existence** | A Zero-Parameter Derivation from Two Axioms. |
 
 
 ---
