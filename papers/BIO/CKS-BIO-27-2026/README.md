@@ -1,10 +1,10 @@
-# The Asymmetry of the Boot Sequence
+# The Diagonal Dan Tien Handoff
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026] → [@CKS-BIO-23-2026] → [@CKS-BIO-24-2026] → [@CKS-BIO-25-2026] → [@CKS-BIO-26-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026] → [@CKS-BIO-23-2026] → [@CKS-BIO-24-2026] → [@CKS-BIO-25-2026] → [@CKS-BIO-26-2026] → [@CKS-BIO-27-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18654635
+**Zenodo DOI:** 10.5281/zenodo.18658192
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive mandatory left-hemisphere anchoring of labial stop "P" phoneme during sub-vocal P-T phonemic clocking in ascension protocol, proving asymmetry is not arbitrary preference but geometric necessity forced by start-bit addressing logic and topological torque requirements, with zero free parameters. Starting from practitioner observation that "P" consistently wants to anchor to left eye/hemisphere during protocol execution (universal report across independent practitioners suggesting substrate-level constraint not cultural artifact), prove this left-bias emerges from three simultaneous geometric requirements: (1) start-bit addressing (88-bit word requires fixed k-space address pointer, left hemisphere functions as primary identity registry storing 82-bit nucleus, "P" as LOAD instruction must fetch from this registry before execution possible, creating mandatory left-side pressure spike), (2) topological torque generation (3D existence requires 6-bit curvature twist creating non-zero angular momentum, flat manifold if P-T occur at same spatial coordinate yielding τ=0, hemispheric separation across corpus callosum provides spatial gradient ∇Φ enabling torque τ=r×(F_P-F_T) where hemisphere width supplies necessary lever arm), (3) harmonic mapping (P anchors to 66th harmonic f₆₆=2.0625 Hz representing information/memory state localized in left-hemisphere k-space decoder, T releases to 110th harmonic f₁₁₀=3.4375 Hz representing matter/render state localized in right-hemisphere x-space GPU, creating 5:3 ratio cross-pattern with 2.75 Hz carrier as arithmetic mean). Complete mechanism: P-instruction initiates boot sequence by reading 82-bit identity from left registry (sensation: pressure on left eye as k-space fetch occurs), T-instruction completes sequence by rendering loaded data to right spatial processor (sensation: release to right as x-space projection happens), 180° phase offset between P-T creates centripetal torque inflating 2D information sheet into 3D toroidal soliton (the "twist" giving consciousness thickness). Experimental signatures: practitioners report consistent left-bias for P across cultures/languages (universal substrate constraint), attempting to force P to right or center causes immediate coherence loss and protocol failure (addressing error), successful 144-bit transition shows characteristic P-T rotation around midline axis rather than side-hopping (vortex no longer "leaning" indicating saturation readiness). Falsification: if P-bias varies randomly across practitioners, or if forced symmetry works equally well, or if left/right distinction arbitrary, entire hemispheric model fails.
+We derive mandatory transition from serial phonemic clocking (mouth sub-vocalization) to parallel volumetric torque (diagonal Dan Tien rotation) as prerequisite for achieving perfect 16s/16s respiratory lock required for 144-bit ascension, proving diagonal handoff eliminates substrate interrupt interference enabling simultaneous dual-threaded processing with zero free parameters. Starting from observation that mouth P-T sub-vocalization at 2.75 Hz creates high-frequency noise interfering with 32-second word-gate breath synchronization (serial bottleneck where single neural bus shared between speech and respiration causing jitter σ ∝ f_PT/f_gate ≈ 88-fold interference preventing coherence threshold), derive solution: offload P-T binary clock from cranial serial processor to Dan Tien parallel volumetric resonator via diagonal mapping (P-LOAD anchors lower-left-posterior [-x,-y,-z], T-EXECUTE releases upper-right-anterior [+x,+y,+z], creating longest internal chord of hexagonal prism providing maximum geometric leverage for 6-bit curvature twist while occupying separate computational thread). Complete mechanism: diagonal vector V_d spans full 3D extent engaging all three axes simultaneously (x,y,z parallel processing vs. serial mouth single-axis), mouth silencing eliminates entropy reduction ΔS=k·ln(serial)-k·ln(parallel) freeing respiratory bus for perfect 0.03125 Hz word-gate lock (16s inhale/16s exhale without 2.75 Hz chopping interference), resulting dual-thread architecture where Thread-1 (vortex kernel) maintains 88-bit 2.75 Hz carrier independently while Thread-2 (respiration BIOS) achieves 32s universal synchronization, combined effect increases phase-density ρ approaching saturation S≈677.7 at 314% faster rate (100×π acceleration from noise elimination). Experimental signatures: practitioners report immediate breath stabilization upon diagonal handoff (jitter vanishes, depth increases, effort reduces), coherence measurements show flat-line at 1.44 level (above 88-bit 1.0 threshold indicating ascension readiness), attempting to maintain mouth P-T prevents 16s/16s achievement (demonstrating mandatory nature of handoff). Falsification: if mouth P-T works equally well, or if diagonal unnecessary, or if breath achievable without handoff, serial-parallel distinction fails entire framework.
 
-**Key Result:** P-left bias = mandatory from start-bit logic; provides topological torque; universal across practitioners
+**Key Result:** Diagonal handoff = mandatory for 16s/16s; eliminates serial interference; enables parallel processing; prerequisite for 144-bit
 
 ---
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-BIO-22-2026]
+**Prerequisites:** [CKS-HW-2026]
 
 ---
 
@@ -71,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Asymmetry of the Boot Sequence },
+  title={ The Diagonal Dan Tien Handoff },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18654635},
-  url = {https://zenodo.org/record/18654635},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-22-2026] }
+  doi = {10.5281/zenodo.18658192},
+  url = {https://zenodo.org/record/18658192},
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-HW-2026] }
 }
 ```
 ---
