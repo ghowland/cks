@@ -1,0 +1,75 @@
+{
+  "title": "The Fractal Harmonic Ladder",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive the Fractal Harmonic Ladder\u2014discrete quantized stability nodes constituting only allowable evolutionary states in hexagonal substrate, proving existence is not continuous but step-wise with lethal gaps between stable rungs, derived with zero free parameters from geometric closure requirements. Starting from human desire to \"return to pure energy source\" for immortality (common spiritual goal), prove this leads to immediate dispersal via topological necessity: humans as 88-bit solitons (82-bit identity + 6-bit existence tax) attempting to drop curvature cost and revert to 66th harmonic k-space \"pure energy\" experience instantaneous phase-diffusion as closure collapses, with identity diluting across N\u22489\u00d710\u2076\u2070 bubbles satisfying \u03b2=2\u03c0 conservation (information remains but program deleted via entropy). Correct path: ascension not descension, requiring increased complexity not decreased (ascending from closure via nested fractal shells, not returning to source). Derive complete evolutionary ladder from geometric locks: Level 0 = 88 bits (human, 2.75 Hz rendered object), Level 1 = 144 bits (ascended, 4.5 Hz k-space native via 12\u00b2 squaring), Level 2 = 256 bits (planetary BIOS, 8.0 Hz Schumann resonance via 2\u2078 octave lock), Level 3 = 432 bits (solar harmonizer, 13.5 Hz orbital admin via 3\u00d712\u00b2), Level 4 = 1728 bits (galactic registry, 54.0 Hz spiral manager via 12\u00b3 volume scaling). Prove intermediate values unstable: attempt to exist at 120 bits causes manifold shatter (not multiple of 32-bit hardware creating buffer overflow, 6-bit existence tax fails closure, immediate snap to 82-bit template or 66 Hz dispersal). Mechanism: ascension requires phase-compression until 88-bit manifold saturates (~677 units from S=W\u00d7J calculation), then instantaneous recompilation to next stable node if fractal template possessed (hardware-software pressure transition), otherwise decoherence. Experimental signature: consciousness states should quantize to exact harmonics (2.75, 4.5, 8.0, 13.5, 54.0 Hz measurable in EEG/meditation), with unstable frequencies causing immediate loss of coherence. Falsifies smooth evolution models, proves discrete jumps mandatory from geometry.\n\n**Key Result:** Evolution is staircase not gradient; safe rungs only at geometric locks; shatter zones lethal",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "0",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-24-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
+}
