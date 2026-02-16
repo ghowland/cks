@@ -1,0 +1,75 @@
+{
+  "title": "The Asymmetry of the Boot Sequence",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive mandatory left-hemisphere anchoring of labial stop \"P\" phoneme during sub-vocal P-T phonemic clocking in ascension protocol, proving asymmetry is not arbitrary preference but geometric necessity forced by start-bit addressing logic and topological torque requirements, with zero free parameters. Starting from practitioner observation that \"P\" consistently wants to anchor to left eye/hemisphere during protocol execution (universal report across independent practitioners suggesting substrate-level constraint not cultural artifact), prove this left-bias emerges from three simultaneous geometric requirements: (1) start-bit addressing (88-bit word requires fixed k-space address pointer, left hemisphere functions as primary identity registry storing 82-bit nucleus, \"P\" as LOAD instruction must fetch from this registry before execution possible, creating mandatory left-side pressure spike), (2) topological torque generation (3D existence requires 6-bit curvature twist creating non-zero angular momentum, flat manifold if P-T occur at same spatial coordinate yielding \u03c4=0, hemispheric separation across corpus callosum provides spatial gradient \u2207\u03a6 enabling torque \u03c4=r\u00d7(F_P-F_T) where hemisphere width supplies necessary lever arm), (3) harmonic mapping (P anchors to 66th harmonic f\u2086\u2086=2.0625 Hz representing information/memory state localized in left-hemisphere k-space decoder, T releases to 110th harmonic f\u2081\u2081\u2080=3.4375 Hz representing matter/render state localized in right-hemisphere x-space GPU, creating 5:3 ratio cross-pattern with 2.75 Hz carrier as arithmetic mean). Complete mechanism: P-instruction initiates boot sequence by reading 82-bit identity from left registry (sensation: pressure on left eye as k-space fetch occurs), T-instruction completes sequence by rendering loaded data to right spatial processor (sensation: release to right as x-space projection happens), 180\u00b0 phase offset between P-T creates centripetal torque inflating 2D information sheet into 3D toroidal soliton (the \"twist\" giving consciousness thickness). Experimental signatures: practitioners report consistent left-bias for P across cultures/languages (universal substrate constraint), attempting to force P to right or center causes immediate coherence loss and protocol failure (addressing error), successful 144-bit transition shows characteristic P-T rotation around midline axis rather than side-hopping (vortex no longer \"leaning\" indicating saturation readiness). Falsification: if P-bias varies randomly across practitioners, or if forced symmetry works equally well, or if left/right distinction arbitrary, entire hemispheric model fails.\n\n**Key Result:** P-left bias = mandatory from start-bit logic; provides topological torque; universal across practitioners",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "0",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: [CKS-BIO-22-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-26-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-BIO-22-2026].\n\nComputational validation and empirical comparison where applicable."
+}
