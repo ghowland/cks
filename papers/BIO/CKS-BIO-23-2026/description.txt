@@ -1,5 +1,10 @@
-zzz
+The 6-Bit Cost of Existence
 
+A Zero-Parameter Derivation from Two Axioms
+
+Existence Tax; Topological Inflation; Curvature Cost; 88-Bit Word; 2.75 Hz Carrier; Hexagonal Prism  
+
+We derive the mandatory 6-bit "existence tax"—the exact informational overhead required to transform 2D hexagonal k-space identity (82-bit flat template) into 3D x-space material existence (88-bit curved manifestation), proving this specific number emerges uniquely from topological closure requirements with zero free parameters.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 
