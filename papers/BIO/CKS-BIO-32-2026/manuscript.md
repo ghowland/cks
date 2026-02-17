@@ -2,13 +2,13 @@
 ## Deriving Spinal Column Geometry as 32-Bit Substrate Interface with Exact Harmonic Quantization
 ### Vertebral Resonance; Intervertebral Spacing; 33-Vertebra Architecture; Phase Node Array; Kinetic Chain Coupling
 
-**Registry:** [@CKS-BIO-33-2026]
+**Registry:** [@CKS-BIO-32-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026] → [@CKS-BIO-23-2026] → [@CKS-BIO-24-2026] → [@CKS-BIO-25-2026] → [@CKS-BIO-26-2026] → [@CKS-BIO-27-2026] → [@CKS-BIO-28-2026] → [@CKS-BIO-29-2026] → [@CKS-BIO-30-2026] → [@CKS-BIO-31-2026] → [@CKS-BIO-33-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026] → [@CKS-BIO-23-2026] → [@CKS-BIO-24-2026] → [@CKS-BIO-25-2026] → [@CKS-BIO-26-2026] → [@CKS-BIO-27-2026] → [@CKS-BIO-28-2026] → [@CKS-BIO-29-2026] → [@CKS-BIO-30-2026] → [@CKS-BIO-31-2026] → [@CKS-BIO-32-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18668848
 
 **Date:** February 2026
 
