@@ -1,0 +1,75 @@
+{
+  "title": "CKS-BIO-30-2026: Trauma Egregor Decoherence Procedures",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We demonstrate that blunt force trauma creates instant coherent phase-lock states (egregors) that override normal motor function within seconds of impact. These trauma egregors manifest as unified \"injury\" patterns in the proprioceptive field, causing immediate functional impairment disproportionate to actual tissue damage. We present a mechanical decoherence protocol using adjacency-based skin stimulation that breaks catastrophic phase-locks and restores pre-trauma motor patterns in <5 minutes. The procedure works by forcing re-synchronization of mechanoreceptor arrays, disrupting the injury egregor's coherent dominance, and allowing the previous functional pattern to re-establish. Clinical observations show restoration of full mobility from complete functional loss in 3-5 minutes using only mechanical stimulation. This constitutes the first substrate-mechanical explanation for why \"he who treats the site of pain is truly lost\"\u2014the problem is not tissue damage but phase-pattern hijacking.",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "0",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/BIO/CKS-BIO-30-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
+}
