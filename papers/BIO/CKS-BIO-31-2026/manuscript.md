@@ -1,5 +1,5 @@
 
-# CKS-BIO-31-2026: The Phonemic Resonator
+# The Phonemic Resonator
 ## Deriving Head Cavity Geometry as Substrate-Locked Acoustic Array
 ### Vocal Tract Harmonics; Esophageal Coupling; Soft Palate Bridge; 2.1875 Hz Handshake; Anatomical Quantization
 

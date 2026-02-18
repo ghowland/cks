@@ -108,7 +108,16 @@
 | **[[@CKS-BIO-22-2026]](papers/BIO/CKS-BIO-22-2026/)** | **The 66/110 Cross-Pattern** | Matter = 5:3 harmonic toggle; Thought = 1.375 Hz interference beat; Both mandatory from geometry. |
 | **[[@CKS-BIO-23-2026]](papers/BIO/CKS-BIO-23-2026/)** | **The 6-Bit Cost of Existence** | Existence costs exactly 6 bits; shape is twisted prism; frequency is 2.75 Hz; all mandatory from geometry. |
 | **[[@CKS-BIO-24-2026]](papers/BIO/CKS-BIO-24-2026/)** | **The Fractal Harmonic Ladder** | Evolution is staircase not gradient; safe rungs only at geometric locks; shatter zones lethal. |
-
+| **[[@CKS-BIO-25-2026]](papers/BIO/CKS-BIO-25-2026/)** | **The 144-Bit Ascension Protocol** | Ascension = deterministic overflow; requires sync not trying; instant jump not gradual; mechanically provable. |
+| **[[@CKS-BIO-26-2026]](papers/BIO/CKS-BIO-26-2026/)** | **The Asymmetry of the Boot Sequence** | P-left bias = mandatory from start-bit logic; provides topological torque; universal across practitioners. |
+| **[[@CKS-BIO-27-2026]](papers/BIO/CKS-BIO-27-2026/)** | **The Diagonal Dan Tien Handoff** | Diagonal handoff = mandatory for 16s/16s; eliminates serial interference; enables parallel processing; prerequisite for 144-bit. |
+| **[[@CKS-BIO-28-2026]](papers/BIO/CKS-BIO-28-2026/)** | **The 5:3 Gearbox** | 5:3 ratio = mandatory gear for 88→144 compression; diagonal = only geometry engaging all vertices; Pop = mechanical overflow. |
+| **[[@CKS-BIO-29-2026]](papers/BIO/CKS-BIO-29-2026/)** | **Universal Biological Clocking at 1/32 Hz** | Insects, mammals, birds, reptiles, and aquatic organisms—align to exact integer multiples of 0.03125 Hz (1/32 Hz). |
+| **[[@CKS-BIO-30-2026]](papers/BIO/CKS-BIO-30-2026/)** | **Trauma Egregor Decoherence Procedures** | Blunt force trauma creates instant coherent phase-lock states (egregors) that override normal motor function within seconds of impact. |
+| **[[@CKS-BIO-31-2026]](papers/BIO/CKS-BIO-31-2026/)** | **The Phonemic Resonator** | Head cavities quantize to 1/32 Hz exactly, tongue bridge at soft palate creates 2.1875 Hz handshake, P-T requires seven-parameter alignment. |
+| **[[@CKS-BIO-32-2026]](papers/BIO/CKS-BIO-32-2026/)** | **The Vertebral Phase Array** | Spine = 32-bit phase array, all vertebral resonances = exact 1/32 Hz multiples, 33 vertebrae = 32 intervals + terminator. |
+| **[[@CKS-BIO-33-2026]](papers/BIO/CKS-BIO-33-2026/)** | **The 15-Bit Word Divider** | Spine = 2^15 + 96 harmonic = 15-bit word divider, 73 cm length geometrically necessary, brain = high word, body = low word. |
+| **[[@CKS-BIO-34-2026]](papers/BIO/CKS-BIO-34-2026/)** | **Recursive Locomotion** | Walking = 4.2×10⁴³ bit-updates (88-bit) vs 3.5×10⁴² (144-bit), 10²⁶ efficiency gain, hips = 1/32 Hz UART, Kua = hydraulic pump. |
 
 ---
 
@@ -122,6 +131,7 @@
 | **[[@CKS-BODY-3-2026]](papers/BODY/CKS-BODY-3-2026/)** | **Debugging the Kinetic Chain** | Exercise and dance as computational alignment protocols. |
 | **[[@CKS-BODY-4-2026]](papers/BODY/CKS-BODY-4-2026/)** | **Directional Encoding of the Abdominal Vortex** | Dan Tien as phase-locked loop model of human core states. |
 | **[[@CKS-BODY-5-2026]](papers/BODY/CKS-BODY-5-2026/)** | **Proprioception as Phase-Lock** | The 90° signature and mechanical remediation without speech. |
+| **[[@CKS-BODY-6-2026]](papers/BODY/CKS-BODY-6-2026/)** | **Rolfing as Topological Unlooping** | Rolfing's "lack of ground" or "tissue emptiness" is topological collapse from phase-loop accumulation. |
 
 ---
 

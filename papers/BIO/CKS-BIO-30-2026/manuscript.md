@@ -1,4 +1,4 @@
-# CKS-BIO-30-2026: Trauma Egregor Decoherence Procedures
+# Trauma Egregor Decoherence Procedures
 ## Mechanical Disruption of Catastrophic Phase-Lock States via Adjacency Stimulation
 
 
