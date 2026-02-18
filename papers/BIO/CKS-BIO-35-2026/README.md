@@ -1,10 +1,10 @@
-# Recursive Locomotion
+# Jogging as Clock Entrainment
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026] → [@CKS-BIO-23-2026] → [@CKS-BIO-24-2026] → [@CKS-BIO-25-2026] → [@CKS-BIO-26-2026] → [@CKS-BIO-27-2026] → [@CKS-BIO-28-2026] → [@CKS-BIO-29-2026] → [@CKS-BIO-30-2026] → [@CKS-BIO-31-2026] → [@CKS-BIO-32-2026] → [@CKS-BIO-33-2026] → [@CKS-BIO-34-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-2-2026] → [@CKS-BIO-3-2026] → [@CKS-BIO-4-2026] → [@CKS-BIO-5-2026] → [@CKS-BIO-6-2026] → [@CKS-BIO-7-2026] → [@CKS-BIO-8-2026] → [@CKS-BIO-9-2026] → [@CKS-BIO-10-2026] → [@CKS-BIO-11-2026] → [@CKS-BIO-12-2026] → [@CKS-BIO-13-2026] → [@CKS-BIO-14-2026] → [@CKS-BIO-15-2026] → [@CKS-BIO-16-2026] → [@CKS-BIO-17-2026] → [@CKS-BIO-18-2026] → [@CKS-BIO-19-2026] → [@CKS-BIO-20-2026] → [@CKS-BIO-21-2026] → [@CKS-BIO-22-2026] → [@CKS-BIO-23-2026] → [@CKS-BIO-24-2026] → [@CKS-BIO-25-2026] → [@CKS-BIO-26-2026] → [@CKS-BIO-27-2026] → [@CKS-BIO-28-2026] → [@CKS-BIO-29-2026] → [@CKS-BIO-30-2026] → [@CKS-BIO-31-2026] → [@CKS-BIO-32-2026] → [@CKS-BIO-33-2026] → [@CKS-BIO-34-2026] → [@CKS-BIO-35-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18677211
+**Zenodo DOI:** 10.5281/zenodo.18678173
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive locomotion as massive parallel substrate re-addressing operation wherein a human (root 88-bit soliton containing 7×10²⁷ atomic 6-bit sub-solitons) executes recursive address updates across the 9×10⁶⁰ bubble lattice with total bit-load B ≈ 4.2×10²⁸. From CKS axioms we prove that a single 1-meter step requires H ≈ 10¹⁵ lattice hops (Compton-scale resolution), generating computational work W₈₈ = H·B/P where parallelism P = 1 (88-bit serial) yields 4.2×10⁴³ bit-update operations explaining physical inertia and fatigue as substrate processing latency. We demonstrate 144-bit ascension optimizes this via fractal block addressing (P = 12 fractal headers) reducing work to W₁₄₄ ≈ 3.5×10⁴² operations—efficiency gain ≈1.2×10²⁶ producing "weightless" locomotion. We derive hip mechanics across species as hardware UART (Universal Asynchronous Receiver-Transmitter) translating serial brain logic into parallel volumetric torque, proving 1/32 Hz ratio appears universally: humans (acetabular diameter / pelvic ring = phase-shift per step), quadrupeds (sacrum width / femur length = differential gear slip-factor), birds (synsacrum volume / wing amplitude = counter-torque anchor), cetaceans (pelvic remnant depth / fluke stroke = acoustic sync reference), reptiles (pubic-ischial width / S-curve wavelength = thermal accumulator). Kua (inguinal crease) functions as topological hinge enabling 5:3 gearbox engagement through tense-release pumping cycle at 2.75 Hz synchronized to 32-second word-gate breath. Complete derivation includes: soliton hierarchy (atoms→molecules→cells→organism), fetch-execute-update algorithm (lift→step→landing checksum), proprioceptive lag (τ ≈ 15.19 ms registry verification), and proof that "grace" = hip oscillation at exactly 1/32 the Dan Tien vortex frequency maintaining substrate phase-lock during address transitions.
+We derive jogging as rhythmic substrate entrainment protocol where ground impact generates global manifold interrupt forcing 7×10²⁷ atomic sub-solitons to synchronize phase-reset at 1/32 Hz word boundaries, transforming walking's low-impact incremental pointer-shift into high-throughput batch-update clearing accumulated cycle-slip errors from static existence. From CKS axioms we prove optimal jogging cadence = 2.75 Hz / 2 ≈ 1.375 Hz (82.5 steps/min) or 2× Nyquist at 2.75 Hz (165 steps/min) matching observed runner preference, with each footstrike creating phase-reset pulse propagating through nested soliton hierarchy at substrate wave velocity (v ≈ 1500 m/s tissue) completing body-wide synchronization within 0.5 ms << 15.19 ms proprioceptive lag window. "Runner's high" derives as flush of 4-bit Try-Catch buffer (bits 85-88) when rhythmic impact forces all sub-solitons to snap synchronously at word-gate boundaries—thousands of accumulated micro-misalignments suddenly cleared, freeing computational bandwidth creating euphoric sensation of "software-defined energy" independent of metabolic chemistry. We demonstrate jogging provides manifold hardening via increased bit-density-per-impact compared to walking: impact magnitude W ∝ (velocity)² generates stronger substrate coupling pulse, deeper k-space penetration, faster 88→144 bit preparation. Complete derivation includes: entrainment window calculation (optimal 160-170 BPM for 2.75 Hz carrier lock), breath-sync protocol (4 steps inhale + 4 steps exhale = 8-step cycle matching substrate byte structure), Kua-pumping mechanics during flight phase (impact loads compression, launch executes release), and proof that "spinning substrate under feet" via diagonal Dan Tien vortex creates perceived forward momentum without muscular effort when properly synchronized.
 
-**Key Result:** Walking = 4.2×10⁴³ bit-updates (88-bit) vs 3.5×10⁴² (144-bit), 10²⁶ efficiency gain, hips = 1/32 Hz UART, Kua = hydraulic pump
+**Key Result:** Jogging = batch phase-reset at 1.375 or 2.75 Hz, runner's high = buffer flush, 165 BPM = 2× carrier lock, impact = manifold hardening pulse
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Recursive Locomotion },
+  title={ Jogging as Clock Entrainment },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18677211},
-  url = {https://zenodo.org/record/18677211},
+  doi = {10.5281/zenodo.18678173},
+  url = {https://zenodo.org/record/18678173},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
