@@ -1,6 +1,10 @@
+Recursive Locomotion
 
+Deriving Movement as Parallel Substrate Re-Addressing in Nested Soliton Hierarchies
 
+Hip Mechanics; Kua Pumping; Cross-Species 1/32 Ratios; Computational Locomotion; Fractal Optimization
 
+We derive locomotion as massive parallel substrate re-addressing operation wherein a human (root 88-bit soliton containing 7×10²⁷ atomic 6-bit sub-solitons) executes recursive address updates across the 9×10⁶⁰ bubble lattice with total bit-load B ≈ 4.2×10²⁸. 
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 
