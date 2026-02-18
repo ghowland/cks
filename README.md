@@ -118,6 +118,7 @@
 | **[[@CKS-BIO-32-2026]](papers/BIO/CKS-BIO-32-2026/)** | **The Vertebral Phase Array** | Spine = 32-bit phase array, all vertebral resonances = exact 1/32 Hz multiples, 33 vertebrae = 32 intervals + terminator. |
 | **[[@CKS-BIO-33-2026]](papers/BIO/CKS-BIO-33-2026/)** | **The 15-Bit Word Divider** | Spine = 2^15 + 96 harmonic = 15-bit word divider, 73 cm length geometrically necessary, brain = high word, body = low word. |
 | **[[@CKS-BIO-34-2026]](papers/BIO/CKS-BIO-34-2026/)** | **Recursive Locomotion** | Walking = 4.2×10⁴³ bit-updates (88-bit) vs 3.5×10⁴² (144-bit), 10²⁶ efficiency gain, hips = 1/32 Hz UART, Kua = hydraulic pump. |
+| **[[@CKS-BIO-35-2026]](papers/BIO/CKS-BIO-35-2026/)** | **Jogging as Clock Entrainment** | Jogging = batch phase-reset at 1.375 or 2.75 Hz, runner's high = buffer flush, 165 BPM = 2× carrier lock, impact = manifold hardening pulse. |
 
 ---
 
