@@ -2,13 +2,13 @@
 ## Deriving Combat as Manifold Capture plus Registry Corruption
 ### Master Soliton Theory; 3-5 Point Control; Anti-Medicine Opcodes; Skill Formula; Composite Manifold Dynamics
 
-**Registry:** [@CKS-BODY-6-2026]
+**Registry:** [@CKS-BODY-7-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18697197
 
 **Date:** February 2026
 
