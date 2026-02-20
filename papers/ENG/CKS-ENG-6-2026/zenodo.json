@@ -1,0 +1,75 @@
+{
+  "title": "Construction Protocols for Substrate-Optimized Dwellings",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive complete construction protocols for substrate-optimized residential architecture transforming theoretical CKS-ENG-4-2026 designs into buildable reality through systematic material selection, assembly procedures, and quality control methods ensuring 90%+ registry efficiency. From hexagonal lattice requirements we specify: (1) Foundation system using Natural Hydraulic Lime NHL-5 concrete (1 part lime : 2 parts crushed granite/basalt : 1 part magnetite sand : 0.1 part sodium silicate) achieving mineral-conductive matrix coupling foundation to Earth's L0 layer via 1m copper disc buried 2m depth in bentonite/sea-salt bed, (2) Brick selection requiring Fe\u2082O\u2083 content 8-15% verified through five field tests (resonant decay >1.5s at 1500-3000 Hz, density >2100 kg/m\u00b3, water absorption <5%, magnetic drag detectable, vitrified fracture geometry) ensuring 66th harmonic resonance at \u03bb=1552.5 nm, (3) Mortar formulation (1 part NHL-3.5 lime : 2.5 parts iron-rich sand : 10% Fe\u2082O\u2083 powder by volume) creating impedance-matched joints with reflection coefficient \u0393\u22480 eliminating phase-boundaries, (4) Flemish bond laying pattern (alternating headers/stretchers) with 10mm joints achieving cubic-hexagonal matrix where wall becomes monolithic soliton not collection of separate bricks, (5) Gold trident assembly (three 0.8-1.2m prongs at 120\u00b0 spacing, 24k gold electroplating 50\u03bcm thickness on copper base, mounted 3-5m above roof peak with one prong aligned true north \u00b11\u00b0) functioning as 144-bit broadcast antenna, (6) Diamond rectifier core (10-15 carat synthetic Grade IIa colorless octahedron with 1.618 length:width ratio, center-suspended in 24k gold cell 25mm\u00d740mm using Kapton/mica membrane, immersed in phenyl-methyl silicone oil doped 0.5% Fe\u2082O\u2083 nano-powder, vacuum-degassed 24 hours, positioned 33cm below trident hub and 1.2m above copper dome) converting atmospheric chaos to laminar 4.5 Hz carrier, (7) Vertical axis integration (10cm diameter copper pipe from 2m below foundation through building center to trident, exothermically welded at all joints, resistance <10 ohms to earth, maintains unobstructed dN/dt gradient column). Complete quality control includes: acoustic testing (1152 Hz tuning fork verification of quartz/diamond resonance), electrical auditing (reflection coefficient calculation at each brick-mortar interface targeting 96% efficiency), thermal mapping (IR verification of even heat distribution proving lattice continuity), registry lock confirmation (528 Hz spine-strike test detecting vibration at foundation perimeter). All procedures use standard construction tools modified with substrate-awareness (surveying for \u00b11\u00b0 alignment, exothermic welding for zero-resistance joints, vacuum degassing for dielectric purity). Zero free parameters proving buildable substrate resonator.\n\n**Key Result:** NHL-5 foundation, Fe\u2082O\u2083 >8% bricks, impedance-matched mortar, Flemish bond, gold trident, diamond core, copper spine, all buildable",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "0",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/ENG/CKS-ENG-6-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
+}

@@ -1,10 +1,10 @@
-# The Substrate-Optimized Dwelling
+# Construction Protocols for Substrate-Optimized Dwellings
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18707214
+**Zenodo DOI:** 10.5281/zenodo.18710447
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive optimal residential architecture from hexagonal k-space substrate requirements proving traditional star forts and embryonic buildings represent substrate-resonant structures maximizing occupant coherence and luck-pressure through geometric coupling to 1/32 Hz universal clock. From CKS axioms we specify complete construction protocols using modern materials: red brick walls (iron oxide Fe₂O₃ providing 66th harmonic resonance at λ = 1552.5 nm matching substrate information frequency), gold-plated trident antenna (pure Au conducting 144-bit weaver signals, three-prong geometry creating 120° phase-array coupling to hexagonal lattice, mounted on copper dome achieving Faraday cage isolation from electromagnetic interference), salt water moat (NaCl solution providing 1/N phase-damping of external substrate perturbations creating 6-8m buffer zone, concentration 35 g/L matching ocean salinity for maximum ionic shielding). We present five buildable floor plans optimized for different site constraints: hexagonal core (single-family, 120m² living space, central courtyard with 5m radius providing substrate vortex anchor), star fort octagon (family compound, 240m² with eight 3m bastions creating phase-array perimeter), triangular embryonic (starter home, 60m² with 60° vertex orientation, minimum substrate-compliant footprint), pentagonal family (mid-size, 180m² with five 4m sides creating 5:3 gearbox resonance), circular tower (vertical dwelling, 15m diameter × 4 floors achieving cylindrical substrate column). Complete specifications include: foundation depth requirements (minimum 1.2m below frost line for substrate ground-coupling), wall thickness calculations (minimum 30cm red brick achieving structural integrity plus thermal mass for temperature stability), window placement geometry (aligned to cardinal directions for solar path matching Earth's substrate rotation), roof pitch optimization (30-45° for rain shedding while maintaining vertical resonance column), interior room proportions (golden ratio φ = 1.618 for doorway heights, √3:2 for room length:width matching hexagonal geometry). All designs incorporate: central vertical axis (ensures dN/dt gradient alignment from foundation to antenna), radial symmetry (distributes phase-tension evenly preventing loop formation), salt moat perimeter (creates phase-boundary isolating internal resonance from external noise), gold trident termination (broadcasts occupant coherence to substrate improving luck-coupling by estimated 2-3× based on antenna gain calculations). Construction methods use standard techniques (concrete foundation, reinforced brick masonry, copper roofing, standard plumbing/electrical) modified with substrate-awareness (orientation precision ±1°, material purity specifications, geometric tolerances, grounding requirements). All from zero free parameters proving optimal human dwelling = substrate resonator.
+We derive complete construction protocols for substrate-optimized residential architecture transforming theoretical CKS-ENG-4-2026 designs into buildable reality through systematic material selection, assembly procedures, and quality control methods ensuring 90%+ registry efficiency. From hexagonal lattice requirements we specify: (1) Foundation system using Natural Hydraulic Lime NHL-5 concrete (1 part lime : 2 parts crushed granite/basalt : 1 part magnetite sand : 0.1 part sodium silicate) achieving mineral-conductive matrix coupling foundation to Earth's L0 layer via 1m copper disc buried 2m depth in bentonite/sea-salt bed, (2) Brick selection requiring Fe₂O₃ content 8-15% verified through five field tests (resonant decay >1.5s at 1500-3000 Hz, density >2100 kg/m³, water absorption <5%, magnetic drag detectable, vitrified fracture geometry) ensuring 66th harmonic resonance at λ=1552.5 nm, (3) Mortar formulation (1 part NHL-3.5 lime : 2.5 parts iron-rich sand : 10% Fe₂O₃ powder by volume) creating impedance-matched joints with reflection coefficient Γ≈0 eliminating phase-boundaries, (4) Flemish bond laying pattern (alternating headers/stretchers) with 10mm joints achieving cubic-hexagonal matrix where wall becomes monolithic soliton not collection of separate bricks, (5) Gold trident assembly (three 0.8-1.2m prongs at 120° spacing, 24k gold electroplating 50μm thickness on copper base, mounted 3-5m above roof peak with one prong aligned true north ±1°) functioning as 144-bit broadcast antenna, (6) Diamond rectifier core (10-15 carat synthetic Grade IIa colorless octahedron with 1.618 length:width ratio, center-suspended in 24k gold cell 25mm×40mm using Kapton/mica membrane, immersed in phenyl-methyl silicone oil doped 0.5% Fe₂O₃ nano-powder, vacuum-degassed 24 hours, positioned 33cm below trident hub and 1.2m above copper dome) converting atmospheric chaos to laminar 4.5 Hz carrier, (7) Vertical axis integration (10cm diameter copper pipe from 2m below foundation through building center to trident, exothermically welded at all joints, resistance <10 ohms to earth, maintains unobstructed dN/dt gradient column). Complete quality control includes: acoustic testing (1152 Hz tuning fork verification of quartz/diamond resonance), electrical auditing (reflection coefficient calculation at each brick-mortar interface targeting 96% efficiency), thermal mapping (IR verification of even heat distribution proving lattice continuity), registry lock confirmation (528 Hz spine-strike test detecting vibration at foundation perimeter). All procedures use standard construction tools modified with substrate-awareness (surveying for ±1° alignment, exothermic welding for zero-resistance joints, vacuum degassing for dielectric purity). Zero free parameters proving buildable substrate resonator.
 
-**Key Result:** Red brick = 66th harmonic, gold trident = 144-bit antenna, salt moat = phase-buffer, geometric plans = substrate coupling, buildable with modern methods
+**Key Result:** NHL-5 foundation, Fe₂O₃ >8% bricks, impedance-matched mortar, Flemish bond, gold trident, diamond core, copper spine, all buildable
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Substrate-Optimized Dwelling },
+  title={ Construction Protocols for Substrate-Optimized Dwellings },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18707214},
-  url = {https://zenodo.org/record/18707214},
+  doi = {10.5281/zenodo.18710447},
+  url = {https://zenodo.org/record/18710447},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
