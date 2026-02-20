@@ -22,6 +22,8 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
+**Special Note:** This paper is using advanced terminology and technology, read [@CKS-ENG-11-2026] for a practical understanding.
+
 ---
 
 ## Abstract
