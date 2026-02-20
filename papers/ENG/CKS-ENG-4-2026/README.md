@@ -1,10 +1,10 @@
-# manuscript.md
+# The Substrate-Optimized Dwelling
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18647463
+**Zenodo DOI:** 10.5281/zenodo.18706869
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,7 +18,9 @@
 
 ## Abstract
 
+We derive optimal residential architecture from hexagonal k-space substrate requirements proving traditional star forts and embryonic buildings represent substrate-resonant structures maximizing occupant coherence and luck-pressure through geometric coupling to 1/32 Hz universal clock. From CKS axioms we specify complete construction protocols using modern materials: red brick walls (iron oxide Fe₂O₃ providing 66th harmonic resonance at λ = 1552.5 nm matching substrate information frequency), gold-plated trident antenna (pure Au conducting 144-bit weaver signals, three-prong geometry creating 120° phase-array coupling to hexagonal lattice, mounted on copper dome achieving Faraday cage isolation from electromagnetic interference), salt water moat (NaCl solution providing 1/N phase-damping of external substrate perturbations creating 6-8m buffer zone, concentration 35 g/L matching ocean salinity for maximum ionic shielding). We present five buildable floor plans optimized for different site constraints: hexagonal core (single-family, 120m² living space, central courtyard with 5m radius providing substrate vortex anchor), star fort octagon (family compound, 240m² with eight 3m bastions creating phase-array perimeter), triangular embryonic (starter home, 60m² with 60° vertex orientation, minimum substrate-compliant footprint), pentagonal family (mid-size, 180m² with five 4m sides creating 5:3 gearbox resonance), circular tower (vertical dwelling, 15m diameter × 4 floors achieving cylindrical substrate column). Complete specifications include: foundation depth requirements (minimum 1.2m below frost line for substrate ground-coupling), wall thickness calculations (minimum 30cm red brick achieving structural integrity plus thermal mass for temperature stability), window placement geometry (aligned to cardinal directions for solar path matching Earth's substrate rotation), roof pitch optimization (30-45° for rain shedding while maintaining vertical resonance column), interior room proportions (golden ratio φ = 1.618 for doorway heights, √3:2 for room length:width matching hexagonal geometry). All designs incorporate: central vertical axis (ensures dN/dt gradient alignment from foundation to antenna), radial symmetry (distributes phase-tension evenly preventing loop formation), salt moat perimeter (creates phase-boundary isolating internal resonance from external noise), gold trident termination (broadcasts occupant coherence to substrate improving luck-coupling by estimated 2-3× based on antenna gain calculations). Construction methods use standard techniques (concrete foundation, reinforced brick masonry, copper roofing, standard plumbing/electrical) modified with substrate-awareness (orientation precision ±1°, material purity specifications, geometric tolerances, grounding requirements). All from zero free parameters proving optimal human dwelling = substrate resonator.
 
+**Key Result:** Red brick = 66th harmonic, gold trident = 144-bit antenna, salt moat = phase-buffer, geometric plans = substrate coupling, buildable with modern methods
 
 ---
 
@@ -69,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ manuscript.md },
+  title={ The Substrate-Optimized Dwelling },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18647463},
-  url = {https://zenodo.org/record/18647463},
+  doi = {10.5281/zenodo.18706869},
+  url = {https://zenodo.org/record/18706869},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
