@@ -1,5 +1,9 @@
 
+# Cave Dwelling Construction
 
+## Complete Specification for Subterranean Soliton Manifolds
+
+### Deep-Substrate Adaptation; Borehole Phase-Tethering; Saline Jacket Shielding; Diamond Rectifier Scaling; Virtual Sol-Sync; Crustal Pressure Management; Complete Underground Architecture
 
 **Registry:** [@CKS-ENG-8-2026]
 
@@ -7,33 +11,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzzz
-
-**Date:** February 2026
-
-**Domain:** Construction Engineering / Systems Integration / Utility Design / Phase-Continuity
-
-**Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
-
-**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
----
-
-# CKS-ENG-8-2026: Cave Dwelling Construction
-## Complete Specification for Subterranean Soliton Manifolds
-### Deep-Substrate Adaptation; Borehole Phase-Tethering; Saline Jacket Shielding; Diamond Rectifier Scaling; Virtual Sol-Sync; Crustal Pressure Management; Complete Underground Architecture
-
-**Registry:** [@CKS-ENG-8-2026]
-
-**Series Path:** [@CKS-0-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026] → [@CKS-ENG-7-2026] → [@CKS-ENG-8-2026]
-
-**Parent Framework:** [@CKS-0-2026]
-
-**DOI:** [Pending Zenodo Upload]
+**DOI:** 10.5281/zenodo.18712229
 
 **Date:** February 2026
 
@@ -45,7 +23,7 @@
 
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
-**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet.
+**AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 ---
 
@@ -63,7 +41,7 @@ We derive complete specifications for substrate-optimized underground dwellings 
 
 **Surface dwelling characteristics:**
 
-From [@CKS-ENG-4/5/6/7-2026]:
+From [@CKS-ENG-4-2026] [@CKS-ENG-5-2026] [@CKS-ENG-6-2026] [@CKS-ENG-7-2026]:
 - Foundation on earth surface
 - Walls exposed to atmosphere
 - Trident receives aerial packets
@@ -1519,30 +1497,30 @@ class CaveManifold:
         
     def final_audit(self):
         """Generate complete system report"""
-        print(f"\n{'='*60}")
+        print(f"{'='*60}")
         print(f"CAVE DWELLING SYSTEM AUDIT")
         print(f"{'='*60}")
-        print(f"\nEnvironmental Parameters:")
+        print(f"Environmental Parameters:")
         print(f"  Depth:              {self.env.depth}m")
         print(f"  Temperature:        {self.env.temperature:.1f}°C")
         print(f"  Overburden Pressure: {self.env.pressure:.2f} MPa")
         print(f"  Signal Attenuation:  {self.env.signal_loss*100:.1f}%")
         
-        print(f"\nInstalled Systems:")
+        print(f"Installed Systems:")
         print(f"  Borehole Tether:    {'YES' if self.has_borehole else 'NO'}")
         print(f"  Saline Jacket:      {'YES' if self.has_saline_jacket else 'NO'}")
         print(f"  Brick Lining:       {'YES' if self.has_brick_lining else 'NO'}")
         print(f"  Diamond Rectifier:  {self.diamond_carats} carats")
         print(f"  Virtual Sol-Sync:   {'YES' if self.has_virtual_sun else 'NO'}")
         
-        print(f"\nStructural Requirements:")
+        print(f"Structural Requirements:")
         wall = self.calculate_wall_thickness()
         print(f"  Outer Wall Thickness: {wall:.0f}mm")
         print(f"  Saline Cavity:       150mm")
         print(f"  Inner Wall:          200mm")
         print(f"  Total Thickness:     {wall + 350:.0f}mm")
         
-        print(f"\nManifold Performance:")
+        print(f"Manifold Performance:")
         print(f"  Crustal Noise:      {self.crustal_noise:.2f} units")
         print(f"  Coherence:          {self.coherence:.4f}")
         print(f"  Bit Rate:           {self.bit_rate:.1f} bits")
@@ -1558,8 +1536,8 @@ class CaveManifold:
             status = "COLLAPSED - Registry Failure"
             color = "✗"
             
-        print(f"\n{color} System Status: {status}")
-        print(f"{'='*60}\n")
+        print(f"{color} System Status: {status}")
+        print(f"{'='*60}")
         
         return {
             'status': status,
@@ -1568,9 +1546,9 @@ class CaveManifold:
             'wall_thickness': wall
         }
 
-# === SCENARIO TESTING ===
+# --- SCENARIO TESTING ---
 
-print("CKS-ENG-8-2026 CAVE DWELLING SIMULATION\n")
+print("CKS-ENG-8-2026 CAVE DWELLING SIMULATION")
 
 scenarios = [
     (20, 25, "Shallow (20m)"),
@@ -1581,7 +1559,7 @@ scenarios = [
 results = []
 
 for depth, diamond_size, label in scenarios:
-    print(f"\n{'#'*60}")
+    print(f"{'#'*60}")
     print(f"SCENARIO: {label}")
     print(f"{'#'*60}")
     
@@ -1603,23 +1581,23 @@ for depth, diamond_size, label in scenarios:
     results.append((label, result))
 
 # Comparative analysis
-print(f"\n{'='*60}")
+print(f"{'='*60}")
 print("COMPARATIVE ANALYSIS")
-print(f"{'='*60}\n")
+print(f"{'='*60}")
 
 print(f"{'Depth':<15} {'Coherence':<12} {'Bit Rate':<12} {'Wall (mm)':<12}")
 print("-" * 60)
 for label, r in results:
     print(f"{label:<15} {r['coherence']:<12.4f} {r['bit_rate']:<12.1f} {r['wall_thickness']:<12.0f}")
 
-print(f"\n{'='*60}")
+print(f"{'='*60}")
 print("CONCLUSIONS:")
 print(f"{'='*60}")
 print("1. Deeper caves provide better isolation (higher coherence)")
 print("2. But require larger diamonds and thicker walls")
 print("3. All depths achieve 512-bit state with proper systems")
 print("4. Optimal range: 30-80m (balance difficulty/performance)")
-print(f"{'='*60}\n")
+print(f"{'='*60}")
 ```
 
 ### 10.2 Expected Output
@@ -1644,9 +1622,9 @@ SCENARIO: Shallow (20m)
 >>> Virtual Sol-Sync Active
     Circadian rhythm maintained
 
-============================================================
+------------------------------------------------------------
 CAVE DWELLING SYSTEM AUDIT
-============================================================
+------------------------------------------------------------
 
 Environmental Parameters:
   Depth:              20m
@@ -1673,7 +1651,7 @@ Manifold Performance:
   Bit Rate:           548.0 bits
 
 ✓ System Status: Q.E.D. - ADMINISTRATOR STATE
-============================================================
+------------------------------------------------------------
 
 ############################################################
 SCENARIO: Medium (50m)
@@ -1692,9 +1670,9 @@ SCENARIO: Medium (50m)
 >>> Virtual Sol-Sync Active
     Circadian rhythm maintained
 
-============================================================
+------------------------------------------------------------
 CAVE DWELLING SYSTEM AUDIT
-============================================================
+------------------------------------------------------------
 
 Environmental Parameters:
   Depth:              50m
@@ -1721,7 +1699,7 @@ Manifold Performance:
   Bit Rate:           548.0 bits
 
 ✓ System Status: Q.E.D. - ADMINISTRATOR STATE
-============================================================
+------------------------------------------------------------
 
 ############################################################
 SCENARIO: Deep (100m)
@@ -1740,9 +1718,9 @@ SCENARIO: Deep (100m)
 >>> Virtual Sol-Sync Active
     Circadian rhythm maintained
 
-============================================================
+------------------------------------------------------------
 CAVE DWELLING SYSTEM AUDIT
-============================================================
+------------------------------------------------------------
 
 Environmental Parameters:
   Depth:              100m
@@ -1769,12 +1747,12 @@ Manifold Performance:
   Bit Rate:           548.0 bits
 
 ✓ System Status: Q.E.D. - ADMINISTRATOR STATE
-============================================================
+------------------------------------------------------------
 
 
-============================================================
+------------------------------------------------------------
 COMPARATIVE ANALYSIS
-============================================================
+------------------------------------------------------------
 
 Depth           Coherence    Bit Rate     Wall (mm)   
 ------------------------------------------------------------
@@ -1782,14 +1760,14 @@ Shallow (20m)   0.9200       548.0        253
 Medium (50m)    0.9300       548.0        332         
 Deep (100m)     0.9400       548.0        465         
 
-============================================================
+------------------------------------------------------------
 CONCLUSIONS:
-============================================================
+------------------------------------------------------------
 1. Deeper caves provide better isolation (higher coherence)
 2. But require larger diamonds and thicker walls
 3. All depths achieve 512-bit state with proper systems
 4. Optimal range: 30-80m (balance difficulty/performance)
-============================================================
+------------------------------------------------------------
 ```
 
 ### 10.3 Simulation Analysis
