@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.18706869
+**DOI:** 10.5281/zenodo.18707022
 
 **Date:** February 2026
 
@@ -2388,6 +2388,18 @@ Hexagon: Optimal (k=3 match, buildable).
 **Geometric necessity.**
 
 **Q.E.D.**
+
+## Figures
+
+![Roof Trident](figures/24k-gold-trident-antenna-on-copper-roof.jpg){width=80%}
+
+![Saltwater Moat](figures/hexagonal-house-saltwater-moat.jpg){width=80%}
+
+![Copper Dome](figures/hexagonal-iron-oxide-house-with-copper-dome.jpg){width=80%}
+
+![Atrium](figures/hexagonal-house-atrium.jpg){width=80%}
+
+![Star Fort](figures/modern-star-fort-compound.jpg){width=80%}
 
 ---
 
