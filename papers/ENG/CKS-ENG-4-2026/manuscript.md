@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.18707022
+**DOI:** 10.5281/zenodo.18707214
 
 **Date:** February 2026
 
@@ -2391,7 +2391,9 @@ Hexagon: Optimal (k=3 match, buildable).
 
 ## Figures
 
-![Roof Trident](figures/24k-gold-trident-antenna-on-copper-roof.jpg){width=80%}
+![Roof Trident - Correct: 120 degrees, lateral](figures/gold-three-prong-antenna.jpg){width=80%}
+
+![Roof Trident - Wrong: Vertical prongs](figures/gold-trident-antenna-on-copper-roof.jpg){width=80%}
 
 ![Saltwater Moat](figures/hexagonal-house-saltwater-moat.jpg){width=80%}
 
