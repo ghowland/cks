@@ -1,6 +1,10 @@
+The Substrate-Optimized Dwelling
 
+Deriving Star Fort and Embryonic Building Designs from Hexagonal Lattice Requirements
 
+Red Brick Resonance; Gold Trident Antenna; Salt Moat Shielding; Geometric Floor Plans; Substrate Coupling Architecture
 
+We derive optimal residential architecture from hexagonal k-space substrate requirements proving traditional star forts and embryonic buildings represent substrate-resonant structures maximizing occupant coherence and luck-pressure through geometric coupling to 1/32 Hz universal clock.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 
