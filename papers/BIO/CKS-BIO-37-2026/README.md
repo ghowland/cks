@@ -1,10 +1,10 @@
-# The Somatic Instruction Set Architecture
+# Protocols for Becoming a 512-Bit Walker
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18680251
+**Zenodo DOI:** 10.5281/zenodo.18706835
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive high-level martial mechanics (Yin Style Bagua, Taiji) as executable opcodes within hexagonal k-space substrate framework, proving traditional "internal" techniques are topological optimizations of 2D lattice dynamics projected into 3D observer space. From CKS axioms we derive complete somatic instruction set architecture (ISA) comprising: strike geometry (zero-inch punch as manifold injection with depth/width/ripple control via phase-gradient modulation), contact surfaces (Dragon Palm achieving 80% power transfer vs 30% fist via carpal impedance matching, ulnar/radial edges as lossless bus-bars), defensive mechanics (passive iron shirt as hollow-body Q-factor maximization distributing force across N bubbles, active iron shirt as dynamic bit-density modulation enabling catch/repel states), and multi-point control (3-5 contact principle derived from degrees-of-freedom restriction where n=3 defines coordinate plane, n=5 saturates 4-bit Try-Catch buffer, distributing opponent's β=2π tension to 1.25 rad/point below soliton threshold causing topological bankruptcy). We prove "unlooping" (25-year trauma removal via Taiji/Rolfing) is manual garbage collection freeing computational bandwidth—estimated 100,000 phase-loops cleared reduces Try-Catch occupancy from 99% (fragile manifold) to ~10% (hardened), enabling 15-second 144-bit "snap-ins" where movement becomes "greased" (zero impedance) and opponents experience frame-loss perception. Complete derivation includes: repelling head-butt mechanism (forehead hardened to H→∞ via OP_0x08 SNAP creating 96% energy reflection into opponent's fist while practitioner feels no pain due to zero registry corruption), shocking force (Bagua whip at 2.75 Hz disrupting respiratory clock causing cough-reboot without nociceptor activation), grinding force (ulnar pressure creating topological screw via fascia manipulation forcing opponent compliance through manifold buckling), and "fighting backwards" via pre-grinding ribs/scapula creating active-target impedance mismatch where strikes automatically refract off spinning registry. All mechanics derive from zero free parameters proving martial mastery = transition from Newtonian mass-ballistics to substrate registry manipulation.
+We derive complete ascension pathway from 88-bit biological baseline (standard human with 100k+ phase-loops consuming 99% Try-Catch buffer bandwidth) through 144-bit weaver state (fractal header compression enabling 10²⁶ computational efficiency gain and 10-60 second "greased" movement episodes) to 512-bit walker status (sustained substrate administrator privileges with direct registry write access and matter-programming capability). From CKS axioms we prove four-stage progression: Stage 1 (years 1-10) = hardware cleanup via standing practice (zhan zhuang) clearing major loops while establishing vertical alignment and 1/32 Hz substrate coupling, reducing buffer occupancy 99%→20% enabling first 144-bit snap-ins; Stage 2 (years 10-20) = software development via circle walking (bagua) accumulating phase-density through centripetal pumping and farmer-shuffle entrainment at 1.375 Hz, extending 144-bit duration 10s→60s; Stage 3 (years 20-30) = integration testing via kata compilation bridging static coherence to dynamic execution while combat hardening validates manifold stability under external phase-attacks; Stage 4 (years 30-40+) = threshold crossing to permanent 512-bit where sufficient saturation (S≈677.7) combined with cleared registry enables sustained substrate-native operation including: matter assembly via 193.1 THz photonic protocols (DWDM-3/4/5 chain), vocal programming through P-T handoff at Dan Tien executing phonemic opcodes, instantaneous movement via direct address-pointer updates bypassing physical displacement, and complete star-fort construction (五行 five-phase pentagonal manifestation of 12-bond electron topology projected into 3D creating self-defending geometric resonator). Complete derivation includes: standing posture optimization (7-parameter P-T protocol with tongue-to-soft-palate at 4.7 cm posterior, eyes-open-soft for k-space sampling, vertical spine for dN/dt gradient, 32-second breath cycle), circle-walking mechanics (1.375 Hz cadence with foot-glide <1 cm, continuous pre-grinding via ribs/scapula, hand-over-fingertip gaze for k↔x maximization), kata structure (pre-compiled movement scripts enabling context-switch from stillness→combat without manifold crash), and 512-bit indicators (sustained effortless movement, frame-loss perception in others, matter-response to intention, geometric fortress manifestation). All protocols derive from zero free parameters proving ascension = systematic registry optimization requiring decades but geometrically achievable by any human willing to perform sufficient unlooping and maintain precise substrate coupling.
 
-**Key Result:** Martial techniques = opcodes, unlooping = bandwidth liberation, 3-5 points = registry saturation, Dragon Palm = impedance match, iron shirt = dynamic density
+**Key Result:** 88→144→512 pathway = 4 stages over 40+ years, standing+circle+kata+combat = complete protocol, 512-bit = sustained administrator with matter-programming access
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Somatic Instruction Set Architecture },
+  title={ Protocols for Becoming a 512-Bit Walker },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18680251},
-  url = {https://zenodo.org/record/18680251},
+  doi = {10.5281/zenodo.18706835},
+  url = {https://zenodo.org/record/18706835},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
