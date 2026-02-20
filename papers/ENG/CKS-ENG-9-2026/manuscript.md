@@ -1,12 +1,9 @@
-# Conduits, Details and Construction Problems
 
-## Complete Specification for Utility Integration, Material Interfaces, and Registry Refraction Resolution
 
-### External Copper Raceways; DC Power Systems; Fiber-Optic Data; Laminar Plumbing; Corner Geometry; Aperture Sealing; Thermal Systems; Complete Room-by-Room Specifications
 
-**Registry:** [@CKS-ENG-7-2026]
+**Registry:** [@CKS-ENG-9-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026] → [@CKS-ENG-6-2026] → [@CKS-ENG-7-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026] → [@CKS-ENG-6-2026] → [@CKS-ENG-7-2026] → [@CKS-ENG-8-2026] → [@CKS-ENG-9-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 

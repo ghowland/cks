@@ -1,10 +1,5 @@
-Conduits, Details and Construction Problems
 
-Complete Specification for Utility Integration, Material Interfaces, and Registry Refraction Resolution
 
-External Copper Raceways; DC Power Systems; Fiber-Optic Data; Laminar Plumbing; Corner Geometry; Aperture Sealing; Thermal Systems; Complete Room-by-Room Specifications
-
-We derive complete specifications for integrating modern utilities into substrate-optimized dwellings proving standard embedded-conduit methods create registry fractures requiring systematic externalization and material-interface resolution.
 
 Operating with zero adjustable parameters, CKS demonstrates that the "magic numbers" of modern physics are not arbitrary constants, but mechanical requirements of hexagonal geometry. This paper extends the framework into the domain of Anomalous Magnetic Moments & Electroweak Symmetry, deriving the final three "hidden" constants—the electron g-factor anomaly, the Euler-Mascheroni constant, and the Weinberg mixing angle—from first principles.
 
