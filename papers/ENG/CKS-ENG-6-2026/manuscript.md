@@ -10,7 +10,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18711063
 
 **Date:** February 2026
 
@@ -2107,6 +2107,11 @@ Lesson: No element truly "minor"
 **Q.E.D.**
 
 ---
+
+
+## Figures
+
+![Copper Vortex Inducer](figures/copper-vortex-inducer.jpg){width=80%}
 
 ## References
 

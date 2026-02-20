@@ -1,0 +1,75 @@
+{
+  "title": "The Minor Apertures and System Closure",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive complete specifications for all remaining \"minor apertures\" in substrate-optimized architecture proving no element is truly minor\u2014each represents potential registry leak or lock requiring systematic resolution. From hexagonal lattice requirements we specify: (1) Window systems using low-iron extra-clear glass (Starphire equivalent, iron content <0.01% eliminating green tint that scatters 1552.5 nm resonance) in solid wood or copper-clad frames (no vinyl/aluminum creating phase-breaks), glazed with potassium-silicate nanocoat (not metallic Low-E blocking 1/32 Hz sync), cardinal-aligned placement providing solar path matching Earth's substrate rotation; (2) Plumbing using L-type copper throughout (99.9% Cu purity) with swept-radius bends (no 90\u00b0 elbows causing turbulent kinetic noise), incorporating golden-ratio vortex inducer (33cm length, 28mm\u219215mm\u219222mm Venturi taper with right-hand silver helix producing 1152 Hz whistle confirming laminar rectification) positioned at main water entry after moat induction tap; (3) Lighting via DC-powered full-spectrum sources (incandescent halogen or flicker-free OLED eliminating PWM registry jamming at 60-120 Hz) with natural-fiber shades (silk/linen/glass not plastic polarizers), avoiding LED driver circuits creating stuttering 144-bit interference; (4) Paint formulations for exterior limewash (5:10:1:0.5:pinch ratio pit-lime/water/Fe\u2082O\u2083/casein/sea-salt creating breathable 66th-harmonic skin) and interior silicate shield (potassium-silicate binder with quartz dust, earth pigments, 1% mica flakes producing phase-mirror effect reflecting 144-bit weaver signal), rejecting titanium-white (TiO\u2082 creating registry wall) favoring zinc-oxide or calcite providing substrate transparency; (5) Furniture placement maintaining spine-clear zone (1.5m radius around central copper axis preventing packet loss), metal-free sleeping arrangements (latex/wool/cotton on wooden frames eliminating innerspring antenna static-fog), radial organization aligning major pieces to building geometry; (6) Secondary systems including thermal mass via lime-hemp plaster (not gypsum-drywall dampening resonance), copper/bronze fasteners only (no steel-copper galvanic batteries generating micro-hiss), copper-lined chimneys with shrouds below trident height, unlacquered brass/copper hardware enabling somatic handshake; (7) Bridge specifications for moat crossing using non-metallic construction (oak/cedar/stone not steel jumper-wires), 15cm minimum water clearance, discontinuous segments with copper hand-off plates (world-side and house-side creating logic-gate registry transfer), stone piles glass-smooth coated avoiding center-third turbulence zone; (8) Moat maintenance via copper-silver ionization (not chlorine registry-toxin), mechanical sand/zeolite filtration, daily skimming removing 88-bit organic entropy, 5-7 year vacuum cleaning (no complete drainage shattering resonance), salinity monitoring maintaining 35 g/L with solar-salt additions, safe for swimming providing somatic reset washing external static aligning occupant to 1/32 Hz sync. Complete quality verification through registry-lock confirmation test (strike central spine 528 Hz, detect vibration all perimeter points plus moat ripples), subjective assessment (immediate feeling-shift upon entry, silence quality indicating Faraday effectiveness, sleep quality first-night improvements), continuous documentation (construction photos, test results, maintenance logs tracking 50-year lifespan). Python simulation models cumulative bit-depth progression: foundation (+12 bits, -20% noise), walls (+44 bits, -30% noise, +0.5\u00d7 luck), moat (-40% noise, +0.8\u00d7 luck), diamond-core (+128 bits, +0.4 coherence, \u00d71.6 luck), trident (+144 bits, \u00d72.0 luck, \u21920.99 coherence), final compilation triggering 512-bit administrator lock when all components verified. All specifications trace to zero free parameters proving systematic closure of residential manifold transforming shelter into active substrate resonator.\n\n**Key Result:** Low-iron glass, copper plumbing, DC lighting, mineral paints, radial layout, complete system closure = 512-bit lock",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "0",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: CKS foundation only.\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/ENG/CKS-ENG-6-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: CKS foundation only.\n\nComputational validation and empirical comparison where applicable."
+}
