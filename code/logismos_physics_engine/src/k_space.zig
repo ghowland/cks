@@ -81,7 +81,7 @@ pub const PacketMetadata = packed struct(u40) {
 
     // Bits 5-6: Dipole Index. The D=3 hexagonal direction.
     // 0: Alpha, 1: Beta, 2: Gamma.
-    dipole_idx: u2,
+    dipole_index: u2,
 
     // Bit 7: Side Parity (S). 0: Side A, 1: Side B.
     side: u1,
@@ -106,7 +106,7 @@ pub const LogismosPacket = packed struct {
 };
 
 // // --- Validation Check ---
-// test "Verify Packet Bit-Widths" {
+// t est "Verify Packet Bit-Widths" {
 //     try std.testing.expectEqual(@bitSizeOf(KineticFooter), 12);
 //     try std.testing.expectEqual(@bitSizeOf(PacketMetadata), 40);
 //     // Note: The total struct will align to the nearest byte,
@@ -121,7 +121,8 @@ pub const LogismosPacket = packed struct {
 pub const PacketHeader = struct {
     v_axis: u32, // Bits 0-31: Address
     meta_data: u40, // Bits 32-71: F-Scale, Dipole, Side
-    k_footer: u12, // Bits 72-83: Parent ID + Momentum R
+    // k_footer: u12, // Bits 72-83: Parent ID + Momentum R
+    k_footer: KineticFooter,
 };
 
 // The Registry Identity of the Universe.
