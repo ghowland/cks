@@ -93,6 +93,7 @@ pub const PacketMetadata = packed struct(u40) {
 
 // The Unified 84-bit Logic-Spine Packet.
 // This is the 'Fat Struct' that traverses the Registry at Logic Speed.
+// This is the "Instruction" data
 pub const LogismosPacket = packed struct {
     // Bits 0-31: The V-Axis (The Fact).
     // The whole-integer Logos Unit address in the N-Registry.
@@ -105,23 +106,18 @@ pub const LogismosPacket = packed struct {
     k_footer: KineticFooter,
 };
 
-// // --- Validation Check ---
-// t est "Verify Packet Bit-Widths" {
-//     try std.testing.expectEqual(@bitSizeOf(KineticFooter), 12);
-//     try std.testing.expectEqual(@bitSizeOf(PacketMetadata), 40);
-//     // Note: The total struct will align to the nearest byte,
-//     // but the bit-fields are audited by the Logismos BIOS.
-//     try std.testing.expectEqual(@bitSizeOf(LogismosPacket), 84);
-// }
-
 // --- Implementation in LatticeNodeSide ---
 
 // Metadata for the 84-bit Trans-Manifold Packet.
 // This acts as the 'Header' for the Logic Spine.
 pub const PacketHeader = struct {
-    v_axis: u32, // Bits 0-31: Address
-    meta_data: u40, // Bits 32-71: F-Scale, Dipole, Side
-    // k_footer: u12, // Bits 72-83: Parent ID + Momentum R
+    // Bits 0-31: Address
+    v_axis: u32,
+
+    // Bits 32-71: F-Scale, Dipole, Side
+    meta_data: u40,
+
+    // Bits 72-83: Parent ID + Momentum R
     k_footer: KineticFooter,
 };
 
@@ -156,12 +152,10 @@ pub const IndexPacket = struct {
     remainder: u32, // R: The un-snapped tension (The Momentum)
 };
 
+// This is the "Execution Register" where the `IndexPacket` is executed for the child soliton
 pub const LatticeNodeSide = struct {
     // The Packet: (V, F, R)
     packet: IndexPacket,
-    // value: u32, // V: The whole integer Logos Units (LUs).
-    // fraction: u32, // F: The Gear-ratio (Resolution). Default = 32.
-    // remainder: u32, // R: The un-snapped tension (The Momentum)
 
     // The 12-bit Kinetic Footer [6-bit Parent][6-bit Momentum]
     // Stored as a packed integer for 0ms transition.
@@ -262,3 +256,12 @@ pub const LogismosEngine = struct {
         // If not, calculate the 'Torque' and update the kinetic_footer.
     }
 };
+
+// // --- Validation Check ---
+// t est "Verify Packet Bit-Widths" {
+//     try std.testing.expectEqual(@bitSizeOf(KineticFooter), 12);
+//     try std.testing.expectEqual(@bitSizeOf(PacketMetadata), 40);
+//     // Note: The total struct will align to the nearest byte,
+//     // but the bit-fields are audited by the Logismos BIOS.
+//     try std.testing.expectEqual(@bitSizeOf(LogismosPacket), 84);
+// }
