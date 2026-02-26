@@ -211,13 +211,6 @@ pub const Soliton = struct {
     nodes: []LatticeNode, // The occupied hex-plates.
     parent: ?*Soliton, // The Hierarchical Owner (null only for N=1).
     category: SolitonDensityCategory,
-
-    // Soliton Density Categories:
-    // Atom: 10^3 LU
-    // Cell: 10^6 LU
-    // Heart: 10^12 LU
-    // Self: 10^15 LU
-    // Walker: 10^30+ LU (Can execute JMP_REG)
 };
 
 // The K-Space Logic Opcodes (ISA).
