@@ -121,17 +121,6 @@ pub const PacketHeader = struct {
     k_footer: KineticFooter,
 };
 
-// The Registry Identity of the Universe.
-// The N-Count is the only global monotonic variable.
-pub const N_Registry = struct {
-    ticks: u64, // The total runtime since N=1.
-
-    // Global Registry Audit: Every N-tick requires a full J*S verification.
-    pub fn audit(self: *N_Registry) void {
-        self.ticks += 1; // N <- N + 1
-    }
-};
-
 // The fundamental Addressable Unit (The Hex-Plate).
 // Aligned to 32-bit boundaries to match the Registry Spine.
 pub const LatticeNode = struct {
@@ -363,6 +352,16 @@ pub const Opcodes = struct {
     }
 };
 
+// The Registry Identity of the Universe. The N-Count is the only global monotonic variable.
+pub const N_Registry = struct {
+    ticks: u64, // The total runtime since N=1.
+
+    // Global Registry Audit: Every N-tick requires a full J*S verification before rendering (15.19ms).
+    pub fn audit(self: *N_Registry) void {
+        self.ticks += 1; // N <- N + 1
+    }
+};
+
 // The K-Space Engine Controller.
 // This runs the Logic Speed (cL) loop. No X-Space code allowed here.
 pub const LogismosEngine = struct {
@@ -376,8 +375,8 @@ pub const LogismosEngine = struct {
         };
     }
 
-    /// THE HEARTBEAT OF TRUTH (K-Space Engine Loop)
-    /// This executes at Logic Speed (cL).
+    // THE HEARTBEAT OF TRUTH (K-Space Engine Loop)
+    // This executes at Logic Speed (cL).
     pub fn step(self: *LogismosEngine, soliton: *Soliton) void {
         // 1. Monotonic Registry Increment (N <- N + 1)
         self.registry.audit();
@@ -422,8 +421,8 @@ pub const LogismosEngine = struct {
         self.renderToXSpace(soliton);
     }
 
-    /// Performs the RAID 1 Parity Check across the manifold.
-    /// Returns true if the node achieved integer closure (Snap).
+    // Performs the RAID 1 Parity Check across the manifold.
+    // Returns true if the node achieved integer closure (Snap).
     pub fn auditBilateralParity(self: *LogismosEngine, node: *LatticeNode) bool {
         _ = self;
         const side_a = &node.sides[0];
@@ -450,8 +449,8 @@ pub const LogismosEngine = struct {
         return false;
     }
 
-    /// Stub for the X-Space Rendering Pipeline.
-    /// This is where the 15.19ms lag is applied to the human display.
+    // Stub for the X-Space Rendering Pipeline.
+    // This is where the 15.19ms lag is applied to the human display.
     fn renderToXSpace(self: *LogismosEngine, soliton: *Soliton) void {
         _ = self;
         _ = soliton;
