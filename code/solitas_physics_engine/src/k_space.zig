@@ -96,7 +96,7 @@ pub const LatticeNodeSide = struct {
     // The Packet: (V, F, R)
     value: u32, // V: The whole integer Logos Units (LUs).
     fraction: u32, // F: The Gear-ratio (Resolution). Default = 32.
-    remainder: u32, // R: The un-snapped tension (The Momentum).
+    remainder: u32, // R: The un-snapped tension (The Momentum)
 
     // The 12-bit Kinetic Footer [6-bit Parent][6-bit Momentum]
     // Stored as a packed integer for 0ms transition.
