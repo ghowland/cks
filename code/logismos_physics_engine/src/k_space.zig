@@ -1,16 +1,5 @@
 const std = @import("std");
 
-// The Hierarchy of Soliton Complexity.
-// Values represent the magnitude of Logos Units (LU) required for stability.
-pub const SolitonDensityCategory = enum(i32) {
-    None = -1, // Unallocated address
-    Atom = 3, // 10^3 LU: The base Matter-Packet
-    Cell = 6, // 10^6 LU: The Instruction-Set Buffer
-    Heart = 12, // 10^12 LU: The Vital Bridge / Clock Sync
-    Self = 15, // 10^15 LU: The Integrated Identity
-    Walker = 30, // 10^30+ LU: The Substrate Administrator (JMP capable)
-};
-
 // Registry Management Opcodes (0x00 - 0x0F)
 // Instructions for the Absolute Monotonic N-Counter.
 pub const RegistryOpcode = enum(i32) {
@@ -213,8 +202,9 @@ pub const Soliton = struct {
     id: u64,
     category: SolitonDensityCategory,
     // The collection of 'Lex Bricks' that make up the soliton body
-    nodes: []LatticeNode,
-    parent: ?*Soliton,
+    nodes: []LatticeNode = &.{},
+    parent: ?*Soliton = null,
+    children: std.array_list.Managed(*Soliton), // The Registry List
 
     // THE RAID 1 CONTROLLER: The Soliton iterates through its own mesh to verify bilateral integrity.
     pub fn verifyInternalParity(self: *Soliton) void {
@@ -401,26 +391,50 @@ pub const N_Registry = struct {
     }
 };
 
+// The Hierarchy of Soliton Complexity.
+// Values represent the magnitude of Logos Units (LU) required for stability.
+pub const SolitonDensityCategory = enum(i32) {
+    None = -1, // Unallocated address
+    Lex = 0, // 10^0 LU: 1 Lex
+    Atom = 3, // 10^3 LU: The base Matter-Packet
+    Cell = 6, // 10^6 LU: The Instruction-Set Buffer
+    Heart = 12, // 10^12 LU: The Vital Bridge / Clock Sync
+    Self = 15, // 10^15 LU: The Integrated Identity
+    Walker = 30, // 10^30+ LU: The Substrate Administrator (JMP capable)
+    KVerse = 60, // 10^60+ LU
+};
+
 // The K-Space Engine Controller.
 // This runs the Logic Speed (cL) loop. No X-Space code allowed here.
 pub const LogismosEngine = struct {
     allocator: std.mem.Allocator,
     registry: N_Registry,
+    soliton_n1: Soliton,
 
     pub fn init(allocator: std.mem.Allocator) LogismosEngine {
         return .{
             .allocator = allocator,
             .registry = .{ .ticks = 0 },
+            // Always Start with N=1 Lex.  It is always present
+            .soliton_n1 = .{
+                .id = 0,
+                .category = .KVerse,
+                .parent = null, // N=1
+                .children = std.array_list.Managed(*Soliton).init(allocator),
+            },
         };
     }
 
     // THE HEARTBEAT OF TRUTH (K-Space Engine Loop)
     // This executes at Logic Speed (cL).
-    pub fn step(self: *LogismosEngine, soliton: *Soliton) void {
+    pub fn step(self: *LogismosEngine) void {
         // 1. Monotonic Registry Increment (N <- N + 1)
         self.registry.audit();
 
-        for (solitons) |soliton| {
+        // Check our own parity, because this is N=1
+        self.soliton_n1.verifyInternalParity();
+
+        for (self.soliton_n1.children) |soliton| {
             // 1. THE SOLITON AUDITS ITSELF (RAID 1)
             // The object 'Checks' if its Side A and Side B are in sync.
             soliton.verifyInternalParity();
@@ -432,7 +446,7 @@ pub const LogismosEngine = struct {
         }
 
         // 8. RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
-        self.renderToXSpace(soliton);
+        self.renderToXSpace(self.soliton);
     }
 
     // Stub for the X-Space Rendering Pipeline.  This is where the 15.19ms lag is applied to the human display.
