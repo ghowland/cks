@@ -159,7 +159,6 @@ pub const LatticeNodeSide = struct {
 
     // The 12-bit Kinetic Footer [6-bit Parent][6-bit Momentum]
     // Stored as a packed integer for 0ms transition.
-    // Using the packed bit-field for the footer
     kinetic_footer: KineticFooter,
 
     // The UV Cut-off: M=144.
@@ -213,6 +212,8 @@ pub const Opcodes = struct {
     // Opcode 0xAB: Locomotion (Serial Re-indexing).
     // Moves a packet to an adjacent node by deleting the old and writing the new.
     pub fn inc_addr(node: *LatticeNode, target_dir: u2) void {
+        _ = node;
+        _ = target_dir;
         // 1. Audit Current R (Momentum).
         // 2. Perform the Pivot.
         // 3. Commit to Adjacent[target_dir].
@@ -249,6 +250,7 @@ pub const LogismosEngine = struct {
     // The Heartbeat of Truth.
     // Performs the RAID 1 Parity Check across the manifold.
     pub fn step(self: *LogismosEngine, soliton: *Soliton) void {
+        _ = soliton;
         self.registry.audit(); // N <- N + 1
 
         // Internal K-Space Logic:
