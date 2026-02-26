@@ -210,10 +210,49 @@ pub const LatticeNodeSide = struct {
 // A High-Density Information Packet (Biological, Physical, or Cognitive).
 // A Soliton is a 'Persistent Address' that survives the N-tick.
 pub const Soliton = struct {
-    id: u64, // The specific address in the N-Registry.
-    nodes: []LatticeNode, // The occupied hex-plates.
-    parent: ?*Soliton, // The Hierarchical Owner (null only for N=1).
+    id: u64,
     category: SolitonDensityCategory,
+    // The collection of 'Lex Bricks' that make up the soliton body
+    nodes: []LatticeNode,
+    parent: ?*Soliton,
+
+    // THE RAID 1 CONTROLLER: The Soliton iterates through its own mesh to verify bilateral integrity.
+    pub fn verifyInternalParity(self: *Soliton) void {
+        for (self.nodes) |*node| {
+            const side_a = &node.sides[0];
+            const side_b = &node.sides[1];
+
+            // RAID 1 Check: Verify that Side A (Code) matches Side B (Render)
+            const total_r = side_a.packet.remainder + side_b.packet.remainder;
+            const common_f = side_a.packet.fraction;
+
+            // The 'Snap' logic is now a Soliton-level executive decision.
+            if (total_r >= common_f) {
+                const snaps = total_r / common_f;
+
+                // Double-Signed Commit
+                side_a.packet.value += snaps;
+                side_b.packet.value += snaps;
+
+                // Clear Tension
+                side_a.packet.remainder = total_r % common_f;
+                side_b.packet.remainder = total_r % common_f;
+
+                // Update 12-bit Kinetic Footer: R is cleared, motion is resolved
+                side_a.kinetic_footer.momentum_r = 0;
+                side_b.kinetic_footer.momentum_r = 0;
+            } else {
+                // Parity not reached: Friction is written to the 12-bit Liaison
+                // This 'Torque' will be processed by the Engine during the next step.
+                const momentum: u6 = @intCast(@min(total_r, 63));
+                side_a.kinetic_footer.momentum_r = momentum;
+                side_b.kinetic_footer.momentum_r = momentum;
+            }
+
+            // 7. UV SATURATION AUDIT (Navier-Stokes/Turbulence)
+            Opcodes.vent_saturation(node); //TODO: Is this k-verse activity and not Soliton?
+        }
+    }
 };
 
 // The K-Space Logic Opcodes (ISA).
@@ -381,65 +420,19 @@ pub const LogismosEngine = struct {
         // 1. Monotonic Registry Increment (N <- N + 1)
         self.registry.audit();
 
-        // 2. AUDIT LOOP: Iterate over every node in the soliton registry
-        for (soliton.nodes) |*node| {
+        for (solitons) |soliton| {
+            // 1. THE SOLITON AUDITS ITSELF (RAID 1)
+            // The object 'Checks' if its Side A and Side B are in sync.
+            soliton.verifyInternalParity();
 
-            // 3. BILATERAL PARITY CHECK (RAID 1 Verification): Checks if Side A and Side B sum to a stable word
-            const is_coherent = self.auditBilateralParity(node);
-
-            if (!is_coherent) {
-                // 4. KINETIC TORQUE CALCULATION
-                // If not coherent, the Remainder (R) creates Registry Tension.  We update the 6-bit momentum_r in the 12-bit footer.  This forces the 'Move' at the next N-tick
-                const total_r = node.sides[0].packet.remainder + node.sides[1].packet.remainder;
-
-                // Update the Kinetic Footer: Momentum = Sum(R) clipped to u6
-                node.sides[0].kinetic_footer.momentum_r = @intCast(@min(total_r, 63));
-                node.sides[1].kinetic_footer.momentum_r = @intCast(@min(total_r, 63));
-
-                // 5. AUTO-LOCOMOTION (Sequential Re-indexing): If momentum is high, we trigger an INC_ADDR to a neighbor dipole
-                if (node.sides[0].kinetic_footer.momentum_r > 31) {
-                    // Logic: Follow the Dipole Index in Metadata to the next node
-                    // Opcodes.inc_addr(node, 0); // Example: Pivot to Alpha
-                }
-            } else {
-                // 6. STABILITY LOCK: If coherent, R has been flushed to V. Momentum is reset
-                node.sides[0].kinetic_footer.momentum_r = 0;
-                node.sides[1].kinetic_footer.momentum_r = 0;
-            }
-
-            // 7. UV SATURATION AUDIT (Navier-Stokes/Turbulence)
-            Opcodes.vent_saturation(node);
+            // 2. KINETIC PROCESSING
+            // After verification, the engine applies locomotion based on
+            // the resulting Momentum R in the 12-bit footers.
+            self.applyRegistryKinematics(soliton);
         }
 
         // 8. RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
         self.renderToXSpace(soliton);
-    }
-
-    // Performs the RAID 1 Parity Check across the manifold.  Returns true if the node achieved integer closure (Snap).
-    pub fn auditBilateralParity(self: *LogismosEngine, node: *LatticeNode) bool {
-        _ = self;
-        const side_a = &node.sides[0];
-        const side_b = &node.sides[1];
-
-        const total_r = side_a.packet.remainder + side_b.packet.remainder;
-        const common_f = side_a.packet.fraction;
-
-        // SUCCESS: The combined remainders close a Word
-        if (total_r >= common_f) {
-            const snaps = total_r / common_f;
-
-            // Committing the Fact (V) to both sides of the mirror
-            side_a.packet.value += snaps;
-            side_b.packet.value += snaps;
-
-            // Clearing the Tension
-            side_a.packet.remainder = total_r % common_f;
-            side_b.packet.remainder = total_r % common_f;
-
-            return true;
-        }
-
-        return false;
     }
 
     // Stub for the X-Space Rendering Pipeline.  This is where the 15.19ms lag is applied to the human display.
@@ -448,6 +441,18 @@ pub const LogismosEngine = struct {
         _ = soliton;
         // Instruction: Take the (V, F, R) sums and project as Bilateral Standing Waves.
         // This will be implemented in the 'X-Verse' project.
+    }
+
+    fn applyRegistryKinematics(self: *LogismosEngine, soliton: *Soliton) void {
+        _ = self;
+        for (soliton.nodes) |*node| {
+            // If the Soliton's audit left a high remainder in the footer, move it.
+            if (node.sides[0].kinetic_footer.momentum_r > 31) {
+                // Opcode 0x11: INC_ADDR
+                // Moves the 'Lex Brick' to the next hex-plate address
+                // Opcodes.inc_addr(node, node.sides[0].meta_data.dipole_index);
+            }
+        }
     }
 };
 
