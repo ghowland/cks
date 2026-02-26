@@ -88,7 +88,7 @@ pub const LatticeNode = struct {
     sides: [2]LatticeNodeSide,
 
     // Axiom 1: 3-Dipole Coordination.
-    // These are the hardware pointers to neighbor nodes.
+    // These are the hardware pointers to neighbor nodes
     adjacents: [3]?*LatticeNode, // 0=Alpha, 1=Beta, 2=Gamma
 };
 
