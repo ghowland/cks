@@ -167,33 +167,37 @@ pub const LatticeNodeSide = struct {
 
     // The Substrate Logic: Check for Modulo-32 Stability.
     pub fn isCoherent(self: LatticeNodeSide) bool {
-        return (self.value % 32 == 0) and (self.remainder == 0);
+        return (self.value % 32 == 0) and (self.packet.remainder == 0);
     }
 
     // Executes a Logismos Opcode on this node side.
     pub fn execute(self: *LatticeNodeSide, op: i32) void {
         const opcode: RegistryOpcode = @enumFromInt(op);
         switch (opcode) {
-            .RESET_R => self.remainder = 0,
-            .SNAP_COMMIT => {
-                if (self.remainder >= self.fraction) {
-                    self.value += (self.remainder / self.fraction);
-                    self.remainder = self.remainder % self.fraction;
-                }
-            },
+            .RESET_R => self.packet.remainder = 0,
+            .SNAP_COMMIT => self.snapCommit(),
             else => {},
         }
-    }
-
-    pub fn executeHalt(self: *LatticeNodeSide) void {
-        // Clearing the 6-bit momentum_r to 0 forces an instant stop
-        self.kinetic_footer.momentum_r = 0;
-        self.remainder = 0;
     }
 
     pub fn setParent(self: *LatticeNodeSide, p_id: u6) void {
         // Assigns this node to a Parent Soliton
         self.kinetic_footer.parent_id = p_id;
+    }
+
+    // Opcode: SNAP_COMMIT (Logic to commit R -> V)
+    pub fn snapCommit(self: *LatticeNodeSide) void {
+        if (self.packet.remainder >= self.packet.fraction) {
+            const snaps = self.packet.remainder / self.packet.fraction;
+            self.packet.value += snaps;
+            self.packet.remainder = self.packet.remainder % self.packet.fraction;
+        }
+    }
+
+    // Opcode: HALT (Clear tension and momentum)
+    pub fn halt(self: *LatticeNodeSide) void {
+        self.packet.remainder = 0;
+        self.kinetic_footer.momentum_r = 0;
     }
 };
 
