@@ -92,8 +92,16 @@ pub const LatticeNode = struct {
     adjacents: [3]?*LatticeNode, // 0=Alpha, 1=Beta, 2=Gamma
 };
 
+pub const SolitonParentIndexPacket = struct {
+    // The Packet: (V, F, R)
+    value: u32, // V: The whole integer Logos Units (LUs).
+    fraction: u32, // F: The Gear-ratio (Resolution). Default = 32.
+    remainder: u32, // R: The un-snapped tension (The Momentum)
+};
+
 pub const LatticeNodeSide = struct {
     // The Packet: (V, F, R)
+    packet: SolitonParentIndexPacket,
     value: u32, // V: The whole integer Logos Units (LUs).
     fraction: u32, // F: The Gear-ratio (Resolution). Default = 32.
     remainder: u32, // R: The un-snapped tension (The Momentum)
