@@ -199,6 +199,23 @@ pub const LatticeNodeSide = struct {
         self.packet.remainder = 0;
         self.kinetic_footer.momentum_r = 0;
     }
+
+    // Inside LatticeNodeSide
+    pub fn auditSaturation(self: *LatticeNodeSide, neighbors: [3]?*LatticeNode) void {
+        if (self.packet.value > MAX_PAYLOAD) {
+            const overflow = self.packet.value - MAX_PAYLOAD;
+            self.packet.value = MAX_PAYLOAD;
+
+            // RE-ROUTE (Turbulence): Push overflow LUs to dipoles
+            const share = overflow / 3;
+            for (neighbors) |maybe_node| {
+                if (maybe_node) |node| {
+                    // In K-Space, 'Gravity' is just injecting LUs into neighbors
+                    node.sides[0].packet.value += share;
+                }
+            }
+        }
+    }
 };
 
 // A High-Density Information Packet (Biological, Physical, or Cognitive).
@@ -260,6 +277,49 @@ pub const LogismosEngine = struct {
         // Internal K-Space Logic:
         // Every node in the soliton must satisfy: (Side_A.R + Side_B.R) % F == 0
         // If not, calculate the 'Torque' and update the kinetic_footer.
+    }
+
+    // Inside LogismosEngine
+    pub fn auditBilateralParity(node: *LatticeNode) bool {
+        const side_a = &node.sides[0];
+        const side_b = &node.sides[1];
+
+        // RAID 1 Check: Both sides must sum to a whole word (32, 64, 96, etc.)
+        const total_r = side_a.packet.remainder + side_b.packet.remainder;
+        const common_f = side_a.packet.fraction; // Axiom: Both sides share the gear
+
+        if (total_r % common_f == 0) {
+            // SUCCESS: The Remainder Snaps into Value
+            const snaps = total_r / common_f;
+            side_a.packet.value += snaps;
+            side_b.packet.value += snaps;
+            side_a.packet.remainder = 0;
+            side_b.packet.remainder = 0;
+            return true;
+        }
+        // FAILURE: Tension remains. Result is stored in the R register.
+        return false;
+    }
+};
+
+pub const KSpaceLattice = struct {
+    nodes: std.AutoHashMap(u32, *LatticeNode), // V-Axis Address -> Node Pointer
+    allocator: std.mem.Allocator,
+
+    pub fn init(allocator: std.mem.Allocator) KSpaceLattice {
+        return .{
+            .nodes = std.AutoHashMap(u32, *LatticeNode).init(allocator),
+            .allocator = allocator,
+        };
+    }
+
+    /// Creates a 120-degree connection between nodes.
+    pub fn linkNodes(node_a: *LatticeNode, node_b: *LatticeNode, dipole: DipoleOpcode) void {
+        const idx: usize = @intCast(@intFromEnum(dipole));
+        node_a.adjacents[idx] = node_b;
+        // The Bilateral Inverse: Gamma links back to Beta, etc.
+        const inverse_idx = (idx + 1) % 3;
+        node_b.adjacents[inverse_idx] = node_a;
     }
 };
 
