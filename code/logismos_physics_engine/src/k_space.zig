@@ -384,30 +384,25 @@ pub const LogismosEngine = struct {
         // 2. AUDIT LOOP: Iterate over every node in the soliton registry
         for (soliton.nodes) |*node| {
 
-            // 3. BILATERAL PARITY CHECK (RAID 1 Verification)
-            // Checks if Side A and Side B sum to a stable word.
+            // 3. BILATERAL PARITY CHECK (RAID 1 Verification): Checks if Side A and Side B sum to a stable word
             const is_coherent = self.auditBilateralParity(node);
 
             if (!is_coherent) {
                 // 4. KINETIC TORQUE CALCULATION
-                // If not coherent, the Remainder (R) creates Registry Tension.
-                // We update the 6-bit momentum_r in the 12-bit footer.
-                // This forces the 'Move' at the next N-tick.
+                // If not coherent, the Remainder (R) creates Registry Tension.  We update the 6-bit momentum_r in the 12-bit footer.  This forces the 'Move' at the next N-tick
                 const total_r = node.sides[0].packet.remainder + node.sides[1].packet.remainder;
 
                 // Update the Kinetic Footer: Momentum = Sum(R) clipped to u6
                 node.sides[0].kinetic_footer.momentum_r = @intCast(@min(total_r, 63));
                 node.sides[1].kinetic_footer.momentum_r = @intCast(@min(total_r, 63));
 
-                // 5. AUTO-LOCOMOTION (Sequential Re-indexing)
-                // If momentum is high, we trigger an INC_ADDR to a neighbor dipole.
+                // 5. AUTO-LOCOMOTION (Sequential Re-indexing): If momentum is high, we trigger an INC_ADDR to a neighbor dipole
                 if (node.sides[0].kinetic_footer.momentum_r > 31) {
                     // Logic: Follow the Dipole Index in Metadata to the next node
                     // Opcodes.inc_addr(node, 0); // Example: Pivot to Alpha
                 }
             } else {
-                // 6. STABILITY LOCK
-                // If coherent, R has been flushed to V. Momentum is reset.
+                // 6. STABILITY LOCK: If coherent, R has been flushed to V. Momentum is reset
                 node.sides[0].kinetic_footer.momentum_r = 0;
                 node.sides[1].kinetic_footer.momentum_r = 0;
             }
@@ -416,13 +411,11 @@ pub const LogismosEngine = struct {
             Opcodes.vent_saturation(node);
         }
 
-        // 8. RENDER COMMIT (Handoff to X-Space)
-        // This is a stub for the 15.19ms rendering engine.
+        // 8. RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
         self.renderToXSpace(soliton);
     }
 
-    // Performs the RAID 1 Parity Check across the manifold.
-    // Returns true if the node achieved integer closure (Snap).
+    // Performs the RAID 1 Parity Check across the manifold.  Returns true if the node achieved integer closure (Snap).
     pub fn auditBilateralParity(self: *LogismosEngine, node: *LatticeNode) bool {
         _ = self;
         const side_a = &node.sides[0];
@@ -449,8 +442,7 @@ pub const LogismosEngine = struct {
         return false;
     }
 
-    // Stub for the X-Space Rendering Pipeline.
-    // This is where the 15.19ms lag is applied to the human display.
+    // Stub for the X-Space Rendering Pipeline.  This is where the 15.19ms lag is applied to the human display.
     fn renderToXSpace(self: *LogismosEngine, soliton: *Soliton) void {
         _ = self;
         _ = soliton;
