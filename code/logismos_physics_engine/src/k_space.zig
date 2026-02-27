@@ -246,14 +246,67 @@ pub const Soliton = struct {
         }
     }
 
-    pub fn getRenderData(self: *Soliton) !xspace.HolographicSoliton {
-        // The Soliton 'flattens' its recursive state into a single
-        // visual summary for the renderer.
+    // THE SUBSTRATE HANDOFF:
+    // Flattens the Soliton's multi-dimensional registry data into a single
+    // Holographic Projection. This is the 0ms 'Fact' that will be rendered after the 15.19ms lag.
+    pub fn getRenderData(self: *const Soliton) !xspace.HolographicSoliton {
+        // 1. Initialize Aggregate Accumulators
+        var aggregate_v: u64 = 0;
+        var aggregate_r: u64 = 0;
+        var avg_pos = xspace.Vec3{ .x = 0, .y = 0, .z = 0 };
+        var total_momentum: f32 = 0;
+
+        // 2. BATCH AUDIT: Iterate over every Lex-Brick (node) in the soliton
+        for (self.nodes) |node| {
+            // RAID 1 SUMMATION: Overlay Side A and Side B
+            const sum_v = node.sides[0].packet.value + node.sides[1].packet.value;
+            const sum_r = node.sides[0].packet.remainder + node.sides[1].packet.remainder;
+
+            aggregate_v += sum_v;
+            aggregate_r += sum_r;
+
+            // GEOMETRIC MAPPING: Translate hex-address to 3D for the display
+            const node_xyz = xspace.RenderOps.hexToXYZ(node);
+            avg_pos.x += node_xyz.x;
+            avg_pos.y += node_xyz.y;
+            avg_pos.z += node_xyz.z;
+
+            // KINETIC BLUR: Read the 12-bit Liaison Footer
+            total_momentum += @floatFromInt(node.sides[0].kinetic_footer.momentum_r);
+        }
+
+        // 3. NORMALIZE GEOMETRY
+        const node_count_f: f32 = @floatFromInt(self.nodes.len);
+        if (self.nodes.len > 0) {
+            avg_pos.x /= node_count_f;
+            avg_pos.y /= node_count_f;
+            avg_pos.z /= node_count_f;
+            total_momentum /= node_count_f;
+        }
+
+        // 4. PARITY BLENDING (Opacity Calculation)
+        // If the aggregate remainder is high, the object is 'Frustrated' (transparent).
+        // If aggregate remainder is 0, the object is 'Solid' (Modulo-32 locked).
+        const max_word_r: f32 = @floatFromInt(32 * self.nodes.len);
+        const parity_score: f32 = 1.0 - (@as(f32, @floatFromInt(aggregate_r)) / max_word_r);
+
+        // 5. COMMIT TO HOLOGRAPHIC STRUCTURE
         return xspace.HolographicSoliton{
             .k_id = self.id,
-            .visual_mass = self.calculateTotalMass(),
-            .vibrational_r = self.calculateAggregateTension(),
-            // ... etc
+            .category = self.category,
+
+            // Perceptual Physics
+            .world_pos = avg_pos,
+            .visual_mass = @floatFromInt(aggregate_v),
+            .vibrational_r = @floatFromInt(aggregate_r),
+
+            // Perceptual UI Features
+            .opacity = @max(0.1, parity_score), // Prevent total invisibility unless PAD_R
+            .motion_blur = .{
+                .x = total_momentum,
+                .y = 0, // In 2D manifold, momentum is primarily lateral
+                .z = 0,
+            },
         };
     }
 };
