@@ -2,10 +2,10 @@ const std = @import("std");
 
 const xspace = @import("x_space.zig");
 
-// Registry Management Opcodes (0x00 - 0x0F)
+// Lattice Management Opcodes (0x00 - 0x0F)
 // Instructions for the Absolute Monotonic N-Counter.
-pub const RegistryOpcode = enum(i32) {
-    HALT = 0x00, // Stop N-increment (Absolute Registry Pause)
+pub const LatticeOpcode = enum(i32) {
+    HALT = 0x00, // Stop N-increment (Absolute Lattice Pause)
     TICK = 0x01, // N <- N + 1 (The Universal Pulse)
     AUDIT_PARITY = 0x02, // Execute Bilateral J*S Verification
     SNAP_COMMIT = 0x03, // Force R -> V transition across Word boundary
@@ -79,16 +79,16 @@ pub const PacketMetadata = packed struct(u40) {
     side: u1 = 0,
 
     // Bits 8-39: Reserved / Padding for 40-bit alignment.
-    // Can be used for extended Registry Instructions.
+    // Can be used for extended Lattice Instructions.
     _reserved: u32 = 0,
 };
 
 // The Unified 84-bit Logic-Spine Packet.
-// This is the 'Fat Struct' that traverses the Registry at Logic Speed.
+// This is the 'Fat Struct' that traverses the Lattice at Logic Speed.
 // This is the "Instruction" data
 pub const LogismosPacket = packed struct {
     // Bits 0-31: The V-Axis (The Fact).
-    // The whole-integer Logos Unit address in the N-Registry.
+    // The whole-integer Logos Unit address in the N-Lattice.
     v_axis: u32,
 
     // Bits 32-71: The Meta-Data (The Gearbox).
@@ -114,7 +114,7 @@ pub const PacketHeader = struct {
 };
 
 // The fundamental Addressable Unit (The Hex-Plate).
-// Aligned to 32-bit boundaries to match the Registry Spine.
+// Aligned to 32-bit boundaries to match the Lattice Spine.
 pub const LatticeNode = struct {
     // Axiom 2: Bilateral Manifold.
     // Data must exist on both sides to 'Render' later.
@@ -155,7 +155,7 @@ pub const LatticeNodeSide = struct {
 
     // Executes a Logismos Opcode on this node side.
     pub fn execute(self: *LatticeNodeSide, op: i32) void {
-        const opcode: RegistryOpcode = @enumFromInt(op);
+        const opcode: LatticeOpcode = @enumFromInt(op);
         switch (opcode) {
             .RESET_R => self.packet.remainder = 0,
             .SNAP_COMMIT => self.snapCommit(),
@@ -210,7 +210,7 @@ pub const LatticeNodeSide = struct {
 
             // System-level Audit: If overflow is massive, trigger an Audit Error
             if (overflow > 1024) {
-                // Trigger 'STABILITY_FAIL' (0x30) as a Registry Event
+                // Trigger 'STABILITY_FAIL' (0x30) as a Lattice Event
                 // This would be perceived as a 'Micro-Nova' or 'Spike'
             }
         }
@@ -225,7 +225,7 @@ pub const Soliton = struct {
     // The collection of 'Lex Bricks' that make up the soliton body
     nodes: []LatticeNode = &.{},
     parent: ?*Soliton = null,
-    children: std.array_list.Managed(*Soliton), // The Registry List
+    children: std.array_list.Managed(*Soliton), // The Lattice List
 
     // THE RAID 1 CONTROLLER: The Soliton iterates through its own mesh to verify bilateral integrity.
     pub fn verifyInternalParity(self: *Soliton) void {
@@ -266,7 +266,7 @@ pub const Soliton = struct {
     }
 
     // THE SUBSTRATE HANDOFF:
-    // Flattens the Soliton's multi-dimensional registry data into a single
+    // Flattens the Soliton's multi-dimensional lattice data into a single
     // Holographic Projection. This is the 0ms 'Fact' that will be rendered after the 15.19ms lag.
     pub fn getRenderData(self: *const Soliton) !xspace.HolographicSoliton {
         // 1. Initialize Aggregate Accumulators
@@ -331,11 +331,11 @@ pub const Soliton = struct {
 };
 
 // The K-Space Logic Opcodes (ISA).
-// These functions perform Registry-Writes, not 'Physics'.
+// These functions perform Lattice-Writes, not 'Physics'.
 // They operate at Logic Speed (cL).
 pub const Opcodes = struct {
 
-    // --- Registry Management (0x00 - 0x0F) ---
+    // --- Lattice Management (0x00 - 0x0F) ---
 
     // Opcode 0x00: HALT
     // Manually clears the R-register (Tension) and Kinetic Footer (Momentum).
@@ -348,9 +348,9 @@ pub const Opcodes = struct {
     }
 
     // Opcode 0x01: TICK
-    // The global monotonic write. Handled by the N_Registry.
-    pub fn tick(registry: *N_Registry) void {
-        registry.audit();
+    // The global monotonic write. Handled by the N_Lattice.
+    pub fn tick(lattice: *N_Lattice) void {
+        lattice.audit();
     }
 
     // Opcode 0x03: SNAP_COMMIT
@@ -466,12 +466,12 @@ pub const Opcodes = struct {
     }
 };
 
-// The Registry Identity of the Universe. The N-Count is the only global monotonic variable.
-pub const N_Registry = struct {
+// The Lattice Identity of the Universe. The N-Count is the only global monotonic variable.
+pub const N_Lattice = struct {
     ticks: u64, // The total runtime since N=1.
 
-    // Global Registry Audit: Every N-tick requires a full J*S verification before rendering (15.19ms).
-    pub fn audit(self: *N_Registry) void {
+    // Global Lattice Audit: Every N-tick requires a full J*S verification before rendering (15.19ms).
+    pub fn audit(self: *N_Lattice) void {
         self.ticks += 1; // N <- N + 1
     }
 };
@@ -494,14 +494,14 @@ pub const SolitonDensityCategory = enum(i32) {
 pub const LogismosEngine = struct {
     allocator: std.mem.Allocator,
 
-    registry: N_Registry,
+    lattice: N_Lattice,
     soliton_n1: Soliton,
     x_engine: xspace.XSpaceEngine,
 
     pub fn init(allocator: std.mem.Allocator) LogismosEngine {
         return .{
             .allocator = allocator,
-            .registry = .{ .ticks = 0 },
+            .lattice = .{ .ticks = 0 },
             .x_engine = xspace.XSpaceEngine.init(allocator),
             // Always Start with N=1 Lex.  It is always present
             .soliton_n1 = .{
@@ -516,8 +516,8 @@ pub const LogismosEngine = struct {
     // THE HEARTBEAT OF TRUTH (K-Space Engine Loop)
     // This executes at Logic Speed (cL).
     pub fn step(self: *LogismosEngine) !void {
-        // 1. Monotonic Registry Increment (N <- N + 1)
-        self.registry.audit();
+        // 1. Monotonic Lattice Increment (N <- N + 1)
+        self.lattice.audit();
 
         // Check our own parity, because this is N=1
         self.soliton_n1.verifyInternalParity();
@@ -530,14 +530,14 @@ pub const LogismosEngine = struct {
             soliton.verifyInternalParity();
 
             // 2. KINETIC PROCESSING: After verification, the engine applies locomotion based on the resulting Momentum R in the 12-bit footers.
-            self.applyRegistryKinematics(soliton);
+            self.applyLatticeKinematics(soliton);
 
             const data = try soliton.getRenderData();
             try frame_data.append(data);
         }
 
         // Push to 15.19ms Buffer
-        try self.x_engine.pushKSpaceLedger(self.registry.ticks, try frame_data.toOwnedSlice());
+        try self.x_engine.pushKSpaceLedger(self.lattice.ticks, try frame_data.toOwnedSlice());
 
         // RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
         self.renderToXSpace(&self.soliton_n1);
@@ -552,8 +552,8 @@ pub const LogismosEngine = struct {
     }
 
     // KINETIC RESOLUTION ENGINE:
-    // Operates at Logic Speed (cL) to move solitons across the registry.  This is the industrial execution of 'Force' as 'Registry Re-indexing'
-    fn applyRegistryKinematics(self: *LogismosEngine, soliton: *Soliton) void {
+    // Operates at Logic Speed (cL) to move solitons across the lattice.  This is the industrial execution of 'Force' as 'Lattice Re-indexing'
+    fn applyLatticeKinematics(self: *LogismosEngine, soliton: *Soliton) void {
         for (soliton.nodes) |*node| {
             // Read the 6-bit momentum from the Primary Side [0]
             const momentum = node.sides[0].kinetic_footer.momentum_r;
