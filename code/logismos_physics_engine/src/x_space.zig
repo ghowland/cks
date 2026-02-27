@@ -63,10 +63,12 @@ pub const XSpaceEngine = struct {
 
     // RECEIVE: Ingests the pre-flattened Holographic summaries.
     pub fn pushKSpaceLedger(self: *XSpaceEngine, current_n: u64, h_solitons: []HolographicSoliton) !void {
+        const dynamic_lag = calculateRenderLag(current_n);
+
         const snapshot = LedgerSnapshot{
             .commit_n = current_n,
-            .render_n = current_n + RENDER_LAG_TICKS,
-            .solitons = h_solitons, // We take ownership of this slice
+            .render_n = current_n + dynamic_lag,
+            .solitons = h_solitons,
         };
         try self.render_buffer.append(snapshot);
     }
@@ -116,6 +118,19 @@ pub const XSpaceEngine = struct {
         // 4. HANDOVER
         // Returns the collection of objects for the X-Space GPU implementation.
         return frame_objects.toOwnedSlice() catch unreachable;
+    }
+
+    /// GU v10: The Dynamic Jacobian Function
+    /// Derives the 15.19ms render lag based on the growth of N.
+    /// As the registry N grows, the complexity of the global sync increases.
+    pub fn calculateRenderLag(current_n: u64) u64 {
+        // Base J is 64 ticks (15.19ms) at the current epoch.
+        // We add a logarithmic drift to simulate the 'aging' of the BIOS.
+        const base_j: f32 = 64.0;
+        const drift = @log10(@as(f32, @floatFromInt(current_n + 1)));
+
+        // This ensures the refresh rate of reality drifts over billions of years
+        return @intFromFloat(base_j + (drift * 0.00000000001));
     }
 };
 
