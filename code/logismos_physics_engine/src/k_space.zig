@@ -529,9 +529,9 @@ pub const LogismosEngine = struct {
         // This will be implemented in the 'X-Verse' project.
     }
 
-    /// KINETIC RESOLUTION ENGINE:
-    /// Operates at Logic Speed (cL) to move solitons across the registry.
-    /// This is the industrial execution of 'Force' as 'Registry Re-indexing'.
+    // KINETIC RESOLUTION ENGINE:
+    // Operates at Logic Speed (cL) to move solitons across the registry.
+    // This is the industrial execution of 'Force' as 'Registry Re-indexing'.
     fn applyRegistryKinematics(self: *LogismosEngine, soliton: *Soliton) void {
         _ = self;
 
