@@ -474,13 +474,16 @@ pub const SolitonDensityCategory = enum(i32) {
 // This runs the Logic Speed (cL) loop. No X-Space code allowed here.
 pub const LogismosEngine = struct {
     allocator: std.mem.Allocator,
+
     registry: N_Registry,
     soliton_n1: Soliton,
+    x_engine: xspace.XSpaceEngine,
 
     pub fn init(allocator: std.mem.Allocator) LogismosEngine {
         return .{
             .allocator = allocator,
             .registry = .{ .ticks = 0 },
+            .x_engine = xspace.XSpaceEngine.init(allocator),
             // Always Start with N=1 Lex.  It is always present
             .soliton_n1 = .{
                 .id = 0,
@@ -493,32 +496,32 @@ pub const LogismosEngine = struct {
 
     // THE HEARTBEAT OF TRUTH (K-Space Engine Loop)
     // This executes at Logic Speed (cL).
-    pub fn step(self: *LogismosEngine) void {
+    pub fn step(self: *LogismosEngine) !void {
         // 1. Monotonic Registry Increment (N <- N + 1)
         self.registry.audit();
 
         // Check our own parity, because this is N=1
         self.soliton_n1.verifyInternalParity();
 
-        for (self.soliton_n1.children) |soliton| {
+        // Soliton Render Data
+        var frame_data = std.array_list.Managed(xspace.HolographicSoliton).init(self.allocator);
+
+        for (self.soliton_n1.children.items) |soliton| {
             // 1. THE SOLITON AUDITS ITSELF (RAID 1): The object 'Checks' if its Side A and Side B are in sync.
             soliton.verifyInternalParity();
 
             // 2. KINETIC PROCESSING: After verification, the engine applies locomotion based on the resulting Momentum R in the 12-bit footers.
             self.applyRegistryKinematics(soliton);
-        }
 
-        // 8. RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
-        self.renderToXSpace(self.soliton);
-
-        // Inside LogismosEngine.step()
-        var frame_data = std.array_list.Managed(xspace.HolographicSoliton).init(self.allocator);
-        for (self.soliton_n1.items) |soliton| {
-            const data = try soliton.getRenderData(self.allocator);
+            const data = try soliton.getRenderData();
             try frame_data.append(data);
         }
+
         // Push to 15.19ms Buffer
-        try xspace.pushKSpaceLedger(self.registry.ticks, frame_data.toOwnedSlice());
+        try self.x_engine.pushKSpaceLedger(self.registry.ticks, try frame_data.toOwnedSlice());
+
+        // RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
+        self.renderToXSpace(self.soliton_n1);
     }
 
     // Stub for the X-Space Rendering Pipeline.  This is where the 15.19ms lag is applied to the human display.

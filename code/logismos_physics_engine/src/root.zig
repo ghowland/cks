@@ -37,7 +37,7 @@ pub fn main() !void {
 
         // PHASE A: THE SPEAKER INJECTION
         // We inject a cyclical 32-bit remainder pulse into the center node.
-        const frequency: u32 = @intCast(@abs(@sin(@as(f32, @floatFromInt(frame_count)) * 0.1) * 32.0));
+        const frequency: u32 = @intFromFloat(@abs(@sin(@as(f32, @floatFromInt(frame_count)) * 0.1) * 32.0));
         injectSpeakerTension(&plate, frequency);
 
         // PHASE B: K-SPACE STEP (RAID 1 Audit + Kinematics)
@@ -79,14 +79,14 @@ fn createHexPlate(allocator: std.mem.Allocator, size: usize) !kspace.Soliton {
         .category = .Self, // Plate has 'Identity' depth
         .nodes = nodes,
         .parent = null,
-        .children = std.ArrayList(*kspace.Soliton).init(allocator),
+        .children = std.array_list.Managed(*kspace.Soliton).init(allocator),
     };
 }
 
 // Scatters sand grain solitons onto random nodes of the plate.
-fn seedSand(allocator: std.mem.Allocator, plate: *kspace.Soliton, count: usize) !std.ArrayList(*kspace.Soliton) {
-    var grains = std.ArrayList(*kspace.Soliton).init(allocator);
-    var prng = std.rand.DefaultPrng.init(42);
+fn seedSand(allocator: std.mem.Allocator, plate: *kspace.Soliton, count: usize) !std.array_list.Managed(*kspace.Soliton) {
+    var grains = std.array_list.Managed(*kspace.Soliton).init(allocator);
+    var prng = std.Random.DefaultPrng.init(32);
     const random = prng.random();
 
     for (0..count) |i| {
@@ -102,7 +102,7 @@ fn seedSand(allocator: std.mem.Allocator, plate: *kspace.Soliton, count: usize) 
             .category = .Atom,
             .nodes = node_slice,
             .parent = plate,
-            .children = std.ArrayList(*kspace.Soliton).init(allocator),
+            .children = std.array_list.Managed(*kspace.Soliton).init(allocator),
         };
         try grains.append(grain);
     }
