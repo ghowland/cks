@@ -1,5 +1,7 @@
 const std = @import("std");
 
+const xspace = @import("x_space.zig");
+
 // Registry Management Opcodes (0x00 - 0x0F)
 // Instructions for the Absolute Monotonic N-Counter.
 pub const RegistryOpcode = enum(i32) {
@@ -242,6 +244,17 @@ pub const Soliton = struct {
             // 7. UV SATURATION AUDIT (Navier-Stokes/Turbulence)
             Opcodes.vent_saturation(node); //TODO: Is this k-verse activity and not Soliton?
         }
+    }
+
+    pub fn getRenderData(self: *Soliton) !xspace.HolographicSoliton {
+        // The Soliton 'flattens' its recursive state into a single
+        // visual summary for the renderer.
+        return xspace.HolographicSoliton{
+            .k_id = self.id,
+            .visual_mass = self.calculateTotalMass(),
+            .vibrational_r = self.calculateAggregateTension(),
+            // ... etc
+        };
     }
 };
 
