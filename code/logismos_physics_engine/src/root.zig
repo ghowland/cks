@@ -13,42 +13,34 @@ pub fn main() anyerror!void {
     var k_engine = kspace.LogismosEngine.init(allocator);
     var x_engine = xspace.XSpaceEngine.init(allocator);
 
-    // 2. CONSTRUCT THE HARDWARE (The Metal Plate)
-    // We create a 128x128 Hex-Plate Registry.
+    // 2. CONSTRUCT THE HARDWARE (The Metal Plate): We create a 128x128 Hex-Plate Registry.
     std.debug.print("Initializing Metal Plate Soliton (10^15 LU)...\n", .{});
     var plate = try createHexPlate(allocator, 128);
     try k_engine.soliton_n1.children.append(&plate);
 
-    // 3. POPULATE THE SAND (10^3 LU Atoms)
-    // We scatter 5000 individual sand solitons across the plate addresses.
+    // 3. POPULATE THE SAND (10^3 LU Atoms): We scatter 5000 individual sand solitons across the plate addresses.
     std.debug.print("Seeding Sand Solitons (5000 Units)...\n", .{});
     const sand_grains = try seedSand(allocator, &plate, 5000);
     for (sand_grains.items) |grain| {
         try k_engine.soliton_n1.children.append(grain);
     }
 
-    // 4. THE INDUSTRIAL AUDIT LOOP
-    // We run the engine at Logic Speed (cL).
+    // 4. THE INDUSTRIAL AUDIT LOOP: We run the engine at Logic Speed (cL).
     var frame_count: u32 = 0;
     const target_frames = 1000;
 
     std.debug.print("--- STARTING CYMATIC AUDIT ---\n", .{});
     while (frame_count < target_frames) : (frame_count += 1) {
-
-        // PHASE A: THE SPEAKER INJECTION
-        // We inject a cyclical 32-bit remainder pulse into the center node.
+        // PHASE A: THE SPEAKER INJECTION: We inject a cyclical 32-bit remainder pulse into the center node.
         const frequency: u32 = @intFromFloat(@abs(@sin(@as(f32, @floatFromInt(frame_count)) * 0.1) * 32.0));
         injectSpeakerTension(&plate, frequency);
 
-        // PHASE B: K-SPACE STEP (RAID 1 Audit + Kinematics)
-        // This is where the plate vibrates and the sand 'steps' to stable nodes.
+        // PHASE B: K-SPACE STEP (RAID 1 Audit + Kinematics): This is where the plate vibrates and the sand 'steps' to stable nodes.
         try k_engine.step();
 
-        // PHASE C: X-SPACE RENDER (The 15.19ms Frame Handoff)
-        // We check the Render Queue for a finalized frame.
+        // PHASE C: X-SPACE RENDER (The 15.19ms Frame Handoff): We check the Render Queue for a finalized frame.
         if (x_engine.update(k_engine.registry.ticks)) |h_solitons| {
-            // Here, you would hand off h_solitons to a GPU/Display API.
-            // For now, we audit the 'Thickness' of the pattern.
+            // Here, you would hand off h_solitons to a GPU/Display API. For now, we audit the 'Thickness' of the pattern.
             renderCymaticHUD(h_solitons);
             allocator.free(h_solitons);
         }
