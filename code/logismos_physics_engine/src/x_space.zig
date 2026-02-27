@@ -48,7 +48,7 @@ pub const XSpaceEngine = struct {
     allocator: std.mem.Allocator,
 
     // Temporal Queue (The 15.19ms Pipeline)
-    render_buffer: std.ArrayList(LedgerSnapshot),
+    render_buffer: std.array_list.Managed(LedgerSnapshot),
 
     // Universal Constant for the Parity-Check Lag (RAID 1 Delay)
     pub const RENDER_LAG_TICKS: u64 = 64; // Approx 15.19ms at 0.237ms per tick
@@ -56,7 +56,7 @@ pub const XSpaceEngine = struct {
     pub fn init(allocator: std.mem.Allocator) XSpaceEngine {
         return .{
             .allocator = allocator,
-            .render_buffer = std.ArrayList(LedgerSnapshot).init(allocator),
+            .render_buffer = std.array_list.Managed(LedgerSnapshot).init(allocator),
         };
     }
 
@@ -86,7 +86,7 @@ pub const XSpaceEngine = struct {
 
     // RENDER: Translates the Integer Ledger into a Holographic Frame.
     fn renderFrame(self: *XSpaceEngine, snapshot: LedgerSnapshot) []HolographicSoliton {
-        var frame_objects = std.ArrayList(HolographicSoliton).init(self.allocator);
+        var frame_objects = std.array_list.Managed(HolographicSoliton).init(self.allocator);
 
         for (snapshot.nodes) |k_node| {
             // 1. PERFORM THE BILATERAL SUM (Overlay Sides)

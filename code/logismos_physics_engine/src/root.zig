@@ -2,8 +2,8 @@ const std = @import("std");
 const kspace = @import("k_space.zig");
 const xspace = @import("x_space.zig");
 
-/// THE CYMATIC CHLADNI VALIDATION
-/// Goal: Prove that physical patterns are the result of Registry Parity.
+// THE CYMATIC CHLADNI VALIDATION
+// Goal: Prove that physical patterns are the result of Registry Parity.
 pub fn main() !void {
     // 1. INITIALIZE ALLOCATOR & ENGINES
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
@@ -17,14 +17,14 @@ pub fn main() !void {
     // We create a 128x128 Hex-Plate Registry.
     std.debug.print("Initializing Metal Plate Soliton (10^15 LU)...\n", .{});
     var plate = try createHexPlate(allocator, 128);
-    try k_engine.master_solitons.append(&plate);
+    try k_engine.soliton_n1.children.append(&plate);
 
     // 3. POPULATE THE SAND (10^3 LU Atoms)
     // We scatter 5000 individual sand solitons across the plate addresses.
     std.debug.print("Seeding Sand Solitons (5000 Units)...\n", .{});
     const sand_grains = try seedSand(allocator, &plate, 5000);
     for (sand_grains.items) |grain| {
-        try k_engine.master_solitons.append(grain);
+        try k_engine.soliton_n1.children.append(grain);
     }
 
     // 4. THE INDUSTRIAL AUDIT LOOP
@@ -61,7 +61,7 @@ pub fn main() !void {
 
 // --- HELPER FUNCTIONS ---
 
-/// Builds a hexagonal mesh of LatticeNodes.
+// Builds a hexagonal mesh of LatticeNodes.
 fn createHexPlate(allocator: std.mem.Allocator, size: usize) !kspace.Soliton {
     const nodes = try allocator.alloc(kspace.LatticeNode, size * size);
 
@@ -83,7 +83,7 @@ fn createHexPlate(allocator: std.mem.Allocator, size: usize) !kspace.Soliton {
     };
 }
 
-/// Scatters sand grain solitons onto random nodes of the plate.
+// Scatters sand grain solitons onto random nodes of the plate.
 fn seedSand(allocator: std.mem.Allocator, plate: *kspace.Soliton, count: usize) !std.ArrayList(*kspace.Soliton) {
     var grains = std.ArrayList(*kspace.Soliton).init(allocator);
     var prng = std.rand.DefaultPrng.init(42);
@@ -109,8 +109,8 @@ fn seedSand(allocator: std.mem.Allocator, plate: *kspace.Soliton, count: usize) 
     return grains;
 }
 
-/// Opcode Trigger: The Speaker.
-/// Directly oscillates the R-register of the center nodes.
+// Opcode Trigger: The Speaker.
+// Directly oscillates the R-register of the center nodes.
 fn injectSpeakerTension(plate: *kspace.Soliton, frequency_r: u32) void {
     const center_idx = plate.nodes.len / 2;
     // Inject remainder tension (Frustration)
@@ -119,7 +119,7 @@ fn injectSpeakerTension(plate: *kspace.Soliton, frequency_r: u32) void {
     plate.nodes[center_idx].sides[1].packet.remainder = frequency_r;
 }
 
-/// Basic Console Renderer for the Cymatic Patterns.
+// Basic Console Renderer for the Cymatic Patterns.
 fn renderCymaticHUD(solitons: []xspace.HolographicSoliton) void {
     var stable_count: usize = 0;
     for (solitons) |s| {
