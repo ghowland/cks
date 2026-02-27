@@ -513,6 +513,15 @@ pub const LogismosEngine = struct {
 
         // 8. RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
         self.renderToXSpace(self.soliton);
+
+        // Inside LogismosEngine.step()
+        var frame_data = std.array_list.Managed(xspace.HolographicSoliton).init(self.allocator);
+        for (self.master_solitons.items) |soliton| {
+            const data = try soliton.getRenderData(self.allocator);
+            try frame_data.append(data);
+        }
+        // Push to 15.19ms Buffer
+        try xspace.pushKSpaceLedger(self.registry.ticks, frame_data.toOwnedSlice());
     }
 
     // Stub for the X-Space Rendering Pipeline.  This is where the 15.19ms lag is applied to the human display.
