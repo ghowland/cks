@@ -39,7 +39,8 @@ pub const HolographicSoliton = struct {
 pub const LedgerSnapshot = struct {
     commit_n: u64, // The N-tick when this was verified in K-Space
     render_n: u64, // The N-tick + 15.19ms Offset
-    nodes: []kspace.LatticeNode,
+    // Store the processed summaries, not the raw hardware
+    solitons: []HolographicSoliton,
 };
 
 // The X-Space Engine (The Renderer)
@@ -60,12 +61,12 @@ pub const XSpaceEngine = struct {
         };
     }
 
-    // RECEIVE: Ingests a verified ledger from the K-Space Engine.
-    pub fn pushKSpaceLedger(self: *XSpaceEngine, current_n: u64, k_nodes: []kspace.LatticeNode) !void {
+    // RECEIVE: Ingests the pre-flattened Holographic summaries.
+    pub fn pushKSpaceLedger(self: *XSpaceEngine, current_n: u64, h_solitons: []HolographicSoliton) !void {
         const snapshot = LedgerSnapshot{
             .commit_n = current_n,
             .render_n = current_n + RENDER_LAG_TICKS,
-            .nodes = try self.allocator.dupe(kspace.LatticeNode, k_nodes),
+            .solitons = h_solitons, // We take ownership of this slice
         };
         try self.render_buffer.append(snapshot);
     }
@@ -77,43 +78,43 @@ pub const XSpaceEngine = struct {
         const next_up = self.render_buffer.items[0];
         if (current_n >= next_up.render_n) {
             const snapshot = self.render_buffer.orderedRemove(0);
-            defer self.allocator.free(snapshot.nodes);
+            defer self.allocator.free(snapshot.solitons);
             return self.renderFrame(snapshot);
         }
 
         return null;
     }
 
-    // RENDER: Translates the Integer Ledger into a Holographic Frame.
+    /// RENDER: Releases the pre-flattened Soliton data to the HUD/Screen.
+    /// This function executes at Light Speed (c) once the 15.19ms lag expires.
     fn renderFrame(self: *XSpaceEngine, snapshot: LedgerSnapshot) []HolographicSoliton {
+        // 1. Prepare the output slice
+        // In this updated architecture, the K-Engine already provided
+        // the pre-calculated summaries (V-sum, R-sum, Pos, Blur).
         var frame_objects = std.array_list.Managed(HolographicSoliton).init(self.allocator);
 
-        for (snapshot.nodes) |k_node| {
-            // 1. PERFORM THE BILATERAL SUM (Overlay Sides)
-            const sum_v = k_node.sides[0].packet.value + k_node.sides[1].packet.value;
-            const sum_r = k_node.sides[0].packet.remainder + k_node.sides[1].packet.remainder;
+        // 2. RELEASE THE SNAPSHOT
+        // We iterate over the pre-flattened summaries that have been
+        // waiting in the RAID 1 parity buffer.
+        for (snapshot.solitons) |h_soliton| {
+            // We can apply final 'Screen-Space' post-processing here.
+            // For example: Tone mapping based on Universal Impedance.
 
-            // 2. HEX TO CARTESIAN (D=3 Dipole Mapping)
-            // Simplified: Mapping the V-address to a hexagonal spiral
-            const pos = RenderOps.hexToXYZ(k_node);
+            var finalized_soliton = h_soliton;
 
-            // 3. KINETIC FOOTER TO BLUR
-            // Reads the 12-bit transceiver footer to determine perceived velocity
-            const momentum = k_node.sides[0].kinetic_footer.momentum_r;
+            // APPLY RENDER-SPECIFIC JITTER
+            // The 15.19ms lag creates a 'flicker' Fusion.
+            // If the vibrational_r is high, we jitter the world position slightly.
+            if (h_soliton.vibrational_r > 16.0) {
+                finalized_soliton.world_pos.x += 0.05; // Sub-pixel jitter
+            }
 
-            const h_soliton = HolographicSoliton{
-                .k_id = snapshot.commit_n,
-                .category = .Atom, // Simplified for single node
-                .world_pos = pos,
-                .visual_mass = @floatFromInt(sum_v),
-                .vibrational_r = @floatFromInt(sum_r),
-                .opacity = if (sum_r == 0) 1.0 else 0.5, // Remainder causes "Ghosting"
-                .motion_blur = .{ .x = @floatFromInt(momentum), .y = 0, .z = 0 },
-            };
-
-            frame_objects.append(h_soliton) catch unreachable;
+            // 3. COMMIT TO FRAME
+            frame_objects.append(finalized_soliton) catch unreachable;
         }
 
+        // 4. HANDOVER
+        // Returns the collection of objects for the X-Space GPU implementation.
         return frame_objects.toOwnedSlice() catch unreachable;
     }
 };

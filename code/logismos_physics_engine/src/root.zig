@@ -4,7 +4,7 @@ const xspace = @import("x_space.zig");
 
 // THE CYMATIC CHLADNI VALIDATION
 // Goal: Prove that physical patterns are the result of Registry Parity.
-pub fn main() !void {
+pub fn main() anyerror!void {
     // 1. INITIALIZE ALLOCATOR & ENGINES
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
     const allocator = gpa.allocator();
@@ -42,7 +42,7 @@ pub fn main() !void {
 
         // PHASE B: K-SPACE STEP (RAID 1 Audit + Kinematics)
         // This is where the plate vibrates and the sand 'steps' to stable nodes.
-        k_engine.step();
+        try k_engine.step();
 
         // PHASE C: X-SPACE RENDER (The 15.19ms Frame Handoff)
         // We check the Render Queue for a finalized frame.

@@ -68,18 +68,18 @@ pub const KineticFooter = packed struct(u12) {
 // Controls the resolution, orientation, and manifold parity.
 pub const PacketMetadata = packed struct(u40) {
     // Bits 0-4: F-Scale (2^5=32). The Gear-ratio of the Word.
-    f_scale: u5,
+    f_scale: u5 = 0,
 
     // Bits 5-6: Dipole Index. The D=3 hexagonal direction.
     // 0: Alpha, 1: Beta, 2: Gamma.
-    dipole_index: u2,
+    dipole_index: u2 = 0,
 
     // Bit 7: Side Parity (S). 0: Side A, 1: Side B.
-    side: u1,
+    side: u1 = 0,
 
     // Bits 8-39: Reserved / Padding for 40-bit alignment.
     // Can be used for extended Registry Instructions.
-    _reserved: u32,
+    _reserved: u32 = 0,
 };
 
 // The Unified 84-bit Logic-Spine Packet.
@@ -130,6 +130,8 @@ pub const IndexPacket = struct {
     value: u32, // V: The whole integer Logos Units (LUs).
     fraction: u32, // F: The Gear-ratio (Resolution). Default = 32.
     remainder: u32, // R: The un-snapped tension (The Momentum)
+
+    meta_data: PacketMetadata = .{}, // The instruction is INSIDE the packet
 };
 
 // This is the "Execution Register" where the `IndexPacket` is executed for the child soliton
@@ -241,8 +243,8 @@ pub const Soliton = struct {
                 side_b.kinetic_footer.momentum_r = momentum;
             }
 
-            // 7. UV SATURATION AUDIT (Navier-Stokes/Turbulence)
-            Opcodes.vent_saturation(node); //TODO: Is this k-verse activity and not Soliton?
+            // // 7. UV SATURATION AUDIT (Navier-Stokes/Turbulence)
+            // Opcodes.vent_saturation(node); //TODO: Is this k-verse activity and not Soliton?
         }
     }
 
@@ -521,7 +523,7 @@ pub const LogismosEngine = struct {
         try self.x_engine.pushKSpaceLedger(self.registry.ticks, try frame_data.toOwnedSlice());
 
         // RENDER COMMIT (Handoff to X-Space): This is a stub for the 15.19ms rendering engine.
-        self.renderToXSpace(self.soliton_n1);
+        self.renderToXSpace(&self.soliton_n1);
     }
 
     // Stub for the X-Space Rendering Pipeline.  This is where the 15.19ms lag is applied to the human display.
@@ -533,65 +535,66 @@ pub const LogismosEngine = struct {
     }
 
     // KINETIC RESOLUTION ENGINE:
-    // Operates at Logic Speed (cL) to move solitons across the registry.
-    // This is the industrial execution of 'Force' as 'Registry Re-indexing'.
+    // Operates at Logic Speed (cL) to move solitons across the registry.  This is the industrial execution of 'Force' as 'Registry Re-indexing'
     fn applyRegistryKinematics(self: *LogismosEngine, soliton: *Soliton) void {
-        _ = self;
-
-        // 1. ITERATE: Every Lex-Brick (node) in the soliton mesh
         for (soliton.nodes) |*node| {
-
-            // 2. AUDIT FOOTER: Check the 6-bit Momentum Register (R_k)
-            // We use Side A as the primary instruction source.
+            // Read the 6-bit momentum from the Primary Side [0]
             const momentum = node.sides[0].kinetic_footer.momentum_r;
 
-            // 3. THRESHOLD CHECK: Does the tension exceed the 32-bit Word?
-            // In CKS, if R > 31, the registry 'slips' into the next node.
             if (momentum > 31) {
+                // Read the Dipole Direction from the Primary Packet metadata
+                const target_dipole = node.sides[0].packet.meta_data.dipole_index;
 
-                // 4. RETRIEVE DIRECTION: Query the D=3 Dipole Index from Metadata
-                // This is the hard-coded 120-degree pivot direction.
-                const target_dipole = node.sides[0].meta_data.dipole_index;
-
-                // 5. ATTEMPT LOCOMOTION: Execute Opcode 0x11 (INC_ADDR)
-                // This performs the 'Serial Teleport' to the adjacent hex-plate.
                 if (node.adjacents[target_dipole]) |adjacent_node| {
+                    // RAID 1 TRANSFER:
+                    // Move Side A [0] to Adjacent Side A [0]
+                    // Move Side B [1] to Adjacent Side B [1]
+                    adjacent_node.sides[0] = node.sides[0];
+                    adjacent_node.sides[1] = node.sides[1];
 
-                    // --- REGISTRY TRANSACTION START ---
+                    // Perform the Snap (Clear 32 bits from momentum)
+                    const snap_momentum: u6 = @intCast(momentum - 32);
+                    adjacent_node.sides[0].kinetic_footer.momentum_r = snap_momentum;
+                    adjacent_node.sides[1].kinetic_footer.momentum_r = snap_momentum;
 
-                    // A. Clone the Packet (V, F, R) to the Target
-                    // We move the 'Fact' and the 'Tension' to the next address.
-                    adjacent_node.sides[0].packet = node.sides[0].packet;
-                    adjacent_node.sides[1].packet = node.sides[1].packet;
-
-                    // B. Maintain Kinetic Footer in the new address
-                    // We subtract 32 from momentum to signify one 'Snap' of movement.
-                    const new_momentum: u6 = @intCast(momentum - 32);
-                    adjacent_node.sides[0].kinetic_footer.momentum_r = new_momentum;
-                    adjacent_node.sides[1].kinetic_footer.momentum_r = new_momentum;
-
-                    // C. Inheritance: Maintain the Parent Soliton ID (6-bit Liaison)
-                    adjacent_node.sides[0].kinetic_footer.parent_id = node.sides[0].kinetic_footer.parent_id;
-                    adjacent_node.sides[1].kinetic_footer.parent_id = node.sides[1].kinetic_footer.parent_id;
-
-                    // D. DELETE OLD (Registry De-allocation)
-                    // Zeroing the old node's LUs clears the space for the next write.
-                    node.sides[0].packet.value = 0;
-                    node.sides[1].packet.value = 0;
-                    node.sides[0].packet.remainder = 0;
-                    node.sides[1].packet.remainder = 0;
-                    node.sides[0].kinetic_footer.momentum_r = 0;
-                    node.sides[1].kinetic_footer.momentum_r = 0;
-
-                    // --- REGISTRY TRANSACTION COMPLETE ---
-
-                } else {
-                    // REGISTRY WALL: The dipole index points to an unallocated address.
-                    // Physics Result: The object hits a 'Boundary' and R builds further.
-                    node.sides[0].packet.remainder += 1;
+                    // De-allocate old hardware addresses
+                    self.zeroNode(node);
                 }
             }
         }
+    }
+
+    /// REGISTRY DE-ALLOCATION (Opcode: DELETE_OLD_ADDRESS)
+    /// Resets the hardware registers of a hex-plate to zero tension.
+    /// This ensures the address-space is clear for the next N-tick commit.
+    fn zeroNode(self: *LogismosEngine, node: *LatticeNode) void {
+        _ = self;
+
+        // Iterate over Side A [0] and Side B [1] (The Manifold)
+        for (&node.sides) |*side| {
+            // 1. Zero the Fact and Tension (V, R)
+            // We leave the 'fraction' (F) at its current word-width
+            // to maintain the gear-ratio of the local neighborhood.
+            side.packet.value = 0;
+            side.packet.remainder = 0;
+
+            // 2. Clear the 12-bit Transceiver
+            // This stops momentum (R_k) and removes Parent ownership (P_ID).
+            side.kinetic_footer.momentum_r = 0;
+            side.kinetic_footer.parent_id = 0;
+
+            // 3. Clear the Metadata Instruction
+            // Resetting the dipole_index and scale to nominal idle.
+            side.packet.meta_data = .{
+                .f_scale = 0,
+                .dipole_index = 0,
+                ._reserved = 0,
+            };
+        }
+
+        // Note: We do NOT zero node.adjacents[].
+        // Those are physical 'Pointers' (Hardware wires) to neighbor nodes.
+        // They are permanent fixtures of the hexagonal lattice topology.
     }
 };
 
