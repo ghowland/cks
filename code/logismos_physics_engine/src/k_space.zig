@@ -10,6 +10,7 @@ pub const RegistryOpcode = enum(i32) {
     AUDIT_PARITY = 0x02, // Execute Bilateral J*S Verification
     SNAP_COMMIT = 0x03, // Force R -> V transition across Word boundary
     RESET_R = 0x04, // Purge all Remainder Tension to 0
+    VENT_HEAT = 0x05, // Convert V-overflow into R-noise (Thermal Venting)
 };
 
 // Kinematic & Navigation Opcodes (0x10 - 0x1F)
@@ -182,19 +183,35 @@ pub const LatticeNodeSide = struct {
         self.kinetic_footer.momentum_r = 0;
     }
 
-    // Inside LatticeNodeSide
+    /// GU v9/v10 UV-Symmetry: The Navier-Stokes Vent
+    /// Prevents infinite density blow-up by converting over-limit LUs
+    /// into kinetic 'Heat' (Remainder) in the adjacent neighbors.
     pub fn auditSaturation(self: *LatticeNodeSide, neighbors: [3]?*LatticeNode) void {
-        if (self.packet.value > MAX_PAYLOAD) {
-            const overflow = self.packet.value - MAX_PAYLOAD;
-            self.packet.value = MAX_PAYLOAD;
+        const UV_LIMIT = 144;
 
-            // RE-ROUTE (Turbulence): Push overflow LUs to dipoles
-            const share = overflow / 3;
+        if (self.packet.value > UV_LIMIT) {
+            const overflow = self.packet.value - UV_LIMIT;
+            self.packet.value = UV_LIMIT; // Snap to ceiling
+
+            // Convert 'Solid Matter' back into 'Vibrational Noise'
+            // We divide by 3 to distribute the heat across the dipoles.
+            const heat_per_dipole = overflow / 3;
+
             for (neighbors) |maybe_node| {
                 if (maybe_node) |node| {
-                    // In K-Space, 'Gravity' is just injecting LUs into neighbors
-                    node.sides[0].packet.value += share;
+                    // Inject Heat as R-tension on both sides of the neighbor
+                    node.sides[0].packet.remainder += heat_per_dipole;
+                    node.sides[1].packet.remainder += heat_per_dipole;
+
+                    // Logically, heat increases momentum
+                    node.sides[0].kinetic_footer.momentum_r +|= 1;
                 }
+            }
+
+            // System-level Audit: If overflow is massive, trigger an Audit Error
+            if (overflow > 1024) {
+                // Trigger 'STABILITY_FAIL' (0x30) as a Registry Event
+                // This would be perceived as a 'Micro-Nova' or 'Spike'
             }
         }
     }
