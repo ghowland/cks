@@ -501,13 +501,10 @@ pub const LogismosEngine = struct {
         self.soliton_n1.verifyInternalParity();
 
         for (self.soliton_n1.children) |soliton| {
-            // 1. THE SOLITON AUDITS ITSELF (RAID 1)
-            // The object 'Checks' if its Side A and Side B are in sync.
+            // 1. THE SOLITON AUDITS ITSELF (RAID 1): The object 'Checks' if its Side A and Side B are in sync.
             soliton.verifyInternalParity();
 
-            // 2. KINETIC PROCESSING
-            // After verification, the engine applies locomotion based on
-            // the resulting Momentum R in the 12-bit footers.
+            // 2. KINETIC PROCESSING: After verification, the engine applies locomotion based on the resulting Momentum R in the 12-bit footers.
             self.applyRegistryKinematics(soliton);
         }
 
@@ -516,7 +513,7 @@ pub const LogismosEngine = struct {
 
         // Inside LogismosEngine.step()
         var frame_data = std.array_list.Managed(xspace.HolographicSoliton).init(self.allocator);
-        for (self.master_solitons.items) |soliton| {
+        for (self.soliton_n1.items) |soliton| {
             const data = try soliton.getRenderData(self.allocator);
             try frame_data.append(data);
         }
@@ -532,14 +529,64 @@ pub const LogismosEngine = struct {
         // This will be implemented in the 'X-Verse' project.
     }
 
+    /// KINETIC RESOLUTION ENGINE:
+    /// Operates at Logic Speed (cL) to move solitons across the registry.
+    /// This is the industrial execution of 'Force' as 'Registry Re-indexing'.
     fn applyRegistryKinematics(self: *LogismosEngine, soliton: *Soliton) void {
         _ = self;
+
+        // 1. ITERATE: Every Lex-Brick (node) in the soliton mesh
         for (soliton.nodes) |*node| {
-            // If the Soliton's audit left a high remainder in the footer, move it.
-            if (node.sides[0].kinetic_footer.momentum_r > 31) {
-                // Opcode 0x11: INC_ADDR
-                // Moves the 'Lex Brick' to the next hex-plate address
-                // Opcodes.inc_addr(node, node.sides[0].meta_data.dipole_index);
+
+            // 2. AUDIT FOOTER: Check the 6-bit Momentum Register (R_k)
+            // We use Side A as the primary instruction source.
+            const momentum = node.sides[0].kinetic_footer.momentum_r;
+
+            // 3. THRESHOLD CHECK: Does the tension exceed the 32-bit Word?
+            // In CKS, if R > 31, the registry 'slips' into the next node.
+            if (momentum > 31) {
+
+                // 4. RETRIEVE DIRECTION: Query the D=3 Dipole Index from Metadata
+                // This is the hard-coded 120-degree pivot direction.
+                const target_dipole = node.sides[0].meta_data.dipole_index;
+
+                // 5. ATTEMPT LOCOMOTION: Execute Opcode 0x11 (INC_ADDR)
+                // This performs the 'Serial Teleport' to the adjacent hex-plate.
+                if (node.adjacents[target_dipole]) |adjacent_node| {
+
+                    // --- REGISTRY TRANSACTION START ---
+
+                    // A. Clone the Packet (V, F, R) to the Target
+                    // We move the 'Fact' and the 'Tension' to the next address.
+                    adjacent_node.sides[0].packet = node.sides[0].packet;
+                    adjacent_node.sides[1].packet = node.sides[1].packet;
+
+                    // B. Maintain Kinetic Footer in the new address
+                    // We subtract 32 from momentum to signify one 'Snap' of movement.
+                    const new_momentum: u6 = @intCast(momentum - 32);
+                    adjacent_node.sides[0].kinetic_footer.momentum_r = new_momentum;
+                    adjacent_node.sides[1].kinetic_footer.momentum_r = new_momentum;
+
+                    // C. Inheritance: Maintain the Parent Soliton ID (6-bit Liaison)
+                    adjacent_node.sides[0].kinetic_footer.parent_id = node.sides[0].kinetic_footer.parent_id;
+                    adjacent_node.sides[1].kinetic_footer.parent_id = node.sides[1].kinetic_footer.parent_id;
+
+                    // D. DELETE OLD (Registry De-allocation)
+                    // Zeroing the old node's LUs clears the space for the next write.
+                    node.sides[0].packet.value = 0;
+                    node.sides[1].packet.value = 0;
+                    node.sides[0].packet.remainder = 0;
+                    node.sides[1].packet.remainder = 0;
+                    node.sides[0].kinetic_footer.momentum_r = 0;
+                    node.sides[1].kinetic_footer.momentum_r = 0;
+
+                    // --- REGISTRY TRANSACTION COMPLETE ---
+
+                } else {
+                    // REGISTRY WALL: The dipole index points to an unallocated address.
+                    // Physics Result: The object hits a 'Boundary' and R builds further.
+                    node.sides[0].packet.remainder += 1;
+                }
             }
         }
     }
@@ -565,12 +612,3 @@ pub const KSpaceLattice = struct {
         node_b.adjacents[inverse_idx] = node_a;
     }
 };
-
-// // --- Validation Check ---
-// t est "Verify Packet Bit-Widths" {
-//     try std.testing.expectEqual(@bitSizeOf(KineticFooter), 12);
-//     try std.testing.expectEqual(@bitSizeOf(PacketMetadata), 40);
-//     // Note: The total struct will align to the nearest byte,
-//     // but the bit-fields are audited by the Logismos BIOS.
-//     try std.testing.expectEqual(@bitSizeOf(LogismosPacket), 84);
-// }
