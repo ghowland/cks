@@ -23,16 +23,8 @@
 
 ---
 
----
-
 ## References
+
 
 ::: {#refs}
 :::
-
-**Neuroscience Literature:**
-- Zeman et al. (2015). "Lives without imagery – Congenital aphantasia." *Cortex*
-- Keogh & Pearson (2018). "The blind mind: No sensory visual imagery in aphantasia." *Cortex*
-- Dawes et al. (2020). "A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia." *Sci Rep*
-
----
