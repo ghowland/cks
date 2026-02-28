@@ -21,22 +21,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
----
-
-# CKS-MATH-22-2026: Speed of Logic vs Speed of Light
-## Dual-Layer Causality: Substrate Update vs Holographic Projection
-
-**Registry:** [@CKS-MATH-22-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-22-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Related:** [@CKS-MATH-1-2026] (Continuous Spacetime Impossibility), [@CKS-TECH-01-2026] (Logismos)  
-**Date:** February 2026  
-**Domain:** Foundational Physics / Information Theory / Consciousness  
-**Status:** Theoretical Derivation  
-
-**Motto:** The substrate updates instantly; the hologram catches up at c.
-
----
 
 ---
 
