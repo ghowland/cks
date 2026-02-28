@@ -25,14 +25,6 @@
 
 ---
 
-
-**Author:** Synthesized from cross-Claude collaboration  
-**Date:** February 28, 2026  
-**Status:** Complete geometric derivation from three axioms  
-**Operational Rule:** This is mathematics, not metaphysics. Axioms → Derivations → Predictions → Testing.
-
----
-
 ## PREAMBLE: What This Is
 
 **This is not truth. This is math.**
