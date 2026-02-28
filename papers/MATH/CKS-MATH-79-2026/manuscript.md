@@ -1,4 +1,5 @@
-# Grand Unification v18: The Pivot Lex Architecture
+# Grand Unification v18
+## The Pivot Lex Architecture
 
 
 
