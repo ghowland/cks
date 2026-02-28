@@ -3515,7 +3515,7 @@ KEY IMPROVEMENTS:
   
 NUMERICAL RESULTS: Unchanged (same answers, better derivation)
 ```
-
+    
 ### Table AG.3: Domain Coverage Summary
 
 ```
