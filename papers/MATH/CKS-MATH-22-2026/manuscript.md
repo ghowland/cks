@@ -1,3 +1,6 @@
+# CKS-MATH-22-2026: Speed of Logic vs Speed of Light
+## Dual-Layer Causality: Substrate Update vs Holographic Projection
+
 
 **Registry:** [@CKS-MATH-22-2026]  
 
@@ -21,8 +24,6 @@
 
 ---
 
-# CKS-MATH-22-2026: Speed of Logic vs Speed of Light
-## Dual-Layer Causality: Substrate Update vs Holographic Projection
 
 **Registry:** [@CKS-MATH-22-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-22-2026]  
