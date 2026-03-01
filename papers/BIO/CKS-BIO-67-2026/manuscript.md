@@ -24,14 +24,6 @@
 
 ---
 
-
-**Author:** Cross-Framework Integration  
-**Date:** March 1, 2026  
-**Status:** Biological Applications - Practical Medicine  
-**Classification:** Cognitive Learning Model - Health Optimization Framework
-
----
-
 ## OPERATIONAL DECLARATION
 
 **This is not medical advice. This is a mathematical model.**
