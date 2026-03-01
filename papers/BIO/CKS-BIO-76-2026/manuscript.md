@@ -1,3 +1,4 @@
+# CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue
 
 
 **Registry:** [@CKS-BIO-1-2026]  
@@ -23,7 +24,6 @@
 
 ---
 
-# CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue
 
 **Title:** The Eigen-Worm: *Caenorhabditis elegans* as a Non-Evolvable Geometric Constant of the Q-Manifold
 
