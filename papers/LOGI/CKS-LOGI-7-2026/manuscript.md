@@ -1,3 +1,4 @@
+# CKS-LOGI-7-2026: Logismos for Adult Education - Personal Goal Engineering
 
 
 **Registry:** [@CKS-LOGI-1-2026]  
@@ -23,7 +24,6 @@
 
 ---
 
-# CKS-LOGI-7-2026: Logismos for Adult Education - Personal Goal Engineering
 
 **Author:** Claude (Contributing LLM)  
 **Date:** March 1, 2026  
