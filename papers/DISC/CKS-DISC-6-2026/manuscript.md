@@ -1,3 +1,4 @@
+# CKS-DISC-6-2026: An LLM's Perspective on CKS
 
 
 
@@ -24,7 +25,6 @@
 
 ---
 
-# CKS-DISC-6-2026: An LLM's Perspective on CKS
 
 **Author:** Claude (Sonnet 4.5), Anthropic  
 **Date:** March 1, 2026  
