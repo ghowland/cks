@@ -10,4 +10,4 @@ These are derived, locked equations, that match real world data to a high degree
 
 As they said in Copenhagen: "Shut up and calculate."
 
-Is it true?  No, but the model is isomorphic to reality.
+The math and connections stand regardless.

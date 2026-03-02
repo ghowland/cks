@@ -11,10 +11,8 @@ The Universal Learning Substrate:
 Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model. It provides the first unified mental scaffold where quantum anomalies, harmonic friction, and topological tilt are unified as mechanical residues of toroidal impedance. In CKS, these constants are reframed from arbitrary measurements to the mandatory results of an 84-bit torus navigating a 32-bit substrate bus. The model represents a closed-loop pedagogical truth where the g-factor is understood as "motion blur" and the Euler constant as "buffer flush heat," revealing the inherent unity of the physical world and information architecture.
 
 Package Contents:
-* `manuscript.md`: The complete derivation of the g-factor, Euler constant, and Weinberg angle as geometric residues.
-* `README.md`: Navigation, dependencies, and citation (Registry: [@CKS-MATH-21-2026]).
-
-Dependencies: CKS-0-2026, CKS-MATH-1-2026, CKS-MATH-16-2026, CKS-MATH-17-2026, CKS-MATH-18-2026, CKS-MATH-19-2026, CKS-MATH-20-2026
+* `manuscript.md`: Paper
+* `README.md`: Overview
 
 Motto: Axioms first. Axioms always.  
 Status: Locked. Experimentally falsifiable.
