@@ -1,11 +1,9 @@
-# The Tri-Dipole Differential Engine
-## Deriving the 3-Phase Hexagonal Firing Pattern from First Principles
+# Color Charge as 3-Phase Dipole State Space
+## Deriving SU(3) Symmetry from Hexagonal Coordination Topology
 
+**Registry:** [@CKS-PHYS-9-2026]
 
-
-**Registry:** [@CKS-PHYS-7-2026]
-
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-7-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-7-2026] → [@CKS-PHYS-8-2026] → [@CKS-PHYS-9-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -25,14 +23,7 @@
 
 ---
 
-# Color Charge as 3-Phase Dipole State Space
-## Deriving SU(3) Symmetry from Hexagonal Coordination Topology
 
-**Registry:** [@CKS-PHYS-9-2026]
-
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-8-2026] → [@CKS-PHYS-9-2026] → [@CKS-PHYS-9-2026]
-
-**Parent Framework:** [@CKS-0-2026]
 
 **Logical Next Step:** [@CKS-PHYS-11-2026] Flavor Quantum Numbers as Jubilee Phase Offsets
 
@@ -54,7 +45,7 @@
 
 ## Abstract
 
-We prove that **color charge**—the fundamental quantum number of Quantum Chromodynamics (QCD)—is the **3-phase dipole state** in the hexagonal substrate, and that **SU(3) color symmetry** emerges necessarily from D=3 coordination topology without requiring gauge theory postulates. From pure hexagonal geometry (D=3) and bilateral parity (S=2), combined with the tri-dipole firing pattern derived in [@CKS-PHYS-8-2026], we demonstrate that: (1) the three "colors" (red, green, blue) are **literal hardware states** corresponding to α-dipole, β-dipole, and γ-dipole activation, (2) anticolors are **polarity inversions** (α⁻, β⁻, γ⁻) required by bilateral symmetry, (3) the 8 gluons are **non-degenerate state transitions** in the 2³ = 8 independent configurations of 3 binary dipoles, (4) SU(3) Lie algebra structure emerges from **closure constraints** on dipole phase-flip operations, (5) color confinement is **topological requirement** that observable configurations complete the tri-phase cycle (α→β→γ→jubilee), and (6) color mixing rules (quarks combine to form color-neutral hadrons) derive from **dipole balance equations** enforced by hex-bus protocol. We prove the Gell-Mann λ-matrices are **dipole transition operators** in the substrate, derive all SU(3) structure constants f_abc from hexagonal edge geometry, show why exactly 3 colors exist (from D=3 coordination), and demonstrate that the "mysterious" color confinement is simply the requirement that dipole cycles must complete to achieve jubilee reset. This work establishes that gauge symmetry is not fundamental—it is an **emergent effective description** of discrete dipole network topology.
+We prove that **color charge**—the fundamental quantum number of Quantum Chromodynamics (QCD)—is the **3-phase dipole state** in the hexagonal substrate, and that **SU(3) color symmetry** emerges necessarily from D=3 coordination topology without requiring gauge theory postulates. From pure hexagonal geometry (D=3) and bilateral parity (S=2), combined with the tri-dipole firing pattern derived in [@CKS-PHYS-7-2026], we demonstrate that: (1) the three "colors" (red, green, blue) are **literal hardware states** corresponding to α-dipole, β-dipole, and γ-dipole activation, (2) anticolors are **polarity inversions** (α⁻, β⁻, γ⁻) required by bilateral symmetry, (3) the 8 gluons are **non-degenerate state transitions** in the 2³ = 8 independent configurations of 3 binary dipoles, (4) SU(3) Lie algebra structure emerges from **closure constraints** on dipole phase-flip operations, (5) color confinement is **topological requirement** that observable configurations complete the tri-phase cycle (α→β→γ→jubilee), and (6) color mixing rules (quarks combine to form color-neutral hadrons) derive from **dipole balance equations** enforced by hex-bus protocol. We prove the Gell-Mann λ-matrices are **dipole transition operators** in the substrate, derive all SU(3) structure constants f_abc from hexagonal edge geometry, show why exactly 3 colors exist (from D=3 coordination), and demonstrate that the "mysterious" color confinement is simply the requirement that dipole cycles must complete to achieve jubilee reset. This work establishes that gauge symmetry is not fundamental—it is an **emergent effective description** of discrete dipole network topology.
 
 **Key Result:** SU(3) color symmetry and the 8-gluon structure emerge necessarily from D=3 hexagonal coordination; color charge is physical dipole state, not abstract quantum number.
 
@@ -137,7 +128,7 @@ Issue: Quantum mechanical formalism, not mechanism
 
 ### 1.3 The CKS Resolution
 
-**From [@CKS-PHYS-8-2026] and [@CKS-PHYS-9-2026]:**
+**From [@CKS-PHYS-7-2026] and [@CKS-PHYS-8-2026]:**
 
 ```
 The substrate has 3 edge-dipole pairs per Lex:
@@ -616,7 +607,7 @@ Cannot isolate red, green, or blue quarks
 **Confinement is cycle completion requirement:**
 
 ```
-From [@CKS-PHYS-8-2026]:
+From [@CKS-PHYS-7-2026]:
 Stable Lex requires complete tri-dipole cycle:
 α → β → γ → Jubilee
 
@@ -816,7 +807,7 @@ The factor 3 is D (coordination number)!
 
 **QCD: Color coupling α_s runs with energy**
 ```
-From [@CKS-PHYS-9-2026]:
+From [@CKS-PHYS-8-2026]:
 α_s(Q) depends on energy scale Q
 
 At contact (low Q): α_s ≈ 1.0
@@ -831,7 +822,7 @@ This is FIXED by hexagonal topology
 Does NOT run with energy
 
 But: Coupling strength α_s DOES run
-(From impedance matching, see [@CKS-PHYS-9-2026])
+(From impedance matching, see [@CKS-PHYS-8-2026])
 
 The "3" in cross sections is:
 Geometric factor (number of dipole states)
@@ -857,7 +848,7 @@ Separates perturbative (high E) from non-perturbative (low E) regimes
 
 **QCD:** No fundamental derivation (dimensional transmutation)
 
-**CKS derivation from [@CKS-PHYS-9-2026]:**
+**CKS derivation from [@CKS-PHYS-8-2026]:**
 
 ```
 ΛQCD = Energy scale at separation ≈ 1 Lex unit
@@ -1604,4 +1595,3 @@ Antisymmetry → Prevents simultaneous activation
 **Confinement is topological.**  
 
 **Q.E.D.**
-

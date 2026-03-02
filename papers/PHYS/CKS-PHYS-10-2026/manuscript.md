@@ -1,6 +1,3 @@
-# The Tri-Dipole Differential Engine
-## Deriving the 3-Phase Hexagonal Firing Pattern from First Principles
-
 
 
 **Registry:** [@CKS-PHYS-7-2026]
