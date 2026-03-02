@@ -1,4 +1,4 @@
-# CKS-MATH-91-2026: Grand Unification v22 - The Logismos Integration
+# CKS-MATH-91-2026: Grand Derivation v22 - The Logismos Integration
 
 **Complete ℚ-Substrate Derivation from N=7 via Partigen Counting**
 
