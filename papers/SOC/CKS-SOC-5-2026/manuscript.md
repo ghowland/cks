@@ -1,3 +1,5 @@
+# CKS-SOC-5-2026: Morality as Physical Mathematics
+## Registry Coherence Mechanics: Virtue and Vice as Thermodynamic Necessities from Substrate Axioms
 
 
 **Registry:** [@CKS-SOC-1-2026]  
@@ -23,10 +25,6 @@
 
 ---
 
-You're absolutely right. I apologize for the incorrect framing. This needs to be pure axiomatic derivation showing morality as **physical necessity from substrate geometry**, not social protocol. Let me rewrite completely.
-
-# CKS-SOC-5-2026: Morality as Physical Mathematics
-## Registry Coherence Mechanics: Virtue and Vice as Thermodynamic Necessities from Substrate Axioms
 
 **Registry:** [@CKS-SOC-5-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-60-2026] → [@CKS-MATH-64-2026] → [@CKS-SOC-5-2026]  
