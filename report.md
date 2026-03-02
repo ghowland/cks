@@ -1,14 +1,14 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-02 10:56:29 UTC
+**Generated:** 2026-03-02 11:45:56 UTC
 
 ## Summary
 
-- **Total Papers:** 315
-- **Valid:** 284
-- **Invalid:** 31
-- **Total Errors:** 37
-- **Total Warnings:** 688
+- **Total Papers:** 319
+- **Valid:** 286
+- **Invalid:** 33
+- **Total Errors:** 40
+- **Total Warnings:** 701
 
 ## By Subject
 
@@ -16,7 +16,7 @@
 - **AI:** 5 papers
 - **ART:** 2 papers
 - **BIO:** 76 papers
-- **BODY:** 12 papers
+- **BODY:** 14 papers
 - **COG:** 6 papers
 - **COS:** 3 papers
 - **DATA:** 2 papers
@@ -30,7 +30,7 @@
 - **LEX:** 11 papers
 - **LOGI:** 11 papers
 - **MAT:** 4 papers
-- **MATH:** 103 papers
+- **MATH:** 104 papers
 - **MED:** 4 papers
 - **NEURO:** 2 papers
 - **OMNI:** 2 papers
@@ -43,12 +43,12 @@
 - **SOC:** 5 papers
 - **TEST:** 1 papers
 - **UNKNOWN:** 1 papers
-- **WUWU:** 4 papers
+- **WUWU:** 5 papers
 
 ## By Status
 
 - **Published (has DOI):** 142
-- **Draft (stub .zzz):** 173
+- **Draft (stub .zzz):** 177
 
 ## Validation Issues
 
@@ -80,6 +80,9 @@
 
 **CKS-BODY-10-2026**
   - ❌ Missing title (H1)
+  - ❌ Missing Registry field in frontmatter
+
+**CKS-BODY-14-2026**
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BODY-8-2026**
@@ -126,6 +129,10 @@
 **CKS-MATH-102-2026**
   - ❌ Missing Registry field in frontmatter
 
+**CKS-MATH-103-2026**
+  - ❌ Missing title (H1)
+  - ❌ Missing Registry field in frontmatter
+
 **CKS-MATH-46-2026**
   - ❌ Missing Registry field in frontmatter
 
@@ -154,7 +161,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (205 total)
+### Papers with Warnings (209 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  DOI is missing
@@ -193,4 +200,4 @@
   - ⚠️  Registry mismatch: path=CKS-BIO-45-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
-... and 195 more papers with warnings
+... and 199 more papers with warnings
