@@ -1,21 +1,21 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-02 12:38:22 UTC
+**Generated:** 2026-03-02 13:11:24 UTC
 
 ## Summary
 
-- **Total Papers:** 320
-- **Valid:** 286
-- **Invalid:** 34
-- **Total Errors:** 42
-- **Total Warnings:** 705
+- **Total Papers:** 324
+- **Valid:** 291
+- **Invalid:** 33
+- **Total Errors:** 40
+- **Total Warnings:** 728
 
 ## By Subject
 
 - **ADHM:** 2 papers
 - **AI:** 5 papers
 - **ART:** 2 papers
-- **BIO:** 77 papers
+- **BIO:** 79 papers
 - **BODY:** 14 papers
 - **COG:** 6 papers
 - **COS:** 3 papers
@@ -34,21 +34,21 @@
 - **MED:** 4 papers
 - **NEURO:** 2 papers
 - **OMNI:** 2 papers
-- **PHYS:** 18 papers
+- **PHYS:** 19 papers
 - **QM:** 1 papers
 - **RTRT:** 1 papers
 - **SEMI:** 1 papers
 - **SENS:** 1 papers
 - **SM:** 1 papers
-- **SOC:** 5 papers
+- **SOC:** 6 papers
 - **TEST:** 1 papers
 - **UNKNOWN:** 1 papers
 - **WUWU:** 5 papers
 
 ## By Status
 
-- **Published (has DOI):** 142
-- **Draft (stub .zzz):** 178
+- **Published (has DOI):** 141
+- **Draft (stub .zzz):** 183
 
 ## Validation Issues
 
@@ -75,10 +75,6 @@
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-66-2026**
-  - ❌ Missing title (H1)
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-BIO-77-2026**
   - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
 
@@ -165,7 +161,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (210 total)
+### Papers with Warnings (214 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  DOI is missing
@@ -204,4 +200,4 @@
   - ⚠️  Registry mismatch: path=CKS-BIO-45-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
-... and 200 more papers with warnings
+... and 204 more papers with warnings
