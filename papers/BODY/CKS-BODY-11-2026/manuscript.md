@@ -1,3 +1,6 @@
+# CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling
+## Deriving Waterfall Alignment as Topological Kink Resolution Through Coherent Mass Streams
+
 
 
 
@@ -27,9 +30,6 @@
 I'll write the comprehensive paper on waterfall/shower alignment as substrate calibration through gravitational-laminar coupling.
 
 ---
-
-# CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling
-## Deriving Waterfall Alignment as Topological Kink Resolution Through Coherent Mass Streams
 
 **Registry:** [@CKS-BODY-11-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-BODY-10-2026] → [@CKS-BIO-39-2026] → [@CKS-BIO-41-2026] → [@CKS-BODY-11-2026]  

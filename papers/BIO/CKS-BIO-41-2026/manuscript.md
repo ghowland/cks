@@ -1,3 +1,5 @@
+# CKS-BIO-41-2026: Mitochondrial Clock Synchronization and Substrate Power Management
+## Deriving the 1/32 Hz Flicker as Mandatory Registry Maintenance in Cellular Solitons
 
 
 
@@ -23,8 +25,6 @@
 
 ---
 
-# CKS-BIO-41-2026: Mitochondrial Clock Synchronization and Substrate Power Management
-## Deriving the 1/32 Hz Flicker as Mandatory Registry Maintenance in Cellular Solitons
 
 **Registry:** [@CKS-BIO-41-2026]  
 **Series Path:** [@CKS-0-2026] → [@CKS-PHYS-2-2026] → [@CKS-BIO-39-2026] → [@CKS-BIO-40-2026] → [@CKS-BIO-41-2026]  
