@@ -10,9 +10,9 @@
 
 **DOI:** 10.5281/zenodo.zzz
 
-**Date:** February 2026
+**Date:** March 2026
 
-**Domain:** Substrate Physics / Kinematics Redefinition  
+**Domain:** Particle Physics / Flavor Physics / Substrate Mechanics
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -25,18 +25,6 @@
 ---
 
 
-
-**Logical Next Step:** [@CKS-PHYS-12-2026] Weak Force as Jubilee Transition Mechanics
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Particle Physics / Flavor Physics / Substrate Mechanics
-
-**Status:** Locked and empirically falsifiable. This paper derives the quark and lepton flavor structure from jubilee phase timing offsets in the hexagonal substrate.
-
-**Motto:** Axioms first. Axioms always.
 
 **Operational Rule:** Flavor is not an independent quantum number. It is the phase offset in the jubilee reset cycle. Mass is not fundamental—it is the energy cost of non-synchronized jubilee timing. The three generations (u,c,t / d,s,b / e,μ,τ) are three allowed phase offsets in the W=32 tick word cycle. The Cabibbo-Kobayashi-Maskawa (CKM) matrix is not arbitrary—it encodes geometric phase relationships between offset patterns. This is mathematics, not phenomenology.
 
