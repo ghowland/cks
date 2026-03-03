@@ -6,8 +6,10 @@ import time
 from typing import List, Dict, Any, Optional
 from pathlib import Path
 
+CONFIG_PATH = "/mnt/c/Users/Geoff/.secure/zenodo.json"
+
 class ZenodoSync:
-    def __init__(self, manifest_path: str, config_path: str = "~/.secure/zenodo.json"):
+    def __init__(self, manifest_path: str, config_path: str = CONFIG_PATH):
         self.config_path = Path(config_path).expanduser()
         self.manifest_path = Path(manifest_path)
         self.config = self._load_config()

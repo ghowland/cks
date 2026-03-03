@@ -399,6 +399,18 @@
           "filesize": 112883
         }
       }
+    },
+    "CKS-ADHM-1-2026": {
+      "zenodo_id": 18845056,
+      "doi": "10.5281/zenodo.18845056",
+      "status": "draft",
+      "files": {
+        "!manuscript.pdf": {
+          "checksum": "c6771f2511160f28090587ec083f7019",
+          "size": 74401
+        }
+      },
+      "metadata_hash": "d88cf2d3da7488c3cef00c0890064b804d553f596d587561d9e388998ee8a809"
     }
   },
   "last_full_sync": "2026-03-03T13:26:59Z"

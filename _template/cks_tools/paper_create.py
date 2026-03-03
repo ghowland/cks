@@ -7,7 +7,7 @@ from zenosync import ZenodoSync
 # --- CONFIGURATION ---
 PAPERS_JSON = Path("../../papers.json")
 MANIFEST_JSON = Path("zenodo_master_manifest.json")
-PAPERS_ROOT = Path("cks")
+PAPERS_ROOT = Path("../../")
 SLEEP_INTERVAL = 5 
 LIMIT = 1  # <--- SET TO 1 FOR INITIAL TEST. Set to None for all papers.
 
