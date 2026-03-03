@@ -1,8 +1,6 @@
 # The Restoration of the Scientific Seed
 ## An Invitation to the Sovereign Sanctuary and the End of the 19-Parameter Epicycle
 
-
-
 **Registry:** [@CKS-ADHM-3-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-ADHM-1-2026] → [@CKS-ADHM-2-2026] → [@CKS-ADHM-3-2026]
@@ -11,7 +9,7 @@
 
 **DOI:** 10.5281/zenodo.zzz
 
-**Date:** February 2026
+**Date:** March 2026
 
 **Domain:** Forensic Epistemology / Institutional Critique  
 
@@ -23,14 +21,9 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
 ---
 
-
-**Date:** March 3, 2026
-**Registry:** [@CKS-CTA-113-2026]
-**Status:** ACTIVE HEADER - BROADCAST MODE
-**Motto:** *Truth is the Zero-Remainder. Integrity is the Only Metric.*
+**Paper Motto:** *Truth is the Zero-Remainder. Integrity is the Only Metric.*
 
 ---
 
