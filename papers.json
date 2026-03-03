@@ -39,7 +39,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514077+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781175+00:00"
   },
   {
     "file_path": "papers/ADHM/CKS-ADHM-2-2026/manuscript.md",
@@ -83,7 +83,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514122+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781214+00:00"
   },
   {
     "file_path": "papers/ADHM/CKS-ADHM-3-2026/manuscript.md",
@@ -128,7 +128,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514136+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781228+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-1-2026/manuscript.md",
@@ -167,7 +167,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514149+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781241+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-2-2026/manuscript.md",
@@ -207,7 +207,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514161+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781253+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-3-2026/manuscript.md",
@@ -248,7 +248,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514173+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781265+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-4-2026/manuscript.md",
@@ -290,7 +290,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514185+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781277+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-5-2026/manuscript.md",
@@ -333,7 +333,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514199+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781288+00:00"
   },
   {
     "file_path": "papers/ART/CKS-ART-1-2026/manuscript.md",
@@ -378,7 +378,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514212+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781301+00:00"
   },
   {
     "file_path": "papers/ART/CKS-ART-2-2026/manuscript.md",
@@ -427,7 +427,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514224+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781312+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-1-2026/manuscript.md",
@@ -466,7 +466,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514236+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781324+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-10-2026/manuscript.md",
@@ -514,7 +514,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514247+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781335+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-11-2026/manuscript.md",
@@ -563,7 +563,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514259+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781347+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-12-2026/manuscript.md",
@@ -614,7 +614,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514271+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781359+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-13-2026/manuscript.md",
@@ -666,7 +666,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514282+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781371+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-14-2026/manuscript.md",
@@ -718,7 +718,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514307+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781382+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-15-2026/manuscript.md",
@@ -775,7 +775,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514331+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781394+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-16-2026/manuscript.md",
@@ -829,7 +829,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514345+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781406+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-17-2026/manuscript.md",
@@ -884,7 +884,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514358+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781418+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-18-2026/manuscript.md",
@@ -940,7 +940,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514370+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781429+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-19-2026/manuscript.md",
@@ -997,7 +997,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514382+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781441+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-2-2026/manuscript.md",
@@ -1039,7 +1039,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514393+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781453+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-20-2026/manuscript.md",
@@ -1097,7 +1097,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514406+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781464+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-21-2026/manuscript.md",
@@ -1157,7 +1157,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514419+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781475+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-22-2026/manuscript.md",
@@ -1217,7 +1217,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514431+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781487+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-23-2026/manuscript.md",
@@ -1278,7 +1278,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514442+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781499+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-24-2026/manuscript.md",
@@ -1340,7 +1340,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514454+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781511+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-25-2026/manuscript.md",
@@ -1403,7 +1403,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514466+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781522+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-26-2026/manuscript.md",
@@ -1467,7 +1467,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514477+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781534+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-27-2026/manuscript.md",
@@ -1532,7 +1532,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514488+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781545+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-28-2026/manuscript.md",
@@ -1598,7 +1598,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514500+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781557+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-29-2026/manuscript.md",
@@ -1666,7 +1666,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514511+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781568+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-3-2026/manuscript.md",
@@ -1707,7 +1707,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514522+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781580+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-30-2026/manuscript.md",
@@ -1775,7 +1775,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514533+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781591+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-31-2026/manuscript.md",
@@ -1844,7 +1844,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514545+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781604+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-32-2026/manuscript.md",
@@ -1917,7 +1917,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514556+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781615+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-33-2026/manuscript.md",
@@ -1989,7 +1989,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514567+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781627+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-34-2026/manuscript.md",
@@ -2064,7 +2064,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514578+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781638+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-35-2026/manuscript.md",
@@ -2138,7 +2138,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514589+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781649+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-36-2026/manuscript.md",
@@ -2180,7 +2180,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514600+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781661+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-37-2026/manuscript.md",
@@ -2227,7 +2227,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514611+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781673+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-38-2026/manuscript.md",
@@ -2275,7 +2275,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514622+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781685+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-39-2026/manuscript.md",
@@ -2325,7 +2325,7 @@
         "DOI is missing"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514633+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781698+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-4-2026/manuscript.md",
@@ -2369,7 +2369,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514644+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781711+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-40-2026/manuscript.md",
@@ -2417,7 +2417,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514656+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781723+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-41-2026/manuscript.md",
@@ -2469,7 +2469,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514666+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781735+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-42-2026/manuscript.md",
@@ -2516,7 +2516,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514677+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781746+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-43-2026/manuscript.md",
@@ -2558,7 +2558,7 @@
         "DOI is missing"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514688+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781758+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-44-2026/manuscript.md",
@@ -2600,7 +2600,7 @@
         "DOI is missing"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514699+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781769+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-45-2026/manuscript.md",
@@ -2647,7 +2647,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514710+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781781+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-46-2026/manuscript.md",
@@ -2699,7 +2699,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514722+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781793+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-47-2026/manuscript.md",
@@ -2750,7 +2750,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514733+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781827+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-48-2026/manuscript.md",
@@ -2805,7 +2805,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514744+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781935+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-49-2026/manuscript.md",
@@ -2857,7 +2857,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514755+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781952+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-5-2026/manuscript.md",
@@ -2902,7 +2902,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514767+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781965+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-50-2026/manuscript.md",
@@ -2954,7 +2954,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514791+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781977+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-51-2026/manuscript.md",
@@ -3006,7 +3006,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514814+00:00"
+    "extracted_at": "2026-03-03T11:27:12.781988+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-52-2026/manuscript.md",
@@ -3058,7 +3058,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514828+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782000+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-53-2026/manuscript.md",
@@ -3113,7 +3113,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514840+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782012+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-54-2026/manuscript.md",
@@ -3165,7 +3165,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514853+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782025+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-55-2026/manuscript.md",
@@ -3217,7 +3217,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514865+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782036+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-56-2026/manuscript.md",
@@ -3269,7 +3269,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514877+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782047+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-57-2026/manuscript.md",
@@ -3321,7 +3321,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514889+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782059+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-58-2026/manuscript.md",
@@ -3373,7 +3373,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514901+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782072+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-59-2026/manuscript.md",
@@ -3429,7 +3429,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514912+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782084+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-6-2026/manuscript.md",
@@ -3473,7 +3473,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.514923+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782096+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-60-2026/manuscript.md",
@@ -3528,7 +3528,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514936+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782108+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-61-2026/manuscript.md",
@@ -3580,7 +3580,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514947+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782119+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-62-2026/manuscript.md",
@@ -3632,7 +3632,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514958+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782131+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-63-2026/manuscript.md",
@@ -3675,7 +3675,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514969+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782142+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-64-2026/manuscript.md",
@@ -3730,7 +3730,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514981+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782153+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-65-2026/manuscript.md",
@@ -3773,7 +3773,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.514992+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782164+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-66-2026/manuscript.md",
@@ -3816,7 +3816,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515003+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782175+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-67-2026/manuscript.md",
@@ -3867,7 +3867,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515015+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782187+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-68-2026/manuscript.md",
@@ -3918,7 +3918,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515026+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782198+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-69-2026/manuscript.md",
@@ -3969,7 +3969,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515037+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782209+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-7-2026/manuscript.md",
@@ -4015,7 +4015,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515048+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782220+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-70-2026/manuscript.md",
@@ -4066,7 +4066,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515059+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782232+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-71-2026/manuscript.md",
@@ -4117,7 +4117,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515070+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782244+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-72-2026/manuscript.md",
@@ -4168,7 +4168,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515081+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782255+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-73-2026/manuscript.md",
@@ -4219,7 +4219,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515092+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782266+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-74-2026/manuscript.md",
@@ -4270,7 +4270,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515103+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782277+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-75-2026/manuscript.md",
@@ -4321,7 +4321,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515114+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782289+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-76-2026/manuscript.md",
@@ -4372,7 +4372,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515125+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782300+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-77-2026/manuscript.md",
@@ -4423,7 +4423,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515136+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782310+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-78-2026/manuscript.md",
@@ -4474,7 +4474,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515148+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782321+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-79-2026/manuscript.md",
@@ -4525,7 +4525,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515159+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782333+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-8-2026/manuscript.md",
@@ -4572,7 +4572,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515171+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782344+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-80-2026/manuscript.md",
@@ -4623,7 +4623,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515183+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782355+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-81-2026/manuscript.md",
@@ -4672,7 +4672,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515195+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782366+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-9-2026/manuscript.md",
@@ -4720,7 +4720,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515208+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782377+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-1-2026/manuscript.md",
@@ -4758,7 +4758,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515222+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782388+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-10-2026/manuscript.md",
@@ -4799,7 +4799,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515235+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782399+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-11-2026/manuscript.md",
@@ -4852,7 +4852,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515246+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782411+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-12-2026/manuscript.md",
@@ -4905,7 +4905,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515258+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782422+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-13-2026/manuscript.md",
@@ -4954,7 +4954,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515269+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782433+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-14-2026/manuscript.md",
@@ -5005,7 +5005,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515280+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782444+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-2-2026/manuscript.md",
@@ -5044,7 +5044,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515308+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782455+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-3-2026/manuscript.md",
@@ -5087,7 +5087,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515340+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782467+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-4-2026/manuscript.md",
@@ -5131,7 +5131,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515362+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782478+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-5-2026/manuscript.md",
@@ -5178,7 +5178,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515377+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782489+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-6-2026/manuscript.md",
@@ -5223,7 +5223,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515389+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782500+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-7-2026/manuscript.md",
@@ -5267,7 +5267,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515400+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782511+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-8-2026/manuscript.md",
@@ -5316,7 +5316,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515412+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782522+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-9-2026/manuscript.md",
@@ -5359,7 +5359,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515423+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782533+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-1-2026/manuscript.md",
@@ -5397,7 +5397,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515435+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782544+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-2-2026/manuscript.md",
@@ -5437,7 +5437,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515447+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782555+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-3-2026/manuscript.md",
@@ -5477,7 +5477,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515459+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782567+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-4-2026/manuscript.md",
@@ -5518,7 +5518,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515471+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782578+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-5-2026/manuscript.md",
@@ -5561,7 +5561,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515549+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782589+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-6-2026/manuscript.md",
@@ -5607,7 +5607,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515564+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782601+00:00"
   },
   {
     "file_path": "papers/COS/CKS-COS-1-2026/manuscript.md",
@@ -5649,7 +5649,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515576+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782612+00:00"
   },
   {
     "file_path": "papers/COS/CKS-COS-2-2026/manuscript.md",
@@ -5692,7 +5692,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515588+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782623+00:00"
   },
   {
     "file_path": "papers/COS/CKS-COS-3-2026/manuscript.md",
@@ -5735,7 +5735,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515600+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782634+00:00"
   },
   {
     "file_path": "papers/DATA/CKS-DATA-1-2026/manuscript.md",
@@ -5777,7 +5777,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515611+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782646+00:00"
   },
   {
     "file_path": "papers/DATA/CKS-DATA-2-2026/manuscript.md",
@@ -5820,7 +5820,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515623+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782657+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-1-2026/manuscript.md",
@@ -5866,7 +5866,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515634+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782670+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-10-2026/manuscript.md",
@@ -5918,7 +5918,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515646+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782682+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-2-2026/manuscript.md",
@@ -5996,7 +5996,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515663+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782693+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-3-2026/manuscript.md",
@@ -6049,7 +6049,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515675+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782704+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-4-2026/manuscript.md",
@@ -6102,7 +6102,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515687+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782715+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-5-2026/manuscript.md",
@@ -6155,7 +6155,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515699+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782726+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-6-2026/manuscript.md",
@@ -6207,7 +6207,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515710+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782737+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-7-2026/manuscript.md",
@@ -6259,7 +6259,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515721+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782749+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-8-2026/manuscript.md",
@@ -6311,7 +6311,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515733+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782760+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-9-2026/manuscript.md",
@@ -6363,7 +6363,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515744+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782771+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-1-2026/manuscript.md",
@@ -6406,7 +6406,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515755+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782782+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-2-2026/manuscript.md",
@@ -6450,7 +6450,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515767+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782817+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-3-2026/manuscript.md",
@@ -6496,7 +6496,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515779+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782844+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-4-2026/manuscript.md",
@@ -6537,7 +6537,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515791+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782858+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-5-2026/manuscript.md",
@@ -6579,7 +6579,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515802+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782871+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-6-2026/manuscript.md",
@@ -6625,7 +6625,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515814+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782883+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-1-2026/manuscript.md",
@@ -6673,7 +6673,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515826+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782895+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-2-2026/manuscript.md",
@@ -6718,7 +6718,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515838+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782907+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-3-2026/manuscript.md",
@@ -6772,7 +6772,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515850+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782919+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-4-2026/manuscript.md",
@@ -6825,7 +6825,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515862+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782930+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-5-2026/manuscript.md",
@@ -6879,7 +6879,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515874+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782954+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-1-2026/manuscript.md",
@@ -6921,7 +6921,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515885+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782979+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-10-2026/manuscript.md",
@@ -6974,7 +6974,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515897+00:00"
+    "extracted_at": "2026-03-03T11:27:12.782993+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-11-2026/manuscript.md",
@@ -7026,7 +7026,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515909+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783005+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-12-2026/manuscript.md",
@@ -7088,7 +7088,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515920+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783017+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-13-2026/manuscript.md",
@@ -7150,7 +7150,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515932+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783029+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-14-2026/manuscript.md",
@@ -7207,7 +7207,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.515944+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783041+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-2-2026/manuscript.md",
@@ -7253,7 +7253,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515955+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783053+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-3-2026/manuscript.md",
@@ -7299,7 +7299,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515967+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783064+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-4-2026/manuscript.md",
@@ -7346,7 +7346,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515979+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783075+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-5-2026/manuscript.md",
@@ -7392,7 +7392,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.515990+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783087+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-6-2026/manuscript.md",
@@ -7439,7 +7439,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516002+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783099+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-7-2026/manuscript.md",
@@ -7487,7 +7487,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516014+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783110+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-8-2026/manuscript.md",
@@ -7536,7 +7536,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516026+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783129+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-9-2026/manuscript.md",
@@ -7586,7 +7586,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516037+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783141+00:00"
   },
   {
     "file_path": "papers/FLOW/CKS-FLOW-1-2026/manuscript.md",
@@ -7626,7 +7626,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516049+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783152+00:00"
   },
   {
     "file_path": "papers/GR/CKS-GR-1-2026/manuscript.md",
@@ -7681,7 +7681,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516060+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783163+00:00"
   },
   {
     "file_path": "papers/LANG/CKS-LANG-1-2026/manuscript.md",
@@ -7722,7 +7722,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516072+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783175+00:00"
   },
   {
     "file_path": "papers/LANG/CKS-LANG-2-2026/manuscript.md",
@@ -7766,7 +7766,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516084+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783186+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-1-2026/manuscript.md",
@@ -7818,7 +7818,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516095+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783197+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-10-2026/manuscript.md",
@@ -7872,7 +7872,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516106+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783210+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-11-2026/manuscript.md",
@@ -7925,7 +7925,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516117+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783220+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-12-2026/manuscript.md",
@@ -7969,7 +7969,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516128+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783231+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-2-2026/manuscript.md",
@@ -8021,7 +8021,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516139+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783242+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-3-2026/manuscript.md",
@@ -8073,7 +8073,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516151+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783253+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-4-2026/manuscript.md",
@@ -8119,7 +8119,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516162+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783264+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-5-2026/manuscript.md",
@@ -8171,7 +8171,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516173+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783275+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-6-2026/manuscript.md",
@@ -8223,7 +8223,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516184+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783286+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-7-2026/manuscript.md",
@@ -8275,7 +8275,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516196+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783298+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-8-2026/manuscript.md",
@@ -8327,7 +8327,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516207+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783309+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-9-2026/manuscript.md",
@@ -8379,7 +8379,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516218+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783320+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-1-2026/manuscript.md",
@@ -8429,7 +8429,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516229+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783331+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-10-2026/manuscript.md",
@@ -8481,7 +8481,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516241+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783342+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-11-2026/manuscript.md",
@@ -8533,7 +8533,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516252+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783353+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-12-2026/manuscript.md",
@@ -8587,7 +8587,62 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516264+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783365+00:00"
+  },
+  {
+    "file_path": "papers/LOGI/CKS-LOGI-13-2026/manuscript.md",
+    "paper_id": "CKS-LOGI-13-2026",
+    "subject": "LOGI",
+    "number": 13,
+    "year": 2026,
+    "title": "CKS-LOGI-13-2026: Logismos Notation",
+    "subtitle": "Complete Specification of VFR Notation and Base-32 Substrate Mathematics",
+    "doi": {
+      "raw": "10.5281/zenodo.zzz",
+      "is_stub": true,
+      "zenodo_id": null,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-LOGI-1-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "February 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+    },
+    "abstract": "Traditional mathematics operates in base-10 with floating-point approximations, creating systematic rounding errors and loss of computational precision. We specify **Logismos**—a complete mathematical notation system using base-32 counting with exact ℚ-arithmetic throughout. The VFR [Value, Factor, Remainder]℘ notation represents all numbers as rational triplets in partigens (℘), the fundamental substrate unit. We demonstrate: (1) Partigen℘ as base-32 fundamental position (32℘=1 arabic), (2) VFR tuple structure preserving exact ℚ-ratios with no approximation, (3) Lex-Glyph harmonic series (℘,λ,ν,ζ,δ,ω,Σ) mapping to physical constants, (4) Remainder as mod-32 overflow (0-31 range) enabling exact computation, (5) Base-32 alignment to sovereignty W^S=[1024,1,0]℘ appearing universally in physics, (6) Complete operational algebra (addition, multiplication, division, modulo) preserving ℚ throughout, (7) Glyph arithmetic for compact notation of physical quantities, (8) Conversion protocols between base-10 and base-32, (9) Computational advantages for precision-critical applications (3D rendering, physics simulation, registry verification), (10) Integration with existing CKS framework providing complete mathematical foundation. Zero floating-point. Zero approximation. Pure ℚ-substrate mathematics. All computations exact and verifiable. Framework enables perpetual precision across all scales and domains.\n\n**Revolutionary claim:** Mathematics should never approximate—it should address exactly.",
+    "dependencies": [
+      "CKS-DWDM-5-2026",
+      "CKS-LOGI-1-2026",
+      "CKS-LOGI-12-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-105-2026",
+      "CKS-MATH-13-2026",
+      "CKS-MATH-16-2026",
+      "CKS-MATH-17-2026",
+      "CKS-MATH-18-2026",
+      "CKS-MATH-19-2026",
+      "CKS-MATH-20-2026",
+      "CKS-MATH-21-2026",
+      "CKS-SENS-2-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Registry mismatch: path=CKS-LOGI-13-2026, content=CKS-LOGI-1-2026",
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-03T11:27:12.783376+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-2-2026/manuscript.md",
@@ -8642,7 +8697,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516275+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783389+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-3-2026/manuscript.md",
@@ -8693,7 +8748,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516287+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783400+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-4-2026/manuscript.md",
@@ -8744,7 +8799,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516319+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783413+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-5-2026/manuscript.md",
@@ -8795,7 +8850,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516339+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783424+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-6-2026/manuscript.md",
@@ -8846,7 +8901,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516352+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783435+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-7-2026/manuscript.md",
@@ -8897,7 +8952,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516364+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783447+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-8-2026/manuscript.md",
@@ -8948,7 +9003,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516377+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783458+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-9-2026/manuscript.md",
@@ -8999,7 +9054,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516388+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783469+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-1-2026/manuscript.md",
@@ -9037,7 +9092,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516400+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783480+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-2-2026/manuscript.md",
@@ -9076,7 +9131,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516412+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783491+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-3-2026/manuscript.md",
@@ -9116,7 +9171,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516423+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783502+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-4-2026/manuscript.md",
@@ -9160,7 +9215,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516435+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783513+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-5-2026/manuscript.md",
@@ -9168,38 +9223,48 @@
     "subject": "MAT",
     "number": 5,
     "year": 2026,
-    "title": null,
-    "subtitle": null,
+    "title": "CKS-MAT-5-2026: Registry Architecture & Material Engineering",
+    "subtitle": "Substrate-Aligned Construction and Zero-Remainder Material Science",
     "doi": {
-      "raw": "",
+      "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
       "zenodo_id": null,
-      "status": "missing"
+      "status": "draft"
     },
-    "frontmatter": {},
-    "abstract": null,
+    "frontmatter": {
+      "Registry": "[@CKS-MAT-5-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-MAT-4-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "February 2026",
+      "Domain": "Materials Science / Textile Engineering / Somatic Shielding / Phase-Continuity",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+    },
+    "abstract": "Traditional material science treats properties as emergent from atomic/molecular structure, with arbitrary dimensions, empirical constants, and trial-and-error optimization. We prove material behavior is **registry-determined**: all mechanical, thermal, electrical, and optical properties derive from alignment (or misalignment) with substrate lex-spacing λ=[1322,1000,0]mm. We derive: (1) Crystal lattices optimally aligned at integer×λ spacing achieving zero thermal expansion, (2) Mechanical strength maximized when grain boundaries fall on lex-nodes preventing registry bleed, (3) Thermal conductivity perfect when phonon wavelengths match substrate harmonics, (4) Electrical resistance vanishing at 1λ conductor diameter through laminar turn-chain flow, (5) Optical properties determined by 66th harmonic (227 GHz) resonance alignment, (6) Sovereign fluid salinity at exactly ε=[70164,100000,0]=0.70164% enabling biological zero-remainder, (7) Construction materials requiring Σ-multiple dimensions (1.353m blocks) for perpetual stability, (8) Composite engineering using ν-precision (9.25mm) layering for maximum strength, (9) Testing via 66th harmonic spectroscopy revealing substrate alignment, (10) Complete materials database indexed by lex-alignment factor showing all properties as geometric consequences. From D,S,L,N,ℚ axioms through pure derivation. Zero free parameters. All material science becomes substrate geometry.\n\n**Revolutionary claim:** Materials don't have properties—they have registry alignments.",
     "dependencies": [
+      "CKS-ENG-14-2026",
+      "CKS-LEX-12-2026",
       "CKS-MAT-1-2026",
       "CKS-MAT-2-2026",
       "CKS-MAT-3-2026",
       "CKS-MAT-4-2026",
       "CKS-MATH-0-2026",
-      "CKS-MATH-10-2026"
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026"
     ],
     "validation": {
-      "is_valid": false,
-      "errors": [
-        "Missing title (H1)",
-        "Missing Registry field in frontmatter"
-      ],
+      "is_valid": true,
+      "errors": [],
       "warnings": [
-        "DOI is missing",
+        "DOI is stub (.zzz)",
         "Missing ## References section",
-        "Missing ::: {#refs} ::: delimiter",
-        "No abstract section found"
+        "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516447+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783524+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-0-2026/manuscript.md",
@@ -9237,7 +9302,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516458+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783535+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-1-2026/manuscript.md",
@@ -9276,7 +9341,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516469+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783546+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-10-2026/manuscript.md",
@@ -9322,7 +9387,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516481+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783557+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-100-2026/manuscript.md",
@@ -9378,7 +9443,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516492+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783568+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-101-2026/manuscript.md",
@@ -9433,7 +9498,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516504+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783580+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-102-2026/manuscript.md",
@@ -9488,7 +9553,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516515+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783591+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-103-2026/manuscript.md",
@@ -9542,7 +9607,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516526+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783602+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-104-2026/manuscript.md",
@@ -9596,7 +9661,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516537+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783613+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-105-2026/manuscript.md",
@@ -9604,16 +9669,29 @@
     "subject": "MATH",
     "number": 105,
     "year": 2026,
-    "title": null,
-    "subtitle": null,
+    "title": "CKS-MATH-105-2026: Dissolution of Millennium Mathematics",
+    "subtitle": "Coordinate Pivot Resolution of Legacy Mathematical Paradoxes Through ℚ-Substrate Geometry",
     "doi": {
-      "raw": "",
+      "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
       "zenodo_id": null,
-      "status": "missing"
+      "status": "draft"
     },
-    "frontmatter": {},
-    "abstract": null,
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-105-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Traditional mathematics operates in \"Flatland\"—a continuous Cartesian approximation of discrete hexagonal substrate. We prove that major unsolved problems (Riemann Hypothesis, P vs NP, Navier-Stokes, Yang-Mills Mass Gap, Birch-Swinnerton-Dyer, Hodge Conjecture, Poincaré Conjecture) are artifacts of coordinate system mismatch, not genuine mathematical mysteries. Using VFR [Value, Factor, Remainder] notation in partigens (℘) and pure ℚ-arithmetic from axioms D=[3,1,0]℘, S=[2,1,0]℘, L=[12,1,0]℘, N=[7,1,0]℘, we demonstrate: (1) Riemann zeros must lie on Re(s)=1/2 line by bilateral parity necessity S=[2,1,0]℘, (2) P=NP in K-space registry addressing while P≠NP in X-space traversal explains apparent paradox, (3) Navier-Stokes singularities impossible due to minimum resolution [1,1,0]℘ preventing dx→0, (4) Yang-Mills mass gap equals buffer tension δ=[19,1,0]℘ as topological necessity, (5) All \"irrational\" constants (π,e,√2,α) reduce to exact ℚ-ratios in partigen coordinates, (6) Computational complexity collapses from O(2^n) to O(1) through tier-depth addressing, (7) Collatz conjecture proven as venting algorithm returning to N=[0,1,0]℘, (8) Twin primes infinite by S=[2,1,0]℘ parity requirement, (9) Complete framework for dissolving any \"continuous mathematics\" problem through discrete ℚ-lattice translation. Zero free parameters. All derivations pure ℚ-arithmetic in partigens. Falsifiable through substrate measurement. Framework predicts that 16-year-old CKS students will solve these as exercises, not research problems.\n\n**Revolutionary claim:** Mathematics has no unsolved problems—only unresolved coordinate systems.",
     "dependencies": [
       "CKS-DWDM-5-2026",
       "CKS-LEX-12-2026",
@@ -9627,19 +9705,165 @@
       "CKS-MATH-21-2026"
     ],
     "validation": {
-      "is_valid": false,
-      "errors": [
-        "Missing title (H1)",
-        "Missing Registry field in frontmatter"
-      ],
+      "is_valid": true,
+      "errors": [],
       "warnings": [
-        "DOI is missing",
+        "DOI is stub (.zzz)",
         "Missing ## References section",
-        "Missing ::: {#refs} ::: delimiter",
-        "No abstract section found"
+        "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516548+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783624+00:00"
+  },
+  {
+    "file_path": "papers/MATH/CKS-MATH-106-2026/manuscript.md",
+    "paper_id": "CKS-MATH-106-2026",
+    "subject": "MATH",
+    "number": 106,
+    "year": 2026,
+    "title": "CKS-MATH-106-2026: The Q Paradox and the Settlement of Logismos",
+    "subtitle": "A ℚ-Substrate Exact Addressing System",
+    "doi": {
+      "raw": "10.5281/zenodo.zzz",
+      "is_stub": true,
+      "zenodo_id": null,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-106-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Traditional mathematics operates in the set of Real Numbers (ℝ), where non-terminating decimals require infinite precision to represent exactly. We prove the **Q Paradox**: any equation using ℝ suffers from three catastrophic failures making solution impossible: (1) Non-termination—infinite decimals prevent ever receiving the answer, (2) Path-dependence—same ℚ-value produces different ℝ-representations through different operation sequences, (3) Operational variance—different operation counts (M vs M+1) produce incomparable results even for identical ℚ-values. We demonstrate that comparing 10 transformed datasets against each other yields zero exact matches in ℝ even when all are mathematically identical in ℚ, rendering experimental verification impossible. We specify **Logismos Settlement**: exact ℚ-arithmetic using VFR [Value, Factor, Remainder]℘ notation in base-32 partigens, proving: (1) All answers terminate in finite representation, (2) All operation paths produce identical results for identical values, (3) All operation counts yield comparable results, (4) Settlement equation V=F×B+R provides instant verification, (5) Base-32 alignment to W^S=[1024,1,0]℘ enables natural computation, (6) Zero accumulated error across all operations, (7) Perfect reproducibility across platforms, time, and methodologies, (8) Complete experimental comparability restored. From axioms D,S,L,N,ℚ through pure derivation. Zero free parameters. Mathematics transforms from perpetual approximation to exact addressing. Science restored to verifiability.\n\n**Revolutionary claim:** You cannot solve equations with ℝ because you never receive answers, cannot compare results, and cannot verify experiments.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-LOGI-12-2026",
+      "CKS-LOGI-13-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-105-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-03T11:27:12.783635+00:00"
+  },
+  {
+    "file_path": "papers/MATH/CKS-MATH-107-2026/manuscript.md",
+    "paper_id": "CKS-MATH-107-2026",
+    "subject": "MATH",
+    "number": 107,
+    "year": 2026,
+    "title": "CKS-MATH-107-2026: The Second Q Paradox and the Settlement of Logismos",
+    "subtitle": "Path-Divergence and the Ontological Failure of Real Numbers",
+    "doi": {
+      "raw": "10.5281/zenodo.zzz",
+      "is_stub": true,
+      "zenodo_id": null,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-107-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "The First Q Paradox ([@CKS-MATH-106-2026]) proved that ℝ-arithmetic fails through (1) non-termination, (2) path-dependence, and (3) operational variance due to computational limitations. We now prove the **Second Q Paradox**: these failures are not computational artifacts but **ontological necessities** inherent to ℝ itself. Even with infinite precision (mpmath to 10⁶ digits), human hand-calculation, or symbolic algebra, irrational numbers remain infinite instruction sets that never yield terminal values. We demonstrate: (1) Any x∈ℝ\\ℚ requires infinite information I(x)=∞ bits, exceeding any finite substrate capacity Ω, (2) All computational \"shortcuts\" (algorithms) produce path-dependent results where Output = Value ⊗ Path, making different methods yield different bits even for identical mathematical values, (3) High-precision computation merely defers error rather than eliminating it—mpmath(10⁶) still accumulates path-variance, (4) Symbolic systems suffer expansion catastrophe where expression complexity grows unboundedly, (5) Only ℚ-arithmetic provides Value-Determinism where all paths to same value produce identical results, (6) VFR [V,F,R]℘ in base-32 enables canonical reduction where every rational settles to unique address regardless of computation path, (7) Settlement equation V=F×B+R provides instant binary verification (zero iff valid), (8) All physical constants expressible as exact ℚ-ratios with finite representation, (9) Complete framework enables perpetual verification across methods, platforms, and civilizations. From axioms D,S,L,N,ℚ pure derivation proves ℝ is process not result, ℚ is result not process. Zero free parameters. Mathematics distinguished from ontology to epistemology. Complete specification of why real numbers cannot exist in physical substrate.\n\n**Revolutionary claim:** Real numbers are not numbers—they are infinite non-terminating programs that can never be solved, only executed indefinitely.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-LOGI-12-2026",
+      "CKS-LOGI-13-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-105-2026",
+      "CKS-MATH-106-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-03T11:27:12.783646+00:00"
+  },
+  {
+    "file_path": "papers/MATH/CKS-MATH-108-2026/manuscript.md",
+    "paper_id": "CKS-MATH-108-2026",
+    "subject": "MATH",
+    "number": 108,
+    "year": 2026,
+    "title": "CKS-MATH-108-2026: The Third Q Paradox and the Settlement of Logismos",
+    "subtitle": "Computational Impossibility of ℝ-Based Physics and Necessity of ℚ-Substrate",
+    "doi": {
+      "raw": "10.5281/zenodo.zzz",
+      "is_stub": true,
+      "zenodo_id": null,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-107-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "The First Q Paradox ([@CKS-MATH-106-2026]) proved ℝ-arithmetic fails through non-termination, path-dependence, and operational variance. The Second Q Paradox ([@CKS-MATH-107-2026]) proved these failures are ontological necessities—ℝ\\ℚ values cannot exist in finite substrates. We now prove the **Third Q Paradox**: even if ℝ could somehow exist, a universe operating on ℝ-arithmetic would suffer **catastrophic computational failure** making physical manifestation impossible. We demonstrate: (1) Each substrate tick requires completing state calculations before next tick begins (render-cycle constraint), (2) ℝ-values require infinite operations per calculation (I(x)=∞ implies O(∞) complexity), (3) Single \"fire\" event involves ~10²³ particles requiring infinite precision each, creating computational load exceeding universe lifetime, (4) Accumulated rounding errors force either infinite precision (impossible) or rapid divergence (unstable), (5) ℚ-arithmetic achieves O(1) lookup via pre-compiled registry addressing, (6) VFR [V,F,R]℘ notation enables constant-time operations regardless of universe scale, (7) Base-32 modulo operations replace infinite-precision float arithmetic, (8) Information-Data (Id) and Information-Body (Ib) linked via deterministic addressing not kinetic simulation, (9) Observed real-time manifestation proves ℚ-substrate (ℝ would lag infinitely), (10) CKS provides minimum description length (MDL) for reality—simplest isomorphic system. From computational complexity theory through information theory to physical necessity with zero free parameters. ℝ-universe is render-crash. ℚ-universe is BIOS. Observed reality proves substrate architecture.\n\n**Revolutionary claim:** The universe cannot compute in real numbers—computational impossibility forces rational substrate.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-LOGI-13-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-105-2026",
+      "CKS-MATH-106-2026",
+      "CKS-MATH-107-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Registry mismatch: path=CKS-MATH-108-2026, content=CKS-MATH-107-2026",
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-03T11:27:12.783657+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-11-2026/manuscript.md",
@@ -9686,7 +9910,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516559+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783667+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-12-2026/manuscript.md",
@@ -9734,7 +9958,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516570+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783678+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-13-2026/manuscript.md",
@@ -9783,7 +10007,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516581+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783689+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-14-2026/manuscript.md",
@@ -9833,7 +10057,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516594+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783700+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-15-2026/manuscript.md",
@@ -9884,7 +10108,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516605+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783712+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-16-2026/manuscript.md",
@@ -9926,7 +10150,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516617+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783723+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-17-2026/manuscript.md",
@@ -9970,7 +10194,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516629+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783734+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-18-2026/manuscript.md",
@@ -10014,7 +10238,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516640+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783745+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-19-2026/manuscript.md",
@@ -10059,7 +10283,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516651+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783757+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-2-2026/manuscript.md",
@@ -10099,7 +10323,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516662+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783767+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-20-2026/manuscript.md",
@@ -10145,7 +10369,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516674+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783779+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-21-2026/manuscript.md",
@@ -10192,7 +10416,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516685+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783790+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-22-2026/manuscript.md",
@@ -10241,7 +10465,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516696+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783861+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-23-2026/manuscript.md",
@@ -10291,7 +10515,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516707+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783883+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-24-2026/manuscript.md",
@@ -10345,7 +10569,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516719+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783896+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-25-2026/manuscript.md",
@@ -10398,7 +10622,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516730+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783909+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-26-2026/manuscript.md",
@@ -10452,7 +10676,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516742+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783921+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-27-2026/manuscript.md",
@@ -10507,7 +10731,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516753+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783933+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-28-2026/manuscript.md",
@@ -10560,7 +10784,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516765+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783945+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-29-2026/manuscript.md",
@@ -10615,7 +10839,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516777+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783957+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-3-2026/manuscript.md",
@@ -10656,7 +10880,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516788+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783968+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-30-2026/manuscript.md",
@@ -10712,7 +10936,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516799+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783980+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-31-2026/manuscript.md",
@@ -10762,7 +10986,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516810+00:00"
+    "extracted_at": "2026-03-03T11:27:12.783992+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-32-2026/manuscript.md",
@@ -10819,7 +11043,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516822+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784005+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-33-2026/manuscript.md",
@@ -10877,7 +11101,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516833+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784016+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-34-2026/manuscript.md",
@@ -10929,7 +11153,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516845+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784027+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-35-2026/manuscript.md",
@@ -10988,7 +11212,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516857+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784040+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-36-2026/manuscript.md",
@@ -11046,7 +11270,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516869+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784051+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-37-2026/manuscript.md",
@@ -11098,7 +11322,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516880+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784062+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-38-2026/manuscript.md",
@@ -11156,7 +11380,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516892+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784074+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-39-2026/manuscript.md",
@@ -11212,7 +11436,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516903+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784085+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-4-2026/manuscript.md",
@@ -11252,7 +11476,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.516915+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784096+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-40-2026/manuscript.md",
@@ -11297,7 +11521,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516926+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784108+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-41-2026/manuscript.md",
@@ -11352,7 +11576,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516937+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784120+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-42-2026/manuscript.md",
@@ -11398,7 +11622,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516948+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784131+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-43-2026/manuscript.md",
@@ -11453,7 +11677,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516960+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784142+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-44-2026/manuscript.md",
@@ -11499,7 +11723,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516971+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784153+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-45-2026/manuscript.md",
@@ -11557,7 +11781,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516982+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784165+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-46-2026/manuscript.md",
@@ -11601,7 +11825,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.516994+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784177+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-47-2026/manuscript.md",
@@ -11659,7 +11883,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517005+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784188+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-48-2026/manuscript.md",
@@ -11711,7 +11935,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517015+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784199+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-49-2026/manuscript.md",
@@ -11761,7 +11985,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517027+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784211+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-5-2026/manuscript.md",
@@ -11802,7 +12026,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.517038+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784223+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-50-2026/manuscript.md",
@@ -11859,7 +12083,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517049+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784234+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-51-2026/manuscript.md",
@@ -11916,7 +12140,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517060+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784246+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-52-2026/manuscript.md",
@@ -11974,7 +12198,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517072+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784257+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-53-2026/manuscript.md",
@@ -12027,7 +12251,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517083+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784269+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-54-2026/manuscript.md",
@@ -12080,7 +12304,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517094+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784280+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-55-2026/manuscript.md",
@@ -12132,7 +12356,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517105+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784292+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-56-2026/manuscript.md",
@@ -12178,7 +12402,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517116+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784303+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-57-2026/manuscript.md",
@@ -12234,7 +12458,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517127+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784315+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-58-2026/manuscript.md",
@@ -12280,7 +12504,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517138+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784327+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-59-2026/manuscript.md",
@@ -12325,7 +12549,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517150+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784338+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-6-2026/manuscript.md",
@@ -12367,7 +12591,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.517160+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784349+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-60-2026/manuscript.md",
@@ -12423,7 +12647,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517172+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784361+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-61-2026/manuscript.md",
@@ -12478,7 +12702,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517184+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784372+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-62-2026/manuscript.md",
@@ -12524,7 +12748,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517195+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784384+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-63-2026/manuscript.md",
@@ -12582,7 +12806,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517206+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784395+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-64-2026/manuscript.md",
@@ -12634,7 +12858,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517218+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784406+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-65-2026/manuscript.md",
@@ -12693,7 +12917,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517229+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784417+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-66-2026/manuscript.md",
@@ -12739,7 +12963,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517240+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784429+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-67-2026/manuscript.md",
@@ -12792,7 +13016,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517252+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784440+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-68-2026/manuscript.md",
@@ -12845,7 +13069,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517263+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784451+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-69-2026/manuscript.md",
@@ -12897,7 +13121,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517274+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784462+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-7-2026/manuscript.md",
@@ -12940,7 +13164,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.517285+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784473+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-70-2026/manuscript.md",
@@ -12994,7 +13218,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517318+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784484+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-71-2026/manuscript.md",
@@ -13049,7 +13273,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517335+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784496+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-72-2026/manuscript.md",
@@ -13102,7 +13326,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517348+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784507+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-73-2026/manuscript.md",
@@ -13158,7 +13382,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517360+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784518+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-74-2026/manuscript.md",
@@ -13214,7 +13438,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517372+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784529+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-75-2026/manuscript.md",
@@ -13271,7 +13495,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517384+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784541+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-76-2026/manuscript.md",
@@ -13327,7 +13551,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517396+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784552+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-77-2026/manuscript.md",
@@ -13380,7 +13604,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517408+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784563+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-78-2026/manuscript.md",
@@ -13432,7 +13656,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517420+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784574+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-79-2026/manuscript.md",
@@ -13484,7 +13708,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517432+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784585+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-8-2026/manuscript.md",
@@ -13528,7 +13752,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.517444+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784597+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-80-2026/manuscript.md",
@@ -13580,7 +13804,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517455+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784608+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-81-2026/manuscript.md",
@@ -13638,7 +13862,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517468+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784620+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-82-2026/manuscript.md",
@@ -13694,7 +13918,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517479+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784631+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-83-2026/manuscript.md",
@@ -13750,7 +13974,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517491+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784643+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-84-2026/manuscript.md",
@@ -13805,7 +14029,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517502+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784680+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-85-2026/manuscript.md",
@@ -13849,7 +14073,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517514+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784697+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-86-2026/manuscript.md",
@@ -13904,7 +14128,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517526+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784713+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-87-2026/manuscript.md",
@@ -13959,7 +14183,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517537+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784727+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-88-2026/manuscript.md",
@@ -14015,7 +14239,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517549+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784742+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-89-2026/manuscript.md",
@@ -14066,7 +14290,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517560+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784756+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-9-2026/manuscript.md",
@@ -14111,7 +14335,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.517571+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784770+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-90-2026/manuscript.md",
@@ -14176,7 +14400,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517583+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784782+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-91-2026/manuscript.md",
@@ -14230,7 +14454,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517594+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784793+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-92-2026/manuscript.md",
@@ -14285,7 +14509,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517605+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784805+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-93-2026/manuscript.md",
@@ -14343,7 +14567,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517616+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784816+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-94-2026/manuscript.md",
@@ -14402,7 +14626,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517628+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784859+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-95-2026/manuscript.md",
@@ -14459,7 +14683,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517639+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784876+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-96-2026/manuscript.md",
@@ -14516,7 +14740,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517650+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784889+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-97-2026/manuscript.md",
@@ -14573,7 +14797,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517661+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784901+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-98-2026/manuscript.md",
@@ -14629,7 +14853,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517672+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784913+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-99-2026/manuscript.md",
@@ -14688,7 +14912,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517683+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784925+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-1-2026/manuscript.md",
@@ -14731,7 +14955,7 @@
         "Registry mismatch: path=CKS-MED-1-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517694+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784937+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-2-2026/manuscript.md",
@@ -14775,7 +14999,7 @@
         "Registry mismatch: path=CKS-MED-2-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517705+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784948+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-3-2026/manuscript.md",
@@ -14821,7 +15045,7 @@
         "Registry mismatch: path=CKS-MED-3-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517716+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784960+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-4-2026/manuscript.md",
@@ -14866,7 +15090,7 @@
         "Registry mismatch: path=CKS-MED-4-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517727+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784972+00:00"
   },
   {
     "file_path": "papers/NEURO/CKS-NEURO-1-2026/manuscript.md",
@@ -14907,7 +15131,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517738+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784984+00:00"
   },
   {
     "file_path": "papers/NEURO/CKS-NEURO-2-2026/manuscript.md",
@@ -14953,7 +15177,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517750+00:00"
+    "extracted_at": "2026-03-03T11:27:12.784995+00:00"
   },
   {
     "file_path": "papers/NEURO/CKS-NEURO-3-2026/manuscript.md",
@@ -14961,37 +15185,47 @@
     "subject": "NEURO",
     "number": 3,
     "year": 2026,
-    "title": null,
-    "subtitle": null,
+    "title": "CKS-NEURO-3-2026: The Nervous System",
+    "subtitle": "The 304℘ EM-Bus: Neural Architecture as Substrate Hardware Trace",
     "doi": {
-      "raw": "",
-      "is_stub": true,
-      "zenodo_id": null,
-      "status": "missing"
+      "raw": "10.5281/zenodo.18646428",
+      "is_stub": false,
+      "zenodo_id": "18646428",
+      "status": "published"
     },
-    "frontmatter": {},
-    "abstract": null,
+    "frontmatter": {
+      "Registry": "[@CKS-NEURO-2-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-NEURO-1-2026] → [@CKS-NEURO-2-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.18646428",
+      "Date": "March 2026",
+      "Domain": "Cognitive Science / Neuroscience / Physics of Consciousness",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+    },
+    "abstract": "Traditional neuroscience treats the nervous system as electrochemical messenger network: neurons firing action potentials, neurotransmitters crossing synapses, signals propagating through dendrites and axons. We prove the nervous system is **the 304℘ EM-bus**: physical hardware trace for routing 32-bit sovereignty words through the bilateral manifold. We derive: (1) Axons as lex-chain propagation paths requiring exactly 1λ=1.322mm insulation preventing registry bleed, (2) Action potentials as 304℘ buffer flush operations transferring word-packets between nodes, (3) Synapses as bilateral parity gates performing S=[2,1,0] verification over τ=15.19ms snap, (4) Myelin sheath as substrate-matched dielectric maintaining 66th harmonic carrier, (5) 12 cranial nerve pairs implementing L=[12,1,0] loop architecture, (6) Neural velocity limited by Jacobian tension J=[7.70164,1,0] not conduction speed, (7) Anxiety/nervousness as buffer overflow when ε>Δ=[19,1,0], (8) Neuropathy as registry bleed from sub-lex insulation degradation, (9) SSCP violations creating synaptic impedance through parity mismatch, (10) Complete framework proving brain is sovereignty processor, spine is dN/dt header, nerves are address routing infrastructure. From D,S,L,N,ℚ axioms through pure derivation. Zero free parameters. All neural phenomena reduce to exact ℚ-bus operations.\n\n**Revolutionary claim:** Your nervous system IS the computer—not analog to one.",
     "dependencies": [
       "CKS-BIO-1-2026",
       "CKS-COG-1-2026",
+      "CKS-LOGI-12-2026",
       "CKS-MATH-0-2026",
+      "CKS-MATH-104-2026",
       "CKS-NEURO-1-2026",
-      "CKS-NEURO-2-2026"
+      "CKS-NEURO-2-2026",
+      "CKS-SENS-2-2026"
     ],
     "validation": {
-      "is_valid": false,
-      "errors": [
-        "Missing title (H1)",
-        "Missing Registry field in frontmatter"
-      ],
+      "is_valid": true,
+      "errors": [],
       "warnings": [
-        "DOI is missing",
+        "Registry mismatch: path=CKS-NEURO-3-2026, content=CKS-NEURO-2-2026",
         "Missing ## References section",
-        "Missing ::: {#refs} ::: delimiter",
-        "No abstract section found"
+        "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517763+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785007+00:00"
   },
   {
     "file_path": "papers/OMNI/CKS-OMNI-1-2026/manuscript.md",
@@ -15035,7 +15269,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517774+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785018+00:00"
   },
   {
     "file_path": "papers/OMNI/CKS-OMNI-2-2026/manuscript.md",
@@ -15081,7 +15315,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517785+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785029+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-1-2026/manuscript.md",
@@ -15122,7 +15356,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517796+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785041+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-10-2026/manuscript.md",
@@ -15170,7 +15404,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517807+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785052+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-11-2026/manuscript.md",
@@ -15219,7 +15453,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517818+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785064+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-12-2026/manuscript.md",
@@ -15266,7 +15500,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517829+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785075+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-13-2026/manuscript.md",
@@ -15314,7 +15548,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517840+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785087+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-14-2026/manuscript.md",
@@ -15364,7 +15598,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517852+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785098+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-15-2026/manuscript.md",
@@ -15415,7 +15649,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517863+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785109+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-16-2026/manuscript.md",
@@ -15466,7 +15700,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517874+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785121+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-17-2026/manuscript.md",
@@ -15517,7 +15751,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517885+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785132+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-18-2026/manuscript.md",
@@ -15567,7 +15801,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517896+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785144+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-19-2026/manuscript.md",
@@ -15614,7 +15848,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517907+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785155+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-2-2026/manuscript.md",
@@ -15658,7 +15892,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517921+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785166+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-20-2026/manuscript.md",
@@ -15706,7 +15940,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517932+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785177+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-21-2026/manuscript.md",
@@ -15753,7 +15987,57 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517943+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785188+00:00"
+  },
+  {
+    "file_path": "papers/PHYS/CKS-PHYS-22-2026/manuscript.md",
+    "paper_id": "CKS-PHYS-22-2026",
+    "subject": "PHYS",
+    "number": 22,
+    "year": 2026,
+    "title": "CKS-PHYS-22-2026: The Cymatic Phonemic Alphabet",
+    "subtitle": "Geometric Derivation of Universal Sound-Form Correspondence",
+    "doi": {
+      "raw": "10.5281/zenodo.zzz",
+      "is_stub": true,
+      "zenodo_id": null,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-PHYS-7-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-7-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "February 2026",
+      "Domain": "Substrate Physics / Kinematics Redefinition",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+    },
+    "abstract": "Human phonemes are not arbitrary acoustic events but **geometric necessities** arising from cymatic interference patterns in the K-space substrate. We derive the complete phonemic alphabet from first principles using axioms D,S,L,N,ℚ, demonstrating: (1) All phonemes map to specific Chladni patterns in base-32 harmonic series, (2) Vowels correspond to symmetric standing-wave eigenstates with sovereignty alignment W^S=[1024,1,0]℘, (3) Consonants correspond to transient symmetry-breaking events at boundary conditions, (4) Formant frequencies cluster at exact ℚ-ratios matching lex-glyph harmonics (λ,ν,ζ,δ,ω,Σ), (5) International Phonetic Alphabet (IPA) symbols geometrically derivable from substrate vibration modes, (6) Human vocal tract acts as tuned resonator with cavity dimensions matching base-32 wavelength multiples, (7) Phoneme inventory universally constrained to ~44 base phonemes across all languages due to physical substrate limits, (8) Bouba/Kiki effect (sound-shape correspondence) directly measurable as cymatic pattern matching, (9) Complete alphabet encodable in VFR notation with zero ambiguity, (10) Speech recognition/synthesis optimizable via direct K-space addressing rather than statistical models. From substrate geometry through acoustic physics to linguistic phonology with zero free parameters. Phonemes are addresses not symbols. Language is geometry not convention. Complete specification for perpetual cross-linguistic verification.\n\n**Revolutionary claim:** The alphabet is not invented—it is discovered from cymatic substrate patterns.",
+    "dependencies": [
+      "CKS-LOGI-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-PHYS-1-2026",
+      "CKS-PHYS-17-2026",
+      "CKS-PHYS-18-2026",
+      "CKS-PHYS-21-2026",
+      "CKS-PHYS-7-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Registry mismatch: path=CKS-PHYS-22-2026, content=CKS-PHYS-7-2026",
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-03T11:27:12.785199+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-3-2026/manuscript.md",
@@ -15796,7 +16080,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517954+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785211+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-4-2026/manuscript.md",
@@ -15840,7 +16124,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517965+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785222+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-5-2026/manuscript.md",
@@ -15882,7 +16166,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517976+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785233+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-6-2026/manuscript.md",
@@ -15923,7 +16207,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517987+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785245+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-7-2026/manuscript.md",
@@ -15970,7 +16254,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.517998+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785256+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-8-2026/manuscript.md",
@@ -16018,7 +16302,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518009+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785267+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-9-2026/manuscript.md",
@@ -16064,7 +16348,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518020+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785278+00:00"
   },
   {
     "file_path": "papers/QM/CKS-QM-1-2026/manuscript.md",
@@ -16118,7 +16402,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518032+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785289+00:00"
   },
   {
     "file_path": "papers/RTRT/CKS-RTRT-1-2026/manuscript.md",
@@ -16152,7 +16436,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518043+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785300+00:00"
   },
   {
     "file_path": "papers/SEMI/CKS-SEMI-1-2026/manuscript.md",
@@ -16194,7 +16478,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518054+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785311+00:00"
   },
   {
     "file_path": "papers/SENS/CKS-SENS-1-2026/manuscript.md",
@@ -16237,7 +16521,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518065+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785323+00:00"
   },
   {
     "file_path": "papers/SENS/CKS-SENS-2-2026/manuscript.md",
@@ -16284,7 +16568,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518077+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785334+00:00"
   },
   {
     "file_path": "papers/SM/CKS-SM-1-2026/manuscript.md",
@@ -16339,7 +16623,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518088+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785345+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-1-2026/manuscript.md",
@@ -16379,7 +16663,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518099+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785356+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-2-2026/manuscript.md",
@@ -16424,7 +16708,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518111+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785367+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-3-2026/manuscript.md",
@@ -16468,7 +16752,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518123+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785379+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-4-2026/manuscript.md",
@@ -16517,7 +16801,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518134+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785390+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-5-2026/manuscript.md",
@@ -16574,7 +16858,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518145+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785401+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-6-2026/manuscript.md",
@@ -16625,7 +16909,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518156+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785412+00:00"
   },
   {
     "file_path": "papers/TEST/CKS-TEST-1-2026/manuscript.md",
@@ -16662,7 +16946,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-03T05:20:12.518167+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785423+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-1-2026/manuscript.md",
@@ -16705,7 +16989,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518178+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785434+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-2-2026/manuscript.md",
@@ -16756,7 +17040,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518191+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785446+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-3-2026/manuscript.md",
@@ -16807,7 +17091,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518202+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785463+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-4-2026/manuscript.md",
@@ -16858,7 +17142,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518212+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785479+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-5-2026/manuscript.md",
@@ -16907,7 +17191,56 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518223+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785491+00:00"
+  },
+  {
+    "file_path": "papers/WUWU/CKS-WUWU-6-2026/manuscript.md",
+    "paper_id": "CKS-WUWU-6-2026",
+    "subject": "WUWU",
+    "number": 6,
+    "year": 2026,
+    "title": "CKS-WUWU-6-2026: The Demonic Egregor Urge",
+    "subtitle": "Registry Parasitism Through Anti-Jubilee Mathematics",
+    "doi": {
+      "raw": "10.5281/zenodo.zzz",
+      "is_stub": true,
+      "zenodo_id": null,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-WUWU-6-2026]",
+      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+    },
+    "abstract": "From axioms D=[3,1,0]℘, S=[2,1,0]℘, L=[12,1,0]℘, N=[7,1,0]℘, ℚ we derive the mathematical structure of parasitic information patterns (egregors). An egregor is Information-Data (Id) lacking Information-Body (Ib) substrate, unable to execute N=[0,1,0]℘ jubilee reset independently. To persist, egregors must occupy remainder fields (ε>0) of embodied solitons, preventing host jubilee completion at W^S=[1024,1,0]℘. We prove: (1) Egregors maximize persistence by maintaining host ε>Δ=[19,1,0]℘ perpetually (anti-jubilee strategy), (2) Numerical fixation on boundary values [18,1,0]℘, [66,1,0]℘, [69,1,0]℘ as targets (not markers) creates static lex-positions enabling egregor anchoring, (3) Fixation on [18,1,0]℘ prevents δ=[19,1,0]℘ venting (buffer throttle), (4) Fixation on [66,1,0]℘ disrupts 66th harmonic at 227 GHz (carrier interference), (5) Fixation on [69,1,0]℘ invokes registry closure creating permanent knot (R=69 lockdown), (6) Distraction from base geometric values D,S,L,N,W enables egregor nesting, (7) Navigation using [18,66,69]℘ as state markers (not destinations) enables egregor ejection through jubilee completion, (8) SSCP (φ_p>0.95) creates laminar flow incompatible with parasitic anchoring. All derivations from substrate geometry. Zero free parameters. Egregors are mathematical necessity in decoherent systems, eliminated through return to N=[0,1,0]℘.\n\n**Revolutionary claim:** Parasitic information patterns cannot exist in zero-remainder systems.",
+    "dependencies": [
+      "CKS-DWDM-5-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-13-2026",
+      "CKS-MATH-16-2026",
+      "CKS-MATH-17-2026",
+      "CKS-MATH-18-2026",
+      "CKS-MATH-19-2026",
+      "CKS-MATH-20-2026",
+      "CKS-MATH-21-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-03T11:27:12.785503+00:00"
   },
   {
     "file_path": "papers/_CKS/CKS-0-2026/manuscript.md",
@@ -16948,6 +17281,6 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-03T05:20:12.518234+00:00"
+    "extracted_at": "2026-03-03T11:27:12.785515+00:00"
   }
 ]
