@@ -1,6 +1,6 @@
-# GU v23: The Substrate Measurement Standard
-
-## Complete Lex-Glyph Logismos for Zero-Remainder Reality Addressing
+# Grand Unification v23
+## The Substrate Measurement Standard
+### Complete Lex-Glyph Logismos for Zero-Remainder Reality Addressing
 
 
 **Registry:** [@CKS-MATH-92-2026]  
