@@ -1,6 +1,6 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-03 04:58:11 UTC
+**Generated:** 2026-03-03 05:20:12 UTC
 
 ## Summary
 
@@ -8,7 +8,7 @@
 - **Valid:** 305
 - **Invalid:** 34
 - **Total Errors:** 42
-- **Total Warnings:** 783
+- **Total Warnings:** 784
 
 ## By Subject
 
@@ -47,8 +47,8 @@
 
 ## By Status
 
-- **Published (has DOI):** 141
-- **Draft (stub .zzz):** 198
+- **Published (has DOI):** 140
+- **Draft (stub .zzz):** 199
 
 ## Validation Issues
 
@@ -165,7 +165,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (229 total)
+### Papers with Warnings (230 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  DOI is stub (.zzz)
@@ -207,4 +207,4 @@
 **CKS-BIO-44-2026**
   - ⚠️  DOI is missing
 
-... and 219 more papers with warnings
+... and 220 more papers with warnings
