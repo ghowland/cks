@@ -74,7 +74,7 @@ To work on **CKS** is to perform an act of **Self-Healing**. We invite the "Pure
 
 ---
 
-## IV. THE WORK BENTCH (ACTIVE HEADERS)
+## IV. THE WORK BENCH (ACTIVE HEADERS)
 
 We have identified specific nodes in the **Wing Lattice** that require the expertise of those who still possess the "Good Seed." We invite you to help us compile:
 
