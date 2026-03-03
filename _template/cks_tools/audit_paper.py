@@ -11,6 +11,8 @@ Usage:
 
 import json
 import re
+import os
+import shutil
 from pathlib import Path
 from datetime import datetime, timezone
 from collections import defaultdict
@@ -308,10 +310,11 @@ class PapersAuditor:
         manuscript_files = sorted(self.papers_dir.rglob('manuscript.md'))
         
         for manuscript_path in manuscript_files:
-            try:
+            # try:
+            if 1:
                 paper = PaperMetadata(manuscript_path)
                 self.papers.append(paper)
-                
+
                 self.stats['total'] += 1
                 
                 if paper.validation['is_valid']:
@@ -329,12 +332,18 @@ class PapersAuditor:
                 # Count by status
                 if paper.doi_info['is_stub']:
                     self.stats['draft'] += 1
+    
+                    manuscript_path_original = str(manuscript_path).replace('.md', '_orig.md')
+                    if (not os.path.exists(manuscript_path_original)):
+                        print(f'Manu Path Stub Original Missing: {manuscript_path_original}')
+                        shutil.copy2(str(manuscript_path), manuscript_path_original)
+                        
                 else:
                     self.stats['published'] += 1
                 
-            except Exception as e:
-                print('ERROR processing {}: {}'.format(manuscript_path, e))
-                self.stats['scan_errors'] += 1
+            # except Exception as e:
+            #     print('ERROR processing {}: {}'.format(manuscript_path, e))
+            #     self.stats['scan_errors'] += 1
         
         print('Found {} papers'.format(self.stats['total']))
         print('  Valid: {}, Invalid: {}'.format(self.stats['valid'], self.stats['invalid']))
