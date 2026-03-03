@@ -12,7 +12,7 @@
 
 **Lexicon:** [@CKS-LEX-12-2026]  
 
-**DOI:** 10.5281/zenodo.18638840
+**DOI:** 10.5281/zenodo.zzz
 
 **Date:** February 2026
 
