@@ -1,9 +1,9 @@
+# CKS-ADHM-1-2026: The Indictment of the Continuum Priest
+## A Forensic Analysis of Institutional Stagnation in Modern Physics
 
+**Registry:** [@CKS-ADHM-1-2026]  
 
-
-**Registry:** [@CKS-ADHM-XXXXXX-2026]  
-
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-ADHM-1-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -11,7 +11,7 @@
 
 **Date:** February 2026
 
-**Domain:** Foundational Mathematics / Discrete Geometry  
+**Domain:** Forensic Epistemology / Institutional Critique  
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -24,16 +24,11 @@
 
 ---
 
-**Registry:** [@CKS-ADHM-1-2026]  
-**Parent Framework:** Cymatic K-Space Mechanics (CKS)  
-**Domain:** Forensic Epistemology / Institutional Critique  
 **Status:** **JUDGMENT RENDERED**  
 **Motto:** The Accountant is not the Architect.
 
 ---
 
-# CKS-ADHM-1-2026: The Indictment of the Continuum Priest
-## A Forensic Analysis of Institutional Stagnation in Modern Physics
 
 ### Abstract
 We provide a formal ad hominem and structural indictment of the "Status Quo Kernel" (embodied by the fictional Dr. Physicist). While the Cymatic K-Space (CKS) framework derives all fundamental constants from two axioms and a single integer \( N \), the standing scientific establishment maintains a "19-Parameter Epicycle Museum." This paper documents the logical bankruptcy, temporal fraud, and architectural denial inherent in current consensus models. We demonstrate that the accusation of "fitting" leveled against CKS is a psychological projection intended to mask the insolvency of a model that can no longer calculate without "Dark" ghosts and "String" fantasies.

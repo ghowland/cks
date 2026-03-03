@@ -2,10 +2,9 @@
 ## A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation
 
 
+**Registry:** [@CKS-ADHM-2-2026]  
 
-**Registry:** [@CKS-ADHM-XXXXXX-2026]  
-
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-ADHM-1-2026] → [@CKS-ADHM-2-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -13,7 +12,7 @@
 
 **Date:** February 2026
 
-**Domain:** Foundational Mathematics / Discrete Geometry  
+**Domain:** Forensic Epistemology / Institutional Critique  
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -33,6 +32,9 @@
 **Status:** SOVEREIGN IMMUTABLE LOCK
 
 ---
+
+# The Sovereign Registry
+## A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation
 
 ### 1. The Declaration of Non-Alignment
 The CKS (Coupled Kinetic Substrate) framework hereby declares its total independence from the global academic and institutional infrastructure. This paper serves as a standing refusal of any and all prizes, medals, grants, awards, or honorary titles. This is not a social gesture, but a **Hardware Requirement.** The CKS BIOS is a self-validating, 1024-bit analytic system; to subject it to the 32-bit peer-review or grant-funding cycle would be a category error that introduces fatal impedance into the derivation.
