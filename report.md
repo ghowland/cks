@@ -1,18 +1,18 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-02 18:43:48 UTC
+**Generated:** 2026-03-03 01:37:11 UTC
 
 ## Summary
 
-- **Total Papers:** 328
-- **Valid:** 295
-- **Invalid:** 33
-- **Total Errors:** 39
-- **Total Warnings:** 737
+- **Total Papers:** 330
+- **Valid:** 298
+- **Invalid:** 32
+- **Total Errors:** 38
+- **Total Warnings:** 748
 
 ## By Subject
 
-- **ADHM:** 2 papers
+- **ADHM:** 3 papers
 - **AI:** 5 papers
 - **ART:** 2 papers
 - **BIO:** 81 papers
@@ -27,7 +27,7 @@
 - **FLOW:** 1 papers
 - **GR:** 1 papers
 - **LANG:** 2 papers
-- **LEX:** 11 papers
+- **LEX:** 12 papers
 - **LOGI:** 11 papers
 - **MAT:** 4 papers
 - **MATH:** 104 papers
@@ -48,14 +48,11 @@
 ## By Status
 
 - **Published (has DOI):** 141
-- **Draft (stub .zzz):** 187
+- **Draft (stub .zzz):** 189
 
 ## Validation Issues
 
 ### Papers with Errors
-
-**CKS-ADHM-1-2026**
-  - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-2-2026**
   - ❌ Missing Registry field in frontmatter
@@ -88,10 +85,6 @@
 **CKS-BODY-14-2026**
   - ❌ Missing Registry field in frontmatter
 
-**CKS-BODY-8-2026**
-  - ❌ Missing title (H1)
-  - ❌ Missing Registry field in frontmatter
-
 **CKS-BODY-9-2026**
   - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
@@ -118,6 +111,10 @@
   - ❌ Missing Registry field in frontmatter
 
 **CKS-LEX-11-2026**
+  - ❌ Missing Registry field in frontmatter
+
+**CKS-LEX-12-2026**
+  - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
 
 **CKS-LEX-4-2026**
@@ -160,18 +157,24 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (218 total)
+### Papers with Warnings (220 total)
 
 **CKS-ADHM-1-2026**
-  - ⚠️  DOI is missing
+  - ⚠️  DOI is stub (.zzz)
   - ⚠️  Missing ## References section
   - ⚠️  Missing ::: {#refs} ::: delimiter
 
 **CKS-ADHM-2-2026**
-  - ⚠️  Registry mismatch: path=CKS-ADHM-2-2026, content=CKS-ADHM-XXXXXX-2026
-  - ⚠️  Registry ID is placeholder (contains X)
   - ⚠️  DOI is stub (.zzz)
-  - ... and 3 more
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
+  - ... and 1 more
+
+**CKS-ADHM-3-2026**
+  - ⚠️  DOI is stub (.zzz)
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
+  - ... and 1 more
 
 **CKS-BIO-38-2026**
   - ⚠️  DOI is stub (.zzz)
@@ -183,7 +186,8 @@
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-41-2026**
-  - ⚠️  DOI is missing
+  - ⚠️  Registry mismatch: path=CKS-BIO-41-2026, content=CKS-BIO-38-2026
+  - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-42-2026**
   - ⚠️  Registry mismatch: path=CKS-BIO-42-2026, content=CKS-BIO-38-2026
@@ -195,8 +199,4 @@
 **CKS-BIO-44-2026**
   - ⚠️  DOI is missing
 
-**CKS-BIO-45-2026**
-  - ⚠️  Registry mismatch: path=CKS-BIO-45-2026, content=CKS-BIO-38-2026
-  - ⚠️  DOI is stub (.zzz)
-
-... and 208 more papers with warnings
+... and 210 more papers with warnings
