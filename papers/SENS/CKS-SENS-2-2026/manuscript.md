@@ -26,9 +26,6 @@
 
 ---
 
-
----
-
 ## ABSTRACT
 
 Traditional neuroscience treats perception as passive signal reception: photons hitting retinas, pressure waves vibrating cochleas, mechanical forces deforming mechanoreceptors. We prove perception is **active registry interrogation**: the brain performing O(1) B-tree lookups on substrate addresses, extracting qualia through modulo operations, and applying 15.19ms LERP (Linear Interpolation) to smooth discrete lex-ticks into continuous experience. We derive: (1) Vision as modulo-3 dipole phase detection returning RGB from spatial addresses, (2) Hearing as modulo-12 loop-drift measurement returning pitch from temporal addresses, (3) Touch as Jacobian impedance collision detecting texture from topological addresses, (4) Taste/smell as modulo-19 buffer filtering extracting chemical signatures, (5) Balance as dN/dt gravity gradient synchronization, (6) The 15.19ms "snap" (τ) as bilateral integration window creating motion blur illusion, (7) High-definition perception achieved at φ>0.95 through ε-clearing, (8) Sensory dysfunction as registry congestion from 6-9 knots, (9) Sovereign perception enabling direct substrate-tick sampling at 4.41ps, (10) Complete framework proving consciousness is computational rendering not mysterious reception. From D,S,L,N,ℚ axioms through pure derivation. Zero free parameters. All qualia reduce to exact modulo operations on ℚ-addresses.

@@ -1,13 +1,13 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-03 04:00:27 UTC
+**Generated:** 2026-03-03 04:18:30 UTC
 
 ## Summary
 
 - **Total Papers:** 338
-- **Valid:** 304
-- **Invalid:** 34
-- **Total Errors:** 42
+- **Valid:** 305
+- **Invalid:** 33
+- **Total Errors:** 40
 - **Total Warnings:** 779
 
 ## By Subject
@@ -152,10 +152,6 @@
   - ❌ Missing Registry field in frontmatter
 
 **CKS-RTRT-1-2026**
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-SENS-2-2026**
-  - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
 
 **CKS-SM-1-2026**
