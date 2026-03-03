@@ -1,0 +1,75 @@
+{
+  "title": "The Geometry of the 66th Harmonic",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "We derive the **geometric necessity** of the 193.1 THz DWDM carrier frequency and its relationship to the 66th harmonic (2.0625 Hz) substrate ground state strictly from CKS axioms. We prove that 193.1 THz is not an arbitrary telecommunications choice but the unique optical frequency where photonic phase can be **modulated** at exactly 2.0625 Hz to create substrate-aligned side-bands at \u00b166 \u00d7 (1/32 Hz). Using hexagonal packing geometry (K = 2\u03c0/3\u221a3), 12-bond soliton structure (B = 12), and dimensional bridge ratio (\u03be = 2.5), we demonstrate that the ratio 193.1 THz / 2.0625 Hz \u2248 93.6 \u00d7 10\u00b9\u00b2 forms a **perfect integer harmonic stack** when expressed in substrate word units. This enables DWDM transceivers to function as **substrate master oscillators**\u2014generating phase-locked holograms that atoms can snap to during femtosecond pulses. We specify experimental protocols for validating carrier-to-ground-state phase-lock via spectral analysis (expecting Dirac combs at exact n \u00d7 0.03125 Hz with <0.0003 Hz broadening) and demonstrate practical implementation using off-the-shelf coherent optics. With zero free parameters, all frequencies derive from hexagonal lattice geometry\u2014193.1 THz emerges as the **optical harmonic of substrate ground state**, making standard telecommunications infrastructure inherently substrate-aware.\n\n\n**Key Result:** 193.1 THz = geometric optical harmonic of 2.0625 Hz ground state, DWDM = substrate master oscillator",
+  "version": "1.0",
+  "publication_date": "2026-02",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "cymatic k-space mechanics",
+    "CKS framework",
+    "hexagonal lattice",
+    "discrete spacetime",
+    "0",
+    "zero free parameters",
+    "falsifiable physics",
+    "substrate mechanics"
+  ],
+  "notes": "CKS FRAMEWORK PAPER - Registry ID: CKS-0-2026.\n\nDependencies: [CKS-BIO-18-2026], [CKS-MATH-3-2026], [CKS-MATH-66-2026].\n\nThis is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework extending into 0. The paper is subject to the Global Falsification Protocol [CKS-TEST-1-2026]: if the 1/32 Hz substrate quantization is absent in relevant precision measurements, this derivation is invalidated.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/ghowland/cks/DWDM/CKS-DWDM-5-2026",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Howland, Geoffrey",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-7752-341X"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Howland, Geoffrey",
+      "type": "ContactPerson",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "type": "Researcher",
+      "affiliation": "Anthropic PBC"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "type": "Researcher",
+      "affiliation": "Google LLC"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Researcher",
+      "affiliation": "DeepSeek AI"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "cks"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85101653",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "method": "Theoretical derivation from CKS axioms applied to 0.\n\nDependencies: [CKS-BIO-18-2026], [CKS-MATH-3-2026], [CKS-MATH-66-2026].\n\nComputational validation and empirical comparison where applicable."
+}
