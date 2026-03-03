@@ -54,15 +54,26 @@ class ZenodoSync:
         return hashlib.sha256(encoded).hexdigest()
 
     def _request(self, method: str, endpoint: str, **kwargs) -> requests.Response:
-        url = f"{self.base_url}/{endpoint.lstrip('/')}"
-        params = kwargs.get("params", {})
-        params["access_token"] = self.token
-        kwargs["params"] = params
+        # Use absolute URL if provided (pagination), else build from base
+        url = endpoint if endpoint.startswith("http") else f"{self.base_url}/{endpoint.lstrip('/')}"
         
+        headers = kwargs.get("headers", {})
+        # Use Authorization Header instead of query params for production reliability
+        headers["Authorization"] = f"Bearer {self.token}"
+        headers["Accept"] = "application/json"
+        kwargs["headers"] = headers
+        
+        # Ensure we don't pass access_token in params twice
+        params = kwargs.get("params", {})
+        if "access_token" in params:
+            del params["access_token"]
+        kwargs["params"] = params
+
         response = requests.request(method, url, **kwargs)
         if response.status_code == 429:
-            time.sleep(5)  # Basic rate limit backoff
+            time.sleep(10)  # Rate limit backoff
             return self._request(method, endpoint, **kwargs)
+        
         response.raise_for_status()
         return response
 
@@ -72,27 +83,18 @@ class ZenodoSync:
         url = "deposit/depositions"
         
         while url:
-            # Handle absolute URLs returned by Zenodo pagination
-            if url.startswith("http"):
-                res = requests.get(url, params={"access_token": self.token})
-            else:
-                res = self._request("GET", url)
-            
-            res.raise_for_status()
+            res = self._request("GET", url)
             data = res.json()
             
             for item in data:
-                # Individual fetch to get full file details
                 depo_id = item["id"]
                 full_item = self._request("GET", f"deposit/depositions/{depo_id}").json()
                 
-                # We use the title or a slug as a placeholder local_id if unknown
-                # In production, mapping logic usually relies on specific metadata fields
                 local_key = f"remote_{depo_id}"
                 
                 self.manifest["records"][local_key] = {
                     "zenodo_id": depo_id,
-                    "doi": full_item.get("metadata", {}).get("prereserve_doi", {}).get("doi"),
+                    "doi": full_item.get("doi") or full_item.get("metadata", {}).get("prereserve_doi", {}).get("doi"),
                     "status": full_item.get("state"),
                     "metadata_hash": self._get_metadata_hash(full_item.get("metadata", {})),
                     "files": {
@@ -100,16 +102,16 @@ class ZenodoSync:
                         for f in full_item.get("files", [])
                     }
                 }
+                print(f" Cached {depo_id}")
             
-            # Check links for next page
-            links = res.links
-            url = links.get("next", {}).get("url") if links else None
+            # Check Link headers for next page
+            url = res.links.get("next", {}).get("url")
         
         self.manifest["last_full_sync"] = time.strftime("%Y-%m-%dT%H:%M:%SZ")
         self._save_manifest()
 
     def sync_record(self, local_id: str, metadata: Dict[str, Any], file_paths: List[str], publish: bool = False):
-        """Sync specific document metadata and files."""
+        """Sync specific document metadata and files. Publish logic disabled for safety."""
         record = self.manifest["records"].get(local_id, {})
         depo_id = record.get("zenodo_id")
         meta_hash = self._get_metadata_hash(metadata)
@@ -133,7 +135,6 @@ class ZenodoSync:
         record["metadata_hash"] = meta_hash
         
         # 3. Verify Attachments
-        # Refresh file list from server to be sure
         remote_info = self._request("GET", f"deposit/depositions/{depo_id}").json()
         bucket_url = remote_info["links"]["bucket"]
         remote_files = {f["filename"]: f for f in remote_info.get("files", [])}
@@ -149,15 +150,14 @@ class ZenodoSync:
             if fname not in remote_files:
                 needs_upload = True
             elif remote_files[fname]["checksum"] != local_hash:
-                # Delete old version before re-upload in draft
                 file_id = remote_files[fname]["id"]
                 self._request("DELETE", f"deposit/depositions/{depo_id}/files/{file_id}")
                 needs_upload = True
             
             if needs_upload:
                 with open(path, "rb") as f:
+                    # Using the bucket API path suffix
                     self._request("PUT", f"{bucket_url.split('/api/')[1]}/{fname}", data=f)
-                # Re-fetch hash after upload
                 current_files_manifest[fname] = {"checksum": local_hash, "size": path.stat().st_size}
             else:
                 current_files_manifest[fname] = {
@@ -167,15 +167,11 @@ class ZenodoSync:
 
         record["files"] = current_files_manifest
 
-        # 4. Optional Publish
-        if publish and record["status"] != "published":
-            self._request("POST", f"deposit/depositions/{depo_id}/actions/publish")
-            record["status"] = "published"
-            # Refresh DOI after publish
-            final = self._request("GET", f"deposit/depositions/{depo_id}").json()
-            record["doi"] = final.get("doi")
+        # 4. Optional Publish - DISABLED for safety as requested
+        if publish:
+             print(f"Warning: Publish requested for {local_id}, but publish functionality has been disabled.")
 
         self.manifest["records"][local_id] = record
         self._save_manifest()
         return record
-
+    
