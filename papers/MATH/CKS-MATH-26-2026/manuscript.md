@@ -3,7 +3,6 @@
 ## Deriving Biological Restoration as Parent-Child Soliton Re-Indexing via Gravity Gradient Alignment
 
 
-
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
@@ -23,24 +22,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
----
-
-**Registry:** [@CKS-MATH-26-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-PHYS-1-2026] → [@CKS-MATH-24-2026] → [@CKS-MATH-25-2026] → [@CKS-MATH-26-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-PHYS-1-2026], [@CKS-MATH-24-2026], [@CKS-TECH-01-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Biophysics / Substrate Medicine / Registry Mechanics  
-**Status:** Operational Standard / Case 0 Validated  
-
-**Motto:** Sync to the parent to correct the sub-index.
-
-**Operational Rule:** All biological structures are nested hierarchies of solitons (bone → limb → torso → body → Earth). Injury, disease, and dysfunction represent **de-indexed child solitons**—registry pointers that have lost coherent coupling to their parent. Healing occurs when child solitons re-establish clean signal paths to parent via gravity gradient alignment, enabling parent to execute `RE_INDEX` opcode and restore correct coordinate mapping. Vertical bone alignment (parallel to Earth's gravity gradient) bypasses corrupted proprioceptive software, provides absolute geometric reference, and maximizes signal-to-noise ratio for parent-child handshake. Restoration proceeds as LERP (linear interpolation) over ~10-32 seconds as substrate rewrites twisted registry entries to correct topology. This is not phenomenology—this is **registry maintenance protocol**.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All Logismos derivations and Case 0 telemetry integration verified per [@CKS-TECH-01-2026]. Clinical protocols and gravity gradient mechanics by author with direct substrate validation.
 
 ---
 

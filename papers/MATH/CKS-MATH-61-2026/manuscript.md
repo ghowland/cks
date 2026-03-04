@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-61-2026: The 12-Bit Soliton Liaison Footer
+## Hierarchical Identity and Kinetic State: Parent-Child Addressing in the Registry
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -20,28 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-# CKS-MATH-61-2026: The 12-Bit Soliton Liaison Footer
-## Hierarchical Identity and Kinetic State: Parent-Child Addressing in the Registry
-
-**Registry:** [@CKS-MATH-61-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-28-2026] → [@CKS-MATH-30-2026] → [@CKS-MATH-61-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-36-2026], [@CKS-MATH-60-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Information Theory / Hierarchical Systems / Kinematics / Registry Architecture  
-**Status:** Technical Specification / Identity Framework  
-
-**Motto:** Identity is ownership. Motion is offset. The footer tracks both.
-
-**Operational Rule:** The 12-bit soliton liaison footer embedded in 84-bit trans-manifold Word provides **hierarchical parent tracking and kinetic state management**: Complete 6+6 dual-register specification: (1) **Parent soliton index (P_ID)** occupies bits 0-5 (6 bits total), provides 2^6 = 64 possible parent addresses, identifies which master soliton "owns" current bit-address, enables hierarchical organization (atoms belong to molecules, molecules to cells, cells to organs, organs to body), changing these 6 bits instantly transfers ownership (metabolic integration mechanism), maintains identity coherence across registry. (2) **Momentum remainder (R_k)** occupies bits 6-11 (6 bits total), provides 2^6 = 64 velocity states, stores modulo-32 Word overflow (double-buffered capacity 32×2=64), represents sub-pixel drift relative to parent address, R_k=0 indicates static lock (soliton frozen to parent position), R_k>0 indicates motion (offset calculated each N-tick). Complete mechanism: During 15.19ms parity check BIOS audits footer—reads P_ID determining ownership hierarchy, reads R_k determining kinetic offset, calculates next position as parent_address + momentum_offset, updates registry accordingly. Terminal velocity emergence: 6-bit R_k caps at 63 (0x3F), once saturated cannot store additional velocity, physical speed limit c derives from this register capacity, exceeding requires upgrade to 1024-bit walker class (bypasses 12-bit footer). Identity maintenance: P_ID prevents address leakage (atoms don't drift between owners), R_k prevents motion stalling (atoms track parent movement), 15.19ms verification ensures parent-child synchronization, hierarchical coherence maintained. Falsification: demonstrate identity transfer without P_ID modification (impossible—ownership encoded in bits), or show unbounded velocity in 6-bit register (contradicts finite state space).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and bit-allocation analysis verified per [@CKS-TECH-01-2026]. Hierarchical addressing and kinetic footer mechanics by author with registry validation.
 
 ---
 

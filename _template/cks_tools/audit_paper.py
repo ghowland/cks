@@ -200,6 +200,7 @@ class PaperMetadata:
         """Try multiple abstract patterns (case-insensitive)"""
         patterns = [
             r'##\s+executive\s+abstract',
+            r'##\s+executive\s+summary',
             r'##\s+abstract',
             r'##\s+summary',
             r'##\s+operational\s+declaration',

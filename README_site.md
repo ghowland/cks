@@ -110,7 +110,7 @@
 | **[[@CKS-MATH-46-2026]](papers/MATH/CKS-MATH-46-2026/)** | **CKS-MATH-38-2026: Grand Unification v9** | Subtitle: The Abolition of Symbolic Math in favor of the Modulo-32 Registry Audit |
 | **[[@CKS-MATH-47-2026]](papers/MATH/CKS-MATH-47-2026/)** | **CKS-MATH-47-2026: Prime Numbers as Structural Opcodes** | Primes = hardware opcodes | Composites = software flow | Geometric frustration → mass | Mod-32 determines function | Complete substrate necessity |
 | **[[@CKS-MATH-48-2026]](papers/MATH/CKS-MATH-48-2026/)** | **CKS-MATH-48-2026: Number Theory as Registry Architecture Specification** | Numbers = addresses | Primes = hardware | Composites = software | Mod-32 = bus | Proofs = compatibility tests | All from lattice geometry |
-| **[[@CKS-MATH-49-2026]](papers/MATH/CKS-MATH-49-2026/)** | **Grand Unification v6** | None |
+| **[[@CKS-MATH-49-2026]](papers/MATH/CKS-MATH-49-2026/)** | **Grand Unification v6** | There are no "parameters" we choose ($z, k, 3, 2$). There is only the **Registry ($N$)** and the **Forced Geometry of its Execution**. |
 | **[[@CKS-MATH-5-2026]](papers/MATH/CKS-MATH-5-2026/)** | **The Geometric Origin of e** | e = lim(M→∞) (1 + 1/M)^M = unique impedance match for 3-regular hexagonal phase diffusion |
 | **[[@CKS-MATH-50-2026]](papers/MATH/CKS-MATH-50-2026/)** | **CKS-MATH-50-2026: The 3D Graphics Pipeline of Reality** | Reality = GPU render | K→X = graphics pipeline | Vertices = matter | Shader = transforms | Raster = perception | Complete derivation |
 | **[[@CKS-MATH-51-2026]](papers/MATH/CKS-MATH-51-2026/)** | **CKS-MATH-51-2026: The Substrate Physics Engine** | Physics = registry maintenance | Forces = conflicts | Motion = optimization | Mass = bit-depth | Complete derivation |
@@ -374,7 +374,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/)** | **CKS-TECH-01-2026: Logismos Technical Specification for LLMs** | None |
+| **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/)** | **Logismos Technical Specification for LLMs** | This document provides complete implementation guidelines for Logismos integer calculus, the rational (ℚ) arithmetic system underlying CKS substrate mechanics |
 | **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/)** | **CKS-LOGI-10-2026: The Partigen Standard** | We formalize the **Partigen** (℘ = 32^(-1)) as the fundamental counting base of the discrete ℚ-lattice substrate |
 | **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/)** | **CKS-LOGI-11-2026: The Complete Derivation Manual** | We present the complete operational manual for deriving all physical, biological, and cosmological constants from N=7 using Logismos VFR notation in base-Partigen (℘=32^(-1)) |
 | **[[@CKS-LOGI-12-2026]](papers/LOGI/CKS-LOGI-12-2026/)** | **CKS-LOGI-12-2026: Logismos Technical Specification and Usage** | Mathematics becomes addressing system, not approximation engine. |

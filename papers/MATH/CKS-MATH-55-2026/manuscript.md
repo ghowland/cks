@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-MATH-55-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Industrial Specification / Lossless Transform Standard
-
-**Motto:** Vectors are paths. Matrices are gears. Remainders preserve precision. Integer routing eliminates decimation.
-
----
-
 ## Abstract
 
 We abolish abstract vector spaces and establish linear algebra as integer-address registry routing using Logismos (V,F,R) packet system. From hexagonal lattice axioms, we derive: (1) Vectors = instruction headers specifying node-to-node paths (not arrows in void), (2) Scalars = (V,F,R) packets where V=value, F=fraction scale, R=remainder (eliminates lonely numbers), (3) Basis vectors = 3 dipole axes forced by z=3 coordination (120° hexagonal, not arbitrary), (4) Matrices = 144-LU transition tables (12×12 soliton gearbox, not abstract grids), (5) Matrix multiplication = packet routing through gearbox (preserves R remainder for lossless precision), (6) Dot product = modulo-32 parity check (measures shared N+1 increments), (7) Eigenvalues = resonant integers where R=0 (no frustration states), (8) Determinant = registry volume occupied (LU count), (9) Inversion = S=2 bilateral flip (Side A↔Side B), (10) All operations preserve integer exactness via remainder carry. Industrial advantage: infinite transforms without floating-point drift—GPU mesh can rotate trillion times, snap back to exact start. Linear algebra becomes hardware routing specification, not abstract mathematics.

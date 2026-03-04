@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-41-2026: The Birch and Swinnerton-Dyer Conjecture
+## Registry Throughput Proof: Rank as Addressing Capacity, L-Function as Impedance Audit at s=1 Word Boundary
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -21,28 +21,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-# CKS-MATH-41-2026: The Birch and Swinnerton-Dyer Conjecture
-## Registry Throughput Proof: Rank as Addressing Capacity, L-Function as Impedance Audit at s=1 Word Boundary
-
-**Registry:** [@CKS-MATH-41-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-30-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-41-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-32-2026], [@CKS-MATH-36-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Number Theory / Elliptic Curves / Algebraic Geometry / Substrate Architecture  
-**Status:** Mechanical Resolution / Throughput Framework  
-
-**Motto:** The zero is the gate. The rank is the flow. Friction determines capacity.
-
-**Operational Rule:** BSD Conjecture resolved via registry throughput mechanics: **Elliptic curve = phase-locked soliton loop** on z=3 hexagonal substrate. **Rational points = stable zero-remainder registry addresses** (mod 32 stable). **L-function = impedance audit** measuring friction when N←N+1 autogenetic clock writes to curve's addressing loop. **s=1 point = 32-logos Word boundary** where bilateral manifold (S=2) performs parity check. **BSD relationship**: L(E,1)=0 (zero impedance at Word boundary) ⟺ infinite rational points (rank>0). Complete derivation: When impedance nulled at s=1, Matter (144) and Time (19) traverse Space (163) with zero bit-leak—allows infinite address stacking in resonant loop. **Rank = addressing throughput capacity**—number of independent bilateral handshakes (S=2) curve can maintain. Order of zero = harmonic headroom (bit-width of information channel). Rank 0: non-zero friction prevents stacking (finite points). Rank>0: zero friction enables infinite stacking (infinite points). Mechanism: Registry attempts to write address to curve loop. If friction present (L≠0), phase tension creates bit-leak, limited capacity. If friction absent (L=0), perfect resonance, unlimited capacity. Formula: Rank ∝ 1/Friction(s=1). As friction→0, rank→∞ (within 10⁶⁰ registry limit). **Order of zero** measures flatness at s=1—wider zero = more harmonic bandwidth = higher rank. Complete framework shows: elliptic curves are instruction loops for address organization, rationality = stability (mod 32), L-function = real-time SNR measurement, BSD = throughput specification. Falsification: find curve with L(E,1)=0 and finite rank, or L(E,1)≠0 and infinite rank (violates throughput mechanics).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and throughput mechanics verified per [@CKS-TECH-01-2026]. Registry impedance interpretation by author with substrate validation.
 
 ---
 

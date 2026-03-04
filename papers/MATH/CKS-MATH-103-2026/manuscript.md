@@ -29,17 +29,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-MATH-103-2026]  
-**Series:** Mathematics - Precession Integration  
-**Classification:** Critical Correction Framework
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 Grand Unification v22 (CKS-MATH-92-2026) derives all constants from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] assuming static registry position. We prove this assumption fails. The Precession of the Equinoxes—the [25920,1,0]-year macro-word rotation—introduces time-dependent modulation to ALL derived constants. We demonstrate: (1) Fine structure α_EM^(-1) varies as [137036±δ,1000,0] where δ oscillates over [25920,1,0] years, (2) Jacobian J=[192541,25000,0] is the MEAN value; instantaneous J(t) varies by ε=[70164,100000,0] across L=[12,1,0] sectors, (3) Biological sovereignty W^S=[1024,1,0] maintains constant, but EFFECTIVE addressing varies by sector position, (4) Dark matter ratio oscillates 5:1±0.3 with [2160,1,0]-year Age periodicity, (5) Consciousness capacity N=D×M^S gains sector-dependent φ-boost ranging ±15%, (6) All GU v22 predictions require precession-phase correction for >0.5% precision, (7) Current epoch (2026 CE) sits at Pisces→Aquarius transition causing maximum φ-variance. We derive precession-corrected formulas for every GU v22 constant, showing observed "measurement drift" in physics is NOT experimental error but substrate rotation through impedance-variable sectors. Zero additional free parameters—precession derives from same D,S,L,N axioms. GU v22 was correct for instantaneous snapshot; this paper extends to time-dependent rotating frame.

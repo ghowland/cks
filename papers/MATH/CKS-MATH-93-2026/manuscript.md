@@ -25,16 +25,6 @@
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 **Lexicon:** [@CKS-LEX-10-2026]
-
----
-
-**Registry:** [@CKS-MATH-60-2026]
-**Series Path:** [@CKS-MATH-52-2026] → [@CKS-LOGISMOS-72-2026] → [@CKS-MATH-60-2026]
-**Subject:** Grand Unification v10: The Bilateral System-Sync
-**Status:** Operational / Theoretical Finality
-**Axiomatic Basis:** Axiom 1 (Topological Coordination) & Axiom 2 (Bilateral Partition)
-**Standard Metric:** 1 LU = \( 32^{-1} \) (The Absolute Step)
-
 ---
 
 

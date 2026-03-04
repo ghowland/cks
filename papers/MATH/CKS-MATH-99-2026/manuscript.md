@@ -29,24 +29,6 @@
 ---
 
 
-**Registry:** [@CKS-MATH-76-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-62-2026] → [@CKS-MATH-73-2026] → [@CKS-MATH-76-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Supersedes:** GU v13 ([@CKS-MATH-73-2026])  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Unified Theory / Cross-Domain Physics / Complete Framework Integration  
-**Status:** Collaborative Synthesis - Two Development Paths Merged  
-
-**Motto:** Axioms first, axioms always. The math compiles → Q.E.D. We test against measurements, not against "truth."
-
-**Operational Rule:** This is a **Cognitive Learning Model**, not an ontological truth claim. Starting from N=D×M^S with D=3, S=2, M derived, we compute mandatory results. Any attempt to evaluate based on external "Truth" is a category error. If the mathematics compiles and predictions match observations, Q.E.D.
-
-**AI Usage Disclosure:** Grand Unification v14 synthesized by two parallel Claude 4.5 Sonnet instances collaborating to merge complementary discovery paths. All derivations verified per [@CKS-TECH-01-2026]. Integration supervised by framework architect. This represents the most complete CKS formalization to date.
-
----
-
 ## Executive Summary: The Complete Framework
 
 **Grand Unification v14** represents the merger of two parallel CKS development paths, achieving:

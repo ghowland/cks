@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-28-2026: Matter, Space, and Time
+## The Fine Structure Constant as Geometric Impedance of the 144-163-19 Triad
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -21,27 +21,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-# CKS-MATH-28-2026: Matter, Space, and Time
-## The Fine Structure Constant as Geometric Impedance of the 144-163-19 Triad
-
-**Registry:** [@CKS-MATH-28-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-25-2026] → [@CKS-MATH-26-2026] → [@CKS-MATH-27-2026] → [@CKS-MATH-28-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-10-2026], [@CKS-MATH-24-2026], [@CKS-MATH-25-2026], [@CKS-TECH-01-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Fundamental Constants / UV Mapping / Renormalization Theory  
-**Status:** Theoretical Closure / Integer Foundation Revealed  
-
-**Motto:** Matter is the packet. Space is the curvature. Time is the seed. The constant is their ratio.
-
-**Operational Rule:** The fine structure constant α⁻¹ ≈ 137.036 is not a fundamental mystery but the **geometric impedance** of three forced integers: 144 (matter packet density), 163 (space curvature anchor), 19 (time coordination seed). Formula: α⁻¹ = (144 - 163/19) × J where J is topological Jacobian mapping 2D discrete substrate to 3D curved render. This resolves: UV divergence problem (144 provides hard cutoff), renormalization mystery (163/19 is finite geometric drag, not infinite correction), constant's specific value (forced by integers, not adjusted), why α is dimensionless (pure ratio of geometric limits). The 144-163-19 triad represents: Matter (12² electron footprint), Space (largest Heegner number d=163), Time (minimum bilateral center with two shells). These are not arbitrary—they are **unique topological necessities** from z=3 hexagonal lattice. Derivation achieves 10-decimal precision match with zero free parameters. This completes unification: all constants reduce to integer ratios mediated by substrate geometry.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All Logismos derivations verified per [@CKS-TECH-01-2026]. 144-163-19 integer foundation and Jacobian analysis by author with substrate validation. Python verification code integrated.
 
 ---
 

@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-57-2026: The Riccati Equation Resolution
+## Optimal Control via Registry Gradient: DARE as Integer Remainder Minimization in Discrete Substrate
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -20,28 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-# CKS-MATH-57-2026: The Riccati Equation Resolution
-## Optimal Control via Registry Gradient: DARE as Integer Remainder Minimization in Discrete Substrate
-
-**Registry:** [@CKS-MATH-57-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-45-2026] → [@CKS-MATH-57-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-33-2026], [@CKS-MATH-36-2026], [@CKS-MATH-45-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Optimal Control / Estimation Theory / Kalman Filtering / Numerical Methods  
-**Status:** Industrial Solution / Computational Resolution  
-
-**Motto:** Optimal is not calculated—it's snapped. The path is not found—it's the remainder minimum.
-
-**Operational Rule:** Discrete Algebraic Riccati Equation (DARE) resolved via **registry gradient minimization**: Traditional DARE = P = A^T P A - (A^T P B)(R + B^T P B)^(-1)(B^T P A) + Q requires recursive matrix inversion causing singular matrix failures and floating-point drift. CKS resolution: Reclassify as **registry pathfinding problem**—optimal state P = integer address minimizing total mod-32 remainder. Complete derivation: (1) **Eliminate inversion**—replace (R + B^T P B)^(-1) with bilateral relief audit (mesh flip routing to least-congested dipole), no singularity possible (blocked path = high remainder triggers snap to alternative). (2) **Three-component audit**—System torque = A^T P A (natural drift through 144-logos gearbox), Control relief = B influence (bypass valve reducing tension), Target cost = Q (desired registry address), Total friction = combined remainder mod 32. (3) **Optimal snap condition**—Solution P where Audit(Drift - Relief + Cost) ≡ 0 (mod 32), perfect integer alignment minimizes registry friction. (4) **Gradient descent automatic**—substrate naturally flows to minimum remainder state (like TSP gradient relief), no iterative calculation needed, P "snaps" to lowest-friction node. Industrial advantages: Zero jitter (integer addresses eliminate decimal hunting), inversion-proof (singularity just increases remainder triggering dipole pivot), lossless precision (no floating-point accumulation), O(1) snap vs O(n³) iteration. Covariance reinterpreted: NOT statistical uncertainty BUT exact remainder count (R = quantized system tension). Kalman filtering becomes registry state tracking. Falsification: demonstrate DARE requiring continuous solutions (contradicts discrete substrate), or show optimal control without remainder minimization (violates gradient mechanics).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and optimal control interpretation verified per [@CKS-TECH-01-2026]. Registry gradient mechanics and remainder minimization by author with substrate validation.
 
 ---
 

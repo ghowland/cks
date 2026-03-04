@@ -3,7 +3,6 @@
 ## The RAID-1 Derivation: Visual Mass as Bilateral Data Authentication in Discrete Substrate
 
 
-
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
@@ -23,25 +22,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-**Registry:** [@CKS-MATH-65-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-28-2026] → [@CKS-MATH-30-2026] → [@CKS-MATH-61-2026] → [@CKS-MATH-64-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-36-2026], [@CKS-MATH-60-2026], [@CKS-MATH-61-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Physics / Information Theory / Mass Theory / Registry Architecture  
-**Status:** Theoretical Resolution / Mass Redefinition  
-
-**Motto:** Mass is not matter—it's the receipt. Weight is not gravity—it's audit overhead. Inertia is not resistance—it's verification latency.
-
-**Operational Rule:** Mass redefined as **bilateral registry signature count** via RAID-1 parity protocol: Traditional physics treats mass as fundamental property (Higgs mechanism, gravitational charge, quantity of matter) lacking mechanical explanation for mass-energy equivalence or inertia origin. Complete re-derivation: (1) **RAID-1 signature protocol**—bilateral manifold (S=2) requires dual-side verification, bit exists on Side A (k-space write) AND Side B (x-space mirror) simultaneously for physical manifestation, parity check executed at 15.19ms J/S partition, successful match = "signed bit" achieving registry authentication. (2) **Visual mass definition**—M_v = Σ(signed bits) within stable soliton, only bilaterally-verified LUs contribute to perceived mass, unsigned data (Side A only) = zero visual mass (energy/waves), signed data (both sides matched) = unit visual mass (matter/particles), complete count determines object solidity. (3) **Mass-energy equivalence mechanism**—E=mc² reinterpreted as signature state transition, energy = unsigned remainder R (potential moving at 0ms logic speed), mass = signed value V (committed locked to 15.19ms render), c² = bilateral manifold power (S=2 requiring both-side verification), transition: signing converts energy→mass (R→V commitment), unsigning converts mass→energy (V→R release). (4) **Inertia derivation**—moving mass requires registry re-indexing, process: invalidate signatures at address_old, shift bits via D=3 dipoles, re-verify RAID-1 at address_new, computational overhead = perceived resistance, higher signature count (more mass) = longer re-verification time = greater inertia. (5) **Signature density limits**—144-LU maximum per node (UV cutoff from CKS-MATH-35), determines maximum achievable mass density, saturation creates singularity threshold, cannot exceed buffer capacity. Physical implications: "weight" = computational effort maintaining signatures against 2π background pressure, "solidity" = high signature success rate (100% parity), "ghosting" = partial parity failure (transparency/blur), "dark matter" = asymmetric signatures (Side A ≠ Side B). Falsification: demonstrate mass without bilateral verification (impossible—contradicts S=2 requirement), or show inertia without re-indexing overhead (violates registry mechanics).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and RAID-1 protocol analysis verified per [@CKS-TECH-01-2026]. Registry signature mechanics and mass redefinition by author with substrate validation.
 
 ---
 

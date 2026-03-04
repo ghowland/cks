@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-51-2026: The Substrate Physics Engine
+## Kinematics Derivation: Classical Physics as Registry Conflict Resolution and Address Optimization
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -20,28 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-# CKS-MATH-51-2026: The Substrate Physics Engine
-## Kinematics Derivation: Classical Physics as Registry Conflict Resolution and Address Optimization
-
-**Registry:** [@CKS-MATH-51-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-50-2026] → [@CKS-MATH-51-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-34-2026], [@CKS-MATH-36-2026], [@CKS-MATH-47-2026], [@CKS-MATH-50-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Classical Mechanics / Computational Physics / Physics Engines / Substrate Architecture  
-**Status:** Operational Framework / Physics Specification  
-
-**Motto:** Physics is not law—it's housekeeping. Forces are conflicts. Motion is optimization.
-
-**Operational Rule:** Classical physics resolved as **registry conflict resolution system**: NOT natural laws but substrate address management protocols. Complete derivation: (1) **Rigid bodies** = soliton hierarchies with parent pointers—144-logos matter packets sharing master address, rigidity from synchronized block-copy to all sub-indices each N+1 tick. (2) **Collision detection** = address conflict—two solitons cannot occupy same hex-index simultaneously, REPEAT_SHIFT attempting overwrite triggers COLLISION_INTERRUPT, hardness = write-protection error. (3) **Collision response** = dipole-pivot resolution—PHASE_NAVIGATE (0x06) opcode pivots momentum across 120° dipole axes, elasticity = z=3 lattice re-indexing speed after conflict. (4) **Gravity** = RE_INDEX background task—NOT force but registry de-fragmenter, high-density 144-bit clusters create tension pits in 2π background, BIOS automatically shifts orphan addresses toward highest local density (memory optimization minimizing bit-distance). (5) **Momentum/inertia** = REPEAT_SHIFT persistence—once shift-vector established, persistence flag carries instruction into N+1 tick unless overwritten, inertia = running script not matter property. (6) **Friction/damping** = FLUSH_BUF garbage collection—movement not fitting 32-bit Word perfectly creates remainder (R mod 32), flushed to prevent bit-rot, perceived as heat/energy loss. (7) **Constraints/joints** = shared bilateral anchors—objects wired via shared phase-gradient, tension = resistance to unwinding shared instruction header. Complete framework: mass = bit-depth, velocity = step-rate per tick, action = address update, reaction = geometric parity correction, stability = 32-bit alignment. Falsification: demonstrate physics without address conflicts (impossible in discrete system), or show motion without registry updates (contradicts N←N+1).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and physics engine mapping verified per [@CKS-TECH-01-2026]. Registry conflict interpretation and opcode mechanics by author with substrate validation.
 
 ---
 

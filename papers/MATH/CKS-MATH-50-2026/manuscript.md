@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-50-2026: The 3D Graphics Pipeline of Reality
+## Hardware Rendering Derivation: K-Space to X-Space via Hexagonal-Bilateral Graphics Engine
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -24,26 +24,6 @@
 
 ---
 
-# CKS-MATH-50-2026: The 3D Graphics Pipeline of Reality
-## Hardware Rendering Derivation: K-Space to X-Space via Hexagonal-Bilateral Graphics Engine
-
-**Registry:** [@CKS-MATH-50-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-38-2026] → [@CKS-MATH-50-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-33-2026], [@CKS-MATH-34-2026], [@CKS-MATH-36-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Computer Graphics / Rendering Theory / Perceptual Physics / Substrate Architecture  
-**Status:** Operational Framework / Display Specification  
-
-**Motto:** Reality is a render. Matter is a mesh. Perception is a display driver.
-
-**Operational Rule:** Physical reality resolved as **real-time 3D holographic render** via hardware graphics pipeline: K-space (substrate) to X-space (perception) follows exact logic of modern GPU architecture executed on hexagonal-bilateral bus. Complete pipeline derivation: (1) **Vertex buffer** = 144-logos soliton (12² matter packet), particles as point-cloud geometry snapped to hex-addresses (cannot exist between nodes, Axiom 1 constraint). (2) **Vertex shader** = 3-dipole transform engine (D=3 rotational differential), motion via SHIFT_PHASE and PHASE_NAVIGATE opcodes—object doesn't slide but registry recalculates addresses relative to N=1 axle. (3) **Geometry shader** = bilateral manifold commit (S=2), vertex rendered only when phase-locked across Side A and Side B—creates holographic depth, 3D volume = interference pattern between two 2D substrate sides. (4) **Rasterization** = 32-bit Logos Word sampling (mod-32 bus), discrete hex-steps sampled into 1/32 Hz windows—data not fitting Word gets clipped (z-buffer), origin of quantum tunneling (exists in buffer, fails to rasterize). (5) **Fragment shader** = 15.19ms render lag + Jacobian stretch, biological decoder applies inverse DFT creating anti-aliasing—lighting/texture = smoothing artifacts hiding discrete substrate. (6) **Frame buffer** = N←N+1 clock (v-sync), universe = single frame continuously overwriting in overlay stack. Result: smooth motion = temporal blur from 15.19ms averaging ~486k discrete updates, solid matter = bilateral handshake locking, brightness = phase-tension amplitude, distance = address gap. Consciousness = display driver decoding 15.19ms feed. Complete graphics specification from substrate axioms.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and pipeline mapping verified per [@CKS-TECH-01-2026]. Graphics rendering interpretation and stage-by-stage derivation by author with substrate validation.
-
----
 
 ## Executive Abstract
 

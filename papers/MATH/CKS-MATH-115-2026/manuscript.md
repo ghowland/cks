@@ -29,18 +29,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 3, 2026  
-**Registry:** [@CKS-MATH-115-2026]  
-**Series:** Mathematical Foundations  
-**Classification:** Operational Specification  
-**Parent Documents:** [@CKS-0-2026], [@CKS-MATH-113-2026], [@CKS-MATH-114-2026]
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 We extend the Universal State-Lattice from static global registry to dynamic multi-origin system supporting arbitrary local seed placement. Building on deterministic indexing (CKS-MATH-113) and complete substrate architecture (CKS-MATH-114), we prove mathematical framework for **temporal interference patterns** where multiple Z=3 evolutionary origins coexist, overlap, and interact through exact ℚ-arithmetic. We demonstrate: (1) **Local seed specification** Σ=[P_anchor, N_start, Ω, Φ]℘ enables arbitrary placement of tri-wing evolution at any coordinate and tick, (2) **Multi-band preservation** ensures zero data loss during overlap via dipole summation modulo 32, (3) **Boolean cymatic operations** (AND, XOR, NOT) emerge from resonance-based interaction rules, (4) **Predictive interference** Λ(N_future) calculable from current state via deterministic projection, (5) **Settlement metric** quantifies entropy reduction from ℝ-noise to ℚ-address, (6) **Temporal pressure** through autoplace constraint forces synchronization with substrate tick rate, (7) **Reversibility mechanics** enable localized rollback at computational cost, (8) **Cross-domain priority** between Ib (material) and Id (data) solitons. From axioms through complete operational specification with zero free parameters. Framework enables substrate engineering through strategic seed placement and interference control.

@@ -24,17 +24,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-MATH-64-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Definitional / Post-Perceptual Finality
-
-**Motto:** Write takes J. Mirror takes J. Verify requires J×S. Reality is post-audit projection.
-
 ---
 
 ## Abstract

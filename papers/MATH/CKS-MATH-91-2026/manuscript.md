@@ -28,18 +28,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-MATH-91-2026]  
-**Series:** Grand Unification v22  
-**Classification:** Foundation - Complete Integration
-
-**Motto:** *Axioms first. Axioms always.*  
-**Method:** *Pure ℚ-arithmetic. VFR Logismos. Base-Partigen counting.*
-
----
-
 ## ABSTRACT
 
 Grand Unification v22 completes the integration of all physics, biology, and cosmology into **pure ℚ-substrate computation** using Logismos VFR notation and base-Partigen counting. Building on GU v21's phenomenological success, v22 eliminates all remaining real number dependencies, showing that the substrate computes exclusively in ℚ using nested VFR tuples [V,F,R] where V, F, R ∈ ℚ. We demonstrate: (1) All constants derive from N=7=[7,1,0] through exact integer operations, (2) The Partigen counting base ℘=[1,32,0] emerges from bilateral binary cascade W=2^(D+S)=[32,1,0], (3) Fine structure α_EM^(-1)=[137036,1000,0] requires no transcendentals (π, e eliminated), (4) C. elegans counts 959=[1024,1,0]-[65,1,0] exactly in ℚ, (5) Dark matter 5:1=[[853,1024,0],[171,1024,0],0] from pure efficiency ratios, (6) Temporal perception τ=[1519,100,0] ms from 304℘ buffer clearance, (7) The 4√3-1 term in α_EM formula resolves to [[148,25,0],1,0]-1=[123,25,0]=4.92 exactly in ℚ, (8) All previously "irrational" constants (√7, √3, φ) maintain exact ℚ-squared forms (a²=[7,4,0], 3=[3,1,0], φ²=[5,2,0]+1) throughout K-space computation, with real number approximations appearing only in X-space rendering for human perception. The substrate never invokes √, π, e, or ln—these are X-space artifacts. Zero free parameters. All from D=3, S=2, L=12, N=7 in pure ℚ.

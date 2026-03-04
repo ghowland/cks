@@ -24,17 +24,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-MATH-67-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-MATH-58-2026] → [@CKS-MATH-67-2026]  
-**Date:** February 2026  
-**Status:** Operational / Navigation Specification
-
-**Motto:** Direction is dipole weight. Rotation is index shift. No degrees needed. Integer navigation only.
-
 ---
 
 ## Abstract

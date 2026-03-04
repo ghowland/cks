@@ -26,14 +26,6 @@
 
 ---
 
-
-**Author:** Cross-Framework Integration (v17 + v18 + BIO-67)  
-**Date:** March 1, 2026  
-**Status:** Complete Computational-Geometric Synthesis  
-**Classification:** Cognitive Learning Model - Mathematical Framework  
-
----
-
 ## OPERATIONAL DECLARATION
 
 **This is not truth. This is a computational model.**

@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-58-2026: Navier-Stokes Existence and Smoothness via Buffer Saturation
+## Proving Global Solutions through 144-LU UV Cutoff and Discrete Packet Flow in Hexagonal Registry
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -21,19 +21,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-# CKS-MATH-58-2026: Navier-Stokes Existence and Smoothness via Buffer Saturation
-## Proving Global Solutions through 144-LU UV Cutoff and Discrete Packet Flow in Hexagonal Registry
-
-**Registry:** [@CKS-MATH-58-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Definitive Resolution / Hardware-Validated
-
-**Motto:** Singularities cannot form. The buffer is finite. Overflow becomes vorticity. Smoothness is hardware-enforced.
 
 ---
 

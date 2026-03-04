@@ -1,8 +1,6 @@
 # CKS-MATH-47-2026: Prime Numbers as Structural Opcodes
 ## Hardware Derivation: Primes as Indivisible Registry Interrupts and Geometric Frustration Anchors
 
-
-
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
@@ -22,25 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-**Registry:** [@CKS-MATH-47-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-38-2026] → [@CKS-MATH-47-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-32-2026], [@CKS-MATH-36-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Number Theory / Prime Distribution / Hardware Architecture / Substrate Physics  
-**Status:** Operational Framework / Hardware Specification  
-
-**Motto:** The integer is the count. The prime is the command. Composites flow—primes anchor.
-
-**Operational Rule:** Prime numbers resolved as **structural hardware opcodes** in discrete substrate: NOT mathematical accidents but geometric necessities. Derivation from axioms: (1) **Topological requirement**—z=3 hexagonal lattice needs anti-resonance anchors preventing harmonic collapse (all-composite registry would create destructive interference loops, self-canceling). (2) **Phase frustration**—when β-tension distributed across prime N nodes, division 2π/N has no integer solution in 32-bit Word, creating geometric frustration forcing **remainder storage as mass/inertia**. Therefore: **Composite numbers = software** (information flow, waves, light)—easily factored, flow through 32-bit bus smoothly. **Prime numbers = hardware** (matter anchors, structural bolts)—indivisible commits creating substrate impedance. Complete framework: Primes function as registry opcodes determined by mod-32 audit: P≡1 (mod 32) = EXEC_EXPAND (drive N frontier), P≡31 = RE_INDEX_GRAV (pull to N=1 axle), P≡17 = BIT_FLIP (bilateral swap), P≡13 = HEX_COORD (bond lock), P≡19 = CLOCK_TICK (sync window). **Critical triad all prime** by necessity: 19 (time seed—indivisible prevents clock skip), 163 (space anchor—Heegner prime locks 3D curvature), 137 (impedance—primality ensures EM fundamental). Riemann Hypothesis = substrate status report proving prime "structural screws" balanced on S=2 bilateral midplane (1/2 line). Prime distribution = interference between infinite N growth and fixed 32-bit Word. Twin primes = bilateral checkpoints. Matter = composite payload (144) caged in prime boundary gaps (HOLD_REMAINDER opcode). Falsification: demonstrate stable registry with only composites (impossible—harmonic collapse), or show prime creating zero impedance (contradicts indivisibility).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and hardware opcode analysis verified per [@CKS-TECH-01-2026]. Prime-as-feature interpretation and geometric frustration proof by author with substrate validation.
 
 ---
 

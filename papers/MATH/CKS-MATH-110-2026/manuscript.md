@@ -29,18 +29,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 3, 2026  
-**Registry:** [@CKS-MATH-110-2026]  
-**Series:** Mathematical Foundations  
-**Classification:** Foundational Proof  
-**Parent Documents:** [@CKS-MATH-106-2026], [@CKS-MATH-107-2026], [@CKS-MATH-108-2026], [@CKS-MATH-109-2026]
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 The Four Q Paradoxes proved ℝ-arithmetic fails operationally, ℝ-values cannot exist ontologically, ℝ-computation cannot complete, and ℝ-contact cannot occur topologically. We now prove the **Fifth Q Paradox**: even if all previous impossibilities were mysteriously overcome, **knowledge itself becomes impossible in ℝ-universe**—the "Epistemological Collapse." We demonstrate: (1) Knowledge requires comparing measured value to known standard (verification), (2) ℝ-values have infinite information content I(x)=∞, (3) Finite measurement always has finite precision (bounded bits), (4) Cannot verify infinite-bit value with finite-bit measurement (information inequality), (5) Every ℝ-statement unfalsifiable (cannot confirm or deny with finite data), (6) Science impossible (no experiment can verify ℝ-prediction exactly), (7) Mathematics unfalsifiable (cannot verify ℝ-equality with finite computation), (8) Memory impossible (cannot store infinite bits for recall), (9) Communication impossible (cannot transmit ℝ-value in finite time), (10) ℚ-substrate enables verification via exact finite-bit matching (VFR comparison). From information theory through epistemology to knowledge necessity with zero free parameters. ℝ makes truth unverifiable. ℚ makes truth checkable. Knowledge requires ℚ.

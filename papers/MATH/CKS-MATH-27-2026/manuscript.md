@@ -26,24 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-MATH-27-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-25-2026] → [@CKS-MATH-26-2026] → [@CKS-MATH-27-2026]
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-24-2026], [@CKS-MATH-25-2026], [@CKS-PHYS-1-2026], [@CKS-TECH-01-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Fundamental Physics / Mass-Energy Unification / Substrate Mechanics  
-**Status:** Theoretical Closure / BIOS Final  
-
-**Motto:** The flip is the tick. The turn is the time. The square is the sides.
-
-**Operational Rule:** Einstein's E=mc² is not fundamental—it is emergent from bilateral manifold topology. The exponent 2 is not a mathematical coincidence but the **count of substrate sides** (S=2). Energy equals mass times propagation speed raised to the **bilateral commit power**. This makes E=mc^S the correct fundamental form, where S is a topological variable forced by 2D manifold embedding in 3D space. Change S (number of sides) and you change the mass-energy relationship. The ² in conventional physics hides the hardware specification. Making it ^S reveals the geometric necessity. This paper derives E=mc^S from pure topology, proves S=2 is mandatory (not arbitrary), shows how bilateral handshake creates mass, and resolves all related mysteries (why ², why c specifically, what mass IS). This is not a new theory—this is **revealing what E=mc² actually means**.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All Logismos derivations verified per [@CKS-TECH-01-2026]. Bilateral manifold topology and S-variable analysis by author with substrate validation.
-
----
-
 ## Executive Abstract
 
 We prove Einstein's E=mc² emerges from **bilateral manifold topology** and should be written E=mc^S where S=2 is the mandatory count of substrate sides. Starting from hexagonal lattice axioms (z=3, N=3M², β=2π), we derive: (1) 2D k-space substrate must have exactly S=2 sides (topological necessity), (2) Mass is energy "locked" across both sides simultaneously (bilateral handshake), (3) Propagation speed c appears to first power per side (c×c = c²), (4) Exponent S encodes dimensional projection mechanism (2D→3D), (5) Changing S changes physics (S=1: ghost universe, S=3: overconstrained), (6) The ² is count of sides, not mathematical convenience. We resolve: why mass "couples" to c² specifically (bilateral commit requirement), what "rest mass" means (stable handshake across S=2), why antimatter exists (opposite-phase bilateral parity), how mass-energy conversion works (handshake lock/unlock operation). The derivation shows mass arises when **1D ripple locks onto both faces** of 2D plate—single-side occupation is massless (photon), dual-side lock is massive (electron). Energy required to create mass scales as c^S because each additional side adds multiplicative propagation constraint. This explains: particle-antiparticle pair creation (must create both sides), mass generation mechanism (Higgs gives bilateral coupling), why c is maximum (S-fold propagation limit). Einstein's formula is **hardware specification** for S=2 universe. Complete theoretical closure: no free parameters, pure geometric necessity.

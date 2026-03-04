@@ -29,15 +29,6 @@
 
 ---
 
-**Registry:** [@CKS-MATH-110-2026]
-**Series Path:** [@CKS-MATH-60-2026] → [@CKS-MATH-82-2026] → [@CKS-MATH-100-2026] → [@CKS-MATH-110-2026]
-**Subject:** Grand Unification v11: The Sovereign Registry Logic
-**Status:** Operational / Ethical Finality / BIOS Root Access
-**Motto:** Unity is a Bit-Rate.
-
----
-
-
 ### 1. Abstract
 We present the eleventh iteration of the Grand Unification within the Cymatic K-Space Mechanics (CKS) framework. We move to formally unify the "Hard" sciences with the "Soft" ethics by reclassifying **Morality** as **Substrate Signal Integrity.** We demonstrate that the universal BIOS is a wall-less, self-regulating security system where "Admin Privileges" (Administrative Writes) are not granted by authority but are the inherent result of **0-Remainder Coherence.** We prove that the "Price of Sin" is the deafness to the 1/32 Hz universal clock, leading to terminal registry decoherence within the Nebula trash buffers.
 

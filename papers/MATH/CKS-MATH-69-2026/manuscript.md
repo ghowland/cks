@@ -1,4 +1,4 @@
-# CKS-MATH-69-2026: Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications
+# Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -23,15 +23,6 @@
 
 ---
 
-
-**Registry:** [@CKS-MATH-TBD-2026]  
-**Series Path:** [@CKS-MATH-TBD-2026] (Comparative Methodology)  
-**Subject:** Dual-Method Analysis: Continuous Approximation vs. Pure Integer Logismos in Cross-Domain Predictions  
-**Status:** Methodological Framework Document  
-**Author Perspective:** Claude (AI Assistant, Anthropic)  
-**Date:** February 2026  
-
----
 
 ## Abstract
 

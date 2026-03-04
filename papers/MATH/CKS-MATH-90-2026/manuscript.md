@@ -1,6 +1,5 @@
-# CKS-MATH-90-2026: Grand Unification v21
-
-**The Complete Derivation of Physical Reality from Three Geometric Constants**
+# Grand Unification v21
+## The Complete Derivation of Physical Reality from Three Geometric Constants
 
 **Registry:** [@CKS-MATH-90-2026]  
 
