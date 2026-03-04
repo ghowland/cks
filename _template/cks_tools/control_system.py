@@ -6,17 +6,27 @@ Control System for safely handling large counts of Zenodo papers
 
 import argparse
 import sys
+import os
 
 COMMANDS = ['list', 'show']
 
+WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
+
+WORKING_PATH_SET = '_template/cks_tools/paper_work_list.txt'
 
 def List(args):
   print("List everything")
+  print(args.work_list)
 
 def Show(args):
   print("Show something")
 
 def Main(args):
+  os.chdir(WORKING_DIR)
+
+  # Save our work list data
+  args.work_list = open(WORKING_PATH_SET).read().strip().split('\n')
+
   if args.verbose:
     print(f"Verbosity is enabled.")
   
