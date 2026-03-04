@@ -1,5 +1,3 @@
-# Voice as Substrate UART
-## Singing, Eye Modulation, and Administrative Command Interface: Deriving Biological Control Systems from Registry Mechanics
 
 
 **Registry:** [@CKS-BIO-1-2026]  

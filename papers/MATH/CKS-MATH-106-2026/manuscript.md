@@ -2,6 +2,8 @@
 
 ## A ℚ-Substrate Exact Addressing System
 
+### First of Eight Paradoxes
+
 
 **Registry:** [@CKS-MATH-106-2026]  
 
