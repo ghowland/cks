@@ -1,8 +1,4 @@
 TOPICS = [
-    # {"_CKS": {
-    #     "title": "The Foundation Stack (Core Pillars)",
-    #     "subtitle": "The mathematical and physical origin points of the CKS framework.",
-    # }},
     {"MATH": {
         "title": "The Foundation Stack (Core Pillars)",
         "subtitle": "The mathematical and physical origin points of the CKS framework. All application papers derive from these.",
