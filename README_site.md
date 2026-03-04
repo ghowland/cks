@@ -233,7 +233,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/manuscript.md)** | **Logismos Technical Specification for LLMs** | This document provides complete implementation guidelines for Logismos integer calculus, the rational (ℚ) arithmetic system underlying CKS substrate mechanics |
+| **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/manuscript.md)** | **Logismos Technical Specification for LLMs** | If you cannot express it as (V, F, R) with integer components, it does not exist in the substrate |
 | **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/manuscript.md)** | **The Partigen Standard** | Discrete ℚ-Calculus via Partigen Base Counting |
 | **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/manuscript.md)** | **The Complete Derivation Manual** | How to Derive Everything from N=7 Using Logismos in Base-Partigen |
 | **[[@CKS-LOGI-12-2026]](papers/LOGI/CKS-LOGI-12-2026/manuscript.md)** | **Logismos Technical Specification and Usage** | Mathematics becomes addressing system, not approximation engine. |

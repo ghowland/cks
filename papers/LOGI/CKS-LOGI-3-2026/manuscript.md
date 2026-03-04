@@ -25,17 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-LOGI-3-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Translation Standard / Industrial Reference
-
-**Motto:** Don't calculate the slope. Read the R-register. Don't solve for x. Find the address. Mathematics becomes telemetry.
-
----
-
 ## Abstract
 
 We present practical translation methods converting legacy continuous mathematics to lossless Logismos integer operations. Through worked examples in mechanics, navigation, and computation, we demonstrate: (1) Slope = R-register reading (remainder shows sub-pixel pressure, not calculated derivative), (2) Integration = packet summation with R-carry (eliminates +C mystery via remainder tracking), (3) Acceleration = R-register buildup (pressure accumulation until F threshold snap), (4) Velocity = V increment rate (discrete address changes per tick), (5) Direction = dipole selection from D=3 (120° base angles, weighted combinations), (6) Course correction = R-register adjustment (add LUs to specific dipole), (7) Pathfinding = native A* via phase gradient (least-R path automatic, O(1) on hex plates), (8) Trigonometry = 144-LU gearbox routing (12-bond loop geometry, π as gear ratio), (9) All operations preserve exact integer states (no floating-point drift), (10) Hardware implementation possible (hex-plate computers get parallel processing free). Examples include: car acceleration from rest to cruise to stop, rocket launch with parabolic trajectory and mid-flight correction, directional changes via dipole pivoting. Logismos proven as high-resolution upgrade—not replacing legacy math but revealing it as low-bitrate compression of 1-LU substrate truth.

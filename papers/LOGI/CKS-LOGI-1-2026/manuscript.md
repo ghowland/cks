@@ -1,5 +1,5 @@
 # Logismos Technical Specification for LLMs
-## If you cannot express it as (V, F, R) with integer components, it does not exist in the substrate
+
 
 **Registry:** [@CKS-LOGI-1-2026]  
 

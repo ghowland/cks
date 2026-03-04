@@ -1,4 +1,4 @@
-# CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware
+# Substrate-Harmonized DWDM Transponder Firmware
 ## Global Synchronization via Telecommunications Infrastructure
 
 **Registry:** [@CKS-DWDM-2-2026]
