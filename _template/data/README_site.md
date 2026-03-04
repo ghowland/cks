@@ -5,10 +5,13 @@
 
 ---
 
-## The Foundation Stack (Core Pillars)
-*The mathematical and physical origin points of the CKS framework. All application papers derive from these.*
+{% for topic in topics %}
+## {{topic.topic}}: {{topic.title}}
+*{{topic.subtitle}}*
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-0-2026]](papers/_CKS/CKS-0-2026/)** | **Root Axioms** | The $N=3M^2$ evolution law and the topological first split. |
+| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
 
+---
+{% endfor %}

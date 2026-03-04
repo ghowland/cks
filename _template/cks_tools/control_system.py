@@ -12,6 +12,7 @@ import pprint
 import subprocess
 
 import template
+from paper_topics import TOPICS
 
 COMMANDS = ['list', 'show', 'build', 'scan', 'gen']
 
@@ -116,9 +117,17 @@ def Gen(args):
   print("Generate")
   readme_site = open(README_SITE).read()
 
-  # Write it
-  with open(README_SITE_OUT, 'w') as fp:
-    fp.write(readme_site)
+  # Flatten the list
+  topic_data = []
+  for topic in TOPICS:
+    for key, item in topic.items():
+      item['topic'] = key
+      topic_data.append(item)
+
+  # Provide topics
+  data = {'topics': topic_data}
+
+  template.render_template(README_SITE_OUT, readme_site, data)
 
 
 def Show(args):

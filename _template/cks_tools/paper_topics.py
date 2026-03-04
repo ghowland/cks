@@ -1,113 +1,134 @@
-TOPICS = {
-    "_CKS": {
+TOPICS = [
+    {"_CKS": {
         "title": "The Foundation Stack (Core Pillars)",
         "subtitle": "The mathematical and physical origin points of the CKS framework.",
-    },
-    "MATH": {
+    }},
+    {"MATH": {
         "title": "The Foundation Stack (Core Pillars)",
         "subtitle": "The mathematical and physical origin points of the CKS framework. All application papers derive from these.",
-    },
-    "QM": {
+    }},
+    {"QM": {
         "title": "Core Physics Layer",
         "subtitle": "Direct derivations of fundamental physics from the mathematical foundation.",
-    },
-    "SM": {
+    }},
+    {"SM": {
         "title": "Core Physics Layer",
         "subtitle": "Direct derivations of fundamental physics from the mathematical foundation.",
-    },
-    "GR": {
+    }},
+    {"GR": {
         "title": "Core Physics Layer",
         "subtitle": "Direct derivations of fundamental physics from the mathematical foundation.",
-    },
-    "TEST": {
+    }},
+    {"TEST": {
         "title": "Experimental Falsification",
         "subtitle": "The definitive test protocol.",
-    },
-    "DWDM": {
+    }},
+    {"DWDM": {
         "title": "Telecommunications & Photonics",
         "subtitle": "Optical communications and DWDM infrastructure.",
-    },
-    "COS": {
+    }},
+    {"COS": {
         "title": "Cosmology & Astronomy",
         "subtitle": "Large-scale structure and celestial mechanics.",
-    },
-    "BIO": {
+    }},
+    {"LEX": {
+        "title": "Lexicon", 
+        "subtitle": "Definitions and terminology for CKS."
+    }},
+    {"LOGI": {
+        "title": "Logismos", 
+        "subtitle": "Logismos Q calculus."
+    }},
+    {"OMNI": {
+        "title": "Omni", 
+        "subtitle": "Cross-domain synthesis and general studies."
+    }},
+    {"PHYS": {
+        "title": "K-Space Physics", 
+        "subtitle": "K-Space applied physical mechanics."
+    }},
+    {"BIO": {
         "title": "Biology & Life Sciences",
         "subtitle": "The human organism and biological systems as phase-coherent structures.",
-    },
-    "BODY": {
+    }},
+    {"BODY": {
         "title": "Movement & Body Mechanics",
         "subtitle": "Physical movement, proprioception, and somatic systems.",
-    },
-    "COG": {
+    }},
+    {"COG": {
         "title": "Cognition & Consciousness",
         "subtitle": "The mind, intelligence, and thought as substrate phenomena.",
-    },
-    "NEURO": {
+    }},
+    {"NEURO": {
         "title": "Neuroscience",
         "subtitle": "Neural computation and brain architecture.",
-    },
-    "SENS": {
+    }},
+    {"SENS": {
         "title": "Sensory Systems",
         "subtitle": "Perception and sensory processing.",
-    },
-    "MED": {
+    }},
+    {"MED": {
         "title": "Medical Applications",
         "subtitle": "Clinical interventions and therapeutic protocols.",
-    },
-    "AI": {
+    }},
+    {"AI": {
         "title": "Computing & AI",
         "subtitle": "Hardware architecture and substrate programming.",
-    },
-    "MAT": {
+    }},
+    {"MAT": {
         "title": "Materials Science",
         "subtitle": "Phase-engineered materials and metamaterials.",
-    },
-    "SEMI": {
+    }},
+    {"SEMI": {
         "title": "Semiconductors",
         "subtitle": "Advanced semiconductor engineering.",
-    },
-    "ENG": {
+    }},
+    {"ENG": {
         "title": "Engineering & Mechanics",
         "subtitle": "Civil engineering, architecture, and mechanical systems.",
-    },
-    "FLOW": {
+    }},
+    {"FLOW": {
         "title": "Fluid Dynamics",
         "subtitle": "Flow control and turbulence suppression.",
-    },
-    "ENV": {
+    }},
+    {"ENV": {
         "title": "Environment & Infrastructure",
         "subtitle": "Climate, lighting, water, and agricultural systems.",
-    },
-    "SOC": {
+    }},
+    {"SOC": {
         "title": "Social Systems",
         "subtitle": "Collective intelligence and organizational coherence.",
-    },
-    "LANG": {
+    }},
+    {"LANG": {
         "title": "Language & Communication",
         "subtitle": "Resonant syntax and phonemic systems.",
-    },
-    "DATA": {
+    }},
+    {"DATA": {
         "title": "Data & Information Theory",
         "subtitle": "Information mechanics and digital systems.",
-    },
-    "EDU": {
-        "title": "Education",
-        "subtitle": "Unified pedagogical framework.",
-    },
-    "ART": {
+    }},
+    {"ART": {
         "title": "Art & Aesthetics",
         "subtitle": "Creative applications and aesthetic theory.",
-    },
-    "DISC": {
+    }},
+    {"EDU": {
+        "title": "Education",
+        "subtitle": "Unified pedagogical framework.",
+    }},
+    {"RTRT": {
+        "title": "Red-Team Red-Team",
+        "subtitle": "Red Teaming papers."
+    }},
+    {"WUWU": {
+        "title": "Woo Woo", 
+        "subtitle": "Things traditionally considered meta-physics."
+    }},
+    {"ADHM": {
+        "title": "ADHM", 
+        "subtitle": "Ad-Hom."
+    }},
+    {"DISC": {
         "title": "Discovery Process",
         "subtitle": "Documentation of the Human-AI collaboration.",
-    },
-    "ADHM": {"title": "ADHM", "subtitle": "Ad-Hom."},
-    "LEX": {"title": "Lexicon", "subtitle": "Definitions and terminology for CKS."},
-    "LOGI": {"title": "Logismos", "subtitle": "Logismos Q calculus."},
-    "OMNI": {"title": "Omni", "subtitle": "Cross-domain synthesis and general studies."},
-    "PHYS": {"title": "K-Space Physics", "subtitle": "K-Space applied physical mechanics."},
-    "RTRT": {"title": "Red-Team Red-Team", "subtitle": "Red Teaming papers."},
-    "WUWU": {"title": "Woo Woo", "subtitle": "Things traditionally considered meta-physics."},
-}
+    }},
+]
