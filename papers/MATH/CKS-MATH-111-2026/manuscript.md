@@ -3,7 +3,7 @@
 ## The Entropy-Compression Paradox: Impossibility of Lookup in ℝ-Continuum
 
 
-**Registry:** [@CKS-MATH-111-2026]  
+**Registry:** [@CKS-MATH-111-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1158,7 +1158,7 @@ The Six Q Paradoxes prove impossibility.
 
 **END CKS-MATH-111-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-111-2026]
 **Status:** Foundational Proof  
 **Verification:** Pure ℚ throughout  
 **Impossibility:** ℝ-lookup infinite latency  

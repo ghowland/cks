@@ -2,7 +2,7 @@
 
 ## Domain-Standardized VFR Architecture with SIMD Homogeneity and Fixed Array Allocation
 
-**Registry:** [@CKS-MATH-121-2026]  
+**Registry:** [@CKS-MATH-121-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1945,7 +1945,7 @@ With perfect mathematical correctness.
 
 **END CKS-MATH-121-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-121-2026]
 **Status:** Production Pipeline Architecture  
 **Verification:** Pure ℚ throughout  
 **Domains:** 5 (Transform, UV, Physics, Skinning, Particles)  

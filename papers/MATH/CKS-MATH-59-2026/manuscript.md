@@ -2,7 +2,7 @@
 ## Subtitle: The J/S Partition and the Mechanical Unification of Substrate and Perception
 
 
-**Registry:** [@CKS-MATH-XXXXXX-2026]  
+**Registry:** [@CKS-MATH-59-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 

@@ -186,7 +186,7 @@ def Cleanup(args):
           lines[count] = f'# {end_line}'
         
         if line.startswith('**Registry:**'):
-          lines[count] = f'**Registry:** {item["paper_id"]}'
+          lines[count] = f'**Registry:** [@{item["paper_id"]}]'
 
       # Write the file out again
       output = '\n'.join(lines)

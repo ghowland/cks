@@ -1,7 +1,7 @@
 # Consciousness as Bilateral Rendering Reconciliation
 ## Deriving Subjective Experience from 15.19ms J/S Partition Lag and Registry Coherence Auditing
 
-**Registry:** [@CKS-BIO-38-2026]
+**Registry:** [@CKS-BIO-43-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026] → [@CKS-BIO-38-2026]
 

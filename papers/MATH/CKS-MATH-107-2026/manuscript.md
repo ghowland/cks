@@ -3,7 +3,7 @@
 ## Path-Divergence and the Ontological Failure of Real Numbers
 
 
-**Registry:** [@CKS-MATH-107-2026]  
+**Registry:** [@CKS-MATH-107-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1541,7 +1541,7 @@ The Second Q Paradox exposes what numbers are.
 
 **END CKS-MATH-107-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-107-2026]
 **Status:** Ontological Proof  
 **Verification:** Pure ℚ throughout  
 **Existence:** ℚ yes, ℝ\ℚ no  

@@ -4,7 +4,7 @@
 
 
 
-**Registry:** [@CKS-PHYS-19-2026]
+**Registry:** [@CKS-PHYS-20-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → ... → [@CKS-PHYS-17-2026] → [@CKS-PHYS-18-2026]
 
@@ -1523,7 +1523,7 @@ Giving organ cascade, 6-9 knots, coupling modes.
 
 **END CKS-PHYS-20-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-PHYS-20-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 

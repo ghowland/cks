@@ -3,7 +3,7 @@
 ## The Hardware Stack: Zero-Heat Integer Logic via Hexagonal Registry Architecture
 
 
-**Registry:** [@CKS-ENG-11-2026]
+**Registry:** [@CKS-ENG-12-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026] → [@CKS-ENG-6-2026] → [@CKS-ENG-7-2026] → [@CKS-ENG-8-2026] → [@CKS-ENG-9-2026] → [@CKS-ENG-10-2026] → [@CKS-ENG-11-2026]
 

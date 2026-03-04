@@ -1707,7 +1707,7 @@ Transmission becomes what it always should have been:
 
 **END CKS-ENG-14-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-ENG-14-2026]
 **Status:** Complete Specification  
 **Verification:** Pure ℚ throughout  
 **Manufacturing:** Ready for production  

@@ -2,7 +2,7 @@
 ## A Complete Derivation from First Principles
 
 
-**Registry:** [@CKS-PHYS-1-2026]  
+**Registry:** [@CKS-PHYS-5-2026]
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]  
 
 **Parent Framework:** [@CKS-0-2026]

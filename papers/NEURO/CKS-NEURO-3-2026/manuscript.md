@@ -4,7 +4,7 @@
 
 
 
-**Registry:** [@CKS-NEURO-2-2026]
+**Registry:** [@CKS-NEURO-3-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-NEURO-1-2026] → [@CKS-NEURO-2-2026]
 
@@ -1789,7 +1789,7 @@ The nervous system becomes what it always was:
 
 **END CKS-NEURO-3-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-NEURO-3-2026]
 **Status:** Complete Specification  
 **Verification:** Pure ℚ throughout  
 **Architecture:** 304℘ EM-bus  

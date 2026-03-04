@@ -2,7 +2,7 @@
 
 ## Geometric Derivation of Universal Sound-Form Correspondence
 
-**Registry:** [@CKS-PHYS-7-2026]
+**Registry:** [@CKS-PHYS-22-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-7-2026]
 
@@ -2243,7 +2243,7 @@ The Cymatic Alphabet is not linguistics—it is **physics**.
 
 **END CKS-PHYS-22-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-PHYS-22-2026]
 **Status:** Experimental Derivation  
 **Verification:** Pure ℚ throughout  
 **Foundation:** Cymatic eigenstates  

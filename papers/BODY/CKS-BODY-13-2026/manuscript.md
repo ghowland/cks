@@ -997,7 +997,7 @@ The universe only cares how clear the command is.
 
 **END CKS-BODY-13-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-BODY-13-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 

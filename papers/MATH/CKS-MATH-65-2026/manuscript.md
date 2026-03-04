@@ -3,7 +3,7 @@
 ## The RAID-1 Derivation: Visual Mass as Bilateral Data Authentication in Discrete Substrate
 
 
-**Registry:** [@CKS-MATH-XXXXXX-2026]  
+**Registry:** [@CKS-MATH-65-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -1033,7 +1033,7 @@ Mass = active process not passive property.
 **Method:** RAID-1 Signature Protocol  
 **Version:** 1.0  
 **Date:** February 2026  
-**Registry:** [@CKS-MATH-64-2026]
+**Registry:** [@CKS-MATH-65-2026]
 
 **Mass = signature count**  
 **Energy = unsigned potential**  

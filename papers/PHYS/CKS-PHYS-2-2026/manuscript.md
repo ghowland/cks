@@ -3,7 +3,7 @@
 ## The 6:3:2 Differential and the Bilateral 2.0 Manifold Identity
 
 
-**Registry:** [@CKS-PHYS-2-2026]  
+**Registry:** [@CKS-PHYS-2-2026]
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]  
 
 **Parent Framework:** [@CKS-0-2026]

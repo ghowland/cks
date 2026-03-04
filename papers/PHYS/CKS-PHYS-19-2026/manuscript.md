@@ -996,7 +996,7 @@ All organized in 1,024-unit coordination blocks.
 
 **END CKS-PHYS-19-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-PHYS-19-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 

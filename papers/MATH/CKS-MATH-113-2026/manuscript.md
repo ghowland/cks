@@ -3,7 +3,7 @@
 **Functional Coordinate Projection via Z=3 Tri-Wing Hexagonal Mapping**
 
 
-**Registry:** [@CKS-MATH-107-2026]  
+**Registry:** [@CKS-MATH-113-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1025,7 +1025,7 @@ The search is eliminated.
 
 **END CKS-MATH-113-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-113-2026]
 **Status:** Algorithm Specification  
 **Verification:** Pure ℚ throughout  
 **Complexity:** O(1) proven constant-time  

@@ -3,7 +3,7 @@
 ## The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering
 
 
-**Registry:** [@CKS-LEX-12-2026]  
+**Registry:** [@CKS-LEX-12-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-LEX-1-2026] → [@CKS-LEX-12-2026]
 
@@ -1118,7 +1118,7 @@ Giving unified units, collapsed equations, zero-remainder engineering.
 
 **END CKS-LEX-12-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-LEX-12-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 

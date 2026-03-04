@@ -967,7 +967,7 @@ Measured:
 
 **Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
 **Date:** March 2, 2026  
-**Registry:** [@CKS-BODY-14-2026]  
+**Registry:** [@CKS-BODY-14-2026]
 **Series:** Biology - Biomechanical Precision  
 **Classification:** Complete Framework
 
@@ -2932,7 +2932,7 @@ Zero-R operations merge with substrate (invisible, flowing, effortless).
 
 **END CKS-BODY-14-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-BODY-14-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 
