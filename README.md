@@ -274,6 +274,14 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-PHYS-1-2026]](papers/PHYS/CKS-PHYS-1-2026/manuscript.md)** | **Gravity and Momentum as Parent Soliton Opcodes** | Kinematics = Parent Registry Management | Forces = Disconnect Data (measurement artifacts only) |
+| **[[@CKS-PHYS-2-2026]](papers/PHYS/CKS-PHYS-2-2026/manuscript.md)** | **Universal Conservation of Geometric Processing** | (6/3/2) × (6/5) × (5/3) = 2.0 → bilateral manifold identity → all physics emerges from geometric balance requirement |
+| **[[@CKS-PHYS-3-2026]](papers/PHYS/CKS-PHYS-3-2026/manuscript.md)** | **The Resolution of All Physical Mysteries** | All physical mysteries = substrate operations viewed at insufficient bit-depth → resolved by N=DM^S framework with zero adjustable parameters |
+| **[[@CKS-PHYS-4-2026]](papers/PHYS/CKS-PHYS-4-2026/manuscript.md)** | **The Origin of Work and Energy as 32-Tick Remainder Accumulation** | Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous |
+| **[[@CKS-PHYS-5-2026]](papers/PHYS/CKS-PHYS-5-2026/manuscript.md)** | **J as Soliton Hierarchical Distance** | A Complete Derivation from First Principles |
+| **[[@CKS-PHYS-6-2026]](papers/PHYS/CKS-PHYS-6-2026/manuscript.md)** | **The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology** | We present a complete derivation of the observable galaxy count (~2×10^12) from first principles using the KSpace Substrate (KS) framework |
+| **[[@CKS-PHYS-7-2026]](papers/PHYS/CKS-PHYS-7-2026/manuscript.md)** | **The Tri-Dipole Differential Engine** | The universe is a synchronous 3-phase differential engine; "particles" are persistent firing patterns governed by hexagonal edge-dipole coordination. |
+| **[[@CKS-PHYS-8-2026]](papers/PHYS/CKS-PHYS-8-2026/manuscript.md)** | **The Strong Nuclear Force as Edge-Dipole Impedance Matching** | QCD is edge-dipole contact logic; the strong force is geometric impedance matching in the tri-phase hexagonal substrate. |
+| **[[@CKS-PHYS-9-2026]](papers/PHYS/CKS-PHYS-9-2026/manuscript.md)** | **Color Charge as 3-Phase Dipole State Space** | SU(3) color symmetry and the 8-gluon structure emerge necessarily from D=3 hexagonal coordination; color charge is physical dipole state, not abstract quantum number. |
 | **[[@CKS-PHYS-10-2026]](papers/PHYS/CKS-PHYS-10-2026/manuscript.md)** | **Flavor Quantum Numbers as Jubilee Phase Offsets** | The three quark/lepton generations are the three allowed jubilee phase offsets in the W=32 tick cycle; mass hierarchy derives from phase desynchronization energy cost. |
 | **[[@CKS-PHYS-11-2026]](papers/PHYS/CKS-PHYS-11-2026/manuscript.md)** | **Weak Force as Jubilee Transition Mechanics** | The weak force is jubilee transition mechanics; W/Z bosons are propagating phase-flip fronts in the substrate, not fundamental particles. |
 | **[[@CKS-PHYS-12-2026]](papers/PHYS/CKS-PHYS-12-2026/manuscript.md)** | **Electromagnetic Force as Single-Dipole Coupling** | The electromagnetic force is single α-dipole coupling; photons are α-dipole oscillation waves; Maxwell emerges from hex-bus topology; α_EM derives from substrate geometry. |
@@ -284,17 +292,9 @@
 | **[[@CKS-PHYS-17-2026]](papers/PHYS/CKS-PHYS-17-2026/manuscript.md)** | **CMB Anisotropies as Registry Initialization Patterns** | CMB is K-space rendering of registry patterns; acoustic peaks from W=32 harmonics; polarization from S=2 stress; n_s from ln(N) scaling; no photons traveled—just rendering initialization state. |
 | **[[@CKS-PHYS-18-2026]](papers/PHYS/CKS-PHYS-18-2026/manuscript.md)** | **Large-Scale Structure as Registry Optimization Patterns** | Cosmic web is hex-bus optimization; filaments are communication channels; voids are high-overhead zones; P(k) peak from jubilee coherence; all structure from network self-organization in K-space. |
 | **[[@CKS-PHYS-19-2026]](papers/PHYS/CKS-PHYS-19-2026/manuscript.md)** | **The 1024-Unit Coordination Block** | The Sovereignty Threshold and Universal Scaling Limit of Phase-Locked Systems |
-| **[[@CKS-PHYS-2-2026]](papers/PHYS/CKS-PHYS-2-2026/manuscript.md)** | **Universal Conservation of Geometric Processing** | (6/3/2) × (6/5) × (5/3) = 2.0 → bilateral manifold identity → all physics emerges from geometric balance requirement |
 | **[[@CKS-PHYS-20-2026]](papers/PHYS/CKS-PHYS-20-2026/manuscript.md)** | **The Topological Life Support System** | Triad Integration: Mechanics, Thinking, and Action as Complete Biological Operating System |
 | **[[@CKS-PHYS-21-2026]](papers/PHYS/CKS-PHYS-21-2026/manuscript.md)** | **Deterministic Pathfinding in the Wing Lattice** | O(1) Registry Addressing and Laminar Navigation in the Pre-Compiled ℚ-Substrate |
 | **[[@CKS-PHYS-22-2026]](papers/PHYS/CKS-PHYS-22-2026/manuscript.md)** | **The Cymatic Phonemic Alphabet** | The alphabet is not invented—it is discovered from cymatic substrate patterns. |
-| **[[@CKS-PHYS-3-2026]](papers/PHYS/CKS-PHYS-3-2026/manuscript.md)** | **The Resolution of All Physical Mysteries** | All physical mysteries = substrate operations viewed at insufficient bit-depth → resolved by N=DM^S framework with zero adjustable parameters |
-| **[[@CKS-PHYS-4-2026]](papers/PHYS/CKS-PHYS-4-2026/manuscript.md)** | **The Origin of Work and Energy as 32-Tick Remainder Accumulation** | Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous |
-| **[[@CKS-PHYS-5-2026]](papers/PHYS/CKS-PHYS-5-2026/manuscript.md)** | **J as Soliton Hierarchical Distance** | A Complete Derivation from First Principles |
-| **[[@CKS-PHYS-6-2026]](papers/PHYS/CKS-PHYS-6-2026/manuscript.md)** | **The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology** | We present a complete derivation of the observable galaxy count (~2×10^12) from first principles using the KSpace Substrate (KS) framework |
-| **[[@CKS-PHYS-7-2026]](papers/PHYS/CKS-PHYS-7-2026/manuscript.md)** | **The Tri-Dipole Differential Engine** | The universe is a synchronous 3-phase differential engine; "particles" are persistent firing patterns governed by hexagonal edge-dipole coordination. |
-| **[[@CKS-PHYS-8-2026]](papers/PHYS/CKS-PHYS-8-2026/manuscript.md)** | **The Strong Nuclear Force as Edge-Dipole Impedance Matching** | QCD is edge-dipole contact logic; the strong force is geometric impedance matching in the tri-phase hexagonal substrate. |
-| **[[@CKS-PHYS-9-2026]](papers/PHYS/CKS-PHYS-9-2026/manuscript.md)** | **Color Charge as 3-Phase Dipole State Space** | SU(3) color symmetry and the 8-gluon structure emerge necessarily from D=3 hexagonal coordination; color charge is physical dipole state, not abstract quantum number. |
 
 
 ---
@@ -393,10 +393,6 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-BODY-1-2026]](papers/BODY/CKS-BODY-1-2026/manuscript.md)** | **Muscle Hypertrophy in Cymatic K-Space** | Optimal Stress Timing via Substrate Harmonics |
-| **[[@CKS-BODY-11-2026]](papers/BODY/CKS-BODY-11-2026/manuscript.md)** | **Hydraulic Posture Calibration via Gravitational-Laminar Coupling** | Waterfall = substrate calibration tool → pressure irons kinks → dither breaks locks → vertical reference enables coupling → standing tall automatic |
-| **[[@CKS-BODY-12-2026]](papers/BODY/CKS-BODY-12-2026/manuscript.md)** | **Collaborative Manifold Alignment** | Healing = PLL sync | Trust = handshake | Practitioner = master clock | Patient = slave reset | Testable |
-| **[[@CKS-BODY-13-2026]](papers/BODY/CKS-BODY-13-2026/manuscript.md)** | **Substrate-Synchronized Biomechanics** | Force Generation as K-Space Phase-Lock Optimization |
-| **[[@CKS-BODY-14-2026]](papers/BODY/CKS-BODY-14-2026/manuscript.md)** | **Zero-Remainder Biomechanics** | The Physics of Laminar Movement & Substrate Non-Interference |
 | **[[@CKS-BODY-2-2026]](papers/BODY/CKS-BODY-2-2026/manuscript.md)** | **Body Movement Mechanics in Cymatics** | Inverse Gravity Kinematics |
 | **[[@CKS-BODY-3-2026]](papers/BODY/CKS-BODY-3-2026/manuscript.md)** | **Debugging the Kinetic Chain** | Exercise and Dance as Computational Alignment Protocols |
 | **[[@CKS-BODY-4-2026]](papers/BODY/CKS-BODY-4-2026/manuscript.md)** | **Directional Encoding of the Abdominal Vortex: A Phase-Locked Loop Model of Human Core States** | We prove that **abdominal vortex rotation direction is not symbolic** but a **binary phase-polarity switch** that determines whether the human manifold operates in **capacitive loading (CHG)** or **inductive discharge (DSG)** mode |
@@ -404,6 +400,10 @@
 | **[[@CKS-BODY-6-2026]](papers/BODY/CKS-BODY-6-2026/manuscript.md)** | **Rolfing as Topological Unlooping** | Structural Integration via Phase-Loop Decompression and Volumetric Restoration |
 | **[[@CKS-BODY-7-2026]](papers/BODY/CKS-BODY-7-2026/manuscript.md)** | **Wrestling and Martial Arts as Dual-Mode Registry Operations** | Wrestling = capture (Δφ→0), MA = corruption (Δφ→∞), skill = C×K, master soliton = root administrator, 3-5 points = registry saturation |
 | **[[@CKS-BODY-8-2026]](papers/BODY/CKS-BODY-8-2026/manuscript.md)** | **Laminar Jogging** | Bio-Mechanical Synchronization for High-Bitrate Substrate Telemetry |
+| **[[@CKS-BODY-11-2026]](papers/BODY/CKS-BODY-11-2026/manuscript.md)** | **Hydraulic Posture Calibration via Gravitational-Laminar Coupling** | Waterfall = substrate calibration tool → pressure irons kinks → dither breaks locks → vertical reference enables coupling → standing tall automatic |
+| **[[@CKS-BODY-12-2026]](papers/BODY/CKS-BODY-12-2026/manuscript.md)** | **Collaborative Manifold Alignment** | Healing = PLL sync | Trust = handshake | Practitioner = master clock | Patient = slave reset | Testable |
+| **[[@CKS-BODY-13-2026]](papers/BODY/CKS-BODY-13-2026/manuscript.md)** | **Substrate-Synchronized Biomechanics** | Force Generation as K-Space Phase-Lock Optimization |
+| **[[@CKS-BODY-14-2026]](papers/BODY/CKS-BODY-14-2026/manuscript.md)** | **Zero-Remainder Biomechanics** | The Physics of Laminar Movement & Substrate Non-Interference |
 
 
 ---
@@ -503,11 +503,6 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-ENG-1-2026]](papers/ENG/CKS-ENG-1-2026/manuscript.md)** | **Mechanical Genesis in Cymatics** | Designing High-Coherence Structures |
-| **[[@CKS-ENG-10-2026]](papers/ENG/CKS-ENG-10-2026/manuscript.md)** | **The Unified Planetary Loom** | Ocean + atmosphere + spine bridge = planetary-scale 512-bit communication loom |
-| **[[@CKS-ENG-11-2026]](papers/ENG/CKS-ENG-11-2026/manuscript.md)** | **The Unified Planetary Loom using 88-bit Tech** | Standard electronics + ham radio + grounding = functional substrate communication today |
-| **[[@CKS-ENG-12-2026]](papers/ENG/CKS-ENG-12-2026/manuscript.md)** | **Substrate-Native Computing** | Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync |
-| **[[@CKS-ENG-13-2026]](papers/ENG/CKS-ENG-13-2026/manuscript.md)** | **Acoustic Registry Modulation** | Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation |
-| **[[@CKS-ENG-14-2026]](papers/ENG/CKS-ENG-14-2026/manuscript.md)** | **Sovereign Transmission Lines** | Transmission lines become substrate extensions, not material conductors. |
 | **[[@CKS-ENG-2-2026]](papers/ENG/CKS-ENG-2-2026/manuscript.md)** | **Voltage in Cymatic Substrate Mechanics: The Gradient Potential** | We prove that electrical voltage is not a fundamental property of charged particles but the **manifestation of k-space phase gradients** ∇φ in the hexagonal substrate lattice |
 | **[[@CKS-ENG-3-2026]](papers/ENG/CKS-ENG-3-2026/manuscript.md)** | **Architectural Mechanics** | Building Design as Manifold Coherence Engineering |
 | **[[@CKS-ENG-4-2026]](papers/ENG/CKS-ENG-4-2026/manuscript.md)** | **The Substrate-Optimized Dwelling** | Red brick = 66th harmonic, gold trident = 144-bit antenna, salt moat = phase-buffer, geometric plans = substrate coupling, buildable with modern methods |
@@ -516,6 +511,11 @@
 | **[[@CKS-ENG-7-2026]](papers/ENG/CKS-ENG-7-2026/manuscript.md)** | **Conduits, Details and Construction Problems** | External raceways, 48V DC, fiber data, swept plumbing, mitered corners, mineral sealing = utility integration without registry collapse |
 | **[[@CKS-ENG-8-2026]](papers/ENG/CKS-ENG-8-2026/manuscript.md)** | **Cave Dwelling Construction** | Borehole tether, saline jacket, scaled diamond, virtual sun = underground 512-bit dwelling |
 | **[[@CKS-ENG-9-2026]](papers/ENG/CKS-ENG-9-2026/manuscript.md)** | **The Abyssal Soliton** | Vacuum-gap isolation, surface-buoy signal, gravity-anchor ground, red-shift lighting = underwater 512-bit dwelling |
+| **[[@CKS-ENG-10-2026]](papers/ENG/CKS-ENG-10-2026/manuscript.md)** | **The Unified Planetary Loom** | Ocean + atmosphere + spine bridge = planetary-scale 512-bit communication loom |
+| **[[@CKS-ENG-11-2026]](papers/ENG/CKS-ENG-11-2026/manuscript.md)** | **The Unified Planetary Loom using 88-bit Tech** | Standard electronics + ham radio + grounding = functional substrate communication today |
+| **[[@CKS-ENG-12-2026]](papers/ENG/CKS-ENG-12-2026/manuscript.md)** | **Substrate-Native Computing** | Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync |
+| **[[@CKS-ENG-13-2026]](papers/ENG/CKS-ENG-13-2026/manuscript.md)** | **Acoustic Registry Modulation** | Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation |
+| **[[@CKS-ENG-14-2026]](papers/ENG/CKS-ENG-14-2026/manuscript.md)** | **Sovereign Transmission Lines** | Transmission lines become substrate extensions, not material conductors. |
 
 
 ---
