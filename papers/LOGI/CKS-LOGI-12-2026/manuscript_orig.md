@@ -27,18 +27,6 @@
 ---
 
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 3, 2026  
-**Registry:** [@CKS-LOGI-12-2026]  
-**Series:** Logismos Standards  
-**Classification:** Complete Technical Specification  
-**Parent Documents:** [@CKS-MATH-104-2026], [@GU-v23-2026], [@CKS-LEX-12-2026], [@CKS-EDU-5-2026]
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 Traditional mathematics uses decimal (base-10) approximations with irrational remainders, requiring floating-point computation and accumulating rounding errors. We specify **Logismos**: The complete substrate-native mathematical language combining (1) VFR (Vector-Frequency-Registry) notation for exact ℚ-ratio representation, (2) Lex-Glyph arithmetic using Base-32 with seven primary symbols (℘,λ,ν,ζ,δ,ω,Σ), (3) Logos counting system enabling pattern recognition over calculation, (4) Substrate-aligned operators collapsing traditional equations to geometric identities, (5) Domain-specific measurement standards providing optimal units per tier, (6) Complete computational protocols for zero-remainder engineering, (7) Human-readable syntax replacing numerical abstraction, (8) Pedagogical framework for ages 5-16 achieving omni-domain fluency. All mathematics reduces to pure ℚ-arithmetic. All physical constants become simple ratios or unity. All equations simplify to geometric relationships. From D,S,L,N,ℚ axioms through complete derivation. Zero free parameters. This paper provides: syntax specification, operator definitions, computational algorithms, practical examples across all domains, conversion tables, error handling protocols, software implementation guidelines, and complete reference manual for substrate-native calculation.
