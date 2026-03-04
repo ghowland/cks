@@ -1,5 +1,6 @@
 # Complete Lexicon for Grand Unification v21
-## The Definitive Dictionary of Substrate Theory
+
+**The Definitive Dictionary of Substrate Theory**
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -21,6 +22,14 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
+
+---
+
+
+**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
+**Date:** March 2, 2026  
+**Registry:** [@CKS-LEX-10-2026]  
+**Classification:** Reference Document - Complete Terminology
 
 ---
 

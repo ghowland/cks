@@ -173,15 +173,23 @@ def Cleanup(args):
     if item['doi']['is_stub']:
       print(f'Cleanup: {item["file_path"]}')
 
+      # Get lines
       backup = item['file_path'].replace('.md', '_orig.md')
       lines = open(backup).read().split('\n')
+
+      # Fix the special lines
+      for count in range(0, len(lines)):
+        line = lines[count]
+        if line.startswith('# CKS-') and item['title'] in line:
+          end_line = line.split(':', 1)[1].strip()
+          lines[count] = f'# {end_line}'
 
       # Write the file out again
       output = '\n'.join(lines)
       with open(item['file_path'], 'w') as fp:
         fp.write(output)
 
-      break
+      # break
 
 
 

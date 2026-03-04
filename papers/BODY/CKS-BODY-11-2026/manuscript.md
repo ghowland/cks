@@ -1,4 +1,4 @@
-# CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling
+# Hydraulic Posture Calibration via Gravitational-Laminar Coupling
 ## Deriving Waterfall Alignment as Topological Kink Resolution Through Coherent Mass Streams
 
 

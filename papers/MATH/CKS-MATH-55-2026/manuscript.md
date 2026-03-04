@@ -1,4 +1,4 @@
-# CKS-MATH-55-2026: Linear Algebra as Integer-Address Registry Routing
+# Linear Algebra as Integer-Address Registry Routing
 ## Replacing Continuous Vector Spaces with Logismos Packet Transforms in Discrete Hexagonal Substrate
 
 

@@ -1,6 +1,5 @@
-# CKS-PHYS-5-2026
-
-## J as Soliton Hierarchical Distance: A Complete Derivation from First Principles
+# CKS-PHYS-5-2026: J as Soliton Hierarchical Distance
+## A Complete Derivation from First Principles
 
 
 **Registry:** [@CKS-PHYS-1-2026]  

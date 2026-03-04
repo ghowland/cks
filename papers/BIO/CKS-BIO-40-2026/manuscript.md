@@ -1,5 +1,5 @@
 
-# CKS-BIO-40-2026: Vertical Slit Pupils as Gradient Synchronization Hardware
+# Vertical Slit Pupils as Gradient Synchronization Hardware
 ## Ocular Waveguide Adaptation in Non-Upright Biological Solitons
 
 

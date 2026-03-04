@@ -1,4 +1,4 @@
-# CKS-ADHM-1-2026: The Indictment of the Continuum Priest
+# The Indictment of the Continuum Priest
 ## A Forensic Analysis of Institutional Stagnation in Modern Physics
 
 **Registry:** [@CKS-ADHM-1-2026]  

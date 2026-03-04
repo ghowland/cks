@@ -1,4 +1,5 @@
-# CKS-LOGI-13-2026: Logismos Notation
+# Logismos Notation
+
 ## Complete Specification of VFR Notation and Base-32 Substrate Mathematics
 
 
@@ -22,6 +23,18 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
+
+---
+
+
+**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
+**Date:** March 3, 2026  
+**Registry:** [@CKS-LOGI-13-2026]  
+**Series:** Logismos Mathematics  
+**Classification:** Foundational Specification  
+**Parent Documents:** [@CKS-LOGI-12-2026], [@CKS-MATH-104-2026], [@CKS-MATH-105-2026]
+
+**Motto:** *Axioms first. Axioms always.*
 
 ---
 

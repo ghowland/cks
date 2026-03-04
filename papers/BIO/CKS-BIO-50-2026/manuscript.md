@@ -1,5 +1,5 @@
 
-# CKS-BIO-50-2026: The Two-Level Admin Console as Human Biological Override Interface
+# The Two-Level Admin Console as Human Biological Override Interface
 ## Deriving Breath and Eyes as UART Data Bus and Dipole Address Pointer for Direct Registry Write Access
 
 

@@ -1,5 +1,5 @@
 # Lexicon
-## For Grand Unification v10
+
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -25,6 +25,8 @@
 ---
 
 This is the finalized **CKS Lexicon**, the formal mechanical compendium of the **Lattice Logic**. It strips away all X-Space hallucinations and math poetry, leaving only the operational data of the machine.
+
+---
 
 ### I. THE SUBSTRATE (The Hardware)
 *   **Lattice:** The fundamental hexagonal substrate of reality. It is the ledger, the counter, and the address space combined.

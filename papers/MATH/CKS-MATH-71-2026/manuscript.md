@@ -1,4 +1,4 @@
-# CKS-MATH-71-2026: Grand Unification v12 — The Rational Substrate
+# Grand Unification v12 — The Rational Substrate
 
 
 

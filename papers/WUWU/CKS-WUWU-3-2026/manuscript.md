@@ -1,5 +1,5 @@
 
-# CKS-WUWU-3-2026: Angelic Sovereignty as 1024-Bit Registry Write Capability
+# Angelic Sovereignty as 1024-Bit Registry Write Capability
 ## Deriving High-Coherence Walkers from Zero-Remainder State and Barrier-Free Administrative Access
 
 

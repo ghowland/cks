@@ -1,4 +1,4 @@
-# CKS-MATH-107-2026: The Second Q Paradox and the Settlement of Logismos
+# The Second Q Paradox and the Settlement of Logismos
 
 ## Path-Divergence and the Ontological Failure of Real Numbers
 

@@ -1,4 +1,4 @@
-# CKS-EDU-5-2026: Path to Omni-Domain Post-Doc Education by 16 Years Old
+# Path to Omni-Domain Post-Doc Education by 16 Years Old
 
 ## The Sovereign Pedagogy: Complete Developmental Protocol for Tier-7 Civilization
 

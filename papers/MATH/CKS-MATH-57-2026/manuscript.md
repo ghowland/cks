@@ -1,4 +1,4 @@
-# CKS-MATH-57-2026: The Riccati Equation Resolution
+# The Riccati Equation Resolution
 ## Optimal Control via Registry Gradient: DARE as Integer Remainder Minimization in Discrete Substrate
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,4 +1,4 @@
-# CKS-MATH-60-2026: Grand Unification v10
+# Grand Unification v10
 ## Subtitle: The J/S Partition and the Mechanical Unification of Substrate and Perception
 
 

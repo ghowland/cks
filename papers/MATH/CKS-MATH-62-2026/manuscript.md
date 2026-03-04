@@ -1,4 +1,4 @@
-# CKS-MATH-62-2026: The Dual-Clock Architecture as Fundamental Velocity Partition
+# The Dual-Clock Architecture as Fundamental Velocity Partition
 ## Deriving Logic Speed (c_L) and Light Speed (c) from Registry Write vs Bilateral Parity Verification
 
 

@@ -1,4 +1,4 @@
-# CKS-MATH-113-2026: The CKS Lattice Search Algorithm
+# The CKS Lattice Search Algorithm
 
 **Functional Coordinate Projection via Z=3 Tri-Wing Hexagonal Mapping**
 

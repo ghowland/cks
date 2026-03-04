@@ -1,5 +1,5 @@
 
-# CKS-BIO-52-2026: Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch
+# Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch
 ## Proving Pimples = Topological Heat Dissipation at Social Broadcast Aperture During Identity Jitter Phase Transition
 
 

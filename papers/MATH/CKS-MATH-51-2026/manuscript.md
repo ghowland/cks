@@ -1,4 +1,4 @@
-# CKS-MATH-51-2026: The Substrate Physics Engine
+# The Substrate Physics Engine
 ## Kinematics Derivation: Classical Physics as Registry Conflict Resolution and Address Optimization
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

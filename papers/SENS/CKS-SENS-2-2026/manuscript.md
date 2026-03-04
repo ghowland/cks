@@ -1,4 +1,4 @@
-# CKS-SENS-2-2026: Perception
+# Perception
 
 ## Human Sensory Systems as Registry Interrogation and Real-Time LERP Rendering
 

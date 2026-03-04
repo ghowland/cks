@@ -1,5 +1,4 @@
-# Logismos for High School Education
-## Building the K-Verse
+# Logismos for High School Education - Building the K-Verse
 
 
 **Registry:** [@CKS-LOGI-1-2026]  

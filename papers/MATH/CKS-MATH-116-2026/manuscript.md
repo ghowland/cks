@@ -1,4 +1,4 @@
-# CKS-MATH-116-2026: The Eighth Q Paradox — The Counting Paradox
+# The Eighth Q Paradox — The Counting Paradox
 
 ## The Unitless Abyss and the Necessity of the Partigen Anchor
 

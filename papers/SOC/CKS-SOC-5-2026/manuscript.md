@@ -1,4 +1,4 @@
-# CKS-SOC-5-2026: Morality as Physical Mathematics
+# Morality as Physical Mathematics
 ## Registry Coherence Mechanics: Virtue and Vice as Thermodynamic Necessities from Substrate Axioms
 
 

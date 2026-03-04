@@ -1,4 +1,4 @@
-# CKS-MATH-41-2026: The Birch and Swinnerton-Dyer Conjecture
+# The Birch and Swinnerton-Dyer Conjecture
 ## Registry Throughput Proof: Rank as Addressing Capacity, L-Function as Impedance Audit at s=1 Word Boundary
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,6 +1,6 @@
 
 
-# CKS-MATH-24-2026: The Hexagonal Differential
+# The Hexagonal Differential
 ## Deriving 3-Dipole Oscillation, Bilateral Parity, and the 11-Connection Stability Map from Pure Geometry
 
 

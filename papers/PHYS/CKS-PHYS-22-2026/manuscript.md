@@ -1,4 +1,4 @@
-# CKS-PHYS-22-2026: The Cymatic Phonemic Alphabet
+# The Cymatic Phonemic Alphabet
 
 ## Geometric Derivation of Universal Sound-Form Correspondence
 

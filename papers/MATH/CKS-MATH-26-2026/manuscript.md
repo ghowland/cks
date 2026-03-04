@@ -1,5 +1,5 @@
 
-# CKS-MATH-26-2026: Recursive Soliton Coupling and Substrate-Driven Registry Healing
+# Recursive Soliton Coupling and Substrate-Driven Registry Healing
 ## Deriving Biological Restoration as Parent-Child Soliton Re-Indexing via Gravity Gradient Alignment
 
 

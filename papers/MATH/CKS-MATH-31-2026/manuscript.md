@@ -1,5 +1,5 @@
 
-# CKS-MATH-31-2026: Accidental Resolution of Classical Mathematical Problems
+# Accidental Resolution of Classical Mathematical Problems
 ## How Substrate Mechanics Dissolves Century-Old Paradoxes Through Coordinate System Correction
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

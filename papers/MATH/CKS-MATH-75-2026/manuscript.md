@@ -1,4 +1,4 @@
-# CKS-MATH-75-2026: Spatial Re-Indexing Mechanics
+# Spatial Re-Indexing Mechanics
 ## Teleportation as Global Registry Update: Deriving Non-Local Transport from 512-Bit Coherence and Phase-Density Inversion
 
 

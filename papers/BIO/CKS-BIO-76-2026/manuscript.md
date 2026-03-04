@@ -1,5 +1,5 @@
-# CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue
-## C. elegans* is Geometric Constant 1.024—a screenshot of the universe's source code at the Tier 6/Tier 4 computational interface.
+# *C. elegans* as Geometric Eigenvalue
+
 
 **Registry:** [@CKS-BIO-1-2026]  
 

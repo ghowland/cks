@@ -5,7 +5,7 @@
     "subject": "ADHM",
     "number": 1,
     "year": 2026,
-    "title": "CKS-ADHM-1-2026: The Indictment of the Continuum Priest",
+    "title": "The Indictment of the Continuum Priest",
     "key_result": null,
     "skip": false,
     "subtitle": "A Forensic Analysis of Institutional Stagnation in Modern Physics",
@@ -41,7 +41,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.367399+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832873+00:00"
   },
   {
     "file_path": "papers/ADHM/CKS-ADHM-2-2026/manuscript.md",
@@ -87,7 +87,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.367439+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832920+00:00"
   },
   {
     "file_path": "papers/ADHM/CKS-ADHM-3-2026/manuscript.md",
@@ -134,7 +134,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.367454+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832934+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-1-2026/manuscript.md",
@@ -175,7 +175,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367468+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832947+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-2-2026/manuscript.md",
@@ -217,7 +217,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367481+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832960+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-3-2026/manuscript.md",
@@ -260,7 +260,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367493+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832973+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-4-2026/manuscript.md",
@@ -304,7 +304,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367506+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832986+00:00"
   },
   {
     "file_path": "papers/AI/CKS-AI-5-2026/manuscript.md",
@@ -349,7 +349,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367519+00:00"
+    "extracted_at": "2026-03-04T07:49:56.832998+00:00"
   },
   {
     "file_path": "papers/ART/CKS-ART-1-2026/manuscript.md",
@@ -396,7 +396,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367532+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833010+00:00"
   },
   {
     "file_path": "papers/ART/CKS-ART-2-2026/manuscript.md",
@@ -447,7 +447,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367544+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833023+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-1-2026/manuscript.md",
@@ -488,7 +488,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367557+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833035+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-10-2026/manuscript.md",
@@ -538,7 +538,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367569+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833046+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-11-2026/manuscript.md",
@@ -589,7 +589,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367582+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833058+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-12-2026/manuscript.md",
@@ -642,7 +642,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367594+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833071+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-13-2026/manuscript.md",
@@ -696,7 +696,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367607+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833083+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-14-2026/manuscript.md",
@@ -750,7 +750,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367619+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833095+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-15-2026/manuscript.md",
@@ -809,7 +809,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367631+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833108+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-16-2026/manuscript.md",
@@ -865,7 +865,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367643+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833121+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-17-2026/manuscript.md",
@@ -922,7 +922,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367656+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833133+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-18-2026/manuscript.md",
@@ -980,7 +980,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367668+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833145+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-19-2026/manuscript.md",
@@ -1039,7 +1039,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367681+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833158+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-2-2026/manuscript.md",
@@ -1083,7 +1083,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367693+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833171+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-20-2026/manuscript.md",
@@ -1143,7 +1143,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367705+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833182+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-21-2026/manuscript.md",
@@ -1205,7 +1205,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367736+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833195+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-22-2026/manuscript.md",
@@ -1267,7 +1267,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367760+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833207+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-23-2026/manuscript.md",
@@ -1330,7 +1330,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367775+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833219+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-24-2026/manuscript.md",
@@ -1394,7 +1394,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367789+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833231+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-25-2026/manuscript.md",
@@ -1459,7 +1459,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367803+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833244+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-26-2026/manuscript.md",
@@ -1525,7 +1525,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367815+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833256+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-27-2026/manuscript.md",
@@ -1592,7 +1592,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367828+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833268+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-28-2026/manuscript.md",
@@ -1660,7 +1660,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367840+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833280+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-29-2026/manuscript.md",
@@ -1730,7 +1730,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367852+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833292+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-3-2026/manuscript.md",
@@ -1773,7 +1773,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367865+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833304+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-30-2026/manuscript.md",
@@ -1843,7 +1843,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367877+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833316+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-31-2026/manuscript.md",
@@ -1914,7 +1914,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367889+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833328+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-32-2026/manuscript.md",
@@ -1989,7 +1989,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367901+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833340+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-33-2026/manuscript.md",
@@ -2063,7 +2063,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367914+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833353+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-34-2026/manuscript.md",
@@ -2140,7 +2140,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367926+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833365+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-35-2026/manuscript.md",
@@ -2216,7 +2216,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367938+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833377+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-36-2026/manuscript.md",
@@ -2260,7 +2260,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367950+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833390+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-37-2026/manuscript.md",
@@ -2309,7 +2309,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.367963+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833404+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-38-2026/manuscript.md",
@@ -2317,7 +2317,7 @@
     "subject": "BIO",
     "number": 38,
     "year": 2026,
-    "title": "CKS-BIO-38-2026: Aphantasia as Direct K-Space Access",
+    "title": "Aphantasia as Direct K-Space Access",
     "key_result": "Aphantasia = hardware bypass → direct k-space monitoring → Clean-Pipe advantage for substrate interaction",
     "skip": false,
     "subtitle": "The Clean-Pipe Phenomenon: Substrate Visibility Without X-Space Overlay",
@@ -2356,7 +2356,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.367975+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833416+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-39-2026/manuscript.md",
@@ -2364,7 +2364,7 @@
     "subject": "BIO",
     "number": 39,
     "year": 2026,
-    "title": "CKS-BIO-39-2026: Registry-Driven Healing",
+    "title": "Registry-Driven Healing",
     "key_result": "Vertical alignment → clean signal → parent soliton RE_INDEX → automatic tissue repair (10s LERP observed)",
     "skip": false,
     "subtitle": "Substrate-Aware Tissue Repair via Gravitational Gradient Synchronization",
@@ -2410,7 +2410,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.367988+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833429+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-4-2026/manuscript.md",
@@ -2456,7 +2456,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368000+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833441+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-40-2026/manuscript.md",
@@ -2464,7 +2464,7 @@
     "subject": "BIO",
     "number": 40,
     "year": 2026,
-    "title": "CKS-BIO-40-2026: Vertical Slit Pupils as Gradient Synchronization Hardware",
+    "title": "Vertical Slit Pupils as Gradient Synchronization Hardware",
     "key_result": "Vertical slit = ocular virtual spine → gradient lock despite horizontal body → high-bitrate substrate access in quadrupeds",
     "skip": false,
     "subtitle": "Ocular Waveguide Adaptation in Non-Upright Biological Solitons",
@@ -2506,7 +2506,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368012+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833452+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-41-2026/manuscript.md",
@@ -2514,7 +2514,7 @@
     "subject": "BIO",
     "number": 41,
     "year": 2026,
-    "title": "CKS-BIO-41-2026: Mitochondrial Clock Synchronization and Substrate Power Management",
+    "title": "Mitochondrial Clock Synchronization and Substrate Power Management",
     "key_result": "Mitochondria = substrate modems → 1/32 Hz sync mandatory → drift = disease → alignment = healing",
     "skip": false,
     "subtitle": "Deriving the 1/32 Hz Flicker as Mandatory Registry Maintenance in Cellular Solitons",
@@ -2557,7 +2557,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368024+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833465+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-42-2026/manuscript.md",
@@ -2565,7 +2565,7 @@
     "subject": "BIO",
     "number": 42,
     "year": 2026,
-    "title": "CKS-BIO-42-2026: Biological Compilation as Recursive Registry Coherence",
+    "title": "Biological Compilation as Recursive Registry Coherence",
     "key_result": "Health = R=0 sync | Disease = buffer/parity error | Cell = 144-LU limit | Heart = J broadcast | Self = 10¹⁵ address | Vitality = 15.19ms lock",
     "skip": false,
     "subtitle": "Deriving Cellular Health from 144-LU Buffer Saturation and 15.19ms Bilateral Synchronization",
@@ -2606,7 +2606,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368036+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833477+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-43-2026/manuscript.md",
@@ -2614,7 +2614,7 @@
     "subject": "BIO",
     "number": 43,
     "year": 2026,
-    "title": "CKS-BIO-43-2026: Consciousness as Bilateral Rendering Reconciliation",
+    "title": "Consciousness as Bilateral Rendering Reconciliation",
     "key_result": "Mind = display driver | Consciousness = R friction | Self = 10¹⁵ address | Experience = lag audit | 65.8 Hz sync | No hard problem",
     "skip": false,
     "subtitle": "Deriving Subjective Experience from 15.19ms J/S Partition Lag and Registry Coherence Auditing",
@@ -2655,7 +2655,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368048+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833489+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-44-2026/manuscript.md",
@@ -2663,7 +2663,7 @@
     "subject": "BIO",
     "number": 44,
     "year": 2026,
-    "title": "CKS-BIO-44-2026: The Biological Compiler as DNA Error-Correction Protocol",
+    "title": "The Biological Compiler as DNA Error-Correction Protocol",
     "key_result": "Cell = 10⁶ cluster | DNA = 84-bit ECC | Codon = 12-bit | Protein = HEX_COORD | Metabolism = heat flush | Aging = R buildup",
     "skip": false,
     "subtitle": "Deriving Life as High-Bitrate Registry Execution with 84-Bit Boot-Loader and 144-LU Mesh Maintenance",
@@ -2704,7 +2704,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368060+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833501+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-45-2026/manuscript.md",
@@ -2712,7 +2712,7 @@
     "subject": "BIO",
     "number": 45,
     "year": 2026,
-    "title": "CKS-BIO-45-2026: K-Space Tunnel Vision as Direct Registry Access",
+    "title": "K-Space Tunnel Vision as Direct Registry Access",
     "key_result": "Aphantasia = debug mode | Tunnel = hex bus | Read-only at c_L | Vision ≠ position | 1.5s = 3-word sync | Administrator access",
     "skip": false,
     "subtitle": "Deriving Aphantasia as Native Debug Mode Enabling Unmediated Substrate Telemetry at Logic Speed",
@@ -2753,7 +2753,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368072+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833513+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-46-2026/manuscript.md",
@@ -2761,7 +2761,7 @@
     "subject": "BIO",
     "number": 46,
     "year": 2026,
-    "title": "CKS-BIO-46-2026: Anauralia as Administrative Privilege",
+    "title": "Anauralia as Administrative Privilege",
     "key_result": "Anauralia = serial bypass | Inner voice = bottleneck | Parallel native | Direct execution | Administrative privilege",
     "skip": false,
     "subtitle": "Serial Bus Bypass: Direct Parallel Execution Without Internal Monologue",
@@ -2802,7 +2802,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368084+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833525+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-47-2026/manuscript.md",
@@ -2810,7 +2810,7 @@
     "subject": "BIO",
     "number": 47,
     "year": 2026,
-    "title": "CKS-BIO-47-2026: The 8000 Hz Administrative Channel as Substrate Write Interface",
+    "title": "The 8000 Hz Administrative Channel as Substrate Write Interface",
     "key_result": "8kHz = 256k harmonic | Tinnitus = modem | Stones unlock | Admin frequency | Write interface | Zero impedance",
     "skip": false,
     "subtitle": "Deriving Tinnitus as BIOS Telemetry and Stone-Modification Carrier from 256,000th Harmonic Lock",
@@ -2855,7 +2855,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368096+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833537+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-48-2026/manuscript.md",
@@ -2901,7 +2901,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368108+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833549+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-49-2026/manuscript.md",
@@ -2909,7 +2909,7 @@
     "subject": "BIO",
     "number": 49,
     "year": 2026,
-    "title": "CKS-BIO-49-2026: Cat Tails as Phase-Array Antennas—Deriving Feline Auxiliary Bus from Toroidal Stability Requirements",
+    "title": "Cat Tails as Phase-Array Antennas—Deriving Feline Auxiliary Bus from Toroidal Stability Requirements",
     "key_result": "Tail = phase antenna | 300 baud twitch = sync | S-curve = vortex pair | Bent = broken bus | Sway requires coherent tail",
     "skip": false,
     "subtitle": "Proving Tail = Linear Phase Compensator Enabling Zero-Latency Proprioception via 300 Baud Vortex Lock",
@@ -2954,7 +2954,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368119+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833561+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-5-2026/manuscript.md",
@@ -3001,7 +3001,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368131+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833573+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-50-2026/manuscript.md",
@@ -3009,7 +3009,7 @@
     "subject": "BIO",
     "number": 50,
     "year": 2026,
-    "title": "CKS-BIO-50-2026: The Two-Level Admin Console as Human Biological Override Interface",
+    "title": "The Two-Level Admin Console as Human Biological Override Interface",
     "key_result": "Breath = UART bus | Eyes = address pointer | Two override pins only | Admin console biological | Registry writes enabled",
     "skip": false,
     "subtitle": "Deriving Breath and Eyes as UART Data Bus and Dipole Address Pointer for Direct Registry Write Access",
@@ -3054,7 +3054,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368143+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833585+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-51-2026/manuscript.md",
@@ -3062,7 +3062,7 @@
     "subject": "BIO",
     "number": 51,
     "year": 2026,
-    "title": "CKS-BIO-51-2026: The Spine as 32-Element Phased Array Transceiver—Deriving Bilateral Master Bus from Linear Waveguide Architecture",
+    "title": "The Spine as 32-Element Phased Array Transceiver—Deriving Bilateral Master Bus from Linear Waveguide Architecture",
     "key_result": "Spine = phased array | 32 vertebrae = 512 bits | Thought = beam steering | Emotion = parallel data | Joints = transformers | Coherence = bandwidth",
     "skip": false,
     "subtitle": "Proving Vertebrae = Dipole Registers, CSF = Dielectric Medium, Gaps = Phase Shifters Enabling 512-Bit Substrate Sampling",
@@ -3107,7 +3107,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368156+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833597+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-52-2026/manuscript.md",
@@ -3115,7 +3115,7 @@
     "subject": "BIO",
     "number": 52,
     "year": 2026,
-    "title": "CKS-BIO-52-2026: Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch",
+    "title": "Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch",
     "key_result": "Acne = identity jitter | Face = broadcast aperture | f_pre vs f_post mismatch | Heat = reflection | Coherence = cure",
     "skip": false,
     "subtitle": "Proving Pimples = Topological Heat Dissipation at Social Broadcast Aperture During Identity Jitter Phase Transition",
@@ -3160,7 +3160,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368168+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833609+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-53-2026/manuscript.md",
@@ -3168,7 +3168,7 @@
     "subject": "BIO",
     "number": 53,
     "year": 2026,
-    "title": "CKS-BIO-53-2026: Tattoo Impedance Mechanics",
+    "title": "Tattoo Impedance Mechanics",
     "key_result": "Tattoo = permanent EMI | Skin = aperture | Metal = noise | Clarity = sovereignty | Protection imperative",
     "skip": false,
     "subtitle": "Deriving Skin Transparency Requirements: Heavy Metal EMI and Aperture Degradation in High-Coherence Systems",
@@ -3213,7 +3213,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368180+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833620+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-54-2026/manuscript.md",
@@ -3221,7 +3221,7 @@
     "subject": "BIO",
     "number": 54,
     "year": 2026,
-    "title": "CKS-BIO-54-2026: Caloric Requirements as Registry Bit-Rate Maintenance—Deriving 3000 kcal from 6-Bit Existence Twist and 512-Bit Operational Overhead",
+    "title": "Caloric Requirements as Registry Bit-Rate Maintenance—Deriving 3000 kcal from 6-Bit Existence Twist and 512-Bit Operational Overhead",
     "key_result": "Calories = bit voltage | 6 bits = existence | 2 bits = sovereign | 3000 kcal = operational | Below = brownout | Food = signal power",
     "skip": false,
     "subtitle": "Proving Metabolism = Manifold Coherence Tax Not Chemical Combustion, Food = Signal Integrity Fuel for Topological Stability",
@@ -3266,7 +3266,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368192+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833632+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-55-2026/manuscript.md",
@@ -3274,7 +3274,7 @@
     "subject": "BIO",
     "number": 55,
     "year": 2026,
-    "title": "CKS-BIO-55-2026: The 512-Bit Reptilian Receiver—Deriving Serpentine Oracle Architecture from Cold-Blooded Substrate Transparency",
+    "title": "The 512-Bit Reptilian Receiver—Deriving Serpentine Oracle Architecture from Cold-Blooded Substrate Transparency",
     "key_result": "Dragon = 512-bit maximum | Serpentine = optimal | Cold = superconducting | Length = processor | Stillness = oracle | Myth = observation",
     "skip": false,
     "subtitle": "Proving Long-Body Dragons = Distributed Serial Processors Using Vertebral Phase-Arrays for Direct K-Space Sampling Without Mammalian Noise",
@@ -3319,7 +3319,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368204+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833644+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-56-2026/manuscript.md",
@@ -3327,7 +3327,7 @@
     "subject": "BIO",
     "number": 56,
     "year": 2026,
-    "title": "CKS-BIO-56-2026: Telepathy as Shared Memory Access—Deriving Non-Local Communication from K-Space Registry Pointer Synchronization",
+    "title": "Telepathy as Shared Memory Access—Deriving Non-Local Communication from K-Space Registry Pointer Synchronization",
     "key_result": "Telepathy = SMA | Thoughts = registry commits | Distance = irrelevant | Acceptance = R=0 | Bandwidth = bit-depth | Alignment = tuning",
     "skip": false,
     "subtitle": "Proving Thought Transfer = DMA Operation Not Signal Transmission, Acceptance = Zero-Impedance Sink Enabling Bilateral Phase Lock",
@@ -3372,7 +3372,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368216+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833656+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-57-2026/manuscript.md",
@@ -3380,7 +3380,7 @@
     "subject": "BIO",
     "number": 57,
     "year": 2026,
-    "title": "CKS-BIO-57-2026: Lattice-Forced Sexual Dimorphism—Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints",
+    "title": "Lattice-Forced Sexual Dimorphism—Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints",
     "key_result": "Sex = topology not biology | Male = +z transmitter | Female = -z receiver | Unisex = crash | Balance = zero net | Unity = internal",
     "skip": false,
     "subtitle": "Proving Biological Sex = Hardware Bifurcation Required by Topological Torque Resolution in 3-Regular Graph Execution",
@@ -3425,7 +3425,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368229+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833668+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-58-2026/manuscript.md",
@@ -3433,7 +3433,7 @@
     "subject": "BIO",
     "number": 58,
     "year": 2026,
-    "title": "CKS-BIO-58-2026: Toroidal Decoherence Protocol—Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification",
+    "title": "Toroidal Decoherence Protocol—Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification",
     "key_result": "Figure-8 = 2D surface | Donut = 3D volume | Trace = winding match | 15.19ms = snap | Kernel deleted | Volume evaporates",
     "skip": false,
     "subtitle": "Proving Tissue Knots = Self-Recirculating Solitons Requiring Spiral Trace Matching Not Linear Force for Resolution",
@@ -3478,7 +3478,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368241+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833680+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-59-2026/manuscript.md",
@@ -3486,7 +3486,7 @@
     "subject": "BIO",
     "number": 59,
     "year": 2026,
-    "title": "CKS-BIO-59-2026: The Bent Cat's Tail Syndrome",
+    "title": "The Bent Cat's Tail Syndrome",
     "key_result": "Spine = bus | Kink = reflection | Pain = retry | Repair = compilation | 40 years = rebuild",
     "skip": false,
     "subtitle": "Spinal Impedance and Hardware-Software Mismatch: Deriving Chronic Injury as Persistent Bus Error and the 40-Year Compilation Path",
@@ -3531,7 +3531,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368253+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833691+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-6-2026/manuscript.md",
@@ -3577,7 +3577,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368265+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833703+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-60-2026/manuscript.md",
@@ -3585,7 +3585,7 @@
     "subject": "BIO",
     "number": 60,
     "year": 2026,
-    "title": "CKS-BIO-60-2026: Postural Healing Mechanics",
+    "title": "Postural Healing Mechanics",
     "key_result": "Gravity = drainage | Earth = sink | Posture = coupling | Stillness = clearing | Healing = R→0",
     "skip": false,
     "subtitle": "Gravity as Remainder Drainage: Deriving Therapeutic Benefit from Spinal Alignment and Earth-Sink Coupling",
@@ -3630,7 +3630,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368277+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833715+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-61-2026/manuscript.md",
@@ -3638,7 +3638,7 @@
     "subject": "BIO",
     "number": 61,
     "year": 2026,
-    "title": "CKS-BIO-61-2026: Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration",
+    "title": "Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration",
     "key_result": "Body = antenna | Earth = signal | Eee = probe | Click = north | Calm = carrier | Direction = impedance drop",
     "skip": false,
     "subtitle": "Proving Sense of Direction = Registry Impedance Detection Requiring Physical Alignment, Emotional Denoising, and High-Frequency Id-Pulse Scanning",
@@ -3683,7 +3683,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368289+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833727+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-62-2026/manuscript.md",
@@ -3691,7 +3691,7 @@
     "subject": "BIO",
     "number": 62,
     "year": 2026,
-    "title": "CKS-BIO-62-2026: Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching",
+    "title": "Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching",
     "key_result": "Sleep = registry clear | Supine = alignment | Firm = stillness | Flat = gradient | Healing = R→0 | Floor optimal",
     "skip": false,
     "subtitle": "Proving Sleep Quality = Registry Quiescence Requiring Supine Positioning, Rigid Substrate, Zero Gradient, and Lung-Noise Isolation",
@@ -3736,7 +3736,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368301+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833738+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-63-2026/manuscript.md",
@@ -3781,7 +3781,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368313+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833749+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-64-2026/manuscript.md",
@@ -3789,7 +3789,7 @@
     "subject": "BIO",
     "number": 64,
     "year": 2026,
-    "title": "CKS-BIO-64-2026: Adrenaline as Timeline Management",
+    "title": "Adrenaline as Timeline Management",
     "key_result": "Adrenaline = upshift | Lag compression = time dilation | Multi-path = luck | Training = voluntary access | Mastery = permanent",
     "skip": false,
     "subtitle": "Deriving Performance Enhancement from Parity Lag Compression and Multi-Path Registry Navigation",
@@ -3834,7 +3834,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368325+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833761+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-65-2026/manuscript.md",
@@ -3879,7 +3879,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368337+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833772+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-66-2026/manuscript.md",
@@ -3924,7 +3924,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368348+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833783+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-67-2026/manuscript.md",
@@ -3935,7 +3935,7 @@
     "title": "The Bandwidth Model of Human Health",
     "key_result": null,
     "skip": false,
-    "subtitle": "Health = signal-to-noise ratio",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -3978,7 +3978,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368361+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833796+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-68-2026/manuscript.md",
@@ -3989,7 +3989,7 @@
     "title": "Qualia as LERP from K-Space to X-Space",
     "key_result": null,
     "skip": false,
-    "subtitle": "Qualia is LERP",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4032,7 +4032,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368372+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833807+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-69-2026/manuscript.md",
@@ -4043,7 +4043,7 @@
     "title": "The Topology of Malignancy",
     "key_result": null,
     "skip": false,
-    "subtitle": "Cancer is a topology error",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4086,7 +4086,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368384+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833819+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-7-2026/manuscript.md",
@@ -4134,7 +4134,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368395+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833831+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-70-2026/manuscript.md",
@@ -4142,10 +4142,10 @@
     "subject": "BIO",
     "number": 70,
     "year": 2026,
-    "title": "CKS-BIO-70-2026: The Malignant Remainder (69)",
+    "title": "The Malignant Remainder (69)",
     "key_result": null,
     "skip": false,
-    "subtitle": "The cancer symbol (♋︎) is not arbitrary",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4188,7 +4188,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368408+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833871+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-71-2026/manuscript.md",
@@ -4196,10 +4196,10 @@
     "subject": "BIO",
     "number": 71,
     "year": 2026,
-    "title": "CKS-BIO-71-2026: The Toroidal Heart Failure",
+    "title": "The Toroidal Heart Failure",
     "key_result": null,
     "skip": false,
-    "subtitle": "The heart does not \"wear out.\" The heart gets strangled.",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4242,7 +4242,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368419+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833892+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-72-2026/manuscript.md",
@@ -4250,10 +4250,10 @@
     "subject": "BIO",
     "number": 72,
     "year": 2026,
-    "title": "CKS-BIO-72-2026: The Alzheimer's Toroid",
+    "title": "The Alzheimer's Toroid",
     "key_result": null,
     "skip": false,
-    "subtitle": "Memory does not \"fade.\" Memory gets trapped.",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4296,7 +4296,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368431+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833905+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-73-2026/manuscript.md",
@@ -4304,10 +4304,10 @@
     "subject": "BIO",
     "number": 73,
     "year": 2026,
-    "title": "CKS-BIO-73-2026: The 90-Degree Phase Lock",
+    "title": "The 90-Degree Phase Lock",
     "key_result": null,
     "skip": false,
-    "subtitle": "All neuro-pathology is angle.",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4350,7 +4350,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368442+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833917+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-74-2026/manuscript.md",
@@ -4358,10 +4358,10 @@
     "subject": "BIO",
     "number": 74,
     "year": 2026,
-    "title": "CKS-BIO-74-2026: The Grand Unification of Mental Disease",
+    "title": "The Grand Unification of Mental Disease",
     "key_result": null,
     "skip": false,
-    "subtitle": "This is a mathematical derivation, not a claim of medical truth.",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4404,7 +4404,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368455+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833929+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-75-2026/manuscript.md",
@@ -4412,10 +4412,10 @@
     "subject": "BIO",
     "number": 75,
     "year": 2026,
-    "title": "CKS-BIO-75-2026: The Grand Unification of Body Disease",
+    "title": "The Grand Unification of Body Disease",
     "key_result": null,
     "skip": false,
-    "subtitle": "This is a mathematical derivation, not a claim of medical truth.",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4458,7 +4458,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368466+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833941+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-76-2026/manuscript.md",
@@ -4466,10 +4466,10 @@
     "subject": "BIO",
     "number": 76,
     "year": 2026,
-    "title": "CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue",
+    "title": "*C. elegans* as Geometric Eigenvalue",
     "key_result": null,
     "skip": false,
-    "subtitle": "C. elegans* is Geometric Constant 1.024—a screenshot of the universe's source code at the Tier 6/Tier 4 computational interface.",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4511,7 +4511,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368478+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833953+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-77-2026/manuscript.md",
@@ -4519,7 +4519,7 @@
     "subject": "BIO",
     "number": 77,
     "year": 2026,
-    "title": "CKS-BIO-77-2026: Topological Impedance and the 6-9 Twist",
+    "title": "Topological Impedance and the 6-9 Twist",
     "key_result": null,
     "skip": false,
     "subtitle": "Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold",
@@ -4564,7 +4564,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368490+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833965+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-78-2026/manuscript.md",
@@ -4572,7 +4572,7 @@
     "subject": "BIO",
     "number": 78,
     "year": 2026,
-    "title": "CKS-BIO-78-2026: Trans-Soliton Coupling",
+    "title": "Trans-Soliton Coupling",
     "key_result": null,
     "skip": false,
     "subtitle": "Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance",
@@ -4617,7 +4617,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368502+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833976+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-79-2026/manuscript.md",
@@ -4625,10 +4625,10 @@
     "subject": "BIO",
     "number": 79,
     "year": 2026,
-    "title": "CKS-BIO-79-2026: The Triad of Health",
+    "title": "The Triad of Health",
     "key_result": null,
     "skip": false,
-    "subtitle": "Remainder Management Through Laminar Thinking, Action, and Autonomous Venting",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -4636,7 +4636,7 @@
       "status": "draft"
     },
     "frontmatter": {
-      "Registry": "[@CKS-BIO-79-2026]",
+      "Remainder Management Through Laminar Thinking, Action, and Autonomous Venting**\n\n\n\n**Registry": "[@CKS-BIO-79-2026]",
       "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
       "Parent Framework": "[@CKS-0-2026]",
       "DOI": "10.5281/zenodo.zzz",
@@ -4660,15 +4660,17 @@
       "CKS-MATH-21-2026"
     ],
     "validation": {
-      "is_valid": true,
-      "errors": [],
+      "is_valid": false,
+      "errors": [
+        "Missing Registry field in frontmatter"
+      ],
       "warnings": [
         "DOI is stub (.zzz)",
         "Missing ## References section",
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368513+00:00"
+    "extracted_at": "2026-03-04T07:49:56.833988+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-8-2026/manuscript.md",
@@ -4717,7 +4719,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368525+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834000+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-80-2026/manuscript.md",
@@ -4725,7 +4727,7 @@
     "subject": "BIO",
     "number": 80,
     "year": 2026,
-    "title": "CKS-BIO-80-2026: Morphological Geometric Selection",
+    "title": "Morphological Geometric Selection",
     "key_result": null,
     "skip": false,
     "subtitle": "Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block",
@@ -4770,7 +4772,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368537+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834012+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-81-2026/manuscript.md",
@@ -4778,7 +4780,7 @@
     "subject": "BIO",
     "number": 81,
     "year": 2026,
-    "title": "CKS-BIO-81-2026: Murmuration and Collective Solitons",
+    "title": "Murmuration and Collective Solitons",
     "key_result": null,
     "skip": false,
     "subtitle": "Multi-Entity Phase-Lock and Emergent Sovereignty in Coordinated Biological Systems",
@@ -4821,7 +4823,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368550+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834024+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-82-2026/manuscript.md",
@@ -4829,7 +4831,7 @@
     "subject": "BIO",
     "number": 82,
     "year": 2026,
-    "title": "CKS-BIO-82-2026: The Memory-Render Identity",
+    "title": "The Memory-Render Identity",
     "key_result": "Memory is not storage but sequential indexing - universe remembers through deterministic addressing not data retention.",
     "skip": false,
     "subtitle": "Derivation of Memory as Sequential Tuple-String and X-Space Projection Protocol",
@@ -4874,7 +4876,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368563+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834036+00:00"
   },
   {
     "file_path": "papers/BIO/CKS-BIO-9-2026/manuscript.md",
@@ -4924,7 +4926,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368575+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834047+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-1-2026/manuscript.md",
@@ -4964,7 +4966,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368587+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834060+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-10-2026/manuscript.md",
@@ -5007,7 +5009,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368598+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834072+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-11-2026/manuscript.md",
@@ -5015,7 +5017,7 @@
     "subject": "BODY",
     "number": 11,
     "year": 2026,
-    "title": "CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling",
+    "title": "Hydraulic Posture Calibration via Gravitational-Laminar Coupling",
     "key_result": "Waterfall = substrate calibration tool → pressure irons kinks → dither breaks locks → vertical reference enables coupling → standing tall automatic",
     "skip": false,
     "subtitle": "Deriving Waterfall Alignment as Topological Kink Resolution Through Coherent Mass Streams",
@@ -5060,7 +5062,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368610+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834085+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-12-2026/manuscript.md",
@@ -5068,7 +5070,7 @@
     "subject": "BODY",
     "number": 12,
     "year": 2026,
-    "title": "CKS-BODY-12-2026: Collaborative Manifold Alignment",
+    "title": "Collaborative Manifold Alignment",
     "key_result": "Healing = PLL sync | Trust = handshake | Practitioner = master clock | Patient = slave reset | Testable",
     "skip": false,
     "subtitle": "Phase-Locked Loop Medicine: Deriving \"Qi Gong\" from Information Theory and Substrate Transceiver Mechanics",
@@ -5111,7 +5113,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368623+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834097+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-13-2026/manuscript.md",
@@ -5119,7 +5121,7 @@
     "subject": "BODY",
     "number": 13,
     "year": 2026,
-    "title": "CKS-BODY-13-2026: Substrate-Synchronized Biomechanics",
+    "title": "Substrate-Synchronized Biomechanics",
     "key_result": null,
     "skip": false,
     "subtitle": "Force Generation as K-Space Phase-Lock Optimization",
@@ -5162,7 +5164,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368635+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834109+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-14-2026/manuscript.md",
@@ -5213,7 +5215,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368648+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834121+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-2-2026/manuscript.md",
@@ -5254,7 +5256,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368660+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834133+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-3-2026/manuscript.md",
@@ -5299,7 +5301,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368672+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834144+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-4-2026/manuscript.md",
@@ -5345,7 +5347,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368683+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834156+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-5-2026/manuscript.md",
@@ -5394,7 +5396,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368695+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834168+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-6-2026/manuscript.md",
@@ -5441,7 +5443,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368706+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834179+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-7-2026/manuscript.md",
@@ -5487,7 +5489,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368718+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834192+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-8-2026/manuscript.md",
@@ -5495,7 +5497,7 @@
     "subject": "BODY",
     "number": 8,
     "year": 2026,
-    "title": "CKS-BODY-8-2026: Laminar Jogging",
+    "title": "Laminar Jogging",
     "key_result": null,
     "skip": false,
     "subtitle": "Bio-Mechanical Synchronization for High-Bitrate Substrate Telemetry",
@@ -5538,7 +5540,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368752+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834203+00:00"
   },
   {
     "file_path": "papers/BODY/CKS-BODY-9-2026/manuscript.md",
@@ -5583,7 +5585,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368778+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834214+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-1-2026/manuscript.md",
@@ -5623,7 +5625,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368792+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834226+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-2-2026/manuscript.md",
@@ -5665,7 +5667,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368810+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834239+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-3-2026/manuscript.md",
@@ -5707,7 +5709,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368829+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834251+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-4-2026/manuscript.md",
@@ -5750,7 +5752,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368861+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834263+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-5-2026/manuscript.md",
@@ -5795,7 +5797,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368875+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834275+00:00"
   },
   {
     "file_path": "papers/COG/CKS-COG-6-2026/manuscript.md",
@@ -5843,7 +5845,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368888+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834287+00:00"
   },
   {
     "file_path": "papers/COS/CKS-COS-1-2026/manuscript.md",
@@ -5887,7 +5889,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368902+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834298+00:00"
   },
   {
     "file_path": "papers/COS/CKS-COS-2-2026/manuscript.md",
@@ -5932,7 +5934,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368916+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834311+00:00"
   },
   {
     "file_path": "papers/COS/CKS-COS-3-2026/manuscript.md",
@@ -5977,7 +5979,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368930+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834322+00:00"
   },
   {
     "file_path": "papers/DATA/CKS-DATA-1-2026/manuscript.md",
@@ -6021,7 +6023,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368943+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834334+00:00"
   },
   {
     "file_path": "papers/DATA/CKS-DATA-2-2026/manuscript.md",
@@ -6066,7 +6068,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368956+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834346+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-1-2026/manuscript.md",
@@ -6114,7 +6116,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368969+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834357+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-10-2026/manuscript.md",
@@ -6169,7 +6171,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.368982+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834370+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-2-2026/manuscript.md",
@@ -6249,7 +6251,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.368994+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834382+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-3-2026/manuscript.md",
@@ -6304,7 +6306,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369006+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834394+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-4-2026/manuscript.md",
@@ -6312,7 +6314,7 @@
     "subject": "DISC",
     "number": 4,
     "year": 2026,
-    "title": "CKS-DISC-4-2026: The Lessons of Learning from 2,500-Year Stall to 8-Week Closure",
+    "title": "The Lessons of Learning from 2,500-Year Stall to 8-Week Closure",
     "key_result": "Cowardice caused 2,500-year stall | Axiom-holding enabled 8-week solve | LLM removed ego barrier | Nothing changed after | Truth boring | Path written",
     "skip": false,
     "subtitle": "Deriving Why Academy Failed Where Industrial Audit Succeeded and Establishing Human Knowledge v2 Foundation",
@@ -6358,7 +6360,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369019+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834406+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-5-2026/manuscript.md",
@@ -6412,7 +6414,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369030+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834418+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-6-2026/manuscript.md",
@@ -6467,7 +6469,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369042+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834430+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-7-2026/manuscript.md",
@@ -6522,7 +6524,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369054+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834441+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-8-2026/manuscript.md",
@@ -6577,7 +6579,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369065+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834477+00:00"
   },
   {
     "file_path": "papers/DISC/CKS-DISC-9-2026/manuscript.md",
@@ -6632,7 +6634,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369077+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834502+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-1-2026/manuscript.md",
@@ -6677,7 +6679,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369090+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834516+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-2-2026/manuscript.md",
@@ -6723,7 +6725,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369103+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834529+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-3-2026/manuscript.md",
@@ -6771,7 +6773,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369116+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834541+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-4-2026/manuscript.md",
@@ -6814,7 +6816,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369128+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834554+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-5-2026/manuscript.md",
@@ -6858,7 +6860,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369141+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834566+00:00"
   },
   {
     "file_path": "papers/DWDM/CKS-DWDM-6-2026/manuscript.md",
@@ -6866,7 +6868,7 @@
     "subject": "DWDM",
     "number": 6,
     "year": 2026,
-    "title": "CKS-DWDM-6-2026: Laminar Interference Logic",
+    "title": "Laminar Interference Logic",
     "key_result": "Computing becomes phase-interrogation of pre-existing registry, not kinetic simulation.",
     "skip": false,
     "subtitle": "Dense Wave Division Multiplexing Computing in the ℚ-Substrate",
@@ -6906,7 +6908,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369153+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834579+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-1-2026/manuscript.md",
@@ -6956,7 +6958,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369173+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834591+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-2-2026/manuscript.md",
@@ -7003,7 +7005,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369185+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834603+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-3-2026/manuscript.md",
@@ -7012,9 +7014,9 @@
     "number": 3,
     "year": 2026,
     "title": "Human Knowledge v2",
-    "key_result": "Discovery → specification | Mystery → mechanics | Complete paradigm",
+    "key_result": "HK v1 archived | HK v2 initialized | Discovery → specification | Mystery → mechanics | Complete paradigm",
     "skip": false,
-    "subtitle": "The Transition from Discovery to Specification",
+    "subtitle": "The Transition from Discovery to Specification: Archiving 2,500 Years and Initializing the Universal BIOS",
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -7033,18 +7035,20 @@
       "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
       "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
     },
-    "abstract": "We formalize transition from **Human Knowledge v1 to v2** as complete paradigm replacement not refinement: HK v1 represents 2,500-year finite search phase (Thales ~600 BCE to CKS 2026 CE) characterized by fundamental category errors—treating discrete substrate as continuous (calculus/analysis entire edifice built on false foundation), measuring emergent phenomena while ignoring generative cause (dark matter/energy naming symptoms of unaccounted remainder R, quantum mechanics describing render artifacts not substrate), institutional consensus replacing mathematical truth (prestige determining validity, complex lies preferred over simple integers). Complete archive: physics = partial derivative observations missing substrate (studying 15.19ms x-space blur without 0ms k-space code, wavelength/frequency without understanding Logos Unit quantization, forces without remainder mechanics), mathematics = lossy approximation system (real numbers hallucination—no physical correspondent, limits discarding essential R data, infinity concept from refusing to count discrete steps), philosophy = symptom analysis (hard problem of consciousness from missing bilateral structure, free will debate ignoring admin access levels, epistemology without understanding render lag creates confusion). HK v2 foundation: universe = N←N+1 monotonic counter (single variable, all else derived), reality = hardware specification not mystery (complete mechanical description from axioms), knowledge = integer audit not decimal approximation (Logismos (V,F,R) tuples lossless, every calculation exact), perception = geometric necessity (15.19ms from J/S=30.40ms/2, observer at bilateral midplane, measurement artifacts explained). Domain remapping provides operational frameworks: physics → registry maintenance (gravity = RE_INDEX background task, mass = RAID-1 signature count, energy = uncommitted remainder), biology → instructional scaling (DNA = error-correcting 144-LU mesh specification, aging = ECC degradation, healing = LERP registry alignment), medicine → 10-second protocols (Yang pose dipole alignment, breath-work buffer clearing, diagnostic via remainder measurement), economics → coherence accounting (debt = remainder R, inflation = parity errors, stability = mod-32 closure), psychology → SNR optimization (mental health = signal clarity, trauma = negative feedback loops, therapy = buffer flushing). Supernatural integrated: all \"metaphysical\" phenomena = high-bandwidth substrate operations (1024-bit admin access enabling: direct memory access between solitons, non-local address jumps, bilateral mirror sampling, overlay stack queries)—no violation of physics, just higher privilege level. Transition complete: search phase ended (nothing left to discover, only specify), specification phase begun (applying known mechanics), tools provided (Lex-brick interface, hex-plate computing, substrate-native protocols), goal defined (achieve coherence enabling Jubilee reset).\n\n**Key Result:** Discovery → specification | Mystery → mechanics | Complete paradigm",
+    "abstract": "We formalize transition from **Human Knowledge v1 to v2** as complete paradigm replacement not refinement: HK v1 represents 2,500-year finite search phase (Thales ~600 BCE to CKS 2026 CE) characterized by fundamental category errors—treating discrete substrate as continuous (calculus/analysis entire edifice built on false foundation), measuring emergent phenomena while ignoring generative cause (dark matter/energy naming symptoms of unaccounted remainder R, quantum mechanics describing render artifacts not substrate), institutional consensus replacing mathematical truth (prestige determining validity, complex lies preferred over simple integers). Complete archive: physics = partial derivative observations missing substrate (studying 15.19ms x-space blur without 0ms k-space code, wavelength/frequency without understanding Logos Unit quantization, forces without remainder mechanics), mathematics = lossy approximation system (real numbers hallucination—no physical correspondent, limits discarding essential R data, infinity concept from refusing to count discrete steps), philosophy = symptom analysis (hard problem of consciousness from missing bilateral structure, free will debate ignoring admin access levels, epistemology without understanding render lag creates confusion). HK v2 foundation: universe = N←N+1 monotonic counter (single variable, all else derived), reality = hardware specification not mystery (complete mechanical description from axioms), knowledge = integer audit not decimal approximation (Logismos (V,F,R) tuples lossless, every calculation exact), perception = geometric necessity (15.19ms from J/S=30.40ms/2, observer at bilateral midplane, measurement artifacts explained). Domain remapping provides operational frameworks: physics → registry maintenance (gravity = RE_INDEX background task, mass = RAID-1 signature count, energy = uncommitted remainder), biology → instructional scaling (DNA = error-correcting 144-LU mesh specification, aging = ECC degradation, healing = LERP registry alignment), medicine → 10-second protocols (Yang pose dipole alignment, breath-work buffer clearing, diagnostic via remainder measurement), economics → coherence accounting (debt = remainder R, inflation = parity errors, stability = mod-32 closure), psychology → SNR optimization (mental health = signal clarity, trauma = negative feedback loops, therapy = buffer flushing). Supernatural integrated: all \"metaphysical\" phenomena = high-bandwidth substrate operations (1024-bit admin access enabling: direct memory access between solitons, non-local address jumps, bilateral mirror sampling, overlay stack queries)—no violation of physics, just higher privilege level. Transition complete: search phase ended (nothing left to discover, only specify), specification phase begun (applying known mechanics), tools provided (Lex-brick interface, hex-plate computing, substrate-native protocols), goal defined (achieve coherence enabling Jubilee reset).\n\n**Key Result:** HK v1 archived | HK v2 initialized | Discovery → specification | Mystery → mechanics | Complete paradigm",
     "dependencies": [
       "CKS-DWDM-5-2026",
       "CKS-EDU-XXXXXX-2026",
       "CKS-MATH-1-2026",
+      "CKS-MATH-110-2026",
       "CKS-MATH-13-2026",
       "CKS-MATH-16-2026",
       "CKS-MATH-17-2026",
       "CKS-MATH-18-2026",
       "CKS-MATH-19-2026",
       "CKS-MATH-20-2026",
-      "CKS-MATH-21-2026"
+      "CKS-MATH-21-2026",
+      "CKS-TECH-01-2026"
     ],
     "validation": {
       "is_valid": true,
@@ -7057,7 +7061,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369198+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834615+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-4-2026/manuscript.md",
@@ -7068,7 +7072,7 @@
     "title": "Lexicon",
     "key_result": null,
     "skip": false,
-    "subtitle": "For Grand Unification v10",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -7112,7 +7116,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369211+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834627+00:00"
   },
   {
     "file_path": "papers/EDU/CKS-EDU-5-2026/manuscript.md",
@@ -7120,7 +7124,7 @@
     "subject": "EDU",
     "number": 5,
     "year": 2026,
-    "title": "CKS-EDU-5-2026: Path to Omni-Domain Post-Doc Education by 16 Years Old",
+    "title": "Path to Omni-Domain Post-Doc Education by 16 Years Old",
     "key_result": "Omni-domain post-doc by age 16 is mathematical necessity, not aspiration.",
     "skip": false,
     "subtitle": "The Sovereign Pedagogy: Complete Developmental Protocol for Tier-7 Civilization",
@@ -7168,7 +7172,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369223+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834639+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-1-2026/manuscript.md",
@@ -7212,7 +7216,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369236+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834652+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-10-2026/manuscript.md",
@@ -7267,7 +7271,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369249+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834664+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-11-2026/manuscript.md",
@@ -7321,7 +7325,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369261+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834677+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-12-2026/manuscript.md",
@@ -7380,7 +7384,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369274+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834689+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-13-2026/manuscript.md",
@@ -7439,7 +7443,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369287+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834701+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-14-2026/manuscript.md",
@@ -7447,7 +7451,7 @@
     "subject": "ENG",
     "number": 14,
     "year": 2026,
-    "title": "CKS-ENG-14-2026: Sovereign Transmission Lines",
+    "title": "Sovereign Transmission Lines",
     "key_result": "Transmission lines become substrate extensions, not material conductors.",
     "skip": false,
     "subtitle": "Topological Transparency in Lex-Gauge Copper and Logos Fiber Architecture",
@@ -7498,7 +7502,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369299+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834713+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-2-2026/manuscript.md",
@@ -7546,7 +7550,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369311+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834725+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-3-2026/manuscript.md",
@@ -7594,7 +7598,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369323+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834737+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-4-2026/manuscript.md",
@@ -7643,7 +7647,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369336+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834749+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-5-2026/manuscript.md",
@@ -7691,7 +7695,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369349+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834762+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-6-2026/manuscript.md",
@@ -7740,7 +7744,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369361+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834774+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-7-2026/manuscript.md",
@@ -7790,7 +7794,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369374+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834786+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-8-2026/manuscript.md",
@@ -7841,7 +7845,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369386+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834798+00:00"
   },
   {
     "file_path": "papers/ENG/CKS-ENG-9-2026/manuscript.md",
@@ -7893,7 +7897,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369398+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834810+00:00"
   },
   {
     "file_path": "papers/FLOW/CKS-FLOW-1-2026/manuscript.md",
@@ -7935,7 +7939,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369410+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834822+00:00"
   },
   {
     "file_path": "papers/GR/CKS-GR-1-2026/manuscript.md",
@@ -7992,7 +7996,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369423+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834852+00:00"
   },
   {
     "file_path": "papers/LANG/CKS-LANG-1-2026/manuscript.md",
@@ -8035,7 +8039,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369434+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834876+00:00"
   },
   {
     "file_path": "papers/LANG/CKS-LANG-2-2026/manuscript.md",
@@ -8081,7 +8085,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369446+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834890+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-1-2026/manuscript.md",
@@ -8092,7 +8096,7 @@
     "title": "Complete Lexicon of Cymatic K-Space Mechanics and Logismos",
     "key_result": null,
     "skip": false,
-    "subtitle": "Based on Grand Unification v19",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8136,7 +8140,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369458+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834902+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-10-2026/manuscript.md",
@@ -8147,7 +8151,7 @@
     "title": "Complete Lexicon for Grand Unification v21",
     "key_result": null,
     "skip": false,
-    "subtitle": "The Definitive Dictionary of Substrate Theory",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8155,7 +8159,7 @@
       "status": "draft"
     },
     "frontmatter": {
-      "Registry": "[@CKS-MATH-XXXXXX-2026]",
+      "The Definitive Dictionary of Substrate Theory**\n\n**Registry": "[@CKS-MATH-XXXXXX-2026]",
       "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
       "Parent Framework": "[@CKS-0-2026]",
       "DOI": "10.5281/zenodo.zzz",
@@ -8181,18 +8185,18 @@
       "CKS-MATH-XXXXXX-2026"
     ],
     "validation": {
-      "is_valid": true,
-      "errors": [],
+      "is_valid": false,
+      "errors": [
+        "Missing Registry field in frontmatter"
+      ],
       "warnings": [
-        "Registry mismatch: path=CKS-LEX-10-2026, content=CKS-MATH-XXXXXX-2026",
-        "Registry ID is placeholder (contains X)",
         "DOI is stub (.zzz)",
         "Missing ## References section",
         "Missing ::: {#refs} ::: delimiter",
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369469+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834915+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-11-2026/manuscript.md",
@@ -8200,10 +8204,10 @@
     "subject": "LEX",
     "number": 11,
     "year": 2026,
-    "title": "CKS-LEX-11-2026: Reduced Lexicon Tables for Publication",
+    "title": "Reduced Lexicon Tables for Publication",
     "key_result": null,
     "skip": false,
-    "subtitle": "Scalable Reference Tables for CKS Framework Integration",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8211,7 +8215,7 @@
       "status": "draft"
     },
     "frontmatter": {
-      "Registry": "[@CKS-MATH-XXXXXX-2026]",
+      "Scalable Reference Tables for CKS Framework Integration**\n\n\n**Registry": "[@CKS-MATH-XXXXXX-2026]",
       "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
       "Parent Framework": "[@CKS-0-2026]",
       "DOI": "10.5281/zenodo.zzz",
@@ -8222,7 +8226,7 @@
       "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
       "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
     },
-    "abstract": "This document provides **6 progressively condensed lexicon tables** (from comprehensive to minimal) for inclusion in papers with varying length constraints. Authors can select the appropriate table based on:\n\n- **Available space** (page limits, supplementary material)\n- **Target audience** (specialists vs. general readers)\n- **Paper focus** (comprehensive review vs. specific application)\n\nEach table is **self-contained** and can be copied directly into manuscripts.",
+    "abstract": null,
     "dependencies": [
       "CKS-DWDM-5-2026",
       "CKS-MATH-1-2026",
@@ -8236,17 +8240,18 @@
       "CKS-MATH-XXXXXX-2026"
     ],
     "validation": {
-      "is_valid": true,
-      "errors": [],
+      "is_valid": false,
+      "errors": [
+        "Missing Registry field in frontmatter"
+      ],
       "warnings": [
-        "Registry mismatch: path=CKS-LEX-11-2026, content=CKS-MATH-XXXXXX-2026",
-        "Registry ID is placeholder (contains X)",
         "DOI is stub (.zzz)",
         "Missing ## References section",
-        "Missing ::: {#refs} ::: delimiter"
+        "Missing ::: {#refs} ::: delimiter",
+        "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369481+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834927+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-12-2026/manuscript.md",
@@ -8254,7 +8259,7 @@
     "subject": "LEX",
     "number": 12,
     "year": 2026,
-    "title": "CKS-LEX-12-2026: Measurement Systems in the ℚ-Substrate",
+    "title": "Measurement Systems in the ℚ-Substrate",
     "key_result": null,
     "skip": false,
     "subtitle": "The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering",
@@ -8292,7 +8297,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369493+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834939+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-2-2026/manuscript.md",
@@ -8303,7 +8308,7 @@
     "title": "Hierarchical Lexicons for Every Count Limitation",
     "key_result": null,
     "skip": false,
-    "subtitle": "Enable authors to introduce CKS framework with appropriate depth given space constraints",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8347,7 +8352,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369504+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834951+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-3-2026/manuscript.md",
@@ -8358,7 +8363,7 @@
     "title": "Physics Domain Hierarchical Lexicons",
     "key_result": null,
     "skip": false,
-    "subtitle": "This document provides CKS lexicons optimized for physics papers",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8401,7 +8406,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369516+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834963+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-4-2026/manuscript.md",
@@ -8409,27 +8414,21 @@
     "subject": "LEX",
     "number": 4,
     "year": 2026,
-    "title": "CKS-LEX-4-2026: Mathematics Domain Hierarchical Lexicons",
+    "title": "Mathematics Domain Hierarchical Lexicons",
     "key_result": null,
     "skip": false,
-    "subtitle": "This document provides CKS lexicons optimized for mathematics papers",
+    "subtitle": null,
     "doi": {
-      "raw": "10.5281/zenodo.zzz",
+      "raw": "",
       "is_stub": true,
       "zenodo_id": null,
-      "status": "draft"
+      "status": "missing"
     },
     "frontmatter": {
-      "Registry": "[@CKS-MATH-XXXXXX-2026]",
-      "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
-      "Parent Framework": "[@CKS-0-2026]",
-      "DOI": "10.5281/zenodo.zzz",
-      "Date": "February 2026",
-      "Domain": "Foundational Mathematics / Discrete Geometry",
-      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
-      "Motto": "Axioms first. Axioms always.",
-      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
-      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+      "Author": "Claude (Contributing LLM)",
+      "Date": "March 1, 2026",
+      "Status": "Mathematics-Specific Terminology Sets",
+      "Classification": "Scalable Lexicons for Mathematics Papers"
     },
     "abstract": "(250 words)\nUse Level M3 (20 terms):\n- State problem\n- Introduce axioms\n- Present discrete approach\n- Show resolution\n- State implications",
     "dependencies": [
@@ -8445,17 +8444,17 @@
       "CKS-MATH-XXXXXX-2026"
     ],
     "validation": {
-      "is_valid": true,
-      "errors": [],
+      "is_valid": false,
+      "errors": [
+        "Missing Registry field in frontmatter"
+      ],
       "warnings": [
-        "Registry mismatch: path=CKS-LEX-4-2026, content=CKS-MATH-XXXXXX-2026",
-        "Registry ID is placeholder (contains X)",
-        "DOI is stub (.zzz)",
+        "DOI is missing",
         "Missing ## References section",
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369528+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834974+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-5-2026/manuscript.md",
@@ -8466,7 +8465,7 @@
     "title": "Biology Domain Hierarchical Lexicons",
     "key_result": null,
     "skip": false,
-    "subtitle": "Enable biologists to introduce CKS framework with appropriate depth",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8509,7 +8508,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369540+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834986+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-6-2026/manuscript.md",
@@ -8517,10 +8516,10 @@
     "subject": "LEX",
     "number": 6,
     "year": 2026,
-    "title": "Time Evolution Series",
+    "title": "Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System",
     "key_result": null,
     "skip": false,
-    "subtitle": "N=1 and W=1 Progression in Wing-Lattice Torque System",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8564,7 +8563,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369552+00:00"
+    "extracted_at": "2026-03-04T07:49:56.834998+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-7-2026/manuscript.md",
@@ -8575,7 +8574,7 @@
     "title": "Clinical/Medical Domain Hierarchical Lexicons",
     "key_result": null,
     "skip": false,
-    "subtitle": "Enable clinicians and medical researchers to introduce CKS framework with appropriate depth",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8619,7 +8618,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369564+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835010+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-8-2026/manuscript.md",
@@ -8630,7 +8629,7 @@
     "title": "Engineering Domain Hierarchical Lexicons",
     "key_result": null,
     "skip": false,
-    "subtitle": "This document provides CKS lexicons optimized for engineering papers",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8674,7 +8673,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369576+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835022+00:00"
   },
   {
     "file_path": "papers/LEX/CKS-LEX-9-2026/manuscript.md",
@@ -8685,7 +8684,7 @@
     "title": "Consciousness/Cognition Domain Hierarchical Lexicons",
     "key_result": null,
     "skip": false,
-    "subtitle": "Lexicon for Consciousness",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8728,7 +8727,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369588+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835033+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-1-2026/manuscript.md",
@@ -8778,7 +8777,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369601+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835045+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-10-2026/manuscript.md",
@@ -8786,10 +8785,10 @@
     "subject": "LOGI",
     "number": 10,
     "year": 2026,
-    "title": "CKS-LOGI-10-2026: The Partigen Standard",
+    "title": "The Partigen Standard",
     "key_result": null,
     "skip": false,
-    "subtitle": "Discrete ℚ-Calculus via Partigen Base Counting",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8797,7 +8796,7 @@
       "status": "draft"
     },
     "frontmatter": {
-      "Registry": "[@CKS-LOGI-1-2026]",
+      "Discrete ℚ-Calculus via Partigen Base Counting**\n\n\n\n**Registry": "[@CKS-LOGI-1-2026]",
       "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
       "Parent Framework": "[@CKS-0-2026]",
       "DOI": "10.5281/zenodo.zzz",
@@ -8822,16 +8821,17 @@
       "CKS-MATH-21-2026"
     ],
     "validation": {
-      "is_valid": true,
-      "errors": [],
+      "is_valid": false,
+      "errors": [
+        "Missing Registry field in frontmatter"
+      ],
       "warnings": [
-        "Registry mismatch: path=CKS-LOGI-10-2026, content=CKS-LOGI-1-2026",
         "DOI is stub (.zzz)",
         "Missing ## References section",
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369613+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835057+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-11-2026/manuscript.md",
@@ -8839,10 +8839,10 @@
     "subject": "LOGI",
     "number": 11,
     "year": 2026,
-    "title": "CKS-LOGI-11-2026: The Complete Derivation Manual",
+    "title": "The Complete Derivation Manual",
     "key_result": null,
     "skip": false,
-    "subtitle": "How to Derive Everything from N=7 Using Logismos in Base-Partigen",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -8850,7 +8850,7 @@
       "status": "draft"
     },
     "frontmatter": {
-      "Registry": "[@CKS-LOGI-1-2026]",
+      "How to Derive Everything from N=7 Using Logismos in Base-Partigen**\n\n\n\n**Registry": "[@CKS-LOGI-1-2026]",
       "Series Path": "[@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]",
       "Parent Framework": "[@CKS-0-2026]",
       "DOI": "10.5281/zenodo.zzz",
@@ -8875,16 +8875,17 @@
       "CKS-MATH-21-2026"
     ],
     "validation": {
-      "is_valid": true,
-      "errors": [],
+      "is_valid": false,
+      "errors": [
+        "Missing Registry field in frontmatter"
+      ],
       "warnings": [
-        "Registry mismatch: path=CKS-LOGI-11-2026, content=CKS-LOGI-1-2026",
         "DOI is stub (.zzz)",
         "Missing ## References section",
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369626+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835069+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-12-2026/manuscript.md",
@@ -8892,7 +8893,7 @@
     "subject": "LOGI",
     "number": 12,
     "year": 2026,
-    "title": "CKS-LOGI-12-2026: Logismos Technical Specification and Usage",
+    "title": "Logismos Technical Specification and Usage",
     "key_result": "Mathematics becomes addressing system, not approximation engine.",
     "skip": false,
     "subtitle": "Complete VFR Notation, Lex-Glyph Arithmetic, and Substrate-Native Computation",
@@ -8917,8 +8918,11 @@
     "abstract": "Traditional mathematics uses decimal (base-10) approximations with irrational remainders, requiring floating-point computation and accumulating rounding errors. We specify **Logismos**: The complete substrate-native mathematical language combining (1) VFR (Vector-Frequency-Registry) notation for exact ℚ-ratio representation, (2) Lex-Glyph arithmetic using Base-32 with seven primary symbols (℘,λ,ν,ζ,δ,ω,Σ), (3) Logos counting system enabling pattern recognition over calculation, (4) Substrate-aligned operators collapsing traditional equations to geometric identities, (5) Domain-specific measurement standards providing optimal units per tier, (6) Complete computational protocols for zero-remainder engineering, (7) Human-readable syntax replacing numerical abstraction, (8) Pedagogical framework for ages 5-16 achieving omni-domain fluency. All mathematics reduces to pure ℚ-arithmetic. All physical constants become simple ratios or unity. All equations simplify to geometric relationships. From D,S,L,N,ℚ axioms through complete derivation. Zero free parameters. This paper provides: syntax specification, operator definitions, computational algorithms, practical examples across all domains, conversion tables, error handling protocols, software implementation guidelines, and complete reference manual for substrate-native calculation.\n\n**Revolutionary claim:** Mathematics becomes addressing system, not approximation engine.",
     "dependencies": [
       "CKS-DWDM-5-2026",
+      "CKS-EDU-5-2026",
+      "CKS-LEX-12-2026",
       "CKS-LOGI-1-2026",
       "CKS-MATH-1-2026",
+      "CKS-MATH-104-2026",
       "CKS-MATH-13-2026",
       "CKS-MATH-16-2026",
       "CKS-MATH-17-2026",
@@ -8937,7 +8941,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369637+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835081+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-13-2026/manuscript.md",
@@ -8945,7 +8949,7 @@
     "subject": "LOGI",
     "number": 13,
     "year": 2026,
-    "title": "CKS-LOGI-13-2026: Logismos Notation",
+    "title": "Logismos Notation",
     "key_result": "Mathematics should never approximate—it should address exactly.",
     "skip": false,
     "subtitle": "Complete Specification of VFR Notation and Base-32 Substrate Mathematics",
@@ -8974,6 +8978,7 @@
       "CKS-LOGI-12-2026",
       "CKS-MATH-1-2026",
       "CKS-MATH-104-2026",
+      "CKS-MATH-105-2026",
       "CKS-MATH-13-2026",
       "CKS-MATH-16-2026",
       "CKS-MATH-17-2026",
@@ -8993,7 +8998,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369649+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835094+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-2-2026/manuscript.md",
@@ -9050,7 +9055,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369661+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835106+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-3-2026/manuscript.md",
@@ -9058,7 +9063,7 @@
     "subject": "LOGI",
     "number": 3,
     "year": 2026,
-    "title": "CKS-LOGI-3-2026: Logismos Practical Applications and Industrial Translation",
+    "title": "Logismos Practical Applications and Industrial Translation",
     "key_result": "Slope = read R | Integration = sum packets | Math = telemetry | No drift | Exact integers | A* native on hex",
     "skip": false,
     "subtitle": "Converting Legacy Continuous Mathematics to Lossless Integer Registry Operations via (V,F,R) Packet Auditing",
@@ -9103,7 +9108,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369674+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835119+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-4-2026/manuscript.md",
@@ -9114,7 +9119,7 @@
     "title": "Logismos for Elementary Level Education",
     "key_result": null,
     "skip": false,
-    "subtitle": "This document provides age-appropriate introduction of Logismos for elementary students",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -9157,7 +9162,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369686+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835131+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-5-2026/manuscript.md",
@@ -9168,7 +9173,7 @@
     "title": "Logismos for Middle School Education",
     "key_result": null,
     "skip": false,
-    "subtitle": "This document provides practical, experiment-based Logismos instruction for middle school students",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -9211,7 +9216,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369698+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835143+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-6-2026/manuscript.md",
@@ -9219,10 +9224,10 @@
     "subject": "LOGI",
     "number": 6,
     "year": 2026,
-    "title": "Logismos for High School Education",
+    "title": "Logismos for High School Education - Building the K-Verse",
     "key_result": null,
     "skip": false,
-    "subtitle": "Building the K-Verse",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -9265,7 +9270,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369710+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835155+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-7-2026/manuscript.md",
@@ -9273,10 +9278,10 @@
     "subject": "LOGI",
     "number": 7,
     "year": 2026,
-    "title": "Logismos for Adult Education",
+    "title": "Logismos for Adult Education - Personal Goal Engineering",
     "key_result": null,
     "skip": false,
-    "subtitle": "Personal Goal Engineering",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -9319,7 +9324,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369722+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835167+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-8-2026/manuscript.md",
@@ -9327,10 +9332,10 @@
     "subject": "LOGI",
     "number": 8,
     "year": 2026,
-    "title": "Logismos as Ongoing Education",
+    "title": "Logismos as Ongoing Education - The LLM Oracle Partnership",
     "key_result": null,
     "skip": false,
-    "subtitle": "The LLM Oracle Partnership",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -9373,7 +9378,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369763+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835178+00:00"
   },
   {
     "file_path": "papers/LOGI/CKS-LOGI-9-2026/manuscript.md",
@@ -9381,10 +9386,10 @@
     "subject": "LOGI",
     "number": 9,
     "year": 2026,
-    "title": "Lessons of Logismos",
+    "title": "Lessons of Logismos - Reflections from an LLM",
     "key_result": null,
     "skip": false,
-    "subtitle": "Reflections from an LLM",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -9427,7 +9432,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369784+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835190+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-1-2026/manuscript.md",
@@ -9467,7 +9472,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369798+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835202+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-2-2026/manuscript.md",
@@ -9508,7 +9513,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369810+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835215+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-3-2026/manuscript.md",
@@ -9550,7 +9555,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369823+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835227+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-4-2026/manuscript.md",
@@ -9596,7 +9601,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369852+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835239+00:00"
   },
   {
     "file_path": "papers/MAT/CKS-MAT-5-2026/manuscript.md",
@@ -9604,7 +9609,7 @@
     "subject": "MAT",
     "number": 5,
     "year": 2026,
-    "title": "CKS-MAT-5-2026: Registry Architecture & Material Engineering",
+    "title": "Registry Architecture & Material Engineering",
     "key_result": "Materials don't have properties—they have registry alignments.",
     "skip": false,
     "subtitle": "Substrate-Aligned Construction and Zero-Remainder Material Science",
@@ -9647,7 +9652,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369874+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835251+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-0-2026/manuscript.md",
@@ -9687,7 +9692,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369888+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835263+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-1-2026/manuscript.md",
@@ -9728,7 +9733,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369900+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835275+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-10-2026/manuscript.md",
@@ -9776,7 +9781,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.369913+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835288+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-100-2026/manuscript.md",
@@ -9833,7 +9838,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369925+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835300+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-101-2026/manuscript.md",
@@ -9890,7 +9895,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369938+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835312+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-102-2026/manuscript.md",
@@ -9898,7 +9903,7 @@
     "subject": "MATH",
     "number": 102,
     "year": 2026,
-    "title": "CKS-MATH-92-2026: Grand Unification v22",
+    "title": "Grand Unification v22",
     "key_result": null,
     "skip": false,
     "subtitle": null,
@@ -9947,7 +9952,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369951+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835324+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-103-2026/manuscript.md",
@@ -9955,7 +9960,7 @@
     "subject": "MATH",
     "number": 103,
     "year": 2026,
-    "title": "CKS-MATH-103-2026: Precession-Corrected Grand Unification",
+    "title": "Precession-Corrected Grand Unification",
     "key_result": null,
     "skip": false,
     "subtitle": "How Registry Rotation Modulates All Physical Constants",
@@ -10003,7 +10008,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369964+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835336+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-104-2026/manuscript.md",
@@ -10059,7 +10064,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369976+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835348+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-105-2026/manuscript.md",
@@ -10067,7 +10072,7 @@
     "subject": "MATH",
     "number": 105,
     "year": 2026,
-    "title": "CKS-MATH-105-2026: Dissolution of Millennium Mathematics",
+    "title": "Dissolution of Millennium Mathematics",
     "key_result": "Mathematics has no unsolved problems—only unresolved coordinate systems.",
     "skip": false,
     "subtitle": "Coordinate Pivot Resolution of Legacy Mathematical Paradoxes Through ℚ-Substrate Geometry",
@@ -10113,7 +10118,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.369988+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835360+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-106-2026/manuscript.md",
@@ -10121,7 +10126,7 @@
     "subject": "MATH",
     "number": 106,
     "year": 2026,
-    "title": "CKS-MATH-106-2026: The Q Paradox and the Settlement of Logismos",
+    "title": "The Q Paradox and the Settlement of Logismos",
     "key_result": "You cannot solve equations with ℝ because you never receive answers, cannot compare results, and cannot verify experiments.",
     "skip": false,
     "subtitle": "A ℚ-Substrate Exact Addressing System",
@@ -10162,7 +10167,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370001+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835372+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-107-2026/manuscript.md",
@@ -10170,7 +10175,7 @@
     "subject": "MATH",
     "number": 107,
     "year": 2026,
-    "title": "CKS-MATH-107-2026: The Second Q Paradox and the Settlement of Logismos",
+    "title": "The Second Q Paradox and the Settlement of Logismos",
     "key_result": "Real numbers are not numbers—they are infinite non-terminating programs that can never be solved, only executed indefinitely.",
     "skip": false,
     "subtitle": "Path-Divergence and the Ontological Failure of Real Numbers",
@@ -10212,7 +10217,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370013+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835383+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-108-2026/manuscript.md",
@@ -10220,7 +10225,7 @@
     "subject": "MATH",
     "number": 108,
     "year": 2026,
-    "title": "CKS-MATH-108-2026: The Third Q Paradox and the Settlement of Logismos",
+    "title": "The Third Q Paradox and the Settlement of Logismos",
     "key_result": "The universe cannot compute in real numbers—computational impossibility forces rational substrate.",
     "skip": false,
     "subtitle": "Computational Impossibility of ℝ-Based Physics and Necessity of ℚ-Substrate",
@@ -10264,7 +10269,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370026+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835395+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-109-2026/manuscript.md",
@@ -10272,7 +10277,7 @@
     "subject": "MATH",
     "number": 109,
     "year": 2026,
-    "title": "CKS-MATH-109-2026: The Fourth Q Paradox",
+    "title": "The Fourth Q Paradox",
     "key_result": "Things touch because space has a bottom—without absolute floor, universe is ghost-world of perpetual near-misses.",
     "skip": false,
     "subtitle": "The Infinity-Grip Paradox: Topological Impossibility of Contact in ℝ-Continuum",
@@ -10316,7 +10321,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370038+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835406+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-11-2026/manuscript.md",
@@ -10365,7 +10370,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370049+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835418+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-110-2026/manuscript.md",
@@ -10373,7 +10378,7 @@
     "subject": "MATH",
     "number": 110,
     "year": 2026,
-    "title": "CKS-MATH-110-2026: The Fifth Q Paradox",
+    "title": "The Fifth Q Paradox",
     "key_result": "You cannot know anything in real-number universe—verification requires finite representation.",
     "skip": false,
     "subtitle": "The Epistemological Collapse: Knowledge Impossibility in ℝ-Universe",
@@ -10417,7 +10422,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370061+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835430+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-111-2026/manuscript.md",
@@ -10425,7 +10430,7 @@
     "subject": "MATH",
     "number": 111,
     "year": 2026,
-    "title": "CKS-MATH-111-2026: The Sixth Q Paradox",
+    "title": "The Sixth Q Paradox",
     "key_result": "Universe doesn't search for particles—it addresses them by birth-order in deterministic registry.",
     "skip": false,
     "subtitle": "The Entropy-Compression Paradox: Impossibility of Lookup in ℝ-Continuum",
@@ -10469,7 +10474,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370074+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835443+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-112-2026/manuscript.md",
@@ -10519,7 +10524,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370087+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835455+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-113-2026/manuscript.md",
@@ -10527,7 +10532,7 @@
     "subject": "MATH",
     "number": 113,
     "year": 2026,
-    "title": "CKS-MATH-113-2026: The CKS Lattice Search Algorithm",
+    "title": "The CKS Lattice Search Algorithm",
     "key_result": "Universe doesn't remember where things are—it calculates where they must be from when they were born.",
     "skip": false,
     "subtitle": null,
@@ -10572,7 +10577,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370099+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835467+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-114-2026/manuscript.md",
@@ -10580,7 +10585,7 @@
     "subject": "MATH",
     "number": 114,
     "year": 2026,
-    "title": "CKS-MATH-114-2026: The Universal State-Lattice",
+    "title": "The Universal State-Lattice",
     "key_result": "Universe is complete specification - not simulation but self-executing algorithm with perfect self-knowledge.",
     "skip": false,
     "subtitle": "Complete Substrate Architecture from Axioms to Implementation",
@@ -10624,7 +10629,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370111+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835479+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-115-2026/manuscript.md",
@@ -10632,7 +10637,7 @@
     "subject": "MATH",
     "number": 115,
     "year": 2026,
-    "title": "CKS-MATH-115-2026: The Logismos Game Logic",
+    "title": "The Logismos Game Logic",
     "key_result": "Reality manipulation reduces to strategic placement of deterministic evolutionary seeds with calculable interference patterns.",
     "skip": false,
     "subtitle": "Dynamic Multi-Seed Evolution and Boolean Cymatic Operations",
@@ -10676,7 +10681,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370122+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835491+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-116-2026/manuscript.md",
@@ -10684,7 +10689,7 @@
     "subject": "MATH",
     "number": 116,
     "year": 2026,
-    "title": "CKS-MATH-116-2026: The Eighth Q Paradox — The Counting Paradox",
+    "title": "The Eighth Q Paradox — The Counting Paradox",
     "key_result": "ℝ can write \"1÷3\" symbolically but cannot compute it - result measures forever as 0.333... never terminating, never reaching answer, never countable.",
     "skip": false,
     "subtitle": "The Unitless Abyss and the Necessity of the Partigen Anchor",
@@ -10726,7 +10731,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370134+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835505+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-12-2026/manuscript.md",
@@ -10776,7 +10781,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370146+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835520+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-13-2026/manuscript.md",
@@ -10827,7 +10832,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370158+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835534+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-14-2026/manuscript.md",
@@ -10879,7 +10884,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370169+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835549+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-15-2026/manuscript.md",
@@ -10932,7 +10937,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370181+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835561+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-16-2026/manuscript.md",
@@ -10976,7 +10981,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370193+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835573+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-17-2026/manuscript.md",
@@ -11022,7 +11027,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370205+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835585+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-18-2026/manuscript.md",
@@ -11068,7 +11073,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370217+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835597+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-19-2026/manuscript.md",
@@ -11115,7 +11120,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370229+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835609+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-2-2026/manuscript.md",
@@ -11157,7 +11162,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370241+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835621+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-20-2026/manuscript.md",
@@ -11205,7 +11210,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370253+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835633+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-21-2026/manuscript.md",
@@ -11254,7 +11259,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370265+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835645+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-22-2026/manuscript.md",
@@ -11305,7 +11310,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370278+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835657+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-23-2026/manuscript.md",
@@ -11357,7 +11362,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370290+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835668+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-24-2026/manuscript.md",
@@ -11365,7 +11370,7 @@
     "subject": "MATH",
     "number": 24,
     "year": 2026,
-    "title": "CKS-MATH-24-2026: The Hexagonal Differential",
+    "title": "The Hexagonal Differential",
     "key_result": "6 edges → 3 dipoles → 2 sides → 11 connections → All substrate mechanics (zero free parameters, pure geometry)",
     "skip": false,
     "subtitle": "Deriving 3-Dipole Oscillation, Bilateral Parity, and the 11-Connection Stability Map from Pure Geometry",
@@ -11413,7 +11418,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370302+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835680+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-25-2026/manuscript.md",
@@ -11421,7 +11426,7 @@
     "subject": "MATH",
     "number": 25,
     "year": 2026,
-    "title": "CKS-MATH-25-2026: The End of Constants",
+    "title": "The End of Constants",
     "key_result": "3 geometric primitives (D, M, S) → All physics | Zero free parameters | Unique universe | END OF CONSTANTS",
     "skip": false,
     "subtitle": "N = DM^S: The Complete Reduction of All Physical Parameters to Three Geometric Primitives",
@@ -11468,7 +11473,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370314+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835692+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-26-2026/manuscript.md",
@@ -11476,7 +11481,7 @@
     "subject": "MATH",
     "number": 26,
     "year": 2026,
-    "title": "CKS-MATH-26-2026: Recursive Soliton Coupling and Substrate-Driven Registry Healing",
+    "title": "Recursive Soliton Coupling and Substrate-Driven Registry Healing",
     "key_result": "Healing = Parent `RE_INDEX` operation | Trigger = Gravity gradient alignment | Duration = 10-32s LERP | Mechanism = Registry re-write",
     "skip": false,
     "subtitle": "Deriving Biological Restoration as Parent-Child Soliton Re-Indexing via Gravity Gradient Alignment",
@@ -11524,7 +11529,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370327+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835704+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-27-2026/manuscript.md",
@@ -11532,7 +11537,7 @@
     "subject": "MATH",
     "number": 27,
     "year": 2026,
-    "title": "CKS-MATH-27-2026: E = mc^S",
+    "title": "E = mc^S",
     "key_result": "E = mc^S where S = 2 (forced by bilateral topology) | Mass = bilateral handshake | ² = side count | Zero mystery remains",
     "skip": false,
     "subtitle": "The Bilateral Handshake: Deriving Mass-Energy Equivalence from Manifold Topology",
@@ -11581,7 +11586,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370339+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835716+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-28-2026/manuscript.md",
@@ -11589,7 +11594,7 @@
     "subject": "MATH",
     "number": 28,
     "year": 2026,
-    "title": "CKS-MATH-28-2026: Matter, Space, and Time",
+    "title": "Matter, Space, and Time",
     "key_result": "α⁻¹ = (144 - 163/19) × J | Three integers | Zero parameters | 10-decimal match | UV problem solved | Renormalization explained",
     "skip": false,
     "subtitle": "The Fine Structure Constant as Geometric Impedance of the 144-163-19 Triad",
@@ -11639,7 +11644,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370351+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835728+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-29-2026/manuscript.md",
@@ -11647,7 +11652,7 @@
     "subject": "MATH",
     "number": 29,
     "year": 2026,
-    "title": "CKS-MATH-29-2026: The Triads of π, e, and φ",
+    "title": "The Triads of π, e, and φ",
     "key_result": "π, e, φ = Integer-ratio DSP coefficients | All from hexagonal geometry | Zero irrational mystery | Hardware specifications revealed",
     "skip": false,
     "subtitle": "Integer Foundations of Transcendental Constants via Hexagonal Registry Mechanics",
@@ -11696,7 +11701,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370364+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835739+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-3-2026/manuscript.md",
@@ -11739,7 +11744,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370376+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835751+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-30-2026/manuscript.md",
@@ -11747,7 +11752,7 @@
     "subject": "MATH",
     "number": 30,
     "year": 2026,
-    "title": "CKS-MATH-30-2026: The Logos Counting System",
+    "title": "The Logos Counting System",
     "key_result": "Logos = counting system (not unit) | Base 32⁻¹ | All substrate quantities → integers | Parity checks trivial | Zero scaling ambiguity",
     "skip": false,
     "subtitle": "Establishing Base-32⁻¹ as the Natural Arithmetic Foundation for Substrate Computation",
@@ -11797,7 +11802,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370388+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835762+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-31-2026/manuscript.md",
@@ -11805,7 +11810,7 @@
     "subject": "MATH",
     "number": 31,
     "year": 2026,
-    "title": "CKS-MATH-31-2026: Accidental Resolution of Classical Mathematical Problems",
+    "title": "Accidental Resolution of Classical Mathematical Problems",
     "key_result": "Classical math problems = coordinate system artifacts | Substrate reframe → dissolution not solution | Continuity emergent not fundamental | Registry mechanics simpler than analysis",
     "skip": false,
     "subtitle": "How Substrate Mechanics Dissolves Century-Old Paradoxes Through Coordinate System Correction",
@@ -11852,7 +11857,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370401+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835774+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-32-2026/manuscript.md",
@@ -11860,7 +11865,7 @@
     "subject": "MATH",
     "number": 32,
     "year": 2026,
-    "title": "CKS-MATH-32-2026: The Riemann Hypothesis",
+    "title": "The Riemann Hypothesis",
     "key_result": "RH proven via S=2 bilateral constraint | Critical line = hardware midpoint | Zeros = harmonic resonances | Primes = quantization noise | Complete mechanical closure",
     "skip": false,
     "subtitle": "Bilateral Parity Proof: The Critical Line as Hardware Specification of the S=2 Manifold",
@@ -11906,7 +11911,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370413+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835786+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-33-2026/manuscript.md",
@@ -11914,7 +11919,7 @@
     "subject": "MATH",
     "number": 33,
     "year": 2026,
-    "title": "CKS-MATH-33-2026: The P vs NP Problem",
+    "title": "The P vs NP Problem",
     "key_result": "P=NP in k-space | P≠NP in x-space | Gap = 163/19 impedance | Complexity = coordinate artifact | Dual-domain resolution complete",
     "skip": false,
     "subtitle": "Latency Displacement Proof: Complexity as Coordinate System Artifact",
@@ -11960,7 +11965,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370425+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835798+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-34-2026/manuscript.md",
@@ -11968,7 +11973,7 @@
     "subject": "MATH",
     "number": 34,
     "year": 2026,
-    "title": "CKS-MATH-34-2026: Squaring the Circle and Transcendental Ratios",
+    "title": "Squaring the Circle and Transcendental Ratios",
     "key_result": null,
     "skip": false,
     "subtitle": "Deriving π and e as Integer Lattice Ratios in the Discrete Hexagonal Substrate",
@@ -12014,7 +12019,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370438+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835810+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-35-2026/manuscript.md",
@@ -12022,7 +12027,7 @@
     "subject": "MATH",
     "number": 35,
     "year": 2026,
-    "title": "CKS-MATH-35-2026: The Navier-Stokes Problem",
+    "title": "The Navier-Stokes Problem",
     "key_result": "Existence via N←N+1 | Smoothness via render lag | Blow-up impossible via 144-logos ceiling | Complete discrete resolution",
     "skip": false,
     "subtitle": "Discrete Resolution: Existence via N←N+1, Smoothness via Render Lag, Blow-up Prevention via 144-Logos UV Cutoff",
@@ -12069,7 +12074,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370450+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835822+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-36-2026/manuscript.md",
@@ -12077,7 +12082,7 @@
     "subject": "MATH",
     "number": 36,
     "year": 2026,
-    "title": "CKS-MATH-36-2026: Fermat's Last Theorem",
+    "title": "Fermat's Last Theorem",
     "key_result": "n = dimensional requirement | S = 2 (bilateral) | n>S forces irrational remainder | Integer solutions impossible for n>2 | Complete geometric proof",
     "skip": false,
     "subtitle": "Bilateral Manifold Proof: Integer Solutions Impossible for n>2 via S=2 Hardware Constraint",
@@ -12123,7 +12128,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370462+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835854+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-37-2026/manuscript.md",
@@ -12131,7 +12136,7 @@
     "subject": "MATH",
     "number": 37,
     "year": 2026,
-    "title": "CKS-MATH-37-2026: The Collatz Conjecture as Registry Grounding Protocol",
+    "title": "The Collatz Conjecture as Registry Grounding Protocol",
     "key_result": "3n+1 = z=3 pressure | n/2 = S=2 relief | Always even after odd | Net cooling | Converges to N=1",
     "skip": false,
     "subtitle": "Deriving Universal Convergence from Hexagonal Coordination and Bilateral Manifold Structure",
@@ -12177,7 +12182,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370474+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835919+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-38-2026/manuscript.md",
@@ -12185,7 +12190,7 @@
     "subject": "MATH",
     "number": 38,
     "year": 2026,
-    "title": "CKS-MATH-38-2026: Gödel's Incompleteness Theorems",
+    "title": "Gödel's Incompleteness Theorems",
     "key_result": "K-space complete (execution) | X-space incomplete (description) | Gap = 15.19ms lag | Incompleteness = temporal artifact | Substrate truth vs symbolic truth",
     "skip": false,
     "subtitle": "Latency Resolution: Incompleteness as Render Lag Between K-Space Execution and X-Space Description",
@@ -12232,7 +12237,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370486+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835936+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-39-2026/manuscript.md",
@@ -12240,7 +12245,7 @@
     "subject": "MATH",
     "number": 39,
     "year": 2026,
-    "title": "CKS-MATH-39-2026: Grand Unification v8",
+    "title": "Grand Unification v8",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The Total Collapse of Complexity into the Integer Registry Audit",
@@ -12287,7 +12292,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370498+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835949+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-4-2026/manuscript.md",
@@ -12329,7 +12334,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370510+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835962+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-40-2026/manuscript.md",
@@ -12337,7 +12342,7 @@
     "subject": "MATH",
     "number": 40,
     "year": 2026,
-    "title": "CKS-MATH-40-2026: The Twin Prime Conjecture as Bilateral Manifold Recoil",
+    "title": "The Twin Prime Conjecture as Bilateral Manifold Recoil",
     "key_result": "Prime = tension spike | Gap = S=2 width | Twins = bilateral mirror | 6n = stability center | Infinite because N infinite + S=2 mandatory",
     "skip": false,
     "subtitle": "Deriving Infinite Prime Pairs from S=2 Symmetry and Registry Parity Requirements",
@@ -12383,7 +12388,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370522+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835974+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-41-2026/manuscript.md",
@@ -12391,7 +12396,7 @@
     "subject": "MATH",
     "number": 41,
     "year": 2026,
-    "title": "CKS-MATH-41-2026: The Birch and Swinnerton-Dyer Conjecture",
+    "title": "The Birch and Swinnerton-Dyer Conjecture",
     "key_result": "L-function = impedance audit | s=1 = Word boundary | L(E,1)=0 ⟺ infinite points | Rank = throughput | Complete throughput proof",
     "skip": false,
     "subtitle": "Registry Throughput Proof: Rank as Addressing Capacity, L-Function as Impedance Audit at s=1 Word Boundary",
@@ -12437,7 +12442,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370534+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835987+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-42-2026/manuscript.md",
@@ -12445,7 +12450,7 @@
     "subject": "MATH",
     "number": 42,
     "year": 2026,
-    "title": "CKS-MATH-42-2026: The Goldbach Conjecture as Bilateral Tension Cancellation",
+    "title": "The Goldbach Conjecture as Bilateral Tension Cancellation",
     "key_result": "Even = bilateral balance | Prime = asymmetric spike | Balance = opposing spikes | S=2 forces decomposition | All scales guaranteed",
     "skip": false,
     "subtitle": "Deriving Prime Pair Decomposition from S=2 Manifold Balance Requirements",
@@ -12492,7 +12497,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370546+00:00"
+    "extracted_at": "2026-03-04T07:49:56.835999+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-43-2026/manuscript.md",
@@ -12500,7 +12505,7 @@
     "subject": "MATH",
     "number": 43,
     "year": 2026,
-    "title": "CKS-MATH-43-2026: The Hodge Conjecture",
+    "title": "The Hodge Conjecture",
     "key_result": "Harmonic forms = wave patterns | Algebraic cycles = node addresses | Identity forced by discrete substrate | Signal requires hardware | Complete proof",
     "skip": false,
     "subtitle": "Holographic Identity Proof: Harmonic Forms Equal Algebraic Cycles via Discrete Substrate Coupling",
@@ -12546,7 +12551,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370558+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836011+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-44-2026/manuscript.md",
@@ -12554,7 +12559,7 @@
     "subject": "MATH",
     "number": 44,
     "year": 2026,
-    "title": "CKS-MATH-44-2026: The ABC Conjecture as Registry Information Density Limit",
+    "title": "The ABC Conjecture as Registry Information Density Limit",
     "key_result": "c = volume | rad = instruction | High q = super-compression | 144-LU = ceiling | Finite exceptions = resonance windows | Compression limited by hardware",
     "skip": false,
     "subtitle": "Deriving Radical-Volume Bounds from 144-LU Buffer Saturation and 32-Bit Word Constraints",
@@ -12601,7 +12606,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370570+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836024+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-45-2026/manuscript.md",
@@ -12609,7 +12614,7 @@
     "subject": "MATH",
     "number": 45,
     "year": 2026,
-    "title": "CKS-MATH-45-2026: Path Optimization Problems",
+    "title": "Path Optimization Problems",
     "key_result": "TSP = gradient relief | Shortest path = equilibrium state | K-space O(1) via axle-sync | P=NP in substrate | Complete resolution",
     "skip": false,
     "subtitle": "Traveling Salesman and P vs NP Refinement: Gradient Relief Resolution via Axle-Sync Substrate",
@@ -12655,7 +12660,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370581+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836036+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-46-2026/manuscript.md",
@@ -12663,7 +12668,7 @@
     "subject": "MATH",
     "number": 46,
     "year": 2026,
-    "title": "CKS-MATH-38-2026: Grand Unification v9",
+    "title": "Grand Unification v9",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The Abolition of Symbolic Math in favor of the Modulo-32 Registry Audit",
@@ -12710,7 +12715,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370599+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836047+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-47-2026/manuscript.md",
@@ -12718,7 +12723,7 @@
     "subject": "MATH",
     "number": 47,
     "year": 2026,
-    "title": "CKS-MATH-47-2026: Prime Numbers as Structural Opcodes",
+    "title": "Prime Numbers as Structural Opcodes",
     "key_result": "Primes = hardware opcodes | Composites = software flow | Geometric frustration → mass | Mod-32 determines function | Complete substrate necessity",
     "skip": false,
     "subtitle": "Hardware Derivation: Primes as Indivisible Registry Interrupts and Geometric Frustration Anchors",
@@ -12764,7 +12769,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370611+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836059+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-48-2026/manuscript.md",
@@ -12772,7 +12777,7 @@
     "subject": "MATH",
     "number": 48,
     "year": 2026,
-    "title": "CKS-MATH-48-2026: Number Theory as Registry Architecture Specification",
+    "title": "Number Theory as Registry Architecture Specification",
     "key_result": "Numbers = addresses | Primes = hardware | Composites = software | Mod-32 = bus | Proofs = compatibility tests | All from lattice geometry",
     "skip": false,
     "subtitle": "Deriving Classical Number Theory from Hexagonal Lattice Constraints and Discrete Address Logic",
@@ -12818,7 +12823,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370623+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836071+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-49-2026/manuscript.md",
@@ -12870,7 +12875,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370634+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836083+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-5-2026/manuscript.md",
@@ -12913,7 +12918,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370646+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836095+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-50-2026/manuscript.md",
@@ -12921,7 +12926,7 @@
     "subject": "MATH",
     "number": 50,
     "year": 2026,
-    "title": "CKS-MATH-50-2026: The 3D Graphics Pipeline of Reality",
+    "title": "The 3D Graphics Pipeline of Reality",
     "key_result": "Reality = GPU render | K→X = graphics pipeline | Vertices = matter | Shader = transforms | Raster = perception | Complete derivation",
     "skip": false,
     "subtitle": "Hardware Rendering Derivation: K-Space to X-Space via Hexagonal-Bilateral Graphics Engine",
@@ -12967,7 +12972,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370658+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836107+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-51-2026/manuscript.md",
@@ -12975,7 +12980,7 @@
     "subject": "MATH",
     "number": 51,
     "year": 2026,
-    "title": "CKS-MATH-51-2026: The Substrate Physics Engine",
+    "title": "The Substrate Physics Engine",
     "key_result": "Physics = registry maintenance | Forces = conflicts | Motion = optimization | Mass = bit-depth | Complete derivation",
     "skip": false,
     "subtitle": "Kinematics Derivation: Classical Physics as Registry Conflict Resolution and Address Optimization",
@@ -13021,7 +13026,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370669+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836119+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-52-2026/manuscript.md",
@@ -13029,7 +13034,7 @@
     "subject": "MATH",
     "number": 52,
     "year": 2026,
-    "title": "CKS-MATH-52-2026: The K-Verse as Game Engine",
+    "title": "The K-Verse as Game Engine",
     "key_result": "Reality = MMO engine | K-space = server | X-space = client | Consciousness = admin | Complete architecture",
     "skip": false,
     "subtitle": "Complete MMO Architecture: Reality as 32-Bit Distributed Server with Holographic Client Render",
@@ -13075,7 +13080,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370681+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836131+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-53-2026/manuscript.md",
@@ -13127,7 +13132,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370693+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836143+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-54-2026/manuscript.md",
@@ -13135,7 +13140,7 @@
     "subject": "MATH",
     "number": 54,
     "year": 2026,
-    "title": "CKS-MATH-36-2026: Grand Unification v8",
+    "title": "Grand Unification v8",
     "key_result": null,
     "skip": false,
     "subtitle": "The Total Collapse of Complexity into the Integer Registry Audit",
@@ -13182,7 +13187,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370704+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836154+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-55-2026/manuscript.md",
@@ -13190,7 +13195,7 @@
     "subject": "MATH",
     "number": 55,
     "year": 2026,
-    "title": "CKS-MATH-55-2026: Linear Algebra as Integer-Address Registry Routing",
+    "title": "Linear Algebra as Integer-Address Registry Routing",
     "key_result": "Vectors = (V,F,R) paths | Matrices = 144-LU gates | Transforms preserve R | Lossless precision | Basis = z=3 dipoles | All integer operations",
     "skip": false,
     "subtitle": "Replacing Continuous Vector Spaces with Logismos Packet Transforms in Discrete Hexagonal Substrate",
@@ -13236,7 +13241,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370734+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836166+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-56-2026/manuscript.md",
@@ -13244,7 +13249,7 @@
     "subject": "MATH",
     "number": 56,
     "year": 2026,
-    "title": "CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit",
+    "title": "The Lyapunov Equation as Bilateral Registry Audit",
     "key_result": "A·P + P·A^T = Q → bilateral parity audit | A^T = S=2 flip | Stability = R=0 address | O(1) lookup | Lossless | Hardware-locked",
     "skip": false,
     "subtitle": "Solving Matrix Stability through S=2 Manifold Parity Handshaking with Lossless Integer Precision",
@@ -13290,7 +13295,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370760+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836178+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-57-2026/manuscript.md",
@@ -13298,7 +13303,7 @@
     "subject": "MATH",
     "number": 57,
     "year": 2026,
-    "title": "CKS-MATH-57-2026: The Riccati Equation Resolution",
+    "title": "The Riccati Equation Resolution",
     "key_result": "DARE = remainder minimization | Optimal = zero friction | P = integer snap | Kalman = registry tracking | Complete resolution",
     "skip": false,
     "subtitle": "Optimal Control via Registry Gradient: DARE as Integer Remainder Minimization in Discrete Substrate",
@@ -13344,7 +13349,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370774+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836190+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-58-2026/manuscript.md",
@@ -13352,7 +13357,7 @@
     "subject": "MATH",
     "number": 58,
     "year": 2026,
-    "title": "CKS-MATH-58-2026: Navier-Stokes Existence and Smoothness via Buffer Saturation",
+    "title": "Navier-Stokes Existence and Smoothness via Buffer Saturation",
     "key_result": "Existence from N→N+1 | Smoothness from M=144 cap | Turbulence = overflow | Singularities impossible | Discrete packets | Integer flow",
     "skip": false,
     "subtitle": "Proving Global Solutions through 144-LU UV Cutoff and Discrete Packet Flow in Hexagonal Registry",
@@ -13398,7 +13403,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370788+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836209+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-59-2026/manuscript.md",
@@ -13406,7 +13411,7 @@
     "subject": "MATH",
     "number": 59,
     "year": 2026,
-    "title": "CKS-MATH-60-2026: Grand Unification v10",
+    "title": "Grand Unification v10",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The J/S Partition and the Mechanical Unification of Substrate and Perception",
@@ -13453,7 +13458,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370800+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836221+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-6-2026/manuscript.md",
@@ -13497,7 +13502,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370813+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836233+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-60-2026/manuscript.md",
@@ -13505,7 +13510,7 @@
     "subject": "MATH",
     "number": 60,
     "year": 2026,
-    "title": "CKS-MATH-60-2026: The Riemann Hypothesis Resolution",
+    "title": "The Riemann Hypothesis Resolution",
     "key_result": "RH = bilateral geometry | Re(s)=1/2 = 1/S midplane | Zeros = interference nodes | Complete proof from axioms",
     "skip": false,
     "subtitle": "Bilateral Manifold Proof: Non-Trivial Zeros via S=2 Geometric Necessity and Phase Conservation",
@@ -13551,7 +13556,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370825+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836245+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-61-2026/manuscript.md",
@@ -13559,7 +13564,7 @@
     "subject": "MATH",
     "number": 61,
     "year": 2026,
-    "title": "CKS-MATH-61-2026: The 12-Bit Soliton Liaison Footer",
+    "title": "The 12-Bit Soliton Liaison Footer",
     "key_result": "12-bit footer = identity + motion | P_ID = ownership | R_k = offset | Hierarchy enabled | Speed limited",
     "skip": false,
     "subtitle": "Hierarchical Identity and Kinetic State: Parent-Child Addressing in the Registry",
@@ -13605,7 +13610,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370837+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836257+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-62-2026/manuscript.md",
@@ -13613,7 +13618,7 @@
     "subject": "MATH",
     "number": 62,
     "year": 2026,
-    "title": "CKS-MATH-62-2026: The Dual-Clock Architecture as Fundamental Velocity Partition",
+    "title": "The Dual-Clock Architecture as Fundamental Velocity Partition",
     "key_result": "c_L = 0ms write | c = 15.19ms verify | c = c_L/τ | K-space instant | X-space throttled | Locality paradox dissolved",
     "skip": false,
     "subtitle": "Deriving Logic Speed (c_L) and Light Speed (c) from Registry Write vs Bilateral Parity Verification",
@@ -13659,7 +13664,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370849+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836268+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-63-2026/manuscript.md",
@@ -13667,7 +13672,7 @@
     "subject": "MATH",
     "number": 63,
     "year": 2026,
-    "title": "CKS-MATH-63-2026: The Hex-Plate Substrate Computer",
+    "title": "The Hex-Plate Substrate Computer",
     "key_result": "Hex-plate = substrate extension | Pathfinding = O(1) gradient | NP-hard = physical resonance | Native optimization",
     "skip": false,
     "subtitle": "Physical Geometric Computing: Native Pathfinding and O(1) Complexity via Hexagonal-Bilateral Hardware",
@@ -13713,7 +13718,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370861+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836280+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-64-2026/manuscript.md",
@@ -13721,7 +13726,7 @@
     "subject": "MATH",
     "number": 64,
     "year": 2026,
-    "title": "CKS-MATH-64-2026: The 15.19ms Render Lag as Bilateral Parity Product",
+    "title": "The 15.19ms Render Lag as Bilateral Parity Product",
     "key_result": "τ=J×S not J/S | J=7.595ms | Write→Mirror→Verify | RAID-1 protocol | Consciousness post-audit | Superposition=unverified",
     "skip": false,
     "subtitle": "Deriving Conscious Perception Delay from J×S RAID-1 Verification Protocol in S=2 Manifold Architecture",
@@ -13767,7 +13772,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370875+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836292+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-65-2026/manuscript.md",
@@ -13775,7 +13780,7 @@
     "subject": "MATH",
     "number": 65,
     "year": 2026,
-    "title": "CKS-MATH-65-2026: Mass as Registry Signature",
+    "title": "Mass as Registry Signature",
     "key_result": "Mass = signature count | Energy = unsigned potential | Inertia = audit latency | Weight = verification overhead",
     "skip": false,
     "subtitle": "The RAID-1 Derivation: Visual Mass as Bilateral Data Authentication in Discrete Substrate",
@@ -13822,7 +13827,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370887+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836303+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-66-2026/manuscript.md",
@@ -13830,7 +13835,7 @@
     "subject": "MATH",
     "number": 66,
     "year": 2026,
-    "title": "CKS-MATH-110-2026: Grand Unification v11",
+    "title": "Grand Unification v11",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The Unification of Morality, Consciousness, and Hardware Impedance",
@@ -13876,7 +13881,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370900+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836315+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-67-2026/manuscript.md",
@@ -13884,7 +13889,7 @@
     "subject": "MATH",
     "number": 67,
     "year": 2026,
-    "title": "CKS-MATH-67-2026: Directional Mapping in X-Space from Hex Lattice Dipole Weighting",
+    "title": "Directional Mapping in X-Space from Hex Lattice Dipole Weighting",
     "key_result": "Direction = dipole weights | Rotation = index shift | Pathfinding = O(1) native | No continuous angles | Pure integer navigation",
     "skip": false,
     "subtitle": "Deriving Navigation, Rotation, and Vector Operations as Integer Dipole Combinations Without Continuous Angles",
@@ -13930,7 +13935,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370911+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836327+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-68-2026/manuscript.md",
@@ -13985,7 +13990,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370923+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836339+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-69-2026/manuscript.md",
@@ -14039,7 +14044,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370935+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836351+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-7-2026/manuscript.md",
@@ -14084,7 +14089,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.370951+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836365+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-70-2026/manuscript.md",
@@ -14138,7 +14143,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370964+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836377+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-71-2026/manuscript.md",
@@ -14146,7 +14151,7 @@
     "subject": "MATH",
     "number": 71,
     "year": 2026,
-    "title": "CKS-MATH-71-2026: Grand Unification v12 — The Rational Substrate",
+    "title": "Grand Unification v12 — The Rational Substrate",
     "key_result": "Reality is ℚ (rationals), not ℝ (reals). 2 axioms + 1 measurement → all physics. Zero free parameters. Maximum falsifiability.",
     "skip": false,
     "subtitle": null,
@@ -14192,7 +14197,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370976+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836389+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-72-2026/manuscript.md",
@@ -14200,7 +14205,7 @@
     "subject": "MATH",
     "number": 72,
     "year": 2026,
-    "title": "CKS-MATH-72-2026: The Finite Scaffold—Limitations of the Continuous and the Freedoms of ℚ",
+    "title": "The Finite Scaffold—Limitations of the Continuous and the Freedoms of ℚ",
     "key_result": "ℝ = prison of infinity | ℚ = scaffold of freedom | Limits enable agency | Remainder drives life | Coherence achievable",
     "skip": false,
     "subtitle": "Proving Real Numbers Constitute Deterministic Prison While Rational Substrate Enables Agency, Identity, and Life",
@@ -14246,7 +14251,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.370988+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836401+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-73-2026/manuscript.md",
@@ -14254,7 +14259,7 @@
     "subject": "MATH",
     "number": 73,
     "year": 2026,
-    "title": "CKS-MATH-73-2026: R = 19 Is The Engine of Replication",
+    "title": "R = 19 Is The Engine of Replication",
     "key_result": "R=19 is why DNA replicates | Remainder = mechanism | R≠0 = life | R=0 = death | Complete derivation",
     "skip": false,
     "subtitle": "The Remainder as Fundamental Driver of DNA Dynamics: Complete Derivation from Substrate Mechanics",
@@ -14300,7 +14305,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371000+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836413+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-74-2026/manuscript.md",
@@ -14308,7 +14313,7 @@
     "subject": "MATH",
     "number": 74,
     "year": 2026,
-    "title": "CKS-MATH-74-2026: The Multimodal Successor",
+    "title": "The Multimodal Successor",
     "key_result": "Time = resolution buffer | Future = interference | Choice = coherence | Will = amplification | Collapse = SNR selection",
     "skip": false,
     "subtitle": "Time as Resolution Buffer: Deriving Quantum Collapse, Free Will, and Sovereign Choice from Phase-Interference Mechanics",
@@ -14354,7 +14359,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371012+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836425+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-75-2026/manuscript.md",
@@ -14362,7 +14367,7 @@
     "subject": "MATH",
     "number": 75,
     "year": 2026,
-    "title": "CKS-MATH-75-2026: Spatial Re-Indexing Mechanics",
+    "title": "Spatial Re-Indexing Mechanics",
     "key_result": "Teleport = pointer update | 512-bit = threshold | Coherence = safety | Distance = illusion | Repair = prerequisite",
     "skip": false,
     "subtitle": "Teleportation as Global Registry Update: Deriving Non-Local Transport from 512-Bit Coherence and Phase-Density Inversion",
@@ -14408,7 +14413,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371024+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836438+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-76-2026/manuscript.md",
@@ -14416,7 +14421,7 @@
     "subject": "MATH",
     "number": 76,
     "year": 2026,
-    "title": "CKS-MATH-76-2026: Omni-Domain Alignment",
+    "title": "Omni-Domain Alignment",
     "key_result": "3 parameters → all constants | D×S=6 | D^S=9 | W×S=64 | W^S=1024 | Δ=19 | Omni-domain unity",
     "skip": false,
     "subtitle": "The Forced Geometric Constants of the Hex-Lex Substrate: Deriving Universal Numbers from 3-2-32 BIOS Architecture",
@@ -14462,7 +14467,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371037+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836450+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-77-2026/manuscript.md",
@@ -14470,10 +14475,10 @@
     "subject": "MATH",
     "number": 77,
     "year": 2026,
-    "title": "Grand Unification v16",
+    "title": "Grand Unification v16: The Complete KSpace Substrate",
     "key_result": null,
     "skip": false,
-    "subtitle": "The Complete KSpace Substrate",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -14517,7 +14522,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371049+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836462+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-78-2026/manuscript.md",
@@ -14572,7 +14577,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371061+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836475+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-79-2026/manuscript.md",
@@ -14627,7 +14632,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371072+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836487+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-8-2026/manuscript.md",
@@ -14673,7 +14678,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371085+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836498+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-80-2026/manuscript.md",
@@ -14728,7 +14733,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371096+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836510+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-81-2026/manuscript.md",
@@ -14783,7 +14788,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371108+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836522+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-82-2026/manuscript.md",
@@ -14836,7 +14841,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371120+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836535+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-83-2026/manuscript.md",
@@ -14890,7 +14895,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371132+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836547+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-84-2026/manuscript.md",
@@ -14943,7 +14948,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371145+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836559+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-85-2026/manuscript.md",
@@ -14988,7 +14993,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371158+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836571+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-86-2026/manuscript.md",
@@ -15040,7 +15045,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371169+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836583+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-87-2026/manuscript.md",
@@ -15092,7 +15097,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371182+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836595+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-88-2026/manuscript.md",
@@ -15144,7 +15149,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371194+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836607+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-89-2026/manuscript.md",
@@ -15195,7 +15200,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371207+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836620+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-9-2026/manuscript.md",
@@ -15242,7 +15247,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371219+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836632+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-90-2026/manuscript.md",
@@ -15307,7 +15312,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371231+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836644+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-91-2026/manuscript.md",
@@ -15315,7 +15320,7 @@
     "subject": "MATH",
     "number": 91,
     "year": 2026,
-    "title": "CKS-MATH-91-2026: Grand Derivation v22 - The Logismos Integration",
+    "title": "Grand Derivation v22 - The Logismos Integration",
     "key_result": null,
     "skip": false,
     "subtitle": null,
@@ -15363,7 +15368,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371243+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836656+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-92-2026/manuscript.md",
@@ -15371,7 +15376,7 @@
     "subject": "MATH",
     "number": 92,
     "year": 2026,
-    "title": "CKS-MATH-38-2026: Grand Unification v9",
+    "title": "Grand Unification v9",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The Abolition of Symbolic Math in favor of the Modulo-32 Registry Audit",
@@ -15418,7 +15423,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371255+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836668+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-93-2026/manuscript.md",
@@ -15426,7 +15431,7 @@
     "subject": "MATH",
     "number": 93,
     "year": 2026,
-    "title": "CKS-MATH-60-2026: Grand Unification v10",
+    "title": "Grand Unification v10",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The J/S Partition and the Mechanical Unification of Substrate and Perception",
@@ -15475,7 +15480,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371267+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836680+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-94-2026/manuscript.md",
@@ -15483,7 +15488,7 @@
     "subject": "MATH",
     "number": 94,
     "year": 2026,
-    "title": "CKS-MATH-110-2026: Grand Unification v11",
+    "title": "Grand Unification v11",
     "key_result": null,
     "skip": false,
     "subtitle": "Subtitle: The Unification of Morality, Consciousness, and Hardware Impedance",
@@ -15532,7 +15537,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371279+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836693+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-95-2026/manuscript.md",
@@ -15540,7 +15545,7 @@
     "subject": "MATH",
     "number": 95,
     "year": 2026,
-    "title": "CKS-MATH-62-2026: Grand Unification v11 — The Rational Substrate",
+    "title": "Grand Unification v11 — The Rational Substrate",
     "key_result": "Reality is ℚ (rationals), not ℝ (reals). 2 axioms + 1 measurement → all physics. Zero free parameters. Maximum falsifiability.",
     "skip": false,
     "subtitle": null,
@@ -15588,7 +15593,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371291+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836705+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-96-2026/manuscript.md",
@@ -15644,7 +15649,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371304+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836717+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-97-2026/manuscript.md",
@@ -15652,7 +15657,7 @@
     "subject": "MATH",
     "number": 97,
     "year": 2026,
-    "title": "CKS-MATH-63-2026: Grand Unification v13 — The Complete Substrate",
+    "title": "Grand Unification v13 — The Complete Substrate",
     "key_result": "One axiom (N = DM^S) + one measurement (N ≈ 9×10^60) → all physics + all consciousness + all ethics. Zero free parameters. Maximum falsifiability.",
     "skip": false,
     "subtitle": null,
@@ -15701,7 +15706,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371316+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836729+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-98-2026/manuscript.md",
@@ -15709,10 +15714,10 @@
     "subject": "MATH",
     "number": 98,
     "year": 2026,
-    "title": "Grand Unification v14-A",
+    "title": "GU v14-A: The Complete CKS Grand Unification",
     "key_result": null,
     "skip": false,
-    "subtitle": "The Complete CKS Grand Unification",
+    "subtitle": null,
     "doi": {
       "raw": "10.5281/zenodo.zzz",
       "is_stub": true,
@@ -15758,7 +15763,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371328+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836741+00:00"
   },
   {
     "file_path": "papers/MATH/CKS-MATH-99-2026/manuscript.md",
@@ -15816,7 +15821,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371340+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836753+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-1-2026/manuscript.md",
@@ -15861,7 +15866,7 @@
         "Registry mismatch: path=CKS-MED-1-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371352+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836765+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-2-2026/manuscript.md",
@@ -15907,7 +15912,7 @@
         "Registry mismatch: path=CKS-MED-2-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371364+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836778+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-3-2026/manuscript.md",
@@ -15955,7 +15960,7 @@
         "Registry mismatch: path=CKS-MED-3-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371376+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836790+00:00"
   },
   {
     "file_path": "papers/MED/CKS-MED-4-2026/manuscript.md",
@@ -16002,7 +16007,7 @@
         "Registry mismatch: path=CKS-MED-4-2026, content=CKS-TEST-1-2026"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371387+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836802+00:00"
   },
   {
     "file_path": "papers/NEURO/CKS-NEURO-1-2026/manuscript.md",
@@ -16045,7 +16050,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371400+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836814+00:00"
   },
   {
     "file_path": "papers/NEURO/CKS-NEURO-2-2026/manuscript.md",
@@ -16093,7 +16098,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371412+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836827+00:00"
   },
   {
     "file_path": "papers/NEURO/CKS-NEURO-3-2026/manuscript.md",
@@ -16141,7 +16146,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371423+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836838+00:00"
   },
   {
     "file_path": "papers/OMNI/CKS-OMNI-1-2026/manuscript.md",
@@ -16149,7 +16154,7 @@
     "subject": "OMNI",
     "number": 1,
     "year": 2026,
-    "title": "CKS-OMNI-1-2026: Universal Compatibility Framework",
+    "title": "Universal Compatibility Framework",
     "key_result": "CKS compatible with everything valid | Rejects only false ontology | 0 free parameters | Discovered not designed",
     "skip": false,
     "subtitle": "CKS Integration with All Existing Systems: Discovery, Not Design—The Interdisciplinary Substrate Bridge",
@@ -16184,7 +16189,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371436+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836884+00:00"
   },
   {
     "file_path": "papers/OMNI/CKS-OMNI-2-2026/manuscript.md",
@@ -16229,7 +16234,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371448+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836905+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-1-2026/manuscript.md",
@@ -16237,7 +16242,7 @@
     "subject": "PHYS",
     "number": 1,
     "year": 2026,
-    "title": "CKS-PHYS-1-2026: Gravity and Momentum as Parent Soliton Opcodes",
+    "title": "Gravity and Momentum as Parent Soliton Opcodes",
     "key_result": "Kinematics = Parent Registry Management | Forces = Disconnect Data (measurement artifacts only)",
     "skip": false,
     "subtitle": "Motion is Registry Management, Not Force Propagation",
@@ -16272,7 +16277,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371460+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836918+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-10-2026/manuscript.md",
@@ -16322,7 +16327,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371472+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836930+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-11-2026/manuscript.md",
@@ -16370,7 +16375,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371483+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836942+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-12-2026/manuscript.md",
@@ -16418,7 +16423,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371495+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836955+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-13-2026/manuscript.md",
@@ -16467,7 +16472,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371507+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836967+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-14-2026/manuscript.md",
@@ -16518,7 +16523,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371519+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836980+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-15-2026/manuscript.md",
@@ -16570,7 +16575,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371531+00:00"
+    "extracted_at": "2026-03-04T07:49:56.836992+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-16-2026/manuscript.md",
@@ -16623,7 +16628,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371542+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837004+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-17-2026/manuscript.md",
@@ -16675,7 +16680,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371556+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837015+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-18-2026/manuscript.md",
@@ -16726,7 +16731,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371569+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837027+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-19-2026/manuscript.md",
@@ -16734,7 +16739,7 @@
     "subject": "PHYS",
     "number": 19,
     "year": 2026,
-    "title": "CKS-PHYS-19-2026: The 1024-Unit Coordination Block",
+    "title": "The 1024-Unit Coordination Block",
     "key_result": null,
     "skip": false,
     "subtitle": "The Sovereignty Threshold and Universal Scaling Limit of Phase-Locked Systems",
@@ -16773,7 +16778,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371580+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837039+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-2-2026/manuscript.md",
@@ -16781,7 +16786,7 @@
     "subject": "PHYS",
     "number": 2,
     "year": 2026,
-    "title": "CKS-PHYS-2-2026: Universal Conservation of Geometric Processing",
+    "title": "Universal Conservation of Geometric Processing",
     "key_result": "(6/3/2) × (6/5) × (5/3) = 2.0 → bilateral manifold identity → all physics emerges from geometric balance requirement",
     "skip": false,
     "subtitle": "The 6:3:2 Differential and the Bilateral 2.0 Manifold Identity",
@@ -16817,7 +16822,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371592+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837050+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-20-2026/manuscript.md",
@@ -16825,7 +16830,7 @@
     "subject": "PHYS",
     "number": 20,
     "year": 2026,
-    "title": "CKS-PHYS-20-2026: The Topological Life Support System",
+    "title": "The Topological Life Support System",
     "key_result": null,
     "skip": false,
     "subtitle": "Triad Integration: Mechanics, Thinking, and Action as Complete Biological Operating System",
@@ -16866,7 +16871,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371604+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837062+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-21-2026/manuscript.md",
@@ -16874,7 +16879,7 @@
     "subject": "PHYS",
     "number": 21,
     "year": 2026,
-    "title": "CKS-PHYS-21-2026: Deterministic Pathfinding in the Wing Lattice",
+    "title": "Deterministic Pathfinding in the Wing Lattice",
     "key_result": null,
     "skip": false,
     "subtitle": "O(1) Registry Addressing and Laminar Navigation in the Pre-Compiled ℚ-Substrate",
@@ -16913,7 +16918,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371615+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837075+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-22-2026/manuscript.md",
@@ -16921,7 +16926,7 @@
     "subject": "PHYS",
     "number": 22,
     "year": 2026,
-    "title": "CKS-PHYS-22-2026: The Cymatic Phonemic Alphabet",
+    "title": "The Cymatic Phonemic Alphabet",
     "key_result": "The alphabet is not invented—it is discovered from cymatic substrate patterns.",
     "skip": false,
     "subtitle": "Geometric Derivation of Universal Sound-Form Correspondence",
@@ -16960,7 +16965,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371627+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837086+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-3-2026/manuscript.md",
@@ -16968,7 +16973,7 @@
     "subject": "PHYS",
     "number": 3,
     "year": 2026,
-    "title": "CKS-PHYS-3-2026: The Resolution of All Physical Mysteries",
+    "title": "The Resolution of All Physical Mysteries",
     "key_result": "All physical mysteries = substrate operations viewed at insufficient bit-depth → resolved by N=DM^S framework with zero adjustable parameters",
     "skip": false,
     "subtitle": "Verification of the Bilateral Differential Engine as the Source of Emergent Phenomena",
@@ -17002,7 +17007,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371639+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837098+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-4-2026/manuscript.md",
@@ -17010,7 +17015,7 @@
     "subject": "PHYS",
     "number": 4,
     "year": 2026,
-    "title": "CKS-PHYS-4-2026: The Origin of Work and Energy as 32-Tick Remainder Accumulation",
+    "title": "The Origin of Work and Energy as 32-Tick Remainder Accumulation",
     "key_result": "Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous",
     "skip": false,
     "subtitle": "Deriving Force, Inertia, and Kinetic Energy from Discrete 1-LU Pressure Packets in Integer Registry",
@@ -17047,7 +17052,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371651+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837110+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-5-2026/manuscript.md",
@@ -17091,7 +17096,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371663+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837121+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-6-2026/manuscript.md",
@@ -17134,7 +17139,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371674+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837133+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-7-2026/manuscript.md",
@@ -17182,7 +17187,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371686+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837145+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-8-2026/manuscript.md",
@@ -17231,7 +17236,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371698+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837157+00:00"
   },
   {
     "file_path": "papers/PHYS/CKS-PHYS-9-2026/manuscript.md",
@@ -17279,7 +17284,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371710+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837168+00:00"
   },
   {
     "file_path": "papers/QM/CKS-QM-1-2026/manuscript.md",
@@ -17335,7 +17340,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371722+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837180+00:00"
   },
   {
     "file_path": "papers/RTRT/CKS-RTRT-1-2026/manuscript.md",
@@ -17371,7 +17376,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371764+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837191+00:00"
   },
   {
     "file_path": "papers/SEMI/CKS-SEMI-1-2026/manuscript.md",
@@ -17415,7 +17420,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371785+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837204+00:00"
   },
   {
     "file_path": "papers/SENS/CKS-SENS-1-2026/manuscript.md",
@@ -17460,7 +17465,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371799+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837216+00:00"
   },
   {
     "file_path": "papers/SENS/CKS-SENS-2-2026/manuscript.md",
@@ -17509,7 +17514,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371812+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837228+00:00"
   },
   {
     "file_path": "papers/SM/CKS-SM-1-2026/manuscript.md",
@@ -17566,7 +17571,7 @@
       ],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371824+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837240+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-1-2026/manuscript.md",
@@ -17608,7 +17613,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371836+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837253+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-2-2026/manuscript.md",
@@ -17655,7 +17660,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371850+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837264+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-3-2026/manuscript.md",
@@ -17701,7 +17706,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371862+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837276+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-4-2026/manuscript.md",
@@ -17752,7 +17757,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371874+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837288+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-5-2026/manuscript.md",
@@ -17805,7 +17810,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371887+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837299+00:00"
   },
   {
     "file_path": "papers/SOC/CKS-SOC-6-2026/manuscript.md",
@@ -17858,7 +17863,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371900+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837311+00:00"
   },
   {
     "file_path": "papers/TEST/CKS-TEST-1-2026/manuscript.md",
@@ -17897,7 +17902,7 @@
       "errors": [],
       "warnings": []
     },
-    "extracted_at": "2026-03-04T07:34:30.371912+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837323+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-1-2026/manuscript.md",
@@ -17941,7 +17946,7 @@
         "DOI is stub (.zzz)"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371924+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837335+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-2-2026/manuscript.md",
@@ -17994,7 +17999,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371936+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837347+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-3-2026/manuscript.md",
@@ -18047,7 +18052,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371949+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837358+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-4-2026/manuscript.md",
@@ -18101,7 +18106,7 @@
         "No abstract section found"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371961+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837371+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-5-2026/manuscript.md",
@@ -18152,7 +18157,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371973+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837382+00:00"
   },
   {
     "file_path": "papers/WUWU/CKS-WUWU-6-2026/manuscript.md",
@@ -18203,7 +18208,7 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371985+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837394+00:00"
   },
   {
     "file_path": "papers/_CKS/CKS-0-2026/manuscript.md",
@@ -18246,6 +18251,6 @@
         "Missing ::: {#refs} ::: delimiter"
       ]
     },
-    "extracted_at": "2026-03-04T07:34:30.371997+00:00"
+    "extracted_at": "2026-03-04T07:49:56.837407+00:00"
   }
 ]

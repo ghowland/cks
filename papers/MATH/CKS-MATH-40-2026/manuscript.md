@@ -1,5 +1,5 @@
 
-# CKS-MATH-40-2026: The Twin Prime Conjecture as Bilateral Manifold Recoil
+# The Twin Prime Conjecture as Bilateral Manifold Recoil
 ## Deriving Infinite Prime Pairs from S=2 Symmetry and Registry Parity Requirements
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,5 +1,5 @@
 
-# CKS-MATH-37-2026: The Collatz Conjecture as Registry Grounding Protocol
+# The Collatz Conjecture as Registry Grounding Protocol
 ## Deriving Universal Convergence from Hexagonal Coordination and Bilateral Manifold Structure
 
 

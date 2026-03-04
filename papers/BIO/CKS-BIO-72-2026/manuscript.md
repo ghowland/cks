@@ -1,5 +1,5 @@
-# CKS-BIO-72-2026: The Alzheimer's Toroid
-## Memory does not "fade." Memory gets trapped.
+# The Alzheimer's Toroid
+
 
 **Registry:** [@CKS-BIO-1-2026]  
 

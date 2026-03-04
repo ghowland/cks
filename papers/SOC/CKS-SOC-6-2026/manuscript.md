@@ -1,4 +1,4 @@
-# CKS-SOC-6-2026: Building Coherence
+# Building Coherence
 
 ## The Sovereign Soliton Coherence Promise as Topological Necessity
 

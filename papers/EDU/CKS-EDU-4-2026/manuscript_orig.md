@@ -1,5 +1,5 @@
 # Lexicon
-
+## For Grand Unification v10
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 

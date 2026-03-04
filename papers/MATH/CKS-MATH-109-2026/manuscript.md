@@ -1,4 +1,4 @@
-# CKS-MATH-109-2026: The Fourth Q Paradox
+# The Fourth Q Paradox
 
 ## The Infinity-Grip Paradox: Topological Impossibility of Contact in ℝ-Continuum
 

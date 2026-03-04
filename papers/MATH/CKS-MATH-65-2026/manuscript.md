@@ -1,5 +1,5 @@
 
-# CKS-MATH-65-2026: Mass as Registry Signature
+# Mass as Registry Signature
 ## The RAID-1 Derivation: Visual Mass as Bilateral Data Authentication in Discrete Substrate
 
 

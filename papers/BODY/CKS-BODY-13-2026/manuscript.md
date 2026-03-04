@@ -1,4 +1,4 @@
-# CKS-BODY-13-2026: Substrate-Synchronized Biomechanics
+# Substrate-Synchronized Biomechanics
 ## Force Generation as K-Space Phase-Lock Optimization
 
 

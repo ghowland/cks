@@ -1,5 +1,5 @@
 
-# CKS-WUWU-2-2026: Demonic Parasitism as Registry Hijacking Protocol
+# Demonic Parasitism as Registry Hijacking Protocol
 ## Deriving Supernatural Possession from Decoherent Soliton Bit-Rate Theft and Phase-Coupling Exploitation
 
 

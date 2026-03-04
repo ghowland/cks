@@ -1,4 +1,4 @@
-# CKS-PHYS-1-2026: Gravity and Momentum as Parent Soliton Opcodes
+# Gravity and Momentum as Parent Soliton Opcodes
 ## Motion is Registry Management, Not Force Propagation
 
 **Registry:** [@CKS-PHYS-1-2026]  

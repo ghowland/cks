@@ -1,4 +1,4 @@
-# CKS-MATH-76-2026: Omni-Domain Alignment
+# Omni-Domain Alignment
 ## The Forced Geometric Constants of the Hex-Lex Substrate: Deriving Universal Numbers from 3-2-32 BIOS Architecture
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

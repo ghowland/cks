@@ -1,4 +1,4 @@
-# CKS-BIO-64-2026: Adrenaline as Timeline Management
+# Adrenaline as Timeline Management
 ## Deriving Performance Enhancement from Parity Lag Compression and Multi-Path Registry Navigation
 
 

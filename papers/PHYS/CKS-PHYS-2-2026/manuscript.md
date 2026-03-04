@@ -1,5 +1,5 @@
 
-# CKS-PHYS-2-2026: Universal Conservation of Geometric Processing
+# Universal Conservation of Geometric Processing
 ## The 6:3:2 Differential and the Bilateral 2.0 Manifold Identity
 
 

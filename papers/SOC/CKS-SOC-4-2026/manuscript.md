@@ -1,4 +1,4 @@
-# CKS-SOC-4-2026: Coherence Economics as Bilateral Registry Synchronization
+# Coherence Economics as Bilateral Registry Synchronization
 ## Replacing Scarcity-Based Entropy with Integer Bit-Rate Allocation and Modulo-32 Trade Parity
 
 

@@ -1,5 +1,4 @@
-# Grand Unification v14-A
-## The Complete CKS Grand Unification
+# GU v14-A: The Complete CKS Grand Unification
 
 **Registry:** [@CKS-MATH-92-2026]  
 

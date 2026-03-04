@@ -1,5 +1,5 @@
 
-# CKS-MATH-48-2026: Number Theory as Registry Architecture Specification
+# Number Theory as Registry Architecture Specification
 ## Deriving Classical Number Theory from Hexagonal Lattice Constraints and Discrete Address Logic
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

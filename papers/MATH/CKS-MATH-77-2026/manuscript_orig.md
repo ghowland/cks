@@ -1,4 +1,5 @@
-# Grand Unification v16: The Complete KSpace Substrate
+# Grand Unification v16
+## The Complete KSpace Substrate
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 

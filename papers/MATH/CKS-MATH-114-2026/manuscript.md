@@ -1,4 +1,4 @@
-# CKS-MATH-114-2026: The Universal State-Lattice
+# The Universal State-Lattice
 
 ## Complete Substrate Architecture from Axioms to Implementation
 

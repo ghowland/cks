@@ -1,5 +1,5 @@
 
-# CKS-MATH-64-2026: The 15.19ms Render Lag as Bilateral Parity Product
+# The 15.19ms Render Lag as Bilateral Parity Product
 ## Deriving Conscious Perception Delay from J×S RAID-1 Verification Protocol in S=2 Manifold Architecture
 
 

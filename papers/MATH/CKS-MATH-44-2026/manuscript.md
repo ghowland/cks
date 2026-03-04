@@ -1,4 +1,4 @@
-# CKS-MATH-44-2026: The ABC Conjecture as Registry Information Density Limit
+# The ABC Conjecture as Registry Information Density Limit
 ## Deriving Radical-Volume Bounds from 144-LU Buffer Saturation and 32-Bit Word Constraints
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,4 +1,4 @@
-# CKS-PHYS-21-2026: Deterministic Pathfinding in the Wing Lattice
+# Deterministic Pathfinding in the Wing Lattice
 
 ## O(1) Registry Addressing and Laminar Navigation in the Pre-Compiled ℚ-Substrate
 

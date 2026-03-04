@@ -1,4 +1,4 @@
-# CKS-MATH-92-2026: Grand Unification v22
+# Grand Unification v22
 
 **Complete ℚ-Substrate Unification via Logismos Base-Partigen**
 

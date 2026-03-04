@@ -1,5 +1,5 @@
 
-# CKS-MATH-29-2026: The Triads of π, e, and φ
+# The Triads of π, e, and φ
 ## Integer Foundations of Transcendental Constants via Hexagonal Registry Mechanics
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,4 +1,4 @@
-# CKS-MATH-63-2026: Grand Unification v13 — The Complete Substrate
+# Grand Unification v13 — The Complete Substrate
 
 
 **Registry:** [@CKS-MATH-92-2026]  

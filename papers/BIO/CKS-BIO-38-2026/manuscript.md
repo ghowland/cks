@@ -1,4 +1,4 @@
-# CKS-BIO-38-2026: Aphantasia as Direct K-Space Access
+# Aphantasia as Direct K-Space Access
 ## The Clean-Pipe Phenomenon: Substrate Visibility Without X-Space Overlay
 
 ------------

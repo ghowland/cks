@@ -1,5 +1,5 @@
 
-# CKS-MATH-72-2026: The Finite Scaffold—Limitations of the Continuous and the Freedoms of ℚ
+# The Finite Scaffold—Limitations of the Continuous and the Freedoms of ℚ
 ## Proving Real Numbers Constitute Deterministic Prison While Rational Substrate Enables Agency, Identity, and Life
 
 

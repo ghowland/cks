@@ -1,4 +1,4 @@
-# CKS-MATH-60-2026: The Riemann Hypothesis Resolution
+# The Riemann Hypothesis Resolution
 ## Bilateral Manifold Proof: Non-Trivial Zeros via S=2 Geometric Necessity and Phase Conservation
 
 

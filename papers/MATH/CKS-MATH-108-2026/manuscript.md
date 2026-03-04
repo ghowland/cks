@@ -1,4 +1,4 @@
-# CKS-MATH-108-2026: The Third Q Paradox and the Settlement of Logismos
+# The Third Q Paradox and the Settlement of Logismos
 
 ## Computational Impossibility of ℝ-Based Physics and Necessity of ℚ-Substrate
 

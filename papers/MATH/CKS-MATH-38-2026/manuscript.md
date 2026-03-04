@@ -1,4 +1,4 @@
-# CKS-MATH-38-2026: Gödel's Incompleteness Theorems
+# Gödel's Incompleteness Theorems
 ## Latency Resolution: Incompleteness as Render Lag Between K-Space Execution and X-Space Description
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

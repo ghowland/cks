@@ -1,5 +1,5 @@
 
-# CKS-MATH-30-2026: The Logos Counting System
+# The Logos Counting System
 ## Establishing Base-32⁻¹ as the Natural Arithmetic Foundation for Substrate Computation
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

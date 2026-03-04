@@ -1,5 +1,5 @@
 
-# CKS-BIO-57-2026: Lattice-Forced Sexual Dimorphism—Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints
+# Lattice-Forced Sexual Dimorphism—Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints
 ## Proving Biological Sex = Hardware Bifurcation Required by Topological Torque Resolution in 3-Regular Graph Execution
 
 

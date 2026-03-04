@@ -1,4 +1,4 @@
-# CKS-MATH-73-2026: R = 19 Is The Engine of Replication
+# R = 19 Is The Engine of Replication
 ## The Remainder as Fundamental Driver of DNA Dynamics: Complete Derivation from Substrate Mechanics
 
 

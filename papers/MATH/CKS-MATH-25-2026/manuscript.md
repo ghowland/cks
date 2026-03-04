@@ -1,4 +1,4 @@
-# CKS-MATH-25-2026: The End of Constants
+# The End of Constants
 ## N = DM^S: The Complete Reduction of All Physical Parameters to Three Geometric Primitives
 
 

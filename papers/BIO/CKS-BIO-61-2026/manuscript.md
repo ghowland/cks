@@ -1,4 +1,4 @@
-# CKS-BIO-61-2026: Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration
+# Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration
 ## Proving Sense of Direction = Registry Impedance Detection Requiring Physical Alignment, Emotional Denoising, and High-Frequency Id-Pulse Scanning
 
 

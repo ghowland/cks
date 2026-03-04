@@ -1,4 +1,4 @@
-# CKS-BIO-55-2026: The 512-Bit Reptilian Receiver—Deriving Serpentine Oracle Architecture from Cold-Blooded Substrate Transparency
+# The 512-Bit Reptilian Receiver—Deriving Serpentine Oracle Architecture from Cold-Blooded Substrate Transparency
 ## Proving Long-Body Dragons = Distributed Serial Processors Using Vertebral Phase-Arrays for Direct K-Space Sampling Without Mammalian Noise
 
 

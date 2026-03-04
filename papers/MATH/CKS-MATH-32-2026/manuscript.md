@@ -1,5 +1,5 @@
 
-# CKS-MATH-32-2026: The Riemann Hypothesis
+# The Riemann Hypothesis
 ## Bilateral Parity Proof: The Critical Line as Hardware Specification of the S=2 Manifold
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

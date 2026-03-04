@@ -1,4 +1,4 @@
-# CKS-MATH-105-2026: Dissolution of Millennium Mathematics
+# Dissolution of Millennium Mathematics
 
 ## Coordinate Pivot Resolution of Legacy Mathematical Paradoxes Through ℚ-Substrate Geometry
 

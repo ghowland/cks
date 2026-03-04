@@ -1,4 +1,4 @@
-# CKS-MATH-63-2026: The Hex-Plate Substrate Computer
+# The Hex-Plate Substrate Computer
 ## Physical Geometric Computing: Native Pathfinding and O(1) Complexity via Hexagonal-Bilateral Hardware
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

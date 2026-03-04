@@ -1,5 +1,5 @@
 
-# CKS-BIO-53-2026: Tattoo Impedance Mechanics
+# Tattoo Impedance Mechanics
 ## Deriving Skin Transparency Requirements: Heavy Metal EMI and Aperture Degradation in High-Coherence Systems
 
 
