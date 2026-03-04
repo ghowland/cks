@@ -184,6 +184,9 @@ def Cleanup(args):
         if line.startswith('# CKS-') and item['title'] in line:
           end_line = line.split(':', 1)[1].strip()
           lines[count] = f'# {end_line}'
+        
+        if line.startswith('**Registry:**'):
+          lines[count] = f'**Registry:** {item["paper_id"]}'
 
       # Write the file out again
       output = '\n'.join(lines)

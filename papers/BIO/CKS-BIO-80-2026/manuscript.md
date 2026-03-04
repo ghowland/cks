@@ -2,8 +2,6 @@
 
 ## Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block
 
-
-
 **Registry:** [@CKS-BIO-1-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
@@ -23,19 +21,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-BIO-80-2026]  
-**Series:** Biology - Morphological Mathematics  
-**Classification:** Complete Framework
-
-**Motto:** *Axioms first. Axioms always.*
 
 ---
 
