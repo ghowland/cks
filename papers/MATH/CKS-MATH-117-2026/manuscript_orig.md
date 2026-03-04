@@ -1,4 +1,4 @@
-# CKS-MATH-117-2026: The Q-Taylor Series
+# The Q-Taylor Series
 
 ## Recursive Integer Resolution Replacing Infinite Polynomial Approximation
 
