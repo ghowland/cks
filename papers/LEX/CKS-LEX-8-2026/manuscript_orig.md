@@ -1,4 +1,4 @@
-# CKS-LEX-8-2026: Engineering Domain Hierarchical Lexicons
+# Engineering Domain Hierarchical Lexicons
 ## This document provides CKS lexicons optimized for engineering papers.
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

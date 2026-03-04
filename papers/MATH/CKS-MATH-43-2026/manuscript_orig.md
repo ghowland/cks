@@ -1,4 +1,4 @@
-# CKS-MATH-43-2026: The Hodge Conjecture
+# The Hodge Conjecture
 ## Holographic Identity Proof: Harmonic Forms Equal Algebraic Cycles via Discrete Substrate Coupling
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

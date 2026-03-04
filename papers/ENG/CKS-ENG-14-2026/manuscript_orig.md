@@ -1,4 +1,4 @@
-# CKS-ENG-14-2026: Sovereign Transmission Lines
+# Sovereign Transmission Lines
 
 ## Topological Transparency in Lex-Gauge Copper and Logos Fiber Architecture
 

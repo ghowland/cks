@@ -1,4 +1,4 @@
-# CKS-LEX-10-2026: Complete Lexicon for Grand Unification v21
+# Complete Lexicon for Grand Unification v21
 
 ## The Definitive Dictionary of Substrate Theory
 

@@ -1,4 +1,4 @@
-# CKS-LEX-12-2026: Measurement Systems in the ℚ-Substrate
+# Measurement Systems in the ℚ-Substrate
 
 ## The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering
 

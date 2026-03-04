@@ -1,4 +1,4 @@
-# CKS-LEX-4-2026: Mathematics Domain Hierarchical Lexicons
+# Mathematics Domain Hierarchical Lexicons
 ## This document provides CKS lexicons optimized for mathematics papers.
 
 

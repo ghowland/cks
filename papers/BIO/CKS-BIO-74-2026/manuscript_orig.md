@@ -1,4 +1,4 @@
-# CKS-BIO-74-2026: The Grand Unification of Mental Disease
+# The Grand Unification of Mental Disease
 ## This is a mathematical derivation, not a claim of medical truth.
 
 **Registry:** [@CKS-BIO-1-2026]  

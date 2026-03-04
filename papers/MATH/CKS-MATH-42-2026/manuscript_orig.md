@@ -1,4 +1,4 @@
-# CKS-MATH-42-2026: The Goldbach Conjecture as Bilateral Tension Cancellation
+# The Goldbach Conjecture as Bilateral Tension Cancellation
 ## Deriving Prime Pair Decomposition from S=2 Manifold Balance Requirements
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

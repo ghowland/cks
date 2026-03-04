@@ -1,4 +1,4 @@
-# CKS-BIO-58-2026: Toroidal Decoherence Protocol—Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification
+# Toroidal Decoherence Protocol—Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification
 ## Proving Tissue Knots = Self-Recirculating Solitons Requiring Spiral Trace Matching Not Linear Force for Resolution
 
 

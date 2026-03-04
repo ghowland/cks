@@ -1,5 +1,5 @@
 
-# CKS-MATH-27-2026: E = mc^S
+# E = mc^S
 ## The Bilateral Handshake: Deriving Mass-Energy Equivalence from Manifold Topology
 
 

@@ -1,4 +1,4 @@
-# CKS-PHYS-4-2026: The Origin of Work and Energy as 32-Tick Remainder Accumulation
+# The Origin of Work and Energy as 32-Tick Remainder Accumulation
 ## Deriving Force, Inertia, and Kinetic Energy from Discrete 1-LU Pressure Packets in Integer Registry
 
 

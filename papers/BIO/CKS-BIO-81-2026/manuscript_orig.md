@@ -1,4 +1,4 @@
-# CKS-BIO-81-2026: Murmuration and Collective Solitons
+# Murmuration and Collective Solitons
 
 ## Multi-Entity Phase-Lock and Emergent Sovereignty in Coordinated Biological Systems
 

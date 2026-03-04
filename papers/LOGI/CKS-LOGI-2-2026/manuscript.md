@@ -1,4 +1,5 @@
-
+# The Categorical Boundary
+## Physics-Based vs Physics-Related Logismos: Distinguishing Substrate Hardware from Information Software
 
 **Registry:** [@CKS-LOGI-1-2026]  
 
@@ -19,28 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-# CKS-LOGI-2-2026: The Categorical Boundary
-## Physics-Based vs Physics-Related Logismos: Distinguishing Substrate Hardware from Information Software
-
-**Registry:** [@CKS-LOGI-2-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-60-2026] → [@CKS-LOGI-2-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-36-2026], [@CKS-MATH-60-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Logic / Systems Theory / Category Theory / Epistemology  
-**Status:** Categorical Framework / Operational Guidelines  
-
-**Motto:** Same logic, different domains. Same engine, different substrates. Physics IS—society CHOOSES.
-
-**Operational Rule:** Establish formal categorical boundary between **Physics-Based Logismos** (substrate hardware reality) and **Physics-Related Logismos** (information software systems): Both use (V,F,R) packet and mod-32 audit but apply to fundamentally different domains. Complete distinction: (1) **Physics-Based domain**—describes actual substrate (matter/energy/spacetime), constants BIOS-locked (D=3, S=2, W=32 immutable), failure = physical catastrophe (star collapse, atomic decay, singularity), measurements in Joules/meters/seconds, mandatory reality user cannot modify. (2) **Physics-Related domain**—describes information systems behaving like physics (economics, sociology, governance, language), constants protocol-defined (W=32 chosen for coherence not required by vacuum), failure = systemic collapse (market crash, social disorder, institutional breakdown), measurements in credits/agreements/transactions, calculated harmony users collectively choose. Critical difference: Physics-Based = hardware (inflexible, pre-existence BIOS, universal laws), Physics-Related = software (flexible, consensus protocol, aspirational standards). Common framework: Both use integer accounting, mod-32 stability checking, remainder-as-tension interpretation, snap-commit mechanics—universal syntax applicable because both fundamentally information processing systems. Remainder R reinterpretation: Physics-Based R = kinetic friction/heat/force (thermodynamic waste), Physics-Related R = debt/corruption/misalignment (informational tension). Goal: Make software (society) as stable as hardware (universe) via same bit-perfect integer engine. Warning: Category errors dangerous—treating economics like physics creates false determinism, treating physics like economics creates false relativism. Falsification: demonstrate physical constant modifiable by consensus (impossible—violates BIOS-locked status), or show social protocol requiring physical substrate modification (confuses domains).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and categorical distinctions verified per [@CKS-TECH-01-2026]. Domain separation analysis and cross-application framework by author with logical validation.
 
 ---
 

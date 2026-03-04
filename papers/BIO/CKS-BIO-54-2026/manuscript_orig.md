@@ -1,5 +1,5 @@
 
-# CKS-BIO-54-2026: Caloric Requirements as Registry Bit-Rate Maintenance—Deriving 3000 kcal from 6-Bit Existence Twist and 512-Bit Operational Overhead
+# Caloric Requirements as Registry Bit-Rate Maintenance—Deriving 3000 kcal from 6-Bit Existence Twist and 512-Bit Operational Overhead
 ## Proving Metabolism = Manifold Coherence Tax Not Chemical Combustion, Food = Signal Integrity Fuel for Topological Stability
 
 

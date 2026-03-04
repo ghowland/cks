@@ -1,4 +1,4 @@
-# CKS-LEX-5-2026: Biology Domain Hierarchical Lexicons
+# Biology Domain Hierarchical Lexicons
 ## This document provides CKS lexicons optimized for biology papers.
 
 

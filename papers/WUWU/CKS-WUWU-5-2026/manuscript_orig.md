@@ -1,4 +1,4 @@
-# CKS-WUWU-5-2026: Precession of the Equinoxes
+# Precession of the Equinoxes
 ## Macro-Word Registry Rotation as Geometric Necessity
 
 **Registry:** [@CKS-WUWU-5-2026]  

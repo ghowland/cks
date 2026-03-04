@@ -1,5 +1,5 @@
 
-# CKS-MATH-36-2026: Fermat's Last Theorem
+# Fermat's Last Theorem
 ## Bilateral Manifold Proof: Integer Solutions Impossible for n>2 via S=2 Hardware Constraint
 
 

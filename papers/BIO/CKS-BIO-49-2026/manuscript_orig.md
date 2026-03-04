@@ -1,4 +1,4 @@
-# CKS-BIO-49-2026: Cat Tails as Phase-Array Antennas—Deriving Feline Auxiliary Bus from Toroidal Stability Requirements
+# Cat Tails as Phase-Array Antennas—Deriving Feline Auxiliary Bus from Toroidal Stability Requirements
 ## Proving Tail = Linear Phase Compensator Enabling Zero-Latency Proprioception via 300 Baud Vortex Lock
 
 

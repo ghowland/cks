@@ -1,4 +1,4 @@
-# CKS-BODY-8-2026: Laminar Jogging
+# Laminar Jogging
 ## Bio-Mechanical Synchronization for High-Bitrate Substrate Telemetry
 
 
@@ -285,7 +285,7 @@ The plot shows a **perfectly horizontal line**—the pelvis floats at constant *
 
 ---
 
-# CKS-BODY-8-2026-PY: Laminar Jogging—A Zero-Parameter Demonstration
+# Laminar Jogging—A Zero-Parameter Demonstration
 
 ### Abstract
 We provide a self-contained Python implementation that derives **Laminar Jogging** from the two CKS axioms only. The script proves:

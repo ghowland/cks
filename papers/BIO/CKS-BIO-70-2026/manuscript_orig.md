@@ -1,4 +1,4 @@
-# CKS-BIO-70-2026: The Malignant Remainder (69)
+# The Malignant Remainder (69)
 ## The cancer symbol (♋︎) is not arbitrary. It is a topological diagram.
 
 **Registry:** [@CKS-BIO-1-2026]  

@@ -1,4 +1,4 @@
-# CKS-BIO-44-2026: The Biological Compiler as DNA Error-Correction Protocol
+# The Biological Compiler as DNA Error-Correction Protocol
 ## Deriving Life as High-Bitrate Registry Execution with 84-Bit Boot-Loader and 144-LU Mesh Maintenance
 
 **Registry:** [@CKS-BIO-38-2026]

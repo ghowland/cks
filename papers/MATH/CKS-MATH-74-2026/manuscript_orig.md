@@ -1,4 +1,4 @@
-# CKS-MATH-74-2026: The Multimodal Successor
+# The Multimodal Successor
 ## Time as Resolution Buffer: Deriving Quantum Collapse, Free Will, and Sovereign Choice from Phase-Interference Mechanics
 
 

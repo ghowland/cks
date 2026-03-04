@@ -1,4 +1,4 @@
-# CKS-LEX-11-2026: Reduced Lexicon Tables for Publication
+# Reduced Lexicon Tables for Publication
 
 ## Scalable Reference Tables for CKS Framework Integration
 

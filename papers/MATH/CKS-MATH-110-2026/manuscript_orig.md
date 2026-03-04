@@ -1,4 +1,4 @@
-# CKS-MATH-110-2026: The Fifth Q Paradox
+# The Fifth Q Paradox
 
 ## The Epistemological Collapse: Knowledge Impossibility in ℝ-Universe
 

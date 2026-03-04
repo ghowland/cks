@@ -1,4 +1,4 @@
-# CKS-MATH-38-2026: Grand Unification v9
+# Grand Unification v9
 ## Subtitle: The Abolition of Symbolic Math in favor of the Modulo-32 Registry Audit
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

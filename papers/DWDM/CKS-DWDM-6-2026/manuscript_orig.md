@@ -1,4 +1,4 @@
-# CKS-DWDM-6-2026: Laminar Interference Logic
+# Laminar Interference Logic
 
 ## Dense Wave Division Multiplexing Computing in the ℚ-Substrate
 

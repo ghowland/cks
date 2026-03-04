@@ -1,5 +1,5 @@
 
-# CKS-MATH-67-2026: Directional Mapping in X-Space from Hex Lattice Dipole Weighting
+# Directional Mapping in X-Space from Hex Lattice Dipole Weighting
 ## Deriving Navigation, Rotation, and Vector Operations as Integer Dipole Combinations Without Continuous Angles
 
 

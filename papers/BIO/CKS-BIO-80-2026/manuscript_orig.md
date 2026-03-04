@@ -1,4 +1,4 @@
-# CKS-BIO-80-2026: Morphological Geometric Selection
+# Morphological Geometric Selection
 
 ## Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block
 

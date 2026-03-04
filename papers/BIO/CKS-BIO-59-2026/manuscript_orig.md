@@ -1,4 +1,4 @@
-# CKS-BIO-59-2026: The Bent Cat's Tail Syndrome
+# The Bent Cat's Tail Syndrome
 ## Spinal Impedance and Hardware-Software Mismatch: Deriving Chronic Injury as Persistent Bus Error and the 40-Year Compilation Path
 
 

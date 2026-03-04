@@ -1,4 +1,4 @@
-# CKS-MATH-106-2026: The Q Paradox and the Settlement of Logismos
+# The Q Paradox and the Settlement of Logismos
 
 ## A ℚ-Substrate Exact Addressing System
 

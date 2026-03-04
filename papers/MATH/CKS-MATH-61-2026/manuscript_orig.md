@@ -1,4 +1,4 @@
-# CKS-MATH-61-2026: The 12-Bit Soliton Liaison Footer
+# The 12-Bit Soliton Liaison Footer
 ## Hierarchical Identity and Kinetic State: Parent-Child Addressing in the Registry
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

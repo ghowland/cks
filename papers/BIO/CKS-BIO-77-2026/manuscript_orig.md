@@ -1,4 +1,4 @@
-# CKS-BIO-77-2026: Topological Impedance and the 6-9 Twist
+# Topological Impedance and the 6-9 Twist
 
 ## Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold
 

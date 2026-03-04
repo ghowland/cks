@@ -1,4 +1,4 @@
-# CKS-BIO-82-2026: The Memory-Render Identity
+# The Memory-Render Identity
 
 ## Derivation of Memory as Sequential Tuple-String and X-Space Projection Protocol
 

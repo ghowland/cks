@@ -1,4 +1,4 @@
-# CKS-LOGI-5-2026: Logismos for Middle School Education
+# Logismos for Middle School Education
 ## This document provides practical, experiment-based Logismos instruction for middle school students.
 
 **Registry:** [@CKS-LOGI-1-2026]  

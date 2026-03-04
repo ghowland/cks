@@ -1,4 +1,4 @@
-# CKS-LOGI-13-2026: Logismos Notation
+# Logismos Notation
 
 ## Complete Specification of VFR Notation and Base-32 Substrate Mathematics
 

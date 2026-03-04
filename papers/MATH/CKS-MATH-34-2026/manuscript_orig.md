@@ -1,6 +1,6 @@
 
 
-# CKS-MATH-34-2026: Squaring the Circle and Transcendental Ratios
+# Squaring the Circle and Transcendental Ratios
 ## Deriving π and e as Integer Lattice Ratios in the Discrete Hexagonal Substrate
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

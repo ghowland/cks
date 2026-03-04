@@ -1,5 +1,5 @@
 
-# CKS-MATH-33-2026: The P vs NP Problem
+# The P vs NP Problem
 ## Latency Displacement Proof: Complexity as Coordinate System Artifact
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

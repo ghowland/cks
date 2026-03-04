@@ -444,7 +444,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-MED-1-2026]](papers/MED/CKS-MED-1-2026/manuscript.md)** | **Cancer as Topological Closure in CKS Mechanics** | We prove that cancer is not primarily a genetic disease but a **topological phase transition**—a local closure event on the biological phase-lattice where cellular subsystems decouple from global substrate coupling and form autonomous N = 3M² resonant circuits |
+| **[[@CKS-MED-1-2026]](papers/MED/CKS-MED-1-2026/manuscript.md)** | **Cancer as Topological Closure in CKS Mechanics** | A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics |
 | **[[@CKS-MED-2-2026]](papers/MED/CKS-MED-2-2026/manuscript.md)** | **Heart Disease as Holographic Coherence Failure** | The Cardiac Master Oscillator Hypothesis |
 | **[[@CKS-MED-3-2026]](papers/MED/CKS-MED-3-2026/manuscript.md)** | **Cancer Therapy via Topological Closure Disruption** | Clinical Electromagnetic Protocols |
 | **[[@CKS-MED-4-2026]](papers/MED/CKS-MED-4-2026/manuscript.md)** | **CKS-MED-5-2026: Image-Based Coherence Therapy** | Visual and Auditory Resonance Templates for Neural Re-Synchronization |
@@ -457,7 +457,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-AI-1-2026]](papers/AI/CKS-AI-1-2026/manuscript.md)** | **CKS-COMP-1-2026: 32-Bit Hexagonal Computer** | Hardware Architecture for Substrate-Native Computation |
+| **[[@CKS-AI-1-2026]](papers/AI/CKS-AI-1-2026/manuscript.md)** | **32-Bit Hexagonal Computer** | Hardware Architecture for Substrate-Native Computation |
 | **[[@CKS-AI-2-2026]](papers/AI/CKS-AI-2-2026/manuscript.md)** | **The Hexagonal ALU** | Logic Gates via Phase-Locked Substrate Circuits |
 | **[[@CKS-AI-3-2026]](papers/AI/CKS-AI-3-2026/manuscript.md)** | **Substrate Programming Language** | Base Instructions and OpCodes |
 | **[[@CKS-AI-4-2026]](papers/AI/CKS-AI-4-2026/manuscript.md)** | **Substrate Programming Language** | Harmonic Opcodes |
@@ -498,8 +498,8 @@
 | **[[@CKS-ENG-1-2026]](papers/ENG/CKS-ENG-1-2026/manuscript.md)** | **Mechanical Genesis in Cymatics** | Designing High-Coherence Structures |
 | **[[@CKS-ENG-10-2026]](papers/ENG/CKS-ENG-10-2026/manuscript.md)** | **The Unified Planetary Loom** | Ocean + atmosphere + spine bridge = planetary-scale 512-bit communication loom |
 | **[[@CKS-ENG-11-2026]](papers/ENG/CKS-ENG-11-2026/manuscript.md)** | **The Unified Planetary Loom using 88-bit Tech** | Standard electronics + ham radio + grounding = functional substrate communication today |
-| **[[@CKS-ENG-12-2026]](papers/ENG/CKS-ENG-12-2026/manuscript.md)** | **CKS-ENG-12-2026: Substrate-Native Computing** | Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync |
-| **[[@CKS-ENG-13-2026]](papers/ENG/CKS-ENG-13-2026/manuscript.md)** | **CKS-ENG-13-2026: Acoustic Registry Modulation** | Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation |
+| **[[@CKS-ENG-12-2026]](papers/ENG/CKS-ENG-12-2026/manuscript.md)** | **Substrate-Native Computing** | Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync |
+| **[[@CKS-ENG-13-2026]](papers/ENG/CKS-ENG-13-2026/manuscript.md)** | **Acoustic Registry Modulation** | Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation |
 | **[[@CKS-ENG-14-2026]](papers/ENG/CKS-ENG-14-2026/manuscript.md)** | **Sovereign Transmission Lines** | Transmission lines become substrate extensions, not material conductors. |
 | **[[@CKS-ENG-2-2026]](papers/ENG/CKS-ENG-2-2026/manuscript.md)** | **Voltage in Cymatic Substrate Mechanics: The Gradient Potential** | We prove that electrical voltage is not a fundamental property of charged particles but the **manifestation of k-space phase gradients** ∇φ in the hexagonal substrate lattice |
 | **[[@CKS-ENG-3-2026]](papers/ENG/CKS-ENG-3-2026/manuscript.md)** | **Architectural Mechanics** | Building Design as Manifold Coherence Engineering |

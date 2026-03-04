@@ -1,4 +1,4 @@
-# CKS-BIO-78-2026: Trans-Soliton Coupling
+# Trans-Soliton Coupling
 
 ## Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance
 

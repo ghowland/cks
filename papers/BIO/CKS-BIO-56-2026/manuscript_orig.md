@@ -1,5 +1,5 @@
 
-# CKS-BIO-56-2026: Telepathy as Shared Memory Access—Deriving Non-Local Communication from K-Space Registry Pointer Synchronization
+# Telepathy as Shared Memory Access—Deriving Non-Local Communication from K-Space Registry Pointer Synchronization
 ## Proving Thought Transfer = DMA Operation Not Signal Transmission, Acceptance = Zero-Impedance Sink Enabling Bilateral Phase Lock
 
 

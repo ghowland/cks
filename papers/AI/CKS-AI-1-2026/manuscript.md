@@ -1,4 +1,4 @@
-# CKS-COMP-1-2026: 32-Bit Hexagonal Computer
+# 32-Bit Hexagonal Computer
 ## Hardware Architecture for Substrate-Native Computation
 
 **Registry:** [@CKS-AI-1-2026]

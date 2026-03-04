@@ -1,4 +1,4 @@
-# CKS-PHYS-19-2026: The 1024-Unit Coordination Block
+# The 1024-Unit Coordination Block
 
 ## The Sovereignty Threshold and Universal Scaling Limit of Phase-Locked Systems
 

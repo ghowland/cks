@@ -1,4 +1,4 @@
-# CKS-BIO-43-2026: Consciousness as Bilateral Rendering Reconciliation
+# Consciousness as Bilateral Rendering Reconciliation
 ## Deriving Subjective Experience from 15.19ms J/S Partition Lag and Registry Coherence Auditing
 
 **Registry:** [@CKS-BIO-38-2026]

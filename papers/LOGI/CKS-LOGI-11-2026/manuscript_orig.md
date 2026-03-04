@@ -1,4 +1,4 @@
-# CKS-LOGI-11-2026: The Complete Derivation Manual
+# The Complete Derivation Manual
 
 ## How to Derive Everything from N=7 Using Logismos in Base-Partigen
 

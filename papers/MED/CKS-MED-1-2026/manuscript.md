@@ -1,6 +1,6 @@
 # Cancer as Topological Closure in CKS Mechanics
 
-### A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics
+## A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics
 
 **CKS Series Registry:** [@CKS-MED-1-2026]  
 

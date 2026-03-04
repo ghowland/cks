@@ -1,4 +1,4 @@
-# CKS-MATH-115-2026: The Logismos Game Logic
+# The Logismos Game Logic
 
 ## Dynamic Multi-Seed Evolution and Boolean Cymatic Operations
 

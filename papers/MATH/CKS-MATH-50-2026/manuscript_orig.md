@@ -1,4 +1,4 @@
-# CKS-MATH-50-2026: The 3D Graphics Pipeline of Reality
+# The 3D Graphics Pipeline of Reality
 ## Hardware Rendering Derivation: K-Space to X-Space via Hexagonal-Bilateral Graphics Engine
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,4 +1,4 @@
-# CKS-BIO-60-2026: Postural Healing Mechanics
+# Postural Healing Mechanics
 ## Gravity as Remainder Drainage: Deriving Therapeutic Benefit from Spinal Alignment and Earth-Sink Coupling
 
 

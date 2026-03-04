@@ -1,4 +1,4 @@
-# CKS-MATH-58-2026: Navier-Stokes Existence and Smoothness via Buffer Saturation
+# Navier-Stokes Existence and Smoothness via Buffer Saturation
 ## Proving Global Solutions through 144-LU UV Cutoff and Discrete Packet Flow in Hexagonal Registry
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

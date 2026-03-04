@@ -1,4 +1,4 @@
-# CKS-LEX-2-2026: Hierarchical Lexicons for Every Count Limitation
+# Hierarchical Lexicons for Every Count Limitation
 ## Based on Grand Unification v19
 
 

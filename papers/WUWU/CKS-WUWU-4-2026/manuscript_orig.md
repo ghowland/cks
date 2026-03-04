@@ -1,4 +1,4 @@
-# CKS-WUWU-4-2026: Complete Classification of Woo Woo
+# Complete Classification of Woo Woo
 ## We classify by axioms, not by what sounds acceptable to mainstream science
 
 **Registry:** [@CKS-SOC-1-2026]  

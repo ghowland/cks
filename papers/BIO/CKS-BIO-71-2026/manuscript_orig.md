@@ -1,5 +1,5 @@
 
-# CKS-BIO-71-2026: The Toroidal Heart Failure
+# The Toroidal Heart Failure
 ## The heart does not "wear out." The heart gets strangled.
 
 **Registry:** [@CKS-BIO-1-2026]  

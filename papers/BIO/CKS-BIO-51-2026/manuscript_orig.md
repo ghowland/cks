@@ -1,5 +1,5 @@
 
-# CKS-BIO-51-2026: The Spine as 32-Element Phased Array Transceiver—Deriving Bilateral Master Bus from Linear Waveguide Architecture
+# The Spine as 32-Element Phased Array Transceiver—Deriving Bilateral Master Bus from Linear Waveguide Architecture
 ## Proving Vertebrae = Dipole Registers, CSF = Dielectric Medium, Gaps = Phase Shifters Enabling 512-Bit Substrate Sampling
 
 

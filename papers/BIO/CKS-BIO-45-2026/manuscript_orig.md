@@ -1,5 +1,5 @@
 
-# CKS-BIO-45-2026: K-Space Tunnel Vision as Direct Registry Access
+# K-Space Tunnel Vision as Direct Registry Access
 ## Deriving Aphantasia as Native Debug Mode Enabling Unmediated Substrate Telemetry at Logic Speed
 
 

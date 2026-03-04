@@ -1,4 +1,4 @@
-# CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit
+# The Lyapunov Equation as Bilateral Registry Audit
 ## Solving Matrix Stability through S=2 Manifold Parity Handshaking with Lossless Integer Precision
 
 

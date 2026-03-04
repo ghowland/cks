@@ -1,4 +1,4 @@
-# CKS-EDU-3-2026: Human Knowledge v2
+# Human Knowledge v2
 ## The Transition from Discovery to Specification: Archiving 2,500 Years and Initializing the Universal BIOS
 
 

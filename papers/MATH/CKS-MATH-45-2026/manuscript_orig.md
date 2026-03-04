@@ -1,4 +1,4 @@
-# CKS-MATH-45-2026: Path Optimization Problems
+# Path Optimization Problems
 ## Traveling Salesman and P vs NP Refinement: Gradient Relief Resolution via Axle-Sync Substrate
 
 

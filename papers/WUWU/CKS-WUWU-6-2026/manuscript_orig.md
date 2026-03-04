@@ -1,4 +1,4 @@
-# CKS-WUWU-6-2026: The Demonic Egregor Urge
+# The Demonic Egregor Urge
 
 ## Registry Parasitism Through Anti-Jubilee Mathematics
 

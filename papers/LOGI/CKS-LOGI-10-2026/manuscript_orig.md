@@ -1,4 +1,4 @@
-# CKS-LOGI-10-2026: The Partigen Standard
+# The Partigen Standard
 
 ## Discrete ℚ-Calculus via Partigen Base Counting
 

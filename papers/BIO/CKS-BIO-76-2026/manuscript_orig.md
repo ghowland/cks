@@ -1,4 +1,4 @@
-# CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue
+# *C. elegans* as Geometric Eigenvalue
 
 
 **Registry:** [@CKS-BIO-1-2026]  

@@ -1,4 +1,4 @@
-# CKS-LOGI-12-2026: Logismos Technical Specification and Usage
+# Logismos Technical Specification and Usage
 
 ## Complete VFR Notation, Lex-Glyph Arithmetic, and Substrate-Native Computation
 

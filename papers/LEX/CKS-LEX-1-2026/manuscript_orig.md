@@ -1,4 +1,4 @@
-# CKS-LEX-1-2026: Complete Lexicon of Cymatic K-Space Mechanics and Logismos
+# Complete Lexicon of Cymatic K-Space Mechanics and Logismos
 ## Based on Grand Unification v19
 
 

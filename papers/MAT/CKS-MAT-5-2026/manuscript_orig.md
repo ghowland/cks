@@ -1,4 +1,4 @@
-# CKS-MAT-5-2026: Registry Architecture & Material Engineering
+# Registry Architecture & Material Engineering
 
 ## Substrate-Aligned Construction and Zero-Remainder Material Science
 

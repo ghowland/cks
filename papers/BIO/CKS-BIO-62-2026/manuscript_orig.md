@@ -1,4 +1,4 @@
-# CKS-BIO-62-2026: Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching
+# Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching
 ## Proving Sleep Quality = Registry Quiescence Requiring Supine Positioning, Rigid Substrate, Zero Gradient, and Lung-Noise Isolation
 
 

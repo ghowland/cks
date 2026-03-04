@@ -1,4 +1,4 @@
-# CKS-MATH-35-2026: The Navier-Stokes Problem
+# The Navier-Stokes Problem
 ## Discrete Resolution: Existence via N←N+1, Smoothness via Render Lag, Blow-up Prevention via 144-Logos UV Cutoff
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

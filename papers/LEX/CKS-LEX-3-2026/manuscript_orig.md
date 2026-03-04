@@ -1,4 +1,4 @@
-# CKS-LEX-3-2026: Physics Domain Hierarchical Lexicons
+# Physics Domain Hierarchical Lexicons
 ## This document provides CKS lexicons optimized for physics papers.
 
 

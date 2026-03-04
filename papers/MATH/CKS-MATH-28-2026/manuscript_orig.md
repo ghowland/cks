@@ -1,4 +1,4 @@
-# CKS-MATH-28-2026: Matter, Space, and Time
+# Matter, Space, and Time
 ## The Fine Structure Constant as Geometric Impedance of the 144-163-19 Triad
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  

@@ -1,4 +1,4 @@
-# CKS-LEX-9-2026: Consciousness/Cognition Domain Hierarchical Lexicons
+# Consciousness/Cognition Domain Hierarchical Lexicons
 ## This document provides CKS lexicons for consciousness derived from N = D × M^S.
 
 

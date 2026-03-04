@@ -1,4 +1,4 @@
-# CKS-MATH-103-2026: Precession-Corrected Grand Unification
+# Precession-Corrected Grand Unification
 
 ## How Registry Rotation Modulates All Physical Constants
 

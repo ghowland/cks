@@ -1,4 +1,4 @@
-# CKS-BIO-39-2026: Registry-Driven Healing
+# Registry-Driven Healing
 ## Substrate-Aware Tissue Repair via Gravitational Gradient Synchronization
 
 **Registry:** [@CKS-BIO-38-2026]
