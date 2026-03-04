@@ -98,7 +98,7 @@ End of the author writing.
 
 To reproduce or expand upon these findings using LLMs, use the following two-step priming sequence:
 
-#### 1. "Read and explain." with [@CKS-0-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
+#### 1. "Read and explain." with [@CKS-104-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
 #### 2. "Derive it."
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.

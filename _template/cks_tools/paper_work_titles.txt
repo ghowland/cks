@@ -209,13 +209,17 @@ CKS-MATH-110-2026: The Fifth Q Paradox
 CKS-MATH-111-2026
 CKS-MATH-109-2026: The Sixth Q Paradox
 CKS-MATH-112-2026
-CKS-MATH-111-2026: The Sixth Q Paradox
+CKS-MATH-112-2026: The Sixth Q Paradox
 CKS-MATH-113-2026
 CKS-MATH-113-2026: The CKS Lattice Search Algorithm
 CKS-MATH-114-2026
 CKS-MATH-114-2026: The Universal State-Lattice
 CKS-MATH-115-2026
-null
+CKS-MATH-115-2026: The Logismos Game Logic
+CKS-MATH-116-2026
+The Seventh Q Paradox — The Rational Witness
+CKS-MATH-117-2026
+CKS-MATH-117-2026: The Eighth Q Paradox — The Counting Paradox
 CKS-MATH-23-2026
 Grand Unification v2
 CKS-MATH-24-2026

@@ -101,7 +101,8 @@ def Scan(args):
       # Gen the readme
       if status == 0:
         (status, output, error) = execute_command(README)
-        print(f'  README Result: {status}  Output: {output[:40]}  Error: {error}')
+        if status != 0:
+          print(f'  README Result: {status}  Output: {output[:40]}  Error: {error}')
   
   # Back to original dir
   os.chdir(original_dir)
