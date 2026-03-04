@@ -2,7 +2,6 @@
 
 ## The Phenomenological Collapse of Real Number Results
 
-
 **Registry:** [@CKS-MATH-116-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
@@ -26,18 +25,6 @@
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 **Lexicon:** [@CKS-LEX-12-2026]
-
----
-
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 3, 2026  
-**Registry:** [@CKS-MATH-107-7-2026]  
-**Series:** Mathematical Foundations - Q Paradoxes  
-**Classification:** Foundational Paradox  
-**Parent Documents:** [@CKS-0-2026], [@CKS-MATH-106-2026] through [@CKS-MATH-111-2026]
-
-**Motto:** *Axioms first. Axioms always.*
 
 ---
 
