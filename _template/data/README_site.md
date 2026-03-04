@@ -19,7 +19,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-{% for paper in topic.papers %}| **[[@{{paper.paper_id}}]](papers/{{paper.subject}}/{{paper.paper_id}}/)** | **{{paper.title}}** | {{paper.key_result}} |
+{% for paper in topic.papers %}| **[[@{{paper.paper_id}}]](papers/{{paper.subject}}/{{paper.paper_id}}/manuscript.md)** | **{{paper.title}}** | {{paper.key_result}} |
 {% endfor %}
 
 ---
