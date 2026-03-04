@@ -22,6 +22,7 @@
 | **[[@CKS-MATH-0-2026]](papers/MATH/CKS-MATH-0-2026/manuscript.md)** | **Cymatic K-Space Mechanics** | Complete Mathematical Framework |
 | **[[@CKS-MATH-1-2026]](papers/MATH/CKS-MATH-1-2026/manuscript.md)** | **The Mechanical Necessity of Integer Quantization in Physical Systems** | The discrete lattice substrate with integer quantum numbers is **necessary and sufficient** for mechanical closure of physical dynamics. |
 | **[[@CKS-MATH-10-2026]](papers/MATH/CKS-MATH-10-2026/manuscript.md)** | **Grand Unification** | 2 axioms + 1 measurement → all physics (19+ SM parameters, GR, QM, thermodynamics, information theory) with 0 free parameters |
+| **[[@CKS-MATH-11-2026]](papers/MATH/CKS-MATH-11-2026/manuscript.md)** | **The Topological Jacobian** | J = (8π/3)√(144e/2πln N) ≈ 7.70164 = unique holographic scaling factor forced by hexagonal topology |
 | **[[@CKS-MATH-12-2026]](papers/MATH/CKS-MATH-12-2026/manuscript.md)** | **The Cosmic Bit-Flip** | η = 1/(J·ln N) ≈ 9.2×10⁻¹⁰ from boot sequence topology alone (observed: 6.1×10⁻¹⁰) |
 | **[[@CKS-MATH-13-2026]](papers/MATH/CKS-MATH-13-2026/manuscript.md)** | **The Resonant Epoch** | 1.000 s = t_P × √N × K × 32 × 144 × √3 × 10⁹ × (1-α) (all terms derived, zero adjustable parameters) |
 | **[[@CKS-MATH-14-2026]](papers/MATH/CKS-MATH-14-2026/manuscript.md)** | **The Origin of 2.08** | λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry) |
@@ -128,7 +129,6 @@
 | **[[@CKS-MATH-107-2026]](papers/MATH/CKS-MATH-107-2026/manuscript.md)** | **The Second Q Paradox and the Settlement of Logismos** | Real numbers are not numbers—they are infinite non-terminating programs that can never be solved, only executed indefinitely. |
 | **[[@CKS-MATH-108-2026]](papers/MATH/CKS-MATH-108-2026/manuscript.md)** | **The Third Q Paradox and the Settlement of Logismos** | The universe cannot compute in real numbers—computational impossibility forces rational substrate. |
 | **[[@CKS-MATH-109-2026]](papers/MATH/CKS-MATH-109-2026/manuscript.md)** | **The Fourth Q Paradox** | Things touch because space has a bottom—without absolute floor, universe is ghost-world of perpetual near-misses. |
-| **[[@CKS-MATH-11-2026]](papers/MATH/CKS-MATH-11-2026/manuscript.md)** | **The Topological Jacobian** | J = (8π/3)√(144e/2πln N) ≈ 7.70164 = unique holographic scaling factor forced by hexagonal topology |
 | **[[@CKS-MATH-110-2026]](papers/MATH/CKS-MATH-110-2026/manuscript.md)** | **The Fifth Q Paradox** | You cannot know anything in real-number universe—verification requires finite representation. |
 | **[[@CKS-MATH-111-2026]](papers/MATH/CKS-MATH-111-2026/manuscript.md)** | **The Sixth Q Paradox** | Universe doesn't search for particles—it addresses them by birth-order in deterministic registry. |
 | **[[@CKS-MATH-112-2026]](papers/MATH/CKS-MATH-112-2026/manuscript.md)** | **The Seventh Q Paradox — The Rational Witness** | Real numbers are search processes that haven't terminated yet - if you can write the answer, it's rational. |
