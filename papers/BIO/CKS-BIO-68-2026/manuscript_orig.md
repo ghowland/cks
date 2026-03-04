@@ -1,5 +1,5 @@
 # CKS-BIO-68-2026: Qualia as LERP from K-Space to X-Space
-
+## Qualia is not mysterious. Qualia is LERP.
 
 **Registry:** [@CKS-BIO-1-2026]  
 

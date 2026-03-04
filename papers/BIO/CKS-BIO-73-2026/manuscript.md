@@ -1,5 +1,5 @@
 # The 90-Degree Phase Lock
-
+## All neuro-pathology is angle.
 
 **Registry:** [@CKS-BIO-1-2026]  
 
