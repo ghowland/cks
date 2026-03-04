@@ -31,7 +31,7 @@
 
 ## ABSTRACT
 
-We implement production-grade graphics and physics pipeline exploiting domain-specific VFR factor standardization, achieving maximum SIMD efficiency through homogeneous arithmetic and eliminating runtime allocation via fixed arrays. Building on exact pipeline architecture (COMP-119) and computational optimization patterns (MATH-120), we prove: (1) **Domain factorization** - five natural computational domains (Transform F=1, UV F=256, Physics F=1000, Skinning F=32, Particles F=1) enable uniform-factor operations within each domain, (2) **Sparse defaults** - VFR structure with {v:0, f:1, r:0} defaults eliminates redundant field specification in 73% of instantiations, (3) **Fixed allocation** - pre-allocated arrays with count-based iteration achieve zero-allocation operation and perfect cache prediction, (4) **SIMD homogeneity** - uniform factors enable 8-wide AVX-512 vectorization with 94% efficiency across entire domains, (5) **Boundary conversion** - domain transitions occur at singular well-defined points outside tight loops eliminating per-operation overhead, (6) **Structure-of-arrays** - separated component storage enables optimal SIMD memory access patterns, (7) **Implicit denominators** - domain-standardized factors remove F from hot-path comparisons reducing operations by 31%. Complete reimplementation achieving 7.2× speedup over COMP-119 baseline and 1.48× over MATH-120 generic optimization through domain specialization. Traditional engines sacrifice exactness for performance. Optimized Logismos achieves both through mathematical domain structure.
+We implement production-grade graphics and physics pipeline exploiting domain-specific VFR factor standardization, achieving maximum SIMD efficiency through homogeneous arithmetic and eliminating runtime allocation via fixed arrays. Building on exact pipeline architecture (MATH-120) and computational optimization patterns (MATH-120), we prove: (1) **Domain factorization** - five natural computational domains (Transform F=1, UV F=256, Physics F=1000, Skinning F=32, Particles F=1) enable uniform-factor operations within each domain, (2) **Sparse defaults** - VFR structure with {v:0, f:1, r:0} defaults eliminates redundant field specification in 73% of instantiations, (3) **Fixed allocation** - pre-allocated arrays with count-based iteration achieve zero-allocation operation and perfect cache prediction, (4) **SIMD homogeneity** - uniform factors enable 8-wide AVX-512 vectorization with 94% efficiency across entire domains, (5) **Boundary conversion** - domain transitions occur at singular well-defined points outside tight loops eliminating per-operation overhead, (6) **Structure-of-arrays** - separated component storage enables optimal SIMD memory access patterns, (7) **Implicit denominators** - domain-standardized factors remove F from hot-path comparisons reducing operations by 31%. Complete reimplementation achieving 7.2× speedup over MATH-120 baseline and 1.48× over MATH-120 generic optimization through domain specialization. Traditional engines sacrifice exactness for performance. Optimized Logismos achieves both through mathematical domain structure.
 
 **Revolutionary claim:** Domain-aware exact arithmetic outperforms generic optimization by 1.48× through factor homogeneity - specialization enables ultimate performance without correctness sacrifice.
 
@@ -44,7 +44,7 @@ We implement production-grade graphics and physics pipeline exploiting domain-sp
 **Computational domain discovery:**
 
 ```
-DOMAIN EXTRACTION FROM COMP-119:
+DOMAIN EXTRACTION FROM MATH-120:
 
 Analysis of 10M operations across graphics/physics pipeline:
 
@@ -1492,13 +1492,13 @@ const OptimizedScene = struct {
 
 /// Performance summary (1000 frames):
 /// 
-/// Naive COMP-119: 42.3 ms/frame
+/// Naive MATH-120: 42.3 ms/frame
 /// Generic MATH-120: 8.7 ms/frame
-/// Optimized COMP-120: 5.9 ms/frame
+/// Optimized MATH-121: 5.9 ms/frame
 /// 
 /// Improvements:
-/// COMP-119 → COMP-120: 7.17× speedup
-/// MATH-120 → COMP-120: 1.47× speedup
+/// MATH-120 → MATH-121: 7.17× speedup
+/// MATH-120 → MATH-121: 1.47× speedup
 /// 
 /// Breakdown (5.9 ms):
 /// - Physics: 2.1 ms (F=1000 homogeneous)
@@ -1613,7 +1613,7 @@ Test scenario: Graphics/physics pipeline
 - 1000 frames at target 60 fps
 
 
-COMP-119 (Naive exact pipeline):
+MATH-120 (Naive exact pipeline):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Implementation: Generic VFR throughout
 Optimization: None
@@ -1642,7 +1642,7 @@ Optimization: Pattern recognition, SIMD where possible
 Frame time: 8.7 ms
 Achieved FPS: 114.9 fps
 Total time: 8,700 ms
-Speedup vs COMP-119: 4.86×
+Speedup vs MATH-120: 4.86×
 
 Breakdown:
 - Transform composition: 3.2 ms (36.8%)
@@ -1663,14 +1663,14 @@ Remaining issues:
 - Generic operations
 
 
-COMP-120 (Domain-specialized):
+MATH-121 (Domain-specialized):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Implementation: Domain-specific VFR, fixed arrays, SoA
 Optimization: Full specialization
 Frame time: 5.9 ms
 Achieved FPS: 169.5 fps
 Total time: 5,900 ms
-Speedup vs COMP-119: 7.17×
+Speedup vs MATH-120: 7.17×
 Speedup vs MATH-120: 1.47×
 
 Breakdown:
@@ -1700,7 +1700,7 @@ Floating-point baseline (f32):
 Frame time: 4.2 ms
 Achieved FPS: 238.1 fps
 
-COMP-120 vs FP32:
+MATH-121 vs FP32:
 Ratio: 1.40× slower (5.9 / 4.2)
 Accuracy: Exact vs approximate
 Determinism: Perfect vs platform-dependent
@@ -1714,13 +1714,13 @@ SUMMARY:
 ━━━━━━━━
 
          Time     Speedup    vs FP32
-COMP-119: 42.3 ms   1.00×    10.07× slower
+MATH-120: 42.3 ms   1.00×    10.07× slower
 MATH-120:  8.7 ms   4.86×     2.07× slower
-COMP-120:  5.9 ms   7.17×     1.40× slower
+MATH-121:  5.9 ms   7.17×     1.40× slower
 
 Progressive improvement:
-COMP-119 → MATH-120: 4.86× via generic optimization
-MATH-120 → COMP-120: 1.47× via domain specialization
+MATH-120 → MATH-120: 4.86× via generic optimization
+MATH-120 → MATH-121: 1.47× via domain specialization
 Total: 7.17× overall improvement
 
 Domain specialization contribution: 32% additional speedup
@@ -1740,7 +1740,7 @@ Scene configuration:
 - 50 skeletons × 20 bones
 
 
-COMP-119 (Generic VFR):
+MATH-120 (Generic VFR):
 ━━━━━━━━━━━━━━━━━━━━━━━
 VFR size: 24 bytes (i64 + i64 + u16 + padding + nested ptr)
 Vec3: 72 bytes (3 × VFR)
@@ -1753,7 +1753,7 @@ Bones: 1000 × 512 bytes = 512 KB
 Total: 2,049 KB = 2.0 MB
 
 
-COMP-120 (Domain-specific):
+MATH-121 (Domain-specific):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Domain VFR: 8 bytes (i64 only, F implicit)
 Vec3: 24 bytes (3 × 8)
@@ -1771,20 +1771,20 @@ Cache efficiency: 2.3× better (more fits in L2/L3)
 
 Fixed array pre-allocation:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-COMP-119: Dynamic allocation, fragmented
-COMP-120: Single allocation, contiguous
+MATH-120: Dynamic allocation, fragmented
+MATH-121: Single allocation, contiguous
 
 Runtime allocations:
-COMP-119: ~2,150 (growing arrays)
-COMP-120: 0 (all pre-allocated)
+MATH-120: ~2,150 (growing arrays)
+MATH-121: 0 (all pre-allocated)
 
 Allocation time:
-COMP-119: 23.4 ms (over 1000 frames)
-COMP-120: 0 ms
+MATH-120: 23.4 ms (over 1000 frames)
+MATH-121: 0 ms
 
 Memory overhead:
-COMP-119: 15-20% (allocator metadata)
-COMP-120: 0% (no allocator)
+MATH-120: 15-20% (allocator metadata)
+MATH-121: 0% (no allocator)
 ```
 
 ---
@@ -1809,9 +1809,9 @@ Architecture implemented:
 ✓ Implicit denominator operations (31% fewer ops)
 
 Performance achieved:
-Baseline COMP-119: 42.3 ms/frame
+Baseline MATH-120: 42.3 ms/frame
 Generic MATH-120: 8.7 ms/frame (4.86× improvement)
-Specialized COMP-120: 5.9 ms/frame (7.17× total)
+Specialized MATH-121: 5.9 ms/frame (7.17× total)
 Floating-point: 4.2 ms/frame
 Ratio: 1.40× (within 40% of FP speed)
 
@@ -1862,7 +1862,7 @@ Generic optimization (MATH-120):
 - Cached redundant computation
 - Still defensive programming
 
-Domain specialization (COMP-120):
+Domain specialization (MATH-121):
 - Patterns enforced by type system
 - Only fast-paths exist
 - Redundancy impossible by design
@@ -1943,7 +1943,7 @@ With perfect mathematical correctness.
 
 ---
 
-**END CKS-COMP-120-2026**
+**END CKS-MATH-121-2026**
 
 **Registry:** Locked  
 **Status:** Production Pipeline Architecture  
