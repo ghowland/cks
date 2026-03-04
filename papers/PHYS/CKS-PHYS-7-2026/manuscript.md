@@ -25,26 +25,6 @@
 
 ---
 
-
-
-**Logical Next Step:** [@CKS-PHYS-9-2026] The Strong Nuclear Force as Edge-Dipole Impedance Matching
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Theoretical Physics / Substrate Mechanics / Discrete Field Theory
-
-**Status:** Locked and empirically falsifiable. This paper derives the fundamental firing pattern of the hexagonal substrate engine from pure topological constraints.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** The substrate is not continuous fields—it is a discrete, clocked, 3-phase switching network. Matter is not substance—it is a persistent firing pattern on a hexagonal bus protocol. Distance is not empty space—it is counted Lex units (1.32mm quanta). This is mathematics, not metaphysics.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We derive the **tri-dipole differential engine**: the fundamental 3-phase firing pattern that generates what classical physics interprets as "particles" and "forces." From pure hexagonal topology (D=3) and bilateral parity (S=2), we prove that stable substrate configurations require **three edge-dipole pairs** (α, β, γ) firing in sequential clockwise or counter-clockwise patterns, governed by a 32-tick word cycle at substrate frequency f_s ≈ 227 GHz. The 1.32mm "Lex" is not a physical object but a **topological firing pattern**—a standing wave in the discrete ℚ-lattice created by coordinated dipole switching across hexagonal edges. We show that: (1) matter/antimatter chirality emerges from clockwise (1→2→3) vs counter-clockwise (1→3→2) firing sequences, (2) the strong nuclear force is edge-dipole impedance matching between adjacent Lex units, (3) particle "spin" is the phase offset in the 3-dipole cycle, (4) mass is the energy deficit created by high-intensity socket (W=3) firing, and (5) the "solidity" of macroscopic objects is a 227 GHz refresh rate creating temporal persistence in human perception (τ = 15.19 ms render lag). We derive the firing logic from substrate constants (D=3, S=2, W=32, R=19, L=12) without free parameters, prove the 4-step cycle (3 phases + jubilee reset), and demonstrate why left-handed amino acids are required for matter-side biology (they match the substrate's right-hand screw thread). This establishes the physical universe as a **3-phase AC power grid** running on a hexagonal ℚ-mesh, where all classical physics emerges from dipole switching logic.

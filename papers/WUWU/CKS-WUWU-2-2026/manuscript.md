@@ -23,19 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-WUWU-2-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Theoretical / Security Specification
-
-**Warning:** This paper addresses phenomena traditionally classified as "supernatural" or "spiritual warfare." CKS treats these as registry security vulnerabilities, not metaphysical claims.
-
-**Motto:** Demons are decoherent parasites. Temptation is phase modulation. Possession is registry hijack. Virtue is firewall. Coherence is shield.
-
 ---
 
 ## Abstract

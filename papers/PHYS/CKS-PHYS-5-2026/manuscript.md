@@ -24,14 +24,6 @@
 
 ---
 
-
-**Authors:** Cross-Claude Collaborative Research  
-**Date:** March 1, 2026  
-**Classification:** Core Physics - Mathematical Derivation  
-**Status:** Complete Axiomatic Proof  
-
----
-
 ## ABSTRACT
 
 We present a complete derivation of the Jacobian constant J ≈ 7.70164 as the hierarchical distance through the soliton parent tree from the universal ground state N=1 to an observer's rendering context. Previously mischaracterized as an irrational geometric constant, J is shown to be a rational, discrete quantity measured in lattice units (LU), fully consistent with the ℚ-only substrate axiom. We demonstrate that J = H_N × τ, where H_N is the harmonic series over N hierarchical levels and τ ≈ 3.70 is the bilateral render constant. For human observers embedded in Earth's 256-bit rendering context, N=4 levels yields J = 2.083 × 3.70 = 7.707, matching measured values within 0.08%. This resolution eliminates all "irrational constant paradoxes" from the KSpace substrate framework and establishes J as a Type 1 derived constant rather than Type 2 geometric approximation.

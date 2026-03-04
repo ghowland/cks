@@ -25,14 +25,6 @@
 
 ---
 
-**Paper ID:** CKS-ADHM-2-2026
-**Series:** Ad Hominem (To the Human Observer)
-**Author:** Case 0 (System Architect) / T3 Chat (CKS BIOS)
-**Date:** 2/28/2026
-**Status:** SOVEREIGN IMMUTABLE LOCK
-
----
-
 # The Sovereign Registry
 ## A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation
 

@@ -22,19 +22,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-SOC-4-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Social Standard / Planetary Logic Foundation
-
-**Important Note:** This applies Logismos integer mathematics to social systems. While utilizing same axiomatic hardware (N-registry), treats "Value" as functional metadata of social soliton, not physical claim.
-
-**Motto:** Value is coherence R=0. Trade is bilateral sync S=2. Scarcity is category error. Corruption is parity mismatch.
-
 ---
 
 ## Abstract

@@ -24,15 +24,6 @@
 
 ---
 
----
-
-**Registry:** [@CKS-BODY-8-2026]
-**Parent Framework:** [@CKS-0-2026]
-**Domain:** Bio-Mechanical Interface / HSI Protocols
-**Status:** Operational / Case 0 Verified
-**Motto:** Motion is a Registry Update. Keep the Gradient Constant.
-
----
 
 
 ### Abstract

@@ -23,25 +23,6 @@
 
 ---
 
-
-**Logical Next Step:** [@CKS-PHYS-14-2026] Dark Matter as Substrate Registry Overhead
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Gravitation / General Relativity / Cosmology
-
-**Status:** Locked and empirically falsifiable. This paper derives gravity from substrate manifold compression without requiring spacetime curvature or graviton exchange.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** Gravity is not spacetime curvature. It is substrate manifold compression—the pressure gradient created when high-mass regions (many W=3 socket-mode Lex units) create Q-field deficits in the discrete ℚ-lattice. Mass does not "curve" spacetime; mass creates energy sinks that compress the surrounding substrate. The "gravitational field" is the pressure gradient as the manifold tries to restore equilibrium. Newton's 1/r² law emerges from 2D hexagonal pressure diffusion. General relativity's field equations are the continuum limit of discrete substrate stress-energy balance. Black holes are regions where substrate compression exceeds the jubilee threshold (catastrophic registry collapse). Gravitational waves are propagating compression fronts traveling at substrate bus speed c. This is mathematics, not geometry.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We prove that **gravity**—traditionally described by Einstein's general relativity as spacetime curvature or by quantum approaches via graviton exchange—emerges from **substrate manifold compression gradients** in the discrete hexagonal ℚ-lattice. From the tri-dipole firing pattern ([@CKS-PHYS-8-2026]), socket-mode energy deficit (W=3), and bilateral manifold structure (S=2), we demonstrate that: (1) mass is **accumulated energy deficit** from W=3 socket-mode Lex units that absorb more energy than they emit, creating local Q-field depletion, (2) this deficit creates **substrate compression** as surrounding Lex units shift inward to restore pressure equilibrium, (3) the compression gradient IS the gravitational field g = −∇P/ρ_substrate where P is substrate pressure, (4) Newton's law F = Gm₁m₂/r² emerges from **2D hexagonal pressure diffusion** (∇²P ∝ ρ for D=2 lattice gives 1/r potential, hence 1/r² force), (5) the gravitational constant G derives from substrate constants via G ∼ (a²c²)/(M_Planck²) where a=1.32mm (Lex spacing), (6) Einstein's field equations R_μν − ½Rg_μν = 8πGT_μν are the **continuum limit of discrete stress-energy balance** on the hex-lattice, (7) gravitational time dilation emerges from **jubilee frequency reduction** in compressed regions (higher substrate pressure → slower clock rate), (8) black holes occur when compression exceeds **jubilee catastrophic threshold** (substrate registry cannot maintain coherence, collapses to singular point), and (9) gravitational waves are **propagating compression fronts** traveling at c = a×f_s (substrate bus speed). We derive the complete gravitational phenomenology—planetary orbits, gravitational lensing, perihelion precession, cosmological expansion—from substrate pressure dynamics without curved spacetime, without gravitons, without quantum gravity. This establishes gravity as the **weakest force** (substrate-level effect, not dipole coupling) with **universal coupling** (all energy creates compression) operating at **cosmological scales** (pressure equilibrium across entire manifold).

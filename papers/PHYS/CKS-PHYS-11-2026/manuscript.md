@@ -25,31 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-PHYS-11-2026]
-
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-7-2026] → [@CKS-PHYS-8-2026] → [@CKS-PHYS-9-2026] → [@CKS-PHYS-10-2026] → [@CKS-PHYS-11-2026]
-
-**Parent Framework:** [@CKS-0-2026]
-
-**Logical Next Step:** [@CKS-PHYS-13-2026] Electromagnetic Force as Single-Dipole Coupling
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Particle Physics / Weak Interactions / Electroweak Theory
-
-**Status:** Locked and empirically falsifiable. This paper derives the weak nuclear force from jubilee transition mechanics in the hexagonal substrate without requiring gauge theory postulates.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** The weak force is not mediated by gauge bosons. It is direct jubilee phase transition mechanics—the substrate-level process by which Lex units change their dipole configuration and flavor offset. W/Z bosons are not particles but **propagating jubilee transition fronts**. Beta decay is not particle exchange but **coordinated dipole reconfiguration** across the substrate. The weak force "range" (~10⁻¹⁸ m) is not from particle mass but from **jubilee correlation length**. Electroweak unification is not gauge symmetry breaking but **merger of single-dipole (EM) and jubilee-transition (weak) dynamics** at the substrate level. This is mathematics, not field theory.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We prove that the **weak nuclear force**—traditionally described by electroweak gauge theory with W±, Z⁰ bosons mediating flavor-changing interactions—emerges from **jubilee transition mechanics** in the discrete hexagonal substrate. From the tri-dipole firing pattern ([@CKS-PHYS-7-2026]), jubilee reset cycle at R=19 ticks ([@CKS-PHYS-10-2026]), and bilateral manifold structure (S=2), we demonstrate that: (1) the weak force IS the jubilee reconfiguration process where dipole states transition between different phase offsets (flavor changes) or different polarities (charged currents), (2) W± bosons are **propagating jubilee fronts** (not exchange particles) that carry the transition signal across the hex-bus at substrate frequency f_s = 227 GHz, (3) the Z⁰ boson is the **neutral jubilee oscillation mode** where phase offset changes without polarity flip, (4) weak force "range" r_weak ≈ 2×10⁻¹⁸ m emerges from **jubilee correlation length** λ_jub = c/(f_jub) where f_jub = 1/(19×T_tick) ≈ 11.9 GHz, (5) W/Z boson "masses" (80-91 GeV) derive from **jubilee reconfiguration energy** E_jub = ℏ×f_jub×(enhancement factors from D, S, L), (6) the weak coupling constant G_F ≈ 10⁻⁵ GeV⁻² emerges from **jubilee transition probability** within the R=19 tick window, (7) parity violation (left-handed coupling only) derives from **asymmetric bilateral jubilee progression** (Side A forward, Side B backward), and (8) electroweak unification at ~100 GeV is the **energy scale where single-dipole (EM) and jubilee-transition (weak) processes become indistinguishable**. We derive the complete weak phenomenology—beta decay rates, muon lifetime, neutrino interactions, neutral currents—from substrate timing structure without Higgs mechanism, spontaneous symmetry breaking, or gauge field quantization. This establishes the weak force as **phase transition mechanics** governed by the W=32 tick word cycle and R=19 tick jubilee threshold.

@@ -25,17 +25,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-BODY-13-2026]  
-**Series:** Biology - Biomechanics Integration  
-**Classification:** Complete Framework
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 Traditional biomechanics attributes force production to cross-sectional muscle area and fiber recruitment (X-space morphology). We prove this is incomplete. Substrate-Synchronized Biomechanics (SSB) demonstrates that observed strength is the product of Phase-Lock coefficient (φ) between biological intent and K-space registry operations, mediated by the Jacobian J=[192541,25000,0]. The "ant paradox" (50× bodyweight lifting capacity) and theoretical "tiny arm 320kg bench press" both derive from φ→1 optimization reducing substrate impedance to near-zero. We derive: (1) Force equation F_obs = (m×c^S)/(J×(1-φ)) in pure ℚ, (2) Aesthetic toroids (muscle bulk) function as Δ-buffers for low-φ operators, (3) Zero-remainder precision movement occurs at φ≥0.98, (4) Remainder crash (φ drop) causes instantaneous load multiplication proportional to 1/(1-φ), (5) Training protocols must target 15.19ms snap (τ) synchronization not volumetric hypertrophy, (6) Maximum human force at W^S=[1024,1,0] sovereignty derives from 304℘ buffer alignment. All results from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] with zero free parameters. Strength is isomorphism between neural command and substrate registry shift, NOT tissue cross-section.

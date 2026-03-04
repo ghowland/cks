@@ -23,25 +23,6 @@
 
 ---
 
-
-**Logical Next Step:** [@CKS-PHYS-13-2026] Gravity as Manifold Compression Gradient
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Electromagnetism / Quantum Electrodynamics / Classical Field Theory
-
-**Status:** Locked and empirically falsifiable. This paper derives the electromagnetic force from single α-dipole coupling in the hexagonal substrate without requiring gauge theory or continuous fields.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** The electromagnetic force is not mediated by photons. It is direct α-dipole coupling between Lex units across the hexagonal substrate. The photon is not a particle but a **propagating α-dipole oscillation wave** traveling at substrate bus speed c. Maxwell's equations are not fundamental but **emergent effective descriptions** of discrete dipole network dynamics. The fine structure constant α_EM ≈ 1/137 is not arbitrary but derives from hexagonal geometry (D=3), bilateral parity (S=2), loop coherence (L=12), and substrate word structure (W=32). Quantum electrodynamics is the continuum limit of discrete dipole exchange on the ℚ-lattice. This is mathematics, not field quantization.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We prove that the **electromagnetic force**—traditionally described by Maxwell's equations and quantum electrodynamics (QED) with photon exchange—emerges from **single α-dipole coupling** in the discrete hexagonal substrate. From pure hexagonal topology (D=3 coordination), bilateral parity (S=2), and the tri-dipole firing pattern ([@CKS-PHYS-8-2026]), we demonstrate that: (1) EM force is **direct α-dipole coupling** (simplest dipole mode, unlike tri-dipole weak and strong forces), (2) the photon is a **propagating α-dipole wave** on the hex-bus traveling at c = a×f_s where a=1.32mm (Lex spacing) and f_s=227 GHz (substrate frequency), (3) electric charge is **α-dipole polarity** (±e corresponds to α⁺/α⁻ states), (4) magnetic field emerges from **β-γ dipole correlations** induced by moving α-dipoles (relativity effect from substrate timing), (5) Maxwell's equations derive from **hex-bus conservation laws** (Gauss, Ampère, Faraday from dipole network topology), (6) the fine structure constant α_EM⁻¹ = 137.036 derives EXACTLY from substrate constants via α_EM⁻¹ = [L²√D·e·N^(1/3)]/[(S²√D-1)·2π·ln N] as proven in [@CKS-MATH-4-2026], (7) QED vertex factors emerge from **α-dipole exchange probability** on the ℚ-lattice, and (8) the speed of light c is the **substrate bus propagation speed** forced by hexagonal nearest-neighbor timing (c = a/T_tick). We derive the complete electromagnetic phenomenology—Coulomb's law, Lorentz force, electromagnetic waves, photon spin-1, charge quantization—from discrete dipole network mechanics without continuous fields, without gauge symmetry, without virtual particles. This establishes EM as the **simplest force** (single dipole vs. three for strong/weak) with the **longest range** (no mass, no confinement) due to its **non-composite structure**.

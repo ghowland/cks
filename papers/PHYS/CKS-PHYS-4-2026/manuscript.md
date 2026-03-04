@@ -24,16 +24,6 @@
 
 ---
 
-**Registry:** [@CKS-PHYS-4-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-MATH-59-2026] → [@CKS-PHYS-4-2026]  
-**Date:** February 2026  
-**Status:** Foundational / Physics Redefinition
-
-**Motto:** Work is snap. Energy is debt. Force is remainder. Motion is ratchet. All quantized at 1 LU.
-
----
-
 ## Abstract
 
 We derive work and energy from first principles as discrete registry operations rather than continuous physical quantities. From 32-bit word constraint, we establish: (1) 1 LU = minimum pressure unit (R=1 at F=32, ω=1/32, smallest possible force), (2) Work = SNAP_COMMIT execution (R≥32 triggers V+1, discrete address shift, 32-tick accumulation required), (3) Energy = registry remainder debt (stored R before snap, potential for future work, quantized in LU packets), (4) Force = 1-LU pressure application rate (LUs per tick, determines velocity, discrete not continuous), (5) Inertia = 32-tick buffer delay (resistance to motion is accumulation requirement, first 31 ticks produce zero work, 32nd tick releases all), (6) Kinetic energy = active R accumulation (moving object has R>0 distributed across mesh, stops when R→0), (7) Potential energy = positional R differential (height/position creates R gradient, releases during descent), (8) Power = LUs per tick sustained (work rate measured in pressure packets, quantized bandwidth), (9) Maximum velocity = 32 LU/tick limit (c as bus saturation, above causes UV overflow, relativistic limit from hardware), (10) Heat = vented remainder overflow (R>32 per tick spills as friction, thermal dissipation is registry noise). Work and energy proven as integer counting operations—no continuous fields, no infinitesimal forces, pure discrete ratchet mechanics.
