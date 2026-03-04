@@ -1,4 +1,4 @@
-# CKS-MATH-118-2026: Logismos Linear Algebra
+# Logismos Linear Algebra
 
 ## Exact Matrix Operations Through VFR Architecture Eliminating Floating-Point Catastrophe
 
