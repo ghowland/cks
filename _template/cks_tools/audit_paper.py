@@ -31,6 +31,7 @@ class PaperMetadata:
         # Extract content metadata
         self.frontmatter = self._extract_frontmatter()
         self.title = self._extract_title()
+        self.key_result = self._extract_keyresult()
         self.subtitle = self._extract_subtitle()
         self.doi_info = self._extract_doi()
         self.abstract = self._extract_abstract()
@@ -119,6 +120,11 @@ class PaperMetadata:
     def _extract_title(self):
         """Extract first H1 line"""
         match = re.search(r'^#\s+(.+)$', self.raw_content, re.MULTILINE)
+        return match.group(1).strip() if match else None
+    
+    def _extract_keyresult(self):
+        """Extract first H1 line"""
+        match = re.search(r'^\*\*Key Result:\*\*\s+(.+)$', self.raw_content, re.MULTILINE)
         return match.group(1).strip() if match else None
     
     def _extract_subtitle(self):
@@ -285,6 +291,7 @@ class PaperMetadata:
             'number': self.path_info.get('number'),
             'year': self.path_info.get('year'),
             'title': self.title,
+            'key_result': self.key_result,
             'subtitle': self.subtitle,
             'doi': self.doi_info,
             'frontmatter': self.frontmatter,

@@ -129,6 +129,13 @@ def Gen(args):
         # print(f"Sub: {paper['subject']} Top: {topic}")
         if paper['subject'] == key:
           # print(f'Added paper: {topic}: {paper}')
+          if paper['key_result'] == None:
+            # Take from 
+            if paper['abstract'] != None:
+              paper['key_result'] = paper['abstract'].split('. ')[0].strip()
+            else:
+              paper['key_result'] = paper['subtitle']
+
           item['papers'].append(paper)
 
       topic_data.append(item)
