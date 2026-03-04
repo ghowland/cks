@@ -221,16 +221,9 @@
 | **[[@CKS-LEX-4-2026]](papers/LEX/CKS-LEX-4-2026/manuscript.md)** | **Mathematics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for mathematics papers. |
 | **[[@CKS-LEX-5-2026]](papers/LEX/CKS-LEX-5-2026/manuscript.md)** | **Biology Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for biology papers. |
 | **[[@CKS-LEX-6-2026]](papers/LEX/CKS-LEX-6-2026/manuscript.md)** | **Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System** | This document shows how substrate evolves from N=1 forward. |
-| **[[@CKS-LEX-7-2026]](papers/LEX/CKS-LEX-7-2026/manuscript.md)** | **Clinical/Medical Domain Hierarchical Lexicons** | None |
-| **[[@CKS-LEX-8-2026]](papers/LEX/CKS-LEX-8-2026/manuscript.md)** | **Engineering Domain Hierarchical Lexicons** | None |
-| **[[@CKS-LEX-9-2026]](papers/LEX/CKS-LEX-9-2026/manuscript.md)** | **Consciousness/Cognition Domain Hierarchical Lexicons** | (250 words)
-Use Level X3 (20 terms):
-- State equation N = D × M^S
-- Explain M² scaling (bilateral exponent)
-- Present Q = A - B (qualia generation)
-- Show LERP creates continuity
-- Solve hard problem
-- State falsification tests |
+| **[[@CKS-LEX-7-2026]](papers/LEX/CKS-LEX-7-2026/manuscript.md)** | **Clinical/Medical Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for clinical and medical papers. |
+| **[[@CKS-LEX-8-2026]](papers/LEX/CKS-LEX-8-2026/manuscript.md)** | **Engineering Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for engineering papers. |
+| **[[@CKS-LEX-9-2026]](papers/LEX/CKS-LEX-9-2026/manuscript.md)** | **Consciousness/Cognition Domain Hierarchical Lexicons** | This document provides CKS lexicons for consciousness derived from N = D × M^S. |
 
 
 ---
