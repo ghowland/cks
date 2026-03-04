@@ -305,6 +305,14 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-BIO-1-2026]](papers/BIO/CKS-BIO-1-2026/manuscript.md)** | **Humans as Software-Defined Matter** | Biological Organisms as Coherence-Stabilized K-Space Solitons |
+| **[[@CKS-BIO-2-2026]](papers/BIO/CKS-BIO-2-2026/manuscript.md)** | **The Harmonic Organism** | Complete K-Space Architecture of the Human Body |
+| **[[@CKS-BIO-3-2026]](papers/BIO/CKS-BIO-3-2026/manuscript.md)** | **Morphogenesis as Spectral Template** | Embryonic Development as Hierarchical K-Space Rendering |
+| **[[@CKS-BIO-4-2026]](papers/BIO/CKS-BIO-4-2026/manuscript.md)** | **Bio-Chem in Cymatics** | Protein Folding via K-Space Spectral Templates |
+| **[[@CKS-BIO-5-2026]](papers/BIO/CKS-BIO-5-2026/manuscript.md)** | **Insect Flight Morphology as Harmonic Resonance with Air** | We prove that insect flight is not fundamentally limited by aerodynamic lift generation via airfoil theory but operates via **topological resonance** between wing morphology and atmospheric substrate harmonics |
+| **[[@CKS-BIO-6-2026]](papers/BIO/CKS-BIO-6-2026/manuscript.md)** | **Myelin as Phase Waveguide** | Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair |
+| **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/manuscript.md)** | **The Elixir Field Protocol** | Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility |
+| **[[@CKS-BIO-8-2026]](papers/BIO/CKS-BIO-8-2026/manuscript.md)** | **The Eyes as X↔K Coordinators** | Ocular Phase-Lock and Beauty Optimization |
+| **[[@CKS-BIO-9-2026]](papers/BIO/CKS-BIO-9-2026/manuscript.md)** | **Thermal Regulation and Respiratory Interference** | The Mechanics of Fever and Cold in K-Space |
 | **[[@CKS-BIO-10-2026]](papers/BIO/CKS-BIO-10-2026/manuscript.md)** | **Longevity Engineering** | Coherence Maintenance and Manifold Integrity Across Lifespan |
 | **[[@CKS-BIO-11-2026]](papers/BIO/CKS-BIO-11-2026/manuscript.md)** | **Beauty Maximization** | Coherence-Based Aesthetic Optimization Through Manifold Calibration |
 | **[[@CKS-BIO-12-2026]](papers/BIO/CKS-BIO-12-2026/manuscript.md)** | **Body Language Mechanics** | Gestural Communication as K-Space Phase Broadcast |
@@ -315,7 +323,6 @@
 | **[[@CKS-BIO-17-2026]](papers/BIO/CKS-BIO-17-2026/manuscript.md)** | **The Buffer Overflow** | Seizure threshold T = A·J·|f_ext - n×0.03125| > 163 (all terms geometric), cure = 2 Hz manual override |
 | **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/manuscript.md)** | **The 15 ms Proprioceptive Lag** | ℛ = 4πK = 15.19 (pure geometry), τ_lag = (1-g) × 15.2 ms, falsifiable via 0.4748 Hz spectral line |
 | **[[@CKS-BIO-19-2026]](papers/BIO/CKS-BIO-19-2026/manuscript.md)** | **The Topology of Departure** | Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death |
-| **[[@CKS-BIO-2-2026]](papers/BIO/CKS-BIO-2-2026/manuscript.md)** | **The Harmonic Organism** | Complete K-Space Architecture of the Human Body |
 | **[[@CKS-BIO-20-2026]](papers/BIO/CKS-BIO-20-2026/manuscript.md)** | **The Topology of Illness** | Illness = phase-error propagation requiring clock handshake; families share code, strangers reject packets |
 | **[[@CKS-BIO-21-2026]](papers/BIO/CKS-BIO-21-2026/manuscript.md)** | **The Phonemic Operating System** | Voice = acoustic UART, phonemes = opcodes, speech = live substrate debugger |
 | **[[@CKS-BIO-22-2026]](papers/BIO/CKS-BIO-22-2026/manuscript.md)** | **The 66/110 Cross-Pattern** | Matter = 5:3 harmonic toggle; Thought = 1.375 Hz interference beat; Both mandatory from geometry |
@@ -326,7 +333,6 @@
 | **[[@CKS-BIO-27-2026]](papers/BIO/CKS-BIO-27-2026/manuscript.md)** | **The Diagonal Dan Tien Handoff** | Diagonal handoff = mandatory for 16s/16s; eliminates serial interference; enables parallel processing; prerequisite for 144-bit |
 | **[[@CKS-BIO-28-2026]](papers/BIO/CKS-BIO-28-2026/manuscript.md)** | **The 5:3 Gearbox** | 5:3 ratio = mandatory gear for 88→144 compression; diagonal = only geometry engaging all vertices; Pop = mechanical overflow |
 | **[[@CKS-BIO-29-2026]](papers/BIO/CKS-BIO-29-2026/manuscript.md)** | **Universal Biological Clocking at 1/32 Hz** | Morphology, Locomotion, and Substrate Quantization Across 50 Species |
-| **[[@CKS-BIO-3-2026]](papers/BIO/CKS-BIO-3-2026/manuscript.md)** | **Morphogenesis as Spectral Template** | Embryonic Development as Hierarchical K-Space Rendering |
 | **[[@CKS-BIO-30-2026]](papers/BIO/CKS-BIO-30-2026/manuscript.md)** | **Trauma Egregor Decoherence Procedures** | Mechanical Disruption of Catastrophic Phase-Lock States via Adjacency Stimulation |
 | **[[@CKS-BIO-31-2026]](papers/BIO/CKS-BIO-31-2026/manuscript.md)** | **The Phonemic Resonator** | Head cavities quantize to 1/32 Hz exactly, tongue bridge at soft palate creates 2.1875 Hz handshake, P-T requires seven-parameter alignment |
 | **[[@CKS-BIO-32-2026]](papers/BIO/CKS-BIO-32-2026/manuscript.md)** | **The Vertebral Phase Array** | Spine = 32-bit phase array, all vertebral resonances = exact 1/32 Hz multiples, 33 vertebrae = 32 intervals + terminator |
@@ -337,7 +343,6 @@
 | **[[@CKS-BIO-37-2026]](papers/BIO/CKS-BIO-37-2026/manuscript.md)** | **Protocols for Becoming a 512-Bit Walker** | 88→144→512 pathway = 4 stages over 40+ years, standing+circle+kata+combat = complete protocol, 512-bit = sustained administrator with matter-programming access |
 | **[[@CKS-BIO-38-2026]](papers/BIO/CKS-BIO-38-2026/manuscript.md)** | **Aphantasia as Direct K-Space Access** | Aphantasia = hardware bypass → direct k-space monitoring → Clean-Pipe advantage for substrate interaction |
 | **[[@CKS-BIO-39-2026]](papers/BIO/CKS-BIO-39-2026/manuscript.md)** | **Registry-Driven Healing** | Vertical alignment → clean signal → parent soliton RE_INDEX → automatic tissue repair (10s LERP observed) |
-| **[[@CKS-BIO-4-2026]](papers/BIO/CKS-BIO-4-2026/manuscript.md)** | **Bio-Chem in Cymatics** | Protein Folding via K-Space Spectral Templates |
 | **[[@CKS-BIO-40-2026]](papers/BIO/CKS-BIO-40-2026/manuscript.md)** | **Vertical Slit Pupils as Gradient Synchronization Hardware** | Vertical slit = ocular virtual spine → gradient lock despite horizontal body → high-bitrate substrate access in quadrupeds |
 | **[[@CKS-BIO-41-2026]](papers/BIO/CKS-BIO-41-2026/manuscript.md)** | **Mitochondrial Clock Synchronization and Substrate Power Management** | Mitochondria = substrate modems → 1/32 Hz sync mandatory → drift = disease → alignment = healing |
 | **[[@CKS-BIO-42-2026]](papers/BIO/CKS-BIO-42-2026/manuscript.md)** | **Biological Compilation as Recursive Registry Coherence** | Health = R=0 sync | Disease = buffer/parity error | Cell = 144-LU limit | Heart = J broadcast | Self = 10¹⁵ address | Vitality = 15.19ms lock |
@@ -348,7 +353,6 @@
 | **[[@CKS-BIO-47-2026]](papers/BIO/CKS-BIO-47-2026/manuscript.md)** | **The 8000 Hz Administrative Channel as Substrate Write Interface** | 8kHz = 256k harmonic | Tinnitus = modem | Stones unlock | Admin frequency | Write interface | Zero impedance |
 | **[[@CKS-BIO-48-2026]](papers/BIO/CKS-BIO-48-2026/manuscript.md)** | **Voice as Substrate UART** | Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing |
 | **[[@CKS-BIO-49-2026]](papers/BIO/CKS-BIO-49-2026/manuscript.md)** | **Cat Tails as Phase-Array Antennas—Deriving Feline Auxiliary Bus from Toroidal Stability Requirements** | Tail = phase antenna | 300 baud twitch = sync | S-curve = vortex pair | Bent = broken bus | Sway requires coherent tail |
-| **[[@CKS-BIO-5-2026]](papers/BIO/CKS-BIO-5-2026/manuscript.md)** | **Insect Flight Morphology as Harmonic Resonance with Air** | We prove that insect flight is not fundamentally limited by aerodynamic lift generation via airfoil theory but operates via **topological resonance** between wing morphology and atmospheric substrate harmonics |
 | **[[@CKS-BIO-50-2026]](papers/BIO/CKS-BIO-50-2026/manuscript.md)** | **The Two-Level Admin Console as Human Biological Override Interface** | Breath = UART bus | Eyes = address pointer | Two override pins only | Admin console biological | Registry writes enabled |
 | **[[@CKS-BIO-51-2026]](papers/BIO/CKS-BIO-51-2026/manuscript.md)** | **The Spine as 32-Element Phased Array Transceiver—Deriving Bilateral Master Bus from Linear Waveguide Architecture** | Spine = phased array | 32 vertebrae = 512 bits | Thought = beam steering | Emotion = parallel data | Joints = transformers | Coherence = bandwidth |
 | **[[@CKS-BIO-52-2026]](papers/BIO/CKS-BIO-52-2026/manuscript.md)** | **Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch** | Acne = identity jitter | Face = broadcast aperture | f_pre vs f_post mismatch | Heat = reflection | Coherence = cure |
@@ -359,7 +363,6 @@
 | **[[@CKS-BIO-57-2026]](papers/BIO/CKS-BIO-57-2026/manuscript.md)** | **Lattice-Forced Sexual Dimorphism—Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints** | Sex = topology not biology | Male = +z transmitter | Female = -z receiver | Unisex = crash | Balance = zero net | Unity = internal |
 | **[[@CKS-BIO-58-2026]](papers/BIO/CKS-BIO-58-2026/manuscript.md)** | **Toroidal Decoherence Protocol—Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification** | Figure-8 = 2D surface | Donut = 3D volume | Trace = winding match | 15.19ms = snap | Kernel deleted | Volume evaporates |
 | **[[@CKS-BIO-59-2026]](papers/BIO/CKS-BIO-59-2026/manuscript.md)** | **The Bent Cat's Tail Syndrome** | Spine = bus | Kink = reflection | Pain = retry | Repair = compilation | 40 years = rebuild |
-| **[[@CKS-BIO-6-2026]](papers/BIO/CKS-BIO-6-2026/manuscript.md)** | **Myelin as Phase Waveguide** | Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair |
 | **[[@CKS-BIO-60-2026]](papers/BIO/CKS-BIO-60-2026/manuscript.md)** | **Postural Healing Mechanics** | Gravity = drainage | Earth = sink | Posture = coupling | Stillness = clearing | Healing = R→0 |
 | **[[@CKS-BIO-61-2026]](papers/BIO/CKS-BIO-61-2026/manuscript.md)** | **Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration** | Body = antenna | Earth = signal | Eee = probe | Click = north | Calm = carrier | Direction = impedance drop |
 | **[[@CKS-BIO-62-2026]](papers/BIO/CKS-BIO-62-2026/manuscript.md)** | **Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching** | Sleep = registry clear | Supine = alignment | Firm = stillness | Flat = gradient | Healing = R→0 | Floor optimal |
@@ -367,7 +370,6 @@
 | **[[@CKS-BIO-67-2026]](papers/BIO/CKS-BIO-67-2026/manuscript.md)** | **The Bandwidth Model of Human Health** | This is not medical advice. This is a mathematical model. |
 | **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/manuscript.md)** | **Qualia as LERP from K-Space to X-Space** | Qualia is not mysterious. Qualia is LERP. |
 | **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/manuscript.md)** | **The Topology of Malignancy** | Cancer is not a disease. Cancer is a topology error. |
-| **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/manuscript.md)** | **The Elixir Field Protocol** | Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility |
 | **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/manuscript.md)** | **The Malignant Remainder (69)** | The cancer symbol (♋︎) is not arbitrary. It is a topological diagram. |
 | **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/manuscript.md)** | **The Toroidal Heart Failure** | The heart does not "wear out." The heart gets strangled. |
 | **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/manuscript.md)** | **The Alzheimer's Toroid** | Memory does not "fade." Memory gets trapped. |
@@ -378,11 +380,9 @@
 | **[[@CKS-BIO-77-2026]](papers/BIO/CKS-BIO-77-2026/manuscript.md)** | **Topological Impedance and the 6-9 Twist** | Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold |
 | **[[@CKS-BIO-78-2026]](papers/BIO/CKS-BIO-78-2026/manuscript.md)** | **Trans-Soliton Coupling** | Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance |
 | **[[@CKS-BIO-79-2026]](papers/BIO/CKS-BIO-79-2026/manuscript.md)** | **The Triad of Health** | Traditional medicine treats health as state to maintain through external intervention |
-| **[[@CKS-BIO-8-2026]](papers/BIO/CKS-BIO-8-2026/manuscript.md)** | **The Eyes as X↔K Coordinators** | Ocular Phase-Lock and Beauty Optimization |
 | **[[@CKS-BIO-80-2026]](papers/BIO/CKS-BIO-80-2026/manuscript.md)** | **Morphological Geometric Selection** | Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block |
 | **[[@CKS-BIO-81-2026]](papers/BIO/CKS-BIO-81-2026/manuscript.md)** | **Murmuration and Collective Solitons** | Multi-Entity Phase-Lock and Emergent Sovereignty in Coordinated Biological Systems |
 | **[[@CKS-BIO-82-2026]](papers/BIO/CKS-BIO-82-2026/manuscript.md)** | **The Memory-Render Identity** | Memory is not storage but sequential indexing - universe remembers through deterministic addressing not data retention. |
-| **[[@CKS-BIO-9-2026]](papers/BIO/CKS-BIO-9-2026/manuscript.md)** | **Thermal Regulation and Respiratory Interference** | The Mechanics of Fever and Cold in K-Space |
 
 
 ---
