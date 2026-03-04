@@ -1,4 +1,4 @@
-# CKS-LOGI-2-2026: The Categorical Boundary
+# The Categorical Boundary
 ## Physics-Based vs Physics-Related Logismos: Distinguishing Substrate Hardware from Information Software
 
 **Registry:** [@CKS-LOGI-1-2026]  
