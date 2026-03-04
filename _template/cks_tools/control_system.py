@@ -127,6 +127,7 @@ def Gen(args):
       item['papers'] = []
       for paper in args.papers:
         if paper['subject'] == topic:
+          print(f'Added paper: {topic}: {paper}')
           item['papers'].append(paper)
 
       topic_data.append(item)
