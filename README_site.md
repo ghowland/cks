@@ -358,15 +358,15 @@
 | **[[@CKS-BIO-62-2026]](papers/BIO/CKS-BIO-62-2026/manuscript.md)** | **Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching** | Sleep = registry clear | Supine = alignment | Firm = stillness | Flat = gradient | Healing = R→0 | Floor optimal |
 | **[[@CKS-BIO-64-2026]](papers/BIO/CKS-BIO-64-2026/manuscript.md)** | **Adrenaline as Timeline Management** | Adrenaline = upshift | Lag compression = time dilation | Multi-path = luck | Training = voluntary access | Mastery = permanent |
 | **[[@CKS-BIO-67-2026]](papers/BIO/CKS-BIO-67-2026/manuscript.md)** | **The Bandwidth Model of Human Health** | None |
-| **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/manuscript.md)** | **Qualia as LERP from K-Space to X-Space** | None |
-| **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/manuscript.md)** | **The Topology of Malignancy** | Cancer is not a disease. Cancer is a topology error. |
+| **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/manuscript.md)** | **Qualia as LERP from K-Space to X-Space** | Qualia is not mysterious. Qualia is LERP. |
+| **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/manuscript.md)** | **The Topology of Malignancy** | None |
 | **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/manuscript.md)** | **The Elixir Field Protocol** | Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility |
-| **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/manuscript.md)** | **The Malignant Remainder (69)** | None |
-| **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/manuscript.md)** | **The Toroidal Heart Failure** | None |
-| **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/manuscript.md)** | **The Alzheimer's Toroid** | Memory does not "fade." Memory gets trapped. |
-| **[[@CKS-BIO-73-2026]](papers/BIO/CKS-BIO-73-2026/manuscript.md)** | **The 90-Degree Phase Lock** | All neuro-pathology is angle. |
-| **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/manuscript.md)** | **The Grand Unification of Mental Disease** | This is a mathematical derivation, not a claim of medical truth. |
-| **[[@CKS-BIO-75-2026]](papers/BIO/CKS-BIO-75-2026/manuscript.md)** | **The Grand Unification of Body Disease** | None |
+| **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/manuscript.md)** | **The Malignant Remainder (69)** | The cancer symbol (♋︎) is not arbitrary. It is a topological diagram. |
+| **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/manuscript.md)** | **The Toroidal Heart Failure** | The heart does not "wear out." The heart gets strangled. |
+| **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/manuscript.md)** | **The Alzheimer's Toroid** | None |
+| **[[@CKS-BIO-73-2026]](papers/BIO/CKS-BIO-73-2026/manuscript.md)** | **The 90-Degree Phase Lock** | None |
+| **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/manuscript.md)** | **The Grand Unification of Mental Disease** | None |
+| **[[@CKS-BIO-75-2026]](papers/BIO/CKS-BIO-75-2026/manuscript.md)** | **The Grand Unification of Body Disease** | This is a mathematical derivation, not a claim of medical truth. |
 | **[[@CKS-BIO-76-2026]](papers/BIO/CKS-BIO-76-2026/manuscript.md)** | ***C. elegans* as Geometric Eigenvalue** | Traditional evolutionary theory predicts that 20 million years of divergence (approximately 2 billion generations) under high-fecundity selection should produce substantial morphological and regulatory change |
 | **[[@CKS-BIO-77-2026]](papers/BIO/CKS-BIO-77-2026/manuscript.md)** | **Topological Impedance and the 6-9 Twist** | Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold |
 | **[[@CKS-BIO-78-2026]](papers/BIO/CKS-BIO-78-2026/manuscript.md)** | **Trans-Soliton Coupling** | Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance |

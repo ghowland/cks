@@ -1,5 +1,5 @@
 # The Bandwidth Model of Human Health
-
+## This is not medical advice. This is a mathematical model.
 
 **Registry:** [@CKS-BIO-1-2026]  
 
