@@ -1,14 +1,14 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-04 00:06:21 UTC
+**Generated:** 2026-03-04 00:43:19 UTC
 
 ## Summary
 
-- **Total Papers:** 353
-- **Valid:** 320
-- **Invalid:** 33
-- **Total Errors:** 39
-- **Total Warnings:** 834
+- **Total Papers:** 354
+- **Valid:** 322
+- **Invalid:** 32
+- **Total Errors:** 37
+- **Total Warnings:** 836
 
 ## By Subject
 
@@ -30,7 +30,7 @@
 - **LEX:** 12 papers
 - **LOGI:** 13 papers
 - **MAT:** 5 papers
-- **MATH:** 116 papers
+- **MATH:** 117 papers
 - **MED:** 4 papers
 - **NEURO:** 3 papers
 - **OMNI:** 2 papers
@@ -48,7 +48,7 @@
 ## By Status
 
 - **Published (has DOI):** 141
-- **Draft (stub .zzz):** 212
+- **Draft (stub .zzz):** 213
 
 ## Validation Issues
 
@@ -128,10 +128,6 @@
 **CKS-MATH-113-2026**
   - ❌ Missing Registry field in frontmatter
 
-**CKS-MATH-115-2026**
-  - ❌ Missing title (H1)
-  - ❌ Missing Registry field in frontmatter
-
 **CKS-MATH-46-2026**
   - ❌ Missing Registry field in frontmatter
 
@@ -160,7 +156,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (244 total)
+### Papers with Warnings (245 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  DOI is stub (.zzz)
@@ -202,4 +198,4 @@
 **CKS-BIO-44-2026**
   - ⚠️  DOI is missing
 
-... and 234 more papers with warnings
+... and 235 more papers with warnings
