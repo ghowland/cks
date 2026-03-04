@@ -31,7 +31,7 @@
 
 ## ABSTRACT
 
-We derive complete graphics and physics pipeline architecture using VFR (Value-Factor-Remainder) exact rational arithmetic, achieving perfect geometric accuracy and deterministic physical simulation. Building on Q-Taylor series (MATH-117) and VFR linear algebra (MATH-118), we specify: (1) **Transform hierarchy** - scene graph with exact composition preventing drift across any depth, (2) **Camera system** - perspective and orthographic projections maintaining perfect mathematical properties, (3) **Skeletal animation** - bone transformations and vertex skinning without vertex swimming or numerical wandering, (4) **Rigid body physics** - position, velocity, and orientation evolution with perfect energy conservation, (5) **Collision detection** - exact contact point computation and penetration depth calculation, (6) **Constraint solving** - joint and contact constraints solved exactly through VFR linear algebra, (7) **Deterministic replay** - identical results across platforms and runs guaranteed by rational arithmetic. Complete architecture specified through Zig structures and data flow description. Traditional floating-point pipelines produce approximate results with accumulated drift. VFR pipeline achieves mathematical exactness through integer-based rational computation at all stages.
+We derive complete graphics and physics pipeline architecture using VFR (Value-Factor-Remainder) exact rational arithmetic, achieving perfect geometric accuracy and deterministic physical simulation. Building on Q-Taylor series (MATH-118) and VFR linear algebra (MATH-119), we specify: (1) **Transform hierarchy** - scene graph with exact composition preventing drift across any depth, (2) **Camera system** - perspective and orthographic projections maintaining perfect mathematical properties, (3) **Skeletal animation** - bone transformations and vertex skinning without vertex swimming or numerical wandering, (4) **Rigid body physics** - position, velocity, and orientation evolution with perfect energy conservation, (5) **Collision detection** - exact contact point computation and penetration depth calculation, (6) **Constraint solving** - joint and contact constraints solved exactly through VFR linear algebra, (7) **Deterministic replay** - identical results across platforms and runs guaranteed by rational arithmetic. Complete architecture specified through Zig structures and data flow description. Traditional floating-point pipelines produce approximate results with accumulated drift. VFR pipeline achieves mathematical exactness through integer-based rational computation at all stages.
 
 **Revolutionary claim:** Computer graphics and physics can be mathematically exact - every transform perfect, every collision precise, every replay identical - through comprehensive VFR architecture.
 
@@ -64,8 +64,8 @@ Properties:
 - Zero approximation error
 - Verifiable equality
 
-From MATH-117: Q-Taylor series
-From MATH-118: VFR linear algebra
+From MATH-118: Q-Taylor series
+From MATH-119: VFR linear algebra
 
 Both establish:
 All operations exact
@@ -1206,7 +1206,7 @@ Time Step (fixed dt in VFR):
    - For each contact constraint:
      * Compute Jacobian matrices (exact)
      * Compute effective mass: K = J × M^(-1) × J^T
-     * VFR matrix inverse from MATH-118
+     * VFR matrix inverse from MATH-119
      * All exact
    - For each joint:
      * Similar Jacobian computation

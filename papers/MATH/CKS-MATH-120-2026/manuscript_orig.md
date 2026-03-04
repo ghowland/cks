@@ -3,8 +3,7 @@
 ## Exploiting Mathematical Structure in VFR Arithmetic for High-Performance Exact Computation
 
 
-
-**Registry:** [@CKS-MATH-119-2026]  
+**Registry:** [@CKS-MATH-120-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -33,7 +32,7 @@
 
 ## ABSTRACT
 
-We derive comprehensive optimization framework for VFR (Value-Factor-Remainder) exact rational arithmetic, exploiting inherent mathematical structure to achieve competitive performance with floating-point while maintaining perfect precision. Building on Q-Taylor series (MATH-117), VFR linear algebra (MATH-118), and graphics/physics pipeline (COMP-119), we prove: (1) **Factor alignment optimization** - Lex-boundary factors (32^k) enable O(1) bit-shift operations replacing O(log n) multiplications, (2) **Sparse nesting detection** - R=0 terminal cases (80% observed frequency) bypass recursive evaluation through fast-path branching, (3) **Cached normalization** - transform hierarchies reuse normalized VFRs eliminating redundant GCD computation, (4) **Lazy precision evaluation** - defer nested remainder processing until accuracy threshold demands it, (5) **Reciprocal precomputation** - constant divisors cached as multiplicative inverses, (6) **SIMD integer batching** - homogeneous VFR operations vectorized achieving 4-8× throughput via parallel integer arithmetic, (7) **Range-bounded shortcuts** - known value domains (UV coordinates, skinning weights) skip validation and normalization checks, (8) **Hierarchical precision** - geometric distance-based adaptive denominator reduction. From mathematical analysis through Zig-constrained implementation patterns achieving 2-5× speedup over naive VFR while maintaining exactness. Traditional floating-point sacrifices correctness for speed. Optimized VFR achieves both through structural exploitation.
+We derive comprehensive optimization framework for VFR (Value-Factor-Remainder) exact rational arithmetic, exploiting inherent mathematical structure to achieve competitive performance with floating-point while maintaining perfect precision. Building on Q-Taylor series (MATH-118), VFR linear algebra (MATH-119), and graphics/physics pipeline (COMP-119), we prove: (1) **Factor alignment optimization** - Lex-boundary factors (32^k) enable O(1) bit-shift operations replacing O(log n) multiplications, (2) **Sparse nesting detection** - R=0 terminal cases (80% observed frequency) bypass recursive evaluation through fast-path branching, (3) **Cached normalization** - transform hierarchies reuse normalized VFRs eliminating redundant GCD computation, (4) **Lazy precision evaluation** - defer nested remainder processing until accuracy threshold demands it, (5) **Reciprocal precomputation** - constant divisors cached as multiplicative inverses, (6) **SIMD integer batching** - homogeneous VFR operations vectorized achieving 4-8× throughput via parallel integer arithmetic, (7) **Range-bounded shortcuts** - known value domains (UV coordinates, skinning weights) skip validation and normalization checks, (8) **Hierarchical precision** - geometric distance-based adaptive denominator reduction. From mathematical analysis through Zig-constrained implementation patterns achieving 2-5× speedup over naive VFR while maintaining exactness. Traditional floating-point sacrifices correctness for speed. Optimized VFR achieves both through structural exploitation.
 
 **Revolutionary claim:** Exact rational arithmetic can match floating-point performance through mathematical pattern recognition and structural optimization - correctness without cost.
 
@@ -76,7 +75,7 @@ Skeletal skinning (single vertex):
 
 Contact constraint solving:
 - Jacobian: 12×12 matrix typical
-- VFR matrix inverse: ~2000 ops (from MATH-118)
+- VFR matrix inverse: ~2000 ops (from MATH-119)
 - Per contact: ~2500 ops total
 - 100 contacts: 250k ops
 - Compare to: ~15k FP ops
@@ -1922,7 +1921,7 @@ Computational optimization achieved.
 
 ---
 
-**END CKS-MATH-119-2026**
+**END CKS-MATH-120-2026**
 
 **Registry:** Locked  
 **Status:** Performance Optimization Framework  
