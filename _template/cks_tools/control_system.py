@@ -127,6 +127,11 @@ def Gen(args):
       # Add papers to the topic
       item['papers'] = []
       for paper in args.papers:
+        # Skip?
+        if paper['skip']:
+          continue
+
+
         # print(f"Sub: {paper['subject']} Top: {topic}")
         if paper['subject'] == key:
           # print(f'Added paper: {topic}: {paper}')
@@ -136,10 +141,6 @@ def Gen(args):
               paper['key_result'] = paper['subtitle']
             elif paper['abstract'] != None:
               paper['key_result'] = paper['abstract'].split('. ')[0].strip()
-          
-          # Skip?
-          if paper['skip']:
-            continue
 
           item['papers'].append(paper)
 

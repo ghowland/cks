@@ -1,5 +1,5 @@
-# CKS-BIO-68-2026: Qualia as LERP from K-Space to X-Space
-
+# Qualia as LERP from K-Space to X-Space
+## Qualia is LERP
 
 **Registry:** [@CKS-BIO-1-2026]  
 

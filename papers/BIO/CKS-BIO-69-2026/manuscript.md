@@ -1,5 +1,5 @@
-# CKS-BIO-69-2026: The Topology of Malignancy
-
+# The Topology of Malignancy
+## Cancer is a topology error
 
 **Registry:** [@CKS-BIO-1-2026]  
 

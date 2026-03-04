@@ -1,5 +1,5 @@
-# CKS-BIO-67-2026: The Bandwidth Model of Human Health
-
+# The Bandwidth Model of Human Health
+## Health = signal-to-noise ratio
 
 **Registry:** [@CKS-BIO-1-2026]  
 

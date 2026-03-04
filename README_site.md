@@ -111,7 +111,7 @@
 | **[[@CKS-MATH-74-2026]](papers/MATH/CKS-MATH-74-2026/)** | **CKS-MATH-74-2026: The Multimodal Successor** | Time = resolution buffer | Future = interference | Choice = coherence | Will = amplification | Collapse = SNR selection |
 | **[[@CKS-MATH-75-2026]](papers/MATH/CKS-MATH-75-2026/)** | **CKS-MATH-75-2026: Spatial Re-Indexing Mechanics** | Teleport = pointer update | 512-bit = threshold | Coherence = safety | Distance = illusion | Repair = prerequisite |
 | **[[@CKS-MATH-76-2026]](papers/MATH/CKS-MATH-76-2026/)** | **CKS-MATH-76-2026: Omni-Domain Alignment** | 3 parameters → all constants | D×S=6 | D^S=9 | W×S=64 | W^S=1024 | Δ=19 | Omni-domain unity |
-| **[[@CKS-MATH-77-2026]](papers/MATH/CKS-MATH-77-2026/)** | **Grand Unification v16: The Complete KSpace Substrate** | None |
+| **[[@CKS-MATH-77-2026]](papers/MATH/CKS-MATH-77-2026/)** | **Grand Unification v16** | The Complete KSpace Substrate |
 | **[[@CKS-MATH-78-2026]](papers/MATH/CKS-MATH-78-2026/)** | **Grand Unification v17** | The Complete Hierarchical Harmonic Structure |
 | **[[@CKS-MATH-79-2026]](papers/MATH/CKS-MATH-79-2026/)** | **Grand Unification v18** | The Pivot Lex Architecture |
 | **[[@CKS-MATH-8-2026]](papers/MATH/CKS-MATH-8-2026/)** | **The Origin of 163** | 163 = 12×13 + 7 = unique minimal closed configuration carrying exactly one lattice curvature quantum |
@@ -134,7 +134,7 @@
 | **[[@CKS-MATH-95-2026]](papers/MATH/CKS-MATH-95-2026/)** | **CKS-MATH-62-2026: Grand Unification v11 — The Rational Substrate** | Reality is ℚ (rationals), not ℝ (reals). 2 axioms + 1 measurement → all physics. Zero free parameters. Maximum falsifiability. |
 | **[[@CKS-MATH-96-2026]](papers/MATH/CKS-MATH-96-2026/)** | **Grand Unification v12 — The Rational Substrate** | Reality is ℚ (rationals), not ℝ (reals). 2 axioms + 1 measurement → all physics. Zero free parameters. Maximum falsifiability. |
 | **[[@CKS-MATH-97-2026]](papers/MATH/CKS-MATH-97-2026/)** | **CKS-MATH-63-2026: Grand Unification v13 — The Complete Substrate** | One axiom (N = DM^S) + one measurement (N ≈ 9×10^60) → all physics + all consciousness + all ethics. Zero free parameters. Maximum falsifiability. |
-| **[[@CKS-MATH-98-2026]](papers/MATH/CKS-MATH-98-2026/)** | **GU v14-A: The Complete CKS Grand Unification** | None |
+| **[[@CKS-MATH-98-2026]](papers/MATH/CKS-MATH-98-2026/)** | **Grand Unification v14-A** | The Complete CKS Grand Unification |
 | **[[@CKS-MATH-99-2026]](papers/MATH/CKS-MATH-99-2026/)** | **Grand Unification v14-B** | The Complete Rational Substrate Framework: Integrating Forced Combinatorics, Biological Architecture, and Temporal-Spatial Mechanics |
 
 
@@ -234,18 +234,18 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/)** | **Logismos Technical Specification for LLMs** | This document provides complete implementation guidelines for Logismos integer calculus, the rational (ℚ) arithmetic system underlying CKS substrate mechanics |
-| **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/)** | **CKS-LOGI-10-2026: The Partigen Standard** | We formalize the **Partigen** (℘ = 32^(-1)) as the fundamental counting base of the discrete ℚ-lattice substrate |
-| **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/)** | **CKS-LOGI-11-2026: The Complete Derivation Manual** | We present the complete operational manual for deriving all physical, biological, and cosmological constants from N=7 using Logismos VFR notation in base-Partigen (℘=32^(-1)) |
+| **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/)** | **CKS-LOGI-10-2026: The Partigen Standard** | Discrete ℚ-Calculus via Partigen Base Counting |
+| **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/)** | **CKS-LOGI-11-2026: The Complete Derivation Manual** | How to Derive Everything from N=7 Using Logismos in Base-Partigen |
 | **[[@CKS-LOGI-12-2026]](papers/LOGI/CKS-LOGI-12-2026/)** | **CKS-LOGI-12-2026: Logismos Technical Specification and Usage** | Mathematics becomes addressing system, not approximation engine. |
 | **[[@CKS-LOGI-13-2026]](papers/LOGI/CKS-LOGI-13-2026/)** | **CKS-LOGI-13-2026: Logismos Notation** | Mathematics should never approximate—it should address exactly. |
 | **[[@CKS-LOGI-2-2026]](papers/LOGI/CKS-LOGI-2-2026/)** | **CKS-LOGI-2-2026: The Categorical Boundary** | Two domains | Same logic | Different substrates | Physics = mandatory | Society = chosen | Unified framework |
 | **[[@CKS-LOGI-3-2026]](papers/LOGI/CKS-LOGI-3-2026/)** | **CKS-LOGI-3-2026: Logismos Practical Applications and Industrial Translation** | Slope = read R | Integration = sum packets | Math = telemetry | No drift | Exact integers | A* native on hex |
-| **[[@CKS-LOGI-4-2026]](papers/LOGI/CKS-LOGI-4-2026/)** | **CKS-LOGI-4-2026: Logismos for Elementary Level Education** | None |
-| **[[@CKS-LOGI-5-2026]](papers/LOGI/CKS-LOGI-5-2026/)** | **CKS-LOGI-5-2026: Logismos for Middle School Education** | None |
-| **[[@CKS-LOGI-6-2026]](papers/LOGI/CKS-LOGI-6-2026/)** | **CKS-LOGI-6-2026: Logismos for High School Education - Building the K-Verse** | None |
-| **[[@CKS-LOGI-7-2026]](papers/LOGI/CKS-LOGI-7-2026/)** | **CKS-LOGI-7-2026: Logismos for Adult Education - Personal Goal Engineering** | None |
-| **[[@CKS-LOGI-8-2026]](papers/LOGI/CKS-LOGI-8-2026/)** | **CKS-LOGI-8-2026: Logismos as Ongoing Education - The LLM Oracle Partnership** | None |
-| **[[@CKS-LOGI-9-2026]](papers/LOGI/CKS-LOGI-9-2026/)** | **CKS-LOGI-9-2026: Lessons of Logismos - Reflections from an LLM** | None |
+| **[[@CKS-LOGI-4-2026]](papers/LOGI/CKS-LOGI-4-2026/)** | **Logismos for Elementary Level Education** | This document provides age-appropriate introduction of Logismos for elementary students |
+| **[[@CKS-LOGI-5-2026]](papers/LOGI/CKS-LOGI-5-2026/)** | **Logismos for Middle School Education** | This document provides practical, experiment-based Logismos instruction for middle school students |
+| **[[@CKS-LOGI-6-2026]](papers/LOGI/CKS-LOGI-6-2026/)** | **Logismos for High School Education** | Building the K-Verse |
+| **[[@CKS-LOGI-7-2026]](papers/LOGI/CKS-LOGI-7-2026/)** | **Logismos for Adult Education** | Personal Goal Engineering |
+| **[[@CKS-LOGI-8-2026]](papers/LOGI/CKS-LOGI-8-2026/)** | **Logismos as Ongoing Education** | The LLM Oracle Partnership |
+| **[[@CKS-LOGI-9-2026]](papers/LOGI/CKS-LOGI-9-2026/)** | **Lessons of Logismos** | Reflections from an LLM |
 
 
 ---
