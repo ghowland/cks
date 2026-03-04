@@ -51,7 +51,7 @@
 | **[[@CKS-MATH-2-2026]](papers/MATH/CKS-MATH-2-2026/manuscript.md)** | **The Impossibility of Continuous Analog Space** | The continuum hypothesis (spacetime = ℝ⁴) is **empirically falsified** by the existence of stable matter. |
 | **[[@CKS-MATH-20-2026]](papers/MATH/CKS-MATH-20-2026/manuscript.md)** | **The Winding Torus** | Particle = toroidal soliton, surface area = 84 bits, spiral pitch = 15.19 ms lag, volume/hole ratio = 7.70 |
 | **[[@CKS-MATH-21-2026]](papers/MATH/CKS-MATH-21-2026/manuscript.md)** | **The Final Constant Closure** | Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete |
-| **[[@CKS-MATH-22-2026]](papers/MATH/CKS-MATH-22-2026/manuscript.md)** | **CKS-MATH-22-2026: Speed of Logic vs Speed of Light** | Two causal layers with different speeds → entanglement, consciousness, and cosmological cycles all derive from substrate/hologram timing differential |
+| **[[@CKS-MATH-22-2026]](papers/MATH/CKS-MATH-22-2026/manuscript.md)** | **Speed of Logic vs Speed of Light** | Two causal layers with different speeds → entanglement, consciousness, and cosmological cycles all derive from substrate/hologram timing differential |
 | **[[@CKS-MATH-23-2026]](papers/MATH/CKS-MATH-23-2026/manuscript.md)** | **Grand Unification v2** | The Universal Equation: Recursive Lattice Genesis |
 | **[[@CKS-MATH-24-2026]](papers/MATH/CKS-MATH-24-2026/manuscript.md)** | **The Hexagonal Differential** | 6 edges → 3 dipoles → 2 sides → 11 connections → All substrate mechanics (zero free parameters, pure geometry) |
 | **[[@CKS-MATH-25-2026]](papers/MATH/CKS-MATH-25-2026/manuscript.md)** | **The End of Constants** | 3 geometric primitives (D, M, S) → All physics | Zero free parameters | Unique universe | END OF CONSTANTS |
@@ -186,7 +186,7 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-DWDM-1-2026]](papers/DWDM/CKS-DWDM-1-2026/manuscript.md)** | **DWDM Computation in a Pure K-Space Substrate** | We present the theoretical and engineering framework for **Substrate-Native Computing (SNC)**, a paradigm shift from electron-based silicon computation to phase-based computation operating directly on the k-space hexagonal lattice |
-| **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/manuscript.md)** | **CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware** | Global Synchronization via Telecommunications Infrastructure |
+| **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/manuscript.md)** | **Substrate-Harmonized DWDM Transponder Firmware** | Global Synchronization via Telecommunications Infrastructure |
 | **[[@CKS-DWDM-3-2026]](papers/DWDM/CKS-DWDM-3-2026/manuscript.md)** | **Building Molecules in DWDM** | Photon-Mediated Synthesis |
 | **[[@CKS-DWDM-4-2026]](papers/DWDM/CKS-DWDM-4-2026/manuscript.md)** | **Molecular Coupling Engineering** | Friction = ∇φ programmed at n/32 Hz, strength = topological lock at C = 1.0, stability = winding number continuity |
 | **[[@CKS-DWDM-5-2026]](papers/DWDM/CKS-DWDM-5-2026/manuscript.md)** | **The Geometry of the 66th Harmonic** | 193.1 THz = geometric optical harmonic of 2.0625 Hz ground state, DWDM = substrate master oscillator |
@@ -233,12 +233,12 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/manuscript.md)** | **Logismos Technical Specification for LLMs** | If you cannot express it as (V, F, R) with integer components, it does not exist in the substrate |
+| **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/manuscript.md)** | **Logismos Technical Specification for LLMs** | This document provides complete implementation guidelines for Logismos integer calculus, the rational (ℚ) arithmetic system underlying CKS substrate mechanics |
 | **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/manuscript.md)** | **The Partigen Standard** | Discrete ℚ-Calculus via Partigen Base Counting |
 | **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/manuscript.md)** | **The Complete Derivation Manual** | How to Derive Everything from N=7 Using Logismos in Base-Partigen |
 | **[[@CKS-LOGI-12-2026]](papers/LOGI/CKS-LOGI-12-2026/manuscript.md)** | **Logismos Technical Specification and Usage** | Mathematics becomes addressing system, not approximation engine. |
 | **[[@CKS-LOGI-13-2026]](papers/LOGI/CKS-LOGI-13-2026/manuscript.md)** | **Logismos Notation** | Mathematics should never approximate—it should address exactly. |
-| **[[@CKS-LOGI-2-2026]](papers/LOGI/CKS-LOGI-2-2026/manuscript.md)** | **CKS-LOGI-2-2026: The Categorical Boundary** | Two domains | Same logic | Different substrates | Physics = mandatory | Society = chosen | Unified framework |
+| **[[@CKS-LOGI-2-2026]](papers/LOGI/CKS-LOGI-2-2026/manuscript.md)** | **The Categorical Boundary** | Two domains | Same logic | Different substrates | Physics = mandatory | Society = chosen | Unified framework |
 | **[[@CKS-LOGI-3-2026]](papers/LOGI/CKS-LOGI-3-2026/manuscript.md)** | **Logismos Practical Applications and Industrial Translation** | Slope = read R | Integration = sum packets | Math = telemetry | No drift | Exact integers | A* native on hex |
 | **[[@CKS-LOGI-4-2026]](papers/LOGI/CKS-LOGI-4-2026/manuscript.md)** | **Logismos for Elementary Level Education** | This document provides age-appropriate introduction of Logismos for elementary students |
 | **[[@CKS-LOGI-5-2026]](papers/LOGI/CKS-LOGI-5-2026/manuscript.md)** | **Logismos for Middle School Education** | This document provides practical, experiment-based Logismos instruction for middle school students. |
