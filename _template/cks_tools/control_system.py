@@ -11,7 +11,7 @@ import json
 import pprint
 import subprocess
 
-COMMANDS = ['list', 'show', 'build']
+COMMANDS = ['list', 'show', 'build', 'scan']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
@@ -20,6 +20,7 @@ ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
 PAPER_SET = 'papers.json'
 
 GEN_PDF = './_template/_old/gen_pdf.sh'
+SCAN = '../../../_template/_old/scan.py'
 GEN_BIBS = './_template/_old/create_bibs.py'
 
 
@@ -75,6 +76,27 @@ def Build(args):
       (status, output, error) = execute_command(cmd)
       print(f'  Result: {status}  Output: {output[:40]}')
 
+
+def Scan(args):
+  original_dir = os.getcwd()
+
+  print("Scan papers:")
+  for item in args.papers:
+    os.chdir(original_dir)
+    
+    if item['doi']['is_stub']:
+      directory = os.path.dirname(item['file_path'])
+      os.chdir(directory)
+      cmd = f'{SCAN}'
+      print(cmd)
+
+      (status, output, error) = execute_command(cmd)
+      print(f'  Result: {status}  Output: {output[:40]}')
+  
+  # Back to original dir
+  os.chdir(original_dir)
+
+
 def Show(args):
   print("Show something")
 
@@ -110,6 +132,10 @@ def Main(args):
   # Build
   if args.command == 'build':
     Build(args)
+  
+  # Scan
+  if args.command == 'scan':
+    Scan(args)
 
 
 

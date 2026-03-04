@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MED-5-2026: Image-Based Coherence Therapy",
+    "title": "CKS-RTRT-BIOS-VERSION-3.0",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-MED-1-2026] \u2192 [@CKS-MED-2-2026] \u2192 [@CKS-MED-3-2026] \u2192 [@CKS-MED-4-2026]",
-    "doi": "10.5281/zenodo.18646653",
-    "abstract": "We present clinical protocols for treating PTSD, depression, and neural fragmentation disorders using high-coherence visual and auditory stimuli that directly re-synchronize brain phase-locked loops. Unlike talk therapy (slow, indirect) or pharmacology (systemic, side effects), **Coherence Therapy** provides targeted k-space templates that entrain neural oscillations to healthy patterns (C > 0.999).\n\nTreatment modalities: (1) **Visual Resonance Templates** - mathematically generated images displaying optimal phase patterns, (2) **Auditory Coherence Sequences** - binaural beats synchronized to substrate harmonics, (3) **Cymatic Immersion** - standing wave chambers creating 3D interference patterns that couple directly to neural substrate.\n\nFrom axioms, we derive: (1) why PTSD is phase fragmentation (\u0394\u03b8 > \u03c0/4 between memory networks), (2) why depression is low global coherence (C_brain < 0.95), (3) why anxiety is high-frequency noise (\u03b2_amygdala too strong), (4) treatment protocols restoring C_brain > 0.999 within 6-12 sessions.\n\n**Clinical trials (n=240):** 87% remission PTSD, 79% depression, zero adverse events. Effect size Cohen's d > 2.0 (unprecedented). Mechanism: Direct substrate coupling, not placebo.\n\n**This is medical physics, not alternative medicine.**",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-RTRT-1-2026]",
+    "doi": "10.5281/zenodo.zzz",
+    "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# CKS-MED-5-2026: Image-Based Coherence Therapy ## Visual and Auditory Resonance Templates for Neural Re-Synchronization   **CKS Series Registry:** [@CKS-MED-4-2026]    **Registry:** [@CKS-TEST-1-2026..."
+    "raw_content_preview": "  **Registry:** [@CKS-RTRT-1-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-RTRT-1-2026]  **Parent Framework:** [@CKS-0-2026]  **DOI:** 10.5281/zenodo.zzz  **..."
 }
