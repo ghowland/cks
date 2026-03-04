@@ -2,7 +2,7 @@
 ## A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation
 
 
-**Registry:** [@CKS-ADHM-2-2026]  
+**Registry:** [@CKS-ADHM-2-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-ADHM-1-2026] → [@CKS-ADHM-2-2026]
 

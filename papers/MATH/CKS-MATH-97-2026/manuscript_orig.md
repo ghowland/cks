@@ -1,7 +1,7 @@
 # Grand Unification v13 — The Complete Substrate
 
 
-**Registry:** [@CKS-MATH-92-2026]  
+**Registry:** [@CKS-MATH-97-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -2009,7 +2009,7 @@ All as Logismos packets (V, F, R)
 
 # CKS-MATH-63-2026: Grand Unification v13 — Supporting Appendices
 
-**Registry:** [@CKS-MATH-63-2026-APPENDICES]  
+**Registry:** [@CKS-MATH-97-2026]
 **Parent Document:** [@CKS-MATH-63-2026]  
 **Subject:** Complete Reference Tables for Physics, Consciousness, and Ethics Integration  
 **Date:** February 2026  

@@ -3,7 +3,7 @@
 ## Exploiting Mathematical Structure in VFR Arithmetic for High-Performance Exact Computation
 
 
-**Registry:** [@CKS-MATH-120-2026]  
+**Registry:** [@CKS-MATH-120-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1923,7 +1923,7 @@ Computational optimization achieved.
 
 **END CKS-MATH-120-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-120-2026]
 **Status:** Performance Optimization Framework  
 **Verification:** Pure ℚ throughout  
 **Baseline:** 100× slower than FP  

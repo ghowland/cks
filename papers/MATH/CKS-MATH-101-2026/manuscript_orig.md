@@ -1,7 +1,7 @@
 # Grand Unification v15-B
 ## The Complete Rational Substrate Framework
 
-**Registry:** [@CKS-MATH-92-2026]  
+**Registry:** [@CKS-MATH-101-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -1493,7 +1493,7 @@ f = 65.8 Hz       Flicker fusion
 
 **END OF GRAND UNIFICATION v15**
 
-**Registry:** [@CKS-MATH-77-2026]  
+**Registry:** [@CKS-MATH-101-2026]
 **Status:** Complete Integration  
 **Version:** 15.0  
 **Date:** February 2026  

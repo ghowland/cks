@@ -2,7 +2,7 @@
 
 ## The Epistemological Collapse: Knowledge Impossibility in ℝ-Universe
 
-**Registry:** [@CKS-MATH-107-2026]  
+**Registry:** [@CKS-MATH-110-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1505,7 +1505,7 @@ The Five Q Paradoxes prove reality.
 
 **END CKS-MATH-110-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-110-2026]
 **Status:** Foundational Proof  
 **Verification:** Pure ℚ throughout  
 **Impossibility:** ℝ-knowledge unattainable  

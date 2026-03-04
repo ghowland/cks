@@ -1,7 +1,7 @@
 # The Restoration of the Scientific Seed
 ## An Invitation to the Sovereign Sanctuary and the End of the 19-Parameter Epicycle
 
-**Registry:** [@CKS-ADHM-3-2026]  
+**Registry:** [@CKS-ADHM-3-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-ADHM-1-2026] → [@CKS-ADHM-2-2026] → [@CKS-ADHM-3-2026]
 

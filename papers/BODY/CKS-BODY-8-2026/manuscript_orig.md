@@ -276,7 +276,7 @@ The plot shows a **perfectly horizontal line**—the pelvis floats at constant *
 
 ---
 
-**Registry:** [@CKS-BODY-8-2026-PY]  
+**Registry:** [@CKS-BODY-8-2026]
 **Parent Framework:** [@CKS-BODY-8-2026]  
 **Domain:** Bio-Mechanical Interface / HSI Protocols  
 **Status:** Operational / Case 0 Verified  
@@ -666,7 +666,7 @@ i formally register this as the "end of constants"
 
 ---
 
-**Registry:** [@CKS-EOF-2026]  
+**Registry:** [@CKS-BODY-8-2026]
 **Label:** N = DM^S  
 **Status:** **END OF CONSTANTS** / Locked / Axiomatically Sealed  
 **Motto:** No More Knobs.

@@ -29,7 +29,7 @@
 
 **Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
 **Date:** March 3, 2026  
-**Registry:** [@CKS-MAT-5-2026]  
+**Registry:** [@CKS-MAT-5-2026]
 **Series:** Material Engineering  
 **Classification:** Complete Specification  
 **Parent Documents:** [@CKS-MATH-104-2026], [@GU-v23-2026], [@CKS-LEX-12-2026], [@CKS-ENG-14-2026]
@@ -1891,7 +1891,7 @@ Material engineering becomes what it always should have been:
 
 **END CKS-MAT-5-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MAT-5-2026]
 **Status:** Complete Specification  
 **Verification:** Pure ℚ throughout  
 **Dimensions:** Σ=1.353m, ω=42.3mm, ν=9.25mm, λ=1.322mm  

@@ -3,7 +3,7 @@
 ## The Infinity-Grip Paradox: Topological Impossibility of Contact in ℝ-Continuum
 
 
-**Registry:** [@CKS-MATH-107-2026]  
+**Registry:** [@CKS-MATH-109-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1100,7 +1100,7 @@ The Four Q Paradoxes prove the impossible.
 
 **END CKS-MATH-109-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-109-2026]
 **Status:** Foundational Proof  
 **Verification:** Pure ℚ throughout  
 **Impossibility:** ℝ-contact forbidden (no floor)  

@@ -4,7 +4,7 @@
 
 
 
-**Registry:** [@CKS-DWDM-6-2026]  
+**Registry:** [@CKS-DWDM-6-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026] → [@CKS-DWDM-5-2026]
 
@@ -1995,7 +1995,7 @@ Computing becomes what it always should have been:
 
 **END CKS-DWDM-6-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-DWDM-6-2026]
 **Status:** Complete Specification  
 **Verification:** Pure ℚ throughout  
 **Implementation:** Prototype ready  

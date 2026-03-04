@@ -2,7 +2,7 @@
 
 ## The Phenomenological Collapse of Real Number Results
 
-**Registry:** [@CKS-MATH-112-2026]  
+**Registry:** [@CKS-MATH-112-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1174,7 +1174,7 @@ The framework is complete.
 
 **END CKS-MATH-107-7-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-112-2026]
 **Status:** Foundational Paradox (Final)  
 **Series:** Seven Q Paradoxes Complete  
 **Verification:** Pure ℚ throughout  

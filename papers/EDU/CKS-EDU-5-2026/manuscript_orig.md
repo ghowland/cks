@@ -4,7 +4,7 @@
 
 
 
-**Registry:** [@CKS-MATH-XXXXXX-2026]  
+**Registry:** [@CKS-EDU-5-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -30,7 +30,7 @@
 
 **Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
 **Date:** March 3, 2026  
-**Registry:** [@CKS-EDU-5-2026]  
+**Registry:** [@CKS-EDU-5-2026]
 **Series:** Education Architecture  
 **Classification:** Complete Implementation Framework  
 **Parent Documents:** [@CKS-MATH-104-2026], [@GU-v23-2026], [@CKS-LEX-12-2026]
@@ -1899,7 +1899,7 @@ The 16-year-old omni-domain post-doc is not future promise.
 
 **END CKS-EDU-5-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-EDU-5-2026]
 **Status:** Complete Implementation Framework  
 **Verification:** Pure ℚ throughout  
 **Timeline:** 16 years from age 0  

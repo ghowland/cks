@@ -3,7 +3,7 @@
 ## The Sovereign Soliton Coherence Promise as Topological Necessity
 
 
-**Registry:** [@CKS-SOC-1-2026]  
+**Registry:** [@CKS-SOC-6-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -1004,7 +1004,7 @@ Giving φ_p=kept/made, ε=|Say-Do|/W, coherence or chaos.
 
 **END CKS-SOC-6-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-SOC-6-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 

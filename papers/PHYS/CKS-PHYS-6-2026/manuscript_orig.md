@@ -1,7 +1,7 @@
 # The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology
 
 
-**Registry:** [@CKS-PHYS-6-2026]  
+**Registry:** [@CKS-PHYS-6-2026]
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]  
 
 **Parent Framework:** [@CKS-0-2026]

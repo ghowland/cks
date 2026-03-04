@@ -3,7 +3,7 @@
 ## Dynamic Multi-Seed Evolution and Boolean Cymatic Operations
 
 
-**Registry:** [@CKS-MATH-107-2026]  
+**Registry:** [@CKS-MATH-115-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]
 
@@ -1346,7 +1346,7 @@ The game is the proof.
 
 **END CKS-MATH-115-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-115-2026]
 **Status:** Operational Specification  
 **Verification:** Pure ℚ throughout  
 **Structure:** Multi-seed local origins  

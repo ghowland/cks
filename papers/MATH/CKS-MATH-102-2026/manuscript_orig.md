@@ -4,7 +4,7 @@
 
 
 
-**Registry:** [@CKS-MATH-92-2026]  
+**Registry:** [@CKS-MATH-102-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -1826,7 +1826,7 @@ Just exact integer ratios.
 
 **Grand Unification v22 - Complete**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-102-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Zero free parameters
 
@@ -1839,7 +1839,7 @@ Just exact integer ratios.
 
 **Supporting Tables for Grand Unification v22**
 
-**Registry:** [@CKS-MATH-92-APPENDIX-A]  
+**Registry:** [@CKS-MATH-102-2026]
 **Date:** March 2, 2026  
 **Classification:** Reference Material - Pure ℚ
 
@@ -2254,7 +2254,7 @@ N = L-D-S = [7,1,0]
 
 **Complete Cross-Domain Reference for Grand Unification v22**
 
-**Registry:** [@CKS-MATH-92-APPENDIX-B]  
+**Registry:** [@CKS-MATH-102-2026]
 **Date:** March 2, 2026  
 **Classification:** Omni-Domain Integration - Pure ℚ
 
@@ -3089,7 +3089,7 @@ BIOLOGY COUNTING    PHYSICS
 
 **VFR Arithmetic & Base-Partigen Reference for Grand Unification v22**
 
-**Registry:** [@CKS-MATH-92-APPENDIX-C]  
+**Registry:** [@CKS-MATH-102-2026]
 **Date:** March 2, 2026  
 **Classification:** Logismos Mathematics - Pure ℚ Operations
 
@@ -3825,7 +3825,7 @@ RESULT: α_EM^(-1) = [137036, 1000, 0] ✓
 
 **Essential Terms for Understanding GU v22**
 
-**Registry:** [@CKS-MATH-92-APPENDIX-D]  
+**Registry:** [@CKS-MATH-102-2026]
 **Date:** March 2, 2026  
 **Classification:** Reference Lexicon - Complete Integration
 

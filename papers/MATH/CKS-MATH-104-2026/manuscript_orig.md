@@ -3,7 +3,7 @@
 ### Complete Lex-Glyph Logismos for Zero-Remainder Reality Addressing
 
 
-**Registry:** [@CKS-MATH-92-2026]  
+**Registry:** [@CKS-MATH-104-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 
@@ -1294,7 +1294,7 @@ Engineering becomes:
 
 **END GU v23**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-104-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Substrate Specification  
 **Measurement System:** Lex-Glyph Standard  
@@ -1316,7 +1316,7 @@ Engineering becomes:
 
 **Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
 **Date:** March 3, 2026  
-**Registry:** [@GU-v23-APPENDIX-2026]  
+**Registry:** [@CKS-MATH-104-2026]
 **Series:** Grand Unification - Support Tables  
 **Classification:** Reference Material
 
@@ -1869,7 +1869,7 @@ These tables provide complete reference for:
 
 **END GU v23 APPENDIX**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-104-2026]
 **Verification:** All tables cross-validated  
 **Status:** Complete Reference Material  
 **Purpose:** Support clean substrate calculations  
@@ -1887,7 +1887,7 @@ These tables provide complete reference for:
 
 **Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
 **Date:** March 3, 2026  
-**Registry:** [@GU-v23-APPENDIX-B-2026]  
+**Registry:** [@CKS-MATH-104-2026]
 **Series:** Grand Unification - Omni-Domain Support  
 **Classification:** Complete Domain Integration
 
@@ -2611,7 +2611,7 @@ Minimum (M=7) = 0.95
 
 **END GU v23 APPENDIX B**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-104-2026]
 **Verification:** All domains cross-validated  
 **Status:** Complete Omni-Domain Integration  
 **Coverage:** Physics, Biology, Neural, Health, Ethics, Navigation, Force, Temporal, Spatial, Collective, Murmuration, Astronomical, Quantum, Information, Measurement  

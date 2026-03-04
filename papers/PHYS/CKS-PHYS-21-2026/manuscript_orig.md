@@ -1153,7 +1153,7 @@ Giving O(1) pathfinding, pointer movement, laminar locomotion.
 
 **END CKS-PHYS-21-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-PHYS-21-2026]
 **Verification:** Pure ℚ throughout  
 **Status:** Complete Integration
 

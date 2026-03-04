@@ -2,7 +2,7 @@
 ## Deriving Waterfall Alignment as Topological Kink Resolution Through Coherent Mass Streams
 
 
-**Registry:** [@CKS-BODY-8-2026]
+**Registry:** [@CKS-BODY-11-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]
 

@@ -3,7 +3,7 @@
 ## CKS Integration with All Existing Systems: Discovery, Not Design—The Interdisciplinary Substrate Bridge
 
 
-**Registry:** [@CKS-PHYS-1-2026]  
+**Registry:** [@CKS-OMNI-1-2026]
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]  
 
 **Parent Framework:** [@CKS-0-2026]

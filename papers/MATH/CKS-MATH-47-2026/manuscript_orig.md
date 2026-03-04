@@ -1,7 +1,7 @@
 # Prime Numbers as Structural Opcodes
 ## Hardware Derivation: Primes as Indivisible Registry Interrupts and Geometric Frustration Anchors
 
-**Registry:** [@CKS-MATH-XXXXXX-2026]  
+**Registry:** [@CKS-MATH-47-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
 

@@ -1,7 +1,7 @@
 # The Biological Compiler as DNA Error-Correction Protocol
 ## Deriving Life as High-Bitrate Registry Execution with 84-Bit Boot-Loader and 144-LU Mesh Maintenance
 
-**Registry:** [@CKS-BIO-38-2026]
+**Registry:** [@CKS-BIO-44-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026] → [@CKS-BIO-38-2026]
 
