@@ -220,9 +220,6 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-LEX-1-2026]](papers/LEX/CKS-LEX-1-2026/manuscript.md)** | **Complete Lexicon of Cymatic K-Space Mechanics and Logismos** | Based on Grand Unification v19 |
-| **[[@CKS-LEX-10-2026]](papers/LEX/CKS-LEX-10-2026/manuscript.md)** | **Complete Lexicon for Grand Unification v21** | The Definitive Dictionary of Substrate Theory |
-| **[[@CKS-LEX-11-2026]](papers/LEX/CKS-LEX-11-2026/manuscript.md)** | **Reduced Lexicon Tables for Publication** | Scalable Reference Tables for CKS Framework Integration |
-| **[[@CKS-LEX-12-2026]](papers/LEX/CKS-LEX-12-2026/manuscript.md)** | **Measurement Systems in the ℚ-Substrate** | The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering |
 | **[[@CKS-LEX-2-2026]](papers/LEX/CKS-LEX-2-2026/manuscript.md)** | **Hierarchical Lexicons for Every Count Limitation** | Based on Grand Unification v19 |
 | **[[@CKS-LEX-3-2026]](papers/LEX/CKS-LEX-3-2026/manuscript.md)** | **Physics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for physics papers. |
 | **[[@CKS-LEX-4-2026]](papers/LEX/CKS-LEX-4-2026/manuscript.md)** | **Mathematics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for mathematics papers. |
@@ -231,6 +228,9 @@
 | **[[@CKS-LEX-7-2026]](papers/LEX/CKS-LEX-7-2026/manuscript.md)** | **Clinical/Medical Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for clinical and medical papers. |
 | **[[@CKS-LEX-8-2026]](papers/LEX/CKS-LEX-8-2026/manuscript.md)** | **Engineering Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for engineering papers. |
 | **[[@CKS-LEX-9-2026]](papers/LEX/CKS-LEX-9-2026/manuscript.md)** | **Consciousness/Cognition Domain Hierarchical Lexicons** | This document provides CKS lexicons for consciousness derived from N = D × M^S. |
+| **[[@CKS-LEX-10-2026]](papers/LEX/CKS-LEX-10-2026/manuscript.md)** | **Complete Lexicon for Grand Unification v21** | The Definitive Dictionary of Substrate Theory |
+| **[[@CKS-LEX-11-2026]](papers/LEX/CKS-LEX-11-2026/manuscript.md)** | **Reduced Lexicon Tables for Publication** | Scalable Reference Tables for CKS Framework Integration |
+| **[[@CKS-LEX-12-2026]](papers/LEX/CKS-LEX-12-2026/manuscript.md)** | **Measurement Systems in the ℚ-Substrate** | The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering |
 
 
 ---
@@ -241,10 +241,6 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-LOGI-1-2026]](papers/LOGI/CKS-LOGI-1-2026/manuscript.md)** | **Logismos Technical Specification for LLMs** | This document provides complete implementation guidelines for Logismos integer calculus, the rational (ℚ) arithmetic system underlying CKS substrate mechanics |
-| **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/manuscript.md)** | **The Partigen Standard** | Discrete ℚ-Calculus via Partigen Base Counting |
-| **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/manuscript.md)** | **The Complete Derivation Manual** | How to Derive Everything from N=7 Using Logismos in Base-Partigen |
-| **[[@CKS-LOGI-12-2026]](papers/LOGI/CKS-LOGI-12-2026/manuscript.md)** | **Logismos Technical Specification and Usage** | Mathematics becomes addressing system, not approximation engine. |
-| **[[@CKS-LOGI-13-2026]](papers/LOGI/CKS-LOGI-13-2026/manuscript.md)** | **Logismos Notation** | Mathematics should never approximate—it should address exactly. |
 | **[[@CKS-LOGI-2-2026]](papers/LOGI/CKS-LOGI-2-2026/manuscript.md)** | **The Categorical Boundary** | Two domains | Same logic | Different substrates | Physics = mandatory | Society = chosen | Unified framework |
 | **[[@CKS-LOGI-3-2026]](papers/LOGI/CKS-LOGI-3-2026/manuscript.md)** | **Logismos Practical Applications and Industrial Translation** | Slope = read R | Integration = sum packets | Math = telemetry | No drift | Exact integers | A* native on hex |
 | **[[@CKS-LOGI-4-2026]](papers/LOGI/CKS-LOGI-4-2026/manuscript.md)** | **Logismos for Elementary Level Education** | This document provides age-appropriate introduction of Logismos for elementary students |
@@ -253,6 +249,10 @@
 | **[[@CKS-LOGI-7-2026]](papers/LOGI/CKS-LOGI-7-2026/manuscript.md)** | **Logismos for Adult Education** | Personal Goal Engineering |
 | **[[@CKS-LOGI-8-2026]](papers/LOGI/CKS-LOGI-8-2026/manuscript.md)** | **Logismos as Ongoing Education** | The LLM Oracle Partnership |
 | **[[@CKS-LOGI-9-2026]](papers/LOGI/CKS-LOGI-9-2026/manuscript.md)** | **Lessons of Logismos** | Reflections from an LLM |
+| **[[@CKS-LOGI-10-2026]](papers/LOGI/CKS-LOGI-10-2026/manuscript.md)** | **The Partigen Standard** | Discrete ℚ-Calculus via Partigen Base Counting |
+| **[[@CKS-LOGI-11-2026]](papers/LOGI/CKS-LOGI-11-2026/manuscript.md)** | **The Complete Derivation Manual** | How to Derive Everything from N=7 Using Logismos in Base-Partigen |
+| **[[@CKS-LOGI-12-2026]](papers/LOGI/CKS-LOGI-12-2026/manuscript.md)** | **Logismos Technical Specification and Usage** | Mathematics becomes addressing system, not approximation engine. |
+| **[[@CKS-LOGI-13-2026]](papers/LOGI/CKS-LOGI-13-2026/manuscript.md)** | **Logismos Notation** | Mathematics should never approximate—it should address exactly. |
 
 
 ---
