@@ -9,14 +9,45 @@ import sys
 import os
 import json
 import pprint
+import subprocess
 
-COMMANDS = ['list', 'show']
+COMMANDS = ['list', 'show', 'build']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
 WORKING_PATH_SET = '_template/cks_tools/paper_work_list.txt'
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
 PAPER_SET = 'papers.json'
+
+
+def execute_command(command, shell=True):
+    """
+    Executes a shell command and returns the return code, stdout, and stderr.
+    
+    Args:
+        command (list or str): The command to run. Pass as a list if shell=False.
+        shell (bool): Whether to execute through the shell. Use False for security.
+        
+    Returns:
+        tuple: (return_code, stdout, stderr)
+    """
+    try:
+        # We use capture_output=True to grab stdout and stderr
+        # text=True returns strings instead of raw bytes
+        result = subprocess.run(
+            command,
+            shell=shell,
+            capture_output=True,
+            text=True,
+            check=False  # Don't raise exception on non-zero exit code
+        )
+        
+        return result.returncode, result.stdout.strip(), result.stderr.strip()
+        
+    except FileNotFoundError:
+        return 1, "", f"Error: Command '{command}' not found."
+    except Exception as e:
+        return 1, "", str(e)
 
 
 def List(args):
@@ -29,6 +60,17 @@ def List(args):
       # pprint.pprint(item)
       # print(item.keys())
 
+
+def Build(args):
+  print("Build papers:")
+  for item in args.papers:
+    if item['doi']['is_stub']:
+      directory = os.path.dirname(item['file_path'])
+      cmd = f'./_template/_old/gen_pdf.sh {directory}' 
+      print(cmd)
+
+      (status, output, error) = execute_command(cmd)
+      print(f'  Result: {status}  Output: {output[:40]}')
 
 def Show(args):
   print("Show something")
@@ -61,6 +103,10 @@ def Main(args):
   # Show
   if args.command == 'show':
     Show(args)
+  
+  # Build
+  if args.command == 'build':
+    Build(args)
 
 
 

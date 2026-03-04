@@ -1,5 +1,12 @@
 #!/bin/bash
 
+if [ "$1" == "" ] ; then 
+    echo "Need directory as first arg, quitting"
+    exit 1
+fi
+
+cd $1
+
 # 1. Setup temporary file
 cp manuscript.md manuscript_fixed.md
 
@@ -77,3 +84,6 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
 
 # 7. Clean up
 rm manuscript_fixed.md
+
+# Zip the directory
+../../../_template/_old/gen_zip.sh
