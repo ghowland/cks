@@ -32,6 +32,7 @@ class PaperMetadata:
         self.frontmatter = self._extract_frontmatter()
         self.title = self._extract_title()
         self.key_result = self._extract_keyresult()
+        self.skip = self._extract_skip()
         self.subtitle = self._extract_subtitle()
         self.doi_info = self._extract_doi()
         self.abstract = self._extract_abstract()
@@ -121,6 +122,11 @@ class PaperMetadata:
         """Extract first H1 line"""
         match = re.search(r'^#\s+(.+)$', self.raw_content, re.MULTILINE)
         return match.group(1).strip() if match else None
+    
+    def _extract_skip(self):
+        """Extract first H1 line"""
+        match = re.search(r'^\*\*Skip:\*\*\s+(.+)$', self.raw_content, re.MULTILINE)
+        return match.group(1).strip() if match != None else False
     
     def _extract_keyresult(self):
         """Extract first H1 line"""
@@ -298,6 +304,7 @@ class PaperMetadata:
             'year': self.path_info.get('year'),
             'title': self.title,
             'key_result': self.key_result,
+            'skip': self.skip,
             'subtitle': self.subtitle,
             'doi': self.doi_info,
             'frontmatter': self.frontmatter,

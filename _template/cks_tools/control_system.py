@@ -135,6 +135,10 @@ def Gen(args):
               paper['key_result'] = paper['abstract'].split('. ')[0].strip()
             else:
               paper['key_result'] = paper['subtitle']
+          
+          # Skip?
+          if paper['skip']:
+            continue
 
           item['papers'].append(paper)
 
