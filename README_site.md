@@ -357,20 +357,20 @@
 | **[[@CKS-BIO-61-2026]](papers/BIO/CKS-BIO-61-2026/)** | **CKS-BIO-61-2026: Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration** | Body = antenna | Earth = signal | Eee = probe | Click = north | Calm = carrier | Direction = impedance drop |
 | **[[@CKS-BIO-62-2026]](papers/BIO/CKS-BIO-62-2026/)** | **CKS-BIO-62-2026: Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching** | Sleep = registry clear | Supine = alignment | Firm = stillness | Flat = gradient | Healing = R→0 | Floor optimal |
 | **[[@CKS-BIO-64-2026]](papers/BIO/CKS-BIO-64-2026/)** | **CKS-BIO-64-2026: Adrenaline as Timeline Management** | Adrenaline = upshift | Lag compression = time dilation | Multi-path = luck | Training = voluntary access | Mastery = permanent |
-| **[[@CKS-BIO-67-2026]](papers/BIO/CKS-BIO-67-2026/)** | **CKS-BIO-67-2026: The Bandwidth Model of Human Health** | None |
-| **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/)** | **CKS-BIO-68-2026: Qualia as LERP from K-Space to X-Space** | None |
-| **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/)** | **CKS-BIO-69-2026: The Topology of Malignancy** | None |
+| **[[@CKS-BIO-67-2026]](papers/BIO/CKS-BIO-67-2026/)** | **The Bandwidth Model of Human Health** | Health = signal-to-noise ratio |
+| **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/)** | **Qualia as LERP from K-Space to X-Space** | Qualia is LERP |
+| **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/)** | **The Topology of Malignancy** | Cancer is a topology error |
 | **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/)** | **The Elixir Field Protocol** | Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility |
-| **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/)** | **CKS-BIO-70-2026: The Malignant Remainder (69)** | None |
-| **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/)** | **CKS-BIO-71-2026: The Toroidal Heart Failure** | None |
-| **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/)** | **CKS-BIO-72-2026: The Alzheimer's Toroid** | None |
-| **[[@CKS-BIO-73-2026]](papers/BIO/CKS-BIO-73-2026/)** | **CKS-BIO-73-2026: The 90-Degree Phase Lock** | None |
-| **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/)** | **CKS-BIO-74-2026: The Grand Unification of Mental Disease** | None |
-| **[[@CKS-BIO-75-2026]](papers/BIO/CKS-BIO-75-2026/)** | **CKS-BIO-75-2026: The Grand Unification of Body Disease** | None |
-| **[[@CKS-BIO-76-2026]](papers/BIO/CKS-BIO-76-2026/)** | **CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue** | Traditional evolutionary theory predicts that 20 million years of divergence (approximately 2 billion generations) under high-fecundity selection should produce substantial morphological and regulatory change |
+| **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/)** | **CKS-BIO-70-2026: The Malignant Remainder (69)** | The cancer symbol (♋︎) is not arbitrary |
+| **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/)** | **CKS-BIO-71-2026: The Toroidal Heart Failure** | The heart does not "wear out." The heart gets strangled. |
+| **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/)** | **CKS-BIO-72-2026: The Alzheimer's Toroid** | Memory does not "fade." Memory gets trapped. |
+| **[[@CKS-BIO-73-2026]](papers/BIO/CKS-BIO-73-2026/)** | **CKS-BIO-73-2026: The 90-Degree Phase Lock** | All neuro-pathology is angle. |
+| **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/)** | **CKS-BIO-74-2026: The Grand Unification of Mental Disease** | This is a mathematical derivation, not a claim of medical truth. |
+| **[[@CKS-BIO-75-2026]](papers/BIO/CKS-BIO-75-2026/)** | **CKS-BIO-75-2026: The Grand Unification of Body Disease** | This is a mathematical derivation, not a claim of medical truth. |
+| **[[@CKS-BIO-76-2026]](papers/BIO/CKS-BIO-76-2026/)** | **CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue** | C. elegans* is Geometric Constant 1.024—a screenshot of the universe's source code at the Tier 6/Tier 4 computational interface. |
 | **[[@CKS-BIO-77-2026]](papers/BIO/CKS-BIO-77-2026/)** | **CKS-BIO-77-2026: Topological Impedance and the 6-9 Twist** | Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold |
 | **[[@CKS-BIO-78-2026]](papers/BIO/CKS-BIO-78-2026/)** | **CKS-BIO-78-2026: Trans-Soliton Coupling** | Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance |
-| **[[@CKS-BIO-79-2026]](papers/BIO/CKS-BIO-79-2026/)** | **CKS-BIO-79-2026: The Triad of Health** | Traditional medicine treats health as state to maintain through external intervention |
+| **[[@CKS-BIO-79-2026]](papers/BIO/CKS-BIO-79-2026/)** | **CKS-BIO-79-2026: The Triad of Health** | Remainder Management Through Laminar Thinking, Action, and Autonomous Venting |
 | **[[@CKS-BIO-8-2026]](papers/BIO/CKS-BIO-8-2026/)** | **The Eyes as X↔K Coordinators** | Ocular Phase-Lock and Beauty Optimization |
 | **[[@CKS-BIO-80-2026]](papers/BIO/CKS-BIO-80-2026/)** | **CKS-BIO-80-2026: Morphological Geometric Selection** | Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block |
 | **[[@CKS-BIO-81-2026]](papers/BIO/CKS-BIO-81-2026/)** | **CKS-BIO-81-2026: Murmuration and Collective Solitons** | Multi-Entity Phase-Lock and Emergent Sovereignty in Coordinated Biological Systems |
