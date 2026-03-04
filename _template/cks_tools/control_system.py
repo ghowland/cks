@@ -17,6 +17,8 @@ from paper_topics import TOPICS
 
 COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup', 'cleanup']
 
+SEPARATOR_SERIES_PATH = ' → '
+
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
