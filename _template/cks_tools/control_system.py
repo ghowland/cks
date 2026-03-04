@@ -11,7 +11,9 @@ import json
 import pprint
 import subprocess
 
-COMMANDS = ['list', 'show', 'build', 'scan']
+import template
+
+COMMANDS = ['list', 'show', 'build', 'scan', 'gen']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
@@ -107,6 +109,10 @@ def Scan(args):
   os.chdir(original_dir)
 
 
+def Gen(args):
+  print("Generate")
+
+
 def Show(args):
   print("Show something")
 
@@ -129,21 +135,17 @@ def Main(args):
     print('\nCommands: %s\n' % ', '.join(COMMANDS))
     exit(1)
   
-  # List
+  # Commands
   if args.command == 'list':
     List(args)
-  
-  # Show
-  if args.command == 'show':
+  elif args.command == 'show':
     Show(args)
-  
-  # Build
-  if args.command == 'build':
+  elif args.command == 'build':
     Build(args)
-  
-  # Scan
-  if args.command == 'scan':
+  elif args.command == 'scan':
     Scan(args)
+  elif args.command == 'gen':
+    Gen(args)
 
 
 
