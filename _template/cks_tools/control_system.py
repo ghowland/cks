@@ -25,6 +25,10 @@ SCAN = '../../../_template/_old/scan.py'
 GEN_BIBS = './_template/_old/create_bibs.py'
 README = '../../../_template/_old/readme_gen.py'
 
+# Site
+README_SITE = "_template/data/README_site.md"
+README_SITE_OUT = "README_site.md"
+
 
 def execute_command(command, shell=True):
     """
@@ -54,7 +58,6 @@ def execute_command(command, shell=True):
         return 1, "", f"Error: Command '{command}' not found."
     except Exception as e:
         return 1, "", str(e)
-
 
 def List(args):
   print("List everything")
@@ -111,6 +114,11 @@ def Scan(args):
 
 def Gen(args):
   print("Generate")
+  readme_site = open(README_SITE).read()
+
+  # Write it
+  with open(README_SITE_OUT, 'w') as fp:
+    fp.write(readme_site)
 
 
 def Show(args):
