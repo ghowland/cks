@@ -125,7 +125,13 @@ class PaperMetadata:
     def _extract_keyresult(self):
         """Extract first H1 line"""
         match = re.search(r'^\*\*Key Result:\*\*\s+(.+)$', self.raw_content, re.MULTILINE)
-        return match.group(1).strip() if match else None
+        value = match.group(1).strip() if match else None
+
+        if value == None:
+            match = re.search(r'^\*\*Revolutionary claim:\*\*\s+(.+)$', self.raw_content, re.MULTILINE)
+            value = match.group(1).strip() if match else None
+
+        return value
     
     def _extract_subtitle(self):
         """Extract H2 immediately after H1"""
