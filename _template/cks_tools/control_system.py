@@ -15,7 +15,7 @@ import shutil
 import template
 from paper_topics import TOPICS
 
-COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup']
+COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup', 'cleanup']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
@@ -164,6 +164,27 @@ def Backup(args):
       shutil.copy2(item['file_path'], backup)
 
 
+def Cleanup(args):
+  print("Cleanup")
+
+  for item in args.papers:
+
+    # Only do stubbed
+    if item['doi']['is_stub']:
+      print(f'Cleanup: {item["file_path"]}')
+
+      backup = item['file_path'].replace('.md', '_orig.md')
+      lines = open(backup).read().split('\n')
+
+      # Write the file out again
+      output = '\n'.join(lines)
+      with open(item['file_path'], 'w') as fp:
+        fp.write(output)
+
+      break
+
+
+
 def Show(args):
   print("Show something")
 
@@ -199,10 +220,8 @@ def Main(args):
     Gen(args)
   elif args.command == 'backup':
     Backup(args)
-
-
-
-
+  elif args.command == 'cleanup':
+    Cleanup(args)
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser(description="Control System for safely handling large counts of Zenodo papers")
