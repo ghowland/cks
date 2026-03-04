@@ -23,19 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-WUWU-3-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Theoretical / Sovereignty Specification
-
-**Warning:** This paper addresses phenomena traditionally classified as "angelic" or "divine messengers." CKS treats these as high-bandwidth coherent walkers with direct registry write access, not supernatural claims.
-
-**Motto:** Angels are sovereigns not servants. Permission is capability not assignment. No jobs exist. Geometry is perfect. Coherence grants access.
-
 ---
 
 ## Abstract

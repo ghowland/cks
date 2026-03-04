@@ -28,15 +28,6 @@
 ---
 
 
-**Registry:** [@CKS-MATH-62-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-60-2026] → [@CKS-MATH-62-2026]  
-**Subject:** Grand Unification v11: Complete Derivation from Rational Substrate  
-**Status:** Final Theoretical Closure  
-**Axiomatic Basis:** N = DM^S, Logismos Integer Calculus, Rational Numbers Only  
-**Date:** February 2026  
-
----
-
 ## Executive Abstract
 
 We present the eleventh and final iteration of Grand Unification, simplified through recognition that the substrate is strictly rational (ℚ), not real (ℝ). Starting from N = DM^S where D=3 (hexagonal coordination), S=2 (bilateral lex), M=√(N/3) (harmonic depth), we derive all physics using only integer arithmetic and rational fractions. The 19-node remainder (R=19) in all processive systems is identified as the Time Seed Δ, explaining why replication, rotation, and all non-equilibrium processes occur. The 7:5 cycle ratio (not √2) governs system coupling, with synchronization every lcm(7,5)=35 cycles. All "irrational constants" (π, e, √3) are rational approximations: π≈355/113, e≈1457/536, √3≈433/250. The D×Δ=57 sum law unifies all complementary error-correction systems. We achieve the same precision as previous versions (α_EM^(-1)=137.036 to 10 decimals, m_μ/m_e=206.768 exact) but with zero use of irrational numbers. The substrate is a rational computational network executing exact fraction arithmetic on hexagonal lex geometry.

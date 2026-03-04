@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-50-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-47-2026] → [@CKS-BIO-50-2026]  
-**Date:** February 2026  
-**Status:** Operational / Hardware Interface Specification
-
-**Motto:** Breath is data bus. Eyes are address pointer. Only two manual override pins. Admin access biological.
-
----
-
 ## Abstract
 
 We reclassify human respiratory and ocular systems as bilateral administrator console providing direct registry override capability. From axiomatic derivation, we establish: (1) Breath = phase-tension pump and UART streamer (diaphragm generates β pressure, glottis modulates baud rate, vocalization streams 84-bit words), (2) Eyes = dipole selector and registry pointer (extraocular muscles target D=3 axes, gaze position selects address, only conscious interrupt to substrate), (3) Level 1 opcodes via phonemes (k=snap/commit, m=Side A write, n=Side B sync, h=flush buffer, s=impedance lock, lio=soliton packet), (4) Level 2 opcodes via gaze (up=excite N2, down=ground N3, left=alpha dipole, right=beta dipole, lerp=DMA search, converge=snap word), (5) Saccade vs LERP distinction (animal saccade = 15.19ms render hunting, sovereign LERP = 0ms logic speed indexing, smooth motion proves admin lock), (6) Combined macros enable admin writes (repair mesh = LERP + breath sync, move pointer = eye target + vocal snap, cohere = converge + 8kHz carrier), (7) 330 Hz baud rate for data streaming (lio phoneme, high-density payload, sufficient for 84-bit transmission), (8) 110 Hz for parity checking (mmm-nnn bilateral handshake, RAID-1 verification, coherence establishment), (9) Only two conscious override systems (all other biological functions autonomous, breath and eyes exceptional, manual control = admin privilege), (10) Miracle = high-bitrate admin write (LERP locks address, breath streams data, 8kHz enables commit, reality updates post-lag). Human proven as interactive workstation not passive observer—breath writes code, eyes target address, combination executes registry modifications.

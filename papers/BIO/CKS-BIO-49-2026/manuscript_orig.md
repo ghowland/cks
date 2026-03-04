@@ -25,17 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-BIO-49-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-47-2026] → [@CKS-BIO-49-2026]  
-**Date:** February 2026  
-**Status:** Biological Interface / Hardware Specification
-
-**Motto:** Tail not appendage but auxiliary bus. Twitch not random but 300 baud sync. S-curve not aesthetic but double vortex. Bent tail not injury but topological kink. Sway lost when antenna damaged.
-
----
-
 ## Abstract
 
 We derive feline tail function from toroidal stability requirements establishing tail as cantilevered phase-array antenna solving horizontal spine coherence problem. From geometric constraints, we prove: (1) Tail = auxiliary bus compensating horizontal orientation (vertical spine grounded to gravity, horizontal spine perpendicular to dN/dt, requires phase compensator), (2) 300 baud tip twitch = buffer flush (micro-oscillations clear 84-bit reality buffer, maintains 11-nines eye-claw coherence, enables zero-latency strike), (3) S-curve = double toroidal waveguide (counter-rotating vortices cancel front/hind torque, chassis remains laminar, zero proprioceptive noise), (4) 90° hook = Jacobian lock (orthogonal projection alignment, keep-alive signal while resting, maintains 3D render during low-power), (5) Tail mass ratio = 1/3 body length forced (N^(1/3) scaling, handles polar nodes while body handles equatorial, 5:2 dimensional split resolution), (6) Puffed tail = manifold hardening (increased thickness creates phase-shield, stress response via impedance boost), (7) Tucked tail = bus disconnect (reduces neural territory, prevents external phase-avalanche, fear protection mechanism), (8) 15.19ms lag universal but externally compensated (same toroidal pitch as humans, tail provides dynamic modulation, hunting overclock capability), (9) Bent tail = topological kink (phase reflection at break point, forces Type 1 locked gait, permanent coherence loss without repair), (10) Chattering synchronized to tail (k-k-k phonemes match tip frequency, manual clock alignment to target substrate address). Cats proven as phase-array equipped quadrupeds using external hardware (tail) where humans use internal software (Dan Tien). Tail damage = antenna failure with cascading motor dysfunction.

@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-47-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Operational / Hardware Interface Specification
-
-**Motto:** 8kHz is 256,000th harmonic. Tinnitus is modem signal. Stone changes at admin frequency. Registry unlocks at root clock.
-
----
-
 ## Abstract
 
 We derive 8000 Hz as substrate administrative carrier frequency enabling direct registry writes to 144-LU meshes. From harmonic analysis, we establish: (1) 8000 Hz = 256,000th harmonic of 1/32 Hz base (exact integer multiple, bit-perfect phase alignment, zero remainder), (2) Calculation proves necessity (32-bit word × 256 scale × 31.25 precision = 256,000 harmonic), (3) Binary address 2^8×1000 creates clean power-of-two lock, (4) Tinnitus reclassified as biological modem (brain sampling substrate carrier, RAID-1 parity monitor, not pathology but telemetry), (5) Stone modification mechanism (8kHz drops impedance α to zero, opens 120° dipole gates, enables LOGOS_WRITE without friction), (6) Dual-frequency protocol (32 Hz softens mesh V→R, 8kHz writes new address, requires both for modification), (7) High-pass open state at 8kHz (wavelength matches LU-distance, 12-bit headers unlock, write-protection disabled), (8) Administrative access indicator (steady 8kHz tone = console open, wavering = partial sync, absent = render-locked), (9) Megalithic engineering key (ancients used 8kHz carrier via whistles/cavities to sign stone positions after 32 Hz levitation), (10) Biological antenna upgrade (increased SNR enables direct substrate sampling, hearing admin bus = root access available). 8000 Hz proven as universal write frequency—not random tinnitus but deliberate hardware handshake enabling 1024-bit registry modifications.

@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-52-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-50-2026] → [@CKS-BIO-52-2026]  
-**Date:** February 2026  
-**Status:** Biological Interface / Identity Signal Analysis
-
-**Motto:** Acne not hormonal but topological. Face not skin but broadcast aperture. Pimples not chemistry but phase reflection. Identity jitter creates heat. Coherence clears automatically.
-
----
-
 ## Abstract
 
 We derive acne as identity-interface error proving facial inflammation emerges from pre-heaven/post-heaven frequency mismatch rather than hormonal chemistry. From topological signal analysis, we establish: (1) Face = primary phased array for social broadcast (highest density cranial nerve ports, complex craniofacial bone structure, 1:1 K-X holographic map, identity serialization point), (2) Acne = impedance mismatch reflection heat (identity signal Zs vs facial aperture Za, teenager Zs rising rapidly while Za still child-calibrated, massive reflected power as information entropy), (3) Pre-heaven frequency = hardware UUID (born geometric lock from skull/spine/vertebrae spacing, resonant peak of unique UIS, stable archetypal template), (4) Post-heaven frequency = active operational broadcast (current coherence state, spine tuning dependent, sense of self signal, dynamic operational frequency), (5) Identity jitter during puberty = frequency sweep (n=1 child → n=163 adult transition, continuous clock skew, phase noise generation, searching loop state), (6) Pimple = topological pressure relief valve (dropped identity packet, kernel dump on skin surface, information decoherence byproduct, local singularity discharge), (7) Adult acne = identity crisis recurrence (career shift, relationship breakdown, sense-of-self destabilization, jitter returns temporarily), (8) Beauty = phase coherence (f_post ≈ f_pre match, zero reflected power, laminar signal flow, skin "glows"), (9) Growth problems = trapped information heat (joint compression blocks dissipation, creates turbulent back-pressure, inflammation at blockage points), (10) Paternal operationalism cure = external reference clock (father's coherence provides carrier wave, inductive entrainment stabilizes son's frequency, identity conflict dissolves via grounding). Acne proven as substrate jitter at identity-aperture interface—face = screen showing processor overheat in sense-of-self calculation.

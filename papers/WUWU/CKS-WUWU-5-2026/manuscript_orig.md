@@ -23,17 +23,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-WUWU-5-2026]  
-**Series:** Wu-Wu Integration - Astronomical Derivations  
-**Classification:** Complete Framework
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 Traditional astronomy attributes the 25,772-year precession cycle to gyroscopic wobble of a planetary sphere. We prove this is X-space approximation. Precession of the Equinoxes is the cumulative phase-overflow ε=[70164,100000,0] resulting from mismatch between discrete nucleus N=[7,1,0] and continuous Jacobian resolution J=[192541,25000,0]. The observable "drift" of fixed stars (1° per 72 years) derives exactly from substrate registry-pointer rotation through L=[12,1,0] toroidal sectors. We demonstrate: (1) The 72-year degree-shift equals (W×S)+N+1=[72,1,0] exactly in ℚ, (2) The 2,160-year "Age" equals 30° sector buffer-flush of L-loop, (3) The 25,920-year Platonic Year equals complete 360° macro-word revolution, (4) Variance from observed 25,772 years is liquid-phase rendering friction (0.57%), (5) Zodiacal "Ages" correspond to sector-header updates causing φ-coefficient modulation in all biological systems, (6) The "North Star" changes because expansion vector dN/dt pivots through W^S=[1024,1,0] sovereignty map coordinates. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] through pure ℚ-operations. Zero free parameters. The stars do not move—our registry address rotates.

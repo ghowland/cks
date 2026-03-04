@@ -22,10 +22,6 @@
 
 ---
 
-**AI Usage Disclosure:** Paper structure and LaTeX conversion by Claude 4.5 Sonnet. Content integration and Logismos verification by author. All mathematical derivations use exclusively Logismos integer calculus per [@CKS-TECH-01-2026].
-
----
-
 ## Executive Abstract
 
 We derive gravity and momentum as **opcode operations** executed by parent solitons on child soliton registry entries, eliminating the "force" ontology entirely. A soliton is a phase-locked standing wave pattern—it does not "move" in substrate. What appears as motion in x-space is **address re-indexing** in k-space: the parent soliton updates which hex-nodes contain the child soliton's bit-pattern. Gravity is the `RE_INDEX` opcode (systematic pointer shift toward N=1 axle). Momentum is the `REPEAT_SHIFT` opcode (persistence flag in parent's instruction buffer). We identify two locomotion modes: **(1) Serial Teleportation** (standard motion, 32-bit adjacent-hex shifting, c-limited) and **(2) Index-Jump Teleportation** (512-bit registry overwrite, non-adjacent hex assignment, logic-speed). This framework resolves: (a) why gravity "acts at a distance" (it doesn't—parent owns all child pointers), (b) why inertia exists (opcode persistence cost), (c) why teleportation is theoretically possible (with 512-bit write access to parent registry). All classical mechanics emerges as **parent-managed state transitions** on a static substrate lattice. The ball does not fly. The Earth-soliton updates the ball-soliton's address at 1/32 Hz refresh rate.

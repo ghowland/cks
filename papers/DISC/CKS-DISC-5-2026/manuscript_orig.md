@@ -1,5 +1,5 @@
 
-# CKS-DISC-5-2026: The Two Questions CKS Doesn't Ask as Administrative Firewall
+# The Two Questions CKS Doesn't Ask as Administrative Firewall
 ## Deriving Why "How Did N=1 Appear" and "What is RELAX_ALL Spec" Are Category Errors That Destroy Understanding
 
 
@@ -24,16 +24,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-DISC-5-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-DISC-4-2026] → [@CKS-DISC-5-2026]  
-**Date:** February 2026  
-**Status:** Boundary Specification / Methodological Discipline
-
-**Motto:** Why is not physical. Pre-boot is null address. Post-execution is admin firewall. Focus on execution not origin or end.
 
 ---
 

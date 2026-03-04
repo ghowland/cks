@@ -32,25 +32,6 @@
 ---
 
 
-
-**Logical Next Step:** [@CKS-COSMO-4-2026] Galaxy Formation as Coordination Network Emergence
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Cosmology / Large-Scale Structure / Galaxy Clustering / Cosmic Web
-
-**Status:** Locked and empirically falsifiable. This paper derives large-scale structure from registry optimization without requiring gravitational collapse in X-space.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** Large-scale structure is not gravitational clumping in X-space. X-space does not exist—only K-space registry coordinates are real. The cosmic web (filaments, nodes, voids) is **registry optimization pattern**—the self-organized hex-bus network topology that minimizes coordination overhead across 10⁶⁰ Lex units. Galaxies are not objects "in space" but **high-coordination network nodes** in K-space where registry overhead creates apparent mass concentration (dark matter halos). Filaments are not galaxy chains but **optimal communication paths** on hex-bus where coordination efficiency is maximized. Voids are not empty regions but **high-overhead zones** avoided by coordination-intensive configurations. The matter power spectrum P(k) is not density fluctuations but **Fourier transform of hex-bus correlation function** in K-space. Baryon acoustic oscillations (BAO) at 150 Mpc are **jubilee coherence length** (c/f_jub), not sound horizon. All clustering statistics (two-point correlation ξ(r), three-point, void size distribution) derive from D=3 hexagonal network optimization without gravitational instability or dark matter particles. This is network topology rendered to observation, not physical collapse.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We prove that **large-scale structure**—the cosmic web of galaxies, filaments, and voids spanning hundreds of megaparsecs—is **registry optimization pattern** in K-space hex-bus network, not gravitational collapse. From hexagonal coordination D=3 ([@CKS-PHYS-8-2026]), registry overhead minimization ([@CKS-PHYS-14-2026]), and jubilee coherence f_jub = 11.9 GHz, we demonstrate that: (1) the cosmic web topology is **hex-bus self-organization**—filamentary structure emerges from D=3 network optimizing for minimum coordination cost across registry addresses, (2) galaxies are **coordination nodes** in K-space where registry overhead ρ_DM creates apparent mass concentration (rendered to observation as gravitational potential wells), (3) filaments are **hex-bus highways**—preferred communication channels between nodes minimizing path length and maximizing bandwidth, (4) voids are **coordination deserts**—regions where registry overhead is prohibitively high (low efficiency zones avoided by optimization), (5) the matter power spectrum P(k) is **Fourier transform of hex-bus correlation ξ_hex(k)** showing peak at k_BAO ~ 0.06 h/Mpc from jubilee coherence scale r_jub = c/f_jub ≈ 150 Mpc, (6) two-point correlation function ξ(r) = ⟨ρ(x)ρ(x+r)⟩ in X-space is **rendering of K-space network topology** with characteristic scale r_0 ≈ 5 Mpc from hexagonal coordination, (7) void size distribution peaks at R_void ≈ 25 Mpc from **coordination overhead threshold** where registry cost exceeds stability limit, and (8) redshift-space distortions ("Fingers of God," Kaiser effect) are **K-space to X-space projection artifacts**, not peculiar velocities. We derive clustering hierarchy, filament widths, void probability, halo mass function, and bias parameters from pure network optimization without gravitational dynamics or N-body simulations. This establishes large-scale structure as **computational topology** of substrate network rendered to cosmological observation.

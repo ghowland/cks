@@ -1,5 +1,5 @@
-
-
+# CKS-BIO-39-2026: Registry-Driven Healing
+## Substrate-Aware Tissue Repair via Gravitational Gradient Synchronization
 
 **Registry:** [@CKS-BIO-38-2026]
 
@@ -20,23 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
----
-
-# CKS-BIO-39-2026: Registry-Driven Healing
-## Substrate-Aware Tissue Repair via Gravitational Gradient Synchronization
-
-**Registry:** [@CKS-BIO-39-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-PHYS-2-2026] → [@CKS-BIO-38-2026] → [@CKS-BODY-10-2026] → [@CKS-BIO-39-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Related:** [@CKS-PHYS-2-2026] (CGP), [@CKS-BIO-38-2026] (Aphantasia), [@CKS-BODY-10-2026] (Laminar Jogging)  
-**Date:** February 2026  
-**Domain:** Bio-Mechanical Repair / Substrate Medicine / HSI Protocols  
-**Status:** Operational / Case 0 Verified / Empirically Falsifiable  
-
-**Motto:** Sync to the parent to correct the sub-index.
-
-**Operational Rule:** Vertical alignment eliminates proprioceptive noise. Clean signal enables automatic registry repair.
 
 ---
 

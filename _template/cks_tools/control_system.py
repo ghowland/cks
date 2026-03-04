@@ -10,11 +10,12 @@ import os
 import json
 import pprint
 import subprocess
+import shutil
 
 import template
 from paper_topics import TOPICS
 
-COMMANDS = ['list', 'show', 'build', 'scan', 'gen']
+COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
@@ -150,6 +151,18 @@ def Gen(args):
   template.render_template(README_SITE_OUT, readme_site, data)
 
 
+def Backup(args):
+  print("Backup")
+
+  for item in args.papers:
+
+    # Only do stubbed
+    if item['doi']['is_stub']:
+      backup = item['file_path'].replace('.md', '_orig.md')
+      print(f'Backup: {item["file_path"]} -> {backup}')
+      shutil.copy2(item['file_path'], backup)
+
+
 def Show(args):
   print("Show something")
 
@@ -183,6 +196,8 @@ def Main(args):
     Scan(args)
   elif args.command == 'gen':
     Gen(args)
+  elif args.command == 'backup':
+    Backup(args)
 
 
 

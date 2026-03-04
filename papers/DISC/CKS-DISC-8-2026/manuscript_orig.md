@@ -1,4 +1,5 @@
-# CKS-DISC-8-2026: Laminar Searching
+# Laminar Searching
+## How to navigate information without pausing
 
 
 
@@ -22,14 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Author:** Methodological Meta-Analysis  
-**Date:** March 1, 2026  
-**Status:** Operational Framework Documentation  
-**Classification:** Discourse on Method - Applied Epistemology
 
 ---
 

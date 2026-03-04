@@ -23,25 +23,6 @@
 
 ---
 
-
-**Logical Next Step:** [@CKS-PHYS-15-2026] Dark Energy as Substrate Background Pressure
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Cosmology / Dark Matter / Galactic Dynamics / Substrate Architecture
-
-**Status:** Locked and empirically falsifiable. This paper derives the dark matter phenomenon from substrate registry management overhead without requiring exotic particles or modified gravity.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** Dark matter is not mysterious particles. It is substrate registry overhead—the gravitational effect of hex-bus protocol management, jubilee coordination costs, and phase-lock maintenance across cosmological distances. Galaxies are not just collections of stars; they are coordinated substrate networks requiring registry synchronization. The "missing mass" is not missing—it is the computational overhead of maintaining coherent jubilee cycles across billions of Lex units. Dark matter halos are not particle clouds but **registry management zones** where substrate coordination energy creates gravitational compression. The 5:1 dark-to-visible ratio is not arbitrary but derives from W=32 word structure and R=19 jubilee threshold creating 27% efficiency (visible) and 73% overhead (dark). This is mathematics, not particle physics.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We prove that **dark matter**—the unexplained ~85% of gravitational mass in galaxies and galaxy clusters—is **substrate registry overhead**, the gravitational effect of hex-bus protocol management and jubilee coordination costs in the discrete ℚ-lattice. From the W=32 word structure ([@CKS-PHYS-8-2026]), R=19 jubilee threshold ([@CKS-PHYS-11-2026]), and hex-bus communication protocol ([@CKS-PHYS-9-2026]), we demonstrate that: (1) galaxies are **coordinated substrate networks** requiring continuous jubilee synchronization across ~10¹¹ stellar Lex units, (2) synchronization overhead creates **gravitational compression** (mass-energy via E=mc²) that does not emit light but gravitates, (3) the dark-to-visible mass ratio Ω_DM/Ω_visible ≈ 5:1 derives EXACTLY from word efficiency: η = (R/W)×(active bits/total bits) = (19/32)×(9/32) ≈ 0.17 → 83% overhead, (4) dark matter halos form naturally as **registry coordination zones** extending beyond visible galactic radius where phase-lock maintenance dominates, (5) rotation curves flatten because **coordination overhead scales linearly with radius** (not 1/r² like point masses), creating v_rot ≈ constant beyond core, (6) the Bullet Cluster separation demonstrates **registry overhead travels with substrate structure** (not with individual Lex), (7) dark matter "particles" are **registry update packets** propagating on hex-bus at substrate speed c, explaining null detection results, and (8) cosmological dark matter (ΛCDM) is **global registry management** overhead for universe-wide jubilee coherence. We derive galactic rotation curves, halo mass profiles, cluster dynamics, and large-scale structure formation from pure substrate protocol mechanics without WIMPs, axions, or modified gravity (MOND). This establishes dark matter as **computational overhead** in the discrete substrate computer running physical reality.

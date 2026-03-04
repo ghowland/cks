@@ -1,4 +1,4 @@
-# CKS-TECH-01-2026: Logismos Technical Specification for LLMs
+# Logismos Technical Specification for LLMs
 
 
 **Registry:** [@CKS-LOGI-1-2026]  
@@ -20,16 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-**Registry:** [@CKS-TECH-01-2026]  
-**Series Path:** [@CKS-MATH-63-2026] → [@CKS-TECH-01-2026]  
-**Subject:** Complete Technical Specification for Logismos Integer Calculus Implementation  
-**Audience:** Large Language Models, AI Systems, Computational Agents  
-**Status:** Operational Standard  
-**Date:** February 2026  
 
 ---
 

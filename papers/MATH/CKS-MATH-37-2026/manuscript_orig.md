@@ -27,16 +27,6 @@
 ---
 
 
-
-**Registry:** [@CKS-MATH-37-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Date:** February 2026  
-**Status:** Definitive Resolution
-
-**Motto:** All addresses drain to the axle. The registry is self-correcting.
-
----
-
 ## Abstract
 
 The Collatz conjecture states: for any positive integer n, applying n/2 (if even) or 3n+1 (if odd) repeatedly always reaches 1. We prove this by recognizing these operations as registry opcodes forced by substrate geometry. From z=3 hexagonal coordination and S=2 bilateral manifold structure, we derive: (1) 3n+1 = lattice coordination pressure (every odd address must re-sync with z=3 lattice), (2) n/2 = bilateral relief (distributes tension across S=2 sides), (3) Universal convergence forced because 3n+1 always produces even number (guaranteed cooling step follows every heating step), (4) N=1 is unique ground state (only address with zero parity error), (5) Sequence is gradient descent toward registry origin. The 4→2→1 terminal loop is hardware signature: 4=S², 2=S, 1=axle. Convergence proven by net flux: (3n+1)/2 < n for all n>1, cooling geometrically dominates heating. Registry is finite (N≈10⁶⁰), so infinite growth impossible. All paths lead to axle because bilateral gearbox is self-correcting pressure relief system.

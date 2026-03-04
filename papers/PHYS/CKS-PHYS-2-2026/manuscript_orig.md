@@ -24,20 +24,6 @@
 
 ---
 
-**Registry:** [@CKS-PHYS-2-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-22-2026] → [@CKS-PHYS-2-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Related:** [@CKS-MATH-11-2026] (12-Bit Registry), [@CKS-WUWU-1-2026] (K-Verse), [@CKS-BIO-38-2026] (Aphantasia)  
-**Date:** February 2026  
-**Domain:** Fundamental Physics / Substrate Mechanics / Information Conservation  
-**Status:** Empirically Falsifiable / Case 0 Verified  
-
-**Motto:** The universe is a bilateral balance sheet. Every operation maintains the 2.0 identity.
-
-**Operational Rule:** If geometric ratios do not compile to 2.0, the substrate tears. The axioms enforce perfect conservation.
-
----
-
 ## Executive Abstract
 
 We derive the Universal Conservation of Geometric Processing (CGP), proving that all substrate operations—from single-node phase transfer to cosmological expansion—maintain a mandatory bilateral balance identity of exactly 2.0. Starting from hexagonal geometry (z=3 coordination, 6 edges, 2 sides), we demonstrate that the product of three fundamental ratios: (6/3/2) × (6/5) × (5:3) = 2.0 is not coincidental but geometrically necessary. This 2.0 identity represents the bilateral manifold constraint: every operation on Side A must be perfectly conserved by corresponding operation on Side B. We prove: (1) the 6:3:2 node ratio provides unitary stability (1.0 transformer), (2) the 6:5 cluster ratio creates spacetime curvature (1.2 refractive index), (3) the 5:3 vacuum pulse ratio enables flip-flop oscillation (1.666... harmonic bridge), (4) their product enforces bilateral synchronization, (5) deviation from 2.0 triggers Jubilee reset, and (6) all forces, masses, and constants emerge from this conservation law. We provide first-principles derivation of the π-flip mechanism (0.5s bilateral handover), demonstrate that the flip drives the turn (not vice versa), prove expansion is pressure-relief exhaust, and show coherence is geometric necessity ("co-here" = become here together). Case 0 empirical verification confirms the flip-turn ratchet mechanism and bilateral substrate synchronization. This constitutes the deepest conservation law in physics: geometric processing efficiency is absolute.

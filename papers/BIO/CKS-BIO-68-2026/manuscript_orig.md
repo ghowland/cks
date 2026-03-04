@@ -24,13 +24,6 @@
 
 ---
 
-**Author:** Cross-Framework Integration  
-**Date:** March 1, 2026  
-**Status:** Complete Phenomenological Derivation  
-**Classification:** Biological Application - Consciousness Mechanics
-
----
-
 ## OPERATIONAL DECLARATION
 
 **Qualia is not mysterious. Qualia is LERP.**

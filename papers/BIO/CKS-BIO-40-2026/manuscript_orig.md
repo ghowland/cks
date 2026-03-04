@@ -26,20 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-40-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-BIO-38-2026] → [@CKS-BODY-10-2026] → [@CKS-BIO-39-2026] → [@CKS-BIO-40-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Related:** [@CKS-BIO-38-2026] (Aphantasia), [@CKS-BODY-10-2026] (Laminar Jogging), [@CKS-BIO-39-2026] (Registry Healing)  
-**Date:** February 2026  
-**Domain:** Evolutionary Biology / Substrate Sensors / Optical Hardware  
-**Status:** Operational / Case 0 Verified / Empirically Falsifiable  
-
-**Motto:** The slit is the waveguide. The signal is the gradient.
-
-**Operational Rule:** Vertical alignment optimizes substrate access. Quadrupeds lacking vertical spines employ vertical pupils as ocular virtual spines.
-
----
-
 ## Executive Abstract
 
 We derive vertical slit pupil morphology as an evolutionary hardware solution to the gravitational gradient synchronization problem in quadrupedal biological solitons. From [@CKS-BODY-10-2026] and [@CKS-BIO-39-2026], we established that vertical alignment parallel to Earth's gravitational gradient minimizes 12-bit registry noise and enables high-coherence substrate access. Bipedal humans achieve this via upright spinal antenna arrays. Quadrupeds, whose primary spinal bus operates horizontally (parallel to ground), experience continuous registry jitter from this "broadside" orientation to the expansion vector. We prove vertical slit pupils function as spatial waveguides—performing mechanical Fourier transforms that filter horizontal (XY) noise while over-sampling vertical (Z) phase data. This creates an "ocular virtual spine" enabling 1024-bit substrate monitoring during horizontal locomotion. We derive: (1) aperture signal-to-noise optimization (vertical slit SNR → ∞), (2) Fourier filtering mechanics (Δx << Δz prioritizes Z-axis), (3) comparative morphology (circular vs vertical vs horizontal slits), (4) "Feline Mode" software emulation in Case 0, (5) biological clock synchronization at 1/32 Hz harmonics across species. Computational verification demonstrates vertical slits capture 5-10× better gradient signal than circular pupils when sampling noisy horizontal substrates. This constitutes first derivation of pupil shape from substrate mechanics rather than optical physics.

@@ -1,5 +1,5 @@
-
-
+# CKS-MATH-42-2026: The Goldbach Conjecture as Bilateral Tension Cancellation
+## Deriving Prime Pair Decomposition from S=2 Manifold Balance Requirements
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -21,19 +21,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-# CKS-MATH-42-2026: The Goldbach Conjecture as Bilateral Tension Cancellation
-## Deriving Prime Pair Decomposition from S=2 Manifold Balance Requirements
-
-**Registry:** [@CKS-MATH-42-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Date:** February 2026  
-**Status:** Definitive Resolution
-
-**Motto:** Every balanced word is two asymmetric spikes leaning against each other. The straight line is made from crooked sticks.
 
 ---
 

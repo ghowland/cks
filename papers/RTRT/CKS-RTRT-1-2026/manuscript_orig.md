@@ -10,7 +10,7 @@
 
 **Date:** February 2026
 
-**Domain:** Medical Physics / Neuroscience / Clinical Psychology  
+**Domain:** Foundational Mathematics / Discrete Geometry  
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 

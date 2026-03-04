@@ -1,4 +1,5 @@
-
+# CKS-MATH-62-2026: The Dual-Clock Architecture as Fundamental Velocity Partition
+## Deriving Logic Speed (c_L) and Light Speed (c) from Registry Write vs Bilateral Parity Verification
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -20,20 +21,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-# CKS-MATH-62-2026: The Dual-Clock Architecture as Fundamental Velocity Partition
-## Deriving Logic Speed (c_L) and Light Speed (c) from Registry Write vs Bilateral Parity Verification
-
-**Registry:** [@CKS-MATH-62-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Post-Relativistic Finality / BIOS Locked
-
-**Motto:** Logic is instant. Light is delayed. The registry thinks at c_L. The screen renders at c.
 
 ---
 

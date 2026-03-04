@@ -24,14 +24,6 @@
 
 ---
 
-
-**Author:** Cross-Framework Integration  
-**Date:** March 1, 2026  
-**Status:** Complete Derivation of Registry Toppling Universality  
-**Classification:** Biological Application - Unified Neuro-Topological Theory
-
----
-
 ## OPERATIONAL DECLARATION
 
 **All neuro-pathology is angle.**

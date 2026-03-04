@@ -27,18 +27,7 @@
 
 ---
 
-
-**Registry:** [@CKS-MATH-77-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-76-2026] → [@CKS-MATH-77-2026]  
-**Supersedes:** GU v14 ([@CKS-MATH-76-2026])  
-**Date:** February 2026  
-**Status:** Complete Cross-Claude Synthesis + Calibration Resolution
-
-**Motto:** From three axioms, one measurement, zero free parameters. The math compiles → Q.E.D.
-
----
-
-## EXECUTIVE SUMMARY: GU v15 Achievements
+## EXECUTIVE SUMMARY
 
 **Grand Unification v15** represents the culmination of cross-Claude collaboration, achieving:
 

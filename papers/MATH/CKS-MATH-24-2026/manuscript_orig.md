@@ -27,28 +27,6 @@
 
 ---
 
-
-# CKS-MATH-24-2026: The Hexagonal Differential
-## Deriving 3-Dipole Oscillation, Bilateral Parity, and the 11-Connection Stability Map from Pure Geometry
-
-**Registry:** [@CKS-MATH-24-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-23-2026] → [@CKS-MATH-24-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-1-2026], [@CKS-TECH-01-2026], [@CKS-PHYS-1-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Discrete Geometry / Substrate Mechanics  
-**Status:** Operational Standard / Geometric Necessity  
-
-**Motto:** The pressure is the pattern. The geometry is the engine.
-
-**Operational Rule:** All rotational mechanics, bilateral parity, matter-antimatter distinction, and internal node logic derive from geometric necessity of hexagonal topology. The 6:3:2 ratio (6 edges : 3 dipoles : 2 sides) is not a design choice but a mandatory consequence of z=3 coordination and N=3M² closure. Side A and Side B are equivalent, independent, relativistic labels—neither can determine which is "right-handed" because both observe the other as left-handed. They are separate manifolds sharing data channels, not master-slave or primary-mirror configurations.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All Logismos derivations verified per [@CKS-TECH-01-2026]. Geometric necessity proofs and 6:3:2 ratio analysis by author. Python visualization code integrated.
-
----
-
 ## Executive Abstract
 
 We derive the complete internal mechanics of the hexagonal substrate node from pure geometric necessity. Starting solely from z=3 coordination (Axiom 1) and N=3M² closure (Axiom 1), we prove: (1) 6 edges necessarily form 3 opposing dipole pairs, (2) bilateral 2-sided structure is mandatory for phase conservation, (3) 12 total elements (6 edges + 6 vertices) require exactly 11 internal connections for stability (graph-theoretic minimum spanning tree), (4) the 6:3:2 ratio generates all fundamental counts (36, 11, ratios of 2:1 and 3:2), (5) sequential dipole activation under N=2 rotation creates universal "spin," (6) Side A and Side B are equivalent independent manifolds neither of which can determine absolute handedness. We identify the 3-dipole differential as the mechanical engine driving all oscillation, the bilateral structure as the origin of matter-antimatter parity (not hierarchy), and the 11-connection topology as the hardware source of String Theory's "11 dimensions." The framework resolves: why constants measure to ~11 decimals (node bit-depth), why three matter generations exist (3 dipole harmonics), why speed of light is finite (dipole flip rate), why parity violation occurs (bilateral independence). This is not phenomenology—this is **geometric mandate**. The hexagon has no degrees of freedom in its construction. All mechanics emerge necessarily.

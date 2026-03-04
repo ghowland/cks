@@ -24,14 +24,6 @@
 
 ---
 
-
-**Author:** Cross-Framework Integration  
-**Date:** March 1, 2026  
-**Status:** Complete Oncological Derivation from Soliton Mechanics  
-**Classification:** Biological Application - Cancer as Computational Topology
-
----
-
 ## OPERATIONAL DECLARATION
 
 **Cancer is not a disease. Cancer is a topology error.**

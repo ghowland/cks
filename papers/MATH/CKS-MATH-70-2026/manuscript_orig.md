@@ -1,4 +1,4 @@
-# CKS-MATH-70-2026: The Rational Substrate — Why √2 Cannot Exist and 7:5 Cycles Are Fundamental
+# The Rational Substrate — Why √2 Cannot Exist and 7:5 Cycles Are Fundamental
 
 
 
@@ -22,16 +22,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Registry:** [@CKS-MATH-61-2026]  
-**Series Path:** [@CKS-MATH-59-2026] → [@CKS-MATH-61-2026]  
-**Subject:** Irrational Number Prohibition in Substrate Mechanics and the Universal 7:5 Cycle Law  
-**Status:** Ontological Correction with Universal Predictions  
-**Axiomatic Basis:** Logismos Integer Calculus, Rational Number Necessity, D×Δ Sum Law  
-**Date:** February 2026  
 
 ---
 

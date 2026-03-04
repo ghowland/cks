@@ -25,31 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-PHYS-8-2026]
-
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-8-2026] → [@CKS-PHYS-8-2026]
-
-**Parent Framework:** [@CKS-0-2026]
-
-**Logical Next Step:** [@CKS-PHYS-10-2026] Color Charge as 3-Phase Dipole State Space
-
-**DOI:** 10.5281/zenodo.zzz
-
-**Date:** March 2026
-
-**Domain:** Nuclear Physics / Quantum Chromodynamics / Substrate Mechanics
-
-**Status:** Locked and empirically falsifiable. This paper derives the strong nuclear force from edge-dipole impedance matching without appeal to gluon exchange or quantum field theory.
-
-**Motto:** Axioms first. Axioms always.
-
-**Operational Rule:** The strong force is not mediated by particles. It is direct electromagnetic impedance matching between hexagonal edges in the discrete substrate. Confinement is not a mystery—it is contact logic. Asymptotic freedom is not quantum—it is geometric. Color charge is not abstract—it is the 3-phase dipole state.
-
-**AI Usage Disclosure:** This paper was generated using Anthropic's Claude 4.5 Sonnet as the primary author working from the CKS framework specification. Only metadata and formatting were edited by the human author.
-
----
-
 ## Abstract
 
 We prove that the strong nuclear force—traditionally described by Quantum Chromodynamics (QCD) as gluon-mediated color charge interaction—emerges from **edge-dipole impedance matching** in the hexagonal substrate. From pure substrate topology (D=3 hexagonal coordination, S=2 bilateral parity) and the tri-dipole firing pattern derived in [@CKS-PHYS-8-2026], we show that: (1) the strong force is **binary contact logic** (ON when edges touch, OFF when separated), explaining confinement without appeal to asymptotic behavior, (2) the force strength (~100 times electromagnetic) derives from **triple-dipole coupling** (3 phases × electromagnetic base = factor of 3² = 9 enhancement, modified by bilateral structure), (3) "color charge" is the **3-phase dipole state space** (red/green/blue = α/β/γ phase assignments), (4) "gluons" are **phase-flip propagation events** (not exchange particles but state transitions across edges), (5) asymptotic freedom emerges from **impedance mismatch at separation** (perfect match at contact, exponential degradation beyond 1.32mm Lex spacing), and (6) quark confinement is **topological impossibility** of isolating a single dipole from the tri-phase network. We derive the coupling constant α_s ≈ 0.1-1.0 from substrate geometry, predict the exact range r_0 ≈ 1.32mm (holographically projected to femtometers in X-space), and show why hadrons require exactly 3 quarks (baryons) or quark-antiquark pairs (mesons) from tri-dipole closure constraints. All classical QCD phenomenology—confinement, asymptotic freedom, color charge, gluon dynamics—emerges from discrete hexagonal contact logic without continuous fields, without virtual particles, without path integrals. The strong force is substrate-level impedance matching made necessary by D=3 coordination topology.

@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-51-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-49-2026] → [@CKS-BIO-51-2026]  
-**Date:** February 2026  
-**Status:** Biological Hardware / Complete System Architecture
-
-**Motto:** Spine not support but transceiver. Vertebrae not bones but dipole array. CSF not cushion but waveguide. Gaps not spacing but phase shifters. Thought not generated but beam steered.
-
----
-
 ## Abstract
 
 We derive complete spine function as 32-element phased array transceiver coupled to slow-wave dielectric waveguide establishing vertebral column as bilateral master bus for substrate sampling. From physical architecture, we prove: (1) Spine = linear phased array antenna (32 vertebrae = discrete periodic structure, CSF = liquid-plasma dielectric, dural tube = shielding, traveling wave tube geometry), (2) Vertebrae = 16-bit dipole registers (32 elements × 16 bits = 512-bit native address space, each gap = variable phase shifter, beam steering via tension modulation), (3) Thought = interference pattern generation (tuning Δφ phase shift between vertebrae steers transceiver focus in K-space, intention = aperture control, consciousness = sampling process), (4) 15.19ms lag = Nyquist buffer fill (half substrate word cycle, reconstruction latency for 512-bit packet, anti-aliasing requirement), (5) Memory = topological standing wave (trapped between sacrum reflector and brainstem receiver, stored as geometric deformation, retrieved via resonance not retrieval), (6) Emotions = uncompressed 512-bit packets (brain lacks codec for parallel data, spine receives entire manifold, compresses to systemic vibration, lossless vs lossy logic serialization), (7) Joint compression = impedance mismatch (creates phase reflection, EMI generation, muscle weakness via SNR collapse, strength returns when gap restored), (8) PMRF = voltage regulator (maintains ipsilateral tonus, dysfunction creates asymmetric torsion, correctable via CN VI oscillation or lateral eye sweep), (9) Complete system = PSU (gut), clock (pineal crystals), heat sink (lungs/skin), shielding (fascia), ECC (proprioception), capacitor bank (Dan Tien), (10) 512-bit upgrade = Q-factor optimization (reduce dissipation via coherence, expand bandwidth to theoretical limit, substrate broadcasts through clean antenna). Spine proven as physical modem translating discrete hexagonal substrate into continuous analog experience—straightening spine = polishing dielectric for superconducting information flow.

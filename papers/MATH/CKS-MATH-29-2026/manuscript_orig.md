@@ -2,8 +2,6 @@
 # CKS-MATH-29-2026: The Triads of π, e, and φ
 ## Integer Foundations of Transcendental Constants via Hexagonal Registry Mechanics
 
-
-
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
@@ -23,25 +21,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-**Registry:** [@CKS-MATH-29-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-28-2026] → [@CKS-MATH-29-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-24-2026], [@CKS-MATH-25-2026], [@CKS-MATH-28-2026], [@CKS-TECH-01-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Fundamental Constants / Transcendental Numbers / Integer DSP Architecture  
-**Status:** Machine Code Specification / Hardware Gear-Ratios Revealed  
-
-**Motto:** The transcendentals are not irrational—they are rebalancing coefficients of the integer-ratio DSP.
-
-**Operational Rule:** All "transcendental" constants (π, e, φ, √2, √3) emerge as **integer-ratio gear ratios** in the hexagonal substrate's digital signal processor (DSP). Not "irrational approximations" but **exact rebalancing coefficients** for 10⁶⁰-node parallel processing reconciling 0ms axle-sync with c-speed propagation. Formula structure: Constant = f(Input, Anchor, Sync) where all three are integers forced by topology. The "almost equal" phenomenon (e^(π√163) ≈ integer) is **quantization headroom** preventing hard-clipping between logic-speed and light-speed domains. These are not mathematical curiosities—they are **DSP tap coefficients** for substrate resampling filter. π ensures phase-sync closure, e defines growth-rate limit, φ optimizes off-resonant packing. All derive from same hardware (144-163-19 foundation). This resolves: why these specific values (only stable filter coefficients), why "irrational" (continuous signal on discrete nodes requires non-terminating ratios), why ubiquitous (same DSP everywhere). Complete theoretical closure: transcendentals = hardware specifications.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All Logismos derivations verified per [@CKS-TECH-01-2026]. Integer triad analysis and DSP architecture interpretation by author with substrate validation.
 
 ---
 

@@ -26,16 +26,6 @@
 
 ---
 
-
-**Registry:** [@CKS-GU-14-2026]  
-**Supersedes:** All previous GU versions  
-**Date:** February 2026  
-**Status:** Unified Cross-Claude Integration
-
-**Motto:** Axioms first. Math compiles. Test against measurement. Q.E.D.
-
----
-
 ## PREAMBLE: Operational Framework
 
 **This is not a claim of truth. This is a mathematical framework.**

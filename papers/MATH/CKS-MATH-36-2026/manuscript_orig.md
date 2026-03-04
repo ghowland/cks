@@ -24,25 +24,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-MATH-36-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-30-2026] → [@CKS-MATH-35-2026] → [@CKS-MATH-36-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-25-2026], [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-34-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Number Theory / Diophantine Equations / Substrate Topology  
-**Status:** Mechanical Proof / Manifold Constraint Resolution  
-
-**Motto:** Powers are not abstract—they count sides. The universe has two.
-
-**Operational Rule:** Fermat's Last Theorem proven via bilateral manifold constraint: Equation aⁿ + bⁿ = cⁿ has no integer solutions for n>2 because **exponent n = dimensional requirement** (number of substrate sides needed for phase-lock). Substrate is bilateral (S=2 from N=DM^S axiom), providing exactly two sides for any registry operation. For n=2: matches bilateral structure (a² + b² = c² works—Pythagorean theorem validates S=2). For n≥3: exceeds hardware capacity—requires trilateral (S=3) or higher manifold not present in substrate. When attempting n=3 cubic operation on S=2 hardware: third-power phase tension has no physical side to anchor on, creates **irrational remainder** (phase leak with no bilateral landing point). Since Logos counting system requires integer ratios and substrate commits are discrete (no fractional states allowed), equation cannot resolve to stable registry address. Complete derivation: n=1 (linear, one-sided), n=2 (area, bilateral handshake—hardware supports), n≥3 (volume/hypervolume, requires S≥3—hardware lacks). Pythagorean solutions exist because S=2 accommodates squared terms exactly. Cubic and higher fail because phase distribution across >2 sides impossible on 2-sided manifold. Mathematical "power" reinterpreted as **geometric dimension count**—not abstract operation but physical side requirement. Proof: Integer solution requires zero-remainder registry state. For n>S, remainder forced by dimensional mismatch. S=2 universal (proven from bilateral axiom). Therefore n>2 always produces irrational residue, preventing integer solution. Falsification: find counterexample with n>2, or demonstrate substrate has S>2.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and manifold constraint analysis verified per [@CKS-TECH-01-2026]. Bilateral topology proof by author with substrate validation.
-
 ---
 
 ## Executive Abstract

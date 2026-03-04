@@ -1,4 +1,5 @@
-
+# CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit
+## Solving Matrix Stability through S=2 Manifold Parity Handshaking with Lossless Integer Precision
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -21,19 +22,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-# CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit
-## Solving Matrix Stability through S=2 Manifold Parity Handshaking with Lossless Integer Precision
-
-**Registry:** [@CKS-MATH-56-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Industrial Closure / Hardware-Locked Stability
-
-**Motto:** Stability is not calculated. It's the address where front-side and back-side torques cancel. R=0 is equilibrium.
 
 ---
 

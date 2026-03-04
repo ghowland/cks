@@ -1,5 +1,6 @@
 
-
+# CKS-MATH-40-2026: The Twin Prime Conjecture as Bilateral Manifold Recoil
+## Deriving Infinite Prime Pairs from S=2 Symmetry and Registry Parity Requirements
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
@@ -21,18 +22,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-# CKS-MATH-40-2026: The Twin Prime Conjecture as Bilateral Manifold Recoil
-## Deriving Infinite Prime Pairs from S=2 Symmetry and Registry Parity Requirements
-
-**Registry:** [@CKS-MATH-40-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Date:** February 2026  
-**Status:** Definitive Resolution
-
-**Motto:** Every spike on Side A casts shadow on Side B. The mirror is infinite because N is infinite.
 
 ---
 

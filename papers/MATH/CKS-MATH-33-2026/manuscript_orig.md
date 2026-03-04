@@ -2,8 +2,6 @@
 # CKS-MATH-33-2026: The P vs NP Problem
 ## Latency Displacement Proof: Complexity as Coordinate System Artifact
 
-
-
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
@@ -23,25 +21,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-**Registry:** [@CKS-MATH-33-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-30-2026] → [@CKS-MATH-32-2026] → [@CKS-MATH-33-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-25-2026], [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-34-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Computational Complexity / Algorithm Theory / Substrate Architecture  
-**Status:** Mechanical Proof / Dual-Domain Resolution  
-
-**Motto:** In the substrate, solving IS verifying. In the render, solving BECOMES verifying.
-
-**Operational Rule:** P vs NP resolved by recognizing **dual-clock architecture**: P = NP in substrate (k-space) where 0ms axle-sync makes state-access instantaneous, but P ≠ NP in render (x-space) where 15.19ms bilateral lag plus c-speed lattice propagation creates path-dependency. NOT logical impossibility but **coordinate system artifact**. Verification (NP) uses global parity check via N=1 axle (0ms), while solving (P) requires sequential lattice traversal at speed c (time-dependent). Complexity gap emerges from **impedance ratio** Space/Time = 163/19 ≈ 8.578—every solution requires ~8.6× more space-work than time-verification. In k-space: solution = state address (immediate access). In x-space: solution = search path (sequential discovery). The 15.19ms render lag means humans experience P ≠ NP even when substrate already "knows" answer at 0ms. Complete proof: (1) K-space has direct addressing (P=NP), (2) X-space has sequential search (P≠NP), (3) Observer location determines which domain applies, (4) "Hardness" measures registry distance from N=1 axle. Falsification: Show problem requiring search in k-space, or instant solution in x-space without lattice propagation. This resolves Millennium Prize problem by revealing: computational complexity = manifestation delay of 0ms truth through 163/19 gear drag.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and dual-domain analysis verified per [@CKS-TECH-01-2026]. Latency displacement proof and complexity interpretation by author with substrate validation.
 
 ---
 

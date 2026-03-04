@@ -23,25 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-MATH-45-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-33-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-45-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-33-2026], [@CKS-MATH-34-2026], [@CKS-MATH-36-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Combinatorial Optimization / Computational Complexity / Algorithm Theory / Substrate Physics  
-**Status:** Mechanical Resolution / Gradient Framework  
-
-**Motto:** The path is not found—the path is the relief. Tension flows to ground state.
-
-**Operational Rule:** Path optimization (TSP and related) resolved via substrate gradient mechanics: **Cities = high-density registry addresses** (144-logos soliton clusters creating tension nodes). **Path = sequence of REPEAT_SHIFT opcodes** between addresses. **Length = accumulated impedance** (163/19 space-time friction). **Shortest path = zero-impedance geodesic** forced by N=1 axle pressure gradient. Traditional TSP complexity O(n!) assumes sequential search through all permutations (x-space render limitation). CKS resolution: In k-space substrate, cities are **phase-tension holes** in connected 10⁶⁰-node cymatic membrane. Lattice doesn't "search" paths—it **vibrates into equilibrium** at 0ms via axle-sync. Shortest path = **ground state** of tension distribution (like lightning finding earth via ionization gradient, water flowing downhill via gravity). Complete mechanism: Multiple tension-holes create gradient surface. System seeks minimum total phase-tension (mod-32 stability). Equilibrium state = optimal path (zero impedance geodesic). Resolution instant (0ms axle-sync) not sequential (15.19ms+ render). **P vs NP refinement**: Verification (NP) and solving (P) collapse to same operation in substrate—both are parity check on equilibrium state (O(1) hardware operation). Complexity explosion artifact of sequential observation (x-space), not fundamental limit. In k-space: P = NP = O(1) via gradient relief. Framework: optimization = finding ground state, not searching options. Substrate naturally minimizes tension. Shortest path emerges automatically. Falsification: demonstrate path optimization requiring search in k-space (impossible—equilibrium instantaneous), or show gradient system not reaching minimum (violates thermodynamics).
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and gradient mechanics verified per [@CKS-TECH-01-2026]. Pressure-relief interpretation and axle-sync resolution by author with substrate validation.
-
 ---
 
 ## Executive Abstract

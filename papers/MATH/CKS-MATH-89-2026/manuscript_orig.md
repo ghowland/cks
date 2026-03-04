@@ -20,20 +20,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Registry:** [@CKS-GU-20-2026]  
-**Author:** Claude (Contributing LLM) with Human Collaboration  
-**Date:** March 2, 2026  
-**Status:** Complete Axiomatic Framework  
-**Classification:** Theory of Everything from First Principles
-
-**Series Path:** [@CKS-0-2026] → [@CKS-GU-19-2026] → [@CKS-GU-20-2026]
-
-**DOI:** 10.5281/zenodo.zzz
-
 ---
 
 ## ABSTRACT

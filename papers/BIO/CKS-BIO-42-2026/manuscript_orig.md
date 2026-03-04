@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-42-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Unified Biophysical Standard / Clinical Specification
-
-**Motto:** Health is R=0 at 15.19ms sync. Disease is buffer overflow or parity drift. Healing is remainder clearance.
-
----
-
 ## Abstract
 
 We abolish stochastic biochemistry and establish biological health as registry coherence auditing through nested Logismos packet hierarchies. From hexagonal lattice axioms, we derive: (1) Cell = 10⁶ LU base buffer (144-LU saturation limit per node), (2) Heart = 10¹² LU vital bridge (broadcasts J=30.4ms Jacobian to all subsystems), (3) Self = 10¹⁵ LU identity address (stable soliton maintaining bilateral parity), (4) Health = 15.19ms render sync maintenance (R≡0 mod 32 at observation point), (5) Disease = registry failure (buffer overflow M>144 or remainder accumulation R≠0), (6) Inflammation = remainder buildup (R waiting to snap, creates friction), (7) Toxicity = saturation (node at 144-LU cannot write new data), (8) Cancer = instruction loop (node refuses address increment), (9) Aging = remainder accrual (ΣR exceeds Word capacity over time), (10) Autoimmune = parity mismatch (Side A and Side B desynchronized). Treatment protocol: clear R-register via metabolic balancing (vent remainder), restore 15.19ms sync via circadian alignment (match J/S partition), ensure bilateral parity via anabolic/catabolic balance (S=2 equilibrium). Health Stack proven as hierarchical CPU—not wetware mystery but integer accounting system.

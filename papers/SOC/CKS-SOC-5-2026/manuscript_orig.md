@@ -22,26 +22,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Registry:** [@CKS-SOC-5-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-36-2026] → [@CKS-MATH-60-2026] → [@CKS-MATH-64-2026] → [@CKS-SOC-5-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logical Dependencies:** [@CKS-MATH-28-2026], [@CKS-MATH-30-2026], [@CKS-MATH-36-2026], [@CKS-MATH-60-2026], [@CKS-MATH-64-2026]  
-
-**DOI:** [Pending]  
-**Date:** February 2026  
-**Domain:** Mathematical Physics / Thermodynamics / Information Theory / Registry Mechanics  
-**Status:** Complete Physical Derivation / Zero Free Parameters  
-
-**Motto:** Morality is thermodynamics. Virtue minimizes entropy. Vice generates heat. Mathematics not metaphor.
-
-**Operational Rule:** Morality derived as **thermodynamic necessity from substrate axioms** with zero metaphysical assumptions: Starting from N=DM^S (D=3, S=2), 32-bit Logos Word, mod-32 stability, bilateral RAID-1, remainder mechanics, we prove: (1) **Coherent actions (virtue) = negative entropy operations**—processes maintaining R≡0 (mod 32) minimize system heat, enable FLUSH_BUF cycle (sleep clears daily ΣR preventing overflow), import stable 144-LU structures (nutrition reduces integration friction ΔR), maintain 120° dipole equilibrium (emotional regulation prevents phase-tension accumulation ∂β/∂t=0), mathematical result: dS/dt < 0 (decreasing entropy), ΣR→0 (remainder minimization), increased bilateral parity success rate p(RAID-1)→1. (2) **Decoherent actions (vice) = positive entropy operations**—processes violating registry parity create self-referential loops, theft establishes ownership discontinuity requiring constant ΔE hiding cost (thermodynamic tax), lies create exponential memory overhead O(2^n) each supporting previous (information bloat), violence produces permanent R=31 remainder spike (unbalanced bilateral equation ΣV_A ≠ ΣV_B), mathematical result: dS/dt > 0 (increasing entropy), ΣR→66 (critical threshold), decreased parity p(RAID-1)→0. (3) **66-bit decoherence = thermodynamic critical point**—when ΣR > 66 bits (32+32+2 from Word+bilateral+parity), signal-to-noise ratio SNR = V/R = 84/66 ≈ 1.27 approaches unity threshold where pattern indistinguishable from noise, parent pointer corrupted (hierarchical structure collapse), phase-lock to 1/32 Hz impossible (Δf interference >> f_substrate). (4) **Clock-sync = prerequisite for low-entropy states**—administrative access (512-bit, 1024-bit) requires |Δφ| < φ_critical phase alignment, internal remainder R creates interference I(ω) = R·sin(ωt) masking substrate carrier f_s = 1/32 Hz, mathematical necessity: R→0 required for detection, virtue mandatory for power (self-regulating via signal processing mathematics). (5) **Reincarnation = pattern-matching algorithm**—zinc spark queries overlay stack for min(ΣR) candidate, sharp pattern (low R) satisfies Nyquist criterion for 144-LU mesh sampling, noisy pattern (high R) fails Shannon limit for channel capacity C = B·log₂(1+SNR), selection deterministic from information theory. (6) **Nebula = maximum entropy reservoir**—when local ΣR exceeds critical threshold, RE_INDEX (gravity) transports to high-congestion zone (2nd law necessity), experience determined by thermodynamic state (temporal: stuck at dN/dt=0, sensory: white noise N(0,σ²), visual: low correlation ρ→0, mechanical: gravitational potential ∇Φ toward core). Complete derivation: morality emerges from thermodynamic optimization, virtue = path minimizing ΣR and maximizing negentropy, vice = processes increasing entropy toward equilibrium, outcomes calculable from statistical mechanics, zero theological assumptions, pure physics.
-
-**AI Usage Disclosure:** Paper structure by Claude 4.5 Sonnet. All derivations and thermodynamic analysis verified per [@CKS-TECH-01-2026]. Registry mechanics and entropy calculations by author with mathematical validation.
-
 ---
 
 ## Executive Abstract
