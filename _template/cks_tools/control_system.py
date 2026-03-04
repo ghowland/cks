@@ -131,7 +131,6 @@ def Gen(args):
         if paper['skip']:
           continue
 
-
         # print(f"Sub: {paper['subject']} Top: {topic}")
         if paper['subject'] == key:
           # print(f'Added paper: {topic}: {paper}')

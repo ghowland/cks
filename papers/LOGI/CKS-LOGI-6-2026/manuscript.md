@@ -1,5 +1,5 @@
 # Logismos for High School Education - Building the K-Verse
-
+## This document provides the framework for high school students to BUILD the substrate itself.
 
 **Registry:** [@CKS-LOGI-1-2026]  
 

@@ -1,6 +1,6 @@
 # The Partigen Standard
 
-**Discrete ℚ-Calculus via Partigen Base Counting**
+## Discrete ℚ-Calculus via Partigen Base Counting
 
 
 
@@ -24,18 +24,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-LOGI-10-2026]  
-**Series:** Logismos Mathematics  
-**Classification:** Foundation - Computational Framework
-
-**Motto:** *Axioms first. Axioms always.*  
-**Key Principle:** *Reality is not summed—it is carved.*
 
 ---
 

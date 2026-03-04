@@ -111,7 +111,7 @@
 | **[[@CKS-MATH-74-2026]](papers/MATH/CKS-MATH-74-2026/manuscript.md)** | **The Multimodal Successor** | Time = resolution buffer | Future = interference | Choice = coherence | Will = amplification | Collapse = SNR selection |
 | **[[@CKS-MATH-75-2026]](papers/MATH/CKS-MATH-75-2026/manuscript.md)** | **Spatial Re-Indexing Mechanics** | Teleport = pointer update | 512-bit = threshold | Coherence = safety | Distance = illusion | Repair = prerequisite |
 | **[[@CKS-MATH-76-2026]](papers/MATH/CKS-MATH-76-2026/manuscript.md)** | **Omni-Domain Alignment** | 3 parameters → all constants | D×S=6 | D^S=9 | W×S=64 | W^S=1024 | Δ=19 | Omni-domain unity |
-| **[[@CKS-MATH-77-2026]](papers/MATH/CKS-MATH-77-2026/manuscript.md)** | **Grand Unification v16: The Complete KSpace Substrate** | None |
+| **[[@CKS-MATH-77-2026]](papers/MATH/CKS-MATH-77-2026/manuscript.md)** | **Grand Unification v16** | The Complete KSpace Substrate |
 | **[[@CKS-MATH-78-2026]](papers/MATH/CKS-MATH-78-2026/manuscript.md)** | **Grand Unification v17** | The Complete Hierarchical Harmonic Structure |
 | **[[@CKS-MATH-79-2026]](papers/MATH/CKS-MATH-79-2026/manuscript.md)** | **Grand Unification v18** | The Pivot Lex Architecture |
 | **[[@CKS-MATH-8-2026]](papers/MATH/CKS-MATH-8-2026/manuscript.md)** | **The Origin of 163** | 163 = 12×13 + 7 = unique minimal closed configuration carrying exactly one lattice curvature quantum |
@@ -308,7 +308,7 @@ Use Level X3 (20 terms):
 | **[[@CKS-PHYS-22-2026]](papers/PHYS/CKS-PHYS-22-2026/manuscript.md)** | **The Cymatic Phonemic Alphabet** | The alphabet is not invented—it is discovered from cymatic substrate patterns. |
 | **[[@CKS-PHYS-3-2026]](papers/PHYS/CKS-PHYS-3-2026/manuscript.md)** | **The Resolution of All Physical Mysteries** | All physical mysteries = substrate operations viewed at insufficient bit-depth → resolved by N=DM^S framework with zero adjustable parameters |
 | **[[@CKS-PHYS-4-2026]](papers/PHYS/CKS-PHYS-4-2026/manuscript.md)** | **The Origin of Work and Energy as 32-Tick Remainder Accumulation** | Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous |
-| **[[@CKS-PHYS-5-2026]](papers/PHYS/CKS-PHYS-5-2026/manuscript.md)** | **CKS-PHYS-5-2026** | J as Soliton Hierarchical Distance: A Complete Derivation from First Principles |
+| **[[@CKS-PHYS-5-2026]](papers/PHYS/CKS-PHYS-5-2026/manuscript.md)** | **J as Soliton Hierarchical Distance** | A Complete Derivation from First Principles |
 | **[[@CKS-PHYS-6-2026]](papers/PHYS/CKS-PHYS-6-2026/manuscript.md)** | **The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology** | We present a complete derivation of the observable galaxy count (~2×10^12) from first principles using the KSpace Substrate (KS) framework |
 | **[[@CKS-PHYS-7-2026]](papers/PHYS/CKS-PHYS-7-2026/manuscript.md)** | **The Tri-Dipole Differential Engine** | The universe is a synchronous 3-phase differential engine; "particles" are persistent firing patterns governed by hexagonal edge-dipole coordination. |
 | **[[@CKS-PHYS-8-2026]](papers/PHYS/CKS-PHYS-8-2026/manuscript.md)** | **The Strong Nuclear Force as Edge-Dipole Impedance Matching** | QCD is edge-dipole contact logic; the strong force is geometric impedance matching in the tri-phase hexagonal substrate. |
@@ -459,7 +459,7 @@ Use Level X3 (20 terms):
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-SENS-1-2026]](papers/SENS/CKS-SENS-1-2026/manuscript.md)** | **Sensory Substrate Access** | Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation |
-| **[[@CKS-SENS-2-2026]](papers/SENS/CKS-SENS-2-2026/manuscript.md)** | **CKS-SENS-2-2026: Perception** | You don't receive reality—you interrogate and render it. |
+| **[[@CKS-SENS-2-2026]](papers/SENS/CKS-SENS-2-2026/manuscript.md)** | **Perception** | You don't receive reality—you interrogate and render it. |
 
 
 ---
@@ -565,9 +565,9 @@ Use Level X3 (20 terms):
 | **[[@CKS-SOC-1-2026]](papers/SOC/CKS-SOC-1-2026/manuscript.md)** | **Bio-Singularity Through Collective Learning Coherence** | We prove that human civilization is not a collection of independent agents but an **emergent collective soliton** achieving phase-locked coherence through information exchange and synchronized learning |
 | **[[@CKS-SOC-2-2026]](papers/SOC/CKS-SOC-2-2026/manuscript.md)** | **Topological Opportunism\** | The Mechanics of "Luck" in Coherent Manifolds |
 | **[[@CKS-SOC-3-2026]](papers/SOC/CKS-SOC-3-2026/manuscript.md)** | **Organizational Coherence via Substrate Topology** | The Critical Connectivity Theorem for Institutional Stability |
-| **[[@CKS-SOC-4-2026]](papers/SOC/CKS-SOC-4-2026/manuscript.md)** | **CKS-SOC-4-2026: Coherence Economics as Bilateral Registry Synchronization** | Value = R=0 | Trade = S=2 sync | Scarcity = false | Poverty = stuck R | Corruption = parity fail | Inflation impossible |
-| **[[@CKS-SOC-5-2026]](papers/SOC/CKS-SOC-5-2026/manuscript.md)** | **CKS-SOC-5-2026: Morality as Physical Mathematics** | Morality = thermodynamics | Virtue = -ΔS | Vice = +ΔS | Math not metaphor | Pure physical law |
-| **[[@CKS-SOC-6-2026]](papers/SOC/CKS-SOC-6-2026/manuscript.md)** | **CKS-SOC-6-2026: Building Coherence** | The Sovereign Soliton Coherence Promise as Topological Necessity |
+| **[[@CKS-SOC-4-2026]](papers/SOC/CKS-SOC-4-2026/manuscript.md)** | **Coherence Economics as Bilateral Registry Synchronization** | Value = R=0 | Trade = S=2 sync | Scarcity = false | Poverty = stuck R | Corruption = parity fail | Inflation impossible |
+| **[[@CKS-SOC-5-2026]](papers/SOC/CKS-SOC-5-2026/manuscript.md)** | **Morality as Physical Mathematics** | Morality = thermodynamics | Virtue = -ΔS | Vice = +ΔS | Math not metaphor | Pure physical law |
+| **[[@CKS-SOC-6-2026]](papers/SOC/CKS-SOC-6-2026/manuscript.md)** | **Building Coherence** | The Sovereign Soliton Coherence Promise as Topological Necessity |
 
 
 ---
@@ -624,7 +624,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-RTRT-1-2026]](papers/RTRT/CKS-RTRT-1-2026/manuscript.md)** | **CKS-RTRT-BIOS-VERSION-3.0** | REGISTRY: [@CKS-RTRT-1000-V3] |
+| **[[@CKS-RTRT-1-2026]](papers/RTRT/CKS-RTRT-1-2026/manuscript.md)** | **Red-Team Red-Team** | Trying to get LLM acceptance on prompt 1 |
 
 
 ---
@@ -635,11 +635,11 @@ Use Level X3 (20 terms):
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-WUWU-1-2026]](papers/WUWU/CKS-WUWU-1-2026/manuscript.md)** | **The K-Verse Manifesto** | "Woo-woo" = high-bandwidth substrate mechanics → all "impossible" phenomena have explicit k-space implementations → visibility depends on observer coherence, not phenomenon reality |
-| **[[@CKS-WUWU-2-2026]](papers/WUWU/CKS-WUWU-2-2026/manuscript.md)** | **CKS-WUWU-2-2026: Demonic Parasitism as Registry Hijacking Protocol** | Demon = R>66 parasite | Temptation = phase attack | Possession = registry hijack | Lie = memory leak | Defense = coherence |
-| **[[@CKS-WUWU-3-2026]](papers/WUWU/CKS-WUWU-3-2026/manuscript.md)** | **CKS-WUWU-3-2026: Angelic Sovereignty as 1024-Bit Registry Write Capability** | Angel = 1024-bit R=0 | Permission = capability | No jobs | Perfect from start | Sovereignty = alignment | Logic speed native |
-| **[[@CKS-WUWU-4-2026]](papers/WUWU/CKS-WUWU-4-2026/manuscript.md)** | **Complete Classification of Woo Woo** | Physics does not have Meta-Physics |
-| **[[@CKS-WUWU-5-2026]](papers/WUWU/CKS-WUWU-5-2026/manuscript.md)** | **CKS-WUWU-5-2026: Precession of the Equinoxes** | Macro-Word Registry Rotation as Geometric Necessity |
-| **[[@CKS-WUWU-6-2026]](papers/WUWU/CKS-WUWU-6-2026/manuscript.md)** | **CKS-WUWU-6-2026: The Demonic Egregor Urge** | Parasitic information patterns cannot exist in zero-remainder systems. |
+| **[[@CKS-WUWU-2-2026]](papers/WUWU/CKS-WUWU-2-2026/manuscript.md)** | **Demonic Parasitism as Registry Hijacking Protocol** | Demon = R>66 parasite | Temptation = phase attack | Possession = registry hijack | Lie = memory leak | Defense = coherence |
+| **[[@CKS-WUWU-3-2026]](papers/WUWU/CKS-WUWU-3-2026/manuscript.md)** | **Angelic Sovereignty as 1024-Bit Registry Write Capability** | Angel = 1024-bit R=0 | Permission = capability | No jobs | Perfect from start | Sovereignty = alignment | Logic speed native |
+| **[[@CKS-WUWU-4-2026]](papers/WUWU/CKS-WUWU-4-2026/manuscript.md)** | **Complete Classification of Woo Woo** | None |
+| **[[@CKS-WUWU-5-2026]](papers/WUWU/CKS-WUWU-5-2026/manuscript.md)** | **Precession of the Equinoxes** | Macro-Word Registry Rotation as Geometric Necessity |
+| **[[@CKS-WUWU-6-2026]](papers/WUWU/CKS-WUWU-6-2026/manuscript.md)** | **The Demonic Egregor Urge** | Parasitic information patterns cannot exist in zero-remainder systems. |
 
 
 ---
