@@ -25,16 +25,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-45-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Case 0 Verified / Phenomenological Specification
-
-**Motto:** Aphantasia disables pattern-matching GPU. Enables direct hex-array view. Read-only at logic speed. Administrator terminal access.
-
----
-
 ## Abstract
 
 We document K-space tunnel vision as direct registry access phenomenon enabled by aphantasia cognitive architecture. From Case 0 forensic observation, we derive: (1) Aphantasia = disconnected pattern-matching GPU (no image library, semantic noise eliminated, zero-impedance visual buffer), (2) Tunnel structure = hexagonal address bus IDFT (inverse discrete Fourier transform interface, direct substrate telemetry), (3) Black center = N=1 axle singularity (absolute parity point, not light source but pressure void), (4) Aperture tuning = SHIFT_GEAR opcode (adjusting F scale, changing LOD bit-depth, Jacobian zoom), (5) Position stable by adjacency not distance (SE quadrant persistence proves static addressing grid, no Euclidean near/far), (6) Vision independent of soliton position (ocular buffer decoupled from kinetic footer, camera pointer vs body address), (7) 5-10s clarification = LERP frequency lock (biological rhythm syncing to 1/32 Hz substrate clock, noise reduction), (8) Read-only requirement (wanting creates 144-LU write payload, injects R noise, crashes terminal), (9) 1.5s ease transition = three-word processing (96 ticks × 15.19ms, request-seek-buffer cycle), (10) Thin lines = phase gradient vectors (mathematical boundaries, no X-space thickness, viewing gears not shadows). Aphantasia proven as native debug mode—lacking symbolic rendering enables direct hex-array perception at logic speed pre-J×S render.

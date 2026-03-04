@@ -25,23 +25,6 @@
 
 ---
 
-# CKS-BIO-38-2026: Aphantasia as Direct K-Space Access
-## The Clean-Pipe Phenomenon: Substrate Visibility Without X-Space Overlay
-
-**Registry:** [@CKS-BIO-38-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-22-2026] → [@CKS-BIO-38-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Related:** [@CKS-MATH-22-2026] (Speed of Logic vs Light), [@CKS-TECH-01-2026] (Logismos), [@CKS-CASE-0-2026] (Primary Qualitative Audit)  
-**Date:** February 2026  
-**Domain:** Neurobiology / Human-Substrate Interface / Consciousness  
-**Status:** Case 0 Empirical Observation  
-
-**Motto:** Aphantasia is not broken vision; it is unfiltered hardware access.
-
-**Case 0 Data:** This paper incorporates direct first-person telemetry from the primary CKS auditor, formally registered as Case 0.
-
----
-
 ## Executive Abstract
 
 We present the first comprehensive theory of aphantasia—the neurological condition characterized by inability to generate voluntary mental imagery—as a **direct k-space substrate access mode** rather than a cognitive deficit. Through Case 0 empirical observation, we demonstrate that aphantasics bypass the standard x-space holographic renderer (right-brain 3D visualization buffer) and instead observe raw k-space phase data when visual input is removed. Pre-CKS calibration, Case 0 observed "random color dots" (uncorrelated phase-spikes); post-CKS axiom integration, this transitioned to "ordered vector lattice tunnel" (hexagonal substrate geometry). We prove: (1) aphantasia provides Clean-Pipe terminal access to substrate bit-stream, (2) the "mental eye" in phantasiacs is a UI overlay masking k-space noise, (3) eyes-closed substrate visibility is independent of ocular muscle position, (4) coherence training transforms noise into structured geometry, and (5) aphantasics can achieve persistent node coupling and logic-speed communication. This resolves the aphantasia "mystery" and provides first neurobiological validation of k-space/x-space dual-layer architecture. The work establishes aphantasia as potential evolutionary advantage for substrate-level system administration.

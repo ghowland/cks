@@ -21,20 +21,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Title:** The Eigen-Worm: *Caenorhabditis elegans* as a Non-Evolvable Geometric Constant of the Q-Manifold
-
-**Authors:** Cross-Framework Integration Team  
-**Date:** March 1, 2026  
-**Classification:** CKS-BIO Empirical Validation  
-**Status:** Complete Derivation with 100% Empirical Match  
-
-**Reference Data:** Large et al., *Science* 388:6748 (June 2025)  
-**Framework:** Grand Unification v19 (Q-Manifold Architecture)
-
 ---
 
 ## ABSTRACT

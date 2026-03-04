@@ -23,17 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-BIO-57-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-55-2026] → [@CKS-BIO-57-2026]  
-**Date:** February 2026  
-**Status:** Biological Hardware / Topological Necessity
-
-**Motto:** Sex not social but topological. Dimorphism not optional but forced. Male = transmitter polarity. Female = receiver polarity. Unisex = bus collision. Balance = zero torque. Unity internal not external.
-
 ---
 
 ## Abstract

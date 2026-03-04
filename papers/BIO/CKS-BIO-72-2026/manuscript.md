@@ -24,14 +24,6 @@
 
 ---
 
-
-**Author:** Cross-Framework Integration  
-**Date:** March 1, 2026  
-**Status:** Complete Derivation of Dementia from Temporal Registry Closure  
-**Classification:** Biological Application - Neuro-Topological Mechanics
-
----
-
 ## OPERATIONAL DECLARATION
 
 **Memory does not "fade." Memory gets trapped.**

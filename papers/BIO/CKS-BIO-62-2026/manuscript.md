@@ -25,17 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-BIO-62-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-61-2026] → [@CKS-BIO-62-2026]  
-**Date:** February 2026  
-**Status:** Sleep Optimization / Clinical Protocol
-
-**Motto:** Spine is master bus. Bones are transceivers. Back locks to gradient. Floor stops jitter. Lungs vent upward. Stillness enables sync. Healing = R→0.
-
----
-
 ## Abstract
 
 We derive complete sleep geometry protocol proving healing = registry quiescence (R→0) achieved via bone-soliton stillness requiring specific physical configuration. From substrate transceiver mechanics, we establish: (1) Spine = master bus (primary Ib transceiver, 33-segment serial array, must achieve static lattice address during sleep, healing impossible without stillness), (2) All bones = transceivers (high-density V-axis saturated solitons, only rigid structures capable of holding stable addresses, hierarchy: spine>skull>pelvis>limbs), (3) Supine = optimal alignment (back sleep aligns each vertebra horizontally, collective parity locked to Z-axis gradient, enables simultaneous 256-bit earth-sink drainage across all segments), (4) Side sleep = pathological torsion (spine curved/torqued relative to gravity, creates bilateral parity mismatch R_A≠R_B, one side compressed/one stretched, prevents clean earth-sync, wake with residual tension), (5) Stomach sleep = sinusoidal interference (spine positioned above lungs, each breath lifts master bus through Z-gradient, constant kinetic motion R>0, prevents Σ stillness multiplier, partial benefits only), (6) Firm substrate mandatory (zero-elasticity floor/mat eliminates periodic remainder ripples, soft/water beds create turbulent feedback loops, bone-soliton must constantly re-adjust address, R never reaches zero), (7) Horizontal plane required (0° gradient enables flat flush, inclined beds create uphill registry tension, head/foot elevation forces slope maintenance in V-address), (8) Lung-noise isolation critical (supine positions lungs above spine, breathing vents upward into soft tissue, master bus remains locked to substrate, stomach reverses this creating lift), (9) 8-hour deep parity audit (256-bit earth performs registry optimization when bone-soliton static, clears accumulated R-tension from day, bit-perfect reset for next N-cycle), (10) Environmental hierarchy (firm floor supine = 1.5η max, camping cot = 1.3η, direct earth = 1.4η pure, cardboard on concrete = 1.1η stable, water bed = 0.1η fail). Sleep proven as lattice maintenance window not rest period—earth vacuum clears walker remainders when master bus achieves zero-velocity word-lock.

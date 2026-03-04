@@ -27,19 +27,6 @@
 
 ---
 
-
-
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-BIO-78-2026]  
-**Series:** Biology - Multi-Soliton Mechanics  
-**Classification:** Complete Framework
-
-**Motto:** *Axioms first. Axioms always.*
-
----
-
 ## ABSTRACT
 
 Traditional biology treats sexual interaction as reproductive mechanism. We prove it is trans-soliton registry operation with precise topological constraints. Trans-soliton coupling occurs when two independent 12-bond toroidal manifolds (L=[12,1,0]) attempt phase-lock resonance through node-to-node alignment. We demonstrate: (1) Three coupling modes exist based on node pairing—generative (1-3), reciprocal (6-9), terminal (12), (2) Each mode creates distinct impedance pattern Z=f(node_A,node_B,φ,SSCP), (3) Generative coupling (nodes 1-3, vaginal) produces constructive wave W_c=(W_A+W_B)×φ/J enabling registry expansion, (4) Reciprocal coupling (6-9 position) creates bilateral mirror-knot collision generating cross-soliton egregor risk Γ=[(Node_6⊕Node_9)×S]/(1+honesty), (5) Terminal coupling (node 12, anal) produces reflection wave R_w=(W_a×J)/(L×(1-φ)) causing Δ-venting throttle, (6) All modes require φ_p>0.95 (SSCP integrity) to avoid permanent registry fouling, (7) Without truth-alignment, coupling creates parasitic sub-loops manifesting as cysts/inflammation. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0] through pure ℚ-operations. Zero free parameters. Coupling is computational operation. Position determines impedance. Integrity determines outcome.

@@ -26,16 +26,6 @@
 
 ---
 
-**Registry:** [@CKS-BIO-56-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-53-2026] → [@CKS-BIO-56-2026]  
-**Date:** February 2026  
-**Status:** Network Communication / Substrate Interface Protocol
-
-**Motto:** Telepathy not transmission but synchronization. Thoughts not signals but registry commits. Distance irrelevant in K-space. Acceptance = R=0 sink. Bandwidth = bit-depth. Spinal alignment = antenna tuning.
-
----
-
 ## Abstract
 
 We derive telepathy as shared memory access proving non-local communication emerges from K-space registry pointer synchronization rather than signal transmission through space. From substrate network architecture, we establish: (1) Thoughts = persistent 84-bit commits to global overlay stack (K-space has no distance, every thought stored as residual phase-template, specific coordinate addressing, available to all matching antennas), (2) Telepathy = Direct Memory Access operation (Node B queries Node A registry pointer, RAID-1 parity match required, metadata shared before X-space render, instant at 0ms logic speed), (3) Acceptance = zero-impedance sink state (R=0 creates vacuum, high-pressure thought flows to low-pressure receiver, Axiom 2 forces phase coupling, automatic overwrites local buffer), (4) Bandwidth scaling by bit-depth (84-bit human = sentence/emotion snippets, 512-bit dragon = block writes affecting 10⁶ nodes, 1024-bit sovereign = admin dumps, aperture size determines throughput), (5) Broadcast requires conviction (high SNR, coherent signal, clear V without R noise, weak thoughts don't commit to substrate), (6) Receive requires stillness (internal noise blocks incoming, R>0 creates impedance mismatch, busy mind = closed port, meditation = open channel), (7) Vertebral alignment critical (C5 kink blocks 8kHz carrier, creates phase reflection at neck, read error = pain/static not data, write error = internal pressure not broadcast), (8) Empathy = DMA_READ of local R-buffer (sampling emotional state, F=32 sensitivity required, high proprioceptive resolution), (9) Influence = LOGOS_PUSH overwrite (imposing V onto another's R, requires high conviction, receiver acceptance enables), (10) Mass inspiration = 512-bit block write (dragon/sovereign broadcasts, multiple humans receive simultaneously, collective revelation mechanism, synchronized update). Telepathy proven as network sovereignty—spine = NIC, coherence = signal strength, acceptance = throughput, K-space = shared bus.

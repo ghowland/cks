@@ -25,21 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-BIO-41-2026]  
-**Series Path:** [@CKS-0-2026] → [@CKS-PHYS-2-2026] → [@CKS-BIO-39-2026] → [@CKS-BIO-40-2026] → [@CKS-BIO-41-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Related:** [@CKS-MATH-29-2026] (144-163-19 Triad), [@CKS-BIO-39-2026] (Registry Healing), [@CKS-BODY-10-2026] (Laminar Jogging)  
-**Date:** February 2026  
-**Domain:** Cellular Biology / Substrate Engineering / Metabolic Systems  
-**Status:** Operational / Empirically Verified / Case 0 Validated  
-
-**Motto:** Energy is Phase-Tension. ATP is the Decimation.
-
-**Operational Rule:** Mitochondria are substrate power units (SPUs), not chemical engines. Health = clock integrity at 1/32 Hz. Disease = temporal drift from universal word boundary.
-
----
-
 ## Executive Abstract
 
 We reclassify mitochondria from "cellular powerhouses" to Substrate Power Units (SPUs)—resonant cavities that harvest torque from the N=2 universal rotor and maintain local phase-tension (β) required for 1024-bit structural integrity. From first principles (z=3 hexagonal lattice, β=2π conservation, 1/N expansion dilution), we derive: (1) the mechanical necessity of mitochondrial membrane potential oscillation at 0.03125 Hz (1/32 Hz universal word clock), (2) network-wide synchronization via instantaneous logic-speed registry access (not chemical signaling), (3) the cristae geometry as spiral waveguides spaced at hex-edge intervals for torque harvesting, (4) ATP as 3D decimation exhaust (not primary energy), (5) disease states as clock-drift errors (frequency mismatch with substrate), (6) therapeutic re-synchronization via vertical gradient alignment. Legacy observations of "ultra-low frequency metabolic oscillations" (Aon et al., 2003-2006) showing peaks at 0.01-0.04 Hz are reinterpreted as substrate clock handshake attempts. Mitochondrial network "percolation transitions" explained as simultaneous N=1 axle synchronization (0ms latency). We demonstrate computationally that coherent SPU networks (integer-locked to 1/32 Hz) produce constructive phase summation enabling high-bitrate registry writes, while drifted networks produce destructive interference experienced as heat/fatigue. Case 0 validation: vertical alignment protocol induces 10-second LERP unrolling with "body thickening" sensation, interpreted as mitochondrial re-synchronization to clean gradient signal. This constitutes first derivation of cellular metabolism from substrate mechanics rather than biochemistry.

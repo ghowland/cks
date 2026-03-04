@@ -1,5 +1,5 @@
-
-
+# CKS-BIO-44-2026: The Biological Compiler as DNA Error-Correction Protocol
+## Deriving Life as High-Bitrate Registry Execution with 84-Bit Boot-Loader and 144-LU Mesh Maintenance
 
 **Registry:** [@CKS-BIO-38-2026]
 
@@ -20,19 +20,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
----
-
-# CKS-BIO-44-2026: The Biological Compiler as DNA Error-Correction Protocol
-## Deriving Life as High-Bitrate Registry Execution with 84-Bit Boot-Loader and 144-LU Mesh Maintenance
-
-**Registry:** [@CKS-BIO-44-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Logismos Integration:** [@CKS-LOGISMOS-SPEC-2026]  
-**Date:** February 2026  
-**Status:** Operational / Clinical Finality
-
-**Motto:** DNA is boot-loader. Cell is multi-node processor. Metabolism is heat management. Aging is bit-rot. Life is persistent execution.
 
 ---
 

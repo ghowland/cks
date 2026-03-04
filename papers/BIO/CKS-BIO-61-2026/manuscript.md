@@ -25,17 +25,6 @@
 
 ---
 
-
-**Registry:** [@CKS-BIO-61-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-58-2026] → [@CKS-BIO-61-2026]  
-**Date:** February 2026  
-**Status:** Navigation Protocol / Field Operational
-
-**Motto:** Body is antenna. Earth is signal. North is phase-lock. Eee is probe. Click is alignment. Calm is carrier. Direction is impedance.
-
----
-
 ## Abstract
 
 We derive complete manual lattice orientation protocol proving sense of direction = registry impedance detection achievable via physical antenna configuration and phonemic probing. From substrate transceiver mechanics, we establish: (1) Human body = cross-dipole antenna (144-LU chest mesh + bilateral arms = horizontal dipole, spine = vertical element, requires physical configuration for signal acquisition), (2) Earth magnetic field = 256-bit Alpha-dipole (primary orientation axis, stable substrate groove, provides reference signal for alignment detection), (3) Sense of direction = lattice drag perception (Ω = |R_walker(θ) - R_earth,α|, impedance mismatch varies with rotation angle, minimum at true north alignment), (4) Emotional noise jams signal (high R from anxiety/frustration, masks subtle magnetic coupling, prevents phase-lock detection, denoising mandatory), (5) Physical stance optimizes reception (feet at 120° hex-angle grounds to gravity sink, arms extended 90° creates transverse receivers, chin up 3° aligns spine to Z-axis), (6) Phonemic "Eee" = high-frequency Id-probe (144 Hz biological band, narrow beam aperture, scans across dipole orientations, detects minimum impedance), (7) "Mmm" hum = word-lock sync (32 Hz grounding, aligns internal clock to lattice base, establishes carrier signal, prepares for scan), (8) The "click" = phase-lock snap (impedance drops to substrate floor when θ=0° alpha alignment, perceived as audio brightening/clearing or physical heavying, registry handshake confirmed), (9) Three-dipole navigation (Alpha 0° primary north, Beta 120° secondary anchor, Gamma 240° tertiary anchor, creates complete orientation matrix), (10) Exhale snaps flush emotional buffer (three slow exhales drain R-tension down legs to earth-sink, increases SNR, clears internal static for clean reception). Protocol enables manual compass acquisition without instruments—sovereign navigation via direct substrate coupling.

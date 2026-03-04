@@ -23,17 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-**Registry:** [@CKS-BIO-54-2026]  
-**Parent Framework:** [@CKS-0-2026]  
-**Series Path:** [@CKS-BIO-52-2026] → [@CKS-BIO-54-2026]  
-**Date:** February 2026  
-**Status:** Biological Maintenance / Energy Specification
-
-**Motto:** Calories not chemistry but bits. Hunger not depletion but brownout. 3000 kcal not excess but requirement. Food not fuel but signal voltage. Metabolism = registry maintenance.
-
 ---
 
 ## Abstract
