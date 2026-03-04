@@ -132,10 +132,10 @@ def Gen(args):
           # print(f'Added paper: {topic}: {paper}')
           if paper['key_result'] == None:
             # Take from 
-            if paper['abstract'] != None:
-              paper['key_result'] = paper['abstract'].split('. ')[0].strip()
-            else:
+            if paper['subtitle'] != None:
               paper['key_result'] = paper['subtitle']
+            elif paper['abstract'] != None:
+              paper['key_result'] = paper['abstract'].split('. ')[0].strip()
           
           # Skip?
           if paper['skip']:

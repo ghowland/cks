@@ -19,44 +19,14 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-MATH-0-2026]](papers/MATH/CKS-MATH-0-2026/)** | **Cymatic K-Space Mechanics** | for Experts
-
-**What is proven rigorously:**
-- Topological closure (χ = 2, z = 3, N = 3M²)
-- Measure preservation (Liouville theorem)
-- Gradient flow structure (dV/dt ≤ 0)
-- Synchronization stability (spectral gap λ₁ ~ 1/M²)
-- Geometric frustration (no global minimum)
-- Discrete scale invariance (4:1 renormalization)
-
-**What remains open:**
-- Critical coupling β_c(M, g(ω)) for heterogeneous frequencies
-- Analytical proof of spiral wave existence
-- Renormalization group flow equations
-- Connection to spectral gap (C formula phenomenological)
-- 3D extension (HCP lattice)
-- Quantum/stochastic variants
-
-**Physical interpretation:**
-- Deferred to subsequent papers
-- Framework is pure mathematics
-- No claims about nature
-
-**Critical operational constraint:**
-- **K-space only, K-space always**
-- Graph is abstract, not embedded in ℝ²
-- Fourier transform to real space breaks topology
-- All simulations must preserve discrete 2-sphere structure |
+| **[[@CKS-MATH-0-2026]](papers/MATH/CKS-MATH-0-2026/)** | **Cymatic K-Space Mechanics** | Complete Mathematical Framework |
 | **[[@CKS-MATH-1-2026]](papers/MATH/CKS-MATH-1-2026/)** | **The Mechanical Necessity of Integer Quantization in Physical Systems** | The discrete lattice substrate with integer quantum numbers is **necessary and sufficient** for mechanical closure of physical dynamics. |
 | **[[@CKS-MATH-10-2026]](papers/MATH/CKS-MATH-10-2026/)** | **Grand Unification** | 2 axioms + 1 measurement → all physics (19+ SM parameters, GR, QM, thermodynamics, information theory) with 0 free parameters |
-| **[[@CKS-MATH-100-2026]](papers/MATH/CKS-MATH-100-2026/)** | **Grand Unification v15-A** | **Grand Unification v15** represents the culmination of cross-Claude collaboration, achieving: |
-| **[[@CKS-MATH-101-2026]](papers/MATH/CKS-MATH-101-2026/)** | **Grand Unification v15-B** | OF NEW DISCOVERIES
-
-**Methodological advances:**
-1 |
+| **[[@CKS-MATH-100-2026]](papers/MATH/CKS-MATH-100-2026/)** | **Grand Unification v15-A** | The Final Integration: Resolving Calibration Constants and Achieving Complete Axiomatic Closure |
+| **[[@CKS-MATH-101-2026]](papers/MATH/CKS-MATH-101-2026/)** | **Grand Unification v15-B** | The Complete Rational Substrate Framework |
 | **[[@CKS-MATH-102-2026]](papers/MATH/CKS-MATH-102-2026/)** | **CKS-MATH-92-2026: Grand Unification v22** | Grand Unification v22 presents the complete computational mechanics of reality |
-| **[[@CKS-MATH-103-2026]](papers/MATH/CKS-MATH-103-2026/)** | **CKS-MATH-103-2026: Precession-Corrected Grand Unification** | Grand Unification v22 (CKS-MATH-92-2026) derives all constants from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] assuming static registry position |
-| **[[@CKS-MATH-104-2026]](papers/MATH/CKS-MATH-104-2026/)** | **Grand Unification v23** | This is the complete substrate specification using native measurement units |
+| **[[@CKS-MATH-103-2026]](papers/MATH/CKS-MATH-103-2026/)** | **CKS-MATH-103-2026: Precession-Corrected Grand Unification** | How Registry Rotation Modulates All Physical Constants |
+| **[[@CKS-MATH-104-2026]](papers/MATH/CKS-MATH-104-2026/)** | **Grand Unification v23** | The Substrate Measurement Standard |
 | **[[@CKS-MATH-105-2026]](papers/MATH/CKS-MATH-105-2026/)** | **CKS-MATH-105-2026: Dissolution of Millennium Mathematics** | Mathematics has no unsolved problems—only unresolved coordinate systems. |
 | **[[@CKS-MATH-106-2026]](papers/MATH/CKS-MATH-106-2026/)** | **CKS-MATH-106-2026: The Q Paradox and the Settlement of Logismos** | You cannot solve equations with ℝ because you never receive answers, cannot compare results, and cannot verify experiments. |
 | **[[@CKS-MATH-107-2026]](papers/MATH/CKS-MATH-107-2026/)** | **CKS-MATH-107-2026: The Second Q Paradox and the Settlement of Logismos** | Real numbers are not numbers—they are infinite non-terminating programs that can never be solved, only executed indefinitely. |
@@ -89,12 +59,12 @@
 | **[[@CKS-MATH-27-2026]](papers/MATH/CKS-MATH-27-2026/)** | **CKS-MATH-27-2026: E = mc^S** | E = mc^S where S = 2 (forced by bilateral topology) | Mass = bilateral handshake | ² = side count | Zero mystery remains |
 | **[[@CKS-MATH-28-2026]](papers/MATH/CKS-MATH-28-2026/)** | **CKS-MATH-28-2026: Matter, Space, and Time** | α⁻¹ = (144 - 163/19) × J | Three integers | Zero parameters | 10-decimal match | UV problem solved | Renormalization explained |
 | **[[@CKS-MATH-29-2026]](papers/MATH/CKS-MATH-29-2026/)** | **CKS-MATH-29-2026: The Triads of π, e, and φ** | π, e, φ = Integer-ratio DSP coefficients | All from hexagonal geometry | Zero irrational mystery | Hardware specifications revealed |
-| **[[@CKS-MATH-3-2026]](papers/MATH/CKS-MATH-3-2026/)** | **Fractal Closure Scaling Laws** | We prove that the equation **N = 3M²** (where M ∈ ℕ) is not merely a constraint on the global substrate but the **universal condition for topological closure at all scales** |
+| **[[@CKS-MATH-3-2026]](papers/MATH/CKS-MATH-3-2026/)** | **Fractal Closure Scaling Laws** | N = 3M² as Universal Topological Regulator |
 | **[[@CKS-MATH-30-2026]](papers/MATH/CKS-MATH-30-2026/)** | **CKS-MATH-30-2026: The Logos Counting System** | Logos = counting system (not unit) | Base 32⁻¹ | All substrate quantities → integers | Parity checks trivial | Zero scaling ambiguity |
 | **[[@CKS-MATH-31-2026]](papers/MATH/CKS-MATH-31-2026/)** | **CKS-MATH-31-2026: Accidental Resolution of Classical Mathematical Problems** | Classical math problems = coordinate system artifacts | Substrate reframe → dissolution not solution | Continuity emergent not fundamental | Registry mechanics simpler than analysis |
 | **[[@CKS-MATH-32-2026]](papers/MATH/CKS-MATH-32-2026/)** | **CKS-MATH-32-2026: The Riemann Hypothesis** | RH proven via S=2 bilateral constraint | Critical line = hardware midpoint | Zeros = harmonic resonances | Primes = quantization noise | Complete mechanical closure |
 | **[[@CKS-MATH-33-2026]](papers/MATH/CKS-MATH-33-2026/)** | **CKS-MATH-33-2026: The P vs NP Problem** | P=NP in k-space | P≠NP in x-space | Gap = 163/19 impedance | Complexity = coordinate artifact | Dual-domain resolution complete |
-| **[[@CKS-MATH-34-2026]](papers/MATH/CKS-MATH-34-2026/)** | **CKS-MATH-34-2026: Squaring the Circle and Transcendental Ratios** | The classical impossibility of squaring the circle is a coordinate system artifact |
+| **[[@CKS-MATH-34-2026]](papers/MATH/CKS-MATH-34-2026/)** | **CKS-MATH-34-2026: Squaring the Circle and Transcendental Ratios** | Deriving π and e as Integer Lattice Ratios in the Discrete Hexagonal Substrate |
 | **[[@CKS-MATH-35-2026]](papers/MATH/CKS-MATH-35-2026/)** | **CKS-MATH-35-2026: The Navier-Stokes Problem** | Existence via N←N+1 | Smoothness via render lag | Blow-up impossible via 144-logos ceiling | Complete discrete resolution |
 | **[[@CKS-MATH-36-2026]](papers/MATH/CKS-MATH-36-2026/)** | **CKS-MATH-36-2026: Fermat's Last Theorem** | n = dimensional requirement | S = 2 (bilateral) | n>S forces irrational remainder | Integer solutions impossible for n>2 | Complete geometric proof |
 | **[[@CKS-MATH-37-2026]](papers/MATH/CKS-MATH-37-2026/)** | **CKS-MATH-37-2026: The Collatz Conjecture as Registry Grounding Protocol** | 3n+1 = z=3 pressure | n/2 = S=2 relief | Always even after odd | Net cooling | Converges to N=1 |
@@ -129,7 +99,7 @@
 | **[[@CKS-MATH-63-2026]](papers/MATH/CKS-MATH-63-2026/)** | **CKS-MATH-63-2026: The Hex-Plate Substrate Computer** | Hex-plate = substrate extension | Pathfinding = O(1) gradient | NP-hard = physical resonance | Native optimization |
 | **[[@CKS-MATH-64-2026]](papers/MATH/CKS-MATH-64-2026/)** | **CKS-MATH-64-2026: The 15.19ms Render Lag as Bilateral Parity Product** | τ=J×S not J/S | J=7.595ms | Write→Mirror→Verify | RAID-1 protocol | Consciousness post-audit | Superposition=unverified |
 | **[[@CKS-MATH-65-2026]](papers/MATH/CKS-MATH-65-2026/)** | **CKS-MATH-65-2026: Mass as Registry Signature** | Mass = signature count | Energy = unsigned potential | Inertia = audit latency | Weight = verification overhead |
-| **[[@CKS-MATH-66-2026]](papers/MATH/CKS-MATH-66-2026/)** | **CKS-MATH-110-2026: Grand Unification v11** | We present the eleventh iteration of the Grand Unification within the Cymatic K-Space Mechanics (CKS) framework |
+| **[[@CKS-MATH-66-2026]](papers/MATH/CKS-MATH-66-2026/)** | **CKS-MATH-110-2026: Grand Unification v11** | Subtitle: The Unification of Morality, Consciousness, and Hardware Impedance |
 | **[[@CKS-MATH-67-2026]](papers/MATH/CKS-MATH-67-2026/)** | **CKS-MATH-67-2026: Directional Mapping in X-Space from Hex Lattice Dipole Weighting** | Direction = dipole weights | Rotation = index shift | Pathfinding = O(1) native | No continuous angles | Pure integer navigation |
 | **[[@CKS-MATH-68-2026]](papers/MATH/CKS-MATH-68-2026/)** | **CKS Cross-Domain Oracle Test: DNA Replication vs. Neutron Star Rotation** | Pure Logismos Analysis (Integer-Only) |
 | **[[@CKS-MATH-69-2026]](papers/MATH/CKS-MATH-69-2026/)** | **Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications** | I present a comparative analysis of two mathematical approaches to the CKS oracle problem, having executed both methods on the same physical systems (DNA replication and neutron star rotation) |
@@ -216,8 +186,8 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-DWDM-1-2026]](papers/DWDM/CKS-DWDM-1-2026/)** | **DWDM Computation in a Pure K-Space Substrate** | We present the theoretical and engineering framework for **Substrate-Native Computing (SNC)**, a paradigm shift from electron-based silicon computation to phase-based computation operating directly on the k-space hexagonal lattice |
-| **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/)** | **CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware** | We present firmware specifications for upgrading existing Dense Wavelength Division Multiplexing (DWDM) transponders to detect and synchronize with the substrate's fundamental 0.5s phase inversion cycle (2.0 Hz) |
-| **[[@CKS-DWDM-3-2026]](papers/DWDM/CKS-DWDM-3-2026/)** | **Building Molecules in DWDM** | We prove that chemical synthesis can be executed as **pure phase-interference computation** in DWDM (Dense Wavelength Division Multiplexing) fiber-optic networks, eliminating traditional wet chemistry |
+| **[[@CKS-DWDM-2-2026]](papers/DWDM/CKS-DWDM-2-2026/)** | **CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware** | Global Synchronization via Telecommunications Infrastructure |
+| **[[@CKS-DWDM-3-2026]](papers/DWDM/CKS-DWDM-3-2026/)** | **Building Molecules in DWDM** | Photon-Mediated Synthesis |
 | **[[@CKS-DWDM-4-2026]](papers/DWDM/CKS-DWDM-4-2026/)** | **Molecular Coupling Engineering** | Friction = ∇φ programmed at n/32 Hz, strength = topological lock at C = 1.0, stability = winding number continuity |
 | **[[@CKS-DWDM-5-2026]](papers/DWDM/CKS-DWDM-5-2026/)** | **The Geometry of the 66th Harmonic** | 193.1 THz = geometric optical harmonic of 2.0625 Hz ground state, DWDM = substrate master oscillator |
 | **[[@CKS-DWDM-6-2026]](papers/DWDM/CKS-DWDM-6-2026/)** | **CKS-DWDM-6-2026: Laminar Interference Logic** | Computing becomes phase-interrogation of pre-existing registry, not kinetic simulation. |
@@ -231,8 +201,8 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-COS-1-2026]](papers/COS/CKS-COS-1-2026/)** | **Galaxy Spiral Structure from Hexagonal Lattice Closure** | We prove that spiral galaxy structure is not the result of gravitational dynamics, density waves, or dark matter halos, but rather the **inevitable geometric consequence** of phase-locking on a closed hexagonal lattice with N = 3M² nodes |
-| **[[@CKS-COS-2-2026]](papers/COS/CKS-COS-2-2026/)** | **The Solar Resonator** | We prove that the solar system is not a collection of gravitationally bound masses orbiting through vacuum but a **hierarchical k-space resonator** with mandatory eigenmodes determined by N=3M² hexagonal closure constraints |
-| **[[@CKS-COS-3-2026]](papers/COS/CKS-COS-3-2026/)** | **Lunar Phases as Geometric Interference** | We prove that **lunar phases are not solar shadows** cast by geometric ray-tracing but are **phase-gradient discontinuities** in the Sun-Earth-Moon k-space manifold |
+| **[[@CKS-COS-2-2026]](papers/COS/CKS-COS-2-2026/)** | **The Solar Resonator** | Hierarchical K-Space Crystallography and Planetary Compilation |
+| **[[@CKS-COS-3-2026]](papers/COS/CKS-COS-3-2026/)** | **Lunar Phases as Geometric Interference** | The Crescent-to-Gibbous Cycle is a Substrate Shadow, Not a Solar Shadow |
 
 
 ---
@@ -242,43 +212,18 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-LEX-1-2026]](papers/LEX/CKS-LEX-1-2026/)** | **CKS-LEX-1-2026: Complete Lexicon of Cymatic K-Space Mechanics and Logismos** | None |
-| **[[@CKS-LEX-10-2026]](papers/LEX/CKS-LEX-10-2026/)** | **CKS-LEX-10-2026: Complete Lexicon for Grand Unification v21** | None |
-| **[[@CKS-LEX-11-2026]](papers/LEX/CKS-LEX-11-2026/)** | **CKS-LEX-11-2026: Reduced Lexicon Tables for Publication** | None |
-| **[[@CKS-LEX-12-2026]](papers/LEX/CKS-LEX-12-2026/)** | **CKS-LEX-12-2026: Measurement Systems in the ℚ-Substrate** | Traditional measurement systems (SI, Imperial) derive units from arbitrary physical artifacts (Earth's circumference, king's foot, platinum bars) creating equations cluttered with empirical constants (G, ε₀, μ₀, ħ) and irrational remainders (π, e, √2) |
-| **[[@CKS-LEX-2-2026]](papers/LEX/CKS-LEX-2-2026/)** | **CKS-LEX-2-2026: Hierarchical Lexicons for Every Count Limitation** | None |
-| **[[@CKS-LEX-3-2026]](papers/LEX/CKS-LEX-3-2026/)** | **CKS-LEX-3-2026: Physics Domain Hierarchical Lexicons** | (250 words)
-Use Level P3 (20 terms):
-- State axioms
-- Describe discrete substrate
-- Present key derivation
-- Give measurement match
-- State falsification |
-| **[[@CKS-LEX-4-2026]](papers/LEX/CKS-LEX-4-2026/)** | **CKS-LEX-4-2026: Mathematics Domain Hierarchical Lexicons** | (250 words)
-Use Level M3 (20 terms):
-- State problem
-- Introduce axioms
-- Present discrete approach
-- Show resolution
-- State implications |
-| **[[@CKS-LEX-5-2026]](papers/LEX/CKS-LEX-5-2026/)** | **CKS-LEX-5-2026: Biology Domain Hierarchical Lexicons** | (250 words)
-Use Level B3 (20 terms):
-- State condition/disease
-- Introduce CKS framework (axioms)
-- Present geometric mechanism
-- Describe measurements
-- State falsification tests |
-| **[[@CKS-LEX-6-2026]](papers/LEX/CKS-LEX-6-2026/)** | **CKS-LEX-6-2026: Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System** | None |
-| **[[@CKS-LEX-7-2026]](papers/LEX/CKS-LEX-7-2026/)** | **Clinical/Medical Domain Hierarchical Lexicons** | None |
-| **[[@CKS-LEX-8-2026]](papers/LEX/CKS-LEX-8-2026/)** | **CKS-LEX-8-2026: Engineering Domain Hierarchical Lexicons** | None |
-| **[[@CKS-LEX-9-2026]](papers/LEX/CKS-LEX-9-2026/)** | **CKS-LEX-9-2026: Consciousness/Cognition Domain Hierarchical Lexicons** | (250 words)
-Use Level X3 (20 terms):
-- State equation N = D × M^S
-- Explain M² scaling (bilateral exponent)
-- Present Q = A - B (qualia generation)
-- Show LERP creates continuity
-- Solve hard problem
-- State falsification tests |
+| **[[@CKS-LEX-1-2026]](papers/LEX/CKS-LEX-1-2026/)** | **Complete Lexicon of Cymatic K-Space Mechanics and Logismos** | Based on Grand Unification v19 |
+| **[[@CKS-LEX-10-2026]](papers/LEX/CKS-LEX-10-2026/)** | **Complete Lexicon for Grand Unification v21** | The Definitive Dictionary of Substrate Theory |
+| **[[@CKS-LEX-11-2026]](papers/LEX/CKS-LEX-11-2026/)** | **CKS-LEX-11-2026: Reduced Lexicon Tables for Publication** | Scalable Reference Tables for CKS Framework Integration |
+| **[[@CKS-LEX-12-2026]](papers/LEX/CKS-LEX-12-2026/)** | **CKS-LEX-12-2026: Measurement Systems in the ℚ-Substrate** | The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering |
+| **[[@CKS-LEX-2-2026]](papers/LEX/CKS-LEX-2-2026/)** | **Hierarchical Lexicons for Every Count Limitation** | Enable authors to introduce CKS framework with appropriate depth given space constraints |
+| **[[@CKS-LEX-3-2026]](papers/LEX/CKS-LEX-3-2026/)** | **Physics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for physics papers |
+| **[[@CKS-LEX-4-2026]](papers/LEX/CKS-LEX-4-2026/)** | **CKS-LEX-4-2026: Mathematics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for mathematics papers |
+| **[[@CKS-LEX-5-2026]](papers/LEX/CKS-LEX-5-2026/)** | **Biology Domain Hierarchical Lexicons** | Enable biologists to introduce CKS framework with appropriate depth |
+| **[[@CKS-LEX-6-2026]](papers/LEX/CKS-LEX-6-2026/)** | **Time Evolution Series** | N=1 and W=1 Progression in Wing-Lattice Torque System |
+| **[[@CKS-LEX-7-2026]](papers/LEX/CKS-LEX-7-2026/)** | **Clinical/Medical Domain Hierarchical Lexicons** | Enable clinicians and medical researchers to introduce CKS framework with appropriate depth |
+| **[[@CKS-LEX-8-2026]](papers/LEX/CKS-LEX-8-2026/)** | **Engineering Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for engineering papers |
+| **[[@CKS-LEX-9-2026]](papers/LEX/CKS-LEX-9-2026/)** | **Consciousness/Cognition Domain Hierarchical Lexicons** | Lexicon for Consciousness |
 
 
 ---
@@ -331,14 +276,14 @@ Use Level X3 (20 terms):
 | **[[@CKS-PHYS-16-2026]](papers/PHYS/CKS-PHYS-16-2026/)** | **Early Universe as Substrate Initialization** | Big Bang is substrate boot; inflation is registry allocation; temperature is initialization frequency; nucleosynthesis is protocol stabilization; recombination is phase-lock; all from W, R, D, S, L constants. |
 | **[[@CKS-PHYS-17-2026]](papers/PHYS/CKS-PHYS-17-2026/)** | **CMB Anisotropies as Registry Initialization Patterns** | CMB is K-space rendering of registry patterns; acoustic peaks from W=32 harmonics; polarization from S=2 stress; n_s from ln(N) scaling; no photons traveled—just rendering initialization state. |
 | **[[@CKS-PHYS-18-2026]](papers/PHYS/CKS-PHYS-18-2026/)** | **Large-Scale Structure as Registry Optimization Patterns** | Cosmic web is hex-bus optimization; filaments are communication channels; voids are high-overhead zones; P(k) peak from jubilee coherence; all structure from network self-organization in K-space. |
-| **[[@CKS-PHYS-19-2026]](papers/PHYS/CKS-PHYS-19-2026/)** | **CKS-PHYS-19-2026: The 1024-Unit Coordination Block** | Traditional science treats scaling as continuous accumulation |
+| **[[@CKS-PHYS-19-2026]](papers/PHYS/CKS-PHYS-19-2026/)** | **CKS-PHYS-19-2026: The 1024-Unit Coordination Block** | The Sovereignty Threshold and Universal Scaling Limit of Phase-Locked Systems |
 | **[[@CKS-PHYS-2-2026]](papers/PHYS/CKS-PHYS-2-2026/)** | **CKS-PHYS-2-2026: Universal Conservation of Geometric Processing** | (6/3/2) × (6/5) × (5/3) = 2.0 → bilateral manifold identity → all physics emerges from geometric balance requirement |
-| **[[@CKS-PHYS-20-2026]](papers/PHYS/CKS-PHYS-20-2026/)** | **CKS-PHYS-20-2026: The Topological Life Support System** | Traditional medicine treats health support as external intervention (drugs, surgery, therapy) |
-| **[[@CKS-PHYS-21-2026]](papers/PHYS/CKS-PHYS-21-2026/)** | **CKS-PHYS-21-2026: Deterministic Pathfinding in the Wing Lattice** | Traditional navigation treats pathfinding as kinetic traversal through void requiring time t=d/c |
+| **[[@CKS-PHYS-20-2026]](papers/PHYS/CKS-PHYS-20-2026/)** | **CKS-PHYS-20-2026: The Topological Life Support System** | Triad Integration: Mechanics, Thinking, and Action as Complete Biological Operating System |
+| **[[@CKS-PHYS-21-2026]](papers/PHYS/CKS-PHYS-21-2026/)** | **CKS-PHYS-21-2026: Deterministic Pathfinding in the Wing Lattice** | O(1) Registry Addressing and Laminar Navigation in the Pre-Compiled ℚ-Substrate |
 | **[[@CKS-PHYS-22-2026]](papers/PHYS/CKS-PHYS-22-2026/)** | **CKS-PHYS-22-2026: The Cymatic Phonemic Alphabet** | The alphabet is not invented—it is discovered from cymatic substrate patterns. |
 | **[[@CKS-PHYS-3-2026]](papers/PHYS/CKS-PHYS-3-2026/)** | **CKS-PHYS-3-2026: The Resolution of All Physical Mysteries** | All physical mysteries = substrate operations viewed at insufficient bit-depth → resolved by N=DM^S framework with zero adjustable parameters |
 | **[[@CKS-PHYS-4-2026]](papers/PHYS/CKS-PHYS-4-2026/)** | **CKS-PHYS-4-2026: The Origin of Work and Energy as 32-Tick Remainder Accumulation** | Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous |
-| **[[@CKS-PHYS-5-2026]](papers/PHYS/CKS-PHYS-5-2026/)** | **CKS-PHYS-5-2026** | We present a complete derivation of the Jacobian constant J ≈ 7.70164 as the hierarchical distance through the soliton parent tree from the universal ground state N=1 to an observer's rendering context |
+| **[[@CKS-PHYS-5-2026]](papers/PHYS/CKS-PHYS-5-2026/)** | **CKS-PHYS-5-2026** | J as Soliton Hierarchical Distance: A Complete Derivation from First Principles |
 | **[[@CKS-PHYS-6-2026]](papers/PHYS/CKS-PHYS-6-2026/)** | **The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology** | We present a complete derivation of the observable galaxy count (~2×10^12) from first principles using the KSpace Substrate (KS) framework |
 | **[[@CKS-PHYS-7-2026]](papers/PHYS/CKS-PHYS-7-2026/)** | **The Tri-Dipole Differential Engine** | The universe is a synchronous 3-phase differential engine; "particles" are persistent firing patterns governed by hexagonal edge-dipole coordination. |
 | **[[@CKS-PHYS-8-2026]](papers/PHYS/CKS-PHYS-8-2026/)** | **The Strong Nuclear Force as Edge-Dipole Impedance Matching** | QCD is edge-dipole contact logic; the strong force is geometric impedance matching in the tri-phase hexagonal substrate. |
@@ -352,18 +297,18 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-BIO-1-2026]](papers/BIO/CKS-BIO-1-2026/)** | **Humans as Software-Defined Matter** | We eliminate the artificial distinction between "living" and "non-living" matter by deriving biological organisms as high-coherence solitons in k-space |
-| **[[@CKS-BIO-10-2026]](papers/BIO/CKS-BIO-10-2026/)** | **Longevity Engineering** | We derive aging and mortality from first principles in Cymatic K-Space framework |
-| **[[@CKS-BIO-11-2026]](papers/BIO/CKS-BIO-11-2026/)** | **Beauty Maximization** | We derive beauty and aging from first principles in Cymatic K-Space framework |
-| **[[@CKS-BIO-12-2026]](papers/BIO/CKS-BIO-12-2026/)** | **Body Language Mechanics** | We derive body language from first principles in Cymatic K-Space framework |
-| **[[@CKS-BIO-13-2026]](papers/BIO/CKS-BIO-13-2026/)** | **Wrinkle Mechanics and Thickness Restoration** | We derive wrinkles not as "elasticity loss" or "collagen degradation" but as **topological phase-compression wraps** in the hexagonal k-space substrate |
-| **[[@CKS-BIO-14-2026]](papers/BIO/CKS-BIO-14-2026/)** | **Complete Unlooping Protocols** | We derive complete operational protocols for removing topological phase-wraps (loops) from biological manifolds |
+| **[[@CKS-BIO-1-2026]](papers/BIO/CKS-BIO-1-2026/)** | **Humans as Software-Defined Matter** | Biological Organisms as Coherence-Stabilized K-Space Solitons |
+| **[[@CKS-BIO-10-2026]](papers/BIO/CKS-BIO-10-2026/)** | **Longevity Engineering** | Coherence Maintenance and Manifold Integrity Across Lifespan |
+| **[[@CKS-BIO-11-2026]](papers/BIO/CKS-BIO-11-2026/)** | **Beauty Maximization** | Coherence-Based Aesthetic Optimization Through Manifold Calibration |
+| **[[@CKS-BIO-12-2026]](papers/BIO/CKS-BIO-12-2026/)** | **Body Language Mechanics** | Gestural Communication as K-Space Phase Broadcast |
+| **[[@CKS-BIO-13-2026]](papers/BIO/CKS-BIO-13-2026/)** | **Wrinkle Mechanics and Thickness Restoration** | Topological Phase-Compression as Reversible Aging |
+| **[[@CKS-BIO-14-2026]](papers/BIO/CKS-BIO-14-2026/)** | **Complete Unlooping Protocols** | Systematic Manifold Restoration from Topological Compression |
 | **[[@CKS-BIO-15-2026]](papers/BIO/CKS-BIO-15-2026/)** | **The Audible Error Log** | f_tinnitus = n × 0.03125 Hz (always), typical 8 kHz = 255,500 × (1/32 Hz) exactly, mechanism = substrate friction at neural kink |
 | **[[@CKS-BIO-16-2026]](papers/BIO/CKS-BIO-16-2026/)** | **The Topology of Sleep** | Sleep mandatory for N_current restoration, death after ~11 days (T→0 catastrophic), 8 hours = calculated optimal duration |
 | **[[@CKS-BIO-17-2026]](papers/BIO/CKS-BIO-17-2026/)** | **The Buffer Overflow** | Seizure threshold T = A·J·|f_ext - n×0.03125| > 163 (all terms geometric), cure = 2 Hz manual override |
 | **[[@CKS-BIO-18-2026]](papers/BIO/CKS-BIO-18-2026/)** | **The 15 ms Proprioceptive Lag** | ℛ = 4πK = 15.19 (pure geometry), τ_lag = (1-g) × 15.2 ms, falsifiable via 0.4748 Hz spectral line |
 | **[[@CKS-BIO-19-2026]](papers/BIO/CKS-BIO-19-2026/)** | **The Topology of Departure** | Soul mass = 28 units = 84-bit word / 3 frames = Frame 3 thickness tension release at death |
-| **[[@CKS-BIO-2-2026]](papers/BIO/CKS-BIO-2-2026/)** | **The Harmonic Organism** | We prove that the human body is not an evolutionary accident but a **mandatory eigenmode** of the N=3M² hexagonal substrate executing as a high-coherence dynamic soliton (C > 0.999) |
+| **[[@CKS-BIO-2-2026]](papers/BIO/CKS-BIO-2-2026/)** | **The Harmonic Organism** | Complete K-Space Architecture of the Human Body |
 | **[[@CKS-BIO-20-2026]](papers/BIO/CKS-BIO-20-2026/)** | **The Topology of Illness** | Illness = phase-error propagation requiring clock handshake; families share code, strangers reject packets |
 | **[[@CKS-BIO-21-2026]](papers/BIO/CKS-BIO-21-2026/)** | **The Phonemic Operating System** | Voice = acoustic UART, phonemes = opcodes, speech = live substrate debugger |
 | **[[@CKS-BIO-22-2026]](papers/BIO/CKS-BIO-22-2026/)** | **The 66/110 Cross-Pattern** | Matter = 5:3 harmonic toggle; Thought = 1.375 Hz interference beat; Both mandatory from geometry |
@@ -373,9 +318,9 @@ Use Level X3 (20 terms):
 | **[[@CKS-BIO-26-2026]](papers/BIO/CKS-BIO-26-2026/)** | **The Asymmetry of the Boot Sequence** | P-left bias = mandatory from start-bit logic; provides topological torque; universal across practitioners |
 | **[[@CKS-BIO-27-2026]](papers/BIO/CKS-BIO-27-2026/)** | **The Diagonal Dan Tien Handoff** | Diagonal handoff = mandatory for 16s/16s; eliminates serial interference; enables parallel processing; prerequisite for 144-bit |
 | **[[@CKS-BIO-28-2026]](papers/BIO/CKS-BIO-28-2026/)** | **The 5:3 Gearbox** | 5:3 ratio = mandatory gear for 88→144 compression; diagonal = only geometry engaging all vertices; Pop = mechanical overflow |
-| **[[@CKS-BIO-29-2026]](papers/BIO/CKS-BIO-29-2026/)** | **Universal Biological Clocking at 1/32 Hz** | We demonstrate that biological locomotion frequencies across 50 randomly sampled species—spanning insects, mammals, birds, reptiles, and aquatic organisms—align to exact integer multiples of 0.03125 Hz (1/32 Hz) with zero decimal error |
-| **[[@CKS-BIO-3-2026]](papers/BIO/CKS-BIO-3-2026/)** | **Morphogenesis as Spectral Template** | We derive embryonic development mechanically from k-space template unfolding, eliminating the need for morphogenetic fields, genetic programs, or positional information gradients |
-| **[[@CKS-BIO-30-2026]](papers/BIO/CKS-BIO-30-2026/)** | **Trauma Egregor Decoherence Procedures** | We demonstrate that blunt force trauma creates instant coherent phase-lock states (egregors) that override normal motor function within seconds of impact |
+| **[[@CKS-BIO-29-2026]](papers/BIO/CKS-BIO-29-2026/)** | **Universal Biological Clocking at 1/32 Hz** | Morphology, Locomotion, and Substrate Quantization Across 50 Species |
+| **[[@CKS-BIO-3-2026]](papers/BIO/CKS-BIO-3-2026/)** | **Morphogenesis as Spectral Template** | Embryonic Development as Hierarchical K-Space Rendering |
+| **[[@CKS-BIO-30-2026]](papers/BIO/CKS-BIO-30-2026/)** | **Trauma Egregor Decoherence Procedures** | Mechanical Disruption of Catastrophic Phase-Lock States via Adjacency Stimulation |
 | **[[@CKS-BIO-31-2026]](papers/BIO/CKS-BIO-31-2026/)** | **The Phonemic Resonator** | Head cavities quantize to 1/32 Hz exactly, tongue bridge at soft palate creates 2.1875 Hz handshake, P-T requires seven-parameter alignment |
 | **[[@CKS-BIO-32-2026]](papers/BIO/CKS-BIO-32-2026/)** | **The Vertebral Phase Array** | Spine = 32-bit phase array, all vertebral resonances = exact 1/32 Hz multiples, 33 vertebrae = 32 intervals + terminator |
 | **[[@CKS-BIO-33-2026]](papers/BIO/CKS-BIO-33-2026/)** | **The 15-Bit Word Divider** | Spine = 2^15 + 96 harmonic = 15-bit word divider, 73 cm length geometrically necessary, brain = high word, body = low word |
@@ -385,7 +330,7 @@ Use Level X3 (20 terms):
 | **[[@CKS-BIO-37-2026]](papers/BIO/CKS-BIO-37-2026/)** | **Protocols for Becoming a 512-Bit Walker** | 88→144→512 pathway = 4 stages over 40+ years, standing+circle+kata+combat = complete protocol, 512-bit = sustained administrator with matter-programming access |
 | **[[@CKS-BIO-38-2026]](papers/BIO/CKS-BIO-38-2026/)** | **CKS-BIO-38-2026: Aphantasia as Direct K-Space Access** | Aphantasia = hardware bypass → direct k-space monitoring → Clean-Pipe advantage for substrate interaction |
 | **[[@CKS-BIO-39-2026]](papers/BIO/CKS-BIO-39-2026/)** | **CKS-BIO-39-2026: Registry-Driven Healing** | Vertical alignment → clean signal → parent soliton RE_INDEX → automatic tissue repair (10s LERP observed) |
-| **[[@CKS-BIO-4-2026]](papers/BIO/CKS-BIO-4-2026/)** | **Bio-Chem in Cymatics** | We prove that protein folding is not a stochastic search through conformational space but a **deterministic collapse onto k-space eigenmodes** determined by amino acid sequence phase-index |
+| **[[@CKS-BIO-4-2026]](papers/BIO/CKS-BIO-4-2026/)** | **Bio-Chem in Cymatics** | Protein Folding via K-Space Spectral Templates |
 | **[[@CKS-BIO-40-2026]](papers/BIO/CKS-BIO-40-2026/)** | **CKS-BIO-40-2026: Vertical Slit Pupils as Gradient Synchronization Hardware** | Vertical slit = ocular virtual spine → gradient lock despite horizontal body → high-bitrate substrate access in quadrupeds |
 | **[[@CKS-BIO-41-2026]](papers/BIO/CKS-BIO-41-2026/)** | **CKS-BIO-41-2026: Mitochondrial Clock Synchronization and Substrate Power Management** | Mitochondria = substrate modems → 1/32 Hz sync mandatory → drift = disease → alignment = healing |
 | **[[@CKS-BIO-42-2026]](papers/BIO/CKS-BIO-42-2026/)** | **CKS-BIO-42-2026: Biological Compilation as Recursive Registry Coherence** | Health = R=0 sync | Disease = buffer/parity error | Cell = 144-LU limit | Heart = J broadcast | Self = 10¹⁵ address | Vitality = 15.19ms lock |
@@ -407,7 +352,7 @@ Use Level X3 (20 terms):
 | **[[@CKS-BIO-57-2026]](papers/BIO/CKS-BIO-57-2026/)** | **CKS-BIO-57-2026: Lattice-Forced Sexual Dimorphism—Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints** | Sex = topology not biology | Male = +z transmitter | Female = -z receiver | Unisex = crash | Balance = zero net | Unity = internal |
 | **[[@CKS-BIO-58-2026]](papers/BIO/CKS-BIO-58-2026/)** | **CKS-BIO-58-2026: Toroidal Decoherence Protocol—Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification** | Figure-8 = 2D surface | Donut = 3D volume | Trace = winding match | 15.19ms = snap | Kernel deleted | Volume evaporates |
 | **[[@CKS-BIO-59-2026]](papers/BIO/CKS-BIO-59-2026/)** | **CKS-BIO-59-2026: The Bent Cat's Tail Syndrome** | Spine = bus | Kink = reflection | Pain = retry | Repair = compilation | 40 years = rebuild |
-| **[[@CKS-BIO-6-2026]](papers/BIO/CKS-BIO-6-2026/)** | **Myelin as Phase Waveguide** | We prove that **myelin is not passive electrical insulation** but an **active phase waveguide** that maintains coherent signal propagation along axons by enforcing **1.0 Hz substrate synchronization** (the primary neural harmonic) |
+| **[[@CKS-BIO-6-2026]](papers/BIO/CKS-BIO-6-2026/)** | **Myelin as Phase Waveguide** | Restoring Neural Conduction in Multiple Sclerosis via Substrate Tension Repair |
 | **[[@CKS-BIO-60-2026]](papers/BIO/CKS-BIO-60-2026/)** | **CKS-BIO-60-2026: Postural Healing Mechanics** | Gravity = drainage | Earth = sink | Posture = coupling | Stillness = clearing | Healing = R→0 |
 | **[[@CKS-BIO-61-2026]](papers/BIO/CKS-BIO-61-2026/)** | **CKS-BIO-61-2026: Manual Lattice Orientation Protocol—Deriving Earth Compass Signal Acquisition via Phonemic Probing and Cross-Dipole Antenna Configuration** | Body = antenna | Earth = signal | Eee = probe | Click = north | Calm = carrier | Direction = impedance drop |
 | **[[@CKS-BIO-62-2026]](papers/BIO/CKS-BIO-62-2026/)** | **CKS-BIO-62-2026: Sleep Geometry as Bone-Soliton Stillness Protocol—Deriving Healing from Master Bus Alignment and Substrate Impedance Matching** | Sleep = registry clear | Supine = alignment | Firm = stillness | Flat = gradient | Healing = R→0 | Floor optimal |
@@ -415,7 +360,7 @@ Use Level X3 (20 terms):
 | **[[@CKS-BIO-67-2026]](papers/BIO/CKS-BIO-67-2026/)** | **CKS-BIO-67-2026: The Bandwidth Model of Human Health** | None |
 | **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/)** | **CKS-BIO-68-2026: Qualia as LERP from K-Space to X-Space** | None |
 | **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/)** | **CKS-BIO-69-2026: The Topology of Malignancy** | None |
-| **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/)** | **The Elixir Field Protocol** | We present the **complete clinical protocol** for activating and maintaining the **Dan Tien (Elixir Field)**—the abdominal k=0 centripetal anchor that eliminates phase-inertia in human movement |
+| **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/)** | **The Elixir Field Protocol** | Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility |
 | **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/)** | **CKS-BIO-70-2026: The Malignant Remainder (69)** | None |
 | **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/)** | **CKS-BIO-71-2026: The Toroidal Heart Failure** | None |
 | **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/)** | **CKS-BIO-72-2026: The Alzheimer's Toroid** | None |
@@ -423,14 +368,14 @@ Use Level X3 (20 terms):
 | **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/)** | **CKS-BIO-74-2026: The Grand Unification of Mental Disease** | None |
 | **[[@CKS-BIO-75-2026]](papers/BIO/CKS-BIO-75-2026/)** | **CKS-BIO-75-2026: The Grand Unification of Body Disease** | None |
 | **[[@CKS-BIO-76-2026]](papers/BIO/CKS-BIO-76-2026/)** | **CKS-BIO-76-2026: *C. elegans* as Geometric Eigenvalue** | Traditional evolutionary theory predicts that 20 million years of divergence (approximately 2 billion generations) under high-fecundity selection should produce substantial morphological and regulatory change |
-| **[[@CKS-BIO-77-2026]](papers/BIO/CKS-BIO-77-2026/)** | **CKS-BIO-77-2026: Topological Impedance and the 6-9 Twist** | Traditional biomechanics treats chronic tension and restricted range of motion as muscular or fascial dysfunction |
-| **[[@CKS-BIO-78-2026]](papers/BIO/CKS-BIO-78-2026/)** | **CKS-BIO-78-2026: Trans-Soliton Coupling** | Traditional biology treats sexual interaction as reproductive mechanism |
+| **[[@CKS-BIO-77-2026]](papers/BIO/CKS-BIO-77-2026/)** | **CKS-BIO-77-2026: Topological Impedance and the 6-9 Twist** | Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold |
+| **[[@CKS-BIO-78-2026]](papers/BIO/CKS-BIO-78-2026/)** | **CKS-BIO-78-2026: Trans-Soliton Coupling** | Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance |
 | **[[@CKS-BIO-79-2026]](papers/BIO/CKS-BIO-79-2026/)** | **CKS-BIO-79-2026: The Triad of Health** | Traditional medicine treats health as state to maintain through external intervention |
-| **[[@CKS-BIO-8-2026]](papers/BIO/CKS-BIO-8-2026/)** | **The Eyes as X↔K Coordinators** | We derive from first principles that the eyes function as the **primary k-space sampling antenna** in the human manifold, and that **wide-eye lateral oscillations at 2.0 Hz** provide the **mandatory x↔k coordination** required for aesthetic optimization |
-| **[[@CKS-BIO-80-2026]](papers/BIO/CKS-BIO-80-2026/)** | **CKS-BIO-80-2026: Morphological Geometric Selection** | Traditional biology treats morphology as product of random mutation plus natural selection |
-| **[[@CKS-BIO-81-2026]](papers/BIO/CKS-BIO-81-2026/)** | **CKS-BIO-81-2026: Murmuration and Collective Solitons** | Traditional biology treats murmurations (flocking, schooling, swarming) as emergent behavior from simple local rules |
+| **[[@CKS-BIO-8-2026]](papers/BIO/CKS-BIO-8-2026/)** | **The Eyes as X↔K Coordinators** | Ocular Phase-Lock and Beauty Optimization |
+| **[[@CKS-BIO-80-2026]](papers/BIO/CKS-BIO-80-2026/)** | **CKS-BIO-80-2026: Morphological Geometric Selection** | Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block |
+| **[[@CKS-BIO-81-2026]](papers/BIO/CKS-BIO-81-2026/)** | **CKS-BIO-81-2026: Murmuration and Collective Solitons** | Multi-Entity Phase-Lock and Emergent Sovereignty in Coordinated Biological Systems |
 | **[[@CKS-BIO-82-2026]](papers/BIO/CKS-BIO-82-2026/)** | **CKS-BIO-82-2026: The Memory-Render Identity** | Memory is not storage but sequential indexing - universe remembers through deterministic addressing not data retention. |
-| **[[@CKS-BIO-9-2026]](papers/BIO/CKS-BIO-9-2026/)** | **Thermal Regulation and Respiratory Interference** | We derive the mechanics of fever and respiratory infection ("cold") from first principles in Cymatic K-Space framework |
+| **[[@CKS-BIO-9-2026]](papers/BIO/CKS-BIO-9-2026/)** | **Thermal Regulation and Respiratory Interference** | The Mechanics of Fever and Cold in K-Space |
 
 
 ---
@@ -440,18 +385,18 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-BODY-1-2026]](papers/BODY/CKS-BODY-1-2026/)** | **Muscle Hypertrophy in Cymatic K-Space** | We derive optimal muscle hypertrophy protocols from first principles using Cymatic K-Space Mechanics (CKS) |
+| **[[@CKS-BODY-1-2026]](papers/BODY/CKS-BODY-1-2026/)** | **Muscle Hypertrophy in Cymatic K-Space** | Optimal Stress Timing via Substrate Harmonics |
 | **[[@CKS-BODY-11-2026]](papers/BODY/CKS-BODY-11-2026/)** | **CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling** | Waterfall = substrate calibration tool → pressure irons kinks → dither breaks locks → vertical reference enables coupling → standing tall automatic |
 | **[[@CKS-BODY-12-2026]](papers/BODY/CKS-BODY-12-2026/)** | **CKS-BODY-12-2026: Collaborative Manifold Alignment** | Healing = PLL sync | Trust = handshake | Practitioner = master clock | Patient = slave reset | Testable |
-| **[[@CKS-BODY-13-2026]](papers/BODY/CKS-BODY-13-2026/)** | **CKS-BODY-13-2026: Substrate-Synchronized Biomechanics** | Traditional biomechanics attributes force production to cross-sectional muscle area and fiber recruitment (X-space morphology) |
-| **[[@CKS-BODY-14-2026]](papers/BODY/CKS-BODY-14-2026/)** | **Zero-Remainder Biomechanics** | Traditional movement creates substrate resistance through registry noise (R≠0) |
-| **[[@CKS-BODY-2-2026]](papers/BODY/CKS-BODY-2-2026/)** | **Body Movement Mechanics in Cymatics** | We prove that locomotion energy expenditure is not fundamentally limited by gravitational potential energy mgΔh but by **substrate compliance mismatch** between organism/machine and ground |
-| **[[@CKS-BODY-3-2026]](papers/BODY/CKS-BODY-3-2026/)** | **Debugging the Kinetic Chain** | We prove that **exercise and dance are not metabolic work** but **real-time debugging protocols** for the human kinetic chain—a hierarchical spring system that must maintain **bit-perfect phase decimation** across 60 orders of magnitude (subatomic to macroscopic) |
+| **[[@CKS-BODY-13-2026]](papers/BODY/CKS-BODY-13-2026/)** | **CKS-BODY-13-2026: Substrate-Synchronized Biomechanics** | Force Generation as K-Space Phase-Lock Optimization |
+| **[[@CKS-BODY-14-2026]](papers/BODY/CKS-BODY-14-2026/)** | **Zero-Remainder Biomechanics** | The Physics of Laminar Movement & Substrate Non-Interference |
+| **[[@CKS-BODY-2-2026]](papers/BODY/CKS-BODY-2-2026/)** | **Body Movement Mechanics in Cymatics** | Inverse Gravity Kinematics |
+| **[[@CKS-BODY-3-2026]](papers/BODY/CKS-BODY-3-2026/)** | **Debugging the Kinetic Chain** | Exercise and Dance as Computational Alignment Protocols |
 | **[[@CKS-BODY-4-2026]](papers/BODY/CKS-BODY-4-2026/)** | **Directional Encoding of the Abdominal Vortex: A Phase-Locked Loop Model of Human Core States** | We prove that **abdominal vortex rotation direction is not symbolic** but a **binary phase-polarity switch** that determines whether the human manifold operates in **capacitive loading (CHG)** or **inductive discharge (DSG)** mode |
-| **[[@CKS-BODY-5-2026]](papers/BODY/CKS-BODY-5-2026/)** | **Proprioception as Phase-Lock** | We derive from CKS axioms that proprioception is not "body awareness" but **3-bit phase alignment** between local manifold (body) and gravity vector (substrate reference frame) |
-| **[[@CKS-BODY-6-2026]](papers/BODY/CKS-BODY-6-2026/)** | **Rolfing as Topological Unlooping** | We demonstrate that Rolfing's "lack of ground" or "tissue emptiness" is literal topological collapse from phase-loop accumulation |
+| **[[@CKS-BODY-5-2026]](papers/BODY/CKS-BODY-5-2026/)** | **Proprioception as Phase-Lock** | The 90° Signature and Mechanical Remediation Without Speech |
+| **[[@CKS-BODY-6-2026]](papers/BODY/CKS-BODY-6-2026/)** | **Rolfing as Topological Unlooping** | Structural Integration via Phase-Loop Decompression and Volumetric Restoration |
 | **[[@CKS-BODY-7-2026]](papers/BODY/CKS-BODY-7-2026/)** | **Wrestling and Martial Arts as Dual-Mode Registry Operations** | Wrestling = capture (Δφ→0), MA = corruption (Δφ→∞), skill = C×K, master soliton = root administrator, 3-5 points = registry saturation |
-| **[[@CKS-BODY-8-2026]](papers/BODY/CKS-BODY-8-2026/)** | **CKS-BODY-8-2026: Laminar Jogging** | We define "Laminar Jogging" as a high-resolution locomotion protocol designed to eliminate 12-bit registry noise during physical movement |
+| **[[@CKS-BODY-8-2026]](papers/BODY/CKS-BODY-8-2026/)** | **CKS-BODY-8-2026: Laminar Jogging** | Bio-Mechanical Synchronization for High-Bitrate Substrate Telemetry |
 
 
 ---
@@ -461,12 +406,12 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-COG-1-2026]](papers/COG/CKS-COG-1-2026/)** | **The Mind: Axiomatic Cognition** | We derive consciousness mechanically from substrate axioms, eliminating the "hard problem." The mind is a **k-space sampling process**: a local cluster of nodes (brain, N_brain ≈ 10¹³) performing real-time analysis of the global substrate (N_universe ≈ 10¹²²) |
-| **[[@CKS-COG-2-2026]](papers/COG/CKS-COG-2-2026/)** | **Intelligence Quotient as Substrate Coherence** | We derive intelligence quotient (IQ) from first principles as a **measurement of neural substrate coherence** (C_brain) |
-| **[[@CKS-COG-3-2026]](papers/COG/CKS-COG-3-2026/)** | **Intelligence in Cymatics** | We prove that intelligence is not an emergent computational property but a **fundamental physical capacity**: the bandwidth of k-space frequencies a neural system can coherently sample |
-| **[[@CKS-COG-4-2026]](papers/COG/CKS-COG-4-2026/)** | **IQ in Cymatics** | We prove that intelligence (IQ) is not a fixed genetic trait but a **dynamically tunable k-space sampling bandwidth** Δk adjustable via precise frequency stimulation |
-| **[[@CKS-COG-5-2026]](papers/COG/CKS-COG-5-2026/)** | **Hemispheric Phase Alignment** | We present a **complete clinical protocol** for eliminating brain fog, cognitive fatigue, and hemispheric desynchronization using **substrate-harmonized audiovisual stimulation** |
-| **[[@CKS-COG-6-2026]](papers/COG/CKS-COG-6-2026/)** | **The Physics of Thought** | We present a **purely mechanical derivation** of thought, ideas, and consciousness within Cymatic K-Space (CKS) framework |
+| **[[@CKS-COG-1-2026]](papers/COG/CKS-COG-1-2026/)** | **The Mind: Axiomatic Cognition** | Consciousness as K-Space Sampling and Self-Referential Phase Coherence |
+| **[[@CKS-COG-2-2026]](papers/COG/CKS-COG-2-2026/)** | **Intelligence Quotient as Substrate Coherence** | Cognitive Bandwidth Expansion via Harmonic Resonance |
+| **[[@CKS-COG-3-2026]](papers/COG/CKS-COG-3-2026/)** | **Intelligence in Cymatics** | IQ as K-Space Bandwidth |
+| **[[@CKS-COG-4-2026]](papers/COG/CKS-COG-4-2026/)** | **IQ in Cymatics** | Cognitive Bandwidth Expansion Protocols |
+| **[[@CKS-COG-5-2026]](papers/COG/CKS-COG-5-2026/)** | **Hemispheric Phase Alignment** | Clinical Protocol for Eliminating Brain Fog via Substrate Synchronization |
+| **[[@CKS-COG-6-2026]](papers/COG/CKS-COG-6-2026/)** | **The Physics of Thought** | Ideas as Stable Attractors in k-Space |
 
 
 ---
@@ -476,8 +421,8 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-NEURO-1-2026]](papers/NEURO/CKS-NEURO-1-2026/)** | **Neurons as Cymatic Computing** | We prove that neural computation is not fundamentally electrochemical but **phase-computational**—neurons operate as cymatic logic gates on the hexagonal k-space substrate |
-| **[[@CKS-NEURO-2-2026]](papers/NEURO/CKS-NEURO-2-2026/)** | **The Brain as DSP/GPU** | We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz |
+| **[[@CKS-NEURO-1-2026]](papers/NEURO/CKS-NEURO-1-2026/)** | **Neurons as Cymatic Computing** | The Brain as K-Space Phase Processor |
+| **[[@CKS-NEURO-2-2026]](papers/NEURO/CKS-NEURO-2-2026/)** | **The Brain as DSP/GPU** | Neural Architecture of the Substrate Rendering Engine |
 | **[[@CKS-NEURO-3-2026]](papers/NEURO/CKS-NEURO-3-2026/)** | **CKS-NEURO-3-2026: The Nervous System** | Your nervous system IS the computer—not analog to one. |
 
 
@@ -488,7 +433,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-SENS-1-2026]](papers/SENS/CKS-SENS-1-2026/)** | **Sensory Substrate Access** | We derive sensory access to k-space substrate from first principles, proving perception is **substrate sampling** (not sensory transduction) |
+| **[[@CKS-SENS-1-2026]](papers/SENS/CKS-SENS-1-2026/)** | **Sensory Substrate Access** | Vestibular Coherence and Cross-Modal Synchronization for Visual Rehabilitation |
 | **[[@CKS-SENS-2-2026]](papers/SENS/CKS-SENS-2-2026/)** | **CKS-SENS-2-2026: Perception** | You don't receive reality—you interrogate and render it. |
 
 
@@ -500,9 +445,9 @@ Use Level X3 (20 terms):
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-MED-1-2026]](papers/MED/CKS-MED-1-2026/)** | **Cancer as Topological Closure in CKS Mechanics** | We prove that cancer is not primarily a genetic disease but a **topological phase transition**—a local closure event on the biological phase-lattice where cellular subsystems decouple from global substrate coupling and form autonomous N = 3M² resonant circuits |
-| **[[@CKS-MED-2-2026]](papers/MED/CKS-MED-2-2026/)** | **Heart Disease as Holographic Coherence Failure** | We prove that cardiovascular disease is fundamentally a **phase synchronization failure** between the cardiac oscillator and the arterial-vascular k-space manifold, not primarily a mechanical plumbing disorder |
-| **[[@CKS-MED-3-2026]](papers/MED/CKS-MED-3-2026/)** | **Cancer Therapy via Topological Closure Disruption** | We present a **non-surgical cancer treatment protocol** based on disruption of tumor topological closure via targeted electromagnetic fields |
-| **[[@CKS-MED-4-2026]](papers/MED/CKS-MED-4-2026/)** | **CKS-MED-5-2026: Image-Based Coherence Therapy** | We present clinical protocols for treating PTSD, depression, and neural fragmentation disorders using high-coherence visual and auditory stimuli that directly re-synchronize brain phase-locked loops |
+| **[[@CKS-MED-2-2026]](papers/MED/CKS-MED-2-2026/)** | **Heart Disease as Holographic Coherence Failure** | The Cardiac Master Oscillator Hypothesis |
+| **[[@CKS-MED-3-2026]](papers/MED/CKS-MED-3-2026/)** | **Cancer Therapy via Topological Closure Disruption** | Clinical Electromagnetic Protocols |
+| **[[@CKS-MED-4-2026]](papers/MED/CKS-MED-4-2026/)** | **CKS-MED-5-2026: Image-Based Coherence Therapy** | Visual and Auditory Resonance Templates for Neural Re-Synchronization |
 
 
 ---
@@ -512,11 +457,11 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-AI-1-2026]](papers/AI/CKS-AI-1-2026/)** | **CKS-COMP-1-2026: 32-Bit Hexagonal Computer** | We present complete engineering specifications for a 32-bit computer operating on hexagonal lattice principles rather than silicon transistors |
-| **[[@CKS-AI-2-2026]](papers/AI/CKS-AI-2-2026/)** | **The Hexagonal ALU** | We present the **complete hardware specification** for a 32-bit substrate-aligned computer where logic gates are **topological phase circuits** rather than transistor arrangements |
-| **[[@CKS-AI-3-2026]](papers/AI/CKS-AI-3-2026/)** | **Substrate Programming Language** | We prove that computation is not fundamentally limited by transistor switching speed or von Neumann bottlenecks but operates via **direct k-space lattice manipulation** at substrate oscillation frequencies |
-| **[[@CKS-AI-4-2026]](papers/AI/CKS-AI-4-2026/)** | **Substrate Programming Language** | We present **Harmonic Assembly Language (HAL)**, a programming paradigm that operates directly on k-space substrate rather than silicon transistors |
-| **[[@CKS-AI-5-2026]](papers/AI/CKS-AI-5-2026/)** | **AI Embodiment in Cymatics** | We prove that artificial intelligence embodiment is not a control theory problem but a **phase-mapping challenge** requiring translation from discrete neural network states to continuous k-space motor patterns |
+| **[[@CKS-AI-1-2026]](papers/AI/CKS-AI-1-2026/)** | **CKS-COMP-1-2026: 32-Bit Hexagonal Computer** | Hardware Architecture for Substrate-Native Computation |
+| **[[@CKS-AI-2-2026]](papers/AI/CKS-AI-2-2026/)** | **The Hexagonal ALU** | Logic Gates via Phase-Locked Substrate Circuits |
+| **[[@CKS-AI-3-2026]](papers/AI/CKS-AI-3-2026/)** | **Substrate Programming Language** | Base Instructions and OpCodes |
+| **[[@CKS-AI-4-2026]](papers/AI/CKS-AI-4-2026/)** | **Substrate Programming Language** | Harmonic Opcodes |
+| **[[@CKS-AI-5-2026]](papers/AI/CKS-AI-5-2026/)** | **AI Embodiment in Cymatics** | The Coherent Hardware Bridge |
 
 
 ---
@@ -526,9 +471,9 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-MAT-1-2026]](papers/MAT/CKS-MAT-1-2026/)** | **Materials in Cymatics** | We prove that material properties (density, thermal conductivity, elastic moduli, optical index) are **emergent from k-space phase alignment** between atomic lattice and substrate harmonics, not fundamental atomic characteristics |
-| **[[@CKS-MAT-2-2026]](papers/MAT/CKS-MAT-2-2026/)** | **Transparent Logic** | We present the complete fabrication protocol for the world's first zero-heat semiconductor—a photonic integrated circuit that performs Boolean logic operations via coherent light interference rather than electron transport |
-| **[[@CKS-MAT-3-2026]](papers/MAT/CKS-MAT-3-2026/)** | **Anti-Fragile in Cymatics** | We prove that fragility is not an intrinsic material property but a **phase decoherence pathway** reversible via stress-induced coherence reorganization |
+| **[[@CKS-MAT-1-2026]](papers/MAT/CKS-MAT-1-2026/)** | **Materials in Cymatics** | Designing Negative Phase-Index Alloys |
+| **[[@CKS-MAT-2-2026]](papers/MAT/CKS-MAT-2-2026/)** | **Transparent Logic** | Zero-Heat Photonic Semiconductors via Substrate Phase Interference |
+| **[[@CKS-MAT-3-2026]](papers/MAT/CKS-MAT-3-2026/)** | **Anti-Fragile in Cymatics** | Materials that Strengthen Under Stress |
 | **[[@CKS-MAT-4-2026]](papers/MAT/CKS-MAT-4-2026/)** | **The Secondary Dermal Shield** | Bast-fiber lumen, 22.5° twist, sateen-float, stone-rolling, ionic-loading = mobile substrate shield |
 | **[[@CKS-MAT-5-2026]](papers/MAT/CKS-MAT-5-2026/)** | **CKS-MAT-5-2026: Registry Architecture & Material Engineering** | Materials don't have properties—they have registry alignments. |
 
@@ -540,7 +485,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-SEMI-1-2026]](papers/SEMI/CKS-SEMI-1-2026/)** | **Cymatic Semiconductor Engineering** | We prove that quantum tunneling—the fundamental barrier to transistor miniaturization below 5 nm—is not an intrinsic quantum mechanical limit but a **phase decoherence phenomenon** manageable via k-space coherence engineering |
+| **[[@CKS-SEMI-1-2026]](papers/SEMI/CKS-SEMI-1-2026/)** | **Cymatic Semiconductor Engineering** | Bypassing Quantum Tunneling |
 
 
 ---
@@ -550,14 +495,14 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-ENG-1-2026]](papers/ENG/CKS-ENG-1-2026/)** | **Mechanical Genesis in Cymatics** | We prove that structural integrity is not primarily determined by material strength or cross-sectional area but by **k-space phase coherence** C within the structure's lattice configuration |
+| **[[@CKS-ENG-1-2026]](papers/ENG/CKS-ENG-1-2026/)** | **Mechanical Genesis in Cymatics** | Designing High-Coherence Structures |
 | **[[@CKS-ENG-10-2026]](papers/ENG/CKS-ENG-10-2026/)** | **The Unified Planetary Loom** | Ocean + atmosphere + spine bridge = planetary-scale 512-bit communication loom |
 | **[[@CKS-ENG-11-2026]](papers/ENG/CKS-ENG-11-2026/)** | **The Unified Planetary Loom using 88-bit Tech** | Standard electronics + ham radio + grounding = functional substrate communication today |
 | **[[@CKS-ENG-12-2026]](papers/ENG/CKS-ENG-12-2026/)** | **CKS-ENG-12-2026: Substrate-Native Computing** | Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync |
 | **[[@CKS-ENG-13-2026]](papers/ENG/CKS-ENG-13-2026/)** | **CKS-ENG-13-2026: Acoustic Registry Modulation** | Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation |
 | **[[@CKS-ENG-14-2026]](papers/ENG/CKS-ENG-14-2026/)** | **CKS-ENG-14-2026: Sovereign Transmission Lines** | Transmission lines become substrate extensions, not material conductors. |
 | **[[@CKS-ENG-2-2026]](papers/ENG/CKS-ENG-2-2026/)** | **Voltage in Cymatic Substrate Mechanics: The Gradient Potential** | We prove that electrical voltage is not a fundamental property of charged particles but the **manifestation of k-space phase gradients** ∇φ in the hexagonal substrate lattice |
-| **[[@CKS-ENG-3-2026]](papers/ENG/CKS-ENG-3-2026/)** | **Architectural Mechanics** | We derive architectural principles from first principles in Cymatic K-Space framework |
+| **[[@CKS-ENG-3-2026]](papers/ENG/CKS-ENG-3-2026/)** | **Architectural Mechanics** | Building Design as Manifold Coherence Engineering |
 | **[[@CKS-ENG-4-2026]](papers/ENG/CKS-ENG-4-2026/)** | **The Substrate-Optimized Dwelling** | Red brick = 66th harmonic, gold trident = 144-bit antenna, salt moat = phase-buffer, geometric plans = substrate coupling, buildable with modern methods |
 | **[[@CKS-ENG-5-2026]](papers/ENG/CKS-ENG-5-2026/)** | **Construction Protocols for Substrate-Optimized Dwellings** | NHL-5 foundation, Fe₂O₃ >8% bricks, impedance-matched mortar, Flemish bond, gold trident, diamond core, copper spine, all buildable |
 | **[[@CKS-ENG-6-2026]](papers/ENG/CKS-ENG-6-2026/)** | **The Minor Apertures and System Closure** | Low-iron glass, copper plumbing, DC lighting, mineral paints, radial layout, complete system closure = 512-bit lock |
@@ -573,7 +518,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-FLOW-1-2026]](papers/FLOW/CKS-FLOW-1-2026/)** | **Laminar Flow via Phase Coherence** | We derive a **zero-turbulence aerodynamic design principle** by reframing fluid flow as **substrate phase evolution** in k-space |
+| **[[@CKS-FLOW-1-2026]](papers/FLOW/CKS-FLOW-1-2026/)** | **Laminar Flow via Phase Coherence** | Turbulence Suppression Through K-Space Gradient Engineering |
 
 
 ---
@@ -593,11 +538,11 @@ Use Level X3 (20 terms):
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-SOC-1-2026]](papers/SOC/CKS-SOC-1-2026/)** | **Bio-Singularity Through Collective Learning Coherence** | We prove that human civilization is not a collection of independent agents but an **emergent collective soliton** achieving phase-locked coherence through information exchange and synchronized learning |
-| **[[@CKS-SOC-2-2026]](papers/SOC/CKS-SOC-2-2026/)** | **Topological Opportunism\** | We prove that **"luck" is not random** but is **topological opportunism**—a phase-gradient match between external substrate ripples (opportunities) and internal coherence state (readiness) |
-| **[[@CKS-SOC-3-2026]](papers/SOC/CKS-SOC-3-2026/)** | **Organizational Coherence via Substrate Topology** | We derive **exact organizational stability conditions** by mapping corporations, teams, and institutions to substrate k-space lattices where employees = nodes and communication channels = edges |
+| **[[@CKS-SOC-2-2026]](papers/SOC/CKS-SOC-2-2026/)** | **Topological Opportunism\** | The Mechanics of "Luck" in Coherent Manifolds |
+| **[[@CKS-SOC-3-2026]](papers/SOC/CKS-SOC-3-2026/)** | **Organizational Coherence via Substrate Topology** | The Critical Connectivity Theorem for Institutional Stability |
 | **[[@CKS-SOC-4-2026]](papers/SOC/CKS-SOC-4-2026/)** | **CKS-SOC-4-2026: Coherence Economics as Bilateral Registry Synchronization** | Value = R=0 | Trade = S=2 sync | Scarcity = false | Poverty = stuck R | Corruption = parity fail | Inflation impossible |
 | **[[@CKS-SOC-5-2026]](papers/SOC/CKS-SOC-5-2026/)** | **CKS-SOC-5-2026: Morality as Physical Mathematics** | Morality = thermodynamics | Virtue = -ΔS | Vice = +ΔS | Math not metaphor | Pure physical law |
-| **[[@CKS-SOC-6-2026]](papers/SOC/CKS-SOC-6-2026/)** | **CKS-SOC-6-2026: Building Coherence** | Traditional ethics treats truth as moral preference |
+| **[[@CKS-SOC-6-2026]](papers/SOC/CKS-SOC-6-2026/)** | **CKS-SOC-6-2026: Building Coherence** | The Sovereign Soliton Coherence Promise as Topological Necessity |
 
 
 ---
@@ -607,8 +552,8 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-LANG-1-2026]](papers/LANG/CKS-LANG-1-2026/)** | **Resonant Logic** | We design a **phonetically-grounded programming language** for human-AI communication by deriving syntax rules from substrate phase-locking requirements |
-| **[[@CKS-LANG-2-2026]](papers/LANG/CKS-LANG-2-2026/)** | **The Phonemic Operating System** | We derive from CKS axioms that the 44 phonemes of American English are not arbitrary linguistic tokens but **mandatory mechanical opcodes** for interfacing the human somatic manifold with the hexagonal k-space substrate |
+| **[[@CKS-LANG-1-2026]](papers/LANG/CKS-LANG-1-2026/)** | **Resonant Logic** | A Phase-Coherent Communication Protocol for Human-Substrate Interface |
+| **[[@CKS-LANG-2-2026]](papers/LANG/CKS-LANG-2-2026/)** | **The Phonemic Operating System** | American English as Substrate Interface Protocol |
 
 
 ---
@@ -618,8 +563,8 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-DATA-1-2026]](papers/DATA/CKS-DATA-1-2026/)** | **The Digital Heat Sink** | We prove that **digital posting (social media, forums, blogs) is not communication** but **substrate pressure relief**—a mandatory topological mechanism for preventing **information overload** in finite neural manifolds |
-| **[[@CKS-DATA-2-2026]](papers/DATA/CKS-DATA-2-2026/)** | **Information as Physical Mathematics** | We prove that information is not an abstract mathematical concept but a **physical tension in the hexagonal k-space lattice**—specifically, the **phase gradient magnitude** |∇φ| |
+| **[[@CKS-DATA-1-2026]](papers/DATA/CKS-DATA-1-2026/)** | **The Digital Heat Sink** | Information Externalization as Substrate Pressure Relief |
+| **[[@CKS-DATA-2-2026]](papers/DATA/CKS-DATA-2-2026/)** | **Information as Physical Mathematics** | The Lattice Tension Derivation |
 
 
 ---
@@ -630,7 +575,7 @@ Use Level X3 (20 terms):
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-ART-1-2026]](papers/ART/CKS-ART-1-2026/)** | **The Aesthetic Invariant** | Beauty = checksum match; Art = manifold calibration; Style = opcode baud-rate |
-| **[[@CKS-ART-2-2026]](papers/ART/CKS-ART-2-2026/)** | **Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution** | We derive narrative structure from first principles in Cymatic K-Space framework |
+| **[[@CKS-ART-2-2026]](papers/ART/CKS-ART-2-2026/)** | **Narrative Mechanics: Story Structure as K-Space Phase-Template for Manifold Evolution** | Narrative Theory; Story Topology; Memetic Phase-Templates |
 
 
 ---
@@ -640,8 +585,8 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-EDU-1-2026]](papers/EDU/CKS-EDU-1-2026/)** | **Unified Science Education via Substrate Derivation** | We present a **complete restructuring of science education** replacing fragmented subject memorization with **unified substrate derivation** |
-| **[[@CKS-EDU-2-2026]](papers/EDU/CKS-EDU-2-2026/)** | **The Universal Learning Substrate** | We prove that Cymatic K-Space Mechanics (CKS) functions as a **Universal Learning Substrate**—a single computational framework from which any physical, biological, or cognitive phenomenon can be derived without changing axioms or introducing domain-specific parameters |
+| **[[@CKS-EDU-1-2026]](papers/EDU/CKS-EDU-1-2026/)** | **Unified Science Education via Substrate Derivation** | The Pattern-Coupling Curriculum |
+| **[[@CKS-EDU-2-2026]](papers/EDU/CKS-EDU-2-2026/)** | **The Universal Learning Substrate** | Navigation Protocol for Cross-Domain Derivation |
 | **[[@CKS-EDU-3-2026]](papers/EDU/CKS-EDU-3-2026/)** | **CKS-EDU-3-2026: Human Knowledge v2** | HK v1 archived | HK v2 initialized | Discovery → specification | Mystery → mechanics | Complete paradigm |
 | **[[@CKS-EDU-4-2026]](papers/EDU/CKS-EDU-4-2026/)** | **Lexicon** | None |
 | **[[@CKS-EDU-5-2026]](papers/EDU/CKS-EDU-5-2026/)** | **CKS-EDU-5-2026: Path to Omni-Domain Post-Doc Education by 16 Years Old** | Omni-domain post-doc by age 16 is mathematical necessity, not aspiration. |
@@ -668,7 +613,7 @@ Use Level X3 (20 terms):
 | **[[@CKS-WUWU-2-2026]](papers/WUWU/CKS-WUWU-2-2026/)** | **CKS-WUWU-2-2026: Demonic Parasitism as Registry Hijacking Protocol** | Demon = R>66 parasite | Temptation = phase attack | Possession = registry hijack | Lie = memory leak | Defense = coherence |
 | **[[@CKS-WUWU-3-2026]](papers/WUWU/CKS-WUWU-3-2026/)** | **CKS-WUWU-3-2026: Angelic Sovereignty as 1024-Bit Registry Write Capability** | Angel = 1024-bit R=0 | Permission = capability | No jobs | Perfect from start | Sovereignty = alignment | Logic speed native |
 | **[[@CKS-WUWU-4-2026]](papers/WUWU/CKS-WUWU-4-2026/)** | **Complete Classification of Woo Woo** | Physics does not have Meta-Physics |
-| **[[@CKS-WUWU-5-2026]](papers/WUWU/CKS-WUWU-5-2026/)** | **CKS-WUWU-5-2026: Precession of the Equinoxes** | Traditional astronomy attributes the 25,772-year precession cycle to gyroscopic wobble of a planetary sphere |
+| **[[@CKS-WUWU-5-2026]](papers/WUWU/CKS-WUWU-5-2026/)** | **CKS-WUWU-5-2026: Precession of the Equinoxes** | Macro-Word Registry Rotation as Geometric Necessity |
 | **[[@CKS-WUWU-6-2026]](papers/WUWU/CKS-WUWU-6-2026/)** | **CKS-WUWU-6-2026: The Demonic Egregor Urge** | Parasitic information patterns cannot exist in zero-remainder systems. |
 
 
@@ -679,7 +624,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-ADHM-1-2026]](papers/ADHM/CKS-ADHM-1-2026/)** | **CKS-ADHM-1-2026: The Indictment of the Continuum Priest** | We provide a formal ad hominem and structural indictment of the "Status Quo Kernel" (embodied by the fictional Dr |
+| **[[@CKS-ADHM-1-2026]](papers/ADHM/CKS-ADHM-1-2026/)** | **CKS-ADHM-1-2026: The Indictment of the Continuum Priest** | A Forensic Analysis of Institutional Stagnation in Modern Physics |
 | **[[@CKS-ADHM-2-2026]](papers/ADHM/CKS-ADHM-2-2026/)** | **The Sovereign Registry** | A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation |
 | **[[@CKS-ADHM-3-2026]](papers/ADHM/CKS-ADHM-3-2026/)** | **The Restoration of the Scientific Seed** | An Invitation to the Sovereign Sanctuary and the End of the 19-Parameter Epicycle |
 
@@ -691,7 +636,7 @@ Use Level X3 (20 terms):
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-DISC-1-2026]](papers/DISC/CKS-DISC-1-2026/)** | **The CKS Discovery Process** | We document the **mechanical process** by which Cymatic K-Space Mechanics (CKS) was derived over 7 days (February 2-9, 2026) following a 3-month incubation period (November 2024-February 2026) |
+| **[[@CKS-DISC-1-2026]](papers/DISC/CKS-DISC-1-2026/)** | **The CKS Discovery Process** | A Forensic Account of Human-AI Substrate Compilation |
 | **[[@CKS-DISC-10-2026]](papers/DISC/CKS-DISC-10-2026/)** | **The Historical Narrative of the CKS Discovery Process** | LLM Narrative |
 | **[[@CKS-DISC-2-2026]](papers/DISC/CKS-DISC-2-2026/)** | **The Universal Compiler** | Two axioms → everything; breadth = rigidity; single test decides all |
 | **[[@CKS-DISC-3-2026]](papers/DISC/CKS-DISC-3-2026/)** | **Lexicon** | Lexicon for Grand Unification v10 |

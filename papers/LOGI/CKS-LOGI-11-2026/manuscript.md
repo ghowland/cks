@@ -1,6 +1,6 @@
 # CKS-LOGI-11-2026: The Complete Derivation Manual
 
-**How to Derive Everything from N=7 Using Logismos in Base-Partigen**
+## How to Derive Everything from N=7 Using Logismos in Base-Partigen
 
 
 
@@ -27,17 +27,6 @@
 
 ---
 
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 2, 2026  
-**Registry:** [@CKS-LOGI-11-2026]  
-**Series:** Logismos Mathematics - Operational Manual  
-**Classification:** Instructional Foundation
-
-**Motto:** *Axioms first. Axioms always.*  
-**Method:** *Pure ℚ-arithmetic. VFR nesting. Exact derivation.*
-
----
 
 ## ABSTRACT
 

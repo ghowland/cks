@@ -1,5 +1,4 @@
 # CKS-LOGI-12-2026: Logismos Technical Specification and Usage
-
 ## Complete VFR Notation, Lex-Glyph Arithmetic, and Substrate-Native Computation
 
 
@@ -26,18 +25,6 @@
 
 ---
 
-
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 3, 2026  
-**Registry:** [@CKS-LOGI-12-2026]  
-**Series:** Logismos Standards  
-**Classification:** Complete Technical Specification  
-**Parent Documents:** [@CKS-MATH-104-2026], [@GU-v23-2026], [@CKS-LEX-12-2026], [@CKS-EDU-5-2026]
-
-**Motto:** *Axioms first. Axioms always.*
-
----
 
 ## ABSTRACT
 
