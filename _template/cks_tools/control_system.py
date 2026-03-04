@@ -126,8 +126,9 @@ def Gen(args):
       # Add papers to the topic
       item['papers'] = []
       for paper in args.papers:
-        if paper['subject'] == topic:
-          print(f'Added paper: {topic}: {paper}')
+        # print(f"Sub: {paper['subject']} Top: {topic}")
+        if paper['subject'] == key:
+          # print(f'Added paper: {topic}: {paper}')
           item['papers'].append(paper)
 
       topic_data.append(item)

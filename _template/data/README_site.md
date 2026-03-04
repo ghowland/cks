@@ -11,8 +11,12 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 {% for paper in topic.papers %}
-| **[[@{paper.paper_id}]](papers/{TOPIC}/{paper.paper_id}/)** | **{paper.title}** | {paper.subtitle} |
+| **[[@{{paper.paper_id}}]](papers/{{paper.subject}}/{{paper.paper_id}}/)** | **{{paper.title}}** | {{paper.subtitle}} |
 {% endfor %}
 
 ---
 {% endfor %}
+
+
+*Every paper in this registry is a peer of the others. All derive from the Seed (CKS-0-2026).*
+
