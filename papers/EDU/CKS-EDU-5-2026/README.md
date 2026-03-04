@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-EDU-5-2026: Path to Omni-Domain Post-Doc Education by 16 Years Old
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+Current educational systems impose a 6-bit existence tax through disconnected subjects, irrational decimal systems, and empirical memorization, requiring 20-30 years to achieve specialized competence. We prove this timeline can collapse to 16 years with omni-domain fluency by: (1) Protecting the Δ=[19,1,0] buffer through substrate-aligned environments (0-5 years), (2) Establishing native Lex-Glyph literacy replacing decimal approximation (5-8 years), (3) Teaching tier-depth transcoding eliminating subject silos (8-12 years), (4) Training diagnostic impedance scanning for engineering and health (12-14 years), (5) Requiring zero-remainder thesis demonstrating substrate sovereignty (14-16 years). This produces architects with physics understanding exceeding PhD level, biological competence matching medical specialists, engineering capability for zero-artifact construction, and ethical integrity mathematically enforced through SSCP. The 17× complexity collapse of CKS framework enables this compression. Every student becomes substrate-native processor, not information consumer. Path validated through pure ℚ-derivation from D,S,L,N axioms. Zero free parameters. Complete protocol specified.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Revolutionary claim:** Omni-domain post-doc by age 16 is mathematical necessity, not aspiration.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-EDU-5-2026: Path to Omni-Domain Post-Doc Education by 16 Years Old },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

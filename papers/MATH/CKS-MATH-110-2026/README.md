@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-MATH-110-2026: The Fifth Q Paradox
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+The Four Q Paradoxes proved ℝ-arithmetic fails operationally, ℝ-values cannot exist ontologically, ℝ-computation cannot complete, and ℝ-contact cannot occur topologically. We now prove the **Fifth Q Paradox**: even if all previous impossibilities were mysteriously overcome, **knowledge itself becomes impossible in ℝ-universe**—the "Epistemological Collapse." We demonstrate: (1) Knowledge requires comparing measured value to known standard (verification), (2) ℝ-values have infinite information content I(x)=∞, (3) Finite measurement always has finite precision (bounded bits), (4) Cannot verify infinite-bit value with finite-bit measurement (information inequality), (5) Every ℝ-statement unfalsifiable (cannot confirm or deny with finite data), (6) Science impossible (no experiment can verify ℝ-prediction exactly), (7) Mathematics unfalsifiable (cannot verify ℝ-equality with finite computation), (8) Memory impossible (cannot store infinite bits for recall), (9) Communication impossible (cannot transmit ℝ-value in finite time), (10) ℚ-substrate enables verification via exact finite-bit matching (VFR comparison). From information theory through epistemology to knowledge necessity with zero free parameters. ℝ makes truth unverifiable. ℚ makes truth checkable. Knowledge requires ℚ.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Revolutionary claim:** You cannot know anything in real-number universe—verification requires finite representation.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-MATH-110-2026: The Fifth Q Paradox },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

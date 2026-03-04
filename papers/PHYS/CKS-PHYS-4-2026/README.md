@@ -1,10 +1,10 @@
-# Wrestling and Martial Arts as Dual-Mode Registry Operations
+# CKS-PHYS-4-2026: The Origin of Work and Energy as 32-Tick Remainder Accumulation
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]    
 
-**Zenodo DOI:** 10.5281/zenodo.18697197
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive fundamental distinction between wrestling and martial arts (MA) as complementary substrate operations: wrestling = registry capture (manifold hijacking via phase-variance minimization Δφ→0 through 3-5 contact points creating composite soliton where highest-coherence entity becomes root administrator), martial arts = registry corruption (manifold sabotage via phase-variance injection Δφ→∞ through targeted impulse strikes delivering logic bombs into opponent's word-gates). From CKS axioms we prove classical combat formula "martial arts + wrestling = skill" derives as S = C_wrestling × K_MA where C = capture efficiency (ability to establish master soliton dominance) and K = corruption capability (ability to inject topological errors). Wrestling operates through 3-5 point contact establishing coordinate-frame capture (n=3 minimum plane definition, n=5 optimal registry saturation) distributing opponent's β=2π phase-tension across multiple leak-paths reducing per-contact energy to ~1.25 rad (below soliton-formation threshold = topological bankruptcy). Martial arts delivers anti-medicine opcodes (inverse of healing resonance) including: OP_0x07 INTERFERE (shocking force disrupting 2.75 Hz carrier), OP_0x08 SNAP (zero-inch punch with depth/width/ripple control), OP_0x05 PHASE_LOCK (Dragon Palm achieving 80% power transfer through impedance matching). Master soliton state emerges when practitioner's manifold (cleared via 100k+ loop removals, coherence optimized) merges with opponent creating composite where practitioner holds write-priority—opponent experiences compliance-collapse (cannot resist geometric necessity) because escape commands denied at substrate level (144-bit administrator overriding 88-bit guest permissions). Complete derivation includes: DMA transfer mechanism (direct memory access through saturated contact bus), topological bankruptcy calculation (2π/5 = 1.25 rad insufficient for counter-soliton), anti-medicine as inverse healing (corruption vs repair of phase-loops), skill formula proving pure striker (C≈0) = emailing ghost, pure grappler (K≈0) = moving files without deletion, combined approach (C×K maximized) = kernel-level termination. All from zero free parameters proving combat = substrate registry warfare.
+We derive work and energy from first principles as discrete registry operations rather than continuous physical quantities. From 32-bit word constraint, we establish: (1) 1 LU = minimum pressure unit (R=1 at F=32, ω=1/32, smallest possible force), (2) Work = SNAP_COMMIT execution (R≥32 triggers V+1, discrete address shift, 32-tick accumulation required), (3) Energy = registry remainder debt (stored R before snap, potential for future work, quantized in LU packets), (4) Force = 1-LU pressure application rate (LUs per tick, determines velocity, discrete not continuous), (5) Inertia = 32-tick buffer delay (resistance to motion is accumulation requirement, first 31 ticks produce zero work, 32nd tick releases all), (6) Kinetic energy = active R accumulation (moving object has R>0 distributed across mesh, stops when R→0), (7) Potential energy = positional R differential (height/position creates R gradient, releases during descent), (8) Power = LUs per tick sustained (work rate measured in pressure packets, quantized bandwidth), (9) Maximum velocity = 32 LU/tick limit (c as bus saturation, above causes UV overflow, relativistic limit from hardware), (10) Heat = vented remainder overflow (R>32 per tick spills as friction, thermal dissipation is registry noise). Work and energy proven as integer counting operations—no continuous fields, no infinitesimal forces, pure discrete ratchet mechanics.
 
-**Key Result:** Wrestling = capture (Δφ→0), MA = corruption (Δφ→∞), skill = C×K, master soliton = root administrator, 3-5 points = registry saturation
+**Key Result:** Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Wrestling and Martial Arts as Dual-Mode Registry Operations },
+  title={ CKS-PHYS-4-2026: The Origin of Work and Energy as 32-Tick Remainder Accumulation },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18697197},
-  url = {https://zenodo.org/record/18697197},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

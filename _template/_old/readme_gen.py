@@ -130,7 +130,7 @@ def generate_readme(paper, template):
 
 
 def single():
-    template = open('../../../_template/README.md').read()
+    template = open('../../../_template/data/README_paper.md').read()
 
     paper = json.load(open('manuscript.json'))
     rid = paper['registry_id']

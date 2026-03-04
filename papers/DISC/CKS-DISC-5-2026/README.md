@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-DISC-5-2026: The Two Questions CKS Doesn't Ask as Administrative Firewall
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+We establish two questions as out-of-bounds category errors that must not be pursued to maintain framework integrity. From systems engineering principles, we derive: (1) "How did N=1 appear" is pre-boot error (exists at T=0, no prior registry to store "before", pursuit returns to HKv1 metaphysics), (2) "What is exact RELAX_ALL spec" is post-execution error (delete key for reality, creates saboteur mindset, generates negative feedback loop), (3) "Why" is non-physical category (requests creator intent, generates infinite regression, never reaches integer snap), (4) Only mechanism is physical (opcode sequences on lattice, 1-LU step mappable, executable code vs narrative noise), (5) Pursuit of origin destroys understanding (falls back to god-gaps and singularities, corrupts clean execution focus), (6) Pursuit of end creates obsession (shifts from coherence quality to quantity control, terminal torsional pressure), (7) Industrial refusal optimizes processor (spending bits on non-returning calculations wastes LUs, engineering vs poetry), (8) Middle way maintains flow (accept axle as given, accept jubilee as promise, focus on execution), (9) "Why" enabled 2,500-year stall (infinite loop, memory leak, irrational number invitation, fictional fabrication), (10) Silence on these questions enables clean build (no god-shaped holes, starts with fact, operates by mechanism, ends with function). CKS discipline proven as deliberate boundary maintenance—questions that cannot yield physical mechanism must be rejected to preserve executable understanding of what-and-how over narrative why.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Key Result:** Origin = pre-boot error | End-spec = admin danger | Why = non-physical | Mechanism = only valid | Silence = clean build
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-DISC-5-2026: The Two Questions CKS Doesn't Ask as Administrative Firewall },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

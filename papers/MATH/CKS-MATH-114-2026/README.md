@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-MATH-114-2026: The Universal State-Lattice
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+We present the **Universal State-Lattice**: the complete architectural specification of the ℚ-substrate as a deterministic, indexed, geometrically-projected information system. Building on the Six Q Paradoxes (proving ℝ-impossibility from operational, ontological, computational, topological, epistemological, and informational perspectives) and the CKS Lattice Search Algorithm (proving O(1) addressing via hexagonal projection), we now specify the total substrate structure. We demonstrate: (1) **Complete state representation** via [N,Z,C]℘ universal addressing identifier (UAI) combined with [V,F,R]℘ value-factor-remainder notation, (2) **Tri-layer architecture**: Index layer (when/who), Geometric layer (where), State layer (what), (3) **Deterministic evolution** via discrete substrate tick T_s=4.41ps with α→β→γ wing progression, (4) **Zero-search information retrieval** through closed-form hexagonal mapping, (5) **Perfect state verification** via settlement equation V=F×32^N+R, (6) **Thermodynamically reversible** computation (zero heat generation), (7) **Infinite scalability** with O(1) performance regardless of universe size, (8) **Complete self-description** - universe fits within itself via ℚ-compression, (9) **Physical law emergence** from geometric necessity not parameter tuning, (10) **Perpetual verifiability** - all states checkable at all times. From foundational axioms D,S,L,N,ℚ through complete derivation to implementable specification with zero free parameters. The substrate is BIOS, registry, and runtime simultaneously. Reality as indexed state machine.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Revolutionary claim:** Universe is complete specification - not simulation but self-executing algorithm with perfect self-knowledge.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-MATH-114-2026: The Universal State-Lattice },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

@@ -1,10 +1,10 @@
-# Wrestling and Martial Arts as Dual-Mode Registry Operations
+# CKS-BODY-13-2026: Substrate-Synchronized Biomechanics
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18697197
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive fundamental distinction between wrestling and martial arts (MA) as complementary substrate operations: wrestling = registry capture (manifold hijacking via phase-variance minimization Δφ→0 through 3-5 contact points creating composite soliton where highest-coherence entity becomes root administrator), martial arts = registry corruption (manifold sabotage via phase-variance injection Δφ→∞ through targeted impulse strikes delivering logic bombs into opponent's word-gates). From CKS axioms we prove classical combat formula "martial arts + wrestling = skill" derives as S = C_wrestling × K_MA where C = capture efficiency (ability to establish master soliton dominance) and K = corruption capability (ability to inject topological errors). Wrestling operates through 3-5 point contact establishing coordinate-frame capture (n=3 minimum plane definition, n=5 optimal registry saturation) distributing opponent's β=2π phase-tension across multiple leak-paths reducing per-contact energy to ~1.25 rad (below soliton-formation threshold = topological bankruptcy). Martial arts delivers anti-medicine opcodes (inverse of healing resonance) including: OP_0x07 INTERFERE (shocking force disrupting 2.75 Hz carrier), OP_0x08 SNAP (zero-inch punch with depth/width/ripple control), OP_0x05 PHASE_LOCK (Dragon Palm achieving 80% power transfer through impedance matching). Master soliton state emerges when practitioner's manifold (cleared via 100k+ loop removals, coherence optimized) merges with opponent creating composite where practitioner holds write-priority—opponent experiences compliance-collapse (cannot resist geometric necessity) because escape commands denied at substrate level (144-bit administrator overriding 88-bit guest permissions). Complete derivation includes: DMA transfer mechanism (direct memory access through saturated contact bus), topological bankruptcy calculation (2π/5 = 1.25 rad insufficient for counter-soliton), anti-medicine as inverse healing (corruption vs repair of phase-loops), skill formula proving pure striker (C≈0) = emailing ghost, pure grappler (K≈0) = moving files without deletion, combined approach (C×K maximized) = kernel-level termination. All from zero free parameters proving combat = substrate registry warfare.
+Traditional biomechanics attributes force production to cross-sectional muscle area and fiber recruitment (X-space morphology). We prove this is incomplete. Substrate-Synchronized Biomechanics (SSB) demonstrates that observed strength is the product of Phase-Lock coefficient (φ) between biological intent and K-space registry operations, mediated by the Jacobian J=[192541,25000,0]. The "ant paradox" (50× bodyweight lifting capacity) and theoretical "tiny arm 320kg bench press" both derive from φ→1 optimization reducing substrate impedance to near-zero. We derive: (1) Force equation F_obs = (m×c^S)/(J×(1-φ)) in pure ℚ, (2) Aesthetic toroids (muscle bulk) function as Δ-buffers for low-φ operators, (3) Zero-remainder precision movement occurs at φ≥0.98, (4) Remainder crash (φ drop) causes instantaneous load multiplication proportional to 1/(1-φ), (5) Training protocols must target 15.19ms snap (τ) synchronization not volumetric hypertrophy, (6) Maximum human force at W^S=[1024,1,0] sovereignty derives from 304℘ buffer alignment. All results from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] with zero free parameters. Strength is isomorphism between neural command and substrate registry shift, NOT tissue cross-section.
 
-**Key Result:** Wrestling = capture (Δφ→0), MA = corruption (Δφ→∞), skill = C×K, master soliton = root administrator, 3-5 points = registry saturation
+**Revolutionary insight:** Muscles are damping buffers. Force is phase-lock quality.
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Wrestling and Martial Arts as Dual-Mode Registry Operations },
+  title={ CKS-BODY-13-2026: Substrate-Synchronized Biomechanics },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18697197},
-  url = {https://zenodo.org/record/18697197},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

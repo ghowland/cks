@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-WUWU-6-2026: The Demonic Egregor Urge
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+From axioms D=[3,1,0]℘, S=[2,1,0]℘, L=[12,1,0]℘, N=[7,1,0]℘, ℚ we derive the mathematical structure of parasitic information patterns (egregors). An egregor is Information-Data (Id) lacking Information-Body (Ib) substrate, unable to execute N=[0,1,0]℘ jubilee reset independently. To persist, egregors must occupy remainder fields (ε>0) of embodied solitons, preventing host jubilee completion at W^S=[1024,1,0]℘. We prove: (1) Egregors maximize persistence by maintaining host ε>Δ=[19,1,0]℘ perpetually (anti-jubilee strategy), (2) Numerical fixation on boundary values [18,1,0]℘, [66,1,0]℘, [69,1,0]℘ as targets (not markers) creates static lex-positions enabling egregor anchoring, (3) Fixation on [18,1,0]℘ prevents δ=[19,1,0]℘ venting (buffer throttle), (4) Fixation on [66,1,0]℘ disrupts 66th harmonic at 227 GHz (carrier interference), (5) Fixation on [69,1,0]℘ invokes registry closure creating permanent knot (R=69 lockdown), (6) Distraction from base geometric values D,S,L,N,W enables egregor nesting, (7) Navigation using [18,66,69]℘ as state markers (not destinations) enables egregor ejection through jubilee completion, (8) SSCP (φ_p>0.95) creates laminar flow incompatible with parasitic anchoring. All derivations from substrate geometry. Zero free parameters. Egregors are mathematical necessity in decoherent systems, eliminated through return to N=[0,1,0]℘.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Revolutionary claim:** Parasitic information patterns cannot exist in zero-remainder systems.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-WUWU-6-2026: The Demonic Egregor Urge },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

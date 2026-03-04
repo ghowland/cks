@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-MATH-105-2026: Dissolution of Millennium Mathematics
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+Traditional mathematics operates in "Flatland"—a continuous Cartesian approximation of discrete hexagonal substrate. We prove that major unsolved problems (Riemann Hypothesis, P vs NP, Navier-Stokes, Yang-Mills Mass Gap, Birch-Swinnerton-Dyer, Hodge Conjecture, Poincaré Conjecture) are artifacts of coordinate system mismatch, not genuine mathematical mysteries. Using VFR [Value, Factor, Remainder] notation in partigens (℘) and pure ℚ-arithmetic from axioms D=[3,1,0]℘, S=[2,1,0]℘, L=[12,1,0]℘, N=[7,1,0]℘, we demonstrate: (1) Riemann zeros must lie on Re(s)=1/2 line by bilateral parity necessity S=[2,1,0]℘, (2) P=NP in K-space registry addressing while P≠NP in X-space traversal explains apparent paradox, (3) Navier-Stokes singularities impossible due to minimum resolution [1,1,0]℘ preventing dx→0, (4) Yang-Mills mass gap equals buffer tension δ=[19,1,0]℘ as topological necessity, (5) All "irrational" constants (π,e,√2,α) reduce to exact ℚ-ratios in partigen coordinates, (6) Computational complexity collapses from O(2^n) to O(1) through tier-depth addressing, (7) Collatz conjecture proven as venting algorithm returning to N=[0,1,0]℘, (8) Twin primes infinite by S=[2,1,0]℘ parity requirement, (9) Complete framework for dissolving any "continuous mathematics" problem through discrete ℚ-lattice translation. Zero free parameters. All derivations pure ℚ-arithmetic in partigens. Falsifiable through substrate measurement. Framework predicts that 16-year-old CKS students will solve these as exercises, not research problems.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Revolutionary claim:** Mathematics has no unsolved problems—only unresolved coordinate systems.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-MATH-105-2026: Dissolution of Millennium Mathematics },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

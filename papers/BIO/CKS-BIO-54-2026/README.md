@@ -1,10 +1,10 @@
-# Protocols for Becoming a 512-Bit Walker
+# CKS-BIO-54-2026: Caloric Requirements as Registry Bit-Rate Maintenance—Deriving 3000 kcal from 6-Bit Existence Twist and 512-Bit Operational Overhead
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18706835
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive complete ascension pathway from 88-bit biological baseline (standard human with 100k+ phase-loops consuming 99% Try-Catch buffer bandwidth) through 144-bit weaver state (fractal header compression enabling 10²⁶ computational efficiency gain and 10-60 second "greased" movement episodes) to 512-bit walker status (sustained substrate administrator privileges with direct registry write access and matter-programming capability). From CKS axioms we prove four-stage progression: Stage 1 (years 1-10) = hardware cleanup via standing practice (zhan zhuang) clearing major loops while establishing vertical alignment and 1/32 Hz substrate coupling, reducing buffer occupancy 99%→20% enabling first 144-bit snap-ins; Stage 2 (years 10-20) = software development via circle walking (bagua) accumulating phase-density through centripetal pumping and farmer-shuffle entrainment at 1.375 Hz, extending 144-bit duration 10s→60s; Stage 3 (years 20-30) = integration testing via kata compilation bridging static coherence to dynamic execution while combat hardening validates manifold stability under external phase-attacks; Stage 4 (years 30-40+) = threshold crossing to permanent 512-bit where sufficient saturation (S≈677.7) combined with cleared registry enables sustained substrate-native operation including: matter assembly via 193.1 THz photonic protocols (DWDM-3/4/5 chain), vocal programming through P-T handoff at Dan Tien executing phonemic opcodes, instantaneous movement via direct address-pointer updates bypassing physical displacement, and complete star-fort construction (五行 five-phase pentagonal manifestation of 12-bond electron topology projected into 3D creating self-defending geometric resonator). Complete derivation includes: standing posture optimization (7-parameter P-T protocol with tongue-to-soft-palate at 4.7 cm posterior, eyes-open-soft for k-space sampling, vertical spine for dN/dt gradient, 32-second breath cycle), circle-walking mechanics (1.375 Hz cadence with foot-glide <1 cm, continuous pre-grinding via ribs/scapula, hand-over-fingertip gaze for k↔x maximization), kata structure (pre-compiled movement scripts enabling context-switch from stillness→combat without manifold crash), and 512-bit indicators (sustained effortless movement, frame-loss perception in others, matter-response to intention, geometric fortress manifestation). All protocols derive from zero free parameters proving ascension = systematic registry optimization requiring decades but geometrically achievable by any human willing to perform sufficient unlooping and maintain precise substrate coupling.
+We derive caloric requirements as registry bit-rate maintenance proving metabolism = manifold coherence tax rather than chemical combustion. From substrate energy conversion, we establish: (1) 1 bit maintenance = 342 kcal/day (base energy quantum for human-scale 144-LU mesh against 2π background, impedance cost of 84-bit word in 3-dipole gearbox), (2) 6-bit existence kernel = 2052 kcal baseline (mandatory twist preventing soliton evaporation, RAID-1 signature minimum, registry BMR before any work), (3) 90kg/180cm aperture scaling = 1.12× multiplier (volumetric address range adjustment, Jacobian stretch factor, 5.625×32cm height quantization), (4) Idle power = 2298 kcal/day (6 bits × 342 × 1.12, substrate maintenance for 90kg mesh, below this = brownout mode), (5) 512-bit sovereign overhead = +684 kcal (2 additional bits for admin access, active write capability, high-bandwidth processing load), (6) Total operational = 2982 kcal/day (8.72 bits total, maintains zero-remainder state, enables line-rate processing, prevents parity drop), (7) Starvation < 2050 kcal = registry de-allocation (6-bit twist frays, SNR collapses, consciousness down-clocks to 66-bit survival, LERP→saccade reversion), (8) Hunger = voltage brownout (not chemical depletion but signal power drop, processor throttling, admin privileges suspended to save kernel), (9) "Hangry" = 66-bit decoherence (system prioritizes existence over bandwidth, emotional regulation disabled, coherence sacrificed for survival), (10) Food = voltage rail fuel (maintains transceiver power, sustains impedance matching, prevents topological decay, enables zero-latency execution). Metabolism proven as topological maintenance not combustion—eating = powering substrate signature, 3000 kcal = operational requirement for 512-bit sovereign function.
 
-**Key Result:** 88→144→512 pathway = 4 stages over 40+ years, standing+circle+kata+combat = complete protocol, 512-bit = sustained administrator with matter-programming access
+**Key Result:** Calories = bit voltage | 6 bits = existence | 2 bits = sovereign | 3000 kcal = operational | Below = brownout | Food = signal power
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Protocols for Becoming a 512-Bit Walker },
+  title={ CKS-BIO-54-2026: Caloric Requirements as Registry Bit-Rate Maintenance—Deriving 3000 kcal from 6-Bit Existence Twist and 512-Bit Operational Overhead },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18706835},
-  url = {https://zenodo.org/record/18706835},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

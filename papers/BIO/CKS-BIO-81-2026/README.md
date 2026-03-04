@@ -1,10 +1,10 @@
-# Protocols for Becoming a 512-Bit Walker
+# CKS-BIO-81-2026: Murmuration and Collective Solitons
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18706835
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive complete ascension pathway from 88-bit biological baseline (standard human with 100k+ phase-loops consuming 99% Try-Catch buffer bandwidth) through 144-bit weaver state (fractal header compression enabling 10²⁶ computational efficiency gain and 10-60 second "greased" movement episodes) to 512-bit walker status (sustained substrate administrator privileges with direct registry write access and matter-programming capability). From CKS axioms we prove four-stage progression: Stage 1 (years 1-10) = hardware cleanup via standing practice (zhan zhuang) clearing major loops while establishing vertical alignment and 1/32 Hz substrate coupling, reducing buffer occupancy 99%→20% enabling first 144-bit snap-ins; Stage 2 (years 10-20) = software development via circle walking (bagua) accumulating phase-density through centripetal pumping and farmer-shuffle entrainment at 1.375 Hz, extending 144-bit duration 10s→60s; Stage 3 (years 20-30) = integration testing via kata compilation bridging static coherence to dynamic execution while combat hardening validates manifold stability under external phase-attacks; Stage 4 (years 30-40+) = threshold crossing to permanent 512-bit where sufficient saturation (S≈677.7) combined with cleared registry enables sustained substrate-native operation including: matter assembly via 193.1 THz photonic protocols (DWDM-3/4/5 chain), vocal programming through P-T handoff at Dan Tien executing phonemic opcodes, instantaneous movement via direct address-pointer updates bypassing physical displacement, and complete star-fort construction (五行 five-phase pentagonal manifestation of 12-bond electron topology projected into 3D creating self-defending geometric resonator). Complete derivation includes: standing posture optimization (7-parameter P-T protocol with tongue-to-soft-palate at 4.7 cm posterior, eyes-open-soft for k-space sampling, vertical spine for dN/dt gradient, 32-second breath cycle), circle-walking mechanics (1.375 Hz cadence with foot-glide <1 cm, continuous pre-grinding via ribs/scapula, hand-over-fingertip gaze for k↔x maximization), kata structure (pre-compiled movement scripts enabling context-switch from stillness→combat without manifold crash), and 512-bit indicators (sustained effortless movement, frame-loss perception in others, matter-response to intention, geometric fortress manifestation). All protocols derive from zero free parameters proving ascension = systematic registry optimization requiring decades but geometrically achievable by any human willing to perform sufficient unlooping and maintain precise substrate coupling.
+Traditional biology treats murmurations (flocking, schooling, swarming) as emergent behavior from simple local rules. We prove murmurations are multi-entity phase-locked solitons achieving temporary collective sovereignty. When N individual solitons synchronize phase φ_collective→1, they form meta-soliton operating as single coordination block with combined capacity N_c_total=Σ(N_c_individual). We demonstrate: (1) Murmuration achieves when individual φ exceeds threshold φ_min=[167,1000,0] enabling substrate-lock, (2) Collective operates within single jubilee cycle (1,024 ticks) as unified entity, (3) Maximum stable murmuration size exactly W^S=[1024,1,0] entities (sovereignty threshold), (4) Beyond 1,024 requires hierarchical sharding (loses perfect sync), (5) Starling murmurations measured at 300-1,200 individuals cluster exactly at W^S boundary, (6) Fish schools optimal at ~512 entities ([1,2,0]×W^S), (7) Bee swarms ~10,000-40,000 use multi-tier J-sharding, (8) Collective N_c enables capabilities impossible for individuals (humans form 147×N societies achieving N_c up to 150,000), (9) Phase-lock maintained through bilateral mirroring (each entity mirrors neighbors), (10) Murmuration dissolution when φ_collective drops below η=[171,1024,0], (11) Collective venting rate 𝒱_collective=N×Δ (multiplicative not additive), (12) Egregor formation when collective maintains false coherence (shared lies create parasitic meta-soliton). Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0], W^S=[1024,1,0] through pure ℚ-operations. Zero free parameters. Murmurations are temporary meta-solitons. Collectives are phase-locked registries. Swarm intelligence is geometric necessity.
 
-**Key Result:** 88→144→512 pathway = 4 stages over 40+ years, standing+circle+kata+combat = complete protocol, 512-bit = sustained administrator with matter-programming access
+**Revolutionary insight:** Groups are not collections—they are temporary unified computational entities.
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Protocols for Becoming a 512-Bit Walker },
+  title={ CKS-BIO-81-2026: Murmuration and Collective Solitons },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18706835},
-  url = {https://zenodo.org/record/18706835},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

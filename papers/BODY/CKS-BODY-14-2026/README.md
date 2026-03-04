@@ -1,10 +1,10 @@
-# Wrestling and Martial Arts as Dual-Mode Registry Operations
+# CKS-BODY-14-2026: Zero-Remainder Biomechanics
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18697197
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive fundamental distinction between wrestling and martial arts (MA) as complementary substrate operations: wrestling = registry capture (manifold hijacking via phase-variance minimization Δφ→0 through 3-5 contact points creating composite soliton where highest-coherence entity becomes root administrator), martial arts = registry corruption (manifold sabotage via phase-variance injection Δφ→∞ through targeted impulse strikes delivering logic bombs into opponent's word-gates). From CKS axioms we prove classical combat formula "martial arts + wrestling = skill" derives as S = C_wrestling × K_MA where C = capture efficiency (ability to establish master soliton dominance) and K = corruption capability (ability to inject topological errors). Wrestling operates through 3-5 point contact establishing coordinate-frame capture (n=3 minimum plane definition, n=5 optimal registry saturation) distributing opponent's β=2π phase-tension across multiple leak-paths reducing per-contact energy to ~1.25 rad (below soliton-formation threshold = topological bankruptcy). Martial arts delivers anti-medicine opcodes (inverse of healing resonance) including: OP_0x07 INTERFERE (shocking force disrupting 2.75 Hz carrier), OP_0x08 SNAP (zero-inch punch with depth/width/ripple control), OP_0x05 PHASE_LOCK (Dragon Palm achieving 80% power transfer through impedance matching). Master soliton state emerges when practitioner's manifold (cleared via 100k+ loop removals, coherence optimized) merges with opponent creating composite where practitioner holds write-priority—opponent experiences compliance-collapse (cannot resist geometric necessity) because escape commands denied at substrate level (144-bit administrator overriding 88-bit guest permissions). Complete derivation includes: DMA transfer mechanism (direct memory access through saturated contact bus), topological bankruptcy calculation (2π/5 = 1.25 rad insufficient for counter-soliton), anti-medicine as inverse healing (corruption vs repair of phase-loops), skill formula proving pure striker (C≈0) = emailing ghost, pure grappler (K≈0) = moving files without deletion, combined approach (C×K maximized) = kernel-level termination. All from zero free parameters proving combat = substrate registry warfare.
+Traditional movement creates substrate resistance through registry noise (R≠0). We derive Zero-Remainder Biomechanics (ZRB) as the optimization of human motion toward R=[0,1,0] in all motor tasks. When movement achieves R=0, the substrate treats the action as "non-event"—a local registry update requiring no Jacobian penalty. The result: silent footfalls, frictionless object manipulation, extended endurance, and effective "invisibility" to detection systems that monitor substrate disturbance. We prove: (1) Walking achieves R=0 when contact timing aligns to τ=[1519,100,0] ms harmonics and impact force distributes across D=[3,1,0] hexagonal footprint, (2) Running enters laminar flow at stride frequency f_stride = f_s/n where n∈ℤ creates substrate resonance, (3) Object manipulation (drinking, eating, placing) reaches R=0 through 304℘ buffer-aligned acceleration profiles, (4) Sleep achieves R=0 when breathing locks to 12-cycle (L=[12,1,0]) rhythm at 4-second period, (5) Dance becomes substrate-synchronized art when movements trace hexagonal Lex boundaries, (6) All ZRB techniques derive from phase-locking biological rhythm to substrate clock f_s^S. Training protocols provided with measurable metrics (sound pressure, ground reaction force variance, object oscillation decay rate). Zero-remainder movers minimize Δ expenditure, maximize stealth, achieve "flow states" as φ→1 optimization. Everything from D,S,L,N through ℚ-operations. Zero free parameters.
 
-**Key Result:** Wrestling = capture (Δφ→0), MA = corruption (Δφ→∞), skill = C×K, master soliton = root administrator, 3-5 points = registry saturation
+**Revolutionary insight:** Silence is not absence of movement. Silence is perfect substrate synchronization.
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Wrestling and Martial Arts as Dual-Mode Registry Operations },
+  title={ CKS-BODY-14-2026: Zero-Remainder Biomechanics },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18697197},
-  url = {https://zenodo.org/record/18697197},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

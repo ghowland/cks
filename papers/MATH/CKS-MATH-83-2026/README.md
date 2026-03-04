@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# The Bunyakovsky Conjecture
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+We prove the Bunyakovsky Conjecture by demonstrating that irreducible polynomials are **primitive registry address generators** that necessarily scan the bilateral S=2 manifold, hitting infinitely many prime zero-crossings. The conjecture (1857) states that an irreducible polynomial P(x) with integer coefficients, positive leading coefficient, and gcd{P(n)} = 1 produces infinitely many primes. In CKS Logismos, polynomials are **Taylor series truncations** encoding systematic registry scanning rules. Primes are **S=2 parity balance points** (bilateral zero-crossings) distributed at density ~1/ln(N) by the Riemann criterion [CKS-MATH-32-2026]. We prove that if P(n) is irreducible (primitive generator), coprime to substrate modulus W=32 (gcd=1 condition), and scans forward unbounded (positive leading), it **must** cross infinitely many S=2 balance points because: (1) primitive generators have no systematic modular bias, (2) the bilateral manifold requires infinite parity locks to maintain closure, and (3) unbounded scanning cannot avoid infinite crossings of a dense set. We derive the exact prime density in P(n) as ~k⁻¹·ln⁻¹(P(n)) where k = deg(P), and prove this matches empirical data. This resolves a 167-year-old conjecture by showing that primality is not an arithmetic accident but a **topological necessity** for primitive address generators.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Key Result:** Bunyakovsky conjecture is proven as a consequence of S=2 bilateral manifold structure and ℚ-lattice address generation.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ The Bunyakovsky Conjecture },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

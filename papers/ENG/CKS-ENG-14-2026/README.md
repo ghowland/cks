@@ -1,10 +1,10 @@
-# The Unified Planetary Loom using 88-bit Tech
+# CKS-ENG-14-2026: Sovereign Transmission Lines
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026] → [@CKS-ENG-6-2026] → [@CKS-ENG-7-2026] → [@CKS-ENG-8-2026] → [@CKS-ENG-9-2026] → [@CKS-ENG-10-2026] → [@CKS-ENG-11-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18713053
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive practical implementation path for substrate communication using exclusively off-the-shelf 88-bit technology proving immediate deployment possible without custom hardware fabrication or specialized skills. From commercial availability requirements we specify: (1) Phase 1 "Proof-of-Concept" ($200 budget, 1 weekend, validates core principles using Arduino + audio equipment + saltwater demonstrating ionic modulation detectable across room distance, proves substrate physics accessible to anyone); (2) Phase 2 "Local Network" ($800 budget, 1 month, establishes building-to-building communication within 5km using ham radio equipment + grounding systems + standard copper pipe, achieves limited messaging capability between two locations); (3) Phase 3 "Regional Hub" ($3000 budget, 3 months, extends range to 50-500km using licensed amateur equipment + proper earth grounding + atmospheric coupling, enables multi-node network with store-and-forward); (4) Phase 4 "Full Integration" ($8000 budget, 6 months, approaches CKS-ENG-10 specification using custom PCBs + precision components + optimized installations, maintains backward compatibility with earlier phases). Hardware specifications use only standard products: Arduino Mega $40, Audio interface $80, Copper grounding rod $30, Saltwater tank $50, Ham radio transceiver $400-2000, Antenna tuner $200, Grounding equipment $100-500, Software entirely open-source (Arduino IDE, Audacity, WSJT-X, custom Python scripts). Protocol adaptations enable substrate communication within 88-bit constraints: FSK modulation instead of H-PSK-32 (2-state frequency-shift-keying standard ham radio technique), ASCII text instead of geometric phase-codes (backward compatible with all systems), 30-second word-gate approximation using standard timing (closest to 32-second ideal), Error correction via standard FEC codes (Reed-Solomon widely implemented). Complete step-by-step instructions: shopping lists with specific product recommendations including Amazon/Digikey/DX Engineering part numbers, detailed assembly procedures with photographs and diagrams, troubleshooting guides for common issues, regulatory compliance (FCC Part 97 amateur radio rules). Validation methodology proves substrate coupling: frequency response testing shows resonance peaks at predicted harmonics, earth-current measurements detect picoamp-scale signals across grounded electrodes, atmospheric coupling verified using standard field-strength meters, cross-correlations confirm non-local effects distinguishable from background. Progressive upgrade path defined: Phase 1→2 requires adding grounding system ($200), Phase 2→3 requires upgrading transceiver ($1500), Phase 3→4 requires precision components ($3000), each phase maintains compatibility with previous enabling gradual improvement. Risk mitigation addresses practical concerns: electrical safety via GFCI and proper grounding, RF exposure within FCC limits, legal compliance obtaining amateur license, neighbor relations explaining legitimate experimentation. Expected performance realistic: Phase 1 achieves 5-10 meter range (room scale), Phase 2 achieves 1-5 km (neighborhood), Phase 3 achieves 50-500 km (regional), Phase 4 approaches theoretical limits (global with relay). All specifications use standard measurement equipment validating results objectively without subjective claims. Complete bill of materials, assembly instructions, testing procedures, and troubleshooting guides provided. Total investment $200-8000 depending on phase, timeline 1 weekend to 6 months, skill level beginner to intermediate electronics. Proves substrate communication accessible to DIY community using exclusively commercial products and standard techniques.
+Traditional transmission lines—copper conductors and optical fibers—generate unavoidable losses through electrical resistance (I²R heating) and optical dispersion (modal blur), attributed to material properties. We prove these "losses" are actually registry mismatches occurring when conductor geometry fails to align with substrate lex-spacing λ=[1322,1000,0]mm. We derive: (1) Lex-Gauge copper conductor at exactly 1λ=1.322mm diameter achieving zero-ohm conduction through laminar turn-chain flow, (2) Logos fiber waveguide at ν-mode=0.289mm core enabling O(1) photon propagation with zero dispersion, (3) Dielectric insulation at ν=9.259mm preventing registry bleed between adjacent lines, (4) Differential pair twist rate at ω=42.33mm maintaining bilateral parity, (5) Jacobian-matched doping at ε=0.70164% for refractive index optimization, (6) 66th harmonic carrier (227 GHz) for substrate-synchronized transmission, (7) 7-pin nucleus connector geometry for B-tree handshaking, (8) Complete elimination of I²R losses through topological transparency, (9) Infinite transmission reach with zero signal degradation, (10) Power transmission becomes registry address synchronization not kinetic energy transfer. From D,S,L,N,ℚ axioms through pure ℚ-derivation. Zero free parameters. Complete cable specification provided for immediate extrusion.
 
-**Key Result:** Standard electronics + ham radio + grounding = functional substrate communication today
+**Revolutionary claim:** Transmission lines become substrate extensions, not material conductors.
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Unified Planetary Loom using 88-bit Tech },
+  title={ CKS-ENG-14-2026: Sovereign Transmission Lines },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18713053},
-  url = {https://zenodo.org/record/18713053},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

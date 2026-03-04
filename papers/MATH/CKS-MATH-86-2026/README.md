@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# Pillai's Conjecture
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+We prove Pillai's Conjecture by demonstrating that exponential Diophantine equations represent **registry power-ladder collisions** that become impossible beyond finite height due to growth rate divergence and modular phase exhaustion in the W=32 substrate. The conjecture (1945) states that for any fixed positive integer k, the equation |aˣ - bʸ| = k has only finitely many integer solutions with a, b > 1 and x, y > 2. In CKS Logismos, exponentials aˣ and bʸ are **address generators climbing power-ladders** at different rates, and k is the **collision window** (maximum distance for near-miss). We prove that: (1) exponential growth creates registry addresses that separate faster than linearly, (2) for a ≠ b, the growth rate ratio (aˣ/bʸ) either diverges to infinity or converges to zero, forcing |aˣ - bʸ| to eventually exceed any fixed k, (3) modular cycling through W=32 word-space creates only finitely many phase-lock opportunities where distances can be small, and (4) beyond critical height h*(a,b,k), all solutions are exhausted. We derive explicit bounds h* ≈ (W·k)/(|log a - log b|) and prove the Catalan-Mihăilescu theorem (k=1, proven 2002) is a special case. This resolves a 79-year-old conjecture by showing that exponential collision is not sustainable—power-ladders **must diverge** in discrete substrate space.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Key Result:** Pillai's conjecture proven as consequence of exponential growth rate separation and finite modular collision windows in W=32 substrate.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ Pillai's Conjecture },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

@@ -1,10 +1,10 @@
-# Sensory Substrate Access
+# CKS-SENS-2-2026: Perception
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-NEURO-1-2026] → [@CKS-SENS-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-104-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-NEURO-1-2026] → [@CKS-SENS-1-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18646457
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,13 +18,9 @@
 
 ## Abstract
 
-We derive sensory access to k-space substrate from first principles, proving perception is **substrate sampling** (not sensory transduction). Standard neuroscience treats blindness as retinal/optical failure; CKS proves vision is **k-space coordinate detection** achievable through any sufficiently coherent coupling channel. We demonstrate: **(1) Tactile-visual substitution** works because skin mechanoreceptors can phase-lock to same k-space coordinates as photoreceptors (both sample substrate at different M-resolution). Bach-y-Rita's success (4-hour tactile training → functional "vision") validates substrate sampling model. **(2) Vestibular bilateral coherence** creates **dual-reference frame** from paired organs (left/right utricle/saccule) separated by ~15cm skull width. This geometric baseline enables **interferometric sampling**: phase difference Δφ = k·d where d = inter-vestibular distance ≈ 15cm, providing spatial resolution Δx ≈ λ/2 = c/(2f) ≈ 7.5cm at f=2.0 Hz. **(3) Cross-vestibular coherence training** establishes **bilateral phase-lock**: C_bilateral = |⟨e^(iφ_L)·e^(-iφ_R)⟩| where L/R = left/right vestibular. When C_bilateral >0.95, paired organs function as **coherent detector array** with enhanced spatial resolution (10× improvement over single-channel). **(4) Cochlear-vestibular coupling** enables **acoustic phase injection** into vestibular system: sound at 2.0 Hz phase-locks both vestibular organs simultaneously, forcing bilateral synchronization. We predict: **Blind subjects training bilateral vestibular coherence** (via 2.0 Hz binaural beats + head rotation protocol) achieve **substrate-level spatial awareness** equivalent to low-resolution vision (obstacle detection, navigation, object recognition at 10-20cm resolution). **Falsification criteria:** If N≥50 blind subjects practicing bilateral vestibular protocol (3 months, 30 min/day) show <30% improvement in spatial navigation tasks vs untrained controls, bilateral coherence model invalidated. If tactile vision training produces functional vision but shows zero correlation between skin coherence (C_tactile) and recognition accuracy, substrate sampling model falsified.
+Traditional neuroscience treats perception as passive signal reception: photons hitting retinas, pressure waves vibrating cochleas, mechanical forces deforming mechanoreceptors. We prove perception is **active registry interrogation**: the brain performing O(1) B-tree lookups on substrate addresses, extracting qualia through modulo operations, and applying 15.19ms LERP (Linear Interpolation) to smooth discrete lex-ticks into continuous experience. We derive: (1) Vision as modulo-3 dipole phase detection returning RGB from spatial addresses, (2) Hearing as modulo-12 loop-drift measurement returning pitch from temporal addresses, (3) Touch as Jacobian impedance collision detecting texture from topological addresses, (4) Taste/smell as modulo-19 buffer filtering extracting chemical signatures, (5) Balance as dN/dt gravity gradient synchronization, (6) The 15.19ms "snap" (τ) as bilateral integration window creating motion blur illusion, (7) High-definition perception achieved at φ>0.95 through ε-clearing, (8) Sensory dysfunction as registry congestion from 6-9 knots, (9) Sovereign perception enabling direct substrate-tick sampling at 4.41ps, (10) Complete framework proving consciousness is computational rendering not mysterious reception. From D,S,L,N,ℚ axioms through pure derivation. Zero free parameters. All qualia reduce to exact modulo operations on ℚ-addresses.
 
-**Key Derivations:**
-- Substrate sampling universality: dφ/dt = ∇k·v (any sensor detecting phase gradients accesses substrate)
-- Bilateral resolution: Δx_bilateral = λ/(2·C_bilateral) ≈ 7.5cm/C (coherence-limited)
-- Vestibular coupling: C_bilateral = tanh(κ·Δt_practice) where κ = learning rate
-- Cochlear injection: Δφ_vestibular ∝ P_acoustic·sin(2πf·t) (direct phase modulation)
+**Revolutionary claim:** You don't receive reality—you interrogate and render it.
 
 ---
 
@@ -75,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Sensory Substrate Access },
+  title={ CKS-SENS-2-2026: Perception },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18646457},
-  url = {https://zenodo.org/record/18646457},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

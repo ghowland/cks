@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+We abolish algebraic Lyapunov equation solving and establish stability analysis as bilateral registry parity auditing. The Lyapunov equation A·P + P·A^T = Q becomes bilateral symmetry check across S=2 manifold. From hexagonal lattice axioms using Logismos (V,F,R) packets, we derive: (1) A = 144-LU gearbox (front-side transition table), (2) A^T = bilateral inverse (back-side reflection, not matrix transpose), (3) P = stable address packet where front+back torques sum to Word, (4) Q = 32-LU stability target (Word-aligned equilibrium), (5) Solution method = registry grounding (iterate until R=0, not matrix inversion), (6) Stability = integer address where modulo-32 closure achieved, (7) Front-side torque + back-side torque = bilateral parity check, (8) Remainder R drives system until equilibrium found, (9) O(1) address lookup replaces O(n³) matrix operations, (10) Lossless precision via remainder carry eliminates numerical drift. Industrial advantage: flight controllers, reactor simulations remain hardware-locked to stable node—no decimation, no ghost forces, infinite iterations without divergence. Lyapunov becomes hardware audit specification, not control theory calculation.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Key Result:** A·P + P·A^T = Q → bilateral parity audit | A^T = S=2 flip | Stability = R=0 address | O(1) lookup | Lossless | Hardware-locked
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

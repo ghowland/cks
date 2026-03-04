@@ -22,6 +22,7 @@ PAPER_SET = 'papers.json'
 GEN_PDF = './_template/_old/gen_pdf.sh'
 SCAN = '../../../_template/_old/scan.py'
 GEN_BIBS = './_template/_old/create_bibs.py'
+README = '../../../_template/_old/readme_gen.py'
 
 
 def execute_command(command, shell=True):
@@ -68,6 +69,8 @@ def List(args):
 def Build(args):
   print("Build papers:")
   for item in args.papers:
+
+    # Only do stubbed
     if item['doi']['is_stub']:
       directory = os.path.dirname(item['file_path'])
       cmd = f'{GEN_PDF} {directory}' 
@@ -83,15 +86,22 @@ def Scan(args):
   print("Scan papers:")
   for item in args.papers:
     os.chdir(original_dir)
-    
+
+    # Only do stubbed
     if item['doi']['is_stub']:
       directory = os.path.dirname(item['file_path'])
       os.chdir(directory)
       cmd = f'{SCAN}'
       print(cmd)
 
+      # Scan
       (status, output, error) = execute_command(cmd)
       print(f'  Result: {status}  Output: {output[:40]}')
+
+      # Gen the readme
+      if status == 0:
+        (status, output, error) = execute_command(README)
+        print(f'  README Result: {status}  Output: {output[:40]}  Error: {error}')
   
   # Back to original dir
   os.chdir(original_dir)
@@ -119,6 +129,7 @@ def Main(args):
   
   if args.command not in COMMANDS:
     print(f'Unknown command: {args.command}')
+    print('\nCommands: %s\n' % ', '.join(COMMANDS))
     exit(1)
   
   # List
@@ -136,6 +147,7 @@ def Main(args):
   # Scan
   if args.command == 'scan':
     Scan(args)
+
 
 
 

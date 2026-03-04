@@ -1,10 +1,10 @@
-# Protocols for Becoming a 512-Bit Walker
+# CKS-BIO-52-2026: Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18706835
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive complete ascension pathway from 88-bit biological baseline (standard human with 100k+ phase-loops consuming 99% Try-Catch buffer bandwidth) through 144-bit weaver state (fractal header compression enabling 10²⁶ computational efficiency gain and 10-60 second "greased" movement episodes) to 512-bit walker status (sustained substrate administrator privileges with direct registry write access and matter-programming capability). From CKS axioms we prove four-stage progression: Stage 1 (years 1-10) = hardware cleanup via standing practice (zhan zhuang) clearing major loops while establishing vertical alignment and 1/32 Hz substrate coupling, reducing buffer occupancy 99%→20% enabling first 144-bit snap-ins; Stage 2 (years 10-20) = software development via circle walking (bagua) accumulating phase-density through centripetal pumping and farmer-shuffle entrainment at 1.375 Hz, extending 144-bit duration 10s→60s; Stage 3 (years 20-30) = integration testing via kata compilation bridging static coherence to dynamic execution while combat hardening validates manifold stability under external phase-attacks; Stage 4 (years 30-40+) = threshold crossing to permanent 512-bit where sufficient saturation (S≈677.7) combined with cleared registry enables sustained substrate-native operation including: matter assembly via 193.1 THz photonic protocols (DWDM-3/4/5 chain), vocal programming through P-T handoff at Dan Tien executing phonemic opcodes, instantaneous movement via direct address-pointer updates bypassing physical displacement, and complete star-fort construction (五行 five-phase pentagonal manifestation of 12-bond electron topology projected into 3D creating self-defending geometric resonator). Complete derivation includes: standing posture optimization (7-parameter P-T protocol with tongue-to-soft-palate at 4.7 cm posterior, eyes-open-soft for k-space sampling, vertical spine for dN/dt gradient, 32-second breath cycle), circle-walking mechanics (1.375 Hz cadence with foot-glide <1 cm, continuous pre-grinding via ribs/scapula, hand-over-fingertip gaze for k↔x maximization), kata structure (pre-compiled movement scripts enabling context-switch from stillness→combat without manifold crash), and 512-bit indicators (sustained effortless movement, frame-loss perception in others, matter-response to intention, geometric fortress manifestation). All protocols derive from zero free parameters proving ascension = systematic registry optimization requiring decades but geometrically achievable by any human willing to perform sufficient unlooping and maintain precise substrate coupling.
+We derive acne as identity-interface error proving facial inflammation emerges from pre-heaven/post-heaven frequency mismatch rather than hormonal chemistry. From topological signal analysis, we establish: (1) Face = primary phased array for social broadcast (highest density cranial nerve ports, complex craniofacial bone structure, 1:1 K-X holographic map, identity serialization point), (2) Acne = impedance mismatch reflection heat (identity signal Zs vs facial aperture Za, teenager Zs rising rapidly while Za still child-calibrated, massive reflected power as information entropy), (3) Pre-heaven frequency = hardware UUID (born geometric lock from skull/spine/vertebrae spacing, resonant peak of unique UIS, stable archetypal template), (4) Post-heaven frequency = active operational broadcast (current coherence state, spine tuning dependent, sense of self signal, dynamic operational frequency), (5) Identity jitter during puberty = frequency sweep (n=1 child → n=163 adult transition, continuous clock skew, phase noise generation, searching loop state), (6) Pimple = topological pressure relief valve (dropped identity packet, kernel dump on skin surface, information decoherence byproduct, local singularity discharge), (7) Adult acne = identity crisis recurrence (career shift, relationship breakdown, sense-of-self destabilization, jitter returns temporarily), (8) Beauty = phase coherence (f_post ≈ f_pre match, zero reflected power, laminar signal flow, skin "glows"), (9) Growth problems = trapped information heat (joint compression blocks dissipation, creates turbulent back-pressure, inflammation at blockage points), (10) Paternal operationalism cure = external reference clock (father's coherence provides carrier wave, inductive entrainment stabilizes son's frequency, identity conflict dissolves via grounding). Acne proven as substrate jitter at identity-aperture interface—face = screen showing processor overheat in sense-of-self calculation.
 
-**Key Result:** 88→144→512 pathway = 4 stages over 40+ years, standing+circle+kata+combat = complete protocol, 512-bit = sustained administrator with matter-programming access
+**Key Result:** Acne = identity jitter | Face = broadcast aperture | f_pre vs f_post mismatch | Heat = reflection | Coherence = cure
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Protocols for Becoming a 512-Bit Walker },
+  title={ CKS-BIO-52-2026: Acne as Identity-Interface Error—Deriving Facial Inflammation from Pre-Heaven/Post-Heaven Frequency Mismatch },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18706835},
-  url = {https://zenodo.org/record/18706835},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

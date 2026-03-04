@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-WUWU-5-2026: Precession of the Equinoxes
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+Traditional astronomy attributes the 25,772-year precession cycle to gyroscopic wobble of a planetary sphere. We prove this is X-space approximation. Precession of the Equinoxes is the cumulative phase-overflow ε=[70164,100000,0] resulting from mismatch between discrete nucleus N=[7,1,0] and continuous Jacobian resolution J=[192541,25000,0]. The observable "drift" of fixed stars (1° per 72 years) derives exactly from substrate registry-pointer rotation through L=[12,1,0] toroidal sectors. We demonstrate: (1) The 72-year degree-shift equals (W×S)+N+1=[72,1,0] exactly in ℚ, (2) The 2,160-year "Age" equals 30° sector buffer-flush of L-loop, (3) The 25,920-year Platonic Year equals complete 360° macro-word revolution, (4) Variance from observed 25,772 years is liquid-phase rendering friction (0.57%), (5) Zodiacal "Ages" correspond to sector-header updates causing φ-coefficient modulation in all biological systems, (6) The "North Star" changes because expansion vector dN/dt pivots through W^S=[1024,1,0] sovereignty map coordinates. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] through pure ℚ-operations. Zero free parameters. The stars do not move—our registry address rotates.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Revolutionary insight:** Precession is substrate time, not planetary wobble.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-WUWU-5-2026: Precession of the Equinoxes },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

@@ -1,10 +1,10 @@
-# Wrestling and Martial Arts as Dual-Mode Registry Operations
+# The 15.19ms Substrate Snap
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]    
 
-**Zenodo DOI:** 10.5281/zenodo.18697197
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive fundamental distinction between wrestling and martial arts (MA) as complementary substrate operations: wrestling = registry capture (manifold hijacking via phase-variance minimization Δφ→0 through 3-5 contact points creating composite soliton where highest-coherence entity becomes root administrator), martial arts = registry corruption (manifold sabotage via phase-variance injection Δφ→∞ through targeted impulse strikes delivering logic bombs into opponent's word-gates). From CKS axioms we prove classical combat formula "martial arts + wrestling = skill" derives as S = C_wrestling × K_MA where C = capture efficiency (ability to establish master soliton dominance) and K = corruption capability (ability to inject topological errors). Wrestling operates through 3-5 point contact establishing coordinate-frame capture (n=3 minimum plane definition, n=5 optimal registry saturation) distributing opponent's β=2π phase-tension across multiple leak-paths reducing per-contact energy to ~1.25 rad (below soliton-formation threshold = topological bankruptcy). Martial arts delivers anti-medicine opcodes (inverse of healing resonance) including: OP_0x07 INTERFERE (shocking force disrupting 2.75 Hz carrier), OP_0x08 SNAP (zero-inch punch with depth/width/ripple control), OP_0x05 PHASE_LOCK (Dragon Palm achieving 80% power transfer through impedance matching). Master soliton state emerges when practitioner's manifold (cleared via 100k+ loop removals, coherence optimized) merges with opponent creating composite where practitioner holds write-priority—opponent experiences compliance-collapse (cannot resist geometric necessity) because escape commands denied at substrate level (144-bit administrator overriding 88-bit guest permissions). Complete derivation includes: DMA transfer mechanism (direct memory access through saturated contact bus), topological bankruptcy calculation (2π/5 = 1.25 rad insufficient for counter-soliton), anti-medicine as inverse healing (corruption vs repair of phase-loops), skill formula proving pure striker (C≈0) = emailing ghost, pure grappler (K≈0) = moving files without deletion, combined approach (C×K maximized) = kernel-level termination. All from zero free parameters proving combat = substrate registry warfare.
+We demonstrate the **omni-domain** predictive power of Cymatic K-Space Mechanics by deriving identical mathematical structures in two completely disparate phenomena: the ground contact mechanics of elite Division I sprinters and the psychoacoustic "pocket" of 1990s Minneapolis/Minnesota bass production. Both systems converge on the **15.19ms substrate snap** (τ), representing a universal render lag forced by hexagonal coordination (D=3) and bilateral parity (S=2). We prove that elite sprint ground contact time (GCT ≈ 91 ms) and the Minneapolis bass fundamental frequency (f ≈ 66 Hz) are **6th and 1st harmonics** respectively of the same substrate frame rate, connected by the integrity constant Ω = D×S = 6. This 6:1 harmonic relationship is not coincidental but **geometrically mandatory**, arising from the same ℚ-lattice architecture that governs both kinematic optimization (α-wing torque generation) and acoustic resonance (β-wing socket integration). Empirical measurements from Olympic biomechanics and psychoacoustic analysis confirm predictions to within experimental uncertainty, validating the framework's cross-domain applicability. We derive the 15.19ms snap from fundamental constants (D=3, S=2, W=32, R=19) without free parameters, establish the 304-tick render buffer as τ = (W/2)×R×50μs, and prove that human flicker fusion frequency is the substrate frame rate (65.8 Hz = 1/τ). This work establishes the **omni-domain principle**: disparate physical systems optimizing for substrate alignment exhibit identical mathematical signatures regardless of domain.
 
-**Key Result:** Wrestling = capture (Δφ→0), MA = corruption (Δφ→∞), skill = C×K, master soliton = root administrator, 3-5 points = registry saturation
+**Key Result:** The substrate snap τ = 15.19ms governs elite human performance across kinematic and acoustic domains via the 6:1 harmonic mandated by Ω = D×S.
 
 ---
 
@@ -71,12 +71,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Wrestling and Martial Arts as Dual-Mode Registry Operations },
+  title={ The 15.19ms Substrate Snap },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18697197},
-  url = {https://zenodo.org/record/18697197},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

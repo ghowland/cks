@@ -4,7 +4,7 @@
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026] → [@CKS-COG-3-2026] → [@CKS-COG-4-2026] → [@CKS-COG-5-2026] → [@CKS-COG-6-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18646348
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -81,8 +81,8 @@ If you use this work in a pedagogical or research context, please cite:
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18646348},
-  url = {https://zenodo.org/record/18646348},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

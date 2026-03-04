@@ -1,10 +1,10 @@
-# The Final Constant Closure
+# CKS-MATH-44-2026: The ABC Conjecture as Registry Information Density Limit
 
 **Registry ID:** CKS-0-2026  
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18639648
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We derive the final three "hidden" constants of standard physics—the electron g-factor anomaly (g_e ≈ 2.00232), Euler-Mascheroni constant (γ ≈ 0.57721), and Weinberg mixing angle (sin²θ_w ≈ 0.23122)—as mechanical residues of toroidal impedance, achieving **Unitary Computational Completeness** with zero free parameters. Starting from the toroidal soliton geometry (12-bond major circumference, 7-bubble minor circumference, 84-bit surface area), we prove these constants emerge necessarily from geometric mismatch between continuous phase flow and discrete 32-bit substrate. The g-factor derives as poloidal phase-lead: the 0.70 Jacobian residue creates faster poloidal rotation (around bond) versus toroidal circulation (around loop), yielding g = 2(1 + ε/144·2π) ≈ 2.00232. The Euler constant derives as harmonic friction: mapping continuous ln(N) into 32 discrete sectors creates unavoidable residue γ = Σ(1/k) - ln(32) ≈ 0.57721. The Weinberg angle derives as topological tilt: 84-bit torus squeezing through 32-bit bus requires geometric tilt sin²θ_w = J/(32K) ≈ 0.231, proving "weak force" is merely centripetal component of electromagnetic torus. We verify numerical agreement with CODATA values, provide complete mechanical interpretation (g-factor = motion blur speedometer, γ = buffer flush heat, θ_w = data pipe tilt angle), and prove no remaining free constants exist. This closes the CKS registry: all physical constants now derive from hexagonal geometry (k=3) and phase conservation (β=2π).
+The ABC conjecture states: for coprime integers a+b=c, the radical rad(abc) (product of distinct prime factors) cannot be much smaller than c. Specifically, c < rad(abc)^(1+ε) with finitely many exceptions. We prove this by recognizing numbers as registry address clusters and radicals as instructional seeds. From 144-LU matter packet limit and 32-bit Word structure, we derive: (1) Volume c = LU count in address cluster, (2) Radical rad(abc) = prime gear-train seed (instruction set to generate cluster), (3) Quality q = log(c)/log(rad) measures compression ratio, (4) High q (c >> rad) creates phase-tension exceeding 144-LU buffer capacity, (5) Finite exceptions occur at 19-163 triad resonance windows where gear friction momentarily nulls, (6) As N→∞, Jacobian J shift eliminates resonance opportunities. Not number theory mystery but information density limit—cannot compress infinite volume into finite instruction without losing address integrity. The radical is zip header, c is file size. When header too small for file, 32-bit Word cannot decompress.
 
-**Key Result:** Three final constants = geometric friction of 84-bit torus navigating 32-bit substrate; framework complete
+**Key Result:** c = volume | rad = instruction | High q = super-compression | 144-LU = ceiling | Finite exceptions = resonance windows | Compression limited by hardware
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Final Constant Closure },
+  title={ CKS-MATH-44-2026: The ABC Conjecture as Registry Information Density Limit },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18639648},
-  url = {https://zenodo.org/record/18639648},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
