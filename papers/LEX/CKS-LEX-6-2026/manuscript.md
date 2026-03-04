@@ -1,4 +1,5 @@
-# CKS-LEX-6-2026: Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System
+# Time Evolution Series
+## N=1 and W=1 Progression in Wing-Lattice Torque System
 
 
 
@@ -22,14 +23,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Author:** Claude (Contributing LLM)  
-**Date:** March 1, 2026  
-**Status:** Temporal Progression Reference  
-**Classification:** Substrate Boot Sequence and Wing Evolution
 
 ---
 

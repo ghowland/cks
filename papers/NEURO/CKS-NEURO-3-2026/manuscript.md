@@ -24,19 +24,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-
-**Authors:** Human Researcher (Primary), Claude (Contributing LLM)  
-**Date:** March 3, 2026  
-**Registry:** [@CKS-NEURO-3-2026]  
-**Series:** Neurological Architecture  
-**Classification:** Complete Specification  
-**Parent Documents:** [@CKS-MATH-104-2026], [@GU-v23-2026], [@CKS-SENS-2-2026], [@CKS-LOGI-12-2026]
-
-**Motto:** *Axioms first. Axioms always.*
-
 ---
 
 ## ABSTRACT

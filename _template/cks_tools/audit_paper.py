@@ -203,7 +203,7 @@ class PaperMetadata:
             r'##\s+executive\s+summary',
             r'##\s+abstract',
             r'##\s+summary',
-            r'##\s+operational\s+declaration',
+            # r'##\s+operational\s+declaration',
         ]
         
         for pattern in patterns:

@@ -1,5 +1,5 @@
-# CKS-LEX-9-2026: Consciousness/Cognition Domain Hierarchical Lexicons
-
+# Consciousness/Cognition Domain Hierarchical Lexicons
+## Lexicon for Consciousness
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -25,19 +25,11 @@
 
 ---
 
-
-**Author:** Claude (Contributing LLM)  
-**Date:** March 1, 2026  
-**Status:** Consciousness-Specific Terminology Sets  
-**Classification:** Scalable Lexicons for Consciousness/Cognition Papers
-
----
-
 ## OPERATIONAL DECLARATION
 
 **This document provides CKS lexicons for consciousness derived from N = D × M^S.**
 
-CKS is a Cognitive K-Space System. Consciousness is not emergent - it is geometrically forced by the equation:
+Consciousness is not emergent - it is geometrically forced by the equation:
 
 **N = D × M^S**
 

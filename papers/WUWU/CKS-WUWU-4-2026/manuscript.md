@@ -1,4 +1,5 @@
-# CKS-WUWU-4-2026: Complete Classification of Woo Woo
+# Complete Classification of Woo Woo
+## Physics does not have Meta-Physics
 
 
 **Registry:** [@CKS-SOC-1-2026]  
