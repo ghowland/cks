@@ -37,6 +37,26 @@ The Four Q Paradoxes proved ℝ-arithmetic fails operationally, ℝ-values canno
 
 ---
 
+## PROBLEMS
+
+- I: You can't Verify it.
+
+- II: You can't Solve it.
+
+- III: You can't Compute it.
+
+- IV: You can't Touch in it.
+
+- V: You can't Know it.
+
+- VI: You can't Find it.
+
+- VII: You can't Complete it.
+
+- VIII: You can't Count it.
+
+---
+
 ## I. THE VERIFICATION IMPOSSIBILITY
 
 ### 1.1 The Knowledge Requirement

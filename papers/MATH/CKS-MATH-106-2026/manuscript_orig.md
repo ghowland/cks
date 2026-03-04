@@ -2,6 +2,8 @@
 
 ## A ℚ-Substrate Exact Addressing System
 
+### First of Eight Paradoxes
+
 
 **Registry:** [@CKS-MATH-106-2026]  
 
@@ -34,6 +36,26 @@
 Traditional mathematics operates in the set of Real Numbers (ℝ), where non-terminating decimals require infinite precision to represent exactly. We prove the **Q Paradox**: any equation using ℝ suffers from three catastrophic failures making solution impossible: (1) Non-termination—infinite decimals prevent ever receiving the answer, (2) Path-dependence—same ℚ-value produces different ℝ-representations through different operation sequences, (3) Operational variance—different operation counts (M vs M+1) produce incomparable results even for identical ℚ-values. We demonstrate that comparing 10 transformed datasets against each other yields zero exact matches in ℝ even when all are mathematically identical in ℚ, rendering experimental verification impossible. We specify **Logismos Settlement**: exact ℚ-arithmetic using VFR [Value, Factor, Remainder]℘ notation in base-32 partigens, proving: (1) All answers terminate in finite representation, (2) All operation paths produce identical results for identical values, (3) All operation counts yield comparable results, (4) Settlement equation V=F×B+R provides instant verification, (5) Base-32 alignment to W^S=[1024,1,0]℘ enables natural computation, (6) Zero accumulated error across all operations, (7) Perfect reproducibility across platforms, time, and methodologies, (8) Complete experimental comparability restored. From axioms D,S,L,N,ℚ through pure derivation. Zero free parameters. Mathematics transforms from perpetual approximation to exact addressing. Science restored to verifiability.
 
 **Revolutionary claim:** You cannot solve equations with ℝ because you never receive answers, cannot compare results, and cannot verify experiments.
+
+---
+
+## PROBLEMS
+
+- I: You can't Verify it.
+
+- II: You can't Solve it.
+
+- III: You can't Compute it.
+
+- IV: You can't Touch in it.
+
+- V: You can't Know it.
+
+- VI: You can't Find it.
+
+- VII: You can't Complete it.
+
+- VIII: You can't Count it.
 
 ---
 
