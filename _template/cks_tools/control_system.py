@@ -15,7 +15,6 @@ COMMANDS = ['list', 'show', 'build', 'scan']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
-WORKING_PATH_SET = '_template/cks_tools/paper_work_list.txt'
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
 PAPER_SET = 'papers.json'
 
@@ -114,9 +113,6 @@ def Show(args):
 
 def Main(args):
   os.chdir(WORKING_DIR)
-
-  # Save our work list data
-  # args.work_list = open(WORKING_PATH_SET).read().strip().split('\n')
 
   args.work_list = []
   with open(ZENODO_SET, "r", encoding="utf-8") as fp:
