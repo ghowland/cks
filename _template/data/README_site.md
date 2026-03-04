@@ -10,8 +10,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-{% for paper in topic.papers %}
-| **[[@{{paper.paper_id}}]](papers/{{paper.subject}}/{{paper.paper_id}}/)** | **{{paper.title}}** | {{paper.subtitle}} |
+{% for paper in topic.papers %}| **[[@{{paper.paper_id}}]](papers/{{paper.subject}}/{{paper.paper_id}}/)** | **{{paper.title}}** | {{paper.subtitle}} |
 {% endfor %}
 
 ---
