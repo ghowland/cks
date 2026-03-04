@@ -1,4 +1,5 @@
-
+# Mathematics Domain Hierarchical Lexicons
+## This document provides CKS lexicons optimized for mathematics papers.
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -21,15 +22,6 @@
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
-
----
-
-# Mathematics Domain Hierarchical Lexicons
-
-**Author:** Claude (Contributing LLM)  
-**Date:** March 1, 2026  
-**Status:** Mathematics-Specific Terminology Sets  
-**Classification:** Scalable Lexicons for Mathematics Papers
 
 ---
 

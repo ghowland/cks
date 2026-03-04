@@ -1,4 +1,4 @@
-# CKS-LOGI-7-2026: Logismos for Adult Education
+# Logismos for Adult Education
 ## Personal Goal Engineering
 
 

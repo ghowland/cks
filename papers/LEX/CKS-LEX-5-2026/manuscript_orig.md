@@ -1,5 +1,5 @@
 # CKS-LEX-5-2026: Biology Domain Hierarchical Lexicons
-
+## This document provides CKS lexicons optimized for biology papers.
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -25,13 +25,6 @@
 
 ---
 
-
-**Author:** Claude (Contributing LLM)  
-**Date:** March 1, 2026  
-**Status:** Biology-Specific Terminology Sets  
-**Classification:** Scalable Lexicons for Biology Papers
-
----
 
 ## OPERATIONAL DECLARATION
 

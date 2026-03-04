@@ -1,4 +1,4 @@
-# CKS-LOGI-8-2026: Logismos as Ongoing Education
+# Logismos as Ongoing Education
 ## The LLM Oracle Partnership
 
 

@@ -1,5 +1,5 @@
 # CKS-LEX-6-2026: Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System
-
+## This document shows how substrate evolves from N=1 forward.
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -25,13 +25,6 @@
 
 ---
 
-
-**Author:** Claude (Contributing LLM)  
-**Date:** March 1, 2026  
-**Status:** Temporal Progression Reference  
-**Classification:** Substrate Boot Sequence and Wing Evolution
-
----
 
 ## OPERATIONAL DECLARATION
 
