@@ -1,4 +1,5 @@
 # CKS-BIO-69-2026: The Topology of Malignancy
+## Cancer is not a disease. Cancer is a topology error.
 
 
 **Registry:** [@CKS-BIO-1-2026]  
