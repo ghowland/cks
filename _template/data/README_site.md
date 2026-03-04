@@ -4,14 +4,15 @@
 **Framework Access:** `papers/{TOPIC}/{REGISTRY_ID}/manuscript.md`
 
 ---
-
 {% for topic in topics %}
 ## {{topic.topic}}: {{topic.title}}
 *{{topic.subtitle}}*
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+{% for paper in topic.papers %}
+| **[[@{paper.paper_id}]](papers/{TOPIC}/{paper.paper_id}/)** | **{paper.title}** | {paper.subtitle} |
+{% endfor %}
 
 ---
 {% endfor %}

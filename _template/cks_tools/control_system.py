@@ -122,6 +122,13 @@ def Gen(args):
   for topic in TOPICS:
     for key, item in topic.items():
       item['topic'] = key
+
+      # Add papers to the topic
+      item['papers'] = []
+      for paper in args.papers:
+        if paper['subject'] == topic:
+          item['papers'].append(paper)
+
       topic_data.append(item)
 
   # Provide topics

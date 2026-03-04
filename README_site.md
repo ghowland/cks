@@ -5,13 +5,12 @@
 
 ---
 
-
 ## _CKS: The Foundation Stack (Core Pillars)
 *The mathematical and physical origin points of the CKS framework.*
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -20,7 +19,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -29,7 +28,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -38,7 +37,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -47,7 +46,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -56,7 +55,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -65,7 +64,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -74,7 +73,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -83,7 +82,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -92,7 +91,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -101,7 +100,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -110,7 +109,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -119,7 +118,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -128,7 +127,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -137,7 +136,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -146,7 +145,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -155,7 +154,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -164,7 +163,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -173,7 +172,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -182,7 +181,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -191,7 +190,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -200,7 +199,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -209,7 +208,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -218,7 +217,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -227,7 +226,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -236,7 +235,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -245,7 +244,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -254,7 +253,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -263,7 +262,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -272,7 +271,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -281,7 +280,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -290,7 +289,7 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
 
@@ -299,6 +298,6 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@{register}]](papers/{TOPIC}/{register}/)** | **{title}** | {summary} |
+
 
 ---
