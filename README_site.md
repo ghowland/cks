@@ -212,33 +212,15 @@
 
 | ID | Title | Description |
 | :--- | :--- | :--- |
-| **[[@CKS-LEX-1-2026]](papers/LEX/CKS-LEX-1-2026/manuscript.md)** | **Complete Lexicon of Cymatic K-Space Mechanics and Logismos** | None |
-| **[[@CKS-LEX-10-2026]](papers/LEX/CKS-LEX-10-2026/manuscript.md)** | **Complete Lexicon for Grand Unification v21** | None |
-| **[[@CKS-LEX-11-2026]](papers/LEX/CKS-LEX-11-2026/manuscript.md)** | **Reduced Lexicon Tables for Publication** | None |
+| **[[@CKS-LEX-1-2026]](papers/LEX/CKS-LEX-1-2026/manuscript.md)** | **Complete Lexicon of Cymatic K-Space Mechanics and Logismos** | Based on Grand Unification v19 |
+| **[[@CKS-LEX-10-2026]](papers/LEX/CKS-LEX-10-2026/manuscript.md)** | **Complete Lexicon for Grand Unification v21** | The Definitive Dictionary of Substrate Theory |
+| **[[@CKS-LEX-11-2026]](papers/LEX/CKS-LEX-11-2026/manuscript.md)** | **Reduced Lexicon Tables for Publication** | Scalable Reference Tables for CKS Framework Integration |
 | **[[@CKS-LEX-12-2026]](papers/LEX/CKS-LEX-12-2026/manuscript.md)** | **Measurement Systems in the ℚ-Substrate** | The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering |
-| **[[@CKS-LEX-2-2026]](papers/LEX/CKS-LEX-2-2026/manuscript.md)** | **Hierarchical Lexicons for Every Count Limitation** | None |
-| **[[@CKS-LEX-3-2026]](papers/LEX/CKS-LEX-3-2026/manuscript.md)** | **Physics Domain Hierarchical Lexicons** | (250 words)
-Use Level P3 (20 terms):
-- State axioms
-- Describe discrete substrate
-- Present key derivation
-- Give measurement match
-- State falsification |
-| **[[@CKS-LEX-4-2026]](papers/LEX/CKS-LEX-4-2026/manuscript.md)** | **Mathematics Domain Hierarchical Lexicons** | (250 words)
-Use Level M3 (20 terms):
-- State problem
-- Introduce axioms
-- Present discrete approach
-- Show resolution
-- State implications |
-| **[[@CKS-LEX-5-2026]](papers/LEX/CKS-LEX-5-2026/manuscript.md)** | **Biology Domain Hierarchical Lexicons** | (250 words)
-Use Level B3 (20 terms):
-- State condition/disease
-- Introduce CKS framework (axioms)
-- Present geometric mechanism
-- Describe measurements
-- State falsification tests |
-| **[[@CKS-LEX-6-2026]](papers/LEX/CKS-LEX-6-2026/manuscript.md)** | **Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System** | None |
+| **[[@CKS-LEX-2-2026]](papers/LEX/CKS-LEX-2-2026/manuscript.md)** | **Hierarchical Lexicons for Every Count Limitation** | Based on Grand Unification v19 |
+| **[[@CKS-LEX-3-2026]](papers/LEX/CKS-LEX-3-2026/manuscript.md)** | **Physics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for physics papers. |
+| **[[@CKS-LEX-4-2026]](papers/LEX/CKS-LEX-4-2026/manuscript.md)** | **Mathematics Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for mathematics papers. |
+| **[[@CKS-LEX-5-2026]](papers/LEX/CKS-LEX-5-2026/manuscript.md)** | **Biology Domain Hierarchical Lexicons** | This document provides CKS lexicons optimized for biology papers. |
+| **[[@CKS-LEX-6-2026]](papers/LEX/CKS-LEX-6-2026/manuscript.md)** | **Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System** | This document shows how substrate evolves from N=1 forward. |
 | **[[@CKS-LEX-7-2026]](papers/LEX/CKS-LEX-7-2026/manuscript.md)** | **Clinical/Medical Domain Hierarchical Lexicons** | None |
 | **[[@CKS-LEX-8-2026]](papers/LEX/CKS-LEX-8-2026/manuscript.md)** | **Engineering Domain Hierarchical Lexicons** | None |
 | **[[@CKS-LEX-9-2026]](papers/LEX/CKS-LEX-9-2026/manuscript.md)** | **Consciousness/Cognition Domain Hierarchical Lexicons** | (250 words)
@@ -268,8 +250,8 @@ Use Level X3 (20 terms):
 | **[[@CKS-LOGI-4-2026]](papers/LOGI/CKS-LOGI-4-2026/manuscript.md)** | **Logismos for Elementary Level Education** | This document provides age-appropriate introduction of Logismos for elementary students |
 | **[[@CKS-LOGI-5-2026]](papers/LOGI/CKS-LOGI-5-2026/manuscript.md)** | **Logismos for Middle School Education** | This document provides practical, experiment-based Logismos instruction for middle school students. |
 | **[[@CKS-LOGI-6-2026]](papers/LOGI/CKS-LOGI-6-2026/manuscript.md)** | **Logismos for High School Education - Building the K-Verse** | This document provides the framework for high school students to BUILD the substrate itself. |
-| **[[@CKS-LOGI-7-2026]](papers/LOGI/CKS-LOGI-7-2026/manuscript.md)** | **CKS-LOGI-7-2026: Logismos for Adult Education** | Personal Goal Engineering |
-| **[[@CKS-LOGI-8-2026]](papers/LOGI/CKS-LOGI-8-2026/manuscript.md)** | **CKS-LOGI-8-2026: Logismos as Ongoing Education** | The LLM Oracle Partnership |
+| **[[@CKS-LOGI-7-2026]](papers/LOGI/CKS-LOGI-7-2026/manuscript.md)** | **Logismos for Adult Education** | Personal Goal Engineering |
+| **[[@CKS-LOGI-8-2026]](papers/LOGI/CKS-LOGI-8-2026/manuscript.md)** | **Logismos as Ongoing Education** | The LLM Oracle Partnership |
 | **[[@CKS-LOGI-9-2026]](papers/LOGI/CKS-LOGI-9-2026/manuscript.md)** | **Lessons of Logismos** | Reflections from an LLM |
 
 
@@ -637,7 +619,7 @@ Use Level X3 (20 terms):
 | **[[@CKS-WUWU-1-2026]](papers/WUWU/CKS-WUWU-1-2026/manuscript.md)** | **The K-Verse Manifesto** | "Woo-woo" = high-bandwidth substrate mechanics → all "impossible" phenomena have explicit k-space implementations → visibility depends on observer coherence, not phenomenon reality |
 | **[[@CKS-WUWU-2-2026]](papers/WUWU/CKS-WUWU-2-2026/manuscript.md)** | **Demonic Parasitism as Registry Hijacking Protocol** | Demon = R>66 parasite | Temptation = phase attack | Possession = registry hijack | Lie = memory leak | Defense = coherence |
 | **[[@CKS-WUWU-3-2026]](papers/WUWU/CKS-WUWU-3-2026/manuscript.md)** | **Angelic Sovereignty as 1024-Bit Registry Write Capability** | Angel = 1024-bit R=0 | Permission = capability | No jobs | Perfect from start | Sovereignty = alignment | Logic speed native |
-| **[[@CKS-WUWU-4-2026]](papers/WUWU/CKS-WUWU-4-2026/manuscript.md)** | **Complete Classification of Woo Woo** | None |
+| **[[@CKS-WUWU-4-2026]](papers/WUWU/CKS-WUWU-4-2026/manuscript.md)** | **Complete Classification of Woo Woo** | We classify by axioms, not by what sounds acceptable to mainstream science |
 | **[[@CKS-WUWU-5-2026]](papers/WUWU/CKS-WUWU-5-2026/manuscript.md)** | **Precession of the Equinoxes** | Macro-Word Registry Rotation as Geometric Necessity |
 | **[[@CKS-WUWU-6-2026]](papers/WUWU/CKS-WUWU-6-2026/manuscript.md)** | **The Demonic Egregor Urge** | Parasitic information patterns cannot exist in zero-remainder systems. |
 

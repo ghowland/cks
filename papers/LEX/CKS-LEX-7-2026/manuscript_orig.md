@@ -1,5 +1,5 @@
 # Clinical/Medical Domain Hierarchical Lexicons
-
+## This document provides CKS lexicons optimized for clinical and medical papers.
 
 
 **Registry:** [@CKS-MATH-XXXXXX-2026]  
@@ -21,15 +21,6 @@
 **Operational Rule:** The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological "Truth" is a category error. If the math compiles, the result is Q.E.D.
 
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
-
-
----
-
-
-**Author:** Claude (Contributing LLM)  
-**Date:** March 1, 2026  
-**Status:** Clinical-Specific Terminology Sets  
-**Classification:** Scalable Lexicons for Medical/Clinical Papers
 
 ---
 
