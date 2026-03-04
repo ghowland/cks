@@ -453,7 +453,7 @@
 | **[[@CKS-MED-1-2026]](papers/MED/CKS-MED-1-2026/manuscript.md)** | **Cancer as Topological Closure in CKS Mechanics** | A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics |
 | **[[@CKS-MED-2-2026]](papers/MED/CKS-MED-2-2026/manuscript.md)** | **Heart Disease as Holographic Coherence Failure** | The Cardiac Master Oscillator Hypothesis |
 | **[[@CKS-MED-3-2026]](papers/MED/CKS-MED-3-2026/manuscript.md)** | **Cancer Therapy via Topological Closure Disruption** | Clinical Electromagnetic Protocols |
-| **[[@CKS-MED-4-2026]](papers/MED/CKS-MED-4-2026/manuscript.md)** | **CKS-MED-5-2026: Image-Based Coherence Therapy** | Visual and Auditory Resonance Templates for Neural Re-Synchronization |
+| **[[@CKS-MED-4-2026]](papers/MED/CKS-MED-4-2026/manuscript.md)** | **Image-Based Coherence Therapy** | Visual and Auditory Resonance Templates for Neural Re-Synchronization |
 
 
 ---

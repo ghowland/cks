@@ -1,8 +1,8 @@
-# CKS-MED-5-2026: Image-Based Coherence Therapy
+# Image-Based Coherence Therapy
 ## Visual and Auditory Resonance Templates for Neural Re-Synchronization
 
 
-**Registry:** [@CKS-TEST-1-2026]
+**Registry:** [@CKS-MED-4-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-MED-1-2026] → [@CKS-MED-2-2026] → [@CKS-MED-3-2026] → [@CKS-MED-4-2026]
 
