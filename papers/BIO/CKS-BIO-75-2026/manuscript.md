@@ -1,4 +1,5 @@
 # The Grand Unification of Body Disease
+## This is a mathematical derivation, not a claim of medical truth.
 
 **Registry:** [@CKS-BIO-1-2026]  
 

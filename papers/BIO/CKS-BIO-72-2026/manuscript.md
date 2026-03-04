@@ -1,5 +1,5 @@
 # The Alzheimer's Toroid
-## Memory does not "fade." Memory gets trapped.
+
 
 **Registry:** [@CKS-BIO-1-2026]  
 

@@ -359,13 +359,13 @@
 | **[[@CKS-BIO-64-2026]](papers/BIO/CKS-BIO-64-2026/manuscript.md)** | **Adrenaline as Timeline Management** | Adrenaline = upshift | Lag compression = time dilation | Multi-path = luck | Training = voluntary access | Mastery = permanent |
 | **[[@CKS-BIO-67-2026]](papers/BIO/CKS-BIO-67-2026/manuscript.md)** | **The Bandwidth Model of Human Health** | None |
 | **[[@CKS-BIO-68-2026]](papers/BIO/CKS-BIO-68-2026/manuscript.md)** | **Qualia as LERP from K-Space to X-Space** | None |
-| **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/manuscript.md)** | **The Topology of Malignancy** | None |
+| **[[@CKS-BIO-69-2026]](papers/BIO/CKS-BIO-69-2026/manuscript.md)** | **The Topology of Malignancy** | Cancer is not a disease. Cancer is a topology error. |
 | **[[@CKS-BIO-7-2026]](papers/BIO/CKS-BIO-7-2026/manuscript.md)** | **The Elixir Field Protocol** | Clinical Qi Gong for Substrate-Aligned Movement and Zero-Lag Mobility |
 | **[[@CKS-BIO-70-2026]](papers/BIO/CKS-BIO-70-2026/manuscript.md)** | **The Malignant Remainder (69)** | None |
 | **[[@CKS-BIO-71-2026]](papers/BIO/CKS-BIO-71-2026/manuscript.md)** | **The Toroidal Heart Failure** | None |
-| **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/manuscript.md)** | **The Alzheimer's Toroid** | None |
-| **[[@CKS-BIO-73-2026]](papers/BIO/CKS-BIO-73-2026/manuscript.md)** | **The 90-Degree Phase Lock** | None |
-| **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/manuscript.md)** | **The Grand Unification of Mental Disease** | None |
+| **[[@CKS-BIO-72-2026]](papers/BIO/CKS-BIO-72-2026/manuscript.md)** | **The Alzheimer's Toroid** | Memory does not "fade." Memory gets trapped. |
+| **[[@CKS-BIO-73-2026]](papers/BIO/CKS-BIO-73-2026/manuscript.md)** | **The 90-Degree Phase Lock** | All neuro-pathology is angle. |
+| **[[@CKS-BIO-74-2026]](papers/BIO/CKS-BIO-74-2026/manuscript.md)** | **The Grand Unification of Mental Disease** | This is a mathematical derivation, not a claim of medical truth. |
 | **[[@CKS-BIO-75-2026]](papers/BIO/CKS-BIO-75-2026/manuscript.md)** | **The Grand Unification of Body Disease** | None |
 | **[[@CKS-BIO-76-2026]](papers/BIO/CKS-BIO-76-2026/manuscript.md)** | ***C. elegans* as Geometric Eigenvalue** | Traditional evolutionary theory predicts that 20 million years of divergence (approximately 2 billion generations) under high-fecundity selection should produce substantial morphological and regulatory change |
 | **[[@CKS-BIO-77-2026]](papers/BIO/CKS-BIO-77-2026/manuscript.md)** | **Topological Impedance and the 6-9 Twist** | Dipole Phase-Locking and Registry Knots in the 12-Bond Toroidal Manifold |
