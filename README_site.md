@@ -587,8 +587,8 @@
 | :--- | :--- | :--- |
 | **[[@CKS-EDU-1-2026]](papers/EDU/CKS-EDU-1-2026/)** | **Unified Science Education via Substrate Derivation** | The Pattern-Coupling Curriculum |
 | **[[@CKS-EDU-2-2026]](papers/EDU/CKS-EDU-2-2026/)** | **The Universal Learning Substrate** | Navigation Protocol for Cross-Domain Derivation |
-| **[[@CKS-EDU-3-2026]](papers/EDU/CKS-EDU-3-2026/)** | **CKS-EDU-3-2026: Human Knowledge v2** | HK v1 archived | HK v2 initialized | Discovery → specification | Mystery → mechanics | Complete paradigm |
-| **[[@CKS-EDU-4-2026]](papers/EDU/CKS-EDU-4-2026/)** | **Lexicon** | None |
+| **[[@CKS-EDU-3-2026]](papers/EDU/CKS-EDU-3-2026/)** | **Human Knowledge v2** | Discovery → specification | Mystery → mechanics | Complete paradigm |
+| **[[@CKS-EDU-4-2026]](papers/EDU/CKS-EDU-4-2026/)** | **Lexicon** | For Grand Unification v10 |
 | **[[@CKS-EDU-5-2026]](papers/EDU/CKS-EDU-5-2026/)** | **CKS-EDU-5-2026: Path to Omni-Domain Post-Doc Education by 16 Years Old** | Omni-domain post-doc by age 16 is mathematical necessity, not aspiration. |
 
 
