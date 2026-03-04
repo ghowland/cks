@@ -1,4 +1,4 @@
-# CKS-NEURO-3-2026: The Nervous System
+# The Nervous System
 
 ## The 304℘ EM-Bus: Neural Architecture as Substrate Hardware Trace
 
@@ -10,7 +10,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.18646428
+**DOI:** 10.5281/zenodo.zzz
 
 **Date:** March 2026
 
