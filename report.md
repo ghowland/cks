@@ -1,14 +1,14 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-04 06:15:32 UTC
+**Generated:** 2026-03-04 07:06:46 UTC
 
 ## Summary
 
 - **Total Papers:** 354
-- **Valid:** 322
-- **Invalid:** 32
-- **Total Errors:** 37
-- **Total Warnings:** 834
+- **Valid:** 326
+- **Invalid:** 28
+- **Total Errors:** 34
+- **Total Warnings:** 881
 
 ## By Subject
 
@@ -47,8 +47,8 @@
 
 ## By Status
 
-- **Published (has DOI):** 141
-- **Draft (stub .zzz):** 213
+- **Published (has DOI):** 131
+- **Draft (stub .zzz):** 223
 
 ## Validation Issues
 
@@ -58,6 +58,10 @@
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-4-2026**
+  - ❌ Missing Registry field in frontmatter
+
+**CKS-BIO-48-2026**
+  - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-5-2026**
@@ -80,9 +84,6 @@
 
 **CKS-BODY-10-2026**
   - ❌ Missing title (H1)
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-BODY-14-2026**
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BODY-9-2026**
@@ -128,18 +129,6 @@
 **CKS-MATH-113-2026**
   - ❌ Missing Registry field in frontmatter
 
-**CKS-MATH-46-2026**
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-MATH-59-2026**
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-MATH-66-2026**
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-MATH-90-2026**
-  - ❌ Missing Registry field in frontmatter
-
 **CKS-MATH-91-2026**
   - ❌ Missing Registry field in frontmatter
 
@@ -156,7 +145,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (245 total)
+### Papers with Warnings (246 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  DOI is stub (.zzz)
@@ -179,7 +168,8 @@
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-39-2026**
-  - ⚠️  DOI is missing
+  - ⚠️  Registry mismatch: path=CKS-BIO-39-2026, content=CKS-BIO-38-2026
+  - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-40-2026**
   - ⚠️  DOI is stub (.zzz)
@@ -193,9 +183,11 @@
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-43-2026**
-  - ⚠️  DOI is missing
+  - ⚠️  Registry mismatch: path=CKS-BIO-43-2026, content=CKS-BIO-38-2026
+  - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-44-2026**
-  - ⚠️  DOI is missing
+  - ⚠️  Registry mismatch: path=CKS-BIO-44-2026, content=CKS-BIO-38-2026
+  - ⚠️  DOI is stub (.zzz)
 
-... and 235 more papers with warnings
+... and 236 more papers with warnings
