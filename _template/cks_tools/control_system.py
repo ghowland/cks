@@ -185,8 +185,17 @@ def Cleanup(args):
           end_line = line.split(':', 1)[1].strip()
           lines[count] = f'# {end_line}'
         
+        # Registry
         if line.startswith('**Registry:**'):
           lines[count] = f'**Registry:** [@{item["paper_id"]}]'
+        
+        # Series Path
+        if line.startswith('**Series Path:**'):
+          topic = item["paper_id"].split('-')[1]
+        
+        # DOI
+        if line.startswith('**DOI:**'):
+          topic = item["paper_id"].split('-')[1]
 
       # Write the file out again
       output = '\n'.join(lines)
