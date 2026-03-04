@@ -19,6 +19,9 @@ WORKING_PATH_SET = '_template/cks_tools/paper_work_list.txt'
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
 PAPER_SET = 'papers.json'
 
+GEN_PDF = './_template/_old/gen_pdf.sh'
+GEN_BIBS = './_template/_old/create_bibs.py'
+
 
 def execute_command(command, shell=True):
     """
@@ -66,7 +69,7 @@ def Build(args):
   for item in args.papers:
     if item['doi']['is_stub']:
       directory = os.path.dirname(item['file_path'])
-      cmd = f'./_template/_old/gen_pdf.sh {directory}' 
+      cmd = f'{GEN_PDF} {directory}' 
       print(cmd)
 
       (status, output, error) = execute_command(cmd)
