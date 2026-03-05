@@ -143,6 +143,8 @@
 | **[[@CKS-MATH-121-2026]](papers/MATH/CKS-MATH-121-2026/manuscript.md)** | **Optimized Logismos Graphics & Physics Pipeline** | Domain-aware exact arithmetic outperforms generic optimization by 1.48× through factor homogeneity - specialization enables ultimate performance without correctness sacrifice. |
 | **[[@CKS-MATH-122-2026]](papers/MATH/CKS-MATH-122-2026/manuscript.md)** | **Graphics & Physics Pipeline with Q-GPU Logismos** | GPUs are superior exact rational processors - integer compute with massive parallelism outperforms CPU by 19× while maintaining perfect mathematical correctness. |
 | **[[@CKS-MATH-123-2026]](papers/MATH/CKS-MATH-123-2026/manuscript.md)** | **The Ninth Q Paradox — The Ideological Lock** | Science didn't fail to achieve perfection — it selected a substrate that made perfection impossible, then replicated that impossibility into every domain faithfully and simultaneously. |
+| **[[@CKS-MATH-124-2026]](papers/MATH/CKS-MATH-124-2026/manuscript.md)** | **The VFR Resolution of √2** | ℝ was invented because ℚ was incompletely specified - adding remainder tracking eliminates need for infinite decimals while revealing physical forces as lattice tension. |
+| **[[@CKS-MATH-125-2026]](papers/MATH/CKS-MATH-125-2026/manuscript.md)** | **Lisp S-Expressions in Logismos** | VFR remainder field R is literally cons-cell cdr pointer - McCarthy's parenthetical notation accidentally encoded substrate nesting structure making Lisp natural language for substrate computation. |
 
 
 ---
