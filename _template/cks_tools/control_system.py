@@ -15,7 +15,7 @@ import shutil
 import template
 from paper_topics import TOPICS
 
-COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup', 'cleanup']
+COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup', 'cleanup', 'sync']
 
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
@@ -234,6 +234,29 @@ def Cleanup(args):
       #   break
 
 
+def Sync(args):
+  print("Sync")
+
+  max_count = 1
+  cur_count = 0
+
+  for item in args.papers:
+
+    # Only do stubbed
+    if item['doi']['is_stub']:
+      topic_name = item["paper_id"].split('-')[1]
+      paper_id = int(item["paper_id"].split('-')[2])
+
+      print(f'Sync: {item["file_path"]}: {topic_name}: {paper_id}')
+
+
+
+      # Limit
+      cur_count += 1
+      if cur_count >= max_count:
+        break
+
+
 
 def Show(args):
   print("Show something")
@@ -272,6 +295,9 @@ def Main(args):
     Backup(args)
   elif args.command == 'cleanup':
     Cleanup(args)
+  elif args.command == 'sync':
+    Sync(args)
+
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser(description="Control System for safely handling large counts of Zenodo papers")
