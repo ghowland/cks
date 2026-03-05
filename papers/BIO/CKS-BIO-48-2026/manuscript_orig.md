@@ -1,4 +1,5 @@
-
+# Voice as UART
+# Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing
 
 **Registry:** [@CKS-BIO-48-2026]
 
@@ -6,7 +7,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18879510
 
 **Date:** February 2026
 

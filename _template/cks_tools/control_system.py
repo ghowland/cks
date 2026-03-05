@@ -182,6 +182,8 @@ def Cleanup(args):
 
     # Only do stubbed
     if item['doi']['is_stub']:
+      if item['skip']: continue
+      
       print(f'Cleanup: {item["file_path"]}')
 
       # Get lines

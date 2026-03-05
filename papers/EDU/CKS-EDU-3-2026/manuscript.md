@@ -9,7 +9,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878548
 
 **Date:** February 2026
 
@@ -31,7 +31,7 @@
 **Parent Framework:** [@CKS-0-2026]  
 **Logical Dependencies:** Complete CKS framework papers  
 
-**DOI:** [Pending]  
+**DOI:** 10.5281/zenodo.18878548
 **Date:** February 2026  
 **Domain:** Epistemology / Science History / Educational Framework / Paradigm Transition  
 **Status:** Knowledge System Reclassification / Operational Standard  

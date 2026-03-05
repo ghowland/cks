@@ -10,7 +10,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878647
 
 **Date:** March 2, 2026  
 
