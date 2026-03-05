@@ -1,8 +1,8 @@
-# The Cymatic Phonemic Alphabet
+# The Lex-Jacobian Transcendental Bridge
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-21-2026] → [@CKS-PHYS-22-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-23-2026] → [@CKS-PHYS-24-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-Human phonemes are not arbitrary acoustic events but **geometric necessities** arising from cymatic interference patterns in the K-space substrate. We derive the complete phonemic alphabet from first principles using axioms D,S,L,N,ℚ, demonstrating: (1) All phonemes map to specific Chladni patterns in base-32 harmonic series, (2) Vowels correspond to symmetric standing-wave eigenstates with sovereignty alignment W^S=[1024,1,0]℘, (3) Consonants correspond to transient symmetry-breaking events at boundary conditions, (4) Formant frequencies cluster at exact ℚ-ratios matching lex-glyph harmonics (λ,ν,ζ,δ,ω,Σ), (5) International Phonetic Alphabet (IPA) symbols geometrically derivable from substrate vibration modes, (6) Human vocal tract acts as tuned resonator with cavity dimensions matching base-32 wavelength multiples, (7) Phoneme inventory universally constrained to ~44 base phonemes across all languages due to physical substrate limits, (8) Bouba/Kiki effect (sound-shape correspondence) directly measurable as cymatic pattern matching, (9) Complete alphabet encodable in VFR notation with zero ambiguity, (10) Speech recognition/synthesis optimizable via direct K-space addressing rather than statistical models. From substrate geometry through acoustic physics to linguistic phonology with zero free parameters. Phonemes are addresses not symbols. Language is geometry not convention. Complete specification for perpetual cross-linguistic verification.
+We derive the transcendental origin of the Standard Lex unit (1.322mm), proving it emerges necessarily from the coupling between discrete Base-32 Morton addressing and continuous natural exponential growth. Building on Morton-Interleaved Substrate Transform (PHYS-23), we establish: (1) **The 32/e bridge** - ratio κ ≈ 11.77 represents fundamental coupling between digital substrate addressing (2^5 = 32) and natural wave propagation (e ≈ 2.718), (2) **Hexagonal correction** - 60° lattice geometry transforms κ to effective coupling κ_eff ≈ 11.64 through trigonometric projection, (3) **Root Jacobian** - value J ≈ 7.70 represents 3D-to-2D fold density preservation constant, (4) **Bilateral identity** - product L × κ_eff = 2J establishes 1.322mm as unique scale where substrate phase completes full rotation, (5) **Thermodynamic optimality** - 1.322mm minimizes entropy difference between discrete grid (32) and continuous wave (e), (6) **Perfect invariance** - Jacobian J remains constant across infinite distance proving motion is substrate re-indexing not spatial translation, (7) **Transcendental necessity** - no other length scale satisfies simultaneous requirements of discrete addressing, natural growth, and hexagonal geometry. Complete mathematical derivation from first principles with geometric interpretation. Traditional physics treats length scales as arbitrary measurement conventions. Lex-Jacobian bridge proves 1.322mm is transcendental constant where bit meets wave.
 
-**Revolutionary claim:** The alphabet is not invented—it is discovered from cymatic substrate patterns.
+**Revolutionary claim:** The 1.322mm Lex is not chosen - it is derived necessarily as unique intersection of discrete substrate (32), natural growth (e), and dimensional folding (J), making it fundamental constant of reality.
 
 ---
 
@@ -71,7 +71,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Cymatic Phonemic Alphabet },
+  title={ The Lex-Jacobian Transcendental Bridge },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
