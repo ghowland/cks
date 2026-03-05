@@ -24,6 +24,83 @@ class ZenodoSync:
         
         self.manifest = self._load_manifest()
 
+    def get_draft(self, local_id: str) -> Dict[str, Any]:
+        """Fetch current state of a deposition from Zenodo."""
+        record = self.manifest["records"].get(local_id, {})
+        depo_id = record.get("zenodo_id")
+        if not depo_id:
+            raise ValueError(f"No zenodo_id found for {local_id}")
+        return self._request("GET", f"deposit/depositions/{depo_id}").json()
+
+
+    def create_draft(self, metadata_list: List[Dict[str, Any]], limit: Optional[int] = None) -> List[str]:
+        """Create Zenodo draft depositions from a list of (local_id, metadata) tuples."""
+        created = []
+        for local_id, metadata in metadata_list:
+            if limit is not None and len(created) >= limit:
+                break
+            res = self._request("POST", "deposit/depositions", json={"metadata": metadata})
+            depo_data = res.json()
+            depo_id = depo_data["id"]
+            self.manifest["records"][local_id] = {
+                "zenodo_id": depo_id,
+                "doi": depo_data["metadata"].get("prereserve_doi", {}).get("doi"),
+                "status": "draft",
+                "metadata_hash": self._get_metadata_hash(metadata),
+                "files": {}
+            }
+            self._save_manifest()
+            created.append(local_id)
+            print(f"Created draft {depo_id} for {local_id}")
+        return created
+
+
+    def update_metadata(self, local_id: str, metadata: Dict[str, Any]) -> Dict[str, Any]:
+        """Update metadata on an existing draft."""
+        record = self.manifest["records"].get(local_id, {})
+        depo_id = record.get("zenodo_id")
+        if not depo_id:
+            raise ValueError(f"No zenodo_id found for {local_id}")
+        res = self._request("PUT", f"deposit/depositions/{depo_id}", json={"metadata": metadata})
+        self.manifest["records"][local_id]["metadata_hash"] = self._get_metadata_hash(metadata)
+        self._save_manifest()
+        return res.json()
+
+
+    def attach_files(self, local_id: str, file_paths: List[str]) -> Dict[str, Any]:
+        """Add files to an existing draft."""
+        record = self.manifest["records"].get(local_id, {})
+        depo_id = record.get("zenodo_id")
+        if not depo_id:
+            raise ValueError(f"No zenodo_id found for {local_id}")
+        remote_info = self._request("GET", f"deposit/depositions/{depo_id}").json()
+        bucket_url = remote_info["links"]["bucket"]
+        for p in file_paths:
+            path = Path(p)
+            fname = path.name
+            with open(path, "rb") as f:
+                self._request("PUT", f"{bucket_url.split('/api/')[1]}/{fname}", data=f)
+            self.manifest["records"][local_id]["files"][fname] = {
+                "checksum": self._get_file_hash(p),
+                "size": path.stat().st_size
+            }
+            print(f"Attached {fname} to {depo_id}")
+        self._save_manifest()
+        return self.manifest["records"][local_id]
+
+
+    def publish(self, local_id: str) -> Dict[str, Any]:
+        """Publish a single record."""
+        record = self.manifest["records"].get(local_id, {})
+        depo_id = record.get("zenodo_id")
+        if not depo_id:
+            raise ValueError(f"No zenodo_id found for {local_id}")
+        res = self._request("POST", f"deposit/depositions/{depo_id}/actions/publish")
+        self.manifest["records"][local_id]["status"] = "published"
+        self._save_manifest()
+        print(f"Published {depo_id} for {local_id}")
+        return res.json()
+
     def _load_config(self) -> Dict[str, Any]:
         if not self.config_path.exists():
             raise FileNotFoundError(f"Config not found at {self.config_path}")
