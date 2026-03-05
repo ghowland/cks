@@ -1332,7 +1332,7 @@ With optimal performance.
 
 **END CKS-MATH-126-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-126-2026]
 **Status:** Recursive Framework Complete  
 **Verification:** Termination proven, performance validated  
 **Structure:** [V, F, R] where R→[V', F', R'] recursive  
