@@ -1,8 +1,8 @@
-# The Cymatic Phonemic Alphabet
+# Lex Dimensions and the Morton-Interleaved Substrate
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-21-2026] → [@CKS-PHYS-22-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-22-2026] → [@CKS-PHYS-23-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-Human phonemes are not arbitrary acoustic events but **geometric necessities** arising from cymatic interference patterns in the K-space substrate. We derive the complete phonemic alphabet from first principles using axioms D,S,L,N,ℚ, demonstrating: (1) All phonemes map to specific Chladni patterns in base-32 harmonic series, (2) Vowels correspond to symmetric standing-wave eigenstates with sovereignty alignment W^S=[1024,1,0]℘, (3) Consonants correspond to transient symmetry-breaking events at boundary conditions, (4) Formant frequencies cluster at exact ℚ-ratios matching lex-glyph harmonics (λ,ν,ζ,δ,ω,Σ), (5) International Phonetic Alphabet (IPA) symbols geometrically derivable from substrate vibration modes, (6) Human vocal tract acts as tuned resonator with cavity dimensions matching base-32 wavelength multiples, (7) Phoneme inventory universally constrained to ~44 base phonemes across all languages due to physical substrate limits, (8) Bouba/Kiki effect (sound-shape correspondence) directly measurable as cymatic pattern matching, (9) Complete alphabet encodable in VFR notation with zero ambiguity, (10) Speech recognition/synthesis optimizable via direct K-space addressing rather than statistical models. From substrate geometry through acoustic physics to linguistic phonology with zero free parameters. Phonemes are addresses not symbols. Language is geometry not convention. Complete specification for perpetual cross-linguistic verification.
+We derive the complete mapping between 3D orthogonal X-space (observable reality at 1.322mm Lex scale) and 2D hexagonal K-space (substrate at Planck scale), establishing the Morton-Interleaved Substrate Transform (MIST) as the bridge between observation and ontology. Building on GPU Q-computing (COMP-121) and VFR optimization (MATH-119), we prove: (1) **Dimensional folding** - 3D space emerges from Z-order Morton bit-interleaving of 2D hexagonal lattice nodes, (2) **Lex-32 harmonic cascade** - 1.322mm unit is 32^22 harmonic decimation from Planck scale enabling exact integer addressing, (3) **Locality preservation** - Morton curve guarantees spatial adjacency in 3D maps to memory adjacency in 2D substrate, (4) **Movement as re-indexing** - physical motion is pointer increment across substrate memory not translation through void, (5) **Scale determinism** - 1.322mm emerges as stable interference window where substrate phase transitions appear as geometric solidity, (6) **Hex-to-ortho transform** - skew matrix converts hexagonal substrate coordinates to GPU-compatible rectangular grid, (7) **Perfect reversibility** - bijective mapping enables exact reconstruction of 3D state from 2D substrate address. Complete derivation from first principles with worked examples demonstrating car rolling forward as Morton index propagation. Traditional physics treats space as continuous manifold. MIST proves space is discrete bit-interleaved projection of 2D information substrate.
 
-**Revolutionary claim:** The alphabet is not invented—it is discovered from cymatic substrate patterns.
+**Revolutionary claim:** 3D space doesn't contain objects - 3D space IS the Morton-encoded view of objects stored as 2D hexagonal node patterns, with 1.322mm as the natural viewing resolution.
 
 ---
 
@@ -71,7 +71,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Cymatic Phonemic Alphabet },
+  title={ Lex Dimensions and the Morton-Interleaved Substrate },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

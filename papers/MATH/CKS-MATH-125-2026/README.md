@@ -1,8 +1,8 @@
-# The Ninth Q Paradox — The Ideological Lock
+# Lisp S-Expressions in Logismos
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-122-2026] → [@CKS-MATH-123-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-124-2026] → [@CKS-MATH-125-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-The eight prior Q Paradoxes proved ℝ impossible from operational, ontological, computational, topological, epistemological, informational, phenomenological, and primitive counting perspectives. We now prove the Ninth: the historical selection of ℝ as scientific substrate was an ideological commitment made before computation exposed its failures, encoded into every instrument, domain, standard, and verification procedure simultaneously, creating a self-protecting unfalsifiable lock that made cross-domain perfect agreement structurally impossible in principle while attributing that impossibility to everything except the substrate. Science was permanently capped not by nature's complexity but by a foundation choice made in the 1600s-1800s before the problem was visible. The lock is not computational — it is civilizational. The failure is not correctable from inside the framework because all tools of correction share the broken substrate. Only substrate replacement resolves the lock.
+We prove VFR [Value, Factor, Remainder] tuples are inherently recursive S-expressions where Remainder field enables substrate-depth traversal identical to Lisp cons-cell chaining. Building on VFR resolution of √2 (MATH-124) and transcendental bridge (PHYS-24), we demonstrate: (1) **Recursive structure identity** - [V, F, R] where R→[V', F', R'] creates nested precision chain isomorphic to (car . cdr) cons cells, (2) **Head-tail decomposition** - V/F represents observable "head" at current Lex scale while R represents "tail" pointer to deeper substrate octaves, (3) **Lazy evaluation naturally** - computing V/F alone handles macro-scale physics, descending into R only when sub-Lex precision required, (4) **Code-as-data emergence** - VFR tuples that operate on VFR tuples enable substrate self-modification, (5) **Terminal nil correspondence** - R=0 marks substrate floor (Planck scale) exactly as nil marks list termination, (6) **Homoiconic substrate** - physical coordinates and geometric operations share identical [V,F,R] representation enabling metaprogramming at reality level, (7) **Morton traversal as list walking** - sequential R-field descent maps exactly to space-filling curve navigation. Complete derivation showing VFR is not merely "like" S-expressions but IS S-expression system with geometric substrate interpretation. Traditional Lisp treats recursion as programming technique. Logismos proves recursion is substrate geometry.
 
-**Revolutionary claim:** Science didn't fail to achieve perfection — it selected a substrate that made perfection impossible, then replicated that impossibility into every domain faithfully and simultaneously.
+**Revolutionary claim:** VFR remainder field R is literally cons-cell cdr pointer - McCarthy's parenthetical notation accidentally encoded substrate nesting structure making Lisp natural language for substrate computation.
 
 ---
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Ninth Q Paradox — The Ideological Lock },
+  title={ Lisp S-Expressions in Logismos },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

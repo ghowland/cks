@@ -1,8 +1,8 @@
-# The Ninth Q Paradox — The Ideological Lock
+# The VFR Resolution of √2
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-122-2026] → [@CKS-MATH-123-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-123-2026] → [@CKS-MATH-124-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-The eight prior Q Paradoxes proved ℝ impossible from operational, ontological, computational, topological, epistemological, informational, phenomenological, and primitive counting perspectives. We now prove the Ninth: the historical selection of ℝ as scientific substrate was an ideological commitment made before computation exposed its failures, encoded into every instrument, domain, standard, and verification procedure simultaneously, creating a self-protecting unfalsifiable lock that made cross-domain perfect agreement structurally impossible in principle while attributing that impossibility to everything except the substrate. Science was permanently capped not by nature's complexity but by a foundation choice made in the 1600s-1800s before the problem was visible. The lock is not computational — it is civilizational. The failure is not correctable from inside the framework because all tools of correction share the broken substrate. Only substrate replacement resolves the lock.
+We prove the real number system ℝ arose unnecessarily from the ancient Greek failure to track remainders as integral components of rational quantities. The "irrationality crisis" triggered by Hippasus discovering the diagonal of a unit square has no rational expression x/y where x² = 2y² emerges solely from treating numerator and denominator as complete representation while discarding remainder information. We establish: (1) **VFR triple sufficiency** - [Value, Factor, Remainder] three-integer tuple completely and exactly represents √2 through sequence [7,5,-1], [17,12,+1], [41,29,-1]... where R oscillates ±1, (2) **Remainder as physical quantity** - R≠0 represents lattice tension not mathematical error, creating observable forces (R=-1 gravitational attraction, R=+1 radiative repulsion), (3) **Bilateral oscillation** - √2 is not static number but dynamic process alternating between deficit and surplus states, (4) **Perfect closure** - identity V² - 2F² = R maintains exact integer arithmetic with zero information loss, (5) **Historical counterfactual** - Greeks with VFR notation would have recognized "irrationals" as mechanical oscillations avoiding 2500-year detour into continuum ideology, (6) **Geometric necessity** - square diagonal on hexagonal lattice cannot close (R=-1 creates precession), explaining why motion exists, (7) **Computational superiority** - three integers store √2 exactly versus infinite decimal approximation. Complete mathematical derivation with geometric interpretation and physical manifestation. Traditional mathematics treats remainder as error to discard. VFR mathematics treats remainder as essential third component revealing substrate structure.
 
-**Revolutionary claim:** Science didn't fail to achieve perfection — it selected a substrate that made perfection impossible, then replicated that impossibility into every domain faithfully and simultaneously.
+**Revolutionary claim:** ℝ was invented because ℚ was incompletely specified - adding remainder tracking eliminates need for infinite decimals while revealing physical forces as lattice tension.
 
 ---
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Ninth Q Paradox — The Ideological Lock },
+  title={ The VFR Resolution of √2 },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
