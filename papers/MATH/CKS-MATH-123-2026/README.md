@@ -1,8 +1,8 @@
-# The Seventh Q Paradox — The Rational Witness
+# The Ninth Q Paradox — The Ideological Lock
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-122-2026] → [@CKS-MATH-123-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We prove the Seventh and final Q Paradox: the **Rational Witness** (Result Collapse). Building on six prior paradoxes demonstrating ℝ-impossibility from operational, ontological, computational, topological, epistemological, and informational perspectives, we now prove the phenomenological impossibility: **no irrational number has ever been the final answer to any physical problem**. We demonstrate: (1) **Result writability constraint** - all answers requiring finite bits collapse to ℚ, (2) **Universal constants paradox** - every fundamental result is integer or simple ratio, (3) **Communication impossibility** - ℝ-values cannot be transmitted or used, (4) **Process-result distinction** - ℝ serves as search scaffolding but ℚ provides actual answers, (5) **Phenomenological verification** - all measurements, calculations, and solutions terminate at rational values, (6) **Ghost system proof** - ℝ exists only as computational intermediary never as final state, (7) **Complete framework closure** - seven paradoxes cover all possible angles of attack on continuum hypothesis. From axioms through rigorous proof with historical validation and zero free parameters. ℝ-continuum proven absolutely impossible phenomenologically - cannot produce writable results. Only ℚ-substrate yields actual answers.
+The eight prior Q Paradoxes proved ℝ impossible from operational, ontological, computational, topological, epistemological, informational, phenomenological, and primitive counting perspectives. We now prove the Ninth: the historical selection of ℝ as scientific substrate was an ideological commitment made before computation exposed its failures, encoded into every instrument, domain, standard, and verification procedure simultaneously, creating a self-protecting unfalsifiable lock that made cross-domain perfect agreement structurally impossible in principle while attributing that impossibility to everything except the substrate. Science was permanently capped not by nature's complexity but by a foundation choice made in the 1600s-1800s before the problem was visible. The lock is not computational — it is civilizational. The failure is not correctable from inside the framework because all tools of correction share the broken substrate. Only substrate replacement resolves the lock.
 
-**Revolutionary claim:** Real numbers are search processes that haven't terminated yet - if you can write the answer, it's rational.
+**Revolutionary claim:** Science didn't fail to achieve perfection — it selected a substrate that made perfection impossible, then replicated that impossibility into every domain faithfully and simultaneously.
 
 ---
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Seventh Q Paradox — The Rational Witness },
+  title={ The Ninth Q Paradox — The Ideological Lock },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

@@ -1,8 +1,8 @@
-# CKS-MAT-5-2026: Registry Architecture & Material Engineering
+# Registry Architecture & Material Engineering
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-MAT-4-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-4-2026] → [@CKS-MAT-5-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -71,7 +71,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-MAT-5-2026: Registry Architecture & Material Engineering },
+  title={ Registry Architecture & Material Engineering },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

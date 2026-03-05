@@ -104,6 +104,10 @@ def Scan(args):
       (status, output, error) = execute_command(cmd)
       print(f'  Result: {status}  Output: {output[:40]}')
 
+      # Gen README
+      (status, output, error) = execute_command(README)
+      print(f'  Result: {status}  Output: {output[:40]}')
+
       # Gen the readme
       if status == 0:
         (status, output, error) = execute_command(README)

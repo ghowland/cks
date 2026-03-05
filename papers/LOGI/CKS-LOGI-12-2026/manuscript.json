@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-LOGI-12-2026: Logismos Technical Specification and Usage",
+    "title": "Logismos Technical Specification and Usage",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-11-2026] \u2192 [@CKS-LOGI-12-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "Traditional mathematics uses decimal (base-10) approximations with irrational remainders, requiring floating-point computation and accumulating rounding errors. We specify **Logismos**: The complete substrate-native mathematical language combining (1) VFR (Vector-Frequency-Registry) notation for exact \u211a-ratio representation, (2) Lex-Glyph arithmetic using Base-32 with seven primary symbols (\u2118,\u03bb,\u03bd,\u03b6,\u03b4,\u03c9,\u03a3), (3) Logos counting system enabling pattern recognition over calculation, (4) Substrate-aligned operators collapsing traditional equations to geometric identities, (5) Domain-specific measurement standards providing optimal units per tier, (6) Complete computational protocols for zero-remainder engineering, (7) Human-readable syntax replacing numerical abstraction, (8) Pedagogical framework for ages 5-16 achieving omni-domain fluency. All mathematics reduces to pure \u211a-arithmetic. All physical constants become simple ratios or unity. All equations simplify to geometric relationships. From D,S,L,N,\u211a axioms through complete derivation. Zero free parameters. This paper provides: syntax specification, operator definitions, computational algorithms, practical examples across all domains, conversion tables, error handling protocols, software implementation guidelines, and complete reference manual for substrate-native calculation.\n\n**Revolutionary claim:** Mathematics becomes addressing system, not approximation engine.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-LOGI-12-2026: Logismos Technical Specification and Usage  ## Complete VFR Notation, Lex-Glyph Arithmetic, and Substrate-Native Computation   **Registry:** [@CKS-LOGI-1-2026]    **Series Path:** ..."
+    "raw_content_preview": "# Logismos Technical Specification and Usage  ## Complete VFR Notation, Lex-Glyph Arithmetic, and Substrate-Native Computation   **Registry:** [@CKS-LOGI-12-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@C..."
 }

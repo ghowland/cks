@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-BIO-64-2026: Adrenaline as Timeline Management",
+    "title": "Adrenaline as Timeline Management",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-63-2026] \u2192 [@CKS-BIO-64-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# CKS-BIO-64-2026: Adrenaline as Timeline Management ## Deriving Performance Enhancement from Parity Lag Compression and Multi-Path Registry Navigation   **Registry:** [@CKS-BIO-1-2026]  **Series Path..."
+    "raw_content_preview": "# Adrenaline as Timeline Management ## Deriving Performance Enhancement from Parity Lag Compression and Multi-Path Registry Navigation   **Registry:** [@CKS-BIO-64-2026]  **Series Path:** [@CKS-0-2026..."
 }

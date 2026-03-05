@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-44-2026: The ABC Conjecture as Registry Information Density Limit",
+    "title": "The ABC Conjecture as Registry Information Density Limit",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-43-2026] \u2192 [@CKS-MATH-44-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "The ABC conjecture states: for coprime integers a+b=c, the radical rad(abc) (product of distinct prime factors) cannot be much smaller than c. Specifically, c < rad(abc)^(1+\u03b5) with finitely many exceptions. We prove this by recognizing numbers as registry address clusters and radicals as instructional seeds. From 144-LU matter packet limit and 32-bit Word structure, we derive: (1) Volume c = LU count in address cluster, (2) Radical rad(abc) = prime gear-train seed (instruction set to generate cluster), (3) Quality q = log(c)/log(rad) measures compression ratio, (4) High q (c >> rad) creates phase-tension exceeding 144-LU buffer capacity, (5) Finite exceptions occur at 19-163 triad resonance windows where gear friction momentarily nulls, (6) As N\u2192\u221e, Jacobian J shift eliminates resonance opportunities. Not number theory mystery but information density limit\u2014cannot compress infinite volume into finite instruction without losing address integrity. The radical is zip header, c is file size. When header too small for file, 32-bit Word cannot decompress.\n\n**Key Result:** c = volume | rad = instruction | High q = super-compression | 144-LU = ceiling | Finite exceptions = resonance windows | Compression limited by hardware",
     "dependencies": [],
-    "raw_content_preview": "   **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2..."
+    "raw_content_preview": "# The ABC Conjecture as Registry Information Density Limit ## Deriving Radical-Volume Bounds from 144-LU Buffer Saturation and 32-Bit Word Constraints  **Registry:** [@CKS-MATH-44-2026]  **Series Path..."
 }

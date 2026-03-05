@@ -1,8 +1,8 @@
-# CKS-DWDM-6-2026: Laminar Interference Logic
+# Laminar Interference Logic
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026] → [@CKS-DWDM-5-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-5-2026] → [@CKS-DWDM-6-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -32,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-BIO-18-2026]
+**Prerequisites:** None (foundation paper)
 
 ---
 
@@ -71,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-DWDM-6-2026: Laminar Interference Logic },
+  title={ Laminar Interference Logic },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
   doi = {10.5281/zenodo.zzz},
   url = {https://zenodo.org/record/zzz},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026] }
+  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
 ---

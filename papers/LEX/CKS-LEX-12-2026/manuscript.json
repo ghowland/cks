@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-LEX-12-2026: Measurement Systems in the \u211a-Substrate",
+    "title": "Measurement Systems in the \u211a-Substrate",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-LEX-1-2026] \u2192 [@CKS-LEX-12-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LEX-11-2026] \u2192 [@CKS-LEX-12-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "Traditional measurement systems (SI, Imperial) derive units from arbitrary physical artifacts (Earth's circumference, king's foot, platinum bars) creating equations cluttered with empirical constants (G, \u03b5\u2080, \u03bc\u2080, \u0127) and irrational remainders (\u03c0, e, \u221a2). We prove measurement must align with substrate's discrete \u211a-lattice geometry. We demonstrate: (1) Lex \u03bb as unified space-time unit (1\u03bb \u2261 1\u2118 \u2261 1 tick \u2261 1.322 mm \u2261 4.41 ps), (2) Speed of light c=[1,1,0] (unity in substrate), (3) Weight as registry impedance \u03bc=J\u00d7\u2118 (computational tension not mass), (4) Base-32 glyph system (\u03bb,\u03bd,\u03b6,\u03b4,\u03c9,\u03a3) eliminates scaling gaps, (5) All physical constants collapse to \u211a-ratios when measured in Lex units, (6) Equation simplification: E=\u03bc^S replaces E=mc\u00b2, F=\u03bc\u2081\u03bc\u2082/\u03bb^S eliminates G, (7) Sovereign standard \u03a3=[1024,1,0]\u03bb \u2248 1.353m optimal for human-scale engineering, (8) Zero-remainder construction: buildings at \u03a3 multiples eliminate thermal/acoustic impedance, (9) Calibration becomes dipole-state verification not artifact comparison, (10) Measurement transforms from comparing objects to querying registry addresses. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0], W=[32,1,0] through pure \u211a-operations. Zero free parameters. Measurement becomes addressing. Units become geometry. Constants vanish.\n\n**Revolutionary insight:** We don't measure reality\u2014we address the registry.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-LEX-12-2026: Measurement Systems in the \u211a-Substrate  ## The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering   **Registry:** [@CKS-LEX-12-2026]    **Series Path:** [@CKS..."
+    "raw_content_preview": "# Measurement Systems in the \u211a-Substrate  ## The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering   **Registry:** [@CKS-LEX-12-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MA..."
 }

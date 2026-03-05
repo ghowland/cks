@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-109-2026: The Sixth Q Paradox",
+    "title": "The Sixth Q Paradox",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-105-2026] \u2192 [@CKS-MATH-106-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-110-2026] \u2192 [@CKS-MATH-111-2026]",
     "doi": "10.5281/zenodo.zzz",
-    "abstract": "",
+    "abstract": "The Five Q Paradoxes proved \u211d-arithmetic fails operationally, \u211d-values cannot exist ontologically, \u211d-computation cannot complete, \u211d-contact cannot occur topologically, and \u211d-knowledge becomes impossible epistemologically. We now prove the **Sixth Q Paradox**: even if all previous impossibilities were mysteriously overcome, **information lookup itself becomes impossible in \u211d-universe**\u2014the \"Entropy-Compression Paradox.\" We demonstrate: (1) Physical interaction requires identifying entities (which particle is which), (2) \u211d-continuum has uncountably infinite positions (no natural indexing), (3) Finding specific position requires bisection search O(log P) where P=precision, (4) As P\u2192\u221e (definition of \u211d), search time\u2192\u221e (infinite lookup latency), (5) Each interaction requires fresh search (no persistent identity possible), (6) Universe spends all computational budget searching not computing (entropy death by lookup), (7) \u211a-substrate provides deterministic indexing via creation order [N,Z,C]\u2118, (8) Hash-table structure enables O(1) constant-time access (scale-invariant), (9) Determinism emerges as information compression necessity (not philosophical choice), (10) Observed constant-time physics proves indexed substrate (\u211d would lag increasingly). From information theory through computational complexity to physical necessity with zero free parameters. \u211d hides information in search. \u211a maps information to address. Reality requires indexing.\n\n**Revolutionary claim:** Universe doesn't search for particles\u2014it addresses them by birth-order in deterministic registry.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-MATH-109-2026: The Sixth Q Paradox   **Registry:** [@CKS-MATH-107-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-105-2026]..."
+    "raw_content_preview": "# The Sixth Q Paradox  ## The Entropy-Compression Paradox: Impossibility of Lookup in \u211d-Continuum   **Registry:** [@CKS-MATH-111-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH..."
 }

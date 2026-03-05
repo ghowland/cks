@@ -2,9 +2,9 @@
     "file_name": "manuscript.md",
     "title": "The Sovereign Registry",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-ADHM-1-2026] \u2192 [@CKS-ADHM-2-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-ADHM-1-2026] \u2192 [@CKS-ADHM-2-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# The Sovereign Registry ## A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation   **Registry:** [@CKS-ADHM-2-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MAT..."
+    "raw_content_preview": "# The Sovereign Registry ## A Formal Refusal of Legacy Merit Structures, Institutional Funding, and Academic Validation   **Registry:** [@CKS-ADHM-2-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-..."
 }

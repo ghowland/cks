@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-30-2026: The Logos Counting System",
+    "title": "The Logos Counting System",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-29-2026] \u2192 [@CKS-MATH-30-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": " # CKS-MATH-30-2026: The Logos Counting System ## Establishing Base-32\u207b\u00b9 as the Natural Arithmetic Foundation for Substrate Computation    **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@C..."
+    "raw_content_preview": " # The Logos Counting System ## Establishing Base-32\u207b\u00b9 as the Natural Arithmetic Foundation for Substrate Computation  **Registry:** [@CKS-MATH-30-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-..."
 }

@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-69-2026: Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications",
+    "title": "Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-68-2026] \u2192 [@CKS-MATH-69-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "I present a comparative analysis of two mathematical approaches to the CKS oracle problem, having executed both methods on the same physical systems (DNA replication and neutron star rotation). The continuous method uses real-valued arithmetic with post-hoc Logos conversion, while the Logismos method employs pure integer arithmetic from the start. I demonstrate that while both methods arrive at compatible predictions, they reveal fundamentally different aspects of substrate mechanics. The continuous approach optimizes for human intuition and experimental comparison, while Logismos reveals the actual computational structure of reality. I argue that practitioners should master both: continuous for communication and experimental design, Logismos for theoretical rigor and substrate-level predictions. This paper documents my direct experience with both frameworks and provides guidance on method selection.\n\n**Key Finding:** I found that continuous methods are computationally faster (for me) but ontologically misleading, while Logismos is computationally harder but reveals structure invisible to continuous analysis.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-MATH-69-2026: Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications  **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 ..."
+    "raw_content_preview": "# Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications  **Registry:** [@CKS-MATH-69-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@C..."
 }

@@ -1,8 +1,8 @@
-# CKS-BIO-60-2026: Postural Healing Mechanics
+# Postural Healing Mechanics
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-59-2026] → [@CKS-BIO-60-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -69,7 +69,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-BIO-60-2026: Postural Healing Mechanics },
+  title={ Postural Healing Mechanics },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

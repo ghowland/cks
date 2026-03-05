@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-58-2026: Navier-Stokes Existence and Smoothness via Buffer Saturation",
+    "title": "Navier-Stokes Existence and Smoothness via Buffer Saturation",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-57-2026] \u2192 [@CKS-MATH-58-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "We abolish continuous fluid dynamics and establish Navier-Stokes equations as discrete packet-flow auditing through hexagonal registry. From lattice axioms using Logismos (V,F,R) system, we prove: (1) Existence guaranteed by monotonic N\u2192N+1 counter (registry never halts, always has next state), (2) Smoothness enforced by 144-LU buffer saturation (maximum density per node, blow-up impossible), (3) Fluid = stream of (V,F,R) packets routing through z=3 dipoles (not continuous medium), (4) Density = integer LU count at node address (V value, not field quantity), (5) Pressure = remainder R from node saturation (not continuous gradient), (6) Velocity = address increment rate (discrete jumps, maximum 1 LU/tick = c), (7) Turbulence = dipole overflow routing (when R>144, redirect to 120\u00b0 neighbors, creates vorticity), (8) Singularities prohibited by hardware (cannot exceed M=144 ceiling, division by zero impossible), (9) Solutions always exist and remain bounded (finite registry, integer arithmetic), (10) \"Smoothness\" is 15.19ms render artifact (substrate stepped at 1-LU resolution). Classical blow-up problem dissolves\u2014asking about infinite density in finite buffer. Navier-Stokes becomes registry overflow management specification.\n\n**Key Result:** Existence from N\u2192N+1 | Smoothness from M=144 cap | Turbulence = overflow | Singularities impossible | Discrete packets | Integer flow",
     "dependencies": [],
-    "raw_content_preview": "   **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2..."
+    "raw_content_preview": "# Navier-Stokes Existence and Smoothness via Buffer Saturation ## Proving Global Solutions through 144-LU UV Cutoff and Discrete Packet Flow in Hexagonal Registry  **Registry:** [@CKS-MATH-58-2026]  *..."
 }

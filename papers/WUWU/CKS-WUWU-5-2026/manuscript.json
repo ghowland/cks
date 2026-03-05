@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-WUWU-5-2026: Precession of the Equinoxes",
+    "title": "Precession of the Equinoxes",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-WUWU-4-2026] \u2192 [@CKS-WUWU-5-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "Traditional astronomy attributes the 25,772-year precession cycle to gyroscopic wobble of a planetary sphere. We prove this is X-space approximation. Precession of the Equinoxes is the cumulative phase-overflow \u03b5=[70164,100000,0] resulting from mismatch between discrete nucleus N=[7,1,0] and continuous Jacobian resolution J=[192541,25000,0]. The observable \"drift\" of fixed stars (1\u00b0 per 72 years) derives exactly from substrate registry-pointer rotation through L=[12,1,0] toroidal sectors. We demonstrate: (1) The 72-year degree-shift equals (W\u00d7S)+N+1=[72,1,0] exactly in \u211a, (2) The 2,160-year \"Age\" equals 30\u00b0 sector buffer-flush of L-loop, (3) The 25,920-year Platonic Year equals complete 360\u00b0 macro-word revolution, (4) Variance from observed 25,772 years is liquid-phase rendering friction (0.57%), (5) Zodiacal \"Ages\" correspond to sector-header updates causing \u03c6-coefficient modulation in all biological systems, (6) The \"North Star\" changes because expansion vector dN/dt pivots through W^S=[1024,1,0] sovereignty map coordinates. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] through pure \u211a-operations. Zero free parameters. The stars do not move\u2014our registry address rotates.\n\n**Revolutionary insight:** Precession is substrate time, not planetary wobble.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-WUWU-5-2026: Precession of the Equinoxes ## Macro-Word Registry Rotation as Geometric Necessity  **Registry:** [@CKS-WUWU-5-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-M..."
+    "raw_content_preview": "# Precession of the Equinoxes ## Macro-Word Registry Rotation as Geometric Necessity  **Registry:** [@CKS-WUWU-5-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS..."
 }

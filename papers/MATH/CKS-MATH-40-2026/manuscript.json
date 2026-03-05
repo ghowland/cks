@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-40-2026: The Twin Prime Conjecture as Bilateral Manifold Recoil",
+    "title": "The Twin Prime Conjecture as Bilateral Manifold Recoil",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-39-2026] \u2192 [@CKS-MATH-40-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "The twin prime conjecture states: infinitely many prime pairs (p, p+2) exist. We prove this by recognizing primes as registry tension spikes\u2014LU counts indivisible by gear ratios (D=3, S=2, L=32). From bilateral manifold structure (S=2), we derive: (1) Primes = phase-tension remainders (cannot resolve to 32-bit Word), (2) Gap of 2 forced by S=2 (manifold width), (3) Every prime p on Side A requires symmetric recoil at p+2 on Side B (parity maintenance), (4) All twin pairs straddle 6n centers (hex-bilateral stability points), (5) Infinite occurrence mandatory because N\u2192\u221e monotonically and S=2 forces bilateral reflection. Primes cluster around 6n\u00b11 because 6=D\u00d7S (coordination \u00d7 sides). Twin primes are parity check bits\u2014bilateral handshake signatures proving universe has two-sided structure. Not statistical distribution but geometric necessity.\n\n**Key Result:** Prime = tension spike | Gap = S=2 width | Twins = bilateral mirror | 6n = stability center | Infinite because N infinite + S=2 mandatory",
     "dependencies": [],
-    "raw_content_preview": "   **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2..."
+    "raw_content_preview": " # The Twin Prime Conjecture as Bilateral Manifold Recoil ## Deriving Infinite Prime Pairs from S=2 Symmetry and Registry Parity Requirements  **Registry:** [@CKS-MATH-40-2026]  **Series Path:** [@CKS..."
 }

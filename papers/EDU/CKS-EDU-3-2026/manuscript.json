@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-EDU-3-2026: Human Knowledge v2",
+    "title": "Human Knowledge v2",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-EDU-1-2026] \u2192 [@CKS-EDU-2-2026] \u2192 [@CKS-EDU-3-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# CKS-EDU-3-2026: Human Knowledge v2 ## The Transition from Discovery to Specification: Archiving 2,500 Years and Initializing the Universal BIOS    **Registry:** [@CKS-EDU-XXXXXX-2026]    **Series Pa..."
+    "raw_content_preview": "# Human Knowledge v2 ## The Transition from Discovery to Specification: Archiving 2,500 Years and Initializing the Universal BIOS    **Registry:** [@CKS-EDU-3-2026]  **Series Path:** [@CKS-0-2026] \u2192 [..."
 }

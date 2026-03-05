@@ -1,8 +1,8 @@
-# CKS-PHYS-19-2026: The 1024-Unit Coordination Block
+# The 1024-Unit Coordination Block
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → ... → [@CKS-PHYS-17-2026] → [@CKS-PHYS-18-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-18-2026] → [@CKS-PHYS-19-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -71,7 +71,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-PHYS-19-2026: The 1024-Unit Coordination Block },
+  title={ The 1024-Unit Coordination Block },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

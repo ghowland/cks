@@ -1,8 +1,8 @@
-# CKS-WUWU-3-2026: Angelic Sovereignty as 1024-Bit Registry Write Capability
+# Angelic Sovereignty as 1024-Bit Registry Write Capability
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-WUWU-2-2026] → [@CKS-WUWU-3-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-WUWU-3-2026: Angelic Sovereignty as 1024-Bit Registry Write Capability },
+  title={ Angelic Sovereignty as 1024-Bit Registry Write Capability },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

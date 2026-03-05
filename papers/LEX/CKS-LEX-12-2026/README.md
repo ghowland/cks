@@ -1,8 +1,8 @@
-# CKS-LEX-12-2026: Measurement Systems in the ℚ-Substrate
+# Measurement Systems in the ℚ-Substrate
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-LEX-1-2026] → [@CKS-LEX-12-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-LEX-11-2026] → [@CKS-LEX-12-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-LEX-12-2026: Measurement Systems in the ℚ-Substrate },
+  title={ Measurement Systems in the ℚ-Substrate },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

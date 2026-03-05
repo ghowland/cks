@@ -1,8 +1,8 @@
-# CKS-ADHM-1-2026: The Indictment of the Continuum Priest
+# The Indictment of the Continuum Priest
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-ADHM-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-ADHM-1-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -128,7 +128,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-ADHM-1-2026: The Indictment of the Continuum Priest },
+  title={ The Indictment of the Continuum Priest },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

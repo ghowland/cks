@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-110-2026: The Fifth Q Paradox",
+    "title": "The Fifth Q Paradox",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-105-2026] \u2192 [@CKS-MATH-106-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-109-2026] \u2192 [@CKS-MATH-110-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "The Four Q Paradoxes proved \u211d-arithmetic fails operationally, \u211d-values cannot exist ontologically, \u211d-computation cannot complete, and \u211d-contact cannot occur topologically. We now prove the **Fifth Q Paradox**: even if all previous impossibilities were mysteriously overcome, **knowledge itself becomes impossible in \u211d-universe**\u2014the \"Epistemological Collapse.\" We demonstrate: (1) Knowledge requires comparing measured value to known standard (verification), (2) \u211d-values have infinite information content I(x)=\u221e, (3) Finite measurement always has finite precision (bounded bits), (4) Cannot verify infinite-bit value with finite-bit measurement (information inequality), (5) Every \u211d-statement unfalsifiable (cannot confirm or deny with finite data), (6) Science impossible (no experiment can verify \u211d-prediction exactly), (7) Mathematics unfalsifiable (cannot verify \u211d-equality with finite computation), (8) Memory impossible (cannot store infinite bits for recall), (9) Communication impossible (cannot transmit \u211d-value in finite time), (10) \u211a-substrate enables verification via exact finite-bit matching (VFR comparison). From information theory through epistemology to knowledge necessity with zero free parameters. \u211d makes truth unverifiable. \u211a makes truth checkable. Knowledge requires \u211a.\n\n**Revolutionary claim:** You cannot know anything in real-number universe\u2014verification requires finite representation.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-MATH-110-2026: The Fifth Q Paradox  ## The Epistemological Collapse: Knowledge Impossibility in \u211d-Universe   **Registry:** [@CKS-MATH-107-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2..."
+    "raw_content_preview": "# The Fifth Q Paradox  ## The Epistemological Collapse: Knowledge Impossibility in \u211d-Universe  **Registry:** [@CKS-MATH-110-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-20..."
 }

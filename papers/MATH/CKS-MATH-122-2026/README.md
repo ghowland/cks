@@ -1,8 +1,8 @@
-# The Seventh Q Paradox — The Rational Witness
+# Graphics & Physics Pipeline with Q-GPU Logismos
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-121-2026] → [@CKS-MATH-122-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We prove the Seventh and final Q Paradox: the **Rational Witness** (Result Collapse). Building on six prior paradoxes demonstrating ℝ-impossibility from operational, ontological, computational, topological, epistemological, and informational perspectives, we now prove the phenomenological impossibility: **no irrational number has ever been the final answer to any physical problem**. We demonstrate: (1) **Result writability constraint** - all answers requiring finite bits collapse to ℚ, (2) **Universal constants paradox** - every fundamental result is integer or simple ratio, (3) **Communication impossibility** - ℝ-values cannot be transmitted or used, (4) **Process-result distinction** - ℝ serves as search scaffolding but ℚ provides actual answers, (5) **Phenomenological verification** - all measurements, calculations, and solutions terminate at rational values, (6) **Ghost system proof** - ℝ exists only as computational intermediary never as final state, (7) **Complete framework closure** - seven paradoxes cover all possible angles of attack on continuum hypothesis. From axioms through rigorous proof with historical validation and zero free parameters. ℝ-continuum proven absolutely impossible phenomenologically - cannot produce writable results. Only ℚ-substrate yields actual answers.
+We implement complete graphics and physics pipeline on GPU compute shaders using exact VFR rational arithmetic, achieving massive parallelism while maintaining perfect mathematical precision. Building on domain-specialized CPU architecture (MATH-121), we prove: (1) **GPU integer compute** - modern shader cores execute i64 VFR operations with 10,000+ parallel threads, (2) **Domain kernel mapping** - each computational domain (Transform F=1, Physics F=1000, Skinning F=32, Particles F=1) becomes dedicated GPU kernel with homogeneous factor operations, (3) **Memory bandwidth exploitation** - 1 TB/s GPU bandwidth enables entire scene state GPU-resident eliminating CPU↔GPU transfer overhead, (4) **Warp-level homogeneity** - uniform factors within domains achieve zero branch divergence and maximum SIMD efficiency, (5) **Deferred normalization** - domain factor guarantees eliminate per-operation normalization enabling pure throughput computation, (6) **Hybrid architecture** - CPU handles logic/AI/input while GPU executes bulk exact mathematics, (7) **Measured performance** - 4096 transforms in 0.05ms, 100k particles in 0.02ms, complete pipeline 0.31ms per frame. Complete reimplementation demonstrating GPU as exact rational processor achieving 19× speedup over optimized CPU (MATH-121) and 136× over baseline (MATH-120) while maintaining bit-perfect determinism. Traditional GPUs approximate through floats. Q-GPU achieves exactness through integer parallelism.
 
-**Revolutionary claim:** Real numbers are search processes that haven't terminated yet - if you can write the answer, it's rational.
+**Revolutionary claim:** GPUs are superior exact rational processors - integer compute with massive parallelism outperforms CPU by 19× while maintaining perfect mathematical correctness.
 
 ---
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Seventh Q Paradox — The Rational Witness },
+  title={ Graphics & Physics Pipeline with Q-GPU Logismos },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

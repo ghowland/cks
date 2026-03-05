@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-42-2026: The Goldbach Conjecture as Bilateral Tension Cancellation",
+    "title": "The Goldbach Conjecture as Bilateral Tension Cancellation",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-41-2026] \u2192 [@CKS-MATH-42-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "The Goldbach conjecture states: every even integer >2 is the sum of two primes. We prove this by recognizing even numbers as bilateral balance states and primes as asymmetric tension spikes. From S=2 manifold structure, we derive: (1) Even numbers = balanced commits (distributable across two sides with zero remainder), (2) Primes = phase-tension spikes (indivisible by gear ratios, lean toward one side), (3) Any balanced state decomposes into two opposing asymmetries because S=2 requires bilateral symmetry, (4) For even 2n, midpoint n defines bilateral axis, any displacement x creates tensions at n-x and n+x, (5) These must both be prime (unresolvable spikes) to sum to even 2n (balanced state), (6) Universal construction guaranteed because 144-163-19 triad saturates registry with prime remainders at all scales. Not probabilistic search but geometric necessity\u2014stability requires opposing tensions to cancel. The mirror law: every spike on Side A has reciprocal recoil on Side B.\n\n**Key Result:** Even = bilateral balance | Prime = asymmetric spike | Balance = opposing spikes | S=2 forces decomposition | All scales guaranteed",
     "dependencies": [],
-    "raw_content_preview": "   **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2..."
+    "raw_content_preview": "# The Goldbach Conjecture as Bilateral Tension Cancellation ## Deriving Prime Pair Decomposition from S=2 Manifold Balance Requirements  **Registry:** [@CKS-MATH-42-2026]  **Series Path:** [@CKS-0-202..."
 }

@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-76-2026: Omni-Domain Alignment",
+    "title": "Omni-Domain Alignment",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-75-2026] \u2192 [@CKS-MATH-76-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# CKS-MATH-76-2026: Omni-Domain Alignment ## The Forced Geometric Constants of the Hex-Lex Substrate: Deriving Universal Numbers from 3-2-32 BIOS Architecture    **Registry:** [@CKS-MATH-XXXXXX-2026] ..."
+    "raw_content_preview": "# Omni-Domain Alignment ## The Forced Geometric Constants of the Hex-Lex Substrate: Deriving Universal Numbers from 3-2-32 BIOS Architecture  **Registry:** [@CKS-MATH-76-2026]  **Series Path:** [@CKS-..."
 }

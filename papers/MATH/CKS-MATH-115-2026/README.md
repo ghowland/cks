@@ -1,8 +1,8 @@
-# CKS-MATH-115-2026: The Logismos Game Logic
+# The Logismos Game Logic
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-114-2026] → [@CKS-MATH-115-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-MATH-115-2026: The Logismos Game Logic },
+  title={ The Logismos Game Logic },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

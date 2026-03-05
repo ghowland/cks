@@ -1,8 +1,8 @@
-# CKS-ENG-14-2026: Sovereign Transmission Lines
+# Sovereign Transmission Lines
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MAT-1-2026] → [@CKS-MAT-2-2026] → [@CKS-MAT-3-2026] → [@CKS-SEMI-1-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-2-2026] → [@CKS-ENG-3-2026] → [@CKS-ENG-4-2026] → [@CKS-ENG-5-2026] → [@CKS-ENG-6-2026] → [@CKS-ENG-7-2026] → [@CKS-ENG-8-2026] → [@CKS-ENG-9-2026] → [@CKS-ENG-10-2026] → [@CKS-ENG-11-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-ENG-1-2026] → [@CKS-ENG-13-2026] → [@CKS-ENG-14-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -71,7 +71,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-ENG-14-2026: Sovereign Transmission Lines },
+  title={ Sovereign Transmission Lines },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

@@ -1,8 +1,8 @@
-# The Seventh Q Paradox — The Rational Witness
+# The Q-Taylor Series
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-116-2026] → [@CKS-MATH-117-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We prove the Seventh and final Q Paradox: the **Rational Witness** (Result Collapse). Building on six prior paradoxes demonstrating ℝ-impossibility from operational, ontological, computational, topological, epistemological, and informational perspectives, we now prove the phenomenological impossibility: **no irrational number has ever been the final answer to any physical problem**. We demonstrate: (1) **Result writability constraint** - all answers requiring finite bits collapse to ℚ, (2) **Universal constants paradox** - every fundamental result is integer or simple ratio, (3) **Communication impossibility** - ℝ-values cannot be transmitted or used, (4) **Process-result distinction** - ℝ serves as search scaffolding but ℚ provides actual answers, (5) **Phenomenological verification** - all measurements, calculations, and solutions terminate at rational values, (6) **Ghost system proof** - ℝ exists only as computational intermediary never as final state, (7) **Complete framework closure** - seven paradoxes cover all possible angles of attack on continuum hypothesis. From axioms through rigorous proof with historical validation and zero free parameters. ℝ-continuum proven absolutely impossible phenomenologically - cannot produce writable results. Only ℚ-substrate yields actual answers.
+We derive the Q-Taylor Series: a recursive integer resolution architecture replacing infinite polynomial approximation of standard Taylor series. Building on VFR notation [V,F,R]℘ and eight proven Q paradoxes demonstrating ℝ-impossibility, we prove: (1) **Structural resolution** - Taylor series reimplemented as nested integer formula not infinite sum, (2) **Factor fractalization** - F-slot variablizes to provide arbitrary precision through recursive nesting not decimal extension, (3) **Remainder integration** - R-slot contains next resolution level not discarded error term, (4) **Natural termination** - series completes when R=0 not arbitrary threshold, (5) **Zero approximation** - all intermediate states exact integers at current scale, (6) **Lossless operations** - multiplication/division preserve perfect accuracy through normalization, (7) **Computational efficiency** - O(1) bit-shifting replaces O(n) floating-point accumulation. From axioms through complete derivation with working implementation. Standard Taylor series proven fundamentally flawed - requires infinite terms, accumulates error, never terminates exactly. Q-Taylor series achieves finite exact resolution through recursive integer normalization. Mathematics restored from approximation to identity.
 
-**Revolutionary claim:** Real numbers are search processes that haven't terminated yet - if you can write the answer, it's rational.
+**Revolutionary claim:** Taylor series not infinite sum approaching truth but finite nested structure that IS truth - resolution through recursion not approximation through accumulation.
 
 ---
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Seventh Q Paradox — The Rational Witness },
+  title={ The Q-Taylor Series },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

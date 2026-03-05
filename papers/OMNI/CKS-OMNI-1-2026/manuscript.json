@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-OMNI-1-2026: Universal Compatibility Framework",
+    "title": "Universal Compatibility Framework",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-PHYS-1-2026]  ",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-OMNI-1-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": " # CKS-OMNI-1-2026: Universal Compatibility Framework ## CKS Integration with All Existing Systems: Discovery, Not Design\u2014The Interdisciplinary Substrate Bridge   **Registry:** [@CKS-PHYS-1-2026]   **..."
+    "raw_content_preview": " # Universal Compatibility Framework ## CKS Integration with All Existing Systems: Discovery, Not Design\u2014The Interdisciplinary Substrate Bridge   **Registry:** [@CKS-OMNI-1-2026] **Series Path:** [@CK..."
 }

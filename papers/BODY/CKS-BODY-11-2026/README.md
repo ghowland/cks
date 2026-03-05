@@ -1,8 +1,8 @@
-# CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling
+# Hydraulic Posture Calibration via Gravitational-Laminar Coupling
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-2-2026] → [@CKS-BODY-3-2026] → [@CKS-BODY-4-2026] → [@CKS-BODY-5-2026] → [@CKS-BODY-6-2026] → [@CKS-BODY-7-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-BODY-1-2026] → [@CKS-BODY-10-2026] → [@CKS-BODY-11-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -69,7 +69,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-BODY-11-2026: Hydraulic Posture Calibration via Gravitational-Laminar Coupling },
+  title={ Hydraulic Posture Calibration via Gravitational-Laminar Coupling },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

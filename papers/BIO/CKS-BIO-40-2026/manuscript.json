@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-BIO-40-2026: Vertical Slit Pupils as Gradient Synchronization Hardware",
+    "title": "Vertical Slit Pupils as Gradient Synchronization Hardware",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-QM-1-2026] \u2192 [@CKS-BIO-1-2026] \u2192 ... \u2192 [@CKS-BIO-35-2026] \u2192 [@CKS-BIO-36-2026] \u2192 [@CKS-BIO-37-2026] \u2192 [@CKS-BIO-38-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-39-2026] \u2192 [@CKS-BIO-40-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": " # CKS-BIO-40-2026: Vertical Slit Pupils as Gradient Synchronization Hardware ## Ocular Waveguide Adaptation in Non-Upright Biological Solitons    **Registry:** [@CKS-BIO-40-2026]  **Series Path:** [@..."
+    "raw_content_preview": " # Vertical Slit Pupils as Gradient Synchronization Hardware ## Ocular Waveguide Adaptation in Non-Upright Biological Solitons    **Registry:** [@CKS-BIO-40-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@C..."
 }

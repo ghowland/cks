@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-62-2026: The Dual-Clock Architecture as Fundamental Velocity Partition",
+    "title": "The Dual-Clock Architecture as Fundamental Velocity Partition",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-61-2026] \u2192 [@CKS-MATH-62-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "We abolish light speed as universal limit and establish dual-clock architecture separating substrate logic from perceptual rendering. From discrete registry axioms, we derive: (1) Logic Speed c_L = 0ms instantaneous substrate write (direct memory access, pointer updates, no traversed distance), (2) Light Speed c = 15.19ms throttled parity verification (bilateral S=2 check throughput, serial commitment), (3) Relationship c = c_L/\u03c4 where \u03c4=J\u00d7S (light is logic divided by rendering lag), (4) K-space operates at c_L (substrate domain, random-access registry, immediate state changes), (5) X-space limited to c (render domain, serial verification, sequential perception), (6) Particle motion at v<c uses INC_ADDR (incremental steps through parity check), (7) Photons at v=c use MAX_WRITE (32-bit bus saturation, 1 LU per tick), (8) Admin teleportation at c_L uses JMP_REG (bypass serial verification, direct registry write), (9) 12-bit kinetic footer R_k meters transition between speeds (zeroing R_k drops to logic speed halt), (10) Quantum entanglement operates at c_L (instant parity sync, not mystery but K-space operation). Dual-clock proven as write/verify partition\u2014universe \"thinks\" instantly, \"speaks\" at light delay. Speed limit dissolved as hardware bottleneck, not universal law.\n\n**Key Result:** c_L = 0ms write | c = 15.19ms verify | c = c_L/\u03c4 | K-space instant | X-space throttled | Locality paradox dissolved",
     "dependencies": [],
-    "raw_content_preview": "   **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2..."
+    "raw_content_preview": "# The Dual-Clock Architecture as Fundamental Velocity Partition ## Deriving Logic Speed (c_L) and Light Speed (c) from Registry Write vs Bilateral Parity Verification   **Registry:** [@CKS-MATH-62-202..."
 }

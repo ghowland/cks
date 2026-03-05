@@ -1,8 +1,8 @@
-# The Seventh Q Paradox — The Rational Witness
+# Logismos Graphics & Physics Pipeline
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-105-2026] → [@CKS-MATH-106-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-118-2026] → [@CKS-MATH-119-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We prove the Seventh and final Q Paradox: the **Rational Witness** (Result Collapse). Building on six prior paradoxes demonstrating ℝ-impossibility from operational, ontological, computational, topological, epistemological, and informational perspectives, we now prove the phenomenological impossibility: **no irrational number has ever been the final answer to any physical problem**. We demonstrate: (1) **Result writability constraint** - all answers requiring finite bits collapse to ℚ, (2) **Universal constants paradox** - every fundamental result is integer or simple ratio, (3) **Communication impossibility** - ℝ-values cannot be transmitted or used, (4) **Process-result distinction** - ℝ serves as search scaffolding but ℚ provides actual answers, (5) **Phenomenological verification** - all measurements, calculations, and solutions terminate at rational values, (6) **Ghost system proof** - ℝ exists only as computational intermediary never as final state, (7) **Complete framework closure** - seven paradoxes cover all possible angles of attack on continuum hypothesis. From axioms through rigorous proof with historical validation and zero free parameters. ℝ-continuum proven absolutely impossible phenomenologically - cannot produce writable results. Only ℚ-substrate yields actual answers.
+We derive complete graphics and physics pipeline architecture using VFR (Value-Factor-Remainder) exact rational arithmetic, achieving perfect geometric accuracy and deterministic physical simulation. Building on Q-Taylor series (MATH-117) and VFR linear algebra (MATH-118), we specify: (1) **Transform hierarchy** - scene graph with exact composition preventing drift across any depth, (2) **Camera system** - perspective and orthographic projections maintaining perfect mathematical properties, (3) **Skeletal animation** - bone transformations and vertex skinning without vertex swimming or numerical wandering, (4) **Rigid body physics** - position, velocity, and orientation evolution with perfect energy conservation, (5) **Collision detection** - exact contact point computation and penetration depth calculation, (6) **Constraint solving** - joint and contact constraints solved exactly through VFR linear algebra, (7) **Deterministic replay** - identical results across platforms and runs guaranteed by rational arithmetic. Complete architecture specified through Zig structures and data flow description. Traditional floating-point pipelines produce approximate results with accumulated drift. VFR pipeline achieves mathematical exactness through integer-based rational computation at all stages.
 
-**Revolutionary claim:** Real numbers are search processes that haven't terminated yet - if you can write the answer, it's rational.
+**Revolutionary claim:** Computer graphics and physics can be mathematically exact - every transform perfect, every collision precise, every replay identical - through comprehensive VFR architecture.
 
 ---
 
@@ -130,7 +130,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Seventh Q Paradox — The Rational Witness },
+  title={ Logismos Graphics & Physics Pipeline },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

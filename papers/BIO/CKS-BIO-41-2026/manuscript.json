@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-BIO-41-2026: Mitochondrial Clock Synchronization and Substrate Power Management",
+    "title": "Mitochondrial Clock Synchronization and Substrate Power Management",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-QM-1-2026] \u2192 [@CKS-BIO-1-2026] \u2192 ... \u2192 [@CKS-BIO-35-2026] \u2192 [@CKS-BIO-36-2026] \u2192 [@CKS-BIO-37-2026] \u2192 [@CKS-BIO-38-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-40-2026] \u2192 [@CKS-BIO-41-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": "# CKS-BIO-41-2026: Mitochondrial Clock Synchronization and Substrate Power Management ## Deriving the 1/32 Hz Flicker as Mandatory Registry Maintenance in Cellular Solitons    **Registry:** [@CKS-BIO-..."
+    "raw_content_preview": "# Mitochondrial Clock Synchronization and Substrate Power Management ## Deriving the 1/32 Hz Flicker as Mandatory Registry Maintenance in Cellular Solitons    **Registry:** [@CKS-BIO-41-2026]  **Serie..."
 }

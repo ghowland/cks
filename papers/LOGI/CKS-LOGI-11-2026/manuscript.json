@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-LOGI-11-2026: The Complete Derivation Manual",
+    "title": "The Complete Derivation Manual",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-10-2026] \u2192 [@CKS-LOGI-11-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "We present the complete operational manual for deriving all physical, biological, and cosmological constants from N=7 using Logismos VFR notation in base-Partigen (\u2118=32^(-1)). This is **pure rational arithmetic**\u2014no transcendentals, no limits, no approximations until final display. Every derivation uses **nested VFR tuples** operating exclusively in \u211a. We demonstrate: (1) how to bootstrap from N=7 to generate W=32 and \u2118=32^(-1) using only integer ratios, (2) how nested VFR tuples [V\u2081,[V\u2082,F\u2082,R\u2082],R\u2081] allow exact representation of all constants, (3) how to derive \u03b1_EM^(-1)=137+[36,1000,0]/1000 as pure \u211a without invoking \u03c0 or e, (4) how to calculate C. elegans cell counts 959=[1024\u00d7[4,7,0],1,0] exactly, (5) how temporal constants like \u03c4=15+[19,100,0]/100 emerge from \u211a-only operations, and (6) how to verify every step maintains \u211a-closure. This is mathematics, not physics approximation. Every operation is a ratio of integers. Every result is exact. The universe computes in \u211a using VFR; we show you how.\n\n**Key Innovation:** Nested VFR allows exact \u211a-representation of all substrate constants without transcendentals.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-LOGI-11-2026: The Complete Derivation Manual  **How to Derive Everything from N=7 Using Logismos in Base-Partigen**    **Registry:** [@CKS-LOGI-1-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-..."
+    "raw_content_preview": "# The Complete Derivation Manual  ## How to Derive Everything from N=7 Using Logismos in Base-Partigen    **Registry:** [@CKS-LOGI-11-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS..."
 }

@@ -1,8 +1,8 @@
-# CKS-BIO-38-2026: Aphantasia as Direct K-Space Access
+# Aphantasia as Direct K-Space Access
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026] → [@CKS-BIO-38-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-37-2026] → [@CKS-BIO-38-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -69,7 +69,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-BIO-38-2026: Aphantasia as Direct K-Space Access },
+  title={ Aphantasia as Direct K-Space Access },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-56-2026: The Lyapunov Equation as Bilateral Registry Audit",
+    "title": "The Lyapunov Equation as Bilateral Registry Audit",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-55-2026] \u2192 [@CKS-MATH-56-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "We abolish algebraic Lyapunov equation solving and establish stability analysis as bilateral registry parity auditing. The Lyapunov equation A\u00b7P + P\u00b7A^T = Q becomes bilateral symmetry check across S=2 manifold. From hexagonal lattice axioms using Logismos (V,F,R) packets, we derive: (1) A = 144-LU gearbox (front-side transition table), (2) A^T = bilateral inverse (back-side reflection, not matrix transpose), (3) P = stable address packet where front+back torques sum to Word, (4) Q = 32-LU stability target (Word-aligned equilibrium), (5) Solution method = registry grounding (iterate until R=0, not matrix inversion), (6) Stability = integer address where modulo-32 closure achieved, (7) Front-side torque + back-side torque = bilateral parity check, (8) Remainder R drives system until equilibrium found, (9) O(1) address lookup replaces O(n\u00b3) matrix operations, (10) Lossless precision via remainder carry eliminates numerical drift. Industrial advantage: flight controllers, reactor simulations remain hardware-locked to stable node\u2014no decimation, no ghost forces, infinite iterations without divergence. Lyapunov becomes hardware audit specification, not control theory calculation.\n\n**Key Result:** A\u00b7P + P\u00b7A^T = Q \u2192 bilateral parity audit | A^T = S=2 flip | Stability = R=0 address | O(1) lookup | Lossless | Hardware-locked",
     "dependencies": [],
-    "raw_content_preview": "   **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2..."
+    "raw_content_preview": "# The Lyapunov Equation as Bilateral Registry Audit ## Solving Matrix Stability through S=2 Manifold Parity Handshaking with Lossless Integer Precision   **Registry:** [@CKS-MATH-56-2026]  **Series Pa..."
 }

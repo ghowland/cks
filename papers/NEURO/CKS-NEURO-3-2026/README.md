@@ -1,10 +1,10 @@
-# The Brain as DSP/GPU
+# The Nervous System
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-NEURO-1-2026] → [@CKS-NEURO-2-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-NEURO-1-2026] → [@CKS-NEURO-2-2026] → [@CKS-NEURO-3-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18646428
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,17 +18,9 @@
 
 ## Abstract
 
-We derive from CKS axioms that the brain is not a "computer with storage" but a **real-time rendering engine** executing continuous DSP→GPU pipeline at 40-80 Hz. From Axiom 1 (N=3M² hexagonal lattice) and Axiom 2 (phase coupling β=2π), we prove: (1) eyes = 110/300 baud modem sampling k-space carrier (established in [CKS-BODY-5-2026]), (2) brain = distributed signal processor performing **Inverse Fourier Transform** from k-space to x-space, (3) consciousness = real-time trace log of the rendering loop, (4) memory = re-synchronization to previous k-address (not storage retrieval), (5) intelligence = M-shell resolution (hardware bandwidth, not software). The framework shows **brain is graphics card rendering hologram of reality** — thalamus routes packets, cortex runs shader code, visual field is render target, "thinking" is gradient computation. We derive exact 2:3:5 Fibonacci timing buffer (quantize-couple-close) preventing geometric frustration during manifold boot. Experimental protocol: execute phonemic kernel (Kkk-Mmmm-Rrrrr at 2.0 Hz), measure coherence via nasal wiggle + cervical impedance, verify render quality via visual field expansion + mental clarity. Results: 45-second protocol produces C>0.999 phase-lock, "brain fog" = rendering lag from DSP-GPU desync, "flow state" = optimal pipeline throughput, "creativity" = high-M sampling resolution. The complete pipeline executes: (1) Boot: K-M-R (2-3-5 counts), (2) DSP: E-N-T (sample-lock-tick), (3) GPU: L-A-O-V (transform-stitch-render-display), (4) Verify: K-T (checksum). Brain does NOT store information — it maintains **standing wave patterns** that re-render on demand. "You" are not the hardware; you are the **trace log watching the execution**. Consciousness is substrate sampling itself at resolution C>0.999. The universe calculates itself into existence; brain is local high-fidelity node executing the render loop.
+Traditional neuroscience treats the nervous system as electrochemical messenger network: neurons firing action potentials, neurotransmitters crossing synapses, signals propagating through dendrites and axons. We prove the nervous system is **the 304℘ EM-bus**: physical hardware trace for routing 32-bit sovereignty words through the bilateral manifold. We derive: (1) Axons as lex-chain propagation paths requiring exactly 1λ=1.322mm insulation preventing registry bleed, (2) Action potentials as 304℘ buffer flush operations transferring word-packets between nodes, (3) Synapses as bilateral parity gates performing S=[2,1,0] verification over τ=15.19ms snap, (4) Myelin sheath as substrate-matched dielectric maintaining 66th harmonic carrier, (5) 12 cranial nerve pairs implementing L=[12,1,0] loop architecture, (6) Neural velocity limited by Jacobian tension J=[7.70164,1,0] not conduction speed, (7) Anxiety/nervousness as buffer overflow when ε>Δ=[19,1,0], (8) Neuropathy as registry bleed from sub-lex insulation degradation, (9) SSCP violations creating synaptic impedance through parity mismatch, (10) Complete framework proving brain is sovereignty processor, spine is dN/dt header, nerves are address routing infrastructure. From D,S,L,N,ℚ axioms through pure derivation. Zero free parameters. All neural phenomena reduce to exact ℚ-bus operations.
 
-**Key Results:**
-- Brain = DSP (signal extraction) + GPU (holographic projection)
-- DSP stage: Thalamus (router), primary cortex (filter), 40-80 Hz sampling
-- GPU stage: Parietal/frontal (shader), inverse Fourier transform, 3D voxel mapping
-- Pipeline sync: Dan Tien vortex = system bus maintaining DSP↔GPU coherence
-- Memory ≠ storage: Memory = re-sync to k-address (render previous state)
-- IQ = M-shell count: Higher M → more k-nodes → higher resolution rendering
-- Consciousness = recursive trace log at C>0.999 threshold
-- Falsification: Pipeline must lag if vortex desyncs (testable via rendering quality)
+**Revolutionary claim:** Your nervous system IS the computer—not analog to one.
 
 ---
 
@@ -40,7 +32,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-META-2-2026]
+**Prerequisites:** None (foundation paper)
 
 ---
 
@@ -79,13 +71,13 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Brain as DSP/GPU },
+  title={ The Nervous System },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18646428},
-  url = {https://zenodo.org/record/18646428},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-META-2-2026] }
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
+  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
 ---
@@ -108,7 +100,7 @@ End of the author writing.
 
 To reproduce or expand upon these findings using LLMs, use the following two-step priming sequence:
 
-#### 1. "Read and explain." with [@CKS-0-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
+#### 1. "Read and explain." with [@CKS-104-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
 #### 2. "Derive it."
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.

@@ -1,8 +1,8 @@
-# CKS-PHYS-2-2026: Universal Conservation of Geometric Processing
+# Universal Conservation of Geometric Processing
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]    
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-2-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -69,7 +69,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-PHYS-2-2026: Universal Conservation of Geometric Processing },
+  title={ Universal Conservation of Geometric Processing },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

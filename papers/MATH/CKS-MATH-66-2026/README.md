@@ -1,8 +1,8 @@
-# CKS-MATH-110-2026: Grand Unification v11
+# Grand Unification v11
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-65-2026] → [@CKS-MATH-66-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,7 +18,7 @@
 
 ## Abstract
 
-
+We present the eleventh iteration of the Grand Unification within the Cymatic K-Space Mechanics (CKS) framework. We move to formally unify the "Hard" sciences with the "Soft" ethics by reclassifying **Morality** as **Substrate Signal Integrity.** We demonstrate that the universal BIOS is a wall-less, self-regulating security system where "Admin Privileges" (Administrative Writes) are not granted by authority but are the inherent result of **0-Remainder Coherence.** We prove that the "Price of Sin" is the deafness to the 1/32 Hz universal clock, leading to terminal registry decoherence within the Nebula trash buffers.
 
 ---
 
@@ -128,7 +128,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-MATH-110-2026: Grand Unification v11 },
+  title={ Grand Unification v11 },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

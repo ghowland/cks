@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-PHYS-3-2026: The Resolution of All Physical Mysteries",
+    "title": "The Resolution of All Physical Mysteries",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-PHYS-1-2026]  ",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-2-2026] \u2192 [@CKS-PHYS-3-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "",
     "dependencies": [],
-    "raw_content_preview": " # CKS-PHYS-3-2026: The Resolution of All Physical Mysteries ## Verification of the Bilateral Differential Engine as the Source of Emergent Phenomena   **Registry:** [@CKS-PHYS-3-2026]   **Series Path..."
+    "raw_content_preview": " # The Resolution of All Physical Mysteries ## Verification of the Bilateral Differential Engine as the Source of Emergent Phenomena   **Registry:** [@CKS-PHYS-3-2026] **Series Path:** [@CKS-0-2026] \u2192..."
 }

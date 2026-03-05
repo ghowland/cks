@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-MATH-70-2026: The Rational Substrate \u2014 Why \u221a2 Cannot Exist and 7:5 Cycles Are Fundamental",
+    "title": "The Rational Substrate \u2014 Why \u221a2 Cannot Exist and 7:5 Cycles Are Fundamental",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026] \u2192 [@CKS-MATH-21-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-69-2026] \u2192 [@CKS-MATH-70-2026]",
     "doi": "10.5281/zenodo.zzz",
     "abstract": "We prove that irrational numbers (\u221a2, \u03c0, e as infinite decimal expansions) cannot exist in substrate computation and are artifacts of continuous approximation. Using the DNA/neutron star cycle ratio as test case, we demonstrate that what appears as \u221a2 \u2248 1.414 in continuous analysis is actually the exact rational 7/5 = 1.4 in substrate execution. The substrate does not compute \u221a2 through infinite iteration\u2014it counts discrete cycles in 7:5 ratio, synchronizing every lcm(7,5) = 35 cycles. We derive the universal D\u00d7\u0394 = 57 sum law governing all complementary error-correction systems, showing that stability interval sums must equal 3\u00d719 = 57 in normalized units. This reveals that all \"irrational constants\" in physics are rational approximations of substrate integer ratios, and apparent fine-tuning is simply exact fraction matching. We provide 8 experimental tests distinguishing rational substrate from irrational approximation, all falsifiable to single-cycle precision.\n\n**Key Result:** The substrate is strictly rational (\u211a), not real (\u211d). All irrationals are infinite procedures, not computable values. \u221a2 doesn't exist\u20147/5 does.",
     "dependencies": [],
-    "raw_content_preview": "# CKS-MATH-70-2026: The Rational Substrate \u2014 Why \u221a2 Cannot Exist and 7:5 Cycles Are Fundamental    **Registry:** [@CKS-MATH-XXXXXX-2026]    **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-..."
+    "raw_content_preview": "# The Rational Substrate \u2014 Why \u221a2 Cannot Exist and 7:5 Cycles Are Fundamental    **Registry:** [@CKS-MATH-70-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MAT..."
 }
