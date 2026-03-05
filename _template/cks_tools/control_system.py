@@ -108,29 +108,21 @@ def Scan(args):
     if item['doi']['is_stub']:
       directory = os.path.dirname(item['file_path'])
       os.chdir(directory)
-      cmd = f'{SCAN}'
-      print(cmd)
 
       # Scan
-      (status, output, error) = execute_command(cmd)
+      (status, output, error) = execute_command(SCAN)
       print(f'  Result: {status}  Output: {output[:40]}')
 
       # Gen README
       (status, output, error) = execute_command(README)
       print(f'  Result: {status}  Output: {output[:40]}')
-
-      # Gen the readme
-      if status == 0:
-        (status, output, error) = execute_command(README)
-        if status != 0:
-          print(f'  README Result: {status}  Output: {output[:40]}  Error: {error}')
   
   # Back to original dir
   os.chdir(original_dir)
 
 
 def Gen(args):
-  print("Generate")
+  print("Generate Site README.md")
   readme_site = open(README_SITE).read()
 
   # Flatten the list
@@ -167,7 +159,7 @@ def Gen(args):
 
 
 def Backup(args):
-  print("Backup")
+  print("Backup manuscript.md -> manuscript_orig.md, stub only")
 
   for item in args.papers:
 
@@ -179,7 +171,7 @@ def Backup(args):
 
 
 def Cleanup(args):
-  print("Cleanup")
+  print("Cleanup stub manuscript.md from manuscript_orig.md, setting the Registry, Series Path, DOI")
 
   max_count = 3
   cur_count = 0

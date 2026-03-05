@@ -1,10 +1,17 @@
 {
   "records": {
     "CKS-MATH-125-2026": {
-      "zenodo_id": 18877695,
-      "doi": "10.5281/zenodo.18877695",
+      "zenodo_id": 18877830,
+      "doi": "10.5281/zenodo.18877830",
       "status": "draft",
       "metadata_hash": "d0d610125d6b5e08831664cb7f126f1eb321af4bfda76303c9c0e731b859888d",
+      "files": {}
+    },
+    "CKS-ADHM-1-2026": {
+      "zenodo_id": 18878088,
+      "doi": "10.5281/zenodo.18878088",
+      "status": "draft",
+      "metadata_hash": "020498770f04997d920456e0541e04526e909564b0f07f9ce6cc20ffb54f504c",
       "files": {}
     }
   },

@@ -19,12 +19,26 @@ def find_paper(papers, paper_id):
     return None
 
 
+def format_description(text):
+    if not text:
+        return ""
+    import re
+    text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+    paragraphs = text.split("\n\n")
+    result = []
+    for para in paragraphs:
+        para = para.strip().replace("\n", "<br>")
+        if para:
+            result.append("<p>" + para + "</p>")
+    return "\n".join(result)
+
+
 def build_metadata(paper):
     title = paper["title"]
     if paper.get("subtitle"):
         title = title + ": " + paper["subtitle"]
 
-    description = paper.get("abstract") or ""
+    description = format_description(paper.get("abstract") or "")
 
     publication_date = "2026-02"
     raw_date = paper.get("frontmatter", {}).get("Date", "")
@@ -63,7 +77,7 @@ def build_metadata(paper):
         "related_identifiers": [
             {
                 "scheme": "url",
-                "identifier": "https://github.com/ghowland/cks/" + github_path,
+                "identifier": "https://github.com/ghowland/cks/blob/main/" + github_path,
                 "relation": "isSupplementedBy",
                 "resource_type": "software"
             }
@@ -130,9 +144,8 @@ def create_paper(paper_id, papers_path=PAPERS_JSON_PATH, config_path=ZENODO_CRED
     if not created:
         raise RuntimeError("create_draft returned empty result for: " + paper_id)
 
-    record = zn.manifest["records"][paper_id]
-    doi = record.get("doi")
-    zenodo_id = record.get("zenodo_id")
+    doi = zn.reserve_doi(paper_id)
+    zenodo_id = zn.manifest["records"][paper_id].get("zenodo_id")
 
     output_paper = {}
     for k, v in paper.items():
@@ -176,4 +189,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+    

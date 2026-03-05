@@ -33,27 +33,32 @@ class ZenodoSync:
         return self._request("GET", f"deposit/depositions/{depo_id}").json()
 
 
-    def create_draft(self, metadata_list: List[Dict[str, Any]], limit: Optional[int] = None) -> List[str]:
-        """Create Zenodo draft depositions from a list of (local_id, metadata) tuples."""
+    def create_draft(self, metadata_list, limit=None):
         created = []
         for local_id, metadata in metadata_list:
             if limit is not None and len(created) >= limit:
                 break
-            res = self._request("POST", "deposit/depositions", json={"metadata": metadata})
+            
+            # ensure prereserve_doi is requested
+            post_metadata = dict(metadata)
+            post_metadata["prereserve_doi"] = True
+            
+            res = self._request("POST", "deposit/depositions", json={"metadata": post_metadata})
             depo_data = res.json()
             depo_id = depo_data["id"]
+            doi = depo_data.get("metadata", {}).get("prereserve_doi", {}).get("doi")
+            
             self.manifest["records"][local_id] = {
                 "zenodo_id": depo_id,
-                "doi": depo_data["metadata"].get("prereserve_doi", {}).get("doi"),
+                "doi": doi,
                 "status": "draft",
                 "metadata_hash": self._get_metadata_hash(metadata),
                 "files": {}
             }
             self._save_manifest()
             created.append(local_id)
-            print(f"Created draft {depo_id} for {local_id}")
+            print(f"Created draft {depo_id} for {local_id} — DOI: {doi}")
         return created
-
 
     def update_metadata(self, local_id: str, metadata: Dict[str, Any]) -> Dict[str, Any]:
         """Update metadata on an existing draft."""
