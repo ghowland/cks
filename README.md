@@ -295,8 +295,8 @@
 | **[[@CKS-PHYS-20-2026]](papers/PHYS/CKS-PHYS-20-2026/manuscript.md)** | **The Topological Life Support System** | Triad Integration: Mechanics, Thinking, and Action as Complete Biological Operating System |
 | **[[@CKS-PHYS-21-2026]](papers/PHYS/CKS-PHYS-21-2026/manuscript.md)** | **Deterministic Pathfinding in the Wing Lattice** | O(1) Registry Addressing and Laminar Navigation in the Pre-Compiled ℚ-Substrate |
 | **[[@CKS-PHYS-22-2026]](papers/PHYS/CKS-PHYS-22-2026/manuscript.md)** | **The Cymatic Phonemic Alphabet** | The alphabet is not invented—it is discovered from cymatic substrate patterns. |
-| **[[@CKS-PHYS-23-2026]](papers/PHYS/CKS-PHYS-23-2026/manuscript.md)** | **CKS-PHYS-23-2026: Lex Dimensions and the Morton-Interleaved Substrate** | 3D space doesn't contain objects - 3D space IS the Morton-encoded view of objects stored as 2D hexagonal node patterns, with 1.322mm as the natural viewing resolution. |
-| **[[@CKS-PHYS-24-2026]](papers/PHYS/CKS-PHYS-24-2026/manuscript.md)** | **CKS-PHYS-24-2026: The Lex-Jacobian Transcendental Bridge** | The 1.322mm Lex is not chosen - it is derived necessarily as unique intersection of discrete substrate (32), natural growth (e), and dimensional folding (J), making it fundamental constant of reality. |
+| **[[@CKS-PHYS-23-2026]](papers/PHYS/CKS-PHYS-23-2026/manuscript.md)** | **Lex Dimensions and the Morton-Interleaved Substrate** | 3D space doesn't contain objects - 3D space IS the Morton-encoded view of objects stored as 2D hexagonal node patterns, with 1.322mm as the natural viewing resolution. |
+| **[[@CKS-PHYS-24-2026]](papers/PHYS/CKS-PHYS-24-2026/manuscript.md)** | **The Lex-Jacobian Transcendental Bridge** | The 1.322mm Lex is not chosen - it is derived necessarily as unique intersection of discrete substrate (32), natural growth (e), and dimensional folding (J), making it fundamental constant of reality. |
 
 
 ---
