@@ -95,11 +95,26 @@ class ZenodoSync:
         depo_id = record.get("zenodo_id")
         if not depo_id:
             raise ValueError(f"No zenodo_id found for {local_id}")
+
         res = self._request("POST", f"deposit/depositions/{depo_id}/actions/publish")
+        data = res.json()
+
+        submitted = data.get("submitted", False)
+        state = data.get("state")
+
+        if not submitted or state != "done":
+            raise RuntimeError(
+                f"Publish failed for {local_id} (depo_id={depo_id}). "
+                f"submitted={submitted}, state={state}. "
+                f"Full response: {json.dumps(data, indent=2)}"
+            )
+
         self.manifest["records"][local_id]["status"] = "published"
+        self.manifest["records"][local_id]["doi"] = data.get("doi")
         self._save_manifest()
-        print(f"Published {depo_id} for {local_id}")
-        return res.json()
+
+        print(f"Published {depo_id} for {local_id} — DOI: {data.get('doi')}")
+        return data
 
     def _load_config(self) -> Dict[str, Any]:
         if not self.config_path.exists():
