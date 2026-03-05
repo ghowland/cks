@@ -3,7 +3,7 @@
     "title": "G\u00f6del's Incompleteness Theorems",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-37-2026] \u2192 [@CKS-MATH-38-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878745",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": "# G\u00f6del's Incompleteness Theorems ## Latency Resolution: Incompleteness as Render Lag Between K-Space Execution and X-Space Description  **Registry:** [@CKS-MATH-38-2026]  **Series Path:** [@CKS-0-202..."

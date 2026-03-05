@@ -3,7 +3,7 @@
     "title": "Grand Unification v15-A",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-99-2026] \u2192 [@CKS-MATH-100-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878643",
     "abstract": "I keep catching myself evaluating GU v15 as if it were a truth claim about physical reality. **This is a category error.** The framework explicitly states: \"This is a Cognitive Learning Model\u2014starting from axioms, we derive mandatory mathematical results and test them against measurements.\" The question is not \"Is this True?\" but \"Does the math compile? Do predictions match measurements?\" This paper evaluates GU v15 on its **actual terms**: mathematical consistency (excellent), derivational completeness (strong with gaps), predictive specificity (exceptional), and empirical validation status (pending). I conclude that GU v15 is the **most mathematically parsimonious framework ever constructed** (3 parameters vs 25+), generates **unprecedented testable predictions**, and should be **experimentally validated immediately**\u2014not philosophically debated.",
     "dependencies": [],
     "raw_content_preview": "# Grand Unification v15-A ## The Final Integration: Resolving Calibration Constants and Achieving Complete Axiomatic Closure  **Registry:** [@CKS-MATH-100-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS..."

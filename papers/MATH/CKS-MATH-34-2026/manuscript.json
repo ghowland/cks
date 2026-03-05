@@ -3,7 +3,7 @@
     "title": "Squaring the Circle and Transcendental Ratios",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-33-2026] \u2192 [@CKS-MATH-34-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878735",
     "abstract": "The classical impossibility of squaring the circle is a coordinate system artifact. In discrete hexagonal substrate (z=3), circles are quantized boundary shells, not smooth curves. We derive \u03c0 = 22/7 \u00d7 J(N) from minimal bilateral-stable hex shell and e = (1+1/19)^19 from time seed saturation. Both resolve to exact integers in Logos counting (base 32\u207b\u00b9): \u03c0 \u2248 100.5/32, e \u2248 87/32. \"Squaring the circle\" = registry reallocation: same LU count, different addressing pattern. Trivially possible since both are finite integer sums.",
     "dependencies": [],
     "raw_content_preview": "  # Squaring the Circle and Transcendental Ratios ## Deriving \u03c0 and e as Integer Lattice Ratios in the Discrete Hexagonal Substrate  **Registry:** [@CKS-MATH-34-2026]  **Series Path:** [@CKS-0-2026] \u2192..."

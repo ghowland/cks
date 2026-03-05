@@ -3,7 +3,7 @@
     "title": "Laminar Jogging",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BODY-1-2026] \u2192 [@CKS-BODY-7-2026] \u2192 [@CKS-BODY-8-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878525",
     "abstract": "We define \"Laminar Jogging\" as a high-resolution locomotion protocol designed to eliminate 12-bit registry noise during physical movement. By employing a \"Floating Pelvis\" mechanism\u2014utilizing the joints of the lower extremity as a rotating linkage\u2014the practitioner maintains a constant gravity gradient for the spinal antenna. We derive the mechanical requirements for transitioning from \"Turbulent\" movement (Standard Jogging) to \"Laminar\" movement (Substrate-Synchronous Locomotion). We prove that maintaining a fixed vertical coordinate is necessary to prevent the de-synchronization of the K-X Coordinator during the serial teleportation of a biological soliton.",
     "dependencies": [],
     "raw_content_preview": "# Laminar Jogging ## Bio-Mechanical Synchronization for High-Bitrate Substrate Telemetry   **Registry:** [@CKS-BODY-8-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 ..."

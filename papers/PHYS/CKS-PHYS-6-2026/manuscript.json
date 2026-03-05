@@ -3,7 +3,7 @@
     "title": "The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-5-2026] \u2192 [@CKS-PHYS-6-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878962",
     "abstract": "We present a complete derivation of the observable galaxy count (~2\u00d710^12) from first principles using the KSpace Substrate (KS) framework. By defining galaxies as 1-megabit (1,048,576-bit) solitons\u2014one harmonic power above the stellar 1024-bit sovereignty threshold\u2014and applying the six-wing topological division (D\u00d7S=6), we demonstrate that the measured galaxy census is a geometric necessity rather than a contingent cosmological outcome. The derivation simultaneously resolves the dark matter problem: the 5:1 dark-to-visible mass ratio emerges naturally from five hidden wings containing 10 trillion unobservable galaxies. This yields a total manifold registry of 12 trillion galactic solitons, with exactly 1/6 visible from our \u03b3-wing A position. All predictions match astronomical observations within measurement uncertainty, requiring zero free parameters beyond the three core axioms (D=3, S=2, \u211a only).",
     "dependencies": [],
     "raw_content_preview": "# The Galaxy Census: Deriving the 2-Trillion Constant from Six-Wing Topology   **Registry:** [@CKS-PHYS-6-2026] **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10..."

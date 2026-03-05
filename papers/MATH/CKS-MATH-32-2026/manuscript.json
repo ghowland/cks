@@ -3,7 +3,7 @@
     "title": "The Riemann Hypothesis",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-31-2026] \u2192 [@CKS-MATH-32-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878731",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": " # The Riemann Hypothesis ## Bilateral Parity Proof: The Critical Line as Hardware Specification of the S=2 Manifold  **Registry:** [@CKS-MATH-32-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2..."

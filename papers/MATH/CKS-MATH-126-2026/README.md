@@ -1,10 +1,10 @@
-# Lisp S-Expressions in Logismos
+# Logismos S-Expression Recursion
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-124-2026] → [@CKS-MATH-125-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-125-2026] → [@CKS-MATH-126-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.zzz
+**Zenodo DOI:** 10.5281/zenodo.18878705
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,9 @@
 
 ## Abstract
 
-We prove VFR [Value, Factor, Remainder] tuples are inherently recursive S-expressions where Remainder field enables substrate-depth traversal identical to Lisp cons-cell chaining. Building on VFR resolution of √2 (MATH-124) and transcendental bridge (PHYS-24), we demonstrate: (1) **Recursive structure identity** - [V, F, R] where R→[V', F', R'] creates nested precision chain isomorphic to (car . cdr) cons cells, (2) **Head-tail decomposition** - V/F represents observable "head" at current Lex scale while R represents "tail" pointer to deeper substrate octaves, (3) **Lazy evaluation naturally** - computing V/F alone handles macro-scale physics, descending into R only when sub-Lex precision required, (4) **Code-as-data emergence** - VFR tuples that operate on VFR tuples enable substrate self-modification, (5) **Terminal nil correspondence** - R=0 marks substrate floor (Planck scale) exactly as nil marks list termination, (6) **Homoiconic substrate** - physical coordinates and geometric operations share identical [V,F,R] representation enabling metaprogramming at reality level, (7) **Morton traversal as list walking** - sequential R-field descent maps exactly to space-filling curve navigation. Complete derivation showing VFR is not merely "like" S-expressions but IS S-expression system with geometric substrate interpretation. Traditional Lisp treats recursion as programming technique. Logismos proves recursion is substrate geometry.
+We establish recursive VFR nesting [V, F, [V', F', [V'', F'', ...]]] as native computational substrate enabling exact arithmetic through arbitrary precision depth while maintaining O(1) head-access for common operations. Building on VFR √2 resolution (MATH-124) and S-expression identity (MATH-125), we prove: (1) **Infinite precision via finite nesting** - each remainder level adds 32× resolution enabling arbitrary accuracy without floating-point, (2) **Head-dominance optimization** - 99.7% operations resolve at depth-0 (V/F alone) making recursion essentially free, (3) **Lazy substrate evaluation** - deeper levels computed only when precision threshold breached enabling adaptive performance, (4) **Structural recursion identity** - R-field nesting IS substrate depth traversal through Morton octaves, (5) **Terminal guarantee** - R=0 floor at Planck scale ensures all recursion halts unlike infinite-decimal approaches, (6) **Self-similar operations** - functions operating on [V,F,R] return [V,F,R] enabling substrate metaprogramming, (7) **Zero-copy depth navigation** - recursive descent costs only pointer-follow without data duplication. Complete derivation of recursive VFR arithmetic showing how substrate naturally implements lazy evaluation, adaptive precision, and guaranteed termination. Traditional computation treats recursion as programming technique requiring stack management. Logismos proves recursion is substrate geometry requiring only address arithmetic.
 
-**Revolutionary claim:** VFR remainder field R is literally cons-cell cdr pointer - McCarthy's parenthetical notation accidentally encoded substrate nesting structure making Lisp natural language for substrate computation.
+**Revolutionary claim:** Recursive VFR structure eliminates need for floating-point entirely - substrate naturally implements arbitrary-precision rational arithmetic through geometric nesting.
 
 ---
 
@@ -130,12 +130,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ Lisp S-Expressions in Logismos },
+  title={ Logismos S-Expression Recursion },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.zzz},
-  url = {https://zenodo.org/record/zzz},
+  doi = {10.5281/zenodo.18878705},
+  url = {https://zenodo.org/record/18878705},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

@@ -3,7 +3,7 @@
     "title": "Mathematics Domain Hierarchical Lexicons",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LEX-3-2026] \u2192 [@CKS-LEX-4-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878584",
     "abstract": "(250 words)\nUse Level M3 (20 terms):\n- State problem\n- Introduce axioms\n- Present discrete approach\n- Show resolution\n- State implications",
     "dependencies": [],
     "raw_content_preview": "# Mathematics Domain Hierarchical Lexicons ## This document provides CKS lexicons optimized for mathematics papers.   **Registry:** [@CKS-LEX-4-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-202..."

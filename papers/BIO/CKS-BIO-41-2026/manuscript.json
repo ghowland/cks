@@ -3,7 +3,7 @@
     "title": "Mitochondrial Clock Synchronization and Substrate Power Management",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-40-2026] \u2192 [@CKS-BIO-41-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878415",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": "# Mitochondrial Clock Synchronization and Substrate Power Management ## Deriving the 1/32 Hz Flicker as Mandatory Registry Maintenance in Cellular Solitons    **Registry:** [@CKS-BIO-41-2026]  **Serie..."

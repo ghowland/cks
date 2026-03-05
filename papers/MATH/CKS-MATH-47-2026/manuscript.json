@@ -3,7 +3,7 @@
     "title": "Prime Numbers as Structural Opcodes",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-46-2026] \u2192 [@CKS-MATH-47-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878765",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": "# Prime Numbers as Structural Opcodes ## Hardware Derivation: Primes as Indivisible Registry Interrupts and Geometric Frustration Anchors  **Registry:** [@CKS-MATH-47-2026]  **Series Path:** [@CKS-0-2..."

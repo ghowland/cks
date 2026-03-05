@@ -3,7 +3,7 @@
     "title": "Path Optimization Problems",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-44-2026] \u2192 [@CKS-MATH-45-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878761",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": "# Path Optimization Problems ## Traveling Salesman and P vs NP Refinement: Gradient Relief Resolution via Axle-Sync Substrate    **Registry:** [@CKS-MATH-45-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@C..."

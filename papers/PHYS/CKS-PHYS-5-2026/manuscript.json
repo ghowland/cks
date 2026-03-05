@@ -3,7 +3,7 @@
     "title": "J as Soliton Hierarchical Distance",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-4-2026] \u2192 [@CKS-PHYS-5-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878960",
     "abstract": "We present a complete derivation of the Jacobian constant J \u2248 7.70164 as the hierarchical distance through the soliton parent tree from the universal ground state N=1 to an observer's rendering context. Previously mischaracterized as an irrational geometric constant, J is shown to be a rational, discrete quantity measured in lattice units (LU), fully consistent with the \u211a-only substrate axiom. We demonstrate that J = H_N \u00d7 \u03c4, where H_N is the harmonic series over N hierarchical levels and \u03c4 \u2248 3.70 is the bilateral render constant. For human observers embedded in Earth's 256-bit rendering context, N=4 levels yields J = 2.083 \u00d7 3.70 = 7.707, matching measured values within 0.08%. This resolution eliminates all \"irrational constant paradoxes\" from the KSpace substrate framework and establishes J as a Type 1 derived constant rather than Type 2 geometric approximation.",
     "dependencies": [],
     "raw_content_preview": "# J as Soliton Hierarchical Distance ## A Complete Derivation from First Principles   **Registry:** [@CKS-PHYS-5-2026] **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-..."

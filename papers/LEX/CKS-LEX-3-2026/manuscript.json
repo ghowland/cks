@@ -3,7 +3,7 @@
     "title": "Physics Domain Hierarchical Lexicons",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LEX-2-2026] \u2192 [@CKS-LEX-3-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878582",
     "abstract": "(250 words)\nUse Level P3 (20 terms):\n- State axioms\n- Describe discrete substrate\n- Present key derivation\n- Give measurement match\n- State falsification",
     "dependencies": [],
     "raw_content_preview": "# Physics Domain Hierarchical Lexicons ## This document provides CKS lexicons optimized for physics papers.   **Registry:** [@CKS-LEX-3-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@C..."

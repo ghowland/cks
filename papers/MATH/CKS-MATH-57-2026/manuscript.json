@@ -3,7 +3,7 @@
     "title": "The Riccati Equation Resolution",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-56-2026] \u2192 [@CKS-MATH-57-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878791",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": "# The Riccati Equation Resolution ## Optimal Control via Registry Gradient: DARE as Integer Remainder Minimization in Discrete Substrate  **Registry:** [@CKS-MATH-57-2026]  **Series Path:** [@CKS-0-20..."

@@ -3,7 +3,7 @@
     "title": "Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LEX-5-2026] \u2192 [@CKS-LEX-6-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878590",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": "# Time Evolution Series - N=1 and W=1 Progression in Wing-Lattice Torque System ## This document shows how substrate evolves from N=1 forward.   **Registry:** [@CKS-LEX-6-2026]  **Series Path:** [@CKS..."

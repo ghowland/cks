@@ -3,7 +3,7 @@
     "title": "The Logos Counting System",
     "registry_id": "CKS-0-2026",
     "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-29-2026] \u2192 [@CKS-MATH-30-2026]",
-    "doi": "10.5281/zenodo.zzz",
+    "doi": "10.5281/zenodo.18878727",
     "abstract": "",
     "dependencies": [],
     "raw_content_preview": " # The Logos Counting System ## Establishing Base-32\u207b\u00b9 as the Natural Arithmetic Foundation for Substrate Computation  **Registry:** [@CKS-MATH-30-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-..."
