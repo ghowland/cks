@@ -116,6 +116,35 @@ class ZenodoSync:
         print(f"Published {depo_id} for {local_id} — DOI: {data.get('doi')}")
         return data
 
+    def reserve_doi(self, local_id: str) -> str:
+        """Request a prereserved DOI for an existing draft."""
+        record = self.manifest["records"].get(local_id, {})
+        depo_id = record.get("zenodo_id")
+        if not depo_id:
+            raise ValueError(f"No zenodo_id found for {local_id}")
+
+        current = self._request("GET", f"deposit/depositions/{depo_id}").json()
+        existing_doi = current.get("metadata", {}).get("prereserve_doi", {}).get("doi")
+        if existing_doi:
+            print(f"DOI already reserved for {local_id}: {existing_doi}")
+            self.manifest["records"][local_id]["doi"] = existing_doi
+            self._save_manifest()
+            return existing_doi
+
+        self._request("PUT", f"deposit/depositions/{depo_id}", json={
+            "metadata": {"prereserve_doi": True}
+        })
+
+        updated = self._request("GET", f"deposit/depositions/{depo_id}").json()
+        doi = updated.get("metadata", {}).get("prereserve_doi", {}).get("doi")
+        if not doi:
+            raise RuntimeError(f"prereserve_doi returned no DOI for {local_id}. Response: {updated}")
+
+        self.manifest["records"][local_id]["doi"] = doi
+        self._save_manifest()
+        print(f"Reserved DOI for {local_id}: {doi}")
+        return doi
+
     def _load_config(self) -> Dict[str, Any]:
         if not self.config_path.exists():
             raise FileNotFoundError(f"Config not found at {self.config_path}")
