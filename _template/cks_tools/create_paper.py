@@ -1,4 +1,5 @@
 import sys
+import re
 import json
 from pathlib import Path
 from zenosync import ZenodoSync
@@ -19,18 +20,67 @@ def find_paper(papers, paper_id):
     return None
 
 
-def format_description(text):
+def markdown_to_html(text):
     if not text:
         return ""
-    import re
     text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
-    paragraphs = text.split("\n\n")
-    result = []
-    for para in paragraphs:
-        para = para.strip().replace("\n", "<br>")
-        if para:
-            result.append("<p>" + para + "</p>")
-    return "\n".join(result)
+    return text
+
+
+def build_description(paper):
+    parts = []
+
+    title = paper["title"]
+    subtitle = paper.get("subtitle", "")
+    if subtitle:
+        parts.append("<h2>" + title + ": " + subtitle + "</h2>")
+    else:
+        parts.append("<h2>" + title + "</h2>")
+
+    parts.append(
+        "<p>This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework"
+        "—an axiomatic model that derives the entirety of known physics from a discrete 2D hexagonal"
+        " lattice in momentum space, operating with zero adjustable parameters.</p>"
+    )
+
+    abstract = markdown_to_html(paper.get("abstract") or "")
+    if abstract:
+        parts.append("<h3>Abstract</h3>")
+        parts.append("<p>" + abstract + "</p>")
+
+    parts.append("<h3>Empirical Falsification (The Kill-Switch)</h3>")
+    parts.append(
+        "<p>CKS is a locked and falsifiable theory. All papers are subject to the Global Falsification"
+        " Protocol [CKS-TEST-1-2026]: forensic analysis of LIGO phase-error residuals shows 100% of"
+        " vacuum peaks align to exact integer multiples of 0.03125 Hz (1/32 Hz) with zero decimal error."
+        " Any failure of the derived predictions mechanically invalidates this paper.</p>"
+    )
+
+    parts.append("<h3>The Universal Learning Substrate</h3>")
+    parts.append(
+        "<p>Beyond its status as a physical theory, CKS serves as the Universal Cognitive Learning Model."
+        " It provides the first unified mental scaffold where particle identity and information storage"
+        " are unified as a self-recirculating pressure vessel. In CKS, a particle is reframed from a"
+        " point or wave into a torus with a surface area of exactly 84 bits (12 &times; 7), preventing"
+        " phase saturation through poloidal rotation.</p>"
+    )
+
+    parts.append("<h3>Package Contents</h3>")
+    parts.append("<ul>")
+    parts.append("<li><code>manuscript.md</code>: The complete derivation and formal proofs.</li>")
+    parts.append("<li><code>README.md</code>: Navigation, dependencies, and citation (Registry: " + paper.get("paper_id", "") + ").</li>")
+    parts.append("</ul>")
+
+    deps = paper.get("dependencies", [])
+    if deps:
+        parts.append("<p><strong>Dependencies:</strong> " + ", ".join(deps) + "</p>")
+
+    frontmatter = paper.get("frontmatter", {})
+    motto = frontmatter.get("Motto", "Axioms first. Axioms always.")
+    status = frontmatter.get("Status", "Locked. Experimentally falsifiable.")
+    parts.append("<p><strong>Motto:</strong> " + motto + "<br><strong>Status:</strong> " + status + "</p>")
+
+    return "\n".join(parts)
 
 
 def build_metadata(paper):
@@ -38,12 +88,11 @@ def build_metadata(paper):
     if paper.get("subtitle"):
         title = title + ": " + paper["subtitle"]
 
-    description = format_description(paper.get("abstract") or "")
+    description = build_description(paper)
 
     publication_date = "2026-02"
     raw_date = paper.get("frontmatter", {}).get("Date", "")
     if raw_date:
-        # "February 2026" -> "2026-02", just use as-is if already formatted
         months = {
             "January": "01", "February": "02", "March": "03", "April": "04",
             "May": "05", "June": "06", "July": "07", "August": "08",
@@ -189,4 +238,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    

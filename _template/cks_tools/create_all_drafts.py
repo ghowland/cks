@@ -1,10 +1,14 @@
 import sys
 import json
+import time
 from pathlib import Path
 from create_paper import load_papers, create_paper
 
 PAPERS_JSON_PATH = "papers.json"
 ZENODO_CRED_PATH = "/mnt/c/Users/Geoff/.secure/zenodo.json"
+
+# Create Paper Delay, so they dont ban us
+DELAY = 0.5
 
 
 def get_stub_papers(papers):
@@ -43,6 +47,9 @@ def create_all_drafts(limit=None, papers_path=PAPERS_JSON_PATH, config_path=ZENO
         except Exception as e:
             print("  FAILED: " + str(e))
             failed.append((paper_id, str(e)))
+
+        time.sleep(0.5)
+
 
     print("-" * 40)
     print("Done.")
