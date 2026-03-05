@@ -1,14 +1,14 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-04 13:17:16 UTC
+**Generated:** 2026-03-05 03:49:10 UTC
 
 ## Summary
 
-- **Total Papers:** 361
-- **Valid:** 340
-- **Invalid:** 21
-- **Total Errors:** 26
-- **Total Warnings:** 946
+- **Total Papers:** 363
+- **Valid:** 341
+- **Invalid:** 22
+- **Total Errors:** 28
+- **Total Warnings:** 707
 
 ## By Subject
 
@@ -34,7 +34,7 @@
 - **MED:** 4 papers
 - **NEURO:** 3 papers
 - **OMNI:** 2 papers
-- **PHYS:** 22 papers
+- **PHYS:** 24 papers
 - **QM:** 1 papers
 - **RTRT:** 1 papers
 - **SEMI:** 1 papers
@@ -48,7 +48,7 @@
 ## By Status
 
 - **Published (has DOI):** 127
-- **Draft (stub .zzz):** 234
+- **Draft (stub .zzz):** 236
 
 ## Validation Issues
 
@@ -58,6 +58,10 @@
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-4-2026**
+  - ❌ Missing Registry field in frontmatter
+
+**CKS-BIO-48-2026**
+  - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-5-2026**
@@ -123,7 +127,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (252 total)
+### Papers with Warnings (254 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  DOI is stub (.zzz)
@@ -146,26 +150,21 @@
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-39-2026**
-  - ⚠️  Registry mismatch: path=CKS-BIO-39-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-40-2026**
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-41-2026**
-  - ⚠️  Registry mismatch: path=CKS-BIO-41-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-42-2026**
-  - ⚠️  Registry mismatch: path=CKS-BIO-42-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-43-2026**
-  - ⚠️  Registry mismatch: path=CKS-BIO-43-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
 **CKS-BIO-44-2026**
-  - ⚠️  Registry mismatch: path=CKS-BIO-44-2026, content=CKS-BIO-38-2026
   - ⚠️  DOI is stub (.zzz)
 
-... and 242 more papers with warnings
+... and 244 more papers with warnings
