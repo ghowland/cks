@@ -14,14 +14,23 @@ import shutil
 
 import template
 from paper_topics import TOPICS
+import zenosync
 
+# Commands
 COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup', 'cleanup', 'sync']
 
+# Creds
+ZENODO_CRED_PATH = "/mnt/c/Users/Geoff/.secure/zenodo.json"
+OUTPUT_JSON_PATH = "zenodo_master_manifest.json"
+
+# Working
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
+# Data
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
 PAPER_SET = 'papers.json'
 
+# Scripts
 GEN_PDF = './_template/_old/gen_pdf.sh'
 SCAN = '../../../_template/_old/scan.py'
 GEN_BIBS = './_template/_old/create_bibs.py'
