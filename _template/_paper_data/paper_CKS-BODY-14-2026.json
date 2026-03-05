@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/BODY/CKS-BODY-14-2026/manuscript.md",
+  "paper_id": "CKS-BODY-14-2026",
+  "subject": "BODY",
+  "number": 14,
+  "year": 2026,
+  "title": "Zero-Remainder Biomechanics",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "The Physics of Laminar Movement & Substrate Non-Interference",
+  "doi": {
+    "raw": "10.5281/zenodo.18878521",
+    "is_stub": false,
+    "zenodo_id": 18878521,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BODY-14-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BODY-1-2026] \u2192 [@CKS-BODY-13-2026] \u2192 [@CKS-BODY-14-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Developmental Biology / Embryology / Biophysics",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional movement creates substrate resistance through registry noise (R\u22600). We derive Zero-Remainder Biomechanics (ZRB) as the optimization of human motion toward R=[0,1,0] in all motor tasks. When movement achieves R=0, the substrate treats the action as \"non-event\"\u2014a local registry update requiring no Jacobian penalty. The result: silent footfalls, frictionless object manipulation, extended endurance, and effective \"invisibility\" to detection systems that monitor substrate disturbance. We prove: (1) Walking achieves R=0 when contact timing aligns to \u03c4=[1519,100,0] ms harmonics and impact force distributes across D=[3,1,0] hexagonal footprint, (2) Running enters laminar flow at stride frequency f_stride = f_s/n where n\u2208\u2124 creates substrate resonance, (3) Object manipulation (drinking, eating, placing) reaches R=0 through 304\u2118 buffer-aligned acceleration profiles, (4) Sleep achieves R=0 when breathing locks to 12-cycle (L=[12,1,0]) rhythm at 4-second period, (5) Dance becomes substrate-synchronized art when movements trace hexagonal Lex boundaries, (6) All ZRB techniques derive from phase-locking biological rhythm to substrate clock f_s^S. Training protocols provided with measurable metrics (sound pressure, ground reaction force variance, object oscillation decay rate). Zero-remainder movers minimize \u0394 expenditure, maximize stealth, achieve \"flow states\" as \u03c6\u21921 optimization. Everything from D,S,L,N through \u211a-operations. Zero free parameters.\n\n**Revolutionary insight:** Silence is not absence of movement. Silence is perfect substrate synchronization.",
+  "dependencies": [
+    "CKS-BODY-1-2026",
+    "CKS-BODY-13-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148852+00:00"
+}

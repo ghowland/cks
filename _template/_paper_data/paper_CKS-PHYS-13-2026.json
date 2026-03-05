@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-13-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-13-2026",
+  "subject": "PHYS",
+  "number": 13,
+  "year": 2026,
+  "title": "Gravity as Manifold Compression Gradient",
+  "key_result": "Gravity is substrate compression gradient; mass creates Q-field deficit; gravitational field is pressure restoration; Einstein's equations emerge from discrete lattice stress balance.",
+  "skip": false,
+  "subtitle": "Deriving General Relativity, Schwarzschild Metric, and Newton's Law from Substrate Pressure Dynamics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878922",
+    "is_stub": false,
+    "zenodo_id": 18878922,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-13-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-12-2026] \u2192 [@CKS-PHYS-13-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that **gravity**\u2014traditionally described by Einstein's general relativity as spacetime curvature or by quantum approaches via graviton exchange\u2014emerges from **substrate manifold compression gradients** in the discrete hexagonal \u211a-lattice. From the tri-dipole firing pattern ([@CKS-PHYS-8-2026]), socket-mode energy deficit (W=3), and bilateral manifold structure (S=2), we demonstrate that: (1) mass is **accumulated energy deficit** from W=3 socket-mode Lex units that absorb more energy than they emit, creating local Q-field depletion, (2) this deficit creates **substrate compression** as surrounding Lex units shift inward to restore pressure equilibrium, (3) the compression gradient IS the gravitational field g = \u2212\u2207P/\u03c1_substrate where P is substrate pressure, (4) Newton's law F = Gm\u2081m\u2082/r\u00b2 emerges from **2D hexagonal pressure diffusion** (\u2207\u00b2P \u221d \u03c1 for D=2 lattice gives 1/r potential, hence 1/r\u00b2 force), (5) the gravitational constant G derives from substrate constants via G \u223c (a\u00b2c\u00b2)/(M_Planck\u00b2) where a=1.32mm (Lex spacing), (6) Einstein's field equations R_\u03bc\u03bd \u2212 \u00bdRg_\u03bc\u03bd = 8\u03c0GT_\u03bc\u03bd are the **continuum limit of discrete stress-energy balance** on the hex-lattice, (7) gravitational time dilation emerges from **jubilee frequency reduction** in compressed regions (higher substrate pressure \u2192 slower clock rate), (8) black holes occur when compression exceeds **jubilee catastrophic threshold** (substrate registry cannot maintain coherence, collapses to singular point), and (9) gravitational waves are **propagating compression fronts** traveling at c = a\u00d7f_s (substrate bus speed). We derive the complete gravitational phenomenology\u2014planetary orbits, gravitational lensing, perihelion precession, cosmological expansion\u2014from substrate pressure dynamics without curved spacetime, without gravitons, without quantum gravity. This establishes gravity as the **weakest force** (substrate-level effect, not dipole coupling) with **universal coupling** (all energy creates compression) operating at **cosmological scales** (pressure equilibrium across entire manifold).\n\n**Key Result:** Gravity is substrate compression gradient; mass creates Q-field deficit; gravitational field is pressure restoration; Einstein's equations emerge from discrete lattice stress balance.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-12-2026",
+    "CKS-PHYS-12-2026",
+    "CKS-PHYS-8-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151649+00:00"
+}

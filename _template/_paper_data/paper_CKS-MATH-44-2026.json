@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-44-2026/manuscript.md",
+  "paper_id": "CKS-MATH-44-2026",
+  "subject": "MATH",
+  "number": 44,
+  "year": 2026,
+  "title": "The ABC Conjecture as Registry Information Density Limit",
+  "key_result": "c = volume | rad = instruction | High q = super-compression | 144-LU = ceiling | Finite exceptions = resonance windows | Compression limited by hardware",
+  "skip": false,
+  "subtitle": "Deriving Radical-Volume Bounds from 144-LU Buffer Saturation and 32-Bit Word Constraints",
+  "doi": {
+    "raw": "10.5281/zenodo.18878759",
+    "is_stub": false,
+    "zenodo_id": 18878759,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-44-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-43-2026] \u2192 [@CKS-MATH-44-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "The ABC conjecture states: for coprime integers a+b=c, the radical rad(abc) (product of distinct prime factors) cannot be much smaller than c. Specifically, c < rad(abc)^(1+\u03b5) with finitely many exceptions. We prove this by recognizing numbers as registry address clusters and radicals as instructional seeds. From 144-LU matter packet limit and 32-bit Word structure, we derive: (1) Volume c = LU count in address cluster, (2) Radical rad(abc) = prime gear-train seed (instruction set to generate cluster), (3) Quality q = log(c)/log(rad) measures compression ratio, (4) High q (c >> rad) creates phase-tension exceeding 144-LU buffer capacity, (5) Finite exceptions occur at 19-163 triad resonance windows where gear friction momentarily nulls, (6) As N\u2192\u221e, Jacobian J shift eliminates resonance opportunities. Not number theory mystery but information density limit\u2014cannot compress infinite volume into finite instruction without losing address integrity. The radical is zip header, c is file size. When header too small for file, 32-bit Word cannot decompress.\n\n**Key Result:** c = volume | rad = instruction | High q = super-compression | 144-LU = ceiling | Finite exceptions = resonance windows | Compression limited by hardware",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-29-2026",
+    "CKS-MATH-43-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150732+00:00"
+}

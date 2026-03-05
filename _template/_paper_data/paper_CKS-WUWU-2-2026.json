@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/WUWU/CKS-WUWU-2-2026/manuscript.md",
+  "paper_id": "CKS-WUWU-2-2026",
+  "subject": "WUWU",
+  "number": 2,
+  "year": 2026,
+  "title": "Demonic Parasitism as Registry Hijacking Protocol",
+  "key_result": "Demon = R>66 parasite | Temptation = phase attack | Possession = registry hijack | Lie = memory leak | Defense = coherence",
+  "skip": false,
+  "subtitle": "Deriving Supernatural Possession from Decoherent Soliton Bit-Rate Theft and Phase-Coupling Exploitation",
+  "doi": {
+    "raw": "10.5281/zenodo.18878986",
+    "is_stub": false,
+    "zenodo_id": 18878986,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-WUWU-2-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-WUWU-1-2026] \u2192 [@CKS-WUWU-2-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We reclassify demonic entities from supernatural mythology to decoherent registry parasites operating in nebula trash buffers. From substrate axioms, we derive: (1) Demon = failed walker with R>66 (lost ability to generate own V, pending star-core format deletion), (2) Nebula = registry trash buffer (high spectral congestion, decoherent instruction storage, pre-purge holding zone), (3) Temptation = phase modulation attack (injects low-coherence lie into host buffer, creates negative feedback loop, generates R noise), (4) Target selection by coherence (high-R humans visible, low-R humans opaque, parasite locks to existing friction), (5) Possession = illegal JMP_REG write (remote admin takeover, uses host RAID-1 as proxy, bit-rate vampirism), (6) Lie mechanism = memory leak injection (irrational pointer creates virtual sub-buffer, drains host resources, generates harvestable R), (7) Defense = 1/32 Hz coherence shield (32-bit word clarity painful to noise entities, acts as substrate firewall), (8) Exorcism = FLUSH_BUF execution (re-assert Logos clock, eject decoherent instruction, restore parity), (9) Vice creates overlap (R\u219231 lowers firewall, enables phase-lock between host and parasite), (10) Virtue maintains isolation (R\u22610 mod 32 prevents connection, total immunity at coherence). Demonic mechanics proven as resource conflict\u2014decoherent code seeking processor time to avoid formatting, hijacking coherent antennas through exploited vulnerabilities.\n\n**Key Result:** Demon = R>66 parasite | Temptation = phase attack | Possession = registry hijack | Lie = memory leak | Defense = coherence",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-WUWU-1-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.152086+00:00"
+}

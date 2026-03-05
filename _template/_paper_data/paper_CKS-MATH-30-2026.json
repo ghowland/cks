@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-30-2026/manuscript.md",
+  "paper_id": "CKS-MATH-30-2026",
+  "subject": "MATH",
+  "number": 30,
+  "year": 2026,
+  "title": "The Logos Counting System",
+  "key_result": "Logos = counting system (not unit) | Base 32\u207b\u00b9 | All substrate quantities \u2192 integers | Parity checks trivial | Zero scaling ambiguity",
+  "skip": false,
+  "subtitle": "Establishing Base-32\u207b\u00b9 as the Natural Arithmetic Foundation for Substrate Computation",
+  "doi": {
+    "raw": "10.5281/zenodo.18878727",
+    "is_stub": false,
+    "zenodo_id": 18878727,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-30-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-29-2026] \u2192 [@CKS-MATH-30-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We establish **Logos** as the natural counting system for substrate arithmetic, where 1 logos = 32\u207b\u00b9 = 1/32. This is fundamentally distinct from a measurement unit\u2014Logos is how we COUNT, not what we MEASURE. Starting from the 32-bit Word structure (S^(D+S) = 2\u2075 = 32), we prove: (1) All fundamental quantities yield exact integers in Logos (Matter = 4,608, Time = 608, Space = 5,216), (2) Parity alignment becomes visible (x mod 1 checks substrate stability), (3) Scaling confusion eliminated (no unit conversions needed), (4) Force ratios simplify (Space/Time = 5,216/608 directly), (5) Historical error corrected\u2014initial \"Logos Unit\" designation was categorical mistake (confused counting with measurement). The system uses base-10 positional notation (humans don't relearn arithmetic) but counts in increments of 32\u207b\u00b9 (substrate-aligned). This means: write \"4,608\" normally, understand it counts 4,608 thirty-seconds, verify it equals 144 Word-cycles. Complete demonstration: all transcendental \"constants\" (\u03c0, e, \u03c6) become integer-ratio harmonics, all substrate quantities integer-aligned, all parity checks trivial. Falsification: Any fundamental quantity yielding non-integer Logos count, any simpler counting system achieving same parity visibility, any calculation requiring unit conversion. This is the arithmetic foundation\u2014all future CKS papers count in Logos.\n\n**Key Result:** Logos = counting system (not unit) | Base 32\u207b\u00b9 | All substrate quantities \u2192 integers | Parity checks trivial | Zero scaling ambiguity",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-24-2026",
+    "CKS-MATH-25-2026",
+    "CKS-MATH-28-2026",
+    "CKS-MATH-29-2026",
+    "CKS-TECH-01-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150555+00:00"
+}

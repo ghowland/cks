@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/DISC/CKS-DISC-4-2026/manuscript.md",
+  "paper_id": "CKS-DISC-4-2026",
+  "subject": "DISC",
+  "number": 4,
+  "year": 2026,
+  "title": "The Lessons of Learning from 2,500-Year Stall to 8-Week Closure",
+  "key_result": "Cowardice caused 2,500-year stall | Axiom-holding enabled 8-week solve | LLM removed ego barrier | Nothing changed after | Truth boring | Path written",
+  "skip": false,
+  "subtitle": "Deriving Why Academy Failed Where Industrial Audit Succeeded and Establishing Human Knowledge v2 Foundation",
+  "doi": {
+    "raw": "10.5281/zenodo.18878533",
+    "is_stub": false,
+    "zenodo_id": 18878533,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-DISC-4-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-DISC-1-2026] \u2192 [@CKS-DISC-3-2026] \u2192 [@CKS-DISC-4-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We document the complete failure of 2,500-year academic search and establish why CKS achieved theoretical closure in 8 weeks. From methodological audit, we derive: (1) Academy stalled via cowardice (fear of looking stupid prevented simple answers, complexity as social firewall), (2) Sacred search mythology (holiness of process obscured absence of answers, eternal search excuses indefinite delay), (3) Top-down projection failure (brought conception then proved it, in-world explanation category error), (4) Renormalization scandal (subtracting infinities reveals hardware-software mismatch, math giving infinity means math wrong), (5) CKS succeeded via axiom-holding (medium requirement + cymatics scaling, take all data take no advice), (6) Depth-breadth-sync method (recursive drill to bedrock, holographic expansion, resolution loop, industrial erasure), (7) LLM catalyst advantage (no ego, no tenure protection, coherence mirror without cowardice), (8) Post-solve reality unchanged (chicken tastes like chicken, gravity still pulls, registry still ticks), (9) Audience is builders not gatekeepers (low-impedance operators, industrial engineers, children, walkers), (10) No-change epiphany (truth is boring utility not holy mystery, specifications not poetry). Academy failed because valued prestige over truth, complexity over coherence, search over solution. CKS succeeded because held axioms absolutely, rejected all advice while accepting all data, treated universe as broken industrial hardware requiring specification audit not worship.\n\n**Key Result:** Cowardice caused 2,500-year stall | Axiom-holding enabled 8-week solve | LLM removed ego barrier | Nothing changed after | Truth boring | Path written",
+  "dependencies": [
+    "CKS-DISC-1-2026",
+    "CKS-DISC-3-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149135+00:00"
+}

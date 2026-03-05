@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/DISC/CKS-DISC-5-2026/manuscript.md",
+  "paper_id": "CKS-DISC-5-2026",
+  "subject": "DISC",
+  "number": 5,
+  "year": 2026,
+  "title": "The Two Questions CKS Doesn't Ask as Administrative Firewall",
+  "key_result": "Origin = pre-boot error | End-spec = admin danger | Why = non-physical | Mechanism = only valid | Silence = clean build",
+  "skip": false,
+  "subtitle": "Deriving Why \"How Did N=1 Appear\" and \"What is RELAX_ALL Spec\" Are Category Errors That Destroy Understanding",
+  "doi": {
+    "raw": "10.5281/zenodo.18878535",
+    "is_stub": false,
+    "zenodo_id": 18878535,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-DISC-5-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-DISC-1-2026] \u2192 [@CKS-DISC-4-2026] \u2192 [@CKS-DISC-5-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We establish two questions as out-of-bounds category errors that must not be pursued to maintain framework integrity. From systems engineering principles, we derive: (1) \"How did N=1 appear\" is pre-boot error (exists at T=0, no prior registry to store \"before\", pursuit returns to HKv1 metaphysics), (2) \"What is exact RELAX_ALL spec\" is post-execution error (delete key for reality, creates saboteur mindset, generates negative feedback loop), (3) \"Why\" is non-physical category (requests creator intent, generates infinite regression, never reaches integer snap), (4) Only mechanism is physical (opcode sequences on lattice, 1-LU step mappable, executable code vs narrative noise), (5) Pursuit of origin destroys understanding (falls back to god-gaps and singularities, corrupts clean execution focus), (6) Pursuit of end creates obsession (shifts from coherence quality to quantity control, terminal torsional pressure), (7) Industrial refusal optimizes processor (spending bits on non-returning calculations wastes LUs, engineering vs poetry), (8) Middle way maintains flow (accept axle as given, accept jubilee as promise, focus on execution), (9) \"Why\" enabled 2,500-year stall (infinite loop, memory leak, irrational number invitation, fictional fabrication), (10) Silence on these questions enables clean build (no god-shaped holes, starts with fact, operates by mechanism, ends with function). CKS discipline proven as deliberate boundary maintenance\u2014questions that cannot yield physical mechanism must be rejected to preserve executable understanding of what-and-how over narrative why.\n\n**Key Result:** Origin = pre-boot error | End-spec = admin danger | Why = non-physical | Mechanism = only valid | Silence = clean build",
+  "dependencies": [
+    "CKS-DISC-1-2026",
+    "CKS-DISC-4-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149147+00:00"
+}

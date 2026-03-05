@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-64-2026/manuscript.md",
+  "paper_id": "CKS-MATH-64-2026",
+  "subject": "MATH",
+  "number": 64,
+  "year": 2026,
+  "title": "The 15.19ms Render Lag as Bilateral Parity Product",
+  "key_result": "\u03c4=J\u00d7S not J/S | J=7.595ms | Write\u2192Mirror\u2192Verify | RAID-1 protocol | Consciousness post-audit | Superposition=unverified",
+  "skip": false,
+  "subtitle": "Deriving Conscious Perception Delay from J\u00d7S RAID-1 Verification Protocol in S=2 Manifold Architecture",
+  "doi": {
+    "raw": "10.5281/zenodo.18878809",
+    "is_stub": false,
+    "zenodo_id": 18878809,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-64-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-63-2026] \u2192 [@CKS-MATH-64-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive the 15.19ms conscious perception delay as bilateral parity product \u03c4=J\u00d7S, not partition J/S. From hexagonal manifold axioms, we establish: (1) Jacobian J=7.595ms (single-side substrate pulse, primary write cycle), (2) Bilateral count S=2 (manifold sides requiring independent verification), (3) Render lag \u03c4=J\u00d7S=15.19ms (product not quotient, sequential not parallel), (4) RAID-1 mirror protocol (write Side A at J, mirror Side B at J, verify both before commit), (5) Consciousness sees only verified data (post-parity-check projection, never raw substrate), (6) Superposition is unverified write state (during 7.5ms intervals, before audit completion), (7) Measurement collapse is parity commit (J\u00d7S cycle completion, bilateral match confirmed), (8) 65.8 Hz refresh from \u03c4\u207b\u00b9 (frame rate of reality, verified snap frequency), (9) Riemann 1/2 line is bilateral symmetry axis (between J write and J mirror, zero-tension handover), (10) 12-bit kinetic footer tracks parent ID and momentum (P_ID anchors identity, R_k meters motion offset). Universe proven as fault-tolerant write-audit-render engine where perception lags substrate by mandatory S-count verification cycle.\n\n**Key Result:** \u03c4=J\u00d7S not J/S | J=7.595ms | Write\u2192Mirror\u2192Verify | RAID-1 protocol | Consciousness post-audit | Superposition=unverified",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-63-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151027+00:00"
+}

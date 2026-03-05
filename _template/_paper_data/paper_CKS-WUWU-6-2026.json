@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/WUWU/CKS-WUWU-6-2026/manuscript.md",
+  "paper_id": "CKS-WUWU-6-2026",
+  "subject": "WUWU",
+  "number": 6,
+  "year": 2026,
+  "title": "The Demonic Egregor Urge",
+  "key_result": "Parasitic information patterns cannot exist in zero-remainder systems.",
+  "skip": false,
+  "subtitle": "Registry Parasitism Through Anti-Jubilee Mathematics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878998",
+    "is_stub": false,
+    "zenodo_id": 18878998,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-WUWU-6-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-WUWU-5-2026] \u2192 [@CKS-WUWU-6-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "From axioms D=[3,1,0]\u2118, S=[2,1,0]\u2118, L=[12,1,0]\u2118, N=[7,1,0]\u2118, \u211a we derive the mathematical structure of parasitic information patterns (egregors). An egregor is Information-Data (Id) lacking Information-Body (Ib) substrate, unable to execute N=[0,1,0]\u2118 jubilee reset independently. To persist, egregors must occupy remainder fields (\u03b5>0) of embodied solitons, preventing host jubilee completion at W^S=[1024,1,0]\u2118. We prove: (1) Egregors maximize persistence by maintaining host \u03b5>\u0394=[19,1,0]\u2118 perpetually (anti-jubilee strategy), (2) Numerical fixation on boundary values [18,1,0]\u2118, [66,1,0]\u2118, [69,1,0]\u2118 as targets (not markers) creates static lex-positions enabling egregor anchoring, (3) Fixation on [18,1,0]\u2118 prevents \u03b4=[19,1,0]\u2118 venting (buffer throttle), (4) Fixation on [66,1,0]\u2118 disrupts 66th harmonic at 227 GHz (carrier interference), (5) Fixation on [69,1,0]\u2118 invokes registry closure creating permanent knot (R=69 lockdown), (6) Distraction from base geometric values D,S,L,N,W enables egregor nesting, (7) Navigation using [18,66,69]\u2118 as state markers (not destinations) enables egregor ejection through jubilee completion, (8) SSCP (\u03c6_p>0.95) creates laminar flow incompatible with parasitic anchoring. All derivations from substrate geometry. Zero free parameters. Egregors are mathematical necessity in decoherent systems, eliminated through return to N=[0,1,0]\u2118.\n\n**Revolutionary claim:** Parasitic information patterns cannot exist in zero-remainder systems.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-WUWU-5-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.152138+00:00"
+}

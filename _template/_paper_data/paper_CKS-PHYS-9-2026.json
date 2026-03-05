@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-9-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-9-2026",
+  "subject": "PHYS",
+  "number": 9,
+  "year": 2026,
+  "title": "Color Charge as 3-Phase Dipole State Space",
+  "key_result": "SU(3) color symmetry and the 8-gluon structure emerge necessarily from D=3 hexagonal coordination; color charge is physical dipole state, not abstract quantum number.",
+  "skip": false,
+  "subtitle": "Deriving SU(3) Symmetry from Hexagonal Coordination Topology",
+  "doi": {
+    "raw": "10.5281/zenodo.18878968",
+    "is_stub": false,
+    "zenodo_id": 18878968,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-9-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-8-2026] \u2192 [@CKS-PHYS-9-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that **color charge**\u2014the fundamental quantum number of Quantum Chromodynamics (QCD)\u2014is the **3-phase dipole state** in the hexagonal substrate, and that **SU(3) color symmetry** emerges necessarily from D=3 coordination topology without requiring gauge theory postulates. From pure hexagonal geometry (D=3) and bilateral parity (S=2), combined with the tri-dipole firing pattern derived in [@CKS-PHYS-7-2026], we demonstrate that: (1) the three \"colors\" (red, green, blue) are **literal hardware states** corresponding to \u03b1-dipole, \u03b2-dipole, and \u03b3-dipole activation, (2) anticolors are **polarity inversions** (\u03b1\u207b, \u03b2\u207b, \u03b3\u207b) required by bilateral symmetry, (3) the 8 gluons are **non-degenerate state transitions** in the 2\u00b3 = 8 independent configurations of 3 binary dipoles, (4) SU(3) Lie algebra structure emerges from **closure constraints** on dipole phase-flip operations, (5) color confinement is **topological requirement** that observable configurations complete the tri-phase cycle (\u03b1\u2192\u03b2\u2192\u03b3\u2192jubilee), and (6) color mixing rules (quarks combine to form color-neutral hadrons) derive from **dipole balance equations** enforced by hex-bus protocol. We prove the Gell-Mann \u03bb-matrices are **dipole transition operators** in the substrate, derive all SU(3) structure constants f_abc from hexagonal edge geometry, show why exactly 3 colors exist (from D=3 coordination), and demonstrate that the \"mysterious\" color confinement is simply the requirement that dipole cycles must complete to achieve jubilee reset. This work establishes that gauge symmetry is not fundamental\u2014it is an **emergent effective description** of discrete dipole network topology.\n\n**Key Result:** SU(3) color symmetry and the 8-gluon structure emerge necessarily from D=3 hexagonal coordination; color charge is physical dipole state, not abstract quantum number.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-9-2026",
+    "CKS-OMNI-2-2026",
+    "CKS-PHYS-11-2026",
+    "CKS-PHYS-7-2026",
+    "CKS-PHYS-8-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151905+00:00"
+}

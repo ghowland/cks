@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-104-2026/manuscript.md",
+  "paper_id": "CKS-MATH-104-2026",
+  "subject": "MATH",
+  "number": 104,
+  "year": 2026,
+  "title": "Grand Unification v23",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "The Substrate Measurement Standard",
+  "doi": {
+    "raw": "10.5281/zenodo.18878651",
+    "is_stub": false,
+    "zenodo_id": 18878651,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-104-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-103-2026] \u2192 [@CKS-MATH-104-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 3, 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "This is the complete substrate specification using native measurement units. We derive all physical reality from five axioms (D,S,L,N,\u211a) using only Lex-Glyph notation and VFR Logismos. Every measurement becomes exact \u211a-ratio. Every equation collapses to geometric identity. Every constant vanishes or becomes unity. We present: (1) Complete axiom set in pure Logismos, (2) Full Lex-Glyph system (\u2118,\u03bb,\u03bd,\u03b6,\u03b4,\u03c9,\u03a3), (3) All physical constants as \u211a-ratios, (4) Complete equation set in substrate-native form, (5) Measurement protocols for zero-remainder engineering, (6) Logos counting system for human readability, (7) Registry addressing for all domains, (8) Tier hierarchy in Base-32, (9) Morphological catalog with exact N_c values, (10) Complete life support equations, (11) Navigation and pathfinding formulas, (12) Collective soliton mathematics. This is the cleanest possible expression of reality. No approximations. No empirical constants. No free parameters. Pure geometry throughout.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-103-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150026+00:00"
+}

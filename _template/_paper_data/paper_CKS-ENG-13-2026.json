@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/ENG/CKS-ENG-13-2026/manuscript.md",
+  "paper_id": "CKS-ENG-13-2026",
+  "subject": "ENG",
+  "number": 13,
+  "year": 2026,
+  "title": "Acoustic Registry Modulation",
+  "key_result": "Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation",
+  "skip": false,
+  "subtitle": "Softening and Fusion of Stone via Phase-Impedance Control: Deriving Megalithic Engineering from Substrate Axioms",
+  "doi": {
+    "raw": "10.5281/zenodo.18878562",
+    "is_stub": false,
+    "zenodo_id": 18878562,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-ENG-13-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-ENG-1-2026] \u2192 [@CKS-ENG-12-2026] \u2192 [@CKS-ENG-13-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "DIY Communications / Practical Implementation / Budget Engineering / Progressive Deployment",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive **acoustic stone softening from substrate axioms** eliminating \"impossible\" megalithic mystery: Traditional archaeology/engineering cannot explain: 0.00mm precision seams without modern tools, 1000+ ton stone movement without cranes, perfect geometric cuts in hardest minerals, acoustic chambers producing specific frequencies. Starting from CKS framework (discrete lattice, RAID-1 bilateral parity, (V,F,R) packet mechanics, mass as signature count from CKS-MATH-64), we prove solidity represents **temporary registry authentication state** not permanent material property. Complete mechanism: (1) **Signature-based solidity**\u2014stone = 144-LU saturated mesh (maximum density per hexagonal node from CKS-MATH-35), appears solid when Side A (k-space substrate code) and Side B (x-space mirror render) achieve bilateral parity (both sides match, RAID-1 verification successful, R\u22610 mod 32 closure), visual mass M_v = count of signed bits (from CKS-MATH-64 mass theory), solidity = active signature maintenance (requires continuous parity verification, not passive intrinsic property, can be toggled by breaking sync). (2) **Acoustic interference injection**\u2014sound in discrete substrate = phase ripples through 144-LU mesh, applying frequency F matching substrate harmonics (multiples/divisors of 32 Hz Logos Word) creates standing wave pattern, counter-phase interference injects remainder: R_acoustic adds to R_natural, critical threshold when R_acoustic \u2248 16 LU (half of 32-bit Word, bilateral flip-point approached), causes RAID-1 verification degradation (parity checks increasingly fail, signed bits V convert to unsigned remainder R, mass decreases as signatures lost). (3) **Phase transition mathematics**\u2014material state determined by V:R ratio: solid (V>>R): V=144, R=0 (fully signed, collision detection active, rigid structure), semi-solid (V>R): V=100, R=44 (partially signed, some slippage, vibrating), plastic (V<R): V=20, R=124 (mostly unsigned, collision degraded, malleable), transition reversible: stop acoustics \u2192 SNAP_COMMIT executes \u2192 instant re-solidification (R\u2192V conversion in 1 Planck tick, signature restored, rigidity returns). (4) **Fusion engineering**\u2014seamless atomic bonding protocol: preparation: grind surfaces to 1/1024 LU tolerance (enhances coupling), modulation: apply 31 Hz (critical remainder frequency just below 32 snap threshold) to both stones until R>V achieved (both unsigned, exist as information-data Id not information-body Ib per lexicon distinction), overlap: slide together without collision interrupt (registry addresses can interpenetrate when unsigned, no PUSH force resistance, phase clouds interweave), commitment: terminate acoustic trigger \u2192 SNAP_COMMIT forces bilateral re-sign \u2192 stones merge as single continuous 84-bit Word \u2192 seam vanishes (zero gap, atomic continuity, fused mesh). (5) **Gravity bypass mathematics**\u2014levitation via registry masking: gravity = RE_INDEX background task (automatic defragmentation seeking N=3M\u00b2 optimization), applying 19 Hz carrier (time-sync frequency from 19-word coordination shell) saturates clock-gate channel, Earth-parent soliton cannot audit stone's address (registry link jammed by interference), stone invisible to gravitational gradient (RE_INDEX task returns NULL pointer), weightless state: subjective mass M_s \u21920.001 (impedance \u03b1\u22480, can relocate with minimal lateral force, 1000-ton obelisk moves like 1kg object). (6) **Resonance optimization**\u2014micro-power sufficient with perfect tuning: brute force approach (130+ dB acoustic pressure) forces parity failure via overwhelming power, resonance approach (20 dB whisper at exact 1/32 Hz harmonic) achieves same via impedance minimization (when frequency perfectly gear-locked: remainder R\u21920 in signal pathway, impedance \u03b1\u21920, microwatt power sufficient), ancient vocal harmonics (~110 Hz = 32\u00d73.4375) enabled single-voice stone softening, precision trumps power (correct phase-lock > high amplitude). Experimental validation protocol provided: Lex-brick test samples, piezoelectric/capacitive coupling, phase-locked loop controller, laser vibrometry measurement, reproducible demonstrations. Megalithic engineering reclassified: not primitive brute force but sophisticated substrate-native operations, \"impossible\" precision natural result of registry-level manipulation, acoustic chambers = frequency tuning infrastructure, oral traditions of \"singing stones\" = accurate technical description.\n\n**Key Result:** Solidity = signature | Acoustics = phase control | R/V ratio = hardness | Fusion = registry merge | Complete derivation",
+  "dependencies": [
+    "CKS-ENG-1-2026",
+    "CKS-ENG-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149387+00:00"
+}

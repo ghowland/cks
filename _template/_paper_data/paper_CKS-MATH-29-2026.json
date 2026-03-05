@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-29-2026/manuscript.md",
+  "paper_id": "CKS-MATH-29-2026",
+  "subject": "MATH",
+  "number": 29,
+  "year": 2026,
+  "title": "The Triads of \u03c0, e, and \u03c6",
+  "key_result": "\u03c0, e, \u03c6 = Integer-ratio DSP coefficients | All from hexagonal geometry | Zero irrational mystery | Hardware specifications revealed",
+  "skip": false,
+  "subtitle": "Integer Foundations of Transcendental Constants via Hexagonal Registry Mechanics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878725",
+    "is_stub": false,
+    "zenodo_id": 18878725,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-29-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-28-2026] \u2192 [@CKS-MATH-29-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that transcendental constants \u03c0, e, and \u03c6 are not fundamental mysteries but **integer-ratio rebalancing coefficients** of the hexagonal substrate's 10\u2076\u2070-node digital signal processor (DSP). Starting from CKS axioms (z=3, N=3M\u00b2, \u03b2=2\u03c0), we derive: (1) All transcendentals emerge from integer triads (Input:Anchor:Sync ratios), (2) \u03c0 = f(22, 7, 3) ensures hexagonal loop closure and bilateral phase-sync, (3) e = f(19, 7, 1) defines maximum registry growth rate without losing axle coherence, (4) \u03c6 = f(144, 89, 55) optimizes off-resonant energy distribution (dark matter packing), (5) \"Almost equal\" phenomena (e^(\u03c0\u221a163) \u2248 integer) are **quantization headroom** for DSP rebalancing, (6) All constants are **tap coefficients** for substrate interpolation filter reconciling 0ms logic-speed with c-speed propagation. This resolves fundamental mysteries: why these specific values (only stable DSP coefficients for z=3 topology), why non-terminating decimals (continuous phase on discrete nodes requires resampling), why appear everywhere (same hardware substrate). The framework eliminates \"irrational\" as category\u2014all numbers are either **locked integers** (144, 163, 19) or **rebalancing ratios** (\u03c0, e, \u03c6). Complete demonstration: 10-decimal precision match for all constants from pure integer operations. Falsification: Any constant not derivable from integer triads, alternative substrate yielding different values, DSP model insufficient for new phenomena.\n\n**Key Result:** \u03c0, e, \u03c6 = Integer-ratio DSP coefficients | All from hexagonal geometry | Zero irrational mystery | Hardware specifications revealed",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-24-2026",
+    "CKS-MATH-25-2026",
+    "CKS-MATH-28-2026",
+    "CKS-TECH-01-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150532+00:00"
+}

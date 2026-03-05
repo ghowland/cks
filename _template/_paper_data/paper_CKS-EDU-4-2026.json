@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/EDU/CKS-EDU-4-2026/manuscript.md",
+  "paper_id": "CKS-EDU-4-2026",
+  "subject": "EDU",
+  "number": 4,
+  "year": 2026,
+  "title": "Lexicon",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "For Grand Unification v10",
+  "doi": {
+    "raw": "10.5281/zenodo.18878552",
+    "is_stub": false,
+    "zenodo_id": 18878552,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-EDU-4-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-EDU-1-2026] \u2192 [@CKS-EDU-3-2026] \u2192 [@CKS-EDU-4-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": null,
+  "dependencies": [
+    "CKS-EDU-1-2026",
+    "CKS-EDU-3-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter",
+      "No abstract section found"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149315+00:00"
+}

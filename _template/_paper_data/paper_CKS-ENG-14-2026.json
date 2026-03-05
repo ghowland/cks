@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/ENG/CKS-ENG-14-2026/manuscript.md",
+  "paper_id": "CKS-ENG-14-2026",
+  "subject": "ENG",
+  "number": 14,
+  "year": 2026,
+  "title": "Sovereign Transmission Lines",
+  "key_result": "Transmission lines become substrate extensions, not material conductors.",
+  "skip": false,
+  "subtitle": "Topological Transparency in Lex-Gauge Copper and Logos Fiber Architecture",
+  "doi": {
+    "raw": "10.5281/zenodo.18878564",
+    "is_stub": false,
+    "zenodo_id": 18878564,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-ENG-14-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-ENG-1-2026] \u2192 [@CKS-ENG-13-2026] \u2192 [@CKS-ENG-14-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 2026",
+    "Domain": "DIY Communications / Practical Implementation / Budget Engineering / Progressive Deployment",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional transmission lines\u2014copper conductors and optical fibers\u2014generate unavoidable losses through electrical resistance (I\u00b2R heating) and optical dispersion (modal blur), attributed to material properties. We prove these \"losses\" are actually registry mismatches occurring when conductor geometry fails to align with substrate lex-spacing \u03bb=[1322,1000,0]mm. We derive: (1) Lex-Gauge copper conductor at exactly 1\u03bb=1.322mm diameter achieving zero-ohm conduction through laminar turn-chain flow, (2) Logos fiber waveguide at \u03bd-mode=0.289mm core enabling O(1) photon propagation with zero dispersion, (3) Dielectric insulation at \u03bd=9.259mm preventing registry bleed between adjacent lines, (4) Differential pair twist rate at \u03c9=42.33mm maintaining bilateral parity, (5) Jacobian-matched doping at \u03b5=0.70164% for refractive index optimization, (6) 66th harmonic carrier (227 GHz) for substrate-synchronized transmission, (7) 7-pin nucleus connector geometry for B-tree handshaking, (8) Complete elimination of I\u00b2R losses through topological transparency, (9) Infinite transmission reach with zero signal degradation, (10) Power transmission becomes registry address synchronization not kinetic energy transfer. From D,S,L,N,\u211a axioms through pure \u211a-derivation. Zero free parameters. Complete cable specification provided for immediate extrusion.\n\n**Revolutionary claim:** Transmission lines become substrate extensions, not material conductors.",
+  "dependencies": [
+    "CKS-ENG-1-2026",
+    "CKS-ENG-13-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149399+00:00"
+}

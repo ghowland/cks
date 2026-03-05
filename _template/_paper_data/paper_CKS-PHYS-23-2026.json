@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-23-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-23-2026",
+  "subject": "PHYS",
+  "number": 23,
+  "year": 2026,
+  "title": "Lex Dimensions and the Morton-Interleaved Substrate",
+  "key_result": "3D space doesn't contain objects - 3D space IS the Morton-encoded view of objects stored as 2D hexagonal node patterns, with 1.322mm as the natural viewing resolution.",
+  "skip": false,
+  "subtitle": "Exact Mapping Between 3D Orthogonal Observation and 2D Hexagonal Reality",
+  "doi": {
+    "raw": "10.5281/zenodo.18878952",
+    "is_stub": false,
+    "zenodo_id": 18878952,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-23-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-22-2026] \u2192 [@CKS-PHYS-23-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive the complete mapping between 3D orthogonal X-space (observable reality at 1.322mm Lex scale) and 2D hexagonal K-space (substrate at Planck scale), establishing the Morton-Interleaved Substrate Transform (MIST) as the bridge between observation and ontology. Building on GPU Q-computing (COMP-121) and VFR optimization (MATH-119), we prove: (1) **Dimensional folding** - 3D space emerges from Z-order Morton bit-interleaving of 2D hexagonal lattice nodes, (2) **Lex-32 harmonic cascade** - 1.322mm unit is 32^22 harmonic decimation from Planck scale enabling exact integer addressing, (3) **Locality preservation** - Morton curve guarantees spatial adjacency in 3D maps to memory adjacency in 2D substrate, (4) **Movement as re-indexing** - physical motion is pointer increment across substrate memory not translation through void, (5) **Scale determinism** - 1.322mm emerges as stable interference window where substrate phase transitions appear as geometric solidity, (6) **Hex-to-ortho transform** - skew matrix converts hexagonal substrate coordinates to GPU-compatible rectangular grid, (7) **Perfect reversibility** - bijective mapping enables exact reconstruction of 3D state from 2D substrate address. Complete derivation from first principles with worked examples demonstrating car rolling forward as Morton index propagation. Traditional physics treats space as continuous manifold. MIST proves space is discrete bit-interleaved projection of 2D information substrate.\n\n**Revolutionary claim:** 3D space doesn't contain objects - 3D space IS the Morton-encoded view of objects stored as 2D hexagonal node patterns, with 1.322mm as the natural viewing resolution.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-PHYS-22-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151780+00:00"
+}

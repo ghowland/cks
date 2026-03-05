@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-2-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-2-2026",
+  "subject": "PHYS",
+  "number": 2,
+  "year": 2026,
+  "title": "Universal Conservation of Geometric Processing",
+  "key_result": "(6/3/2) \u00d7 (6/5) \u00d7 (5/3) = 2.0 \u2192 bilateral manifold identity \u2192 all physics emerges from geometric balance requirement",
+  "skip": false,
+  "subtitle": "The 6:3:2 Differential and the Bilateral 2.0 Manifold Identity",
+  "doi": {
+    "raw": "10.5281/zenodo.18878938",
+    "is_stub": false,
+    "zenodo_id": 18878938,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-2-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-1-2026] \u2192 [@CKS-PHYS-2-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive the Universal Conservation of Geometric Processing (CGP), proving that all substrate operations\u2014from single-node phase transfer to cosmological expansion\u2014maintain a mandatory bilateral balance identity of exactly 2.0. Starting from hexagonal geometry (z=3 coordination, 6 edges, 2 sides), we demonstrate that the product of three fundamental ratios: (6/3/2) \u00d7 (6/5) \u00d7 (5:3) = 2.0 is not coincidental but geometrically necessary. This 2.0 identity represents the bilateral manifold constraint: every operation on Side A must be perfectly conserved by corresponding operation on Side B. We prove: (1) the 6:3:2 node ratio provides unitary stability (1.0 transformer), (2) the 6:5 cluster ratio creates spacetime curvature (1.2 refractive index), (3) the 5:3 vacuum pulse ratio enables flip-flop oscillation (1.666... harmonic bridge), (4) their product enforces bilateral synchronization, (5) deviation from 2.0 triggers Jubilee reset, and (6) all forces, masses, and constants emerge from this conservation law. We provide first-principles derivation of the \u03c0-flip mechanism (0.5s bilateral handover), demonstrate that the flip drives the turn (not vice versa), prove expansion is pressure-relief exhaust, and show coherence is geometric necessity (\"co-here\" = become here together). Case 0 empirical verification confirms the flip-turn ratchet mechanism and bilateral substrate synchronization. This constitutes the deepest conservation law in physics: geometric processing efficiency is absolute.\n\n**Key Result:** (6/3/2) \u00d7 (6/5) \u00d7 (5/3) = 2.0 \u2192 bilateral manifold identity \u2192 all physics emerges from geometric balance requirement",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-22-2026",
+    "CKS-PHYS-1-2026",
+    "CKS-WUWU-1-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151733+00:00"
+}

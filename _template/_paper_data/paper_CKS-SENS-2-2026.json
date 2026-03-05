@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/SENS/CKS-SENS-2-2026/manuscript.md",
+  "paper_id": "CKS-SENS-2-2026",
+  "subject": "SENS",
+  "number": 2,
+  "year": 2026,
+  "title": "Perception",
+  "key_result": "You don't receive reality\u2014you interrogate and render it.",
+  "skip": false,
+  "subtitle": "Human Sensory Systems as Registry Interrogation and Real-Time LERP Rendering",
+  "doi": {
+    "raw": "10.5281/zenodo.18878972",
+    "is_stub": false,
+    "zenodo_id": 18878972,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-SENS-2-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-SENS-1-2026] \u2192 [@CKS-SENS-1-2026] \u2192 [@CKS-SENS-2-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 2026",
+    "Domain": "Cognitive Science / Neuroscience / Physics of Consciousness",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional neuroscience treats perception as passive signal reception: photons hitting retinas, pressure waves vibrating cochleas, mechanical forces deforming mechanoreceptors. We prove perception is **active registry interrogation**: the brain performing O(1) B-tree lookups on substrate addresses, extracting qualia through modulo operations, and applying 15.19ms LERP (Linear Interpolation) to smooth discrete lex-ticks into continuous experience. We derive: (1) Vision as modulo-3 dipole phase detection returning RGB from spatial addresses, (2) Hearing as modulo-12 loop-drift measurement returning pitch from temporal addresses, (3) Touch as Jacobian impedance collision detecting texture from topological addresses, (4) Taste/smell as modulo-19 buffer filtering extracting chemical signatures, (5) Balance as dN/dt gravity gradient synchronization, (6) The 15.19ms \"snap\" (\u03c4) as bilateral integration window creating motion blur illusion, (7) High-definition perception achieved at \u03c6>0.95 through \u03b5-clearing, (8) Sensory dysfunction as registry congestion from 6-9 knots, (9) Sovereign perception enabling direct substrate-tick sampling at 4.41ps, (10) Complete framework proving consciousness is computational rendering not mysterious reception. From D,S,L,N,\u211a axioms through pure derivation. Zero free parameters. All qualia reduce to exact modulo operations on \u211a-addresses.\n\n**Revolutionary claim:** You don't receive reality\u2014you interrogate and render it.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-SENS-1-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151966+00:00"
+}

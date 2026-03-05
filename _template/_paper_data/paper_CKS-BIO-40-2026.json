@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-40-2026/manuscript.md",
+  "paper_id": "CKS-BIO-40-2026",
+  "subject": "BIO",
+  "number": 40,
+  "year": 2026,
+  "title": "Vertical Slit Pupils as Gradient Synchronization Hardware",
+  "key_result": "Vertical slit = ocular virtual spine \u2192 gradient lock despite horizontal body \u2192 high-bitrate substrate access in quadrupeds",
+  "skip": false,
+  "subtitle": "Ocular Waveguide Adaptation in Non-Upright Biological Solitons",
+  "doi": {
+    "raw": "10.5281/zenodo.18878413",
+    "is_stub": false,
+    "zenodo_id": 18878413,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-40-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-39-2026] \u2192 [@CKS-BIO-40-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Developmental Biology / Embryology / Biophysics",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive vertical slit pupil morphology as an evolutionary hardware solution to the gravitational gradient synchronization problem in quadrupedal biological solitons. From [@CKS-BODY-10-2026] and [@CKS-BIO-39-2026], we established that vertical alignment parallel to Earth's gravitational gradient minimizes 12-bit registry noise and enables high-coherence substrate access. Bipedal humans achieve this via upright spinal antenna arrays. Quadrupeds, whose primary spinal bus operates horizontally (parallel to ground), experience continuous registry jitter from this \"broadside\" orientation to the expansion vector. We prove vertical slit pupils function as spatial waveguides\u2014performing mechanical Fourier transforms that filter horizontal (XY) noise while over-sampling vertical (Z) phase data. This creates an \"ocular virtual spine\" enabling 1024-bit substrate monitoring during horizontal locomotion. We derive: (1) aperture signal-to-noise optimization (vertical slit SNR \u2192 \u221e), (2) Fourier filtering mechanics (\u0394x << \u0394z prioritizes Z-axis), (3) comparative morphology (circular vs vertical vs horizontal slits), (4) \"Feline Mode\" software emulation in Case 0, (5) biological clock synchronization at 1/32 Hz harmonics across species. Computational verification demonstrates vertical slits capture 5-10\u00d7 better gradient signal than circular pupils when sampling noisy horizontal substrates. This constitutes first derivation of pupil shape from substrate mechanics rather than optical physics.\n\n**Key Result:** Vertical slit = ocular virtual spine \u2192 gradient lock despite horizontal body \u2192 high-bitrate substrate access in quadrupeds",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-39-2026",
+    "CKS-BODY-10-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148172+00:00"
+}

@@ -2,8 +2,6 @@
 
 ## The Sovereignty Threshold and Universal Scaling Limit of Phase-Locked Systems
 
-
-
 **Registry:** [@CKS-PHYS-19-2026]
 
 **Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-18-2026] → [@CKS-PHYS-19-2026]

@@ -1,4 +1,5 @@
-
+# Voice as UART
+# Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing
 
 **Registry:** [@CKS-BIO-48-2026]
 

@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-27-2026/manuscript.md",
+  "paper_id": "CKS-MATH-27-2026",
+  "subject": "MATH",
+  "number": 27,
+  "year": 2026,
+  "title": "E = mc^S",
+  "key_result": "E = mc^S where S = 2 (forced by bilateral topology) | Mass = bilateral handshake | \u00b2 = side count | Zero mystery remains",
+  "skip": false,
+  "subtitle": "The Bilateral Handshake: Deriving Mass-Energy Equivalence from Manifold Topology",
+  "doi": {
+    "raw": "10.5281/zenodo.18878718",
+    "is_stub": false,
+    "zenodo_id": 18878718,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-27-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-26-2026] \u2192 [@CKS-MATH-27-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove Einstein's E=mc\u00b2 emerges from **bilateral manifold topology** and should be written E=mc^S where S=2 is the mandatory count of substrate sides. Starting from hexagonal lattice axioms (z=3, N=3M\u00b2, \u03b2=2\u03c0), we derive: (1) 2D k-space substrate must have exactly S=2 sides (topological necessity), (2) Mass is energy \"locked\" across both sides simultaneously (bilateral handshake), (3) Propagation speed c appears to first power per side (c\u00d7c = c\u00b2), (4) Exponent S encodes dimensional projection mechanism (2D\u21923D), (5) Changing S changes physics (S=1: ghost universe, S=3: overconstrained), (6) The \u00b2 is count of sides, not mathematical convenience. We resolve: why mass \"couples\" to c\u00b2 specifically (bilateral commit requirement), what \"rest mass\" means (stable handshake across S=2), why antimatter exists (opposite-phase bilateral parity), how mass-energy conversion works (handshake lock/unlock operation). The derivation shows mass arises when **1D ripple locks onto both faces** of 2D plate\u2014single-side occupation is massless (photon), dual-side lock is massive (electron). Energy required to create mass scales as c^S because each additional side adds multiplicative propagation constraint. This explains: particle-antiparticle pair creation (must create both sides), mass generation mechanism (Higgs gives bilateral coupling), why c is maximum (S-fold propagation limit). Einstein's formula is **hardware specification** for S=2 universe. Complete theoretical closure: no free parameters, pure geometric necessity.\n\n**Key Result:** E = mc^S where S = 2 (forced by bilateral topology) | Mass = bilateral handshake | \u00b2 = side count | Zero mystery remains",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-24-2026",
+    "CKS-MATH-25-2026",
+    "CKS-MATH-26-2026",
+    "CKS-PHYS-1-2026",
+    "CKS-TECH-01-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150508+00:00"
+}

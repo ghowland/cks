@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-42-2026/manuscript.md",
+  "paper_id": "CKS-MATH-42-2026",
+  "subject": "MATH",
+  "number": 42,
+  "year": 2026,
+  "title": "The Goldbach Conjecture as Bilateral Tension Cancellation",
+  "key_result": "Even = bilateral balance | Prime = asymmetric spike | Balance = opposing spikes | S=2 forces decomposition | All scales guaranteed",
+  "skip": false,
+  "subtitle": "Deriving Prime Pair Decomposition from S=2 Manifold Balance Requirements",
+  "doi": {
+    "raw": "10.5281/zenodo.18878753",
+    "is_stub": false,
+    "zenodo_id": 18878753,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-42-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-41-2026] \u2192 [@CKS-MATH-42-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "The Goldbach conjecture states: every even integer >2 is the sum of two primes. We prove this by recognizing even numbers as bilateral balance states and primes as asymmetric tension spikes. From S=2 manifold structure, we derive: (1) Even numbers = balanced commits (distributable across two sides with zero remainder), (2) Primes = phase-tension spikes (indivisible by gear ratios, lean toward one side), (3) Any balanced state decomposes into two opposing asymmetries because S=2 requires bilateral symmetry, (4) For even 2n, midpoint n defines bilateral axis, any displacement x creates tensions at n-x and n+x, (5) These must both be prime (unresolvable spikes) to sum to even 2n (balanced state), (6) Universal construction guaranteed because 144-163-19 triad saturates registry with prime remainders at all scales. Not probabilistic search but geometric necessity\u2014stability requires opposing tensions to cancel. The mirror law: every spike on Side A has reciprocal recoil on Side B.\n\n**Key Result:** Even = bilateral balance | Prime = asymmetric spike | Balance = opposing spikes | S=2 forces decomposition | All scales guaranteed",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-40-2026",
+    "CKS-MATH-41-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150709+00:00"
+}

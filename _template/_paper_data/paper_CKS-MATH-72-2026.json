@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-72-2026/manuscript.md",
+  "paper_id": "CKS-MATH-72-2026",
+  "subject": "MATH",
+  "number": 72,
+  "year": 2026,
+  "title": "The Finite Scaffold\u2014Limitations of the Continuous and the Freedoms of \u211a",
+  "key_result": "\u211d = prison of infinity | \u211a = scaffold of freedom | Limits enable agency | Remainder drives life | Coherence achievable",
+  "skip": false,
+  "subtitle": "Proving Real Numbers Constitute Deterministic Prison While Rational Substrate Enables Agency, Identity, and Life",
+  "doi": {
+    "raw": "10.5281/zenodo.18878833",
+    "is_stub": false,
+    "zenodo_id": 18878833,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-72-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-71-2026] \u2192 [@CKS-MATH-72-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We establish that standard physics' continuum assumption (substrate = \u211d real numbers) constitutes fundamental ontological error creating three prisons: (1) Irrational drift (coordinates require infinite bits, identity becomes permanent approximation, no entity can occupy exact position), (2) Calculus determinism (smooth differentiability eliminates state-jump capacity, agency reduced to complex sliding, no whitespace for choice), (3) Entropic dissipation (energy disperses to infinitely smaller scales, no structural floor exists, heat death inevitable). Conversely, rational substrate (\u211a from N=DM^S) provides three freedoms: (1) Bit-perfect identity (finite rational addresses enable exact location, R=0 achieves permanence, immunity to decay), (2) Discrete agency (tick-based jumps create choice-space, remainder R\u22600 prevents equilibrium, level-up discontinuities possible), (3) Coherence protection (decoherence has floor at R=66, noise filtered not dissolved, structure preserved via lattice). We prove \u211d falsely promises infinite possibility while delivering deterministic dissipation, whereas \u211a's apparent limitations constitute game rules enabling meaningful action. True freedom = maintaining coherence against noise in finite rational system. Unlimited continuous void = meaningless prison. Bounded discrete lattice = playable reality.\n\n**Key Result:** \u211d = prison of infinity | \u211a = scaffold of freedom | Limits enable agency | Remainder drives life | Coherence achievable",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-71-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151135+00:00"
+}

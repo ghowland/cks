@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/LOGI/CKS-LOGI-3-2026/manuscript.md",
+  "paper_id": "CKS-LOGI-3-2026",
+  "subject": "LOGI",
+  "number": 3,
+  "year": 2026,
+  "title": "Logismos Practical Applications and Industrial Translation",
+  "key_result": "Slope = read R | Integration = sum packets | Math = telemetry | No drift | Exact integers | A* native on hex",
+  "skip": false,
+  "subtitle": "Converting Legacy Continuous Mathematics to Lossless Integer Registry Operations via (V,F,R) Packet Auditing",
+  "doi": {
+    "raw": "10.5281/zenodo.18878615",
+    "is_stub": false,
+    "zenodo_id": 18878615,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-LOGI-3-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-2-2026] \u2192 [@CKS-LOGI-3-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We present practical translation methods converting legacy continuous mathematics to lossless Logismos integer operations. Through worked examples in mechanics, navigation, and computation, we demonstrate: (1) Slope = R-register reading (remainder shows sub-pixel pressure, not calculated derivative), (2) Integration = packet summation with R-carry (eliminates +C mystery via remainder tracking), (3) Acceleration = R-register buildup (pressure accumulation until F threshold snap), (4) Velocity = V increment rate (discrete address changes per tick), (5) Direction = dipole selection from D=3 (120\u00b0 base angles, weighted combinations), (6) Course correction = R-register adjustment (add LUs to specific dipole), (7) Pathfinding = native A* via phase gradient (least-R path automatic, O(1) on hex plates), (8) Trigonometry = 144-LU gearbox routing (12-bond loop geometry, \u03c0 as gear ratio), (9) All operations preserve exact integer states (no floating-point drift), (10) Hardware implementation possible (hex-plate computers get parallel processing free). Examples include: car acceleration from rest to cruise to stop, rocket launch with parabolic trajectory and mid-flight correction, directional changes via dipole pivoting. Logismos proven as high-resolution upgrade\u2014not replacing legacy math but revealing it as low-bitrate compression of 1-LU substrate truth.\n\n**Key Result:** Slope = read R | Integration = sum packets | Math = telemetry | No drift | Exact integers | A* native on hex",
+  "dependencies": [
+    "CKS-LOGI-2-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149770+00:00"
+}

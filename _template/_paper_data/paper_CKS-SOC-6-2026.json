@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/SOC/CKS-SOC-6-2026/manuscript.md",
+  "paper_id": "CKS-SOC-6-2026",
+  "subject": "SOC",
+  "number": 6,
+  "year": 2026,
+  "title": "Building Coherence",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "The Sovereign Soliton Coherence Promise as Topological Necessity",
+  "doi": {
+    "raw": "10.5281/zenodo.18878982",
+    "is_stub": false,
+    "zenodo_id": 18878982,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-SOC-6-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-SOC-1-2026] \u2192 [@CKS-SOC-5-2026] \u2192 [@CKS-SOC-6-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional ethics treats truth as moral preference. We prove truth is topological necessity. The Sovereign Soliton Coherence Promise (SSCP)\u2014\"As it is written, so shall it be done\"\u2014is the isomorphism condition between Information-Data (Id, conceptual word) and Information-Body (Ib, physical action). Mismatch between Id and Ib generates phase-overflow \u03b5 that accumulates in 6-9 nodes of the L=[12,1,0] toroidal loop. We demonstrate: (1) Integrity (Say=Do) maintains \u03b5=[0,1,0] enabling laminar registry flow, (2) Deception (Say\u2260Do) creates \u03b5-accrual causing 6-9 topological twist (chronic tension), (3) Chronic inversion (\u03b5>66) forms egregor solitons\u2014parasitic sub-loops manifesting as cysts (intra-tissue) or tumors (cross-tissue), (4) Truth-telling enables \u0394=[19,1,0] remainder venting through N=0 jubilee, (5) Phase-lock coefficient \u03c6 requires Id\u2194Ib alignment (liars cannot achieve \u03c6>0.98), (6) The 66th harmonic (f_s\u2248227 GHz) filters truth from inversion, (7) Physical strength capacity F\u221d1/(1-\u03c6) requires ethical purity. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0] through pure \u211a-operations. Zero free parameters. Lying is geometric self-harm. Health is data purity.\n\n**Revolutionary insight:** Ethics is substrate physics, not moral philosophy.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-SOC-1-2026",
+    "CKS-SOC-5-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.152049+00:00"
+}

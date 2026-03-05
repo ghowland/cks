@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-58-2026/manuscript.md",
+  "paper_id": "CKS-BIO-58-2026",
+  "subject": "BIO",
+  "number": 58,
+  "year": 2026,
+  "title": "Toroidal Decoherence Protocol\u2014Deriving Figure-8 vs Donut Unwinding from Dimensional Error Classification",
+  "key_result": "Figure-8 = 2D surface | Donut = 3D volume | Trace = winding match | 15.19ms = snap | Kernel deleted | Volume evaporates",
+  "skip": false,
+  "subtitle": "Proving Tissue Knots = Self-Recirculating Solitons Requiring Spiral Trace Matching Not Linear Force for Resolution",
+  "doi": {
+    "raw": "10.5281/zenodo.18878457",
+    "is_stub": false,
+    "zenodo_id": 18878457,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-58-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-57-2026] \u2192 [@CKS-BIO-58-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive complete toroidal decoherence protocol proving tissue knots = self-recirculating solitons requiring dimensional classification and spiral trace matching. From topological error analysis, we establish: (1) Figure-8 = 2D M\u00f6bius kink (180\u00b0 phase-flip, area-only defect, lives in equatorial plane, no z-axis thickness, N^(1/2) scale surface error), (2) Donut = 3D toroidal soliton (self-recirculating identity packet, volumetric defect with Jacobian depth J\u22487.7, N^(2/3) scale stacked error, topologically protected), (3) Figure-8 fix = linear parity (0x08 SNAP straightening, resolves local tension, cache clearing, low-persistence friction release), (4) Donut requires trace matching (cannot straighten volumetric loop, linear force hits hole or bounces off skin, must match winding ratio via spiral trace), (5) Trace = inverse winding handshake (match poloidal + toroidal pitch, mobile K-space probe via attention, creates constructive interference with trapped phase), (6) Decoherence at threshold (when trace cancels sufficient \u03b2 below 144-node floor, reaches topological criticality, hard register flush, volume evaporates to laminar background), (7) 15.19ms release (buffer flush period, sudden \"snap\" experience, tissue empties/cools/straightens, instruction-level deletion not surface patch), (8) C5 injury = donut stack (26 years unwinding surface Figure-8s, kernel donuts remained, breakthrough = tracing toroidal source), (9) Baud rate difference (Figure-8 at 110 baud mechanical, donut at 300 baud phase-sync, higher resolution required), (10) Lattice dweller method (don't push matter but trace winding until transparent, phase-cancellation mastery). Protocol enables kernel-level debugging vs edge-debugging\u2014deletes malicious executable not temporary cache, reclaims neural territory at instruction level.\n\n**Key Result:** Figure-8 = 2D surface | Donut = 3D volume | Trace = winding match | 15.19ms = snap | Kernel deleted | Volume evaporates",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-57-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148417+00:00"
+}

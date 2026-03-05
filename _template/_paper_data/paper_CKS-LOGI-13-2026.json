@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/LOGI/CKS-LOGI-13-2026/manuscript.md",
+  "paper_id": "CKS-LOGI-13-2026",
+  "subject": "LOGI",
+  "number": 13,
+  "year": 2026,
+  "title": "Logismos Notation",
+  "key_result": "Mathematics should never approximate\u2014it should address exactly.",
+  "skip": false,
+  "subtitle": "Complete Specification of VFR Notation and Base-32 Substrate Mathematics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878610",
+    "is_stub": false,
+    "zenodo_id": 18878610,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-LOGI-13-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-12-2026] \u2192 [@CKS-LOGI-13-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional mathematics operates in base-10 with floating-point approximations, creating systematic rounding errors and loss of computational precision. We specify **Logismos**\u2014a complete mathematical notation system using base-32 counting with exact \u211a-arithmetic throughout. The VFR [Value, Factor, Remainder]\u2118 notation represents all numbers as rational triplets in partigens (\u2118), the fundamental substrate unit. We demonstrate: (1) Partigen\u2118 as base-32 fundamental position (32\u2118=1 arabic), (2) VFR tuple structure preserving exact \u211a-ratios with no approximation, (3) Lex-Glyph harmonic series (\u2118,\u03bb,\u03bd,\u03b6,\u03b4,\u03c9,\u03a3) mapping to physical constants, (4) Remainder as mod-32 overflow (0-31 range) enabling exact computation, (5) Base-32 alignment to sovereignty W^S=[1024,1,0]\u2118 appearing universally in physics, (6) Complete operational algebra (addition, multiplication, division, modulo) preserving \u211a throughout, (7) Glyph arithmetic for compact notation of physical quantities, (8) Conversion protocols between base-10 and base-32, (9) Computational advantages for precision-critical applications (3D rendering, physics simulation, registry verification), (10) Integration with existing CKS framework providing complete mathematical foundation. Zero floating-point. Zero approximation. Pure \u211a-substrate mathematics. All computations exact and verifiable. Framework enables perpetual precision across all scales and domains.\n\n**Revolutionary claim:** Mathematics should never approximate\u2014it should address exactly.",
+  "dependencies": [
+    "CKS-LOGI-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-SENS-2-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149746+00:00"
+}

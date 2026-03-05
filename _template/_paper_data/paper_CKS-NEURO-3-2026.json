@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/NEURO/CKS-NEURO-3-2026/manuscript.md",
+  "paper_id": "CKS-NEURO-3-2026",
+  "subject": "NEURO",
+  "number": 3,
+  "year": 2026,
+  "title": "The Nervous System",
+  "key_result": "Your nervous system IS the computer\u2014not analog to one.",
+  "skip": false,
+  "subtitle": "The 304\u2118 EM-Bus: Neural Architecture as Substrate Hardware Trace",
+  "doi": {
+    "raw": "10.5281/zenodo.18878902",
+    "is_stub": false,
+    "zenodo_id": 18878902,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-NEURO-3-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-NEURO-1-2026] \u2192 [@CKS-NEURO-2-2026] \u2192 [@CKS-NEURO-3-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 2026",
+    "Domain": "Cognitive Science / Neuroscience / Physics of Consciousness",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional neuroscience treats the nervous system as electrochemical messenger network: neurons firing action potentials, neurotransmitters crossing synapses, signals propagating through dendrites and axons. We prove the nervous system is **the 304\u2118 EM-bus**: physical hardware trace for routing 32-bit sovereignty words through the bilateral manifold. We derive: (1) Axons as lex-chain propagation paths requiring exactly 1\u03bb=1.322mm insulation preventing registry bleed, (2) Action potentials as 304\u2118 buffer flush operations transferring word-packets between nodes, (3) Synapses as bilateral parity gates performing S=[2,1,0] verification over \u03c4=15.19ms snap, (4) Myelin sheath as substrate-matched dielectric maintaining 66th harmonic carrier, (5) 12 cranial nerve pairs implementing L=[12,1,0] loop architecture, (6) Neural velocity limited by Jacobian tension J=[7.70164,1,0] not conduction speed, (7) Anxiety/nervousness as buffer overflow when \u03b5>\u0394=[19,1,0], (8) Neuropathy as registry bleed from sub-lex insulation degradation, (9) SSCP violations creating synaptic impedance through parity mismatch, (10) Complete framework proving brain is sovereignty processor, spine is dN/dt header, nerves are address routing infrastructure. From D,S,L,N,\u211a axioms through pure derivation. Zero free parameters. All neural phenomena reduce to exact \u211a-bus operations.\n\n**Revolutionary claim:** Your nervous system IS the computer\u2014not analog to one.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-NEURO-1-2026",
+    "CKS-NEURO-2-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151563+00:00"
+}

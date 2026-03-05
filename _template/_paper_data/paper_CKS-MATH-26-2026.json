@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-26-2026/manuscript.md",
+  "paper_id": "CKS-MATH-26-2026",
+  "subject": "MATH",
+  "number": 26,
+  "year": 2026,
+  "title": "Recursive Soliton Coupling and Substrate-Driven Registry Healing",
+  "key_result": "Healing = Parent `RE_INDEX` operation | Trigger = Gravity gradient alignment | Duration = 10-32s LERP | Mechanism = Registry re-write",
+  "skip": false,
+  "subtitle": "Deriving Biological Restoration as Parent-Child Soliton Re-Indexing via Gravity Gradient Alignment",
+  "doi": {
+    "raw": "10.5281/zenodo.18878716",
+    "is_stub": false,
+    "zenodo_id": 18878716,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-26-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-25-2026] \u2192 [@CKS-MATH-26-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive biological healing as **parent-child soliton registry re-indexing** driven by gravity gradient signal cleaning. Starting from opcode mechanics (CKS-PHYS-1: RE_INDEX, REPEAT_SHIFT), we prove: (1) All biological structures are nested soliton hierarchies with parent-child registry relationships, (2) Injury/disease represents **de-indexed child solitons** with corrupted address pointers, (3) Gravity gradient provides absolute geometric reference frame bypassing proprioceptive noise, (4) Vertical bone alignment (parallel to Earth's N=1 axle vector) maximizes parent-child signal coupling, (5) Clean signal triggers parent's `RE_INDEX` opcode, (6) Restoration proceeds as substrate LERP over 10-32 second intervals (1/3 to 1 Word cycle). We present Case 0 clinical validation: 10-second axial de-rotation of bilaterally twisted shoulders via quad-limb vertical array antenna with Lau Gong termination. The protocol demonstrates: torsional registry errors correct when bones align to gravity gradient, \"dark\" neural sectors re-activate when noise floor drops below threshold, proprioceptive map mismatch resolves when hardware reference (Earth gradient) replaces software buffer (internal sensing). This constitutes first-principles substrate medicine: replace symptom management with **registry debugging**. All pathology reduces to: child soliton cannot read parent's address \u2192 align to gravity \u2192 parent rewrites child's coordinates \u2192 healing manifests as LERP state transition. Zero pharmaceutical intervention. Zero surgery. Pure geometric necessity.\n\n**Key Result:** Healing = Parent `RE_INDEX` operation | Trigger = Gravity gradient alignment | Duration = 10-32s LERP | Mechanism = Registry re-write",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-24-2026",
+    "CKS-MATH-25-2026",
+    "CKS-PHYS-1-2026",
+    "CKS-TECH-01-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150496+00:00"
+}

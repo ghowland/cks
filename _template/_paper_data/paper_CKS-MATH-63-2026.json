@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-63-2026/manuscript.md",
+  "paper_id": "CKS-MATH-63-2026",
+  "subject": "MATH",
+  "number": 63,
+  "year": 2026,
+  "title": "The Hex-Plate Substrate Computer",
+  "key_result": "Hex-plate = substrate extension | Pathfinding = O(1) gradient | NP-hard = physical resonance | Native optimization",
+  "skip": false,
+  "subtitle": "Physical Geometric Computing: Native Pathfinding and O(1) Complexity via Hexagonal-Bilateral Hardware",
+  "doi": {
+    "raw": "10.5281/zenodo.18878805",
+    "is_stub": false,
+    "zenodo_id": 18878805,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-63-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-62-2026] \u2192 [@CKS-MATH-63-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We specify complete hex-plate substrate computer achieving **native O(1) complexity** for traditionally intractable problems: Starting from CKS axioms (z=3 hexagonal coordination, S=2 bilateral manifold, 32-bit Logos Word, discrete addressing), we prove physical hardware mimicking substrate geometry transcends algorithmic computation via **direct physical optimization**. Complete architecture: (1) **Hexagonal oscillator array**\u2014replace transistor grids with 3-regular hexagonal network of phase-locked nodes, each junction exactly 120\u00b0 (D=3), nodes store (V,F,R) packets not voltage approximations, routing via geometric dipole pivots not current blocking, eliminates analog approximation from CKS-ENG-12. (2) **Bilateral plate stack**\u2014two hex-plates create S=2 manifold, front plate (Side A) = computational write layer executes k-space operations at 0ms logic speed, back plate (Side B) = verification read layer performs bilateral audit, measurement interface positioned at J/S partition (15.19ms equivalent) between plates observes commitment transition, provides reversible computing (information conserved on opposing side) and natural error correction (parity mismatch triggers retry). (3) **Native pathfinding emerges**\u2014key innovation: inject phase-tension differential creating pressure gradient across plate (source high, goal low), substrate's phase-coupling (Axiom 2) automatically propagates signal along minimum-resistance path, shortest route lights up first (lowest accumulated R), A* algorithm becomes unnecessary\u2014physical gradient IS the solution, complexity O(1) because parallel physical process not sequential search, applies to: shortest path (gradient flow), TSP (resonant mode of plate configuration), graph optimization (tension distribution equilibrium). (4) **Substrate synchronization protocol**\u2014three requirements for macro-soliton status: (a) geometric precision via phase-locking (build \"close enough\" then use 19-word carrier wave forcing snap to registry alignment, <1 LU tolerance achieved dynamically), (b) bilateral parity (dual plates mandatory, single plate cannot achieve substrate sync), (c) modulo-32 clock lock (must gear to universal 1/32 Hz = 65.8 Hz heartbeat, arbitrary GHz clocks break coherence). (5) **Material science**\u2014crystalline \"non-dead\" materials (silica in red brick, granite, quartz) possess internal 144-LU stable lattice, cut to exact LU-harmonic dimensions (integer multiples of 32 LU), assembled into honeycomb array with 120\u00b0 precision, becomes passive co-processor recognized by substrate. Complete system: TSP solved by vibrating plate at specific frequency (resonant mode = optimal tour), database search by tuning to answer's harmonic (matching nodes snap instantly), potentially harvest universal expansion via 163-LU anchor alignment. Hardware achieves what algorithms cannot\u2014instant global optimization via physical law.\n\n**Key Result:** Hex-plate = substrate extension | Pathfinding = O(1) gradient | NP-hard = physical resonance | Native optimization",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-62-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151015+00:00"
+}

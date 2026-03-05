@@ -1,0 +1,42 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-48-2026/manuscript.md",
+  "paper_id": "CKS-BIO-48-2026",
+  "subject": "BIO",
+  "number": 48,
+  "year": 2026,
+  "title": "Voice as UART",
+  "key_result": "Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing",
+  "skip": false,
+  "subtitle": null,
+  "doi": {
+    "raw": "10.5281/zenodo.18879510",
+    "is_stub": false,
+    "zenodo_id": 18879510,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Key Result": "Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing"
+  },
+  "abstract": "We derive **human voice/eye system as substrate command interface** from biological-registry coupling: Traditional neuroscience treats vocalization as communication tool, eye movement as visual tracking, missing their function as **administrative control peripherals** for direct substrate interaction. Starting from CKS framework (bilateral manifold S=2, 3-dipole coordination D=3, 1/32 Hz Logos Word, 8000 Hz admin carrier from tinnitus analysis), we prove human anatomy includes **Voice-Operated Command Line Interface (VOCLI)** enabling registry modification. Complete specification: (1) **Vocal UART architecture**\u2014larynx = bilateral oscillator producing substrate-compatible frequencies, vocal cavity generates harmonics (base 110 Hz produces overtones to 8000+ Hz), singer's formant (concentrated 3-8 kHz energy spike) = administrative carrier matching substrate clock harmonics, phonemic encoding: k-sounds = discrete impulse (start-bit/clock-sync), m-sounds = Side A write (lips-closed bilabial), n-sounds = Side B mirror (tongue-up alveolar), l-i-o sequence = high-bandwidth payload (logic-lock + UV-laser SNR + toroidal closure), baud rate stratification: 32 Hz (buffer open/soften), 110 Hz (handshake/ready-to-send), 330 Hz (D=3 gearbox streaming), 8000 Hz (root execute). (2) **Ocular dipole selection**\u2014eyes uniquely wired to 3-dipole substrate interface (only voluntary system affecting 8000 Hz tone), experimental verification: tested orientation changes, body movement, eye closure\u2014ONLY eye position modulates carrier (all else unchanged), vertical control: looking up shifts tone to m-phoneme (Yang N=2 excite/write buffer), looking down shifts to n-phoneme (Yin N=3 ground/flush), horizontal control: looking left shifts to e-phoneme (\u03b1-dipole logic selection), looking right shifts to u-phoneme (\u03b2/\u03b3-dipole resonance), center gaze = axle sync (k-phoneme execute state). (3) **Breath as carrier system**\u2014diaphragm pumps 2\u03c0 phase-tension enabling acoustic generation, vocalizing = serial data transmission (not mere sound production), phonemes = instruction set architecture not arbitrary linguistic units, sustained tones = continuous write operations, glottal stops/silence = SNAP_COMMIT triggers, breath + eyes = only two independently controllable biological systems (proving admin interface design intentionality). (4) **Coherence gating mechanism**\u2014administrative access requires R\u22480 (low-remainder coherence), high-noise individuals (R>31 negative feedback loops) cannot achieve pure resonant tone (voice becomes gravelly/flat lacking harmonic clarity, Q-factor insufficient for 8000 Hz spike generation, internal static prevents substrate recognition of admin credentials), self-regulating: only coherent operators access high-privilege functions (evil cannot achieve omnipotence via mechanical necessity from signal processing mathematics). (5) **Sovereignty physiological marker**\u2014saccadic eye movement = animal/survival mode (84-bit render-loop constrained), eyes snap erratically responding to X-space threats (15.19ms lag creates jitter pattern), smooth pursuit = sovereign mode (1024-bit admin phase-locked), eyes LERP continuously without saccades (direct 0ms k-space indexing), smooth non-jittering gaze = visual proof of registry lock achievement, \"looking at\" becomes \"indexing\" (direct address selection not visual scanning). (6) **Complete operational protocol**\u2014spinal alignment establishes transceiver (8000 Hz tone audible confirms active), smooth eye LERP to target coordinates (stone/wound/goal addressing), sustain 330 Hz l-i-o phoneme stream (84-bit instruction via 1024-bit buffer), modulate eye position (up for excite, left for logic-lock), execute k-phoneme glottal stop (registry commit trigger). Applications: megalithic acoustic engineering (singing stones into fusion), healing protocols (vocal registry correction), manifestation (administrative writes to reality), all via biological UART interface.\n\n**Key Result:** Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-47-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": false,
+    "errors": [
+      "Missing title (H1)",
+      "Missing Registry field in frontmatter"
+    ],
+    "warnings": [
+      "DOI is missing",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148273+00:00"
+}

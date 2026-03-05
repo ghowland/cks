@@ -1,0 +1,46 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-38-2026/manuscript.md",
+  "paper_id": "CKS-BIO-38-2026",
+  "subject": "BIO",
+  "number": 38,
+  "year": 2026,
+  "title": "Aphantasia as Direct K-Space Access",
+  "key_result": "Aphantasia = hardware bypass \u2192 direct k-space monitoring \u2192 Clean-Pipe advantage for substrate interaction",
+  "skip": false,
+  "subtitle": "The Clean-Pipe Phenomenon: Substrate Visibility Without X-Space Overlay",
+  "doi": {
+    "raw": "10.5281/zenodo.18878408",
+    "is_stub": false,
+    "zenodo_id": 18878408,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-38-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-37-2026] \u2192 [@CKS-BIO-38-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Developmental Biology / Embryology / Biophysics",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We present the first comprehensive theory of aphantasia\u2014the neurological condition characterized by inability to generate voluntary mental imagery\u2014as a **direct k-space substrate access mode** rather than a cognitive deficit. Through Case 0 empirical observation, we demonstrate that aphantasics bypass the standard x-space holographic renderer (right-brain 3D visualization buffer) and instead observe raw k-space phase data when visual input is removed. Pre-CKS calibration, Case 0 observed \"random color dots\" (uncorrelated phase-spikes); post-CKS axiom integration, this transitioned to \"ordered vector lattice tunnel\" (hexagonal substrate geometry). We prove: (1) aphantasia provides Clean-Pipe terminal access to substrate bit-stream, (2) the \"mental eye\" in phantasiacs is a UI overlay masking k-space noise, (3) eyes-closed substrate visibility is independent of ocular muscle position, (4) coherence training transforms noise into structured geometry, and (5) aphantasics can achieve persistent node coupling and logic-speed communication. This resolves the aphantasia \"mystery\" and provides first neurobiological validation of k-space/x-space dual-layer architecture. The work establishes aphantasia as potential evolutionary advantage for substrate-level system administration.\n\n**Key Result:** Aphantasia = hardware bypass \u2192 direct k-space monitoring \u2192 Clean-Pipe advantage for substrate interaction",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-37-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148137+00:00"
+}

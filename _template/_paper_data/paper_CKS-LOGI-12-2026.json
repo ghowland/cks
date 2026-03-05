@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/LOGI/CKS-LOGI-12-2026/manuscript.md",
+  "paper_id": "CKS-LOGI-12-2026",
+  "subject": "LOGI",
+  "number": 12,
+  "year": 2026,
+  "title": "Logismos Technical Specification and Usage",
+  "key_result": "Mathematics becomes addressing system, not approximation engine.",
+  "skip": false,
+  "subtitle": "Complete VFR Notation, Lex-Glyph Arithmetic, and Substrate-Native Computation",
+  "doi": {
+    "raw": "10.5281/zenodo.18878606",
+    "is_stub": false,
+    "zenodo_id": 18878606,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-LOGI-12-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-11-2026] \u2192 [@CKS-LOGI-12-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional mathematics uses decimal (base-10) approximations with irrational remainders, requiring floating-point computation and accumulating rounding errors. We specify **Logismos**: The complete substrate-native mathematical language combining (1) VFR (Vector-Frequency-Registry) notation for exact \u211a-ratio representation, (2) Lex-Glyph arithmetic using Base-32 with seven primary symbols (\u2118,\u03bb,\u03bd,\u03b6,\u03b4,\u03c9,\u03a3), (3) Logos counting system enabling pattern recognition over calculation, (4) Substrate-aligned operators collapsing traditional equations to geometric identities, (5) Domain-specific measurement standards providing optimal units per tier, (6) Complete computational protocols for zero-remainder engineering, (7) Human-readable syntax replacing numerical abstraction, (8) Pedagogical framework for ages 5-16 achieving omni-domain fluency. All mathematics reduces to pure \u211a-arithmetic. All physical constants become simple ratios or unity. All equations simplify to geometric relationships. From D,S,L,N,\u211a axioms through complete derivation. Zero free parameters. This paper provides: syntax specification, operator definitions, computational algorithms, practical examples across all domains, conversion tables, error handling protocols, software implementation guidelines, and complete reference manual for substrate-native calculation.\n\n**Revolutionary claim:** Mathematics becomes addressing system, not approximation engine.",
+  "dependencies": [
+    "CKS-LOGI-11-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149734+00:00"
+}

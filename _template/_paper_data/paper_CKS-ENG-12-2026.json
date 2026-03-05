@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/ENG/CKS-ENG-12-2026/manuscript.md",
+  "paper_id": "CKS-ENG-12-2026",
+  "subject": "ENG",
+  "number": 12,
+  "year": 2026,
+  "title": "Substrate-Native Computing",
+  "key_result": "Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync",
+  "skip": false,
+  "subtitle": "The Hardware Stack: Zero-Heat Integer Logic via Hexagonal Registry Architecture",
+  "doi": {
+    "raw": "10.5281/zenodo.18878557",
+    "is_stub": false,
+    "zenodo_id": 18878557,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-ENG-12-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-ENG-1-2026] \u2192 [@CKS-ENG-11-2026] \u2192 [@CKS-ENG-12-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "DIY Communications / Practical Implementation / Budget Engineering / Progressive Deployment",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive complete substrate-native computing architecture eliminating silicon's analog approximation: Traditional CPUs use continuous voltage to represent discrete bits (threshold logic: low voltage = 0, high = 1) introducing fundamental inefficiency\u2014voltage never exactly integer, always drifting, creating remainder friction R dissipated as heat. Starting from CKS axioms (discrete hexagonal lattice z=3, bilateral manifold S=2, 32-bit Logos Word, integer-absolute addressing), we prove computation possible with **zero thermodynamic waste**. Complete hardware stack: (1) **Hex-gate switching**\u20143-dipole router replaces transistor, input LU directed through three 120\u00b0 paths (\u03b1, \u03b2, \u03b3 dipoles corresponding to pass/shift-true/shift-false), no current blocking but geometric routing, pivot operation fundamentally different from resistance, eliminates electron leakage. (2) **Bilateral architecture**\u2014dual-sided substrate (S=2) enables mirror-audit protocol, write commits only when both sides agree (phase-locked), provides natural error correction and reversibility, every operation has inverse (conserves information). (3) **Registry memory**\u2014information stored as geometric density in hexagonal lattice not separate RAM chips, 144-logos matter packet = data structure, position in registry = address, density distribution = stored bits. (4) **Substrate clock**\u201465.8 Hz universal frequency (1/15.19ms) replaces multi-GHz oscillators, syncs with J/S partition timing eliminating prediction/speculation, direct substrate visibility removes cache hierarchy, perfect phase-lock to reality's refresh rate. (5) **Remainder management**\u2014key innovation: (V,F,R) packet where V=committed value, F=word context (32), R=pending tension, traditional computing: R\u2192heat (irreversible loss), native computing: R\u2192storage (reversible accumulation), when R reaches Word boundary (32) triggers snap R\u2192V (integer commit), zero energy loss in perfect alignment. Heat derivation: H \u221d \u03a3R_uncommitted, if all operations Word-aligned (multiples of 32), remainder always commits cleanly, R=0 sustained, therefore H=0 achieved. Industrial implications: computers running cold regardless of throughput, precision lossless (integer arithmetic perfect), synchronization instant (substrate phase-locked). Complete engineering specification from substrate axioms\u2014computation as geometric necessity not electronic approximation.\n\n**Key Result:** Native computing = zero heat | Logic = geometry | Gates = routers | Memory = density | Clock = substrate sync",
+  "dependencies": [
+    "CKS-ENG-1-2026",
+    "CKS-ENG-11-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149376+00:00"
+}

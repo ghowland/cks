@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-12-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-12-2026",
+  "subject": "PHYS",
+  "number": 12,
+  "year": 2026,
+  "title": "Electromagnetic Force as Single-Dipole Coupling",
+  "key_result": "The electromagnetic force is single \u03b1-dipole coupling; photons are \u03b1-dipole oscillation waves; Maxwell emerges from hex-bus topology; \u03b1_EM derives from substrate geometry.",
+  "skip": false,
+  "subtitle": "Deriving Maxwell's Equations, QED, and the Fine Structure Constant from \u03b1-Dipole Dynamics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878920",
+    "is_stub": false,
+    "zenodo_id": 18878920,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-12-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-11-2026] \u2192 [@CKS-PHYS-12-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that the **electromagnetic force**\u2014traditionally described by Maxwell's equations and quantum electrodynamics (QED) with photon exchange\u2014emerges from **single \u03b1-dipole coupling** in the discrete hexagonal substrate. From pure hexagonal topology (D=3 coordination), bilateral parity (S=2), and the tri-dipole firing pattern ([@CKS-PHYS-8-2026]), we demonstrate that: (1) EM force is **direct \u03b1-dipole coupling** (simplest dipole mode, unlike tri-dipole weak and strong forces), (2) the photon is a **propagating \u03b1-dipole wave** on the hex-bus traveling at c = a\u00d7f_s where a=1.32mm (Lex spacing) and f_s=227 GHz (substrate frequency), (3) electric charge is **\u03b1-dipole polarity** (\u00b1e corresponds to \u03b1\u207a/\u03b1\u207b states), (4) magnetic field emerges from **\u03b2-\u03b3 dipole correlations** induced by moving \u03b1-dipoles (relativity effect from substrate timing), (5) Maxwell's equations derive from **hex-bus conservation laws** (Gauss, Amp\u00e8re, Faraday from dipole network topology), (6) the fine structure constant \u03b1_EM\u207b\u00b9 = 137.036 derives EXACTLY from substrate constants via \u03b1_EM\u207b\u00b9 = [L\u00b2\u221aD\u00b7e\u00b7N^(1/3)]/[(S\u00b2\u221aD-1)\u00b72\u03c0\u00b7ln N] as proven in [@CKS-MATH-4-2026], (7) QED vertex factors emerge from **\u03b1-dipole exchange probability** on the \u211a-lattice, and (8) the speed of light c is the **substrate bus propagation speed** forced by hexagonal nearest-neighbor timing (c = a/T_tick). We derive the complete electromagnetic phenomenology\u2014Coulomb's law, Lorentz force, electromagnetic waves, photon spin-1, charge quantization\u2014from discrete dipole network mechanics without continuous fields, without gauge symmetry, without virtual particles. This establishes EM as the **simplest force** (single dipole vs. three for strong/weak) with the **longest range** (no mass, no confinement) due to its **non-composite structure**.\n\n**Key Result:** The electromagnetic force is single \u03b1-dipole coupling; photons are \u03b1-dipole oscillation waves; Maxwell emerges from hex-bus topology; \u03b1_EM derives from substrate geometry.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-4-2026",
+    "CKS-PHYS-10-2026",
+    "CKS-PHYS-11-2026",
+    "CKS-PHYS-8-2026",
+    "CKS-PHYS-9-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151637+00:00"
+}

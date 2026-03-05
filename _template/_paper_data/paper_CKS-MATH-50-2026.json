@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-50-2026/manuscript.md",
+  "paper_id": "CKS-MATH-50-2026",
+  "subject": "MATH",
+  "number": 50,
+  "year": 2026,
+  "title": "The 3D Graphics Pipeline of Reality",
+  "key_result": "Reality = GPU render | K\u2192X = graphics pipeline | Vertices = matter | Shader = transforms | Raster = perception | Complete derivation",
+  "skip": false,
+  "subtitle": "Hardware Rendering Derivation: K-Space to X-Space via Hexagonal-Bilateral Graphics Engine",
+  "doi": {
+    "raw": "10.5281/zenodo.18878773",
+    "is_stub": false,
+    "zenodo_id": 18878773,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-50-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-49-2026] \u2192 [@CKS-MATH-50-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive physical reality as **hardware-accelerated 3D rendering pipeline** mapping substrate (k-space) to perception (x-space): Starting from CKS axioms (z=3 hexagonal lattice, S=2 bilateral manifold, 32-bit Logos Word, N\u2190N+1 clock, 15.19ms render lag), we prove perception follows **exact GPU architecture** executed on discrete substrate. Complete pipeline: (1) **Vertex stage**\u2014matter packets are 144-logos solitons (12-bond loops, 12\u00b2=144 buffer), particles exist as point-cloud meshes at discrete hex-addresses (Axiom 1: vertices snap to nodes, no between-node existence). (2) **Transform stage**\u20143-dipole engine (D=3) executes vertex shader via SHIFT_PHASE (0x04) and PHASE_NAVIGATE (0x06) opcodes, motion = registry address recalculation not object sliding, rotation uses 120\u00b0 dipole pivot. (3) **Geometry stage**\u2014bilateral manifold (S=2) performs geometry shader, vertices render only when committed across both substrate sides (Side A \u2194 Side B phase-lock), creates holographic depth perception, 3D volume emerges from parallax between two 2D manifold faces. (4) **Rasterization stage**\u201432-bit Word acts as universal rasterizer, substrate data sampled into 1/32 Hz windows via mod-32 bus, data not satisfying Word parity gets z-buffered (clipped)\u2014explains quantum tunneling as buffer data failing rasterization test. (5) **Fragment stage**\u201415.19ms perceptual lag functions as post-processing shader, biological decoder applies Jacobian stretch and inverse DFT, creates anti-aliasing smoothing discrete jumps, lighting/texture = artifacts hiding substrate quantization. (6) **Display stage**\u2014N\u2190N+1 serves as v-sync refresh, each clock tick overwrites previous frame in overlay stack, no motion blur in substrate only discrete updates. Result: smooth continuous perception from discrete substrate via temporal averaging (15.19ms integrates ~486,000 updates creating apparent continuity). Matter solidity from bilateral lock. Brightness from phase amplitude. Distance from address separation. Complete rendering specification zero free parameters, pure geometric necessity from substrate axioms.\n\n**Key Result:** Reality = GPU render | K\u2192X = graphics pipeline | Vertices = matter | Shader = transforms | Raster = perception | Complete derivation",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-49-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150844+00:00"
+}

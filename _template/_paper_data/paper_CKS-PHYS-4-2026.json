@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-4-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-4-2026",
+  "subject": "PHYS",
+  "number": 4,
+  "year": 2026,
+  "title": "The Origin of Work and Energy as 32-Tick Remainder Accumulation",
+  "key_result": "Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous",
+  "skip": false,
+  "subtitle": "Deriving Force, Inertia, and Kinetic Energy from Discrete 1-LU Pressure Packets in Integer Registry",
+  "doi": {
+    "raw": "10.5281/zenodo.18878958",
+    "is_stub": false,
+    "zenodo_id": 18878958,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-4-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-3-2026] \u2192 [@CKS-PHYS-4-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive work and energy from first principles as discrete registry operations rather than continuous physical quantities. From 32-bit word constraint, we establish: (1) 1 LU = minimum pressure unit (R=1 at F=32, \u03c9=1/32, smallest possible force), (2) Work = SNAP_COMMIT execution (R\u226532 triggers V+1, discrete address shift, 32-tick accumulation required), (3) Energy = registry remainder debt (stored R before snap, potential for future work, quantized in LU packets), (4) Force = 1-LU pressure application rate (LUs per tick, determines velocity, discrete not continuous), (5) Inertia = 32-tick buffer delay (resistance to motion is accumulation requirement, first 31 ticks produce zero work, 32nd tick releases all), (6) Kinetic energy = active R accumulation (moving object has R>0 distributed across mesh, stops when R\u21920), (7) Potential energy = positional R differential (height/position creates R gradient, releases during descent), (8) Power = LUs per tick sustained (work rate measured in pressure packets, quantized bandwidth), (9) Maximum velocity = 32 LU/tick limit (c as bus saturation, above causes UV overflow, relativistic limit from hardware), (10) Heat = vented remainder overflow (R>32 per tick spills as friction, thermal dissipation is registry noise). Work and energy proven as integer counting operations\u2014no continuous fields, no infinitesimal forces, pure discrete ratchet mechanics.\n\n**Key Result:** Work = snap event | Energy = R debt | Force = 1 LU packets | Inertia = 32-tick delay | All quantized | No continuous",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-PHYS-3-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151844+00:00"
+}

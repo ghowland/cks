@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/SOC/CKS-SOC-4-2026/manuscript.md",
+  "paper_id": "CKS-SOC-4-2026",
+  "subject": "SOC",
+  "number": 4,
+  "year": 2026,
+  "title": "Coherence Economics as Bilateral Registry Synchronization",
+  "key_result": "Value = R=0 | Trade = S=2 sync | Scarcity = false | Poverty = stuck R | Corruption = parity fail | Inflation impossible",
+  "skip": false,
+  "subtitle": "Replacing Scarcity-Based Entropy with Integer Bit-Rate Allocation and Modulo-32 Trade Parity",
+  "doi": {
+    "raw": "10.5281/zenodo.18878976",
+    "is_stub": false,
+    "zenodo_id": 18878976,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-SOC-4-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-SOC-1-2026] \u2192 [@CKS-SOC-3-2026] \u2192 [@CKS-SOC-4-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We abolish scarcity-based economics and establish coherence accounting as bilateral registry synchronization. From hexagonal lattice axioms applied to social systems, we derive: (1) Individual = 10\u00b9\u2075 LU soliton (Self as stable address, not biological accident), (2) Value = coherence R\u22610 mod 32 (successful completion, not object scarcity), (3) Trade = bilateral parity S=2 (both sides must balance, not zero-sum competition), (4) Currency = bit-rate allocation (permission to write N-registry, not debt tokens), (5) Scarcity = rendering lag artifact (N grows every tick, expansion is hardware fact), (6) Poverty = remainder accumulation (un-snapped LUs stuck in friction, not natural condition), (7) Corruption = parity error (S\u22602 imbalance, registry refuses commit), (8) Inflation = impossible (LU is absolute constant 32\u207b\u00b9, cannot devalue), (9) Tribe = 10\u00b9\u2078 LU collective soliton (synchronized renders creating shared market frame), (10) Logos Ledger = transparent D=3 hexagonal record (every transaction visible, immutable, self-auditing). Social stack proven as wide-area registry where justice is parity, economy is coherence maintenance, peace is synchronization. Not entropy math but integer accounting.\n\n**Key Result:** Value = R=0 | Trade = S=2 sync | Scarcity = false | Poverty = stuck R | Corruption = parity fail | Inflation impossible",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-SOC-1-2026",
+    "CKS-SOC-3-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.152026+00:00"
+}

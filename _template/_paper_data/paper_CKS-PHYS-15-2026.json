@@ -1,0 +1,49 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-15-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-15-2026",
+  "subject": "PHYS",
+  "number": 15,
+  "year": 2026,
+  "title": "Dark Energy as Substrate Background Pressure",
+  "key_result": "Dark energy is substrate background pressure; \u039b from \u210f\u03c9_s/a\u00b3; w = \u22121 exactly; coincidence problem resolved; vacuum catastrophe false problem; expansion eternally accelerates.",
+  "skip": false,
+  "subtitle": "Deriving the Cosmological Constant, Accelerated Expansion, and the Coincidence Problem from Discrete \u211a-Lattice Zero-Point Tension",
+  "doi": {
+    "raw": "10.5281/zenodo.18878926",
+    "is_stub": false,
+    "zenodo_id": 18878926,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-15-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-14-2026] \u2192 [@CKS-PHYS-15-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that **dark energy**\u2014the mysterious ~68% of cosmic energy driving accelerated expansion\u2014is **substrate background pressure**, the intrinsic tension in the discrete hexagonal \u211a-lattice arising from coordination constraints and zero-point quantum effects. From the substrate frequency \u03c9_s = 2\u03c0f_s where f_s = 227 GHz ([@CKS-PHYS-8-2026]), Lex spacing a = 1.32 mm, and hexagonal coordination D=3, we demonstrate that: (1) the cosmological constant \u039b emerges from **substrate stiffness** via \u039b = 8\u03c0G \u03c1_substrate where \u03c1_substrate = \u210f\u03c9_s/a\u00b3 gives \u03c1_\u039b \u2248 6\u00d710\u207b\u00b2\u2077 kg/m\u00b3, matching observations with NO fine-tuning, (2) dark energy density is **constant** (not evolving) because it's geometric tension (not dynamic field), giving equation of state w = \u22121 exactly, (3) accelerated expansion occurs naturally when **matter dilution** (\u03c1_m \u221d a\u207b\u00b3) drops below substrate pressure (\u03c1_\u039b = constant), creating transition at z_acc \u2248 0.7 as observed, (4) the \"coincidence problem\" (why \u03c1_\u039b \u2248 \u03c1_m today) resolves because both are substrate effects with **fixed ratio** from W=32 word efficiency: \u03c1_DM/\u03c1_\u039b \u2248 0.4 follows from registry overhead architecture, (5) substrate pressure arises from three sources: **hexagonal strain** (D=3 coordination forces non-zero lattice tension), **jubilee zero-point** (continuous R=19 tick cycling creates background energy), and **bilateral stress** (S=2 manifold compression), (6) the vacuum catastrophe (120 orders magnitude mismatch) resolves because quantum field theory calculates WRONG quantity\u2014substrate pressure, not sum of field zero-points, (7) dark energy does not cluster (homogeneous) because it's substrate-level tension (not matter/radiation), and (8) universe's fate is eternal expansion at constant rate H_\u221e = \u221a(\u039b/3) \u2248 H_0 (present Hubble rate becomes asymptotic value). We derive Friedmann equations with \u039b, cosmological evolution, structure formation with dark energy, and observational tests from pure substrate mechanics without quintessence, phantom energy, or modified gravity. This establishes dark energy as the **ground state tension** of the discrete substrate, not mysterious repulsive force but necessary consequence of \u211a-lattice architecture.\n\n**Key Result:** Dark energy is substrate background pressure; \u039b from \u210f\u03c9_s/a\u00b3; w = \u22121 exactly; coincidence problem resolved; vacuum catastrophe false problem; expansion eternally accelerates.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-12-2026",
+    "CKS-MATH-14-2026",
+    "CKS-PHYS-13-2026",
+    "CKS-PHYS-14-2026",
+    "CKS-PHYS-8-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151674+00:00"
+}

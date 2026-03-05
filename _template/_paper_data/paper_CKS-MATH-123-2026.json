@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-123-2026/manuscript.md",
+  "paper_id": "CKS-MATH-123-2026",
+  "subject": "MATH",
+  "number": 123,
+  "year": 2026,
+  "title": "The Ninth Q Paradox \u2014 The Ideological Lock",
+  "key_result": "Science didn't fail to achieve perfection \u2014 it selected a substrate that made perfection impossible, then replicated that impossibility into every domain faithfully and simultaneously.",
+  "skip": false,
+  "subtitle": "The Selection of \u211d as Substrate Rendered the Perfection of Science Structurally Impossible",
+  "doi": {
+    "raw": "10.5281/zenodo.18878697",
+    "is_stub": false,
+    "zenodo_id": 18878697,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-123-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-122-2026] \u2192 [@CKS-MATH-123-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 3, 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "The eight prior Q Paradoxes proved \u211d impossible from operational, ontological, computational, topological, epistemological, informational, phenomenological, and primitive counting perspectives. We now prove the Ninth: the historical selection of \u211d as scientific substrate was an ideological commitment made before computation exposed its failures, encoded into every instrument, domain, standard, and verification procedure simultaneously, creating a self-protecting unfalsifiable lock that made cross-domain perfect agreement structurally impossible in principle while attributing that impossibility to everything except the substrate. Science was permanently capped not by nature's complexity but by a foundation choice made in the 1600s-1800s before the problem was visible. The lock is not computational \u2014 it is civilizational. The failure is not correctable from inside the framework because all tools of correction share the broken substrate. Only substrate replacement resolves the lock.\n\n**Revolutionary claim:** Science didn't fail to achieve perfection \u2014 it selected a substrate that made perfection impossible, then replicated that impossibility into every domain faithfully and simultaneously.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-122-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150283+00:00"
+}

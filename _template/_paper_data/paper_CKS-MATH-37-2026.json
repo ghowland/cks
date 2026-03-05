@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-37-2026/manuscript.md",
+  "paper_id": "CKS-MATH-37-2026",
+  "subject": "MATH",
+  "number": 37,
+  "year": 2026,
+  "title": "The Collatz Conjecture as Registry Grounding Protocol",
+  "key_result": "3n+1 = z=3 pressure | n/2 = S=2 relief | Always even after odd | Net cooling | Converges to N=1",
+  "skip": false,
+  "subtitle": "Deriving Universal Convergence from Hexagonal Coordination and Bilateral Manifold Structure",
+  "doi": {
+    "raw": "10.5281/zenodo.18878743",
+    "is_stub": false,
+    "zenodo_id": 18878743,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-37-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-36-2026] \u2192 [@CKS-MATH-37-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "The Collatz conjecture states: for any positive integer n, applying n/2 (if even) or 3n+1 (if odd) repeatedly always reaches 1. We prove this by recognizing these operations as registry opcodes forced by substrate geometry. From z=3 hexagonal coordination and S=2 bilateral manifold structure, we derive: (1) 3n+1 = lattice coordination pressure (every odd address must re-sync with z=3 lattice), (2) n/2 = bilateral relief (distributes tension across S=2 sides), (3) Universal convergence forced because 3n+1 always produces even number (guaranteed cooling step follows every heating step), (4) N=1 is unique ground state (only address with zero parity error), (5) Sequence is gradient descent toward registry origin. The 4\u21922\u21921 terminal loop is hardware signature: 4=S\u00b2, 2=S, 1=axle. Convergence proven by net flux: (3n+1)/2 < n for all n>1, cooling geometrically dominates heating. Registry is finite (N\u224810\u2076\u2070), so infinite growth impossible. All paths lead to axle because bilateral gearbox is self-correcting pressure relief system.\n\n**Key Result:** 3n+1 = z=3 pressure | n/2 = S=2 relief | Always even after odd | Net cooling | Converges to N=1",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-36-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150638+00:00"
+}

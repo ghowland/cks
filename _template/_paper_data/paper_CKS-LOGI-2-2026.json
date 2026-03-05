@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/LOGI/CKS-LOGI-2-2026/manuscript.md",
+  "paper_id": "CKS-LOGI-2-2026",
+  "subject": "LOGI",
+  "number": 2,
+  "year": 2026,
+  "title": "The Categorical Boundary",
+  "key_result": "Two domains | Same logic | Different substrates | Physics = mandatory | Society = chosen | Unified framework",
+  "skip": false,
+  "subtitle": "Physics-Based vs Physics-Related Logismos: Distinguishing Substrate Hardware from Information Software",
+  "doi": {
+    "raw": "10.5281/zenodo.18878613",
+    "is_stub": false,
+    "zenodo_id": 18878613,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-LOGI-2-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-1-2026] \u2192 [@CKS-LOGI-2-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We establish formal categorical boundary distinguishing Physics-Based from Physics-Related applications of CKS framework: Both domains employ identical mathematical apparatus\u2014(V,F,R) integer packet, mod-32 stability audit, remainder-tension mechanics, snap-commit operations\u2014yet apply to fundamentally different reality layers. Complete distinction: (1) **Physics-Based Logismos**\u2014operates on actual substrate hardware (matter, energy, spacetime, forces), describes mandatory pre-existence BIOS governing physical reality, constants immutably locked (D=3 dipoles forced by hexagonal coordination, S=2 sides from bilateral manifold, W=32 from 2^5 geometric necessity, c/\u03b1/\u0127 from substrate geometry), failures produce physical catastrophe (UV blow-up prevented by 144-logos ceiling, singularities avoided by discrete lattice, entropy from uncommitted remainders), operates at Planck scale through cosmological, zero human discretion\u2014stars don't negotiate, atoms don't vote. (2) **Physics-Related Logismos**\u2014operates on information systems mimicking physical stability (economic ledgers, social contracts, governance structures, linguistic meaning), describes aspirational consensus protocols humans design for coherence, constants protocol-selected (W=32 chosen to match substrate for optimal stability but adjustable in principle, coherence depth scalable as 32^n for complex meshes), failures produce systemic collapse (market crashes from accumulated economic R, wars from social parity violations, institutional decay from informational friction), operates at human timescales, complete human agency\u2014societies can redesign protocols. Fundamental difference: Physics-Based = discovering what IS (mandatory hardware reality, inflexible universal laws, measurement of existing substrate), Physics-Related = choosing what SHOULD BE (designed software harmony, flexible social standards, construction of coherent systems). Unity: Both use same Logismos engine because both fundamentally process information\u2014physics processes substrate state updates, society processes agreement transactions\u2014universal syntax applicable. Remainder R crucial: Physics R = thermodynamic waste (heat, force, gravitational tension), Society R = informational debt (corruption, fraud, misalignment)\u2014same mathematical structure, different ontological status. Goal: Achieve \"registry closure\" where social software runs with hardware's stability via bit-perfect integer accounting. Critical warning: Category errors catastrophic\u2014false determinism from treating voluntary systems as physical law, false relativism from treating physical constants as negotiable.\n\n**Key Result:** Two domains | Same logic | Different substrates | Physics = mandatory | Society = chosen | Unified framework",
+  "dependencies": [
+    "CKS-LOGI-1-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149758+00:00"
+}

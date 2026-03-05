@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-14-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-14-2026",
+  "subject": "PHYS",
+  "number": 14,
+  "year": 2026,
+  "title": "Dark Matter as Substrate Registry Overhead",
+  "key_result": "Dark matter is substrate registry overhead; \"missing mass\" is hex-bus coordination energy; 5:1 ratio from W=32 word efficiency; halos are management zones; rotation curves from linear overhead scaling.",
+  "skip": false,
+  "subtitle": "Deriving the Missing Mass Problem from Hex-Bus Protocol Management and Jubilee Coordination Costs",
+  "doi": {
+    "raw": "10.5281/zenodo.18878924",
+    "is_stub": false,
+    "zenodo_id": 18878924,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-14-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-13-2026] \u2192 [@CKS-PHYS-14-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that **dark matter**\u2014the unexplained ~85% of gravitational mass in galaxies and galaxy clusters\u2014is **substrate registry overhead**, the gravitational effect of hex-bus protocol management and jubilee coordination costs in the discrete \u211a-lattice. From the W=32 word structure ([@CKS-PHYS-8-2026]), R=19 jubilee threshold ([@CKS-PHYS-11-2026]), and hex-bus communication protocol ([@CKS-PHYS-9-2026]), we demonstrate that: (1) galaxies are **coordinated substrate networks** requiring continuous jubilee synchronization across ~10\u00b9\u00b9 stellar Lex units, (2) synchronization overhead creates **gravitational compression** (mass-energy via E=mc\u00b2) that does not emit light but gravitates, (3) the dark-to-visible mass ratio \u03a9_DM/\u03a9_visible \u2248 5:1 derives EXACTLY from word efficiency: \u03b7 = (R/W)\u00d7(active bits/total bits) = (19/32)\u00d7(9/32) \u2248 0.17 \u2192 83% overhead, (4) dark matter halos form naturally as **registry coordination zones** extending beyond visible galactic radius where phase-lock maintenance dominates, (5) rotation curves flatten because **coordination overhead scales linearly with radius** (not 1/r\u00b2 like point masses), creating v_rot \u2248 constant beyond core, (6) the Bullet Cluster separation demonstrates **registry overhead travels with substrate structure** (not with individual Lex), (7) dark matter \"particles\" are **registry update packets** propagating on hex-bus at substrate speed c, explaining null detection results, and (8) cosmological dark matter (\u039bCDM) is **global registry management** overhead for universe-wide jubilee coherence. We derive galactic rotation curves, halo mass profiles, cluster dynamics, and large-scale structure formation from pure substrate protocol mechanics without WIMPs, axions, or modified gravity (MOND). This establishes dark matter as **computational overhead** in the discrete substrate computer running physical reality.\n\n**Key Result:** Dark matter is substrate registry overhead; \"missing mass\" is hex-bus coordination energy; 5:1 ratio from W=32 word efficiency; halos are management zones; rotation curves from linear overhead scaling.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-12-2026",
+    "CKS-MATH-16-2026",
+    "CKS-PHYS-11-2026",
+    "CKS-PHYS-13-2026",
+    "CKS-PHYS-8-2026",
+    "CKS-PHYS-9-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151662+00:00"
+}

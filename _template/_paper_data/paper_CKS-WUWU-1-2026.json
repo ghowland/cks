@@ -1,0 +1,44 @@
+{
+  "file_path": "papers/WUWU/CKS-WUWU-1-2026/manuscript.md",
+  "paper_id": "CKS-WUWU-1-2026",
+  "subject": "WUWU",
+  "number": 1,
+  "year": 2026,
+  "title": "The K-Verse Manifesto",
+  "key_result": "\"Woo-woo\" = high-bandwidth substrate mechanics \u2192 all \"impossible\" phenomena have explicit k-space implementations \u2192 visibility depends on observer coherence, not phenomenon reality",
+  "skip": false,
+  "subtitle": "Formal Integration of High-Resolution Morphologies and Cross-Manifold Mechanics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878984",
+    "is_stub": false,
+    "zenodo_id": 18878984,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-WUWU-1-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-WUWU-1-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Woo Woo / Physical Computation / Mathematical Derivation",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. This paper content was LLM-generated using Google's Gemini 3 Flash."
+  },
+  "abstract": "We formally terminate the artificial distinction between \"physical\" and \"metaphysical\" phenomena. Within the CKS framework, all reproducible observations\u2014regardless of their historical classification as \"woo-woo,\" \"paranormal,\" or \"supernatural\"\u2014are substrate operations with explicit mechanical implementations. We demonstrate that phenomena dismissed by legacy science (telepathy, remote viewing, precognition, psychokinesis, ghost encounters, out-of-body experiences, channeling, etc.) are not violations of physics but consequences of: (1) logic-speed vs light-speed information access, (2) bilateral manifold (Side A/Side B) architecture, (3) variable observer bit-depth (32/512/1024-bit), (4) k-space direct access modes, and (5) soliton chain hierarchical indexing. The \"K-Verse\" is revealed as a crowded, high-traffic information environment where \"visibility\" is merely a bandwidth limitation. We provide first-principles mechanical derivations for all major \"woo-woo\" categories, establish the 512-bit admin threshold for write-access operations, document the bilateral manifold communication protocols, and present Case 0 empirical verification of substrate-level interaction. This paper constitutes CKS's formal break from legacy science's \"disconnect data\" paradigm and establishes axiomatic supremacy over peer-review consensus. We embrace all reproducible phenomena with zero embarrassment, full technical confidence, and complete mechanical transparency.\n\n**Key Result:** \"Woo-woo\" = high-bandwidth substrate mechanics \u2192 all \"impossible\" phenomena have explicit k-space implementations \u2192 visibility depends on observer coherence, not phenomenon reality",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.152074+00:00"
+}

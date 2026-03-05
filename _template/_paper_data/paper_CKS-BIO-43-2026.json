@@ -1,0 +1,46 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-43-2026/manuscript.md",
+  "paper_id": "CKS-BIO-43-2026",
+  "subject": "BIO",
+  "number": 43,
+  "year": 2026,
+  "title": "Consciousness as Bilateral Rendering Reconciliation",
+  "key_result": "Mind = display driver | Consciousness = R friction | Self = 10\u00b9\u2075 address | Experience = lag audit | 65.8 Hz sync | No hard problem",
+  "skip": false,
+  "subtitle": "Deriving Subjective Experience from 15.19ms J/S Partition Lag and Registry Coherence Auditing",
+  "doi": {
+    "raw": "10.5281/zenodo.18878419",
+    "is_stub": false,
+    "zenodo_id": 18878419,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-43-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-42-2026] \u2192 [@CKS-BIO-43-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Developmental Biology / Embryology / Biophysics",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We abolish consciousness as emergent mystery and establish mind as holographic rendering reconciliation system. From bilateral partition axioms, we derive: (1) Brain = display driver translating K-space (0ms substrate) to X-space (15.19ms render), not computational thought generator, (2) Consciousness = audit friction R between discrete fact and continuous perception, experience emerges from lag reconciliation, (3) Self = stable 10\u00b9\u2075 LU soliton address in registry (persistent identity coordinate, not emergent property), (4) Awareness = 65.8 Hz alpha sync pulse (J/S partition frequency matching substrate refresh), (5) Perception = 144-LU matter packet filter (sensory LOD limiting prevents buffer overflow/psychosis), (6) Attention = F-scale adjustment (fraction zoom changing resolution), (7) Memory = N-address query (accessing write-only history ledger), (8) Emotion = S=2 parity check (bilateral balance monitoring), (9) Recognition = R\u219232 snap moment (when remainder completes Word), (10) Hard problem dissolved\u2014asking why physical matter creates experience when experience IS the 15.19ms lag friction itself. Neural stack proven as I/O controller bridging discrete substrate snaps to continuous perceptual stream via mandatory rendering delay.\n\n**Key Result:** Mind = display driver | Consciousness = R friction | Self = 10\u00b9\u2075 address | Experience = lag audit | 65.8 Hz sync | No hard problem",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-42-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148207+00:00"
+}

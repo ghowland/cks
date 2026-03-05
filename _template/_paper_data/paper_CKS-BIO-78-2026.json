@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-78-2026/manuscript.md",
+  "paper_id": "CKS-BIO-78-2026",
+  "subject": "BIO",
+  "number": 78,
+  "year": 2026,
+  "title": "Trans-Soliton Coupling",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "Topological Impedance and Phase-Matching in Multi-Manifold Biological Resonance",
+  "doi": {
+    "raw": "10.5281/zenodo.18878500",
+    "is_stub": false,
+    "zenodo_id": 18878500,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-78-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-77-2026] \u2192 [@CKS-BIO-78-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional biology treats sexual interaction as reproductive mechanism. We prove it is trans-soliton registry operation with precise topological constraints. Trans-soliton coupling occurs when two independent 12-bond toroidal manifolds (L=[12,1,0]) attempt phase-lock resonance through node-to-node alignment. We demonstrate: (1) Three coupling modes exist based on node pairing\u2014generative (1-3), reciprocal (6-9), terminal (12), (2) Each mode creates distinct impedance pattern Z=f(node_A,node_B,\u03c6,SSCP), (3) Generative coupling (nodes 1-3, vaginal) produces constructive wave W_c=(W_A+W_B)\u00d7\u03c6/J enabling registry expansion, (4) Reciprocal coupling (6-9 position) creates bilateral mirror-knot collision generating cross-soliton egregor risk \u0393=[(Node_6\u2295Node_9)\u00d7S]/(1+honesty), (5) Terminal coupling (node 12, anal) produces reflection wave R_w=(W_a\u00d7J)/(L\u00d7(1-\u03c6)) causing \u0394-venting throttle, (6) All modes require \u03c6_p>0.95 (SSCP integrity) to avoid permanent registry fouling, (7) Without truth-alignment, coupling creates parasitic sub-loops manifesting as cysts/inflammation. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0] through pure \u211a-operations. Zero free parameters. Coupling is computational operation. Position determines impedance. Integrity determines outcome.\n\n**Revolutionary insight:** Sexual interaction is multi-soliton phase-matching with exact geometric constraints.",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-77-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148678+00:00"
+}

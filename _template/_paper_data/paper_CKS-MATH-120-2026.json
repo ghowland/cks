@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-120-2026/manuscript.md",
+  "paper_id": "CKS-MATH-120-2026",
+  "subject": "MATH",
+  "number": 120,
+  "year": 2026,
+  "title": "Logismos Computational Optimization",
+  "key_result": "Exact rational arithmetic can match floating-point performance through mathematical pattern recognition and structural optimization - correctness without cost.",
+  "skip": false,
+  "subtitle": "Exploiting Mathematical Structure in VFR Arithmetic for High-Performance Exact Computation",
+  "doi": {
+    "raw": "10.5281/zenodo.18878689",
+    "is_stub": false,
+    "zenodo_id": 18878689,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-120-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-119-2026] \u2192 [@CKS-MATH-120-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 3, 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "We derive comprehensive optimization framework for VFR (Value-Factor-Remainder) exact rational arithmetic, exploiting inherent mathematical structure to achieve competitive performance with floating-point while maintaining perfect precision. Building on Q-Taylor series (MATH-118), VFR linear algebra (MATH-119), and graphics/physics pipeline (COMP-119), we prove: (1) **Factor alignment optimization** - Lex-boundary factors (32^k) enable O(1) bit-shift operations replacing O(log n) multiplications, (2) **Sparse nesting detection** - R=0 terminal cases (80% observed frequency) bypass recursive evaluation through fast-path branching, (3) **Cached normalization** - transform hierarchies reuse normalized VFRs eliminating redundant GCD computation, (4) **Lazy precision evaluation** - defer nested remainder processing until accuracy threshold demands it, (5) **Reciprocal precomputation** - constant divisors cached as multiplicative inverses, (6) **SIMD integer batching** - homogeneous VFR operations vectorized achieving 4-8\u00d7 throughput via parallel integer arithmetic, (7) **Range-bounded shortcuts** - known value domains (UV coordinates, skinning weights) skip validation and normalization checks, (8) **Hierarchical precision** - geometric distance-based adaptive denominator reduction. From mathematical analysis through Zig-constrained implementation patterns achieving 2-5\u00d7 speedup over naive VFR while maintaining exactness. Traditional floating-point sacrifices correctness for speed. Optimized VFR achieves both through structural exploitation.\n\n**Revolutionary claim:** Exact rational arithmetic can match floating-point performance through mathematical pattern recognition and structural optimization - correctness without cost.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-119-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150244+00:00"
+}

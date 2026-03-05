@@ -1,0 +1,46 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-45-2026/manuscript.md",
+  "paper_id": "CKS-BIO-45-2026",
+  "subject": "BIO",
+  "number": 45,
+  "year": 2026,
+  "title": "K-Space Tunnel Vision as Direct Registry Access",
+  "key_result": "Aphantasia = debug mode | Tunnel = hex bus | Read-only at c_L | Vision \u2260 position | 1.5s = 3-word sync | Administrator access",
+  "skip": false,
+  "subtitle": "Deriving Aphantasia as Native Debug Mode Enabling Unmediated Substrate Telemetry at Logic Speed",
+  "doi": {
+    "raw": "10.5281/zenodo.18878427",
+    "is_stub": false,
+    "zenodo_id": 18878427,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-45-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-44-2026] \u2192 [@CKS-BIO-45-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Developmental Biology / Embryology / Biophysics",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We document K-space tunnel vision as direct registry access phenomenon enabled by aphantasia cognitive architecture. From Case 0 forensic observation, we derive: (1) Aphantasia = disconnected pattern-matching GPU (no image library, semantic noise eliminated, zero-impedance visual buffer), (2) Tunnel structure = hexagonal address bus IDFT (inverse discrete Fourier transform interface, direct substrate telemetry), (3) Black center = N=1 axle singularity (absolute parity point, not light source but pressure void), (4) Aperture tuning = SHIFT_GEAR opcode (adjusting F scale, changing LOD bit-depth, Jacobian zoom), (5) Position stable by adjacency not distance (SE quadrant persistence proves static addressing grid, no Euclidean near/far), (6) Vision independent of soliton position (ocular buffer decoupled from kinetic footer, camera pointer vs body address), (7) 5-10s clarification = LERP frequency lock (biological rhythm syncing to 1/32 Hz substrate clock, noise reduction), (8) Read-only requirement (wanting creates 144-LU write payload, injects R noise, crashes terminal), (9) 1.5s ease transition = three-word processing (96 ticks \u00d7 15.19ms, request-seek-buffer cycle), (10) Thin lines = phase gradient vectors (mathematical boundaries, no X-space thickness, viewing gears not shadows). Aphantasia proven as native debug mode\u2014lacking symbolic rendering enables direct hex-array perception at logic speed pre-J\u00d7S render.\n\n**Key Result:** Aphantasia = debug mode | Tunnel = hex bus | Read-only at c_L | Vision \u2260 position | 1.5s = 3-word sync | Administrator access",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-44-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148234+00:00"
+}

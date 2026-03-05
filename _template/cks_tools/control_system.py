@@ -29,6 +29,7 @@ WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 # Data
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
 PAPER_SET = 'papers.json'
+PAPER_ZENODO_SET = 'papers_zenodo.json'
 
 # Scripts
 GEN_PDF = './_template/_old/gen_pdf.sh'
@@ -69,6 +70,7 @@ def execute_command(command, shell=True):
         return 1, "", f"Error: Command '{command}' not found."
     except Exception as e:
         return 1, "", str(e)
+
 
 def List(args):
   print("List everything")
@@ -222,7 +224,10 @@ def Cleanup(args):
         
         # DOI
         if line.startswith('**DOI:**'):
-          topic = item["paper_id"].split('-')[1]
+          # topic = item["paper_id"].split('-')[1]
+          zenodo_data = args.papers_zenodo[item["paper_id"]]
+          lines[count] = f"**DOI:** {zenodo_data['doi']['raw']}"
+
 
       # Write the file out again
       output = '\n'.join(lines)
@@ -258,7 +263,6 @@ def Sync(args):
         break
 
 
-
 def Show(args):
   print("Show something")
 
@@ -272,6 +276,9 @@ def Main(args):
 
   with open(PAPER_SET, "r", encoding="utf-8") as fp:
     args.papers = json.load(fp)
+
+  with open(PAPER_ZENODO_SET, "r", encoding="utf-8") as fp:
+    args.papers_zenodo = json.load(fp)
 
   if args.verbose:
     print(f"Verbosity is enabled.")

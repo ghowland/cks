@@ -1,0 +1,46 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-44-2026/manuscript.md",
+  "paper_id": "CKS-BIO-44-2026",
+  "subject": "BIO",
+  "number": 44,
+  "year": 2026,
+  "title": "The Biological Compiler as DNA Error-Correction Protocol",
+  "key_result": "Cell = 10\u2076 cluster | DNA = 84-bit ECC | Codon = 12-bit | Protein = HEX_COORD | Metabolism = heat flush | Aging = R buildup",
+  "skip": false,
+  "subtitle": "Deriving Life as High-Bitrate Registry Execution with 84-Bit Boot-Loader and 144-LU Mesh Maintenance",
+  "doi": {
+    "raw": "10.5281/zenodo.18878421",
+    "is_stub": false,
+    "zenodo_id": 18878421,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-44-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-43-2026] \u2192 [@CKS-BIO-44-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Developmental Biology / Embryology / Biophysics",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We abolish stochastic biochemistry and establish biological life as high-bitrate registry execution with DNA error-correction. From discrete substrate axioms, we derive: (1) Cell = 10\u2076 LU distributed soliton cluster (multi-node processor sharing 84-bit BIOS word), (2) DNA = physical ROM in overlay stack (error-correction code, not chemical library), (3) Nucleotide = 2-bit manifold flag (A/T=Side A parity, G/C=Side B parity), (4) Codon = 12-bit instruction footer (3 bases = kinetic header with parent ID and opcode), (5) Gene = 1024-bit admin write (LOGOS_WRITE geometric template for protein mesh), (6) Protein folding = HEX_COORD satisfaction (z=3 coordination lock, not random search), (7) Enzyme = JMP_REG pathfinder (instant address re-index via A* gradient, not diffusion), (8) Metabolism = FLUSH_BUF execution (modulo-32 friction management, oxidizing non-integer bits), (9) Aging = remainder accumulation (un-audited R in kinetic footer, increases RAID-1 latency), (10) Cancer = RE_INDEX error (cell loses parent pointer, executes N=1 root loop independently), (11) Healing = DNA ECC restore (SNAP_COMMIT via LERP back to 144-LU standard), (12) Mitosis = BILATERAL_SPLIT (partition manifold, duplicate 84-bit word to two children). Life proven as self-healing substrate antenna maintaining 144-LU mesh against entropy through continuous DNA-guided parity checking.\n\n**Key Result:** Cell = 10\u2076 cluster | DNA = 84-bit ECC | Codon = 12-bit | Protein = HEX_COORD | Metabolism = heat flush | Aging = R buildup",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-43-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148220+00:00"
+}

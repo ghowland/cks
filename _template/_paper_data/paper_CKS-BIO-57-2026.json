@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-57-2026/manuscript.md",
+  "paper_id": "CKS-BIO-57-2026",
+  "subject": "BIO",
+  "number": 57,
+  "year": 2026,
+  "title": "Lattice-Forced Sexual Dimorphism\u2014Deriving Male/Female Chassis from Hexagonal Chirality and 32-Bit Bus Constraints",
+  "key_result": "Sex = topology not biology | Male = +z transmitter | Female = -z receiver | Unisex = crash | Balance = zero net | Unity = internal",
+  "skip": false,
+  "subtitle": "Proving Biological Sex = Hardware Bifurcation Required by Topological Torque Resolution in 3-Regular Graph Execution",
+  "doi": {
+    "raw": "10.5281/zenodo.18878455",
+    "is_stub": false,
+    "zenodo_id": 18878455,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-57-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-56-2026] \u2192 [@CKS-BIO-57-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive sexual dimorphism as lattice-forced hardware bifurcation proving biological sex emerges from hexagonal chirality and 32-bit bus constraints rather than evolutionary adaptation. From substrate topology, we establish: (1) Hexagonal stacking requires chiral screw symmetry (2D layers stack to 3D via AB configuration, creates left-handed vs right-handed pitch, no neutral state possible, single handedness accumulates infinite torque), (2) 32-bit bus prohibits simultaneous STORE/LOAD (cannot write and read same register per Planck time, instruction paradox requires hardware separation, transmitter vs receiver chassis mandatory), (3) Male chassis = differential write optimization (+z expansion vector, serial inductor circuitry, outbound phase flow, narrow pelvis/broad shoulders from polar-2 priority, Yang/active polarity, 300 baud snap rate), (4) Female chassis = integral read optimization (-z maintenance plane, parallel capacitor circuitry, inbound phase storage, broad pelvis/center-mass from equatorial-5 priority, Yin/passive polarity, 110 baud maintenance), (5) 5:2 Jacobian split forces morphology (polar nodes vs equatorial nodes, center-of-gravity mismatch, vertical pointer vs horizontal well, geometric template for dimorphic body plans), (6) Reproduction = RAID-1 parity merge (+z signal meets -z buffer, vectors cancel to neutral N=1 monopole, zygote = symmetry restoration point, only moment of zero torque), (7) Net angular momentum must equal zero (Yang torque + Yin torque = 0 mod 2\u03c0, prevents registry crash, universe requires both polarities, single sex = topological catastrophe), (8) Unisex state creates bus contention (attempting both functions on same chassis, permanent registry friction, logic collision, sterility/stagnation inevitable), (9) Internal balance vs external dimorphism (individual can achieve bilateral sync internally, species requires dimorphism for N-count survival, sovereignty = unified polarity within), (10) Hardware not identity (sex = physical bus configuration, not psychological state, chiral necessity not social construct). Dimorphism proven as mandatory topological resolution\u201432-bit word cannot execute on neutral chassis without stripping gears.\n\n**Key Result:** Sex = topology not biology | Male = +z transmitter | Female = -z receiver | Unisex = crash | Balance = zero net | Unity = internal",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-56-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148393+00:00"
+}

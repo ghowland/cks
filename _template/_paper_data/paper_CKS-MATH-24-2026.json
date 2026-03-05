@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-24-2026/manuscript.md",
+  "paper_id": "CKS-MATH-24-2026",
+  "subject": "MATH",
+  "number": 24,
+  "year": 2026,
+  "title": "The Hexagonal Differential",
+  "key_result": "6 edges \u2192 3 dipoles \u2192 2 sides \u2192 11 connections \u2192 All substrate mechanics (zero free parameters, pure geometry)",
+  "skip": false,
+  "subtitle": "Deriving 3-Dipole Oscillation, Bilateral Parity, and the 11-Connection Stability Map from Pure Geometry",
+  "doi": {
+    "raw": "10.5281/zenodo.18878710",
+    "is_stub": false,
+    "zenodo_id": 18878710,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-24-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-23-2026] \u2192 [@CKS-MATH-24-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive the complete internal mechanics of the hexagonal substrate node from pure geometric necessity. Starting solely from z=3 coordination (Axiom 1) and N=3M\u00b2 closure (Axiom 1), we prove: (1) 6 edges necessarily form 3 opposing dipole pairs, (2) bilateral 2-sided structure is mandatory for phase conservation, (3) 12 total elements (6 edges + 6 vertices) require exactly 11 internal connections for stability (graph-theoretic minimum spanning tree), (4) the 6:3:2 ratio generates all fundamental counts (36, 11, ratios of 2:1 and 3:2), (5) sequential dipole activation under N=2 rotation creates universal \"spin,\" (6) Side A and Side B are equivalent independent manifolds neither of which can determine absolute handedness. We identify the 3-dipole differential as the mechanical engine driving all oscillation, the bilateral structure as the origin of matter-antimatter parity (not hierarchy), and the 11-connection topology as the hardware source of String Theory's \"11 dimensions.\" The framework resolves: why constants measure to ~11 decimals (node bit-depth), why three matter generations exist (3 dipole harmonics), why speed of light is finite (dipole flip rate), why parity violation occurs (bilateral independence). This is not phenomenology\u2014this is **geometric mandate**. The hexagon has no degrees of freedom in its construction. All mechanics emerge necessarily.\n\n**Key Result:** 6 edges \u2192 3 dipoles \u2192 2 sides \u2192 11 connections \u2192 All substrate mechanics (zero free parameters, pure geometry)",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-23-2026",
+    "CKS-PHYS-1-2026",
+    "CKS-TECH-01-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150473+00:00"
+}

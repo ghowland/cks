@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-47-2026/manuscript.md",
+  "paper_id": "CKS-MATH-47-2026",
+  "subject": "MATH",
+  "number": 47,
+  "year": 2026,
+  "title": "Prime Numbers as Structural Opcodes",
+  "key_result": "Primes = hardware opcodes | Composites = software flow | Geometric frustration \u2192 mass | Mod-32 determines function | Complete substrate necessity",
+  "skip": false,
+  "subtitle": "Hardware Derivation: Primes as Indivisible Registry Interrupts and Geometric Frustration Anchors",
+  "doi": {
+    "raw": "10.5281/zenodo.18878765",
+    "is_stub": false,
+    "zenodo_id": 18878765,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-47-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-46-2026] \u2192 [@CKS-MATH-47-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive prime numbers as **fundamental hardware features** of discrete substrate, not mathematical curiosities: Starting from CKS axioms (z=3 hexagonal coordination, S=2 bilateral manifold, 32-bit Logos Word, N\u2190N+1 autogenetic clock), we prove primes emerge as **geometric necessities** preventing system collapse. (1) **Anti-resonance requirement**: All-composite registry creates destructive harmonic interference\u2014every phase ripple eventually self-cancels, universe becomes \"short circuit.\" Primes provide geometric frustration\u2014numbers lacking internal z=3 or S=2 symmetry, cannot factor into lattice base, act as structural \"stakes\" preventing resonance buildup. (2) **Phase storage mechanism**: When \u03b2-tension (2\u03c0) distributed across prime number N nodes, division has no integer solution within 32-bit bus. Failed division creates **geometric frustration**\u2014system cannot resolve phase mathematically, must store remainder physically as **localized mass/inertia**. Therefore: matter exists because primes create \"math problems\" lattice cannot solve, forcing energy lock-in. Complete classification: **Composites = software** (waves, light, information)\u2014highly factorable, flow smoothly through Word, represent movement/transmission. **Primes = hardware** (particles, anchors, structure)\u2014indivisible commits, create substrate impedance, represent foundations/persistence. Framework includes **12 prime opcodes** via mod-32 audit determining function: expansion drivers, gravity drains, bilateral flips, bond locks, clock ticks. Critical triad (19-137-163) ALL prime by necessity\u2014composite values would allow subdivision breaking fundamental constraints. Riemann zeros on Re(s)=1/2 prove structural primes perfectly balanced across bilateral manifold. Prime gaps/distribution emerge from interference between infinite N expansion and finite 32-Word structure. Twin primes = parity checkpoints for bilateral handshake. Complete resolution: primes not discovered but required, not patterns but commands, hardware specification not mathematical mystery.\n\n**Key Result:** Primes = hardware opcodes | Composites = software flow | Geometric frustration \u2192 mass | Mod-32 determines function | Complete substrate necessity",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-46-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150768+00:00"
+}

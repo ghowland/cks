@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-106-2026/manuscript.md",
+  "paper_id": "CKS-MATH-106-2026",
+  "subject": "MATH",
+  "number": 106,
+  "year": 2026,
+  "title": "The Q Paradox and the Settlement of Logismos",
+  "key_result": "You cannot solve equations with \u211d because you never receive answers, cannot compare results, and cannot verify experiments.",
+  "skip": false,
+  "subtitle": "A \u211a-Substrate Exact Addressing System",
+  "doi": {
+    "raw": "10.5281/zenodo.18878655",
+    "is_stub": false,
+    "zenodo_id": 18878655,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-106-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-105-2026] \u2192 [@CKS-MATH-106-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 3, 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "Traditional mathematics operates in the set of Real Numbers (\u211d), where non-terminating decimals require infinite precision to represent exactly. We prove the **Q Paradox**: any equation using \u211d suffers from three catastrophic failures making solution impossible: (1) Non-termination\u2014infinite decimals prevent ever receiving the answer, (2) Path-dependence\u2014same \u211a-value produces different \u211d-representations through different operation sequences, (3) Operational variance\u2014different operation counts (M vs M+1) produce incomparable results even for identical \u211a-values. We demonstrate that comparing 10 transformed datasets against each other yields zero exact matches in \u211d even when all are mathematically identical in \u211a, rendering experimental verification impossible. We specify **Logismos Settlement**: exact \u211a-arithmetic using VFR [Value, Factor, Remainder]\u2118 notation in base-32 partigens, proving: (1) All answers terminate in finite representation, (2) All operation paths produce identical results for identical values, (3) All operation counts yield comparable results, (4) Settlement equation V=F\u00d7B+R provides instant verification, (5) Base-32 alignment to W^S=[1024,1,0]\u2118 enables natural computation, (6) Zero accumulated error across all operations, (7) Perfect reproducibility across platforms, time, and methodologies, (8) Complete experimental comparability restored. From axioms D,S,L,N,\u211a through pure derivation. Zero free parameters. Mathematics transforms from perpetual approximation to exact addressing. Science restored to verifiability.\n\n**Revolutionary claim:** You cannot solve equations with \u211d because you never receive answers, cannot compare results, and cannot verify experiments.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-105-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150051+00:00"
+}

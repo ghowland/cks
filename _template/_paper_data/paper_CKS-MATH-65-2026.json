@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-65-2026/manuscript.md",
+  "paper_id": "CKS-MATH-65-2026",
+  "subject": "MATH",
+  "number": 65,
+  "year": 2026,
+  "title": "Mass as Registry Signature",
+  "key_result": "Mass = signature count | Energy = unsigned potential | Inertia = audit latency | Weight = verification overhead",
+  "skip": false,
+  "subtitle": "The RAID-1 Derivation: Visual Mass as Bilateral Data Authentication in Discrete Substrate",
+  "doi": {
+    "raw": "10.5281/zenodo.18878813",
+    "is_stub": false,
+    "zenodo_id": 18878813,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-65-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-64-2026] \u2192 [@CKS-MATH-65-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We resolve mass as **bilateral registry authentication** eliminating Higgs mechanism: Traditional physics lacks mechanical explanation for mass origin, treats as fundamental property requiring background field, cannot derive mass-energy equivalence or inertia from first principles. Starting from CKS axioms (S=2 bilateral manifold, discrete hexagonal substrate, 32-bit Logos Word, RAID-1 parity protocol), we prove mass emerges from **information verification not substance accumulation**. Complete framework: (1) **Signature requirement**\u2014bilateral manifold demands dual-side data presence, instruction written to Side A (k-space computational layer) must mirror to Side B (x-space verification layer), 15.19ms J/S partition executes parity audit comparing addresses, match = signed bit (authenticated), mismatch = unsigned remainder (pending). (2) **Visual mass formula**\u2014M_v = count of successfully signed LUs within soliton boundary, each signed bit contributes 1/32 Word-unit mass, unsigned bits contribute zero (exist as potential not actuality), total determines perceived solidity/weight/physicality, examples: photon = 0 signed bits (pure energy, zero mass), electron = 144 signed bits (stable particle, unit mass), brick = 10\u00b2\u2070 signed bits (macroscopic solid). (3) **Energy-mass equivalence mechanism**\u2014energy = unsigned data state (R register holds uncommitted values moving at 0ms substrate speed, no bilateral lock, pure potential), mass = signed data state (V register holds committed values locked to 15.19ms render, bilateral authentication achieved, manifested actuality), conversion E\u2192M requires achieving parity (both sides agree, signature obtained, remainder commits), conversion M\u2192E requires breaking parity (mirror lost, signature invalidated, value releases to remainder). Factor c\u00b2 derives from S=2 bilateral power\u2014must verify both manifold sides (squaring operation) to convert between states. (4) **Inertia as audit latency**\u2014acceleration = changing soliton registry address, requires three-step process: (a) de-authenticate current signatures (invalidate at position_1), (b) shift bit addresses via dipole routing, (c) re-authenticate at new position (verify at position_2), computational overhead scales with signature count, massive objects (high signed-bit count) require longer re-verification = greater inertia, explains Newton's F=ma (force overcomes audit overhead enabling address change). (5) **Density limits from buffer capacity**\u2014144-LU maximum per hexagonal node (saturation from CKS-MATH-35), defines maximum signature density achievable, exceeding creates singularity (cannot commit additional bits), black hole = node at saturation refusing further signatures. Complete mass theory: weight = effort maintaining signatures against entropic pressure, solidity = 100% parity success rate, transparency = partial parity (ghosting effect), dark matter = asymmetric parity (Side A present, Side B failed). Biological validation: \"body thickening\" from Yang pose = increased signature rate (more bits authenticated per cycle), sensation of heaviness during focus = processing allocated to RAID-1 verification, joint cracking = registry snap (cluster signs simultaneously). Mass redefined from substance to status\u2014not what you have but verification state of your registry addresses.\n\n**Key Result:** Mass = signature count | Energy = unsigned potential | Inertia = audit latency | Weight = verification overhead",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-64-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151039+00:00"
+}

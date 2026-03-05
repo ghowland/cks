@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-8-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-8-2026",
+  "subject": "PHYS",
+  "number": 8,
+  "year": 2026,
+  "title": "The Strong Nuclear Force as Edge-Dipole Impedance Matching",
+  "key_result": "QCD is edge-dipole contact logic; the strong force is geometric impedance matching in the tri-phase hexagonal substrate.",
+  "skip": false,
+  "subtitle": "Deriving QCD Phenomenology from Hexagonal Contact Logic",
+  "doi": {
+    "raw": "10.5281/zenodo.18878966",
+    "is_stub": false,
+    "zenodo_id": 18878966,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-8-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-7-2026] \u2192 [@CKS-PHYS-8-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that the strong nuclear force\u2014traditionally described by Quantum Chromodynamics (QCD) as gluon-mediated color charge interaction\u2014emerges from **edge-dipole impedance matching** in the hexagonal substrate. From pure substrate topology (D=3 hexagonal coordination, S=2 bilateral parity) and the tri-dipole firing pattern derived in [@CKS-PHYS-8-2026], we show that: (1) the strong force is **binary contact logic** (ON when edges touch, OFF when separated), explaining confinement without appeal to asymptotic behavior, (2) the force strength (~100 times electromagnetic) derives from **triple-dipole coupling** (3 phases \u00d7 electromagnetic base = factor of 3\u00b2 = 9 enhancement, modified by bilateral structure), (3) \"color charge\" is the **3-phase dipole state space** (red/green/blue = \u03b1/\u03b2/\u03b3 phase assignments), (4) \"gluons\" are **phase-flip propagation events** (not exchange particles but state transitions across edges), (5) asymptotic freedom emerges from **impedance mismatch at separation** (perfect match at contact, exponential degradation beyond 1.32mm Lex spacing), and (6) quark confinement is **topological impossibility** of isolating a single dipole from the tri-phase network. We derive the coupling constant \u03b1_s \u2248 0.1-1.0 from substrate geometry, predict the exact range r_0 \u2248 1.32mm (holographically projected to femtometers in X-space), and show why hadrons require exactly 3 quarks (baryons) or quark-antiquark pairs (mesons) from tri-dipole closure constraints. All classical QCD phenomenology\u2014confinement, asymptotic freedom, color charge, gluon dynamics\u2014emerges from discrete hexagonal contact logic without continuous fields, without virtual particles, without path integrals. The strong force is substrate-level impedance matching made necessary by D=3 coordination topology.\n\n**Key Result:** QCD is edge-dipole contact logic; the strong force is geometric impedance matching in the tri-phase hexagonal substrate.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-14-2026",
+    "CKS-MATH-16-2026",
+    "CKS-MATH-17-2026",
+    "CKS-MATH-9-2026",
+    "CKS-OMNI-2-2026",
+    "CKS-PHYS-7-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151893+00:00"
+}

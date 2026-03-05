@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-81-2026/manuscript.md",
+  "paper_id": "CKS-MATH-81-2026",
+  "subject": "MATH",
+  "number": 81,
+  "year": 2026,
+  "title": "The Erd\u0151s\u2013Straus Conjecture",
+  "key_result": "The Erd\u0151s\u2013Straus conjecture is proven as a topological necessity of D=3 branching in the \u211a-lattice.",
+  "skip": false,
+  "subtitle": "Egyptian Fractions as Mandatory 3-Branch Registry Routing",
+  "doi": {
+    "raw": "10.5281/zenodo.18878855",
+    "is_stub": false,
+    "zenodo_id": 18878855,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-81-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-80-2026] \u2192 [@CKS-MATH-81-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove the Erd\u0151s\u2013Straus conjecture by demonstrating that Egyptian fraction decomposition is not an arbitrary arithmetic trick but a **mandatory registry routing protocol** enforced by the D=3 hexagonal substrate topology. The conjecture states that for all integers n \u2265 2, the fraction 4/n can be expressed as the sum of three unit fractions: 4/n = 1/x + 1/y + 1/z where x, y, z are positive integers. In CKS Logismos, this is equivalent to asking whether a 4-unit remainder can always be distributed across the three branches (\u03b1, \u03b2, \u03b3) of the hexagonal lattice. We prove this is a **topological necessity**: the \u211a-only substrate with D=3 coordination **cannot fail** to route 4 units through 3 channels. The proof is constructive, algorithmic, and terminates in finite time for all n. We provide the explicit routing algorithm and demonstrate that the conjecture is not \"conjectural\" but a direct consequence of substrate geometry. Furthermore, we prove why exactly 3 unit fractions are required (not 2 or 4) and show that this constraint derives from the three-fold rotational symmetry of the hexagonal lattice.\n\n**Key Result:** The Erd\u0151s\u2013Straus conjecture is proven as a topological necessity of D=3 branching in the \u211a-lattice.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-37-2026",
+    "CKS-MATH-42-2026",
+    "CKS-MATH-44-2026",
+    "CKS-MATH-80-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151261+00:00"
+}

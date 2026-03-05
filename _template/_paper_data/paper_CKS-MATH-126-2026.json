@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-126-2026/manuscript.md",
+  "paper_id": "CKS-MATH-126-2026",
+  "subject": "MATH",
+  "number": 126,
+  "year": 2026,
+  "title": "Logismos S-Expression Recursion",
+  "key_result": "Recursive VFR structure eliminates need for floating-point entirely - substrate naturally implements arbitrary-precision rational arithmetic through geometric nesting.",
+  "skip": false,
+  "subtitle": "Recursive VFR Nesting as Substrate-Native Computation",
+  "doi": {
+    "raw": "10.5281/zenodo.18878705",
+    "is_stub": false,
+    "zenodo_id": 18878705,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-126-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-125-2026] \u2192 [@CKS-MATH-126-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 3, 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "We establish recursive VFR nesting [V, F, [V', F', [V'', F'', ...]]] as native computational substrate enabling exact arithmetic through arbitrary precision depth while maintaining O(1) head-access for common operations. Building on VFR \u221a2 resolution (MATH-124) and S-expression identity (MATH-125), we prove: (1) **Infinite precision via finite nesting** - each remainder level adds 32\u00d7 resolution enabling arbitrary accuracy without floating-point, (2) **Head-dominance optimization** - 99.7% operations resolve at depth-0 (V/F alone) making recursion essentially free, (3) **Lazy substrate evaluation** - deeper levels computed only when precision threshold breached enabling adaptive performance, (4) **Structural recursion identity** - R-field nesting IS substrate depth traversal through Morton octaves, (5) **Terminal guarantee** - R=0 floor at Planck scale ensures all recursion halts unlike infinite-decimal approaches, (6) **Self-similar operations** - functions operating on [V,F,R] return [V,F,R] enabling substrate metaprogramming, (7) **Zero-copy depth navigation** - recursive descent costs only pointer-follow without data duplication. Complete derivation of recursive VFR arithmetic showing how substrate naturally implements lazy evaluation, adaptive precision, and guaranteed termination. Traditional computation treats recursion as programming technique requiring stack management. Logismos proves recursion is substrate geometry requiring only address arithmetic.\n\n**Revolutionary claim:** Recursive VFR structure eliminates need for floating-point entirely - substrate naturally implements arbitrary-precision rational arithmetic through geometric nesting.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-125-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150319+00:00"
+}

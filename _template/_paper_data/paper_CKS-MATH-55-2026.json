@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-55-2026/manuscript.md",
+  "paper_id": "CKS-MATH-55-2026",
+  "subject": "MATH",
+  "number": 55,
+  "year": 2026,
+  "title": "Linear Algebra as Integer-Address Registry Routing",
+  "key_result": "Vectors = (V,F,R) paths | Matrices = 144-LU gates | Transforms preserve R | Lossless precision | Basis = z=3 dipoles | All integer operations",
+  "skip": false,
+  "subtitle": "Replacing Continuous Vector Spaces with Logismos Packet Transforms in Discrete Hexagonal Substrate",
+  "doi": {
+    "raw": "10.5281/zenodo.18878787",
+    "is_stub": false,
+    "zenodo_id": 18878787,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-55-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-54-2026] \u2192 [@CKS-MATH-55-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We abolish abstract vector spaces and establish linear algebra as integer-address registry routing using Logismos (V,F,R) packet system. From hexagonal lattice axioms, we derive: (1) Vectors = instruction headers specifying node-to-node paths (not arrows in void), (2) Scalars = (V,F,R) packets where V=value, F=fraction scale, R=remainder (eliminates lonely numbers), (3) Basis vectors = 3 dipole axes forced by z=3 coordination (120\u00b0 hexagonal, not arbitrary), (4) Matrices = 144-LU transition tables (12\u00d712 soliton gearbox, not abstract grids), (5) Matrix multiplication = packet routing through gearbox (preserves R remainder for lossless precision), (6) Dot product = modulo-32 parity check (measures shared N+1 increments), (7) Eigenvalues = resonant integers where R=0 (no frustration states), (8) Determinant = registry volume occupied (LU count), (9) Inversion = S=2 bilateral flip (Side A\u2194Side B), (10) All operations preserve integer exactness via remainder carry. Industrial advantage: infinite transforms without floating-point drift\u2014GPU mesh can rotate trillion times, snap back to exact start. Linear algebra becomes hardware routing specification, not abstract mathematics.\n\n**Key Result:** Vectors = (V,F,R) paths | Matrices = 144-LU gates | Transforms preserve R | Lossless precision | Basis = z=3 dipoles | All integer operations",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-54-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150907+00:00"
+}

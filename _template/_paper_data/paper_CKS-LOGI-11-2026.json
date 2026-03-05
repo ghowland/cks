@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/LOGI/CKS-LOGI-11-2026/manuscript.md",
+  "paper_id": "CKS-LOGI-11-2026",
+  "subject": "LOGI",
+  "number": 11,
+  "year": 2026,
+  "title": "The Complete Derivation Manual",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "How to Derive Everything from N=7 Using Logismos in Base-Partigen",
+  "doi": {
+    "raw": "10.5281/zenodo.18878604",
+    "is_stub": false,
+    "zenodo_id": 18878604,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-LOGI-11-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LOGI-10-2026] \u2192 [@CKS-LOGI-11-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We present the complete operational manual for deriving all physical, biological, and cosmological constants from N=7 using Logismos VFR notation in base-Partigen (\u2118=32^(-1)). This is **pure rational arithmetic**\u2014no transcendentals, no limits, no approximations until final display. Every derivation uses **nested VFR tuples** operating exclusively in \u211a. We demonstrate: (1) how to bootstrap from N=7 to generate W=32 and \u2118=32^(-1) using only integer ratios, (2) how nested VFR tuples [V\u2081,[V\u2082,F\u2082,R\u2082],R\u2081] allow exact representation of all constants, (3) how to derive \u03b1_EM^(-1)=137+[36,1000,0]/1000 as pure \u211a without invoking \u03c0 or e, (4) how to calculate C. elegans cell counts 959=[1024\u00d7[4,7,0],1,0] exactly, (5) how temporal constants like \u03c4=15+[19,100,0]/100 emerge from \u211a-only operations, and (6) how to verify every step maintains \u211a-closure. This is mathematics, not physics approximation. Every operation is a ratio of integers. Every result is exact. The universe computes in \u211a using VFR; we show you how.\n\n**Key Innovation:** Nested VFR allows exact \u211a-representation of all substrate constants without transcendentals.",
+  "dependencies": [
+    "CKS-LOGI-10-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149723+00:00"
+}

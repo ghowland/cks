@@ -48,7 +48,7 @@ def create_all_drafts(limit=None, papers_path=PAPERS_JSON_PATH, config_path=ZENO
             print("  FAILED: " + str(e))
             failed.append((paper_id, str(e)))
 
-        time.sleep(0.5)
+        time.sleep(0.7)
 
 
     print("-" * 40)
@@ -75,8 +75,8 @@ def main():
             print("Error: --limit requires an integer argument")
             sys.exit(1)
 
-    # create_all_drafts(limit=limit)
-    create_all_drafts(limit=1)
+    # create_all_drafts(limit=2)
+    create_all_drafts(limit=limit)
 
 
 if __name__ == "__main__":

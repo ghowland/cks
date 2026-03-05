@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-70-2026/manuscript.md",
+  "paper_id": "CKS-MATH-70-2026",
+  "subject": "MATH",
+  "number": 70,
+  "year": 2026,
+  "title": "The Rational Substrate \u2014 Why \u221a2 Cannot Exist and 7:5 Cycles Are Fundamental",
+  "key_result": "The substrate is strictly rational (\u211a), not real (\u211d). All irrationals are infinite procedures, not computable values. \u221a2 doesn't exist\u20147/5 does.",
+  "skip": false,
+  "subtitle": null,
+  "doi": {
+    "raw": "10.5281/zenodo.18878825",
+    "is_stub": false,
+    "zenodo_id": 18878825,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-70-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-69-2026] \u2192 [@CKS-MATH-70-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove that irrational numbers (\u221a2, \u03c0, e as infinite decimal expansions) cannot exist in substrate computation and are artifacts of continuous approximation. Using the DNA/neutron star cycle ratio as test case, we demonstrate that what appears as \u221a2 \u2248 1.414 in continuous analysis is actually the exact rational 7/5 = 1.4 in substrate execution. The substrate does not compute \u221a2 through infinite iteration\u2014it counts discrete cycles in 7:5 ratio, synchronizing every lcm(7,5) = 35 cycles. We derive the universal D\u00d7\u0394 = 57 sum law governing all complementary error-correction systems, showing that stability interval sums must equal 3\u00d719 = 57 in normalized units. This reveals that all \"irrational constants\" in physics are rational approximations of substrate integer ratios, and apparent fine-tuning is simply exact fraction matching. We provide 8 experimental tests distinguishing rational substrate from irrational approximation, all falsifiable to single-cycle precision.\n\n**Key Result:** The substrate is strictly rational (\u211a), not real (\u211d). All irrationals are infinite procedures, not computable values. \u221a2 doesn't exist\u20147/5 does.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-69-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151111+00:00"
+}

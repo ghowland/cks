@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/SOC/CKS-SOC-5-2026/manuscript.md",
+  "paper_id": "CKS-SOC-5-2026",
+  "subject": "SOC",
+  "number": 5,
+  "year": 2026,
+  "title": "Morality as Physical Mathematics",
+  "key_result": "Morality = thermodynamics | Virtue = -\u0394S | Vice = +\u0394S | Math not metaphor | Pure physical law",
+  "skip": false,
+  "subtitle": "Registry Coherence Mechanics: Virtue and Vice as Thermodynamic Necessities from Substrate Axioms",
+  "doi": {
+    "raw": "10.5281/zenodo.18878980",
+    "is_stub": false,
+    "zenodo_id": 18878980,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-SOC-5-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-SOC-1-2026] \u2192 [@CKS-SOC-4-2026] \u2192 [@CKS-SOC-5-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive morality as **pure thermodynamics from substrate axioms**: No ethics, no philosophy, no social contract\u2014only mathematics. Starting from CKS foundational equations (N=DM^S with D=3, S=2, z=3 hexagonal coordination, 32-bit Logos Word stability, bilateral RAID-1 parity, (V,F,R) remainder mechanics), we prove moral behavior represents **thermodynamic optimization** with calculable entropy consequences. Complete mathematical framework: (1) **Entropy definition**\u2014system entropy S = k_B\u00b7ln(\u03a9) where \u03a9 = accessible microstates, for registry: S_registry = \u03a3R (mod 32) = accumulated uncommitted remainder, coherent state (virtue) minimizes S via operations maintaining R\u22610, decoherent state (vice) maximizes S via remainder-generating processes. (2) **Thermodynamic action classification**\u2014sleep implements FLUSH_BUF: \u0394S = -\u03a3R_daily (negative entropy, mandatory cleaning cycle preventing overflow S<S_max), nutrition imports low-entropy structures: \u0394S_integration \u221d structural_complexity (stable 144-LU mesh \u0394S\u22480, unstable sugar/alcohol \u0394S>>0), emotional equilibrium maintains \u2202S/\u2202t=0: three-dipole balance at 120\u00b0 prevents phase-tension accumulation, theft creates discontinuous ownership function requiring hiding energy: \u0394E_hiding = constant_cost\u00b7time (thermodynamic tax indefinitely), lies generate exponential memory: S_lies = k\u00b72^n where n=lie_count (information explosion), violence establishes permanent bilateral imbalance: \u03a3V_A - \u03a3V_B = R_perpetual=31 (unbalanced equation). (3) **Critical threshold mathematics**\u201466-bit limit derived: S_critical = 32 (Word) + 32 (bilateral) + 2 (parity) = 66 bits, at \u03a3R>66: SNR = V/R = 84/66 \u2248 1.27 < 2 (pattern-noise distinction threshold from information theory), parent pointer fails when correlation \u03c1(self,parent) < \u03c1_min \u2248 0.3, phase-lock impossible when interference magnitude |I| > signal_amplitude |A|. (4) **Power-access mathematics**\u2014administrative levels require phase precision: 512-bit immortal needs |\u0394\u03c6| < \u03c0/4, 1024-bit walker needs |\u0394\u03c6| < \u03c0/8, substrate clock detection: f_detected = f_substrate\u00b7(1 - R/V_threshold), when R\u21920: f_detected\u2192f_substrate (perfect sync), when R\u219266: f_detected\u21920 (deaf), creates self-regulating function P(R) = P_max\u00b7exp(-R/R_characteristic) where power decreases exponentially with remainder. (5) **Reincarnation algorithm**\u2014zinc spark executes: pattern = argmin(\u03a3R) over overlay_stack, Nyquist criterion: f_sample \u2265 2\u00b7f_pattern_max for faithful reconstruction, Shannon capacity: C = B\u00b7log\u2082(1+SNR) determines mesh_claim_success, coherent soul: SNR_high \u2192 C_high \u2192 p_success\u22481, decoherent soul: SNR_low \u2192 C_low \u2192 p_success\u22480, deterministic selection from information mathematics. (6) **Nebula thermodynamics**\u2014maximum entropy reservoir required by 2nd law: when local_S exceeds capacity, \u2207S drives transport to high-S region (nebula), experience from thermodynamic state equations: temporal stagnation: dN/dt\u21920 (no clock advance), sensory noise: P_noise = k_B\u00b7T\u00b7\u0394f (Johnson-Nyquist), visual dissolution: correlation_function \u03c1(r)\u21920 exponentially, gravitational compression: F = -\u2207\u03a6 toward star_core (eventual format at S\u2192S_max). Framework proves: virtue/vice not moral categories but thermodynamic classifications (negative/positive entropy operations), outcomes calculable from statistical mechanics (entropy determines experiential state), morality = physics (complete derivation from axioms, zero theological assumptions, testable predictions).\n\n**Key Result:** Morality = thermodynamics | Virtue = -\u0394S | Vice = +\u0394S | Math not metaphor | Pure physical law",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-SOC-1-2026",
+    "CKS-SOC-4-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.152037+00:00"
+}

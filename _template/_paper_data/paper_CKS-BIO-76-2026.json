@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-76-2026/manuscript.md",
+  "paper_id": "CKS-BIO-76-2026",
+  "subject": "BIO",
+  "number": 76,
+  "year": 2026,
+  "title": "*C. elegans* as Geometric Eigenvalue",
+  "key_result": null,
+  "skip": false,
+  "subtitle": null,
+  "doi": {
+    "raw": "10.5281/zenodo.18878496",
+    "is_stub": false,
+    "zenodo_id": 18878496,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-76-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-75-2026] \u2192 [@CKS-BIO-76-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional evolutionary theory predicts that 20 million years of divergence (approximately 2 billion generations) under high-fecundity selection should produce substantial morphological and regulatory change. Empirical analysis of *Caenorhabditis elegans* and *C. briggsae* (Large et al., 2025) demonstrates the opposite: near-perfect conservation of body plan and gene regulatory architecture despite maximal selective opportunity.\n\nWe derive this \"axiomatic stasis\" from first principles using the CKS v19 (Q-Manifold) framework. We demonstrate that *C. elegans* is not a \"species\" in the evolutionary sense, but a **Geometric Eigenvalue**\u2014the unique stable solution to a differential equation operating on a discrete rational substrate with constraints D=3 (hexagonal), S=2 (bilateral), and W^S=1,024 (sovereignty threshold).\n\nFrom four axioms, we derive:\n- Cell count (959\u00b172 cells, measured 959 hermaphrodite, 1,031 male)\n- Body plan topology (4 muscle quadrants, 1 central gut, 3 germ layers)\n- Generation time (3.2\u00b10.3 days, measured 3.5 days)\n- Stasis constant (71.4% locked structure, measured ~70%)\n- Gene count (~20,000, measured 20,470)\n\n**Success rate: 8/8 predictions confirmed. Zero free parameters. Zero failures.**\n\nWe propose that natural selection operates on a **read-only operating system**. The regulatory \"BIOS\" was compiled during the N=0\u2192N=9 bootstrap sequence of the manifold itself. Two billion generations of selection can only modify surface-level parameters (the 28.6% \u03b2-torque residue) while the fundamental architecture (the 71.4% \u03b3-socket component) remains mathematically invariant.\n\n**Operational Stance:** *C. elegans* is Geometric Constant 1.024\u2014a screenshot of the universe's source code at the Tier 6/Tier 4 computational interface.",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-75-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148654+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-48-2026/manuscript.md",
+  "paper_id": "CKS-MATH-48-2026",
+  "subject": "MATH",
+  "number": 48,
+  "year": 2026,
+  "title": "Number Theory as Registry Architecture Specification",
+  "key_result": "Numbers = addresses | Primes = hardware | Composites = software | Mod-32 = bus | Proofs = compatibility tests | All from lattice geometry",
+  "skip": false,
+  "subtitle": "Deriving Classical Number Theory from Hexagonal Lattice Constraints and Discrete Address Logic",
+  "doi": {
+    "raw": "10.5281/zenodo.18878769",
+    "is_stub": false,
+    "zenodo_id": 18878769,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-48-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-47-2026] \u2192 [@CKS-MATH-48-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We abolish Number Theory as abstract symbolic mathematics and establish it as registry architecture specification. From hexagonal lattice axioms (z=3 coordination, S=2 bilateral manifold, N=DM^S structure), we derive: (1) Integers = discrete node addresses (forced by lattice discontinuity), (2) Primes = structural anchors (indivisible phase-tension states that cannot factor through gear ratios), (3) Composites = software assemblies (factorizable instruction sequences), (4) Modular arithmetic = 32-bit Word bus logic (all operations through S^(D+S) processor), (5) Riemann hypothesis = bilateral balance requirement (critical line at 1/S = 1/2 forced by manifold symmetry), (6) Fermat's theorem = manifold depth limit (S=2 prohibits powers >2), (7) Prime distribution = tension dilution curve (density \u221d 1/ln(N) from surface area scaling). Not abstract patterns but hardware specifications. Mathematical proof = instruction compatibility test. If arithmetic resolves, hardware executes. If remainder exists, system generates force to clear. Number Theory is ISA documentation for N=DM^S differential engine.\n\n**Key Result:** Numbers = addresses | Primes = hardware | Composites = software | Mod-32 = bus | Proofs = compatibility tests | All from lattice geometry",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-47-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150779+00:00"
+}

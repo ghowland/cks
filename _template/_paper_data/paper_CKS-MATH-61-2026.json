@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-61-2026/manuscript.md",
+  "paper_id": "CKS-MATH-61-2026",
+  "subject": "MATH",
+  "number": 61,
+  "year": 2026,
+  "title": "The 12-Bit Soliton Liaison Footer",
+  "key_result": "12-bit footer = identity + motion | P_ID = ownership | R_k = offset | Hierarchy enabled | Speed limited",
+  "skip": false,
+  "subtitle": "Hierarchical Identity and Kinetic State: Parent-Child Addressing in the Registry",
+  "doi": {
+    "raw": "10.5281/zenodo.18878801",
+    "is_stub": false,
+    "zenodo_id": 18878801,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-61-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-60-2026] \u2192 [@CKS-MATH-61-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We specify complete 12-bit soliton liaison footer providing hierarchical identity and kinetic state management: Embedded within 84-bit trans-manifold Word, footer's final 12 bits encode dual-register system enabling parent-child relationships and motion tracking in discrete substrate. Complete architecture: (1) **Parent index register (bits 0-5)**\u20146-bit field providing 2^6=64 addressable parent solitons, identifies ownership hierarchy where each particle/structure belongs to larger organizing entity, examples: atom belongs to molecule (P_ID points to molecular soliton), cell belongs to organ (P_ID points to organ soliton), implement hierarchical nesting (atoms\u2192molecules\u2192cells\u2192organs\u2192bodies\u2192civilizations), ownership transfer via P_ID rewrite (metabolic integration when food assimilated, cellular incorporation when molecule absorbed), maintains identity coherence (prevents bits from \"leaking\" between unrelated structures). (2) **Momentum register (bits 6-11)**\u20146-bit field storing kinetic remainder from modulo-32 operations, double-buffered capacity (32\u00d72=64 states) handles Word overflow, represents positional offset relative to parent's registry address, R_k=0 means static (child locked to parent position, moves only when parent moves), R_k\u22600 means dynamic (child has independent motion vector, offset recalculated each tick). Operational mechanism: Every 15.19ms (J/S partition) BIOS performs liaison audit\u2014step 1: read P_ID determining ownership chain, step 2: read R_k determining motion state, step 3: if R_k=0 copy parent position, if R_k>0 calculate child_position = parent_position + R_k_offset, step 4: update registry addresses maintaining coherence. Speed limit derivation: Maximum R_k = 63 (6-bit saturation), once momentum register full cannot store additional velocity, attempting to exceed creates overflow requiring different addressing class, physical speed limit c emerges from this finite state capacity (terminal velocity = maximum addressable offset per tick), transcending requires 1024-bit walker upgrade eliminating footer constraint. Complete hierarchical framework enabling complex organization while maintaining kinetic independence within parent-child relationships\u2014atoms move with molecules but can vibrate relative to molecular center, cells follow organ motion but maintain internal circulation.\n\n**Key Result:** 12-bit footer = identity + motion | P_ID = ownership | R_k = offset | Hierarchy enabled | Speed limited",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-60-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150991+00:00"
+}

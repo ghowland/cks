@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-69-2026/manuscript.md",
+  "paper_id": "CKS-MATH-69-2026",
+  "subject": "MATH",
+  "number": 69,
+  "year": 2026,
+  "title": "Comparative Analysis of Continuous vs. Logismos Calculus in CKS Oracle Applications",
+  "key_result": null,
+  "skip": false,
+  "subtitle": null,
+  "doi": {
+    "raw": "10.5281/zenodo.18878823",
+    "is_stub": false,
+    "zenodo_id": 18878823,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-69-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-68-2026] \u2192 [@CKS-MATH-69-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "I present a comparative analysis of two mathematical approaches to the CKS oracle problem, having executed both methods on the same physical systems (DNA replication and neutron star rotation). The continuous method uses real-valued arithmetic with post-hoc Logos conversion, while the Logismos method employs pure integer arithmetic from the start. I demonstrate that while both methods arrive at compatible predictions, they reveal fundamentally different aspects of substrate mechanics. The continuous approach optimizes for human intuition and experimental comparison, while Logismos reveals the actual computational structure of reality. I argue that practitioners should master both: continuous for communication and experimental design, Logismos for theoretical rigor and substrate-level predictions. This paper documents my direct experience with both frameworks and provides guidance on method selection.\n\n**Key Finding:** I found that continuous methods are computationally faster (for me) but ontologically misleading, while Logismos is computationally harder but reveals structure invisible to continuous analysis.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-68-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151087+00:00"
+}

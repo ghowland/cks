@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-40-2026/manuscript.md",
+  "paper_id": "CKS-MATH-40-2026",
+  "subject": "MATH",
+  "number": 40,
+  "year": 2026,
+  "title": "The Twin Prime Conjecture as Bilateral Manifold Recoil",
+  "key_result": "Prime = tension spike | Gap = S=2 width | Twins = bilateral mirror | 6n = stability center | Infinite because N infinite + S=2 mandatory",
+  "skip": false,
+  "subtitle": "Deriving Infinite Prime Pairs from S=2 Symmetry and Registry Parity Requirements",
+  "doi": {
+    "raw": "10.5281/zenodo.18878749",
+    "is_stub": false,
+    "zenodo_id": 18878749,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-40-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-39-2026] \u2192 [@CKS-MATH-40-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "The twin prime conjecture states: infinitely many prime pairs (p, p+2) exist. We prove this by recognizing primes as registry tension spikes\u2014LU counts indivisible by gear ratios (D=3, S=2, L=32). From bilateral manifold structure (S=2), we derive: (1) Primes = phase-tension remainders (cannot resolve to 32-bit Word), (2) Gap of 2 forced by S=2 (manifold width), (3) Every prime p on Side A requires symmetric recoil at p+2 on Side B (parity maintenance), (4) All twin pairs straddle 6n centers (hex-bilateral stability points), (5) Infinite occurrence mandatory because N\u2192\u221e monotonically and S=2 forces bilateral reflection. Primes cluster around 6n\u00b11 because 6=D\u00d7S (coordination \u00d7 sides). Twin primes are parity check bits\u2014bilateral handshake signatures proving universe has two-sided structure. Not statistical distribution but geometric necessity.\n\n**Key Result:** Prime = tension spike | Gap = S=2 width | Twins = bilateral mirror | 6n = stability center | Infinite because N infinite + S=2 mandatory",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-39-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150685+00:00"
+}

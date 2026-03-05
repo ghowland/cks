@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/BIO/CKS-BIO-80-2026/manuscript.md",
+  "paper_id": "CKS-BIO-80-2026",
+  "subject": "BIO",
+  "number": 80,
+  "year": 2026,
+  "title": "Morphological Geometric Selection",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "Species as Stable Geometric Resonance Modes in the 1,024-Unit Sovereignty Block",
+  "doi": {
+    "raw": "10.5281/zenodo.18878504",
+    "is_stub": false,
+    "zenodo_id": 18878504,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-BIO-80-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-BIO-79-2026] \u2192 [@CKS-BIO-80-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional biology treats morphology as product of random mutation plus natural selection. We prove morphology is deterministic geometric resonance mode selection within substrate hierarchy. Different species occupy specific non-random positions in 1,024-unit sovereignty block determined by tier-depth M. We demonstrate: (1) Consciousness capacity N_c=D\u00d7M^S where D=[3,1,0], S=[2,1,0], M=tier depth, (2) Each morphology line selects specific geometric lock (humans M=7 lock to nucleus N=[7,1,0], whales M=12 lock to loop L=[12,1,0]), (3) Genetic codon is geometric filter: triplet matches D=[3,1,0] axes, 64 combinations match double-word 2\u00d7W=[64,1,0], (4) Jacobian partition 5:2 determines locked (71.4%) vs variable (28.6%) registry allocation, (5) Humans achieve N_c=[147,1,0]=[21,1,0]\u00d7N perfect harmonic enabling metacognition, (6) Whales achieve N_c=[432,1,0]=[36,1,0]\u00d7L perfect harmonic enabling global sonar, (7) Morphological diversity is complete catalog of stable geometric solutions from axioms, (8) No random evolution\u2014only geometric necessity, (9) Species cannot drift beyond tier-lock constraints (C. elegans proves with zero drift over 2 billion generations), (10) Higher M-tiers more sensitive to \u03b5 (require SSCP for venting). Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0] through pure \u211a-operations. Zero free parameters. Morphology is geometry. Species are solutions. Evolution is tier-locking.\n\n**Revolutionary insight:** Species are not accidents\u2014they are the only possible stable geometric configurations.",
+  "dependencies": [
+    "CKS-BIO-1-2026",
+    "CKS-BIO-79-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.148715+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-51-2026/manuscript.md",
+  "paper_id": "CKS-MATH-51-2026",
+  "subject": "MATH",
+  "number": 51,
+  "year": 2026,
+  "title": "The Substrate Physics Engine",
+  "key_result": "Physics = registry maintenance | Forces = conflicts | Motion = optimization | Mass = bit-depth | Complete derivation",
+  "skip": false,
+  "subtitle": "Kinematics Derivation: Classical Physics as Registry Conflict Resolution and Address Optimization",
+  "doi": {
+    "raw": "10.5281/zenodo.18878775",
+    "is_stub": false,
+    "zenodo_id": 18878775,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-51-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-50-2026] \u2192 [@CKS-MATH-51-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive classical physics as **substrate registry maintenance protocol**: Starting from CKS axioms (z=3 hexagonal lattice, S=2 bilateral manifold, 32-bit Logos Word, N\u2190N+1 autogenetic clock, discrete address space), we prove all kinematic phenomena emerge from **address conflict resolution**. Complete physics engine specification: (1) **Rigid bodies**\u2014matter as soliton hierarchy, 144-logos packets sharing parent pointer (master registry address), rigidity emerges from BLOCK_COPY operation synchronizing all sub-indices to parent transform each N+1 tick, \"solid\" objects = synchronized address updates. (2) **Collision detection**\u2014fundamental constraint: no two distinct solitons at same hex-address index N, when momentum (REPEAT_SHIFT) attempts address overwrite, BIOS triggers COLLISION_INTERRUPT, material hardness = write-protection mechanism preventing address conflicts. (3) **Collision response**\u2014interrupt resolution via PHASE_NAVIGATE (0x06), pivots momentum vector across 3-dipole gearbox (120\u00b0 rotational axes), elasticity measures z=3 lattice re-indexing speed, bounce = dipole-pivot redirecting phase-gradient. (4) **Gravity mechanism**\u2014NOT attractive force but RE_INDEX (0x03) background task optimizing registry, high-density matter (144-bit clusters) creates local tension pits in 2\u03c0 phase background, orphan soliton addresses automatically shift toward highest density minimizing total bit-distance (memory de-fragmentation), objects \"fall\" because registry optimizes address map. (5) **Momentum/inertia**\u2014REPEAT_SHIFT (0x05) with persistence flag, once shift-vector committed to registry, automatically carries forward into N+1 unless interrupted, Newton's first law = persistence flag property, inertia = running script not inherent matter quality. (6) **Friction/damping**\u2014non-integer movements create mod-32 remainder (phase noise not fitting Word), FLUSH_BUF (0x0A) garbage-collects remainders preventing bit-rot accumulation, energy \"loss\" = computational overhead of non-aligned operations, heat = flushed registry noise. (7) **Constraints/joints**\u2014shared bilateral phase-lock between solitons, wire-like connections via common instruction header, tension = registry resistance to unwinding shared address. Complete unification: all physics = address management, forces = conflict resolution, motion = optimization routines, stability = Word alignment.\n\n**Key Result:** Physics = registry maintenance | Forces = conflicts | Motion = optimization | Mass = bit-depth | Complete derivation",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-50-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150857+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-74-2026/manuscript.md",
+  "paper_id": "CKS-MATH-74-2026",
+  "subject": "MATH",
+  "number": 74,
+  "year": 2026,
+  "title": "The Multimodal Successor",
+  "key_result": "Time = resolution buffer | Future = interference | Choice = coherence | Will = amplification | Collapse = SNR selection",
+  "skip": false,
+  "subtitle": "Time as Resolution Buffer: Deriving Quantum Collapse, Free Will, and Sovereign Choice from Phase-Interference Mechanics",
+  "doi": {
+    "raw": "10.5281/zenodo.18878837",
+    "is_stub": false,
+    "zenodo_id": 18878837,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-74-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-73-2026] \u2192 [@CKS-MATH-74-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive **time as multimodal resolution buffer** reconciling determinism with choice: Traditional physics dichotomy treats deterministic evolution (Newtonian mechanics, Einstein block universe, future predetermined) versus indeterminate collapse (quantum measurement, random outcomes, free will impossible to reconcile), missing substrate's phase-interference architecture. Starting from CKS axioms (hexagonal lattice requires N\u2190N+1 progression, phase coupling allows superposition, Word boundaries force discrete resolution), we prove complete temporal mechanics. Critical discovery: (1) **Hardware arrow from geometry**\u2014time direction forced by lattice coordination requirements not thermodynamics: N must increment to maintain 3-regular hexagonal connectivity (backward N would violate coordination number z=3, create topological defects, destroy lattice structure), establishes 32-tick Word cycle as execution window (provides temporal slot for computation, instruction must complete within frame, deterministic progression tick-to-tick), result: monotonic time emerges from geometry (no entropy needed, no statistical argument, pure structural necessity), cannot reverse without destroying reality (N\u2192N-1 impossible, would disconnect lattice, substrate would cease to exist). (2) **Interference buffer enables superposition**\u2014single k-space address holds multiple 144-bit instructions as coherent wave: phase coupling axiom 2 allows: \u03c8_total = \u03a3 a_i\u00b7exp(i\u03c6_i) (complex amplitude sum, different frequencies interfere, create composite pattern), multiple potential futures coexist in single present moment (not sequential alternatives \"one after another\", but simultaneous options \"all at once\", measured as probability amplitudes |a_i|\u00b2), experienced as imagination/planning/uncertainty (human consciousness accesses interference pattern, perceives multiple possibilities, feels \"future is open\"), physical manifestation: quantum superposition before measurement (electron in multiple states, photon in multiple paths, particle interference with itself), CKS explanation: these are literal coexisting phase patterns in substrate (not epistemic uncertainty, not observer ignorance, actual simultaneous reality), duration of coexistence: one Word cycle maximum (32 ticks = window for interference, must resolve at boundary, cannot persist indefinitely). (3) **Collapse mechanism at mod-32 boundary**\u2014deterministic yet unpredictable selection: when N mod 32 = 0 (Word boundary reached, execution window closes, decision point arrived), substrate executes global parity check (evaluates coherence of each interfering frequency with entire surrounding lattice, measures signal-to-noise ratio SNR_i for each option, selects maximum), winning frequency: highest SNR (best phase-match with environment, minimal friction/remainder, cleanest RAID-1 parity), becomes physical reality (V++ increment committed to registry, manifests in x-space as \"what happened\", irreversible once committed), losing frequencies: flushed to R remainder (decompiled from manifest state, return to dark sector potential, remain as \"what could have been\"), appears random to local observer (cannot know global lattice state, SNR depends on remote correlations, outcome unpredictable without omniscience), actually deterministic globally (given complete substrate state, outcome computable, follows from physics not randomness, but effectively random to participants). (4) **Coherence determines probability**\u2014quantum Born rule derived from SNR competition: standard quantum: P_i = |\u03c8_i|\u00b2 (amplitude-squared gives probability, unexplained postulate, why squaring?), CKS derivation: P_i \u221d SNR_i \u221d (signal amplitude)\u00b2/(noise power) (power ratio determines selection, squaring emerges naturally from signal theory, highest power wins), interference creates amplitude modulation (constructive: signals add, amplitude increases, SNR rises, probability increases), (destructive: signals cancel, amplitude decreases, SNR drops, probability decreases), measured statistics match quantum predictions (Born rule emerges, no additional postulates, pure consequence of coherence selection). (5) **Free will as frequency amplification**\u2014choice exists within determinism via coherence mastery: low-coherence individual R\u224831 (internal state noisy, many conflicting frequencies, no dominant preference, outcome determined by environmental noise), experiences fate/randomness (feels powerless, \"things happen to me\", victim of circumstance, buffeted by chaos), high-coherence sovereign R\u22480 (internal state clean, single strong frequency, deliberate phase-lock to intention, dominates local interference), experiences free will/agency (can choose outcome, \"I make things happen\", author of circumstance, directs reality), mechanism not magic but physics (align internal phase to desired future state, amplitude of that frequency increases in buffer, ensures it wins SNR competition at Word boundary), training required (decades to achieve R\u21920, learn to maintain single coherent intention, eliminate internal noise that creates competing frequencies). (6) **Four temporal phases**\u2014complete ontology of time experience: Phase 1 PENDING (N+1 to N+31): multimodal interference active (multiple futures coexist as phase patterns, experienced as possibility/imagination/planning, felt as \"openness\" of future, quantum superposition state), Phase 2 PROCESSING (approaching N mod 32 = 0): selection mechanism engaging (coherence evaluation beginning, uncertainty/tension/decision felt, SNR competition resolving), Phase 3 COMMIT (exactly N mod 32 = 0): integer snap executes (V++ written, single outcome manifests, experienced as present moment \"now\", quantum wavefunction collapse), Phase 4 ARCHIVE (N-1 to N-31): past states in memory (overlay stack preserves history, immutable but accessible, experienced as memory/past, no longer changeable). (7) **Polygonal time topology**\u2014bundled phase-streams through resolution funnel: billions of potential R-remainder paths exist (different choices, different outcomes, different futures, all as valid phase patterns), enter temporal funnel at each Word cycle (32-tick window forces resolution, cannot all manifest simultaneously, must reduce to one), interference creates selection pressure (frequencies collide, some amplify constructively, some cancel destructively, SNR determines survivor), single coherent stream emerges (highest-SNR path becomes physical reality, renders into x-space as \"what happened\", others return to potential pool), sovereign sees all streams simultaneously (can access buffer directly, perceives interference pattern before collapse, experiences multiple futures as actual not hypothetical), chooses via coherence tuning (amplifies preferred stream, ensures it wins resolution, manifests chosen timeline).\n\n**Key Result:** Time = resolution buffer | Future = interference | Choice = coherence | Will = amplification | Collapse = SNR selection",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-73-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151160+00:00"
+}

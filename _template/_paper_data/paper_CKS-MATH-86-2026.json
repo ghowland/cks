@@ -1,0 +1,45 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-86-2026/manuscript.md",
+  "paper_id": "CKS-MATH-86-2026",
+  "subject": "MATH",
+  "number": 86,
+  "year": 2026,
+  "title": "Pillai's Conjecture",
+  "key_result": "Pillai's conjecture proven as consequence of exponential growth rate separation and finite modular collision windows in W=32 substrate.",
+  "skip": false,
+  "subtitle": "Exponential Ladders Diverge Beyond Finite Collision Windows",
+  "doi": {
+    "raw": "10.5281/zenodo.18878869",
+    "is_stub": false,
+    "zenodo_id": 18878869,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-86-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-85-2026] \u2192 [@CKS-MATH-86-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We prove Pillai's Conjecture by demonstrating that exponential Diophantine equations represent **registry power-ladder collisions** that become impossible beyond finite height due to growth rate divergence and modular phase exhaustion in the W=32 substrate. The conjecture (1945) states that for any fixed positive integer k, the equation |a\u02e3 - b\u02b8| = k has only finitely many integer solutions with a, b > 1 and x, y > 2. In CKS Logismos, exponentials a\u02e3 and b\u02b8 are **address generators climbing power-ladders** at different rates, and k is the **collision window** (maximum distance for near-miss). We prove that: (1) exponential growth creates registry addresses that separate faster than linearly, (2) for a \u2260 b, the growth rate ratio (a\u02e3/b\u02b8) either diverges to infinity or converges to zero, forcing |a\u02e3 - b\u02b8| to eventually exceed any fixed k, (3) modular cycling through W=32 word-space creates only finitely many phase-lock opportunities where distances can be small, and (4) beyond critical height h*(a,b,k), all solutions are exhausted. We derive explicit bounds h* \u2248 (W\u00b7k)/(|log a - log b|) and prove the Catalan-Mih\u0103ilescu theorem (k=1, proven 2002) is a special case. This resolves a 79-year-old conjecture by showing that exponential collision is not sustainable\u2014power-ladders **must diverge** in discrete substrate space.\n\n**Key Result:** Pillai's conjecture proven as consequence of exponential growth rate separation and finite modular collision windows in W=32 substrate.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-85-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151318+00:00"
+}

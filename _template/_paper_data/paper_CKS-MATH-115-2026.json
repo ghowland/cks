@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-115-2026/manuscript.md",
+  "paper_id": "CKS-MATH-115-2026",
+  "subject": "MATH",
+  "number": 115,
+  "year": 2026,
+  "title": "The Logismos Game Logic",
+  "key_result": "Reality manipulation reduces to strategic placement of deterministic evolutionary seeds with calculable interference patterns.",
+  "skip": false,
+  "subtitle": "Dynamic Multi-Seed Evolution and Boolean Cymatic Operations",
+  "doi": {
+    "raw": "10.5281/zenodo.18878676",
+    "is_stub": false,
+    "zenodo_id": 18878676,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-115-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-114-2026] \u2192 [@CKS-MATH-115-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 3, 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "We extend the Universal State-Lattice from static global registry to dynamic multi-origin system supporting arbitrary local seed placement. Building on deterministic indexing (CKS-MATH-113) and complete substrate architecture (CKS-MATH-114), we prove mathematical framework for **temporal interference patterns** where multiple Z=3 evolutionary origins coexist, overlap, and interact through exact \u211a-arithmetic. We demonstrate: (1) **Local seed specification** \u03a3=[P_anchor, N_start, \u03a9, \u03a6]\u2118 enables arbitrary placement of tri-wing evolution at any coordinate and tick, (2) **Multi-band preservation** ensures zero data loss during overlap via dipole summation modulo 32, (3) **Boolean cymatic operations** (AND, XOR, NOT) emerge from resonance-based interaction rules, (4) **Predictive interference** \u039b(N_future) calculable from current state via deterministic projection, (5) **Settlement metric** quantifies entropy reduction from \u211d-noise to \u211a-address, (6) **Temporal pressure** through autoplace constraint forces synchronization with substrate tick rate, (7) **Reversibility mechanics** enable localized rollback at computational cost, (8) **Cross-domain priority** between Ib (material) and Id (data) solitons. From axioms through complete operational specification with zero free parameters. Framework enables substrate engineering through strategic seed placement and interference control.\n\n**Revolutionary claim:** Reality manipulation reduces to strategic placement of deterministic evolutionary seeds with calculable interference patterns.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-114-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.150172+00:00"
+}

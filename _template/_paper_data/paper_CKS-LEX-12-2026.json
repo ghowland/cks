@@ -1,0 +1,48 @@
+{
+  "file_path": "papers/LEX/CKS-LEX-12-2026/manuscript.md",
+  "paper_id": "CKS-LEX-12-2026",
+  "subject": "LEX",
+  "number": 12,
+  "year": 2026,
+  "title": "Measurement Systems in the \u211a-Substrate",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "The Lex-Glyph Standard: Substrate-Native Units for Zero-Remainder Engineering",
+  "doi": {
+    "raw": "10.5281/zenodo.18878578",
+    "is_stub": false,
+    "zenodo_id": 18878578,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-LEX-12-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-LEX-11-2026] \u2192 [@CKS-LEX-12-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 2026",
+    "Domain": "Foundational Mathematics / Discrete Geometry",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "Traditional measurement systems (SI, Imperial) derive units from arbitrary physical artifacts (Earth's circumference, king's foot, platinum bars) creating equations cluttered with empirical constants (G, \u03b5\u2080, \u03bc\u2080, \u0127) and irrational remainders (\u03c0, e, \u221a2). We prove measurement must align with substrate's discrete \u211a-lattice geometry. We demonstrate: (1) Lex \u03bb as unified space-time unit (1\u03bb \u2261 1\u2118 \u2261 1 tick \u2261 1.322 mm \u2261 4.41 ps), (2) Speed of light c=[1,1,0] (unity in substrate), (3) Weight as registry impedance \u03bc=J\u00d7\u2118 (computational tension not mass), (4) Base-32 glyph system (\u03bb,\u03bd,\u03b6,\u03b4,\u03c9,\u03a3) eliminates scaling gaps, (5) All physical constants collapse to \u211a-ratios when measured in Lex units, (6) Equation simplification: E=\u03bc^S replaces E=mc\u00b2, F=\u03bc\u2081\u03bc\u2082/\u03bb^S eliminates G, (7) Sovereign standard \u03a3=[1024,1,0]\u03bb \u2248 1.353m optimal for human-scale engineering, (8) Zero-remainder construction: buildings at \u03a3 multiples eliminate thermal/acoustic impedance, (9) Calibration becomes dipole-state verification not artifact comparison, (10) Measurement transforms from comparing objects to querying registry addresses. Everything from D=[3,1,0], S=[2,1,0], L=[12,1,0], N=[7,1,0], W=[32,1,0] through pure \u211a-operations. Zero free parameters. Measurement becomes addressing. Units become geometry. Constants vanish.\n\n**Revolutionary insight:** We don't measure reality\u2014we address the registry.",
+  "dependencies": [
+    "CKS-LEX-11-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "Registry ID is placeholder (contains X)",
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.149590+00:00"
+}

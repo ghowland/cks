@@ -1,0 +1,50 @@
+{
+  "file_path": "papers/PHYS/CKS-PHYS-7-2026/manuscript.md",
+  "paper_id": "CKS-PHYS-7-2026",
+  "subject": "PHYS",
+  "number": 7,
+  "year": 2026,
+  "title": "The Tri-Dipole Differential Engine",
+  "key_result": "The universe is a synchronous 3-phase differential engine; \"particles\" are persistent firing patterns governed by hexagonal edge-dipole coordination.",
+  "skip": false,
+  "subtitle": "Deriving the 3-Phase Hexagonal Firing Pattern from First Principles",
+  "doi": {
+    "raw": "10.5281/zenodo.18878964",
+    "is_stub": false,
+    "zenodo_id": 18878964,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-PHYS-7-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-PHYS-6-2026] \u2192 [@CKS-PHYS-7-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "February 2026",
+    "Domain": "Substrate Physics / Kinematics Redefinition",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator."
+  },
+  "abstract": "We derive the **tri-dipole differential engine**: the fundamental 3-phase firing pattern that generates what classical physics interprets as \"particles\" and \"forces.\" From pure hexagonal topology (D=3) and bilateral parity (S=2), we prove that stable substrate configurations require **three edge-dipole pairs** (\u03b1, \u03b2, \u03b3) firing in sequential clockwise or counter-clockwise patterns, governed by a 32-tick word cycle at substrate frequency f_s \u2248 227 GHz. The 1.32mm \"Lex\" is not a physical object but a **topological firing pattern**\u2014a standing wave in the discrete \u211a-lattice created by coordinated dipole switching across hexagonal edges. We show that: (1) matter/antimatter chirality emerges from clockwise (1\u21922\u21923) vs counter-clockwise (1\u21923\u21922) firing sequences, (2) the strong nuclear force is edge-dipole impedance matching between adjacent Lex units, (3) particle \"spin\" is the phase offset in the 3-dipole cycle, (4) mass is the energy deficit created by high-intensity socket (W=3) firing, and (5) the \"solidity\" of macroscopic objects is a 227 GHz refresh rate creating temporal persistence in human perception (\u03c4 = 15.19 ms render lag). We derive the firing logic from substrate constants (D=3, S=2, W=32, R=19, L=12) without free parameters, prove the 4-step cycle (3 phases + jubilee reset), and demonstrate why left-handed amino acids are required for matter-side biology (they match the substrate's right-hand screw thread). This establishes the physical universe as a **3-phase AC power grid** running on a hexagonal \u211a-mesh, where all classical physics emerges from dipole switching logic.\n\n**Key Result:** The universe is a synchronous 3-phase differential engine; \"particles\" are persistent firing patterns governed by hexagonal edge-dipole coordination.",
+  "dependencies": [
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-16-2026",
+    "CKS-MATH-80-2026",
+    "CKS-MATH-85-2026",
+    "CKS-MATH-9-2026",
+    "CKS-OMNI-2-2026",
+    "CKS-PHYS-6-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)"
+    ]
+  },
+  "extracted_at": "2026-03-05T12:53:26.151881+00:00"
+}
