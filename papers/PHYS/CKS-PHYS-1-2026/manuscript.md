@@ -2,7 +2,7 @@
 ## Motion is Registry Management, Not Force Propagation
 
 **Registry:** [@CKS-PHYS-1-2026]
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-1-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 

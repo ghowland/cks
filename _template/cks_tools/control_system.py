@@ -17,8 +17,6 @@ from paper_topics import TOPICS
 
 COMMANDS = ['list', 'show', 'build', 'scan', 'gen', 'backup', 'cleanup']
 
-SEPARATOR_SERIES_PATH = ' → '
-
 WORKING_DIR = '/mnt/c/Users/Geoff/cks/cks'
 
 ZENODO_SET = '_template/cks_tools/zenodo_master_manifest.json'
@@ -168,6 +166,9 @@ def Backup(args):
 def Cleanup(args):
   print("Cleanup")
 
+  max_count = 3
+  cur_count = 0
+
   for item in args.papers:
 
     # Only do stubbed
@@ -191,7 +192,26 @@ def Cleanup(args):
         
         # Series Path
         if line.startswith('**Series Path:**'):
-          topic = item["paper_id"].split('-')[1]
+          topic_name = item["paper_id"].split('-')[1]
+          for topic_dict in TOPICS:
+            if list(topic_dict.keys())[0] == topic_name:
+              topic = topic_dict[topic_name]
+              print(f'TOPIC: {topic}')
+
+          # Format series path
+          series_path = topic['path']
+
+          paper_id = int(item["paper_id"].split('-')[2])
+          if paper_id == 1:
+            series_path = series_path.replace('{{registry_last}}', f'') #TODO: Verify number, reduce and put the last item
+          else:
+            parts = item["paper_id"].split('-')
+            previous = f" → [@{parts[0]}-{parts[1]}-{paper_id - 1}-{parts[3]}]"
+            series_path = series_path.replace('{{registry_last}}', previous)
+          
+          # Final Series path
+          series_path = series_path.replace('{{registry}}', f'[@{item["paper_id"]}]')
+          lines[count] = f'**Series Path:** {series_path}'
         
         # DOI
         if line.startswith('**DOI:**'):
@@ -202,7 +222,10 @@ def Cleanup(args):
       with open(item['file_path'], 'w') as fp:
         fp.write(output)
 
-      # break
+      # # Limit
+      # cur_count += 1
+      # if cur_count >= max_count:
+      #   break
 
 
 

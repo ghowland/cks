@@ -4,7 +4,7 @@
 
 **Registry:** [@CKS-WUWU-1-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-22-2026] → [@CKS-MATH-23-2026] → [@CKS-WUWU-1-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-WUWU-1-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 

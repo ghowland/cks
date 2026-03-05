@@ -6,7 +6,7 @@
 
 **Registry:** [@CKS-DWDM-6-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026] → [@CKS-DWDM-5-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-5-2026] → [@CKS-DWDM-6-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
