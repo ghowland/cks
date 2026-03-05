@@ -84,20 +84,21 @@ def List(args):
 
 
 def Build(args):
-  print("Build papers:")
-  for item in args.papers:
 
+  print(f"Build papers")
+
+  for item in args.papers:
     # Only do stubbed
     if item['doi']['is_stub']:
       directory = os.path.dirname(item['file_path'])
       cmd = f'{GEN_PDF} {directory}' 
       print(cmd)
 
-      if item['paper_id'] != 'CKS-MATH-40-2026': continue # Skip test
+      # if item['paper_id'] != 'CKS-MATH-40-2026': continue # Skip test
  
       (status, output, error) = execute_command(cmd)
       print(f'  Result: {status}  Output: {output[:40]}')
-
+  
 
 def Scan(args):
   original_dir = os.getcwd()

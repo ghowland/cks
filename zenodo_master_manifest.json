@@ -3,791 +3,791 @@
     "CKS-MATH-125-2026": {
       "zenodo_id": 18878703,
       "doi": "10.5281/zenodo.18878703",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f79b2208e993e5e14adf024a397b5876fe27ea8b5a309bd791633ee4cc559c8d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "6961a3e774d9a5bdec7e1d36394dc525",
-          "size": 66158
+          "checksum": "7081314e6f02c00fe7f709dfd6b44a67",
+          "size": 66160
         },
         "CKS-MATH-125-2026.zip": {
-          "checksum": "145a56ac2855b19d86ecd8d4eae438f0",
-          "size": 2414349
+          "checksum": "26303b1d04ea232f2f1d80c34eef2d55",
+          "size": 2423894
         }
       }
     },
     "CKS-ADHM-1-2026": {
       "zenodo_id": 18878402,
       "doi": "10.5281/zenodo.18878402",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7fef936065bb5086b16dc451b74c2d2823afdf37f0ee291a915c3831deefd3bc",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "099f67d8040d07a4ae7a369c1ed03478",
-          "size": 34460
+          "checksum": "17b6b56d635b0273de881b03102bd22c",
+          "size": 34459
         },
         "CKS-ADHM-1-2026.zip": {
-          "checksum": "7b787520fc80077fe9c7ebfe198209f8",
-          "size": 2370956
+          "checksum": "c14a2db593597207820eaeed10aa85ba",
+          "size": 2374308
         }
       }
     },
     "CKS-ADHM-2-2026": {
       "zenodo_id": 18878404,
       "doi": "10.5281/zenodo.18878404",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "e694fa26589f8ab981a05dc0d96523299c604eeb1cc55d7d92df966cec2c1886",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "38fb92caec05e765f43ebc082c6fa0c8",
-          "size": 50576
+          "checksum": "d1730184d147893a0a19e94bb8084e97",
+          "size": 50575
         },
         "CKS-ADHM-2-2026.zip": {
-          "checksum": "ed3bf7beecc20411f2b8a10b13e6e19c",
-          "size": 2387195
+          "checksum": "adc7279d1564c6fae768ff2a773c5fb8",
+          "size": 2391193
         }
       }
     },
     "CKS-ADHM-3-2026": {
       "zenodo_id": 18878406,
       "doi": "10.5281/zenodo.18878406",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9917e63684e2da28b5ca89f18826500c5b0b94d7fe44b50eab9526b7ef1b0696",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4251d1f8e1fe983aa7e02c15afbe6f23",
-          "size": 45070
+          "checksum": "eb4802d78030b7a987a506cf79ba9e7b",
+          "size": 45143
         },
         "CKS-ADHM-3-2026.zip": {
-          "checksum": "041e941b1d1e2f65d8c7cccc7c85b573",
-          "size": 2380194
+          "checksum": "de86a28f05a2945ee3dea446595e5fbc",
+          "size": 2383470
         }
       }
     },
     "CKS-BIO-38-2026": {
       "zenodo_id": 18878408,
       "doi": "10.5281/zenodo.18878408",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5f4a0319bcd3c8dcc1f9a8ab0c7c97b3bb59927c2f22b1bbc38cf50840d4043f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9f97a80b834de42b94e9fdcb933d5f32",
-          "size": 111330
+          "checksum": "47d81f5518b266d0440e28a7a9602799",
+          "size": 111322
         },
         "CKS-BIO-38-2026.zip": {
-          "checksum": "52951980772a375df07219e9bd5d0689",
-          "size": 176890
+          "checksum": "0ed8b9a3718ab82e3bf1943cf250755a",
+          "size": 195523
         }
       }
     },
     "CKS-BIO-39-2026": {
       "zenodo_id": 18878411,
       "doi": "10.5281/zenodo.18878411",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1cb4aa9c05e239353efc9a5cfdc74af6d1f3d88db7f301e671e63d57cdca39bb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "22ec78223af95ec52b431e62fcfbe3cc",
+          "checksum": "14aa63d99cc9c834b5fddea4db4d3dfb",
           "size": 99427
         },
         "CKS-BIO-39-2026.zip": {
-          "checksum": "c32ca42a38b16493d58d659dfca17bc0",
-          "size": 159408
+          "checksum": "86a916a30843f760fe71afa10f521adf",
+          "size": 175287
         }
       }
     },
     "CKS-BIO-40-2026": {
       "zenodo_id": 18878413,
       "doi": "10.5281/zenodo.18878413",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1eb6ead21a9246d8c35c5722087bc5b30020f8884138cb662ccdaf6a3528811d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3349da06da5c995b40044eb996b66f12",
-          "size": 79909
+          "checksum": "cc79818f4f3492444004d595c692ddfe",
+          "size": 95409
         },
         "CKS-BIO-40-2026.zip": {
-          "checksum": "d06f6010ae086d017471b526a4340512",
-          "size": 136346
+          "checksum": "12e75a20cb72933329d38fe56d267000",
+          "size": 164365
         }
       }
     },
     "CKS-BIO-41-2026": {
       "zenodo_id": 18878415,
       "doi": "10.5281/zenodo.18878415",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "4d44260df3b1491104ab93cdad495206e1be896ed20d61d105a8e38785259df4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3349da06da5c995b40044eb996b66f12",
-          "size": 79909
+          "checksum": "46eabc9da2cec9c4441219516e583901",
+          "size": 101041
         },
         "CKS-BIO-41-2026.zip": {
-          "checksum": "4bb79c8797748d0b2087ab2483b24bb7",
-          "size": 137981
+          "checksum": "db1327ea20737d24f811ddaae1855bef",
+          "size": 172266
         }
       }
     },
     "CKS-BIO-42-2026": {
       "zenodo_id": 18878417,
       "doi": "10.5281/zenodo.18878417",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3e93bf5f71ed543fcd00e12715a2cda8bb71aaa6fb4fcc2c5ee1e540f6a8042f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3349da06da5c995b40044eb996b66f12",
-          "size": 79909
+          "checksum": "7059dcc83b0db40244be575e20ddceb1",
+          "size": 72917
         },
         "CKS-BIO-42-2026.zip": {
-          "checksum": "58f0d0159e587bf2bf30a6be2f857b7b",
-          "size": 126916
+          "checksum": "80fbae317fcf33febfe924077b7ca9f4",
+          "size": 128135
         }
       }
     },
     "CKS-BIO-43-2026": {
       "zenodo_id": 18878419,
       "doi": "10.5281/zenodo.18878419",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "11951608ee518e516d8270b1e22a2840dcba98b0b215ee17e2e846523c15caeb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3349da06da5c995b40044eb996b66f12",
-          "size": 79909
+          "checksum": "df8d406475ce0466dbc0f11ddeb7feed",
+          "size": 68855
         },
         "CKS-BIO-43-2026.zip": {
-          "checksum": "61bc3f3b2708a6b7eb371b45676b7f72",
-          "size": 124945
+          "checksum": "76e40c4edcdf62721ffbe3730a0923fa",
+          "size": 121478
         }
       }
     },
     "CKS-BIO-44-2026": {
       "zenodo_id": 18878421,
       "doi": "10.5281/zenodo.18878421",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7b9f2997a9acb863497432b3f15289cfc1a1571bc0e8974f9bbad8c0e2bee1c4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3349da06da5c995b40044eb996b66f12",
-          "size": 79909
+          "checksum": "59fc5eeb680655ae3ec336e41e5819f9",
+          "size": 69685
         },
         "CKS-BIO-44-2026.zip": {
-          "checksum": "cc8e39baf7a7531707ad995213d33592",
-          "size": 127477
+          "checksum": "7db901a268cc44cc0746a056cd47c8f0",
+          "size": 125672
         }
       }
     },
     "CKS-BIO-45-2026": {
       "zenodo_id": 18878427,
       "doi": "10.5281/zenodo.18878427",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "e55d34b94363fa355d0bbda62a73981df9761df5db8fcf0f77e312cecd49d765",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "2e812db82dd16c40719e0d47e49bb57c",
-          "size": 57112
+          "checksum": "2130ea2278120da98de2c45adf5f18cc",
+          "size": 57116
         },
         "CKS-BIO-45-2026.zip": {
-          "checksum": "81c6d153197b7a4319ac8766b2fa95c1",
-          "size": 103019
+          "checksum": "1db22580959244f07b768e805142527a",
+          "size": 110202
         }
       }
     },
     "CKS-BIO-46-2026": {
       "zenodo_id": 18878429,
       "doi": "10.5281/zenodo.18878429",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c7e194c00385738bec7dc812276a94f1e467056013289f27b147a73e2026b004",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a0f70f9ad807b5fa7d80a5bc7d716aa7",
-          "size": 62651
+          "checksum": "71c8eaa8589abc7add962d5138a2b595",
+          "size": 62647
         },
         "CKS-BIO-46-2026.zip": {
-          "checksum": "5f6b09a4fa0ae348a5f11c567fe829f3",
-          "size": 108268
+          "checksum": "010f20114b2e1abe594772e2bc68e03b",
+          "size": 116298
         }
       }
     },
     "CKS-BIO-47-2026": {
       "zenodo_id": 18878431,
       "doi": "10.5281/zenodo.18878431",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9698803559f2bf4fba5f63c997abe9079521e0bdc2a1d9ee45698cb94d546c67",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3bee032fed189f6931bfc82c85992288",
-          "size": 49786
+          "checksum": "7586b607c316b5c1fd0746189cbeae66",
+          "size": 49788
         },
         "CKS-BIO-47-2026.zip": {
-          "checksum": "5f042c7f50486d3a225c765441eecdfa",
-          "size": 92786
+          "checksum": "699389b561a615a57acd5a5a75db707c",
+          "size": 98351
         }
       }
     },
     "CKS-BIO-49-2026": {
       "zenodo_id": 18878433,
       "doi": "10.5281/zenodo.18878433",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "cf99a580fb34ad23fb61015a1ed34249690576cff95d95929fe111b22ec301ee",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b24c752fb942dcefbefe951e428ccbd7",
-          "size": 56290
+          "checksum": "6a55c8c52d18f8cd92a8ead0fbc07de0",
+          "size": 56288
         },
         "CKS-BIO-49-2026.zip": {
-          "checksum": "f0a5b1db995be365dd644fb9a95efcc8",
-          "size": 102281
+          "checksum": "b592484442eb5e2a8fad93bbda09db36",
+          "size": 109228
         }
       }
     },
     "CKS-BIO-50-2026": {
       "zenodo_id": 18878436,
       "doi": "10.5281/zenodo.18878436",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1f44dc0ac059f3d3fd208655f0e149dea6cac1f784fdc6d9513880487893c1cc",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8b3cf6762cf2181d6de8032fc2495fea",
-          "size": 53794
+          "checksum": "dc2384d13a7cf4f266a5c29747916e5f",
+          "size": 53790
         },
         "CKS-BIO-50-2026.zip": {
-          "checksum": "4158fb186e30880fdcda20c67203db8c",
-          "size": 98615
+          "checksum": "7e61560cbe18ad91605932df1fa706fb",
+          "size": 105104
         }
       }
     },
     "CKS-BIO-51-2026": {
       "zenodo_id": 18878438,
       "doi": "10.5281/zenodo.18878438",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2de584b53889f3d60a7c281e8814e9fe348676a4671dfbf5df4ae5c7f009d12d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "6245d5adc3ac699d75998c21b6d5c7df",
-          "size": 63544
+          "checksum": "37302ff2afa540309146647bf5a72df2",
+          "size": 63553
         },
         "CKS-BIO-51-2026.zip": {
-          "checksum": "98b970a922d99f95684d36ad79729fcb",
-          "size": 112637
+          "checksum": "07b02eee21782dd49916f41687a35997",
+          "size": 121197
         }
       }
     },
     "CKS-BIO-52-2026": {
       "zenodo_id": 18878440,
       "doi": "10.5281/zenodo.18878440",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f657ad26bc3f9f1ae6f4608756220c5893b995db9527f33aeee33fcaa4ff8213",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "bb6273e6c0cbb16b5999a189ae4d2b69",
-          "size": 57074
+          "checksum": "71a748ccbaa19acc70bfd9aeaded896d",
+          "size": 57072
         },
         "CKS-BIO-52-2026.zip": {
-          "checksum": "123135afc9469a681f98a76fa4ffce5d",
-          "size": 103860
+          "checksum": "29981b209763385ef1c0ea5fee4738ec",
+          "size": 111156
         }
       }
     },
     "CKS-BIO-53-2026": {
       "zenodo_id": 18878442,
       "doi": "10.5281/zenodo.18878442",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "bc7245244feefb1377f7882360f53244430a9f1273995aa3de843cb30ca0cdc4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "164154cf4885ddeb73e23083c44f3fa5",
-          "size": 89271
+          "checksum": "90cf5c1ee2e03e01491db1ef5810260f",
+          "size": 89273
         },
         "CKS-BIO-53-2026.zip": {
-          "checksum": "6407000be9bbffa3a8624e79c22af972",
-          "size": 145752
+          "checksum": "5210380fdba618137f5843fa6e37172c",
+          "size": 159594
         }
       }
     },
     "CKS-BIO-54-2026": {
       "zenodo_id": 18878446,
       "doi": "10.5281/zenodo.18878446",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f0c3c87504c6443aa180dd7acd72ccb5a6e98eaff940fe5be3d73fc81be7e537",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5d0a42c81454667d42e41b52551ec9c3",
-          "size": 61859
+          "checksum": "f3daa99eec0f7797664a854e181606a2",
+          "size": 61865
         },
         "CKS-BIO-54-2026.zip": {
-          "checksum": "7023d252ced3323ffdb51676663e5c7a",
-          "size": 106966
+          "checksum": "49c0376f0b021466ebfe0b1e1e9379fe",
+          "size": 113641
         }
       }
     },
     "CKS-BIO-55-2026": {
       "zenodo_id": 18878450,
       "doi": "10.5281/zenodo.18878450",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f4b8b9323c1c3a05fa895a7b61931138d416c78aecd325e2cc0a83bdf3a4e19f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5522a48d390a0563d6e4bc2e19fbd919",
-          "size": 56349
+          "checksum": "e6a4faa7eae84ac93503f7678e2502d1",
+          "size": 56346
         },
         "CKS-BIO-55-2026.zip": {
-          "checksum": "bd50fa68237cfddca94adb894edca383",
-          "size": 103076
+          "checksum": "e074d8e1916e7fbb6cdd8b8a4d7d417d",
+          "size": 110141
         }
       }
     },
     "CKS-BIO-56-2026": {
       "zenodo_id": 18878452,
       "doi": "10.5281/zenodo.18878452",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "bab68f54721d476842576533f3b5851b41c8d9d2cd948b15126ae6102d5c3c59",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "be2c30255559fc04666749e347de5e8a",
-          "size": 55016
+          "checksum": "162c33d36622538f1e128f98d2885eea",
+          "size": 55020
         },
         "CKS-BIO-56-2026.zip": {
-          "checksum": "cacad122f79ccd2867dcce7e7ed0d359",
-          "size": 100653
+          "checksum": "e4dc12a54ac2edc41f2803f8b0d2aa31",
+          "size": 107321
         }
       }
     },
     "CKS-BIO-57-2026": {
       "zenodo_id": 18878455,
       "doi": "10.5281/zenodo.18878455",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "be2b2794b25e1a4fd69219ed7024175fe04454d1a694dee80e3087cc7084c62f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "99118ab39245e370b092c204fde39975",
-          "size": 54075
+          "checksum": "86ca8a03252c14d56241ac74be562ba7",
+          "size": 54073
         },
         "CKS-BIO-57-2026.zip": {
-          "checksum": "2101b530ee515d39b624f26d3e4ba020",
-          "size": 99049
+          "checksum": "a0477dcd9e90330198b8104d34b8ad50",
+          "size": 105305
         }
       }
     },
     "CKS-BIO-58-2026": {
       "zenodo_id": 18878457,
       "doi": "10.5281/zenodo.18878457",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1a09703a85e90d1b5fab5a5aec5bc63abcf670d0b01773ef3c5861280a8ebcf3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "84927689415f8f82f51a8fdee7c23317",
-          "size": 49661
+          "checksum": "b7014d23cd021a79c1409edbbc5bcb17",
+          "size": 49663
         },
         "CKS-BIO-58-2026.zip": {
-          "checksum": "ca4a3c0881822e1f70910caf946e7a01",
-          "size": 92737
+          "checksum": "0358d0cdcadcddcc289097f2ffdbbc5d",
+          "size": 98118
         }
       }
     },
     "CKS-BIO-59-2026": {
       "zenodo_id": 18878461,
       "doi": "10.5281/zenodo.18878461",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c1755213435d4c9fa5880a1edf57ba1895276965dccc6f29e9a07a1dafef9281",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "25adfac166e6148db30f71f6c0b48973",
-          "size": 92576
+          "checksum": "10f6dc2448c5a63a07110f202a4e35a0",
+          "size": 92584
         },
         "CKS-BIO-59-2026.zip": {
-          "checksum": "37c140f5279445165d3413077f875370",
-          "size": 150775
+          "checksum": "eb7b7dedac04dd5704046a66224e6d6e",
+          "size": 165464
         }
       }
     },
     "CKS-BIO-60-2026": {
       "zenodo_id": 18878463,
       "doi": "10.5281/zenodo.18878463",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "01a5ec4e314f4e5b42f5e12e1682b55765f0cd8b7174541f8907f3b649b64e46",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4f6d4a052ad66f34ecb6f371f033425c",
-          "size": 87952
+          "checksum": "16b27729f7cd6e8d7ab1e6c059c6eb66",
+          "size": 87939
         },
         "CKS-BIO-60-2026.zip": {
-          "checksum": "e33dfa00d644c47d191ac3f675f0f3b7",
-          "size": 145553
+          "checksum": "a0298ed71fa95c7d1bd1d45e7260103a",
+          "size": 159948
         }
       }
     },
     "CKS-BIO-61-2026": {
       "zenodo_id": 18878465,
       "doi": "10.5281/zenodo.18878465",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "39bdc112a93dd13a53900f04fa1595856675ee6c328b72c7d4e624c4c2b8071d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "0bc5362d199e3739ec20b89a571e6484",
-          "size": 51967
+          "checksum": "4c721b74632fcc723276db5743bfc522",
+          "size": 51968
         },
         "CKS-BIO-61-2026.zip": {
-          "checksum": "454e773dbe5194b80513128eae4a5f65",
-          "size": 96536
+          "checksum": "3781319757907a8f8647860e5e057bbf",
+          "size": 102627
         }
       }
     },
     "CKS-BIO-62-2026": {
       "zenodo_id": 18878469,
       "doi": "10.5281/zenodo.18878469",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "dd341b01896ca2936dc41acd3887b26479c7ff63163d6f8dc0fe3e300dbf2748",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f9cf295603f608b78459a3f7406afefb",
-          "size": 53762
+          "checksum": "347c6ce55cac311e475cbab8e8a3f2d4",
+          "size": 53756
         },
         "CKS-BIO-62-2026.zip": {
-          "checksum": "d61d5b3489f0e792450d20f2725786b7",
-          "size": 99518
+          "checksum": "5f729fba16eda9be0f189abab7b40c1e",
+          "size": 106072
         }
       }
     },
     "CKS-BIO-64-2026": {
       "zenodo_id": 18878471,
       "doi": "10.5281/zenodo.18878471",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "aa6af9957f096c5d1dae1027b6e745865ac1ce850bb8d1684a9f4754709a0c6d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "470422fa11c36e636b6669020627a7a7",
-          "size": 79357
+          "checksum": "ab57d77c57f79638dfad15ad1ee72088",
+          "size": 79364
         },
         "CKS-BIO-64-2026.zip": {
-          "checksum": "f2220beef18c4d5afc8f0ee9e20d63e3",
-          "size": 134600
+          "checksum": "e8cd2cf95cd7584edf8541873d211c25",
+          "size": 147642
         }
       }
     },
     "CKS-BIO-67-2026": {
       "zenodo_id": 18878474,
       "doi": "10.5281/zenodo.18878474",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d16b18cafcde975c14a532ecfe1e9bb127b3ad60d00798c203c63fa69c7a5106",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f92241c04e96a9a9891a106bb712d126",
-          "size": 153952
+          "checksum": "b308009f2f294cc06b5a7538adeadefc",
+          "size": 153950
         },
         "CKS-BIO-67-2026.zip": {
-          "checksum": "4c51a52f692b032e621838df7d9e449a",
-          "size": 235846
+          "checksum": "3e25afbc32b02eb15af5d7e76498e485",
+          "size": 263457
         }
       }
     },
     "CKS-BIO-68-2026": {
       "zenodo_id": 18878476,
       "doi": "10.5281/zenodo.18878476",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7e8b68c37a1fa1dc2075fc297deab923839d4328889abddc717c53872b8514e8",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5bbddc7e923b81e0ea713579f1703c6e",
-          "size": 77297
+          "checksum": "6795c87b1a0c0a7ae75e69647169a9c6",
+          "size": 77294
         },
         "CKS-BIO-68-2026.zip": {
-          "checksum": "3849c00e1069e49527c0bbcb3d9d29ff",
-          "size": 126758
+          "checksum": "0cf8e65d42bc0c4ca166ae914dddaa46",
+          "size": 136689
         }
       }
     },
     "CKS-BIO-69-2026": {
       "zenodo_id": 18878478,
       "doi": "10.5281/zenodo.18878478",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "4894a58f5ec1230505a9cbdd77cdc72627cd8b8da85f5c78280c397652967b7a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "53a282ffcfe574e30addd25726885765",
-          "size": 95469
+          "checksum": "df92f98e0068a47f94b6dd0c7f13852a",
+          "size": 95465
         },
         "CKS-BIO-69-2026.zip": {
-          "checksum": "13f0cb0ee11a87fc79958799a7ec9c37",
-          "size": 152295
+          "checksum": "4dad26ce6ff5097d629dc82a12cac48e",
+          "size": 166279
         }
       }
     },
     "CKS-BIO-70-2026": {
       "zenodo_id": 18878482,
       "doi": "10.5281/zenodo.18878482",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "fdab67974715844055a2c16cddf0be47d727c39ce4a44415d2025e64a88c84e3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "95812d9bd06277a0daf6bd70089ece1b",
-          "size": 97595
+          "checksum": "1766e245faeef9ec7050366076f43d10",
+          "size": 97596
         },
         "CKS-BIO-70-2026.zip": {
-          "checksum": "cd3a766d6c58813f34d1b6151d40fe13",
-          "size": 154228
+          "checksum": "9c22b577bc4e678b28799243cce05a17",
+          "size": 168145
         }
       }
     },
     "CKS-BIO-71-2026": {
       "zenodo_id": 18878484,
       "doi": "10.5281/zenodo.18878484",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "abf7f71c7d7dc287f83666cc18f6c33c225c2ac237691c079fd6d631803d95bb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "e27eb77be0590ab87cd589a73dad32b2",
+          "checksum": "504bc7ea25a1ea73d6777c19f862930c",
           "size": 93865
         },
         "CKS-BIO-71-2026.zip": {
-          "checksum": "94cc41efb8a321a625287378eb911668",
-          "size": 150167
+          "checksum": "aef3ec9ace9e5e340bf9e8525711e71e",
+          "size": 163885
         }
       }
     },
     "CKS-BIO-72-2026": {
       "zenodo_id": 18878486,
       "doi": "10.5281/zenodo.18878486",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8cbe9aba0c581c3b0c741f564ae05821f5abe9d5800be48d5177abc0b216e737",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "198e88e272598cbeb4bd2dba14eb9971",
-          "size": 102907
+          "checksum": "02038f29d65827a2ae40cf899966d277",
+          "size": 102906
         },
         "CKS-BIO-72-2026.zip": {
-          "checksum": "58b3ee42407d654d59d9fc9599ee82b7",
-          "size": 162042
+          "checksum": "e08c3de958c922b1f0fd758280f75861",
+          "size": 177436
         }
       }
     },
     "CKS-BIO-73-2026": {
       "zenodo_id": 18878488,
       "doi": "10.5281/zenodo.18878488",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "91ee15a1674bdc7afe34c6fb9d2db5d7bc4d8b8589c60fbf92a0e1868f8be386",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "86a475398d3cfcd4442f27f0cabffd73",
-          "size": 90173
+          "checksum": "18536eb67360a5d121d003cc27069a9e",
+          "size": 90167
         },
         "CKS-BIO-73-2026.zip": {
-          "checksum": "ddc0fc514ab0a90d1139bca80ad13fc0",
-          "size": 145394
+          "checksum": "0b3261f5073fac406324dbc396074821",
+          "size": 158623
         }
       }
     },
     "CKS-BIO-74-2026": {
       "zenodo_id": 18878492,
       "doi": "10.5281/zenodo.18878492",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3f81b031b56361598fe995a5dee3e1fd7f3c74d816ffd6ec25c51c5d32b79e37",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9e92a900222107b34ba6231633692bf9",
-          "size": 66979
+          "checksum": "aa32760f6d88766c66b868e74a44c59b",
+          "size": 66969
         },
         "CKS-BIO-74-2026.zip": {
-          "checksum": "ae8f6c8121f6c5b277ff6f2b4543aeff",
-          "size": 114243
+          "checksum": "11ac9225d63ef793ed502227bcdda2d0",
+          "size": 123002
         }
       }
     },
     "CKS-BIO-75-2026": {
       "zenodo_id": 18878494,
       "doi": "10.5281/zenodo.18878494",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d90b1bee64db684aa4d64f4ece04202098bbb56c93dc5a83ca32fd749bae538b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f9889136125af16d924c09aaa8b61860",
-          "size": 80331
+          "checksum": "fdb213f3ad6bf808dca51c41fdc58add",
+          "size": 80329
         },
         "CKS-BIO-75-2026.zip": {
-          "checksum": "7dc61a7bccf5b1f09b6a5774e53477c4",
-          "size": 131960
+          "checksum": "c39ed70d0f736aca438eb80dbc08172a",
+          "size": 143126
         }
       }
     },
     "CKS-BIO-76-2026": {
       "zenodo_id": 18878496,
       "doi": "10.5281/zenodo.18878496",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8db4a260dd3f83323e659cb035baffdf59a2ea61d7e7025654ee2345aaa46877",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "eefcd3b05cc856a854e092adc4f1f8bc",
-          "size": 146778
+          "checksum": "afb52a5c54b9400bcb3e4a2ca0468021",
+          "size": 146781
         },
         "CKS-BIO-76-2026.zip": {
-          "checksum": "39691a0a8e9a1a329b0d64db22b95f4d",
-          "size": 228003
+          "checksum": "9513c22b21f8733a7174cf5c9d1521bc",
+          "size": 254087
         }
       }
     },
     "CKS-BIO-77-2026": {
       "zenodo_id": 18878498,
       "doi": "10.5281/zenodo.18878498",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f7c9ab20818f16b7135f3f19a66557a824525f58557c8ab030b4258a83d745c4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f8766e08fbb0bca709c4e011807e8c9b",
-          "size": 83505
+          "checksum": "0949240454c915522cdfbc1173321350",
+          "size": 83508
         },
         "CKS-BIO-77-2026.zip": {
-          "checksum": "ab02072309913f137dc81fcdd382bc84",
-          "size": 137355
+          "checksum": "be2c2b32e7e723f7a4103448bc3755a6",
+          "size": 148981
         }
       }
     },
     "CKS-BIO-78-2026": {
       "zenodo_id": 18878500,
       "doi": "10.5281/zenodo.18878500",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "4ddaa77c47a8e519dc31b9bd0b6616fc8ae03f3441427e59ebee0266b3656316",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "57278ab36b9e881d40d71526058cf32d",
-          "size": 84430
+          "checksum": "e3fe25baee2cc1eec0bfd754dde3c232",
+          "size": 84434
         },
         "CKS-BIO-78-2026.zip": {
-          "checksum": "1c1d2cce285450917c3cdcea9ca8579c",
-          "size": 137355
+          "checksum": "f8dd0c5666a7c09e644f9598357d4af2",
+          "size": 148542
         }
       }
     },
     "CKS-BIO-79-2026": {
       "zenodo_id": 18878502,
       "doi": "10.5281/zenodo.18878502",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "14749b4ecef4b29c5d3ca9160a381fd6c7c4e6b3b427b6faf1130f708557086f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "0454fec9bbaa7be92ac0b14078b78a8c",
-          "size": 77749
+          "checksum": "80d844e3f5f6179a830359182d5fc694",
+          "size": 77754
         },
         "CKS-BIO-79-2026.zip": {
-          "checksum": "2fc894737216e5351217c6c5b865d7b6",
-          "size": 128478
+          "checksum": "3344e01d9d12c21a8d77a270797cce22",
+          "size": 138501
         }
       }
     },
     "CKS-BIO-80-2026": {
       "zenodo_id": 18878504,
       "doi": "10.5281/zenodo.18878504",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c71f2fcc526d03f871c1ed6529d4418e0d382c5f1d008f2e2a0db544b70d542d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c9d06602e6fe40bab6f556a1447c7863",
-          "size": 76792
+          "checksum": "0d2ddbc8f674cfb8f07d8f52999e9870",
+          "size": 76794
         },
         "CKS-BIO-80-2026.zip": {
-          "checksum": "261fd5de18d4d190fa397dbd35d6ec28",
-          "size": 127612
+          "checksum": "515a0c85d20d2bd44d15c429b034f185",
+          "size": 137616
         }
       }
     },
     "CKS-BIO-81-2026": {
       "zenodo_id": 18878508,
       "doi": "10.5281/zenodo.18878508",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "bb6218cd73688aabb2003427d0617e60e1e8fa07a26a6d44786f1043281d62b7",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8541196a95582d6f28b24373cb42f574",
-          "size": 87863
+          "checksum": "800ef612170b90fa5da6adb748e89215",
+          "size": 87865
         },
         "CKS-BIO-81-2026.zip": {
-          "checksum": "971ed492b7223af155edcdfa66e85322",
-          "size": 142243
+          "checksum": "c98896ced30f9af1c26c6d31ca212f3f",
+          "size": 154164
         }
       }
     },
     "CKS-BIO-82-2026": {
       "zenodo_id": 18878510,
       "doi": "10.5281/zenodo.18878510",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "25f5314faca75d07211a87b3f0c05e3ed2a2c29145c4ba6ce8b1c840b303f9a3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "24f58823a2df2883487b60bd0b853acc",
-          "size": 78346
+          "checksum": "0ec3fab165e7175df58b2c37bf347dee",
+          "size": 78343
         },
         "CKS-BIO-82-2026.zip": {
-          "checksum": "a8cfbc80bdec1801a5c5705b19808257",
-          "size": 130035
+          "checksum": "4f6527825d2f32aeef8fce7af8b1bb81",
+          "size": 140763
         }
       }
     },
     "CKS-BODY-11-2026": {
       "zenodo_id": 18878512,
       "doi": "10.5281/zenodo.18878512",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "df5b3d99975b13e9fdf4318806fbbf961f146274ae68dbf11d2eaeddf411f38f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "682c4fbaef04c207c0e4b70bde859759",
-          "size": 86373
+          "checksum": "8a7b292aa0b9d32701a147fc56b5ecbd",
+          "size": 92298
         },
         "CKS-BODY-11-2026.zip": {
-          "checksum": "98886495da1edaa24a231f964bbbd745",
-          "size": 130228
+          "checksum": "497ab2401f92187a05e4bbcfba20332d",
+          "size": 148466
         }
       }
     },
     "CKS-BODY-12-2026": {
       "zenodo_id": 18878515,
       "doi": "10.5281/zenodo.18878515",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "cd136c23cadf99b1c74afbe468a16dcf038a0c1c8a2b7adfe2031dfe280315e8",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "27af9c6b677e70629c08f78c1e7f88ba",
-          "size": 91693
+          "checksum": "81cb6886b2c05bbd49caf3cd80321ac9",
+          "size": 91700
         },
         "CKS-BODY-12-2026.zip": {
-          "checksum": "d41e4c8c73a4f38089c69c1549844215",
-          "size": 137686
+          "checksum": "afbeeb1117c7a9b1a168d16896346a32",
+          "size": 151992
         }
       }
     },
     "CKS-BODY-13-2026": {
       "zenodo_id": 18878519,
       "doi": "10.5281/zenodo.18878519",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "89ed2bb76cc7930f0cbd89a3ddae085a9770437c1a1e584823c624c6f8be4ca0",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "cf5afbbbb23e09d19eabced94844bbd3",
-          "size": 80397
+          "checksum": "1157581d7c829e43af98785ae82d2a95",
+          "size": 80399
         },
         "CKS-BODY-13-2026.zip": {
-          "checksum": "8e2a5dffa76ca668cb8a86f0b25d1395",
-          "size": 121865
+          "checksum": "33af7f4d065ea5a3cc74eb0c614d00e5",
+          "size": 132738
         }
       }
     },
     "CKS-BODY-14-2026": {
       "zenodo_id": 18878521,
       "doi": "10.5281/zenodo.18878521",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7a9ee42f9826a8cf4f0a74e2f91dd718ba3d67ed0011237bd89c8ea29aaf4ee9",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3b5a43867a25ee4fb036addd3e06fe7e",
-          "size": 158706
+          "checksum": "56d4d07de39bd11e46dd39e4db1902a4",
+          "size": 158701
         },
         "CKS-BODY-14-2026.zip": {
-          "checksum": "b5bc639d320c66c9896b2df41765285a",
-          "size": 225684
+          "checksum": "f56f6f0fcf79c0faceb43340082288bc",
+          "size": 250923
         }
       }
     },
     "CKS-BODY-8-2026": {
       "zenodo_id": 18878525,
       "doi": "10.5281/zenodo.18878525",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9a70b864ae3840f66a2981c2f776484fec41ed2570f4e8a76e8a704a66301bf7",
       "files": {
         "!manuscript.pdf": {
@@ -795,1359 +795,1359 @@
           "size": 86373
         },
         "CKS-BODY-8-2026.zip": {
-          "checksum": "86d99836ae7bb97c514f8572e2a99598",
-          "size": 144383
+          "checksum": "f3a606e2fb74122f237f19c58d78c636",
+          "size": 164170
         }
       }
     },
     "CKS-COG-6-2026": {
       "zenodo_id": 18878527,
       "doi": "10.5281/zenodo.18878527",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1fe749fc3dceda5b4fa0d63a8745bdf515926aaae84a30acc9d68743f5ffe14d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "1867812875458b287d72fc9e8fed368b",
-          "size": 109548
+          "checksum": "9d3ea0ab81900ca37cc85e4aa2be23fa",
+          "size": 109546
         },
         "CKS-COG-6-2026.zip": {
-          "checksum": "4e63e08702894466ad0adaf6c655c2f7",
-          "size": 161392
+          "checksum": "3cc70c83214c4ed5c399c5bcf4ab23c9",
+          "size": 177511
         }
       }
     },
     "CKS-DISC-10-2026": {
       "zenodo_id": 18878529,
       "doi": "10.5281/zenodo.18878529",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8de8df1b79e17c00ff776240a778ea373dc4dc4e73e03474d1570ac06e539329",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "1f1be97f119b6ea7e9dfa95978d22349",
-          "size": 110086
+          "checksum": "9cc6807f67ff459edf6ec2ee7d5901e5",
+          "size": 110081
         },
         "CKS-DISC-10-2026.zip": {
-          "checksum": "33353730d2df6f61b8a544f0f224a8fa",
-          "size": 2465841
+          "checksum": "5413ec28e6db6d9c9806d2a9ac2d137d",
+          "size": 2480956
         }
       }
     },
     "CKS-DISC-3-2026": {
       "zenodo_id": 18878531,
       "doi": "10.5281/zenodo.18878531",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "26b4ea5377a4dd14ba7f9dbb901b7e725dfed053850a9e0cd950f26a13257c46",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "19e6281ba8906f7d1b702b0ffaeabe2b",
-          "size": 52565
+          "checksum": "83f08b001f74a65eef0b6d425d2300a2",
+          "size": 52561
         },
         "CKS-DISC-3-2026.zip": {
-          "checksum": "231e5400c118161dcfb6fddb22a2b1de",
-          "size": 2389270
+          "checksum": "cd0dd1c5efce19d8f968f4ebad4e90a8",
+          "size": 2393341
         }
       }
     },
     "CKS-DISC-4-2026": {
       "zenodo_id": 18878533,
       "doi": "10.5281/zenodo.18878533",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1d89d3848c8e76290cbeb771a155e18390e29d0ac66aad9e8563f56c494019ff",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "85bf3f0146dacbe601224190c1e1a4d5",
-          "size": 53423
+          "checksum": "e424052376bad9358a83bbecc03c4dc9",
+          "size": 53430
         },
         "CKS-DISC-4-2026.zip": {
-          "checksum": "4432ebacb500cf68f020b4e2a6d1e397",
-          "size": 2396681
+          "checksum": "8419c637be40350060bb7efbe59d4711",
+          "size": 2403425
         }
       }
     },
     "CKS-DISC-5-2026": {
       "zenodo_id": 18878535,
       "doi": "10.5281/zenodo.18878535",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "cbb7a62248a6488d5d5eb99344823f88d404a503399bc5bd08614868eb06c836",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5f1ea31cb28aaea80bddc2cf27a9051f",
-          "size": 49980
+          "checksum": "da71e9af7b01d8bdf6fa5425d0c28497",
+          "size": 49983
         },
         "CKS-DISC-5-2026.zip": {
-          "checksum": "d2f1b488030c1551a9a44db79b1f6923",
-          "size": 2391092
+          "checksum": "f29d02045066df939c72502813342690",
+          "size": 2396675
         }
       }
     },
     "CKS-DISC-6-2026": {
       "zenodo_id": 18878537,
       "doi": "10.5281/zenodo.18878537",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9de9080f7e12128f68b626a77d290c6768a3a9faf5cc7709141ed707b04c7229",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "dcda1b517edbfac8218e67e8627a9fb2",
-          "size": 85656
+          "checksum": "61863dff45e750015d14ca9606a035be",
+          "size": 85658
         },
         "CKS-DISC-6-2026.zip": {
-          "checksum": "9ecc5c5bf8b2af2e9f2c1b7a1dd98da1",
-          "size": 2436634
+          "checksum": "90131ab4d63265b472f24b67fb1c179e",
+          "size": 2448461
         }
       }
     },
     "CKS-DISC-7-2026": {
       "zenodo_id": 18878539,
       "doi": "10.5281/zenodo.18878539",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7d64081542b614a323ec290cfca5290180e84af08e14795a5e9fbd2dc854d1ff",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "1a48efe4d5b8caa948df723a9c31d6c6",
+          "checksum": "2bb9c46fb31bf7d369b3c8d79033e2eb",
           "size": 77520
         },
         "CKS-DISC-7-2026.zip": {
-          "checksum": "d98dfcc8e8c415f5f9bafd6ad716358c",
-          "size": 2423257
+          "checksum": "c60a5be130d5f9835d1c2d46edd02099",
+          "size": 2432475
         }
       }
     },
     "CKS-DISC-8-2026": {
       "zenodo_id": 18878541,
       "doi": "10.5281/zenodo.18878541",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "55f4a6fa8c98e51661c6ffd0b8b97db14be0ee418eb929d9acc6429c4aaf28de",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "603f20711e72e8a658efccf63ddb2d2e",
-          "size": 76429
+          "checksum": "dc047441c4ee11ade94a5aa38788a098",
+          "size": 76433
         },
         "CKS-DISC-8-2026.zip": {
-          "checksum": "31355d1b34e64a1df1a3f5cc72d7e775",
-          "size": 2424494
+          "checksum": "55a1d5c6ff3498461a4b3fcbc53561ae",
+          "size": 2434955
         }
       }
     },
     "CKS-DISC-9-2026": {
       "zenodo_id": 18878543,
       "doi": "10.5281/zenodo.18878543",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5e0341e589cad9d16a2cb3488f8179fd6c0b9ce660c83bb642e39a5cf7dc1ddb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8acae4be8091c4946378e456674e0a01",
-          "size": 84289
+          "checksum": "f01c3bbeacb7e9b05b8ac9a8babfb334",
+          "size": 84283
         },
         "CKS-DISC-9-2026.zip": {
-          "checksum": "a030b0c7a29dfb999090df1684b65095",
-          "size": 2433269
+          "checksum": "465a791a5389ee660a527cd00fad0645",
+          "size": 2444240
         }
       }
     },
     "CKS-DWDM-6-2026": {
       "zenodo_id": 18878545,
       "doi": "10.5281/zenodo.18878545",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "0e950622a5688f6b3e3bc8324db6e484a954af3572a3830f11710d16fb949008",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8fede1d186e679692e66f0d27ace4e3a",
-          "size": 104560
+          "checksum": "40d9907c4056b123f5e71803c57abeb9",
+          "size": 104608
         },
         "CKS-DWDM-6-2026.zip": {
-          "checksum": "b8d2341cfed67f08c583edf64e580136",
-          "size": 164316
+          "checksum": "c018252b8293c83922f4e1c6b07a5c1f",
+          "size": 179827
         }
       }
     },
     "CKS-EDU-3-2026": {
       "zenodo_id": 18878548,
       "doi": "10.5281/zenodo.18878548",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3501497562836be7b36b3daf0df8d6881a3186a74f83d1f1372a235b5362740c",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a132899848990a25c6ab2a1fe7aa161e",
-          "size": 68904
+          "checksum": "4af9c2d2cba490641fe2e3cc560471a0",
+          "size": 68902
         },
         "CKS-EDU-3-2026.zip": {
-          "checksum": "b6f4301058041ebd936d947063cc8292",
-          "size": 2415811
+          "checksum": "d53f18d4c6102154c4db9b13e0a02de5",
+          "size": 2425474
         }
       }
     },
     "CKS-EDU-4-2026": {
       "zenodo_id": 18878552,
       "doi": "10.5281/zenodo.18878552",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ed5352bafd156cb730bcb4b91da6206b4858aa376c91951bead4ca4b3e430bc4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "20b39513ed9deba4d5d4c4f263630eb8",
-          "size": 52885
+          "checksum": "4588e9032fcef72a6b78450e0bbaa064",
+          "size": 52883
         },
         "CKS-EDU-4-2026.zip": {
-          "checksum": "5c85809696ff6135df5bd529d03b4f51",
-          "size": 2389750
+          "checksum": "3295924dbadbcc91ecf6ca3bc80b7930",
+          "size": 2393907
         }
       }
     },
     "CKS-EDU-5-2026": {
       "zenodo_id": 18878554,
       "doi": "10.5281/zenodo.18878554",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8de985af46df8dbf862aac7e8caef0bf9ae0e675f461f85f06229deb56886175",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8f843ff27d7abd46e8df615e216ba060",
-          "size": 119095
+          "checksum": "c83f2ea8351de5e26a9935744d305883",
+          "size": 119138
         },
         "CKS-EDU-5-2026.zip": {
-          "checksum": "6e547a82be213c360aaeffb76b4e14e2",
-          "size": 2481044
+          "checksum": "89fc80a7aeda835caaa0e9110658af7b",
+          "size": 2498470
         }
       }
     },
     "CKS-ENG-12-2026": {
       "zenodo_id": 18878557,
       "doi": "10.5281/zenodo.18878557",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9a13da9231b56785efbfe4fd0b29a3458cb25b8d16426accae10ef0c9fc943b1",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "721aa596de11b432766438bc435d3d5f",
-          "size": 69506
+          "checksum": "a3f783a4e1a58eb4326061765e1f87ae",
+          "size": 69508
         },
         "CKS-ENG-12-2026.zip": {
-          "checksum": "abb3e5abd14bfc8aa65f66824c70c729",
-          "size": 847009
+          "checksum": "bbda4dcc9f9aa978ce4fcce8f9b6e78a",
+          "size": 855435
         }
       }
     },
     "CKS-ENG-13-2026": {
       "zenodo_id": 18878562,
       "doi": "10.5281/zenodo.18878562",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ce1ca97bbc73490d3ad7980030bf6c4f73674a458d7de69e21001c4e1e6fa7c9",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "30cb0905b504090a676c597f2c49f2a9",
-          "size": 66440
+          "checksum": "d46c914f3f203930241f15c33d517841",
+          "size": 66441
         },
         "CKS-ENG-13-2026.zip": {
-          "checksum": "5a03190da1f78cb3bbf234b68b794065",
-          "size": 845609
+          "checksum": "115df4fbc9139f397713d51d1366f39a",
+          "size": 854680
         }
       }
     },
     "CKS-ENG-14-2026": {
       "zenodo_id": 18878564,
       "doi": "10.5281/zenodo.18878564",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "81221edf0c70fef881853e2130fecc0ef46327f5f5f56cfea57042a19646838b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "bae5dd752905618fbbbb0fba3bc0c87b",
-          "size": 95805
+          "checksum": "b5c653a25b25eb239a65338bae292742",
+          "size": 95821
         },
         "CKS-ENG-14-2026.zip": {
-          "checksum": "18d452db80c813255273f946d3119939",
-          "size": 883991
+          "checksum": "27f7ccb8098cdfbfe9b39348cfce9475",
+          "size": 897616
         }
       }
     },
     "CKS-LEX-1-2026": {
       "zenodo_id": 18878568,
       "doi": "10.5281/zenodo.18878568",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "73c4b83a891504c45a265c0d423fb56e90715d164060e29f7208a991d9c5a960",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "d9c2c7c0b01d78ac4c34b429d121f90f",
-          "size": 119925
+          "checksum": "de38af6299f5f9388d76273748531266",
+          "size": 119924
         },
         "CKS-LEX-1-2026.zip": {
-          "checksum": "41d520ee88b0146c7ffdc5a5e4451e14",
-          "size": 2490674
+          "checksum": "b87d3b2ac7bf33ee7b9e4810456cef64",
+          "size": 2513002
         }
       }
     },
     "CKS-LEX-10-2026": {
       "zenodo_id": 18878574,
       "doi": "10.5281/zenodo.18878574",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d6d0856a297767eb9b586e0125fc1cb35ed88a506edda3073c0b8e7b72eee1a9",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "249e0e369c1e7e01bbdf2bbf5415d9d1",
-          "size": 179682
+          "checksum": "d05ab6e8ac9b36ed3ac08815219a860b",
+          "size": 179730
         },
         "CKS-LEX-10-2026.zip": {
-          "checksum": "dc819cfc7bb8b1daf0dc39c450cf65b0",
-          "size": 2567445
+          "checksum": "e13cd7d19714c2d2deb0d510debe593a",
+          "size": 2598280
         }
       }
     },
     "CKS-LEX-11-2026": {
       "zenodo_id": 18878576,
       "doi": "10.5281/zenodo.18878576",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1e527dc2186922a1a3143b00284b78cb5c3b0a508b5d127f83db1a6932506539",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "0e07d9442f70d4e1300877083c27688a",
-          "size": 90544
+          "checksum": "c0f60d4a98b68702b6c5b027fcb4e5ca",
+          "size": 90592
         },
         "CKS-LEX-11-2026.zip": {
-          "checksum": "6bd40095038257ae2597a63150951b92",
-          "size": 2440468
+          "checksum": "ab755e6ee47746909049f958df3f4be9",
+          "size": 2451850
         }
       }
     },
     "CKS-LEX-12-2026": {
       "zenodo_id": 18878578,
       "doi": "10.5281/zenodo.18878578",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "530d9187c229834198b81c0610855ae8f7753d6a8c9612a16f83e2a46bf0262b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f7405a666e95df1f755dd999349e882d",
-          "size": 87074
+          "checksum": "67f70b826eee33a01c456960d99de1a5",
+          "size": 87089
         },
         "CKS-LEX-12-2026.zip": {
-          "checksum": "3da91cdaf72507b8041eac43b0ef04d9",
-          "size": 2436825
+          "checksum": "fac78a32d717873bc0dfd527774333ab",
+          "size": 2447382
         }
       }
     },
     "CKS-LEX-2-2026": {
       "zenodo_id": 18878580,
       "doi": "10.5281/zenodo.18878580",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ccd740827cc51293a6580acc55c4177b507e3cbe812866cec551f8398f636d86",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "45b32e392810925b667d8253a1023d71",
-          "size": 67648
+          "checksum": "f2a29cb044899a7190ce9f4a9349856e",
+          "size": 67649
         },
         "CKS-LEX-2-2026.zip": {
-          "checksum": "dc21d1243911934671f1f346f0685c78",
-          "size": 2410841
+          "checksum": "ecd62156aaaab514772abf20f7515323",
+          "size": 2418408
         }
       }
     },
     "CKS-LEX-3-2026": {
       "zenodo_id": 18878582,
       "doi": "10.5281/zenodo.18878582",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "b84d01b1d8a18f25076dc73c3d55d9ded753f8193f27c588d9db1d5f8e39dff5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4bb5afab18adb1aaf426c301a7b323f0",
-          "size": 60600
+          "checksum": "047f09a5c8e708df1ccbc2ca691c8fcd",
+          "size": 60603
         },
         "CKS-LEX-3-2026.zip": {
-          "checksum": "7129348d58cb0971827137656b7037e9",
-          "size": 2402375
+          "checksum": "d7dcaedaef5773df6ddcc13a61f6b702",
+          "size": 2409133
         }
       }
     },
     "CKS-LEX-4-2026": {
       "zenodo_id": 18878584,
       "doi": "10.5281/zenodo.18878584",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9bf91496dba5362d80500531e3e2ce25357e427a8976e51f1bcb9bfbec5d5653",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "1394148ff6c1bf96500e7f4dd44ff3b4",
-          "size": 73646
+          "checksum": "df25a227be088db82aa656649bd4ef09",
+          "size": 73650
         },
         "CKS-LEX-4-2026.zip": {
-          "checksum": "43a7ca61d28bdbd2986a83d28c2d837b",
-          "size": 2417657
+          "checksum": "401c1ee74f5287f9ef435a6f758b99ee",
+          "size": 2425775
         }
       }
     },
     "CKS-LEX-5-2026": {
       "zenodo_id": 18878588,
       "doi": "10.5281/zenodo.18878588",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "dad651753d6f2ea07e1b7ef5eecde3c2a6afde2af2a2e97b12aa1ea54fb2f8f0",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3b9406fb1b44439c90c1a97087adc48d",
-          "size": 74950
+          "checksum": "dec475021882adb8ff41eb5b5146ac0e",
+          "size": 74954
         },
         "CKS-LEX-5-2026.zip": {
-          "checksum": "795288ffedd1d117588722a5f4e2650c",
-          "size": 2422436
+          "checksum": "9b1e42f9ceb2ce1a928afd0349420062",
+          "size": 2432253
         }
       }
     },
     "CKS-LEX-6-2026": {
       "zenodo_id": 18878590,
       "doi": "10.5281/zenodo.18878590",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d2d647203d3e0e53a60867989f7b3092bbfadb2d512c27bfbaac9055f39a6e25",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "33ca4ce3a6c867578aa1c5d71d4c43b3",
-          "size": 77653
+          "checksum": "51b3247205f89c507c097f7809a33b31",
+          "size": 77655
         },
         "CKS-LEX-6-2026.zip": {
-          "checksum": "4ada064608b5df7678f2fc19fed227ba",
-          "size": 2425491
+          "checksum": "39eda640557bb42a32d6a2337b288026",
+          "size": 2435677
         }
       }
     },
     "CKS-LEX-7-2026": {
       "zenodo_id": 18878594,
       "doi": "10.5281/zenodo.18878594",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1d988135bdc018aa83eadf4397482ca08c2d6e03ab7a71bb1369d015eb0f2c40",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "fa7a6023df9c58b46590889c92ecddc3",
-          "size": 85085
+          "checksum": "18416a6d4be692bf72a3e586c137a3cd",
+          "size": 85092
         },
         "CKS-LEX-7-2026.zip": {
-          "checksum": "f50cdc33f9e78c4451e4526c42076934",
-          "size": 2438140
+          "checksum": "adf98e42fdde34d48437024d1c34938f",
+          "size": 2450980
         }
       }
     },
     "CKS-LEX-8-2026": {
       "zenodo_id": 18878596,
       "doi": "10.5281/zenodo.18878596",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "538296292a6d95dab1ad5351de8f236bb4b49d64a506ee6a43689bce828f452e",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3f24d87c9ffd835ebad78e3e22b2047e",
-          "size": 85548
+          "checksum": "e0607bdad10b8e77e8d1a2f84adc9f49",
+          "size": 85553
         },
         "CKS-LEX-8-2026.zip": {
-          "checksum": "ffc264d800a13ba9d3118a70a48aedd6",
-          "size": 2437148
+          "checksum": "40cc649bd4b497677a5d301017366a31",
+          "size": 2449340
         }
       }
     },
     "CKS-LEX-9-2026": {
       "zenodo_id": 18878598,
       "doi": "10.5281/zenodo.18878598",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "da9852feebf0938838bcb83fd98f1a734f3293ca3128f77c3085d53dd177797f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "dea539623900a78b032316bc4e1b857f",
-          "size": 101033
+          "checksum": "e39aff8ad68619298c2b5ebe8cc83b51",
+          "size": 101038
         },
         "CKS-LEX-9-2026.zip": {
-          "checksum": "0065f4f841fa33ded373f79cd37a9121",
-          "size": 2458835
+          "checksum": "9585d012b53e6daa2df481f53d27486f",
+          "size": 2474312
         }
       }
     },
     "CKS-LOGI-1-2026": {
       "zenodo_id": 18878600,
       "doi": "10.5281/zenodo.18878600",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d234a37f3c6c216d6b0041fc4dbd6df454a25956388e32aa54b5476636f0b3a8",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "30a21b6d18763c530cb72b33503f2cb1",
-          "size": 111596
+          "checksum": "c0baa91d3a5abcc1873e567234e9c91a",
+          "size": 111605
         },
         "CKS-LOGI-1-2026.zip": {
-          "checksum": "e047630be0cb51a4072ed62a0c901e70",
-          "size": 2470845
+          "checksum": "a2aa8e5f4cc3924dbf5872d31370704c",
+          "size": 2487340
         }
       }
     },
     "CKS-LOGI-10-2026": {
       "zenodo_id": 18878602,
       "doi": "10.5281/zenodo.18878602",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1c8fa8942a56408a052c3c0512eff425e5e38895dc1904bb424f8cf6ba9967ff",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "bc2bef2f0655971edb0402346e8a0456",
-          "size": 99907
+          "checksum": "f0185e5982e21267310c1a05b38ed2ed",
+          "size": 99914
         },
         "CKS-LOGI-10-2026.zip": {
-          "checksum": "9027b116d306c111623dd8eb4b809fe8",
-          "size": 2453483
+          "checksum": "839104c5e398607bc78c84e6df1893e2",
+          "size": 2466051
         }
       }
     },
     "CKS-LOGI-11-2026": {
       "zenodo_id": 18878604,
       "doi": "10.5281/zenodo.18878604",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "74f7b86350697b35b4138ae4a0d6ae255f9739b97a38e1fd19806c399e8685d0",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "6465816ae11dc4b24e5ba3a7becf9eaf",
-          "size": 89252
+          "checksum": "329a10ad3a8f739b8c6ffde0090cba11",
+          "size": 89251
         },
         "CKS-LOGI-11-2026.zip": {
-          "checksum": "d1395a1837fab116a18058fad7761501",
-          "size": 2440328
+          "checksum": "86f602e67f89a052f4bee214a1d12c56",
+          "size": 2452042
         }
       }
     },
     "CKS-LOGI-12-2026": {
       "zenodo_id": 18878606,
       "doi": "10.5281/zenodo.18878606",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "92d40f34c3bbf0687111d7744833d3254f1b40004cd69e947945260807b760a7",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "477bc2ec6f30fb9b94b860dd79b3e8cc",
+          "size": 128980
         },
         "CKS-LOGI-12-2026.zip": {
-          "checksum": "e979baf3431b8b1a89d1f56c026b873d",
-          "size": 2443027
+          "checksum": "2103726badf8306f8d9f1f9f4388ddaf",
+          "size": 2514428
         }
       }
     },
     "CKS-LOGI-13-2026": {
       "zenodo_id": 18878610,
       "doi": "10.5281/zenodo.18878610",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "342c5509d32b71d6ca035870bf795355898384085332b1073fce9f39557ede13",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "831ecb9a8d2136b14e54c70b9a743d27",
-          "size": 93839
+          "checksum": "0745fb39ea5b662563fa374d56a000ce",
+          "size": 93903
         },
         "CKS-LOGI-13-2026.zip": {
-          "checksum": "a0a5874d9d5e50eacae34fcb2e94e9cf",
-          "size": 2448294
+          "checksum": "6e0fbb79f09250468e28cc5e6fcfbb0c",
+          "size": 2461773
         }
       }
     },
     "CKS-LOGI-2-2026": {
       "zenodo_id": 18878613,
       "doi": "10.5281/zenodo.18878613",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3fe2f6e6c40612ab83de98e44dd8c62e8c60e207d5362e42c740e93ea7a2c697",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "07ff8bbe5afec577bc1b001438b3f704",
-          "size": 62706
+          "checksum": "5745d059d478ced1e35c57fa1f01eeec",
+          "size": 62707
         },
         "CKS-LOGI-2-2026.zip": {
-          "checksum": "e502373fb621a7e706e8931203da65c2",
-          "size": 2406718
+          "checksum": "55282503d8f03591d90220ab4d517fb5",
+          "size": 2414922
         }
       }
     },
     "CKS-LOGI-3-2026": {
       "zenodo_id": 18878615,
       "doi": "10.5281/zenodo.18878615",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "6c44df9794d2b73dff75e1d945c8ec262609ac1ed34b8108d59b1ee438a3b4cf",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f346a35264127d75bc82d7c68ad1887a",
-          "size": 52440
+          "checksum": "230c040093586c63ddaaad7ce6d7ed69",
+          "size": 52438
         },
         "CKS-LOGI-3-2026.zip": {
-          "checksum": "580e612bfd090944641c599236f2be1a",
-          "size": 2395637
+          "checksum": "3c08c9b48361f1597785d2e6625809f8",
+          "size": 2402353
         }
       }
     },
     "CKS-LOGI-4-2026": {
       "zenodo_id": 18878618,
       "doi": "10.5281/zenodo.18878618",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "68a7b8771160288a17b895b6acef4fcfee6dce458812f3113baff7eb6facd4b5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ac5551587055100684709b6f598262db",
-          "size": 84479
+          "checksum": "c9d44b47d3f4e626930c5078c5174bd0",
+          "size": 84478
         },
         "CKS-LOGI-4-2026.zip": {
-          "checksum": "2a06a83258e41c23e3f2516c8dc8c98d",
-          "size": 2436019
+          "checksum": "8758e0a22e48f88df0d13cbac5e8fd93",
+          "size": 2448091
         }
       }
     },
     "CKS-LOGI-5-2026": {
       "zenodo_id": 18878622,
       "doi": "10.5281/zenodo.18878622",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "28bf53d2d4d7209757637500f9f7df323f6c2e34e23be148ad7b59e00e0a52d4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "e19dff5b4669be4ab4b6bccf84cc0eca",
-          "size": 158243
+          "checksum": "a715db1bb5a3e72269c8a16a11f9681b",
+          "size": 158244
         },
         "CKS-LOGI-5-2026.zip": {
-          "checksum": "fb460eedeb55099cf95688396b80cb2d",
-          "size": 2539249
+          "checksum": "12366d386dc2cf2c6d4871b1e6886269",
+          "size": 2567720
         }
       }
     },
     "CKS-LOGI-6-2026": {
       "zenodo_id": 18878626,
       "doi": "10.5281/zenodo.18878626",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "6cf021b8e7ffb549a740e490c2350ea524c3204406b7615b56289a3f2f003b08",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "5d06729685989fa4832ac11a5fae57ce",
+          "size": 171078
         },
         "CKS-LOGI-6-2026.zip": {
-          "checksum": "048c08b98c2916f717ab3bcaecfb1edf",
-          "size": 2459700
+          "checksum": "c3a2ec0164369a5de43c560ce35c7ecb",
+          "size": 2580720
         }
       }
     },
     "CKS-LOGI-7-2026": {
       "zenodo_id": 18878628,
       "doi": "10.5281/zenodo.18878628",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "344cb115f1101c47f3a6ee08386adab2de70b5d0734c111bca545098cf636197",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "228d0da9c5330f809f31b800a77ceb28",
-          "size": 155648
+          "checksum": "af9042dd7fda063c852648d5c64e5472",
+          "size": 155647
         },
         "CKS-LOGI-7-2026.zip": {
-          "checksum": "f49f80ac494b2e26e6841225d4c617fe",
-          "size": 2536503
+          "checksum": "b305be4e83f78b2a031d2ec81ae95de3",
+          "size": 2564982
         }
       }
     },
     "CKS-LOGI-8-2026": {
       "zenodo_id": 18878632,
       "doi": "10.5281/zenodo.18878632",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2c158fba8579b636436978fcacec926103b08df1d14dab68b981202cdc436bb3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "114e216e007eafbe028117e5ee29e747",
-          "size": 97492
+          "checksum": "666a8eb8c1486671aea30f4b10e0255b",
+          "size": 97495
         },
         "CKS-LOGI-8-2026.zip": {
-          "checksum": "81f5b1b438002a3b03a1c0c4450a5dab",
-          "size": 2457866
+          "checksum": "c463848eae171a8e9029b2e8e02499f0",
+          "size": 2474963
         }
       }
     },
     "CKS-LOGI-9-2026": {
       "zenodo_id": 18878639,
       "doi": "10.5281/zenodo.18878639",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a2df4800d49ebc7fb76e86022b052d6ffefaa820e91dcc7a1eec34c682a147f9",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ec615a460722e4247f5ef62393bf07dd",
-          "size": 110881
+          "checksum": "6b05291d8e36b02a92edd0914234a578",
+          "size": 110877
         },
         "CKS-LOGI-9-2026.zip": {
-          "checksum": "68c072fa83fe699b286d97b14ad438bf",
-          "size": 2474375
+          "checksum": "2305f5fee4a26dcec2fd26842d3316c3",
+          "size": 2493176
         }
       }
     },
     "CKS-MAT-5-2026": {
       "zenodo_id": 18878641,
       "doi": "10.5281/zenodo.18878641",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "518482bbb0c002f24a5c76a9684055d386768d67b4089e70af306869469c2da7",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "163892c7b19d68855333aa7face0cb57",
-          "size": 101288
+          "checksum": "74f25ce81cdf2629eb1a15699c2f91a6",
+          "size": 101314
         },
         "CKS-MAT-5-2026.zip": {
-          "checksum": "8fd5ab92b2908ced5aaa1ca44e37b2d7",
-          "size": 325769
+          "checksum": "2358d9a97475daf3edb8823facb93469",
+          "size": 339894
         }
       }
     },
     "CKS-MATH-100-2026": {
       "zenodo_id": 18878643,
       "doi": "10.5281/zenodo.18878643",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5d658fba12b72f2920e6f1d59bb7fae4d6c8e8c535b7890b63f59ba4d088cdd1",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "0cc983696bb1cebd9586be267533cd7f",
-          "size": 282629
+          "checksum": "25a45988be09d7b8bb2e61a75a24f491",
+          "size": 282630
         },
         "CKS-MATH-100-2026.zip": {
-          "checksum": "755cbc83be97bfc216dc8a9165f9ff12",
-          "size": 2717398
+          "checksum": "2e291806d28aeee789ad53436f89e1f3",
+          "size": 2774180
         }
       }
     },
     "CKS-MATH-101-2026": {
       "zenodo_id": 18878645,
       "doi": "10.5281/zenodo.18878645",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "166f11f78e358b42355d6a1a9cda3c88950ae93efee2d8735978e381a6c7464c",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5e37f393670a508b6490703d524fa422",
-          "size": 329949
+          "checksum": "aa6c4edd6a233abbb905cf5c95800c44",
+          "size": 330003
         },
         "CKS-MATH-101-2026.zip": {
-          "checksum": "68f49f6cf8d03fea628008ca8cc0c68e",
-          "size": 2783491
+          "checksum": "c20a486dec148ed02189ffe5e89c9f95",
+          "size": 2851131
         }
       }
     },
     "CKS-MATH-102-2026": {
       "zenodo_id": 18878647,
       "doi": "10.5281/zenodo.18878647",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7462056f5fb8aacb4a26bd2769efa99e68cf8733b46d9b5981b98a970a9ec19d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "6a66594990eb1ccc7a1712850a097cbd",
-          "size": 267210
+          "checksum": "c377b9e1d82e5723bc29133f91cb2776",
+          "size": 267280
         },
         "CKS-MATH-102-2026.zip": {
-          "checksum": "fddaf144a9c90eb785e0b86887e84a0c",
-          "size": 2686565
+          "checksum": "cbcbebb39890c2a44cb3feac57044795",
+          "size": 2735205
         }
       }
     },
     "CKS-MATH-103-2026": {
       "zenodo_id": 18878649,
       "doi": "10.5281/zenodo.18878649",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "e36fee30fa9426204a3294d132ad36508b39bd85d3bb959557d51e4b9db4b402",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8dbeb945ae2d007efc585f83be5e705c",
-          "size": 80749
+          "checksum": "91f31355a1b6b1cf84ced557d1a41b47",
+          "size": 80756
         },
         "CKS-MATH-103-2026.zip": {
-          "checksum": "4bdcb20b392002b2b81803fc6828e990",
-          "size": 2429943
+          "checksum": "239b764db5115d02d8b11469bce293a3",
+          "size": 2440059
         }
       }
     },
     "CKS-MATH-104-2026": {
       "zenodo_id": 18878651,
       "doi": "10.5281/zenodo.18878651",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2422a92c2cf2fafe6e731e25086f19ce6f48526a83d10603547d3904b1bd28ae",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "bc5303c86c79869fb24f3f24a4d364ff",
-          "size": 167733
+          "checksum": "cd0cb859084f56dddb702815595ee690",
+          "size": 167722
         },
         "CKS-MATH-104-2026.zip": {
-          "checksum": "1a33d89713c5416db74242c395446a62",
-          "size": 2549845
+          "checksum": "014fff405d89d2dc43a79a3a7dcac015",
+          "size": 2578219
         }
       }
     },
     "CKS-MATH-105-2026": {
       "zenodo_id": 18878653,
       "doi": "10.5281/zenodo.18878653",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "69085638f497c189ae82612e37c0285e480ca4fad905b939e359080c9cbacf34",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ef7e1eeb90734c53d3abf52fbea03210",
-          "size": 96958
+          "checksum": "ace2cd1071ce83abf4ceeabeba9c9c56",
+          "size": 97001
         },
         "CKS-MATH-105-2026.zip": {
-          "checksum": "8e015ff6f4057b1d22975b35c4495482",
-          "size": 2456019
+          "checksum": "eb4d7e4ba52ae5eafaada006ebb51c39",
+          "size": 2471781
         }
       }
     },
     "CKS-MATH-106-2026": {
       "zenodo_id": 18878655,
       "doi": "10.5281/zenodo.18878655",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "65ef74ea4bd416d4a591f82343d7083bc25609babf95cff8e547b627ed3f9fd9",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "4ac3e78ea09fdd110015c536579799bd",
+          "size": 93630
         },
         "CKS-MATH-106-2026.zip": {
-          "checksum": "02b052ec629f113c3f0e1d5818b0eca2",
-          "size": 2427949
+          "checksum": "9dbfa26da742564a408047ccfcf94143",
+          "size": 2458566
         }
       }
     },
     "CKS-MATH-107-2026": {
       "zenodo_id": 18878657,
       "doi": "10.5281/zenodo.18878657",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9c7bb4cb9ff2d0e5774c77e88af23f9a48aff0635007bcdd4bef94fabc4c6fc2",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "4e68e3afd99cd19f49728eaca04ed579",
+          "size": 94473
         },
         "CKS-MATH-107-2026.zip": {
-          "checksum": "fd200ee109e64ab68fb0108119137057",
-          "size": 2428935
+          "checksum": "17880543c9330d42e8e63e1b2dce2b2a",
+          "size": 2460555
         }
       }
     },
     "CKS-MATH-108-2026": {
       "zenodo_id": 18878661,
       "doi": "10.5281/zenodo.18878661",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "08ca33db54424f080f72e495ff56639f4f03a68dff9ce93793db8483a5bede34",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "03fd14555ba8da0361c0282155152933",
-          "size": 81223
+          "checksum": "85abe9b4e7369314f9b854647ac70205",
+          "size": 81302
         },
         "CKS-MATH-108-2026.zip": {
-          "checksum": "1ab176233dfa3f1d4f08232746ee8f4d",
-          "size": 2430673
+          "checksum": "8e428f3e9dda8f459fb351e93677c94f",
+          "size": 2441188
         }
       }
     },
     "CKS-MATH-109-2026": {
       "zenodo_id": 18878663,
       "doi": "10.5281/zenodo.18878663",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8f1cb0e06c865750be9b30388b88f9e5b3855ad204162f2b3f246aed73c9389a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a3f292654bdc74a150ff07d5333423fc",
-          "size": 72467
+          "checksum": "0634dbe0399cf598dac4b9c1a66653ac",
+          "size": 72469
         },
         "CKS-MATH-109-2026.zip": {
-          "checksum": "242d5a1e5e03ea131662ab3578d0cc82",
-          "size": 2418374
+          "checksum": "7e8178049bfbaecc82a799343e4de322",
+          "size": 2426947
         }
       }
     },
     "CKS-MATH-110-2026": {
       "zenodo_id": 18878665,
       "doi": "10.5281/zenodo.18878665",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f6667c5694e9b0d97952e76687b0d779c070cfa9eca88df27a47c19c6e0f7d7f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "d91d2cf0cd668f0430b6cda84f4d26bd",
+          "checksum": "e1466644029ce6e4ba6d51a7f46e20ff",
           "size": 79550
         },
         "CKS-MATH-110-2026.zip": {
-          "checksum": "173d855be36a8427d14610ee727b1ecf",
-          "size": 2428966
+          "checksum": "115ef25ba4911efae0db903ded78f135",
+          "size": 2439775
         }
       }
     },
     "CKS-MATH-111-2026": {
       "zenodo_id": 18878667,
       "doi": "10.5281/zenodo.18878667",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "634fab0bc6db196930cbdb848caf8e99f4d37bda801f50db794d59bc43f684eb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "21d5110782d32008570cea58b64e0ac8",
-          "size": 75665
+          "checksum": "6865be90de5b361894f99e3155c7989b",
+          "size": 75660
         },
         "CKS-MATH-111-2026.zip": {
-          "checksum": "fdad71584237df3bb3b6538d81ec0d4d",
-          "size": 2422898
+          "checksum": "d4e3a87addd4b637522583eba8b0d3f9",
+          "size": 2432279
         }
       }
     },
     "CKS-MATH-112-2026": {
       "zenodo_id": 18878670,
       "doi": "10.5281/zenodo.18878670",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "356b61ed186fc9f45f048520ede0529580ad6951864f691ac62034d345d20287",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5ce34c8afa72825912b2d6e65f84135b",
+          "checksum": "6eb1cba285a75b4b82d13632ed60e605",
           "size": 74783
         },
         "CKS-MATH-112-2026.zip": {
-          "checksum": "b4c7ad84140ff45927620a693fb7ef2a",
-          "size": 2420463
+          "checksum": "8ca9383b863678a547d7119cc6db093c",
+          "size": 2429244
         }
       }
     },
     "CKS-MATH-113-2026": {
       "zenodo_id": 18878672,
       "doi": "10.5281/zenodo.18878672",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ebc8a18c3bf227939442a5d6117715b3f1fc910c37680a2218478fb550b5b07f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "262cc4d08e2da7616429c807ee964d53",
-          "size": 75692
+          "checksum": "ff4019f2a119168388b18ae4efaa8785",
+          "size": 75691
         },
         "CKS-MATH-113-2026.zip": {
-          "checksum": "e53e3ba010529c86e9f82ef44afd7771",
-          "size": 2422740
+          "checksum": "801e8acba407df3ce3dd832c35052d3b",
+          "size": 2431715
         }
       }
     },
     "CKS-MATH-114-2026": {
       "zenodo_id": 18878674,
       "doi": "10.5281/zenodo.18878674",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c02470dc6c073d2f61192f732f853f8e71a7f5273a9b8b358d1c094ef9fc2435",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "853dd81612e2c5a8a5d3f21929ef5528",
-          "size": 92755
+          "checksum": "da384a2929539d121f3dbfeb9e6b059e",
+          "size": 92760
         },
         "CKS-MATH-114-2026.zip": {
-          "checksum": "7d5e2f761b1e46a73cc08b39b292ed0e",
-          "size": 2446585
+          "checksum": "10a470f0e2223ae58110ec481ffe5fea",
+          "size": 2459654
         }
       }
     },
     "CKS-MATH-115-2026": {
       "zenodo_id": 18878676,
       "doi": "10.5281/zenodo.18878676",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d8166472dc746373809f5d86ba2888e34bed975ddfd1c2ce258f3c3d0a603941",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3195b76922e3819992a92f27c05824f0",
-          "size": 84112
+          "checksum": "3be7acb7ab89c3e1d093b64c594564e0",
+          "size": 84111
         },
         "CKS-MATH-115-2026.zip": {
-          "checksum": "7f26b27978c625aed2c2588973a431ea",
-          "size": 2435920
+          "checksum": "65445cea079b971d8a98d18e789dca19",
+          "size": 2447720
         }
       }
     },
     "CKS-MATH-116-2026": {
       "zenodo_id": 18878678,
       "doi": "10.5281/zenodo.18878678",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "0da962004c6b593507103ee8a97acd859bc1fd1dedbfff9e286ce9268aac8aa3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "35bd9294f8183318a8bc31ffa4e93358",
-          "size": 94875
+          "checksum": "ea23f85687a203099c5ab5a3e27a079e",
+          "size": 94874
         },
         "CKS-MATH-116-2026.zip": {
-          "checksum": "2331d7eeda1ad6751b06523f3f0f9497",
-          "size": 2447974
+          "checksum": "46a3f0d18f7d2a8e0c8e54d4b9cb91a5",
+          "size": 2460688
         }
       }
     },
     "CKS-MATH-117-2026": {
       "zenodo_id": 18878680,
       "doi": "10.5281/zenodo.18878680",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "dd04745078297c678b449ffb54caed01d9f6682d682c7fe9f358c4d81101cbc1",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5b571df9abf8db126eacf2a6c158e6ab",
-          "size": 74415
+          "checksum": "c75dd42e249a6869b3161fdc4d0c258a",
+          "size": 84685
         },
         "CKS-MATH-117-2026.zip": {
-          "checksum": "cbcd49004532960d97cfb0c976298ec5",
-          "size": 2423891
+          "checksum": "f0f8d6f51eda085adbdd49ca35818e2d",
+          "size": 2444055
         }
       }
     },
     "CKS-MATH-118-2026": {
       "zenodo_id": 18878682,
       "doi": "10.5281/zenodo.18878682",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5ada2dae5beb417f8dfa83387ec0e91d7b3da49320f74f2894943f285ed98275",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "878322ef75a41888fd4aae458c564c4e",
-          "size": 112779
+          "checksum": "e9335959187a0fc4bd93cc59406151b4",
+          "size": 112771
         },
         "CKS-MATH-118-2026.zip": {
-          "checksum": "6b4587f8e528db3bd6da3dae5e2a367d",
-          "size": 2471299
+          "checksum": "bc0a62b9d498a904575c42197478ef07",
+          "size": 2487198
         }
       }
     },
     "CKS-MATH-119-2026": {
       "zenodo_id": 18878687,
       "doi": "10.5281/zenodo.18878687",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "4c65f992cc67da2fe5290046b659cfa3a06fdd29229b9173a260da961d432977",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9e5b01ac86336289fecafb69c25e9668",
-          "size": 109906
+          "checksum": "3d566454522ba30cdb42f30d636549e0",
+          "size": 109902
         },
         "CKS-MATH-119-2026.zip": {
-          "checksum": "aab19b105fbf7c7fc72e6730a217110b",
-          "size": 2468028
+          "checksum": "ce15949eedeb429060acb4c31a27763c",
+          "size": 2483583
         }
       }
     },
     "CKS-MATH-120-2026": {
       "zenodo_id": 18878689,
       "doi": "10.5281/zenodo.18878689",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "4b1df6f62419acff9c900ecfd97925f73459dda4ac95df340ce3467aaa52f560",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "7e6366e745dc03a42c9477c8468222e7",
-          "size": 108872
+          "checksum": "445e356618f8bc25335d6c631c72f2f0",
+          "size": 108871
         },
         "CKS-MATH-120-2026.zip": {
-          "checksum": "af21b771cceb3bbf67d4e9ce10771ba1",
-          "size": 2469558
+          "checksum": "c8ad48bef0625e9b5dd254550fc9bfc5",
+          "size": 2486140
         }
       }
     },
     "CKS-MATH-121-2026": {
       "zenodo_id": 18878691,
       "doi": "10.5281/zenodo.18878691",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a957f992ee2dc1db6bbef7f795e28c4830c80aac92d4fd0ec3ac0854c4eec712",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b9cd77cb637662242eb438589c8e51b9",
-          "size": 110787
+          "checksum": "a1d361008202e635328ee00d46dd7f31",
+          "size": 110789
         },
         "CKS-MATH-121-2026.zip": {
-          "checksum": "74c15a7141b65ed4f85a13724506c5bd",
-          "size": 2470766
+          "checksum": "8060cbb6215949899952174c170a3869",
+          "size": 2487071
         }
       }
     },
     "CKS-MATH-122-2026": {
       "zenodo_id": 18878693,
       "doi": "10.5281/zenodo.18878693",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "cc90927c661b8a59485c5934a095d6dfff4d5994005f01f4a5a7de89320b8fe9",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "0bad0559f48b0481f9cb0fcee92e3bc1",
-          "size": 102764
+          "checksum": "359ffa94bac99b0615499ed835097f69",
+          "size": 102766
         },
         "CKS-MATH-122-2026.zip": {
-          "checksum": "47144939e2aa4d961efb82069e019b95",
-          "size": 2459692
+          "checksum": "e5f5ebcb8a5280232680deeafeaa9323",
+          "size": 2474448
         }
       }
     },
     "CKS-MATH-123-2026": {
       "zenodo_id": 18878697,
       "doi": "10.5281/zenodo.18878697",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ea4ab4b7ef000ff8cba471e6db096b19073e5ca7b04c7b624a771068bc2d7a07",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "30b17af77f8c8b04540c58ea0ade284e",
-          "size": 76161
+          "checksum": "bb5be6e478132061d4f94492635749ba",
+          "size": 76163
         },
         "CKS-MATH-123-2026.zip": {
-          "checksum": "80b0585f4a6bc23a93e14c7084226a7e",
-          "size": 2427284
+          "checksum": "086d6fcc8ac84d9ba5c0622fbc0e5d70",
+          "size": 2438841
         }
       }
     },
     "CKS-MATH-124-2026": {
       "zenodo_id": 18878699,
       "doi": "10.5281/zenodo.18878699",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "216719fcbcf90096f8a7ca102d581b07ef11a257fcf3019e94e44847ba7e49f6",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "294c9a171280baf37c0ee2217c18dac4",
-          "size": 75138
+          "checksum": "acc02a31d0d51beb028824c67ac48376",
+          "size": 75130
         },
         "CKS-MATH-124-2026.zip": {
-          "checksum": "1b0599b2c829a17702acf48b9a840aee",
-          "size": 2427675
+          "checksum": "bf70803496a86b98c77db6dc4ce36f2d",
+          "size": 2439543
         }
       }
     },
     "CKS-MATH-126-2026": {
       "zenodo_id": 18878705,
       "doi": "10.5281/zenodo.18878705",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8279c72e3d305f34b1415b1a39c2af005e3fc2b1f8e79a27150e072870868aea",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "bf24393f00d081e3b63f77e9deacbc8d",
-          "size": 82216
+          "checksum": "c1106f4a195459f02242baa6cac4c801",
+          "size": 82213
         },
         "CKS-MATH-126-2026.zip": {
-          "checksum": "e6ba75c687ab77a5c7d9d36dfdf503da",
-          "size": 2434446
+          "checksum": "e861e5acb1cd0d8d1f73ccdfa817b751",
+          "size": 2446355
         }
       }
     },
     "CKS-MATH-23-2026": {
       "zenodo_id": 18878708,
       "doi": "10.5281/zenodo.18878708",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "466658863bc25848fb8b0a52ad2f2103edbc4eae75e023c15e98fe5663d92191",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "e096aea4a1d8e89a3fa0f396b0c0ac59",
-          "size": 42799
+          "checksum": "6df70a13dfaec074b25991574f4199fa",
+          "size": 42804
         },
         "CKS-MATH-23-2026.zip": {
-          "checksum": "edf83d43d1307bd3786e76f31b4c6023",
-          "size": 2377129
+          "checksum": "21d99332c859e933139d87d9fe3c9534",
+          "size": 2379818
         }
       }
     },
     "CKS-MATH-24-2026": {
       "zenodo_id": 18878710,
       "doi": "10.5281/zenodo.18878710",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1afa24808782d70fc06e89f35a09b2e8455bf939e56f8611476607d739a3b312",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "daf1729988278643967bdb0a846a76b9",
-          "size": 90152
+          "checksum": "66446a1bfc0bd0fed4ce13c9bf4dadf9",
+          "size": 90153
         },
         "CKS-MATH-24-2026.zip": {
-          "checksum": "63c961b6e4bd6e00f5c80508e151450f",
-          "size": 2443442
+          "checksum": "922181f4c7af33d8d63c72bcfcb112a4",
+          "size": 2456463
         }
       }
     },
     "CKS-MATH-25-2026": {
       "zenodo_id": 18878712,
       "doi": "10.5281/zenodo.18878712",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "b44599674ec096b82ab109e986c14d505f9b136956b40ca54fba086e813b4b1a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b0914b2dda462cba28ac4cc47534ff6e",
-          "size": 81517
+          "checksum": "fe4abdd8f1afe2eb45e332411e36fefb",
+          "size": 81568
         },
         "CKS-MATH-25-2026.zip": {
-          "checksum": "785a29ceb9bf8840ad53e264f6339e1e",
-          "size": 2427841
+          "checksum": "4ff0ae479a16a705efbbf1fe24c3208f",
+          "size": 2437436
         }
       }
     },
     "CKS-MATH-26-2026": {
       "zenodo_id": 18878716,
       "doi": "10.5281/zenodo.18878716",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "0625723f932336d80ab62ae69bc2f4b86d446748234b92486858e03daa073028",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "1a8d57b4e6d4ad462fb084df634154a1",
-          "size": 89875
+          "checksum": "17d7a8892631194eb5ca137fe11e0e6e",
+          "size": 89887
         },
         "CKS-MATH-26-2026.zip": {
-          "checksum": "40de62d5bf99403d0131bd8179ad0e08",
-          "size": 2442011
+          "checksum": "a61f27d6a6b55c9c640b88c5b3b421ac",
+          "size": 2454494
         }
       }
     },
     "CKS-MATH-27-2026": {
       "zenodo_id": 18878718,
       "doi": "10.5281/zenodo.18878718",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "e3bcce1281bb04a2f7373cd19a60d0e4cb19538c9668544da4d536dffb86132b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "ae5bf53b45eb526b5eefe0a7b2d20842",
+          "size": 102958
         },
         "CKS-MATH-27-2026.zip": {
-          "checksum": "c8bd6350723b6ddc38feaf05194b4dbc",
-          "size": 2430801
+          "checksum": "50f021a7d6d85966ad752cd80b0be3d7",
+          "size": 2472634
         }
       }
     },
     "CKS-MATH-28-2026": {
       "zenodo_id": 18878721,
       "doi": "10.5281/zenodo.18878721",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "b20cd4dd5e397ae0e9f9f127851090bc2f77349bbbb7eab8b64c7c57d36a9dea",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "2d97e038404f5cc6454b724a5d03a430",
+          "size": 95238
         },
         "CKS-MATH-28-2026.zip": {
-          "checksum": "7ab02abca6d645d3c848d9dccbb220d5",
-          "size": 2426629
+          "checksum": "0269643a0db74db671d1e531af5cfdf5",
+          "size": 2458833
         }
       }
     },
     "CKS-MATH-29-2026": {
       "zenodo_id": 18878725,
       "doi": "10.5281/zenodo.18878725",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "901ed65722d4ff63fcd77e212fe03699b05ce69495afbc57008d500d8d494b66",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "36eee57d15f892d6326d6dac7e136463",
+          "size": 101874
         },
         "CKS-MATH-29-2026.zip": {
-          "checksum": "341650341d9b8fb64718da97891cc8c0",
-          "size": 2428946
+          "checksum": "ba904d31d9a38f12d14053b5a6c55418",
+          "size": 2468765
         }
       }
     },
     "CKS-MATH-30-2026": {
       "zenodo_id": 18878727,
       "doi": "10.5281/zenodo.18878727",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "78abfe746fdb5078e835fe21a029f98cd1caa29cf4cea7820cd47ce5fb692c2a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "699353e6a0b9b6c26ca61e90b625d543",
-          "size": 86550
+          "checksum": "a46c2577693a03c1bfd9495d350095d8",
+          "size": 86548
         },
         "CKS-MATH-30-2026.zip": {
-          "checksum": "a3a57004577c073a24c95aa45273dfeb",
-          "size": 2434816
+          "checksum": "15f92481ae5331ae2fa4f23abec1d38d",
+          "size": 2445415
         }
       }
     },
     "CKS-MATH-31-2026": {
       "zenodo_id": 18878729,
       "doi": "10.5281/zenodo.18878729",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d728e685c85237994a69d000566c968fb05d6900a5fd69e40a40e8836530de9e",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "efa2bfdad9765435545e25211e127beb",
-          "size": 69281
+          "checksum": "4bc85ef2a1640219304756ef6eeb13b1",
+          "size": 69286
         },
         "CKS-MATH-31-2026.zip": {
-          "checksum": "64916b3fe76f40209ca13081a435ce83",
-          "size": 2413469
+          "checksum": "b5f1041dcae28301ff7a86ebd293557d",
+          "size": 2421744
         }
       }
     },
     "CKS-MATH-32-2026": {
       "zenodo_id": 18878731,
       "doi": "10.5281/zenodo.18878731",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "bffc3d94772fa0b97b9415435b83469c8f1eee1426758401e257b531d8e60933",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8e599544363ddfb83c83c4e51a77aaac",
-          "size": 83746
+          "checksum": "7e5bca3dc8738ef4dea719019dbc67a8",
+          "size": 83738
         },
         "CKS-MATH-32-2026.zip": {
-          "checksum": "e899a80d35b9e69cc5cfc74b611318a3",
-          "size": 2431824
+          "checksum": "3722d634a528fafdd9025690f2e1d198",
+          "size": 2442278
         }
       }
     },
     "CKS-MATH-33-2026": {
       "zenodo_id": 18878733,
       "doi": "10.5281/zenodo.18878733",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8e80e906f0c7e295717ba477eed9433fccc82aa80bcb913a9555e0a66b7893b1",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ec83542824b824cfa3891a163ff68784",
-          "size": 81871
+          "checksum": "0c175933eaad7fcbd7a6122daea91eb0",
+          "size": 81867
         },
         "CKS-MATH-33-2026.zip": {
-          "checksum": "873dd735ee0dc04ef566ff800a178d85",
-          "size": 2429152
+          "checksum": "d5c5d50455f4be22b206d7aaa4c6a989",
+          "size": 2439259
         }
       }
     },
     "CKS-MATH-34-2026": {
       "zenodo_id": 18878735,
       "doi": "10.5281/zenodo.18878735",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f7c07d2523f7bb0fa4ce74fa324d5a63e3aca7a812e6d74d588c47335fa223d8",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "8054bcdd3d6fcc6ea07635a8fc14cda5",
+          "size": 37833
         },
         "CKS-MATH-34-2026.zip": {
-          "checksum": "470c2288abb226facfc446d12c17e14e",
-          "size": 2408949
+          "checksum": "7933d4ad9201236cc9676c55b4d37abe",
+          "size": 2376855
         }
       }
     },
     "CKS-MATH-35-2026": {
       "zenodo_id": 18878737,
       "doi": "10.5281/zenodo.18878737",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a5dc0a32a9307e18ebe15656a663c9ae6d0d4b3c89ee2b30e760fd72070d0aaf",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8a69a962dbfc6bcaed94d797d3ad85d9",
-          "size": 105354
+          "checksum": "fa2bd67ad8f1d007a4e5e156d767a461",
+          "size": 105399
         },
         "CKS-MATH-35-2026.zip": {
-          "checksum": "bd0a41118c6d10a1eb86d1aa7c1f38ac",
-          "size": 2457251
+          "checksum": "ce92c7ff4b535eee07186c7f8b51e438",
+          "size": 2469899
         }
       }
     },
     "CKS-MATH-36-2026": {
       "zenodo_id": 18878739,
       "doi": "10.5281/zenodo.18878739",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "b5d68c0938655e6f2aea81c83c647b8b54cc3d642df5ca4de1bb2d50871ea30b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "49ba462db9a303d868a912205ba39f2f",
-          "size": 68050
+          "checksum": "4d05a41be28f7f8ae7d52ddc90710acf",
+          "size": 68045
         },
         "CKS-MATH-36-2026.zip": {
-          "checksum": "356ef60c137001fa9f352917aab96161",
-          "size": 2410512
+          "checksum": "891403cfd737581458e85a8ebccf1479",
+          "size": 2418001
         }
       }
     },
     "CKS-MATH-37-2026": {
       "zenodo_id": 18878743,
       "doi": "10.5281/zenodo.18878743",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a81ec9dddceba8a405e43fa61948e24cce5be5e3e50276b3e8f644188953d9f6",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "70110f0d5409eafb4d23cf98db1ea43b",
+          "size": 59944
         },
         "CKS-MATH-37-2026.zip": {
-          "checksum": "84efe1de48abaf798ef7da37cfd69249",
-          "size": 2415779
+          "checksum": "e87e636ea73ba83ac1f4fd92862036e6",
+          "size": 2407967
         }
       }
     },
     "CKS-MATH-38-2026": {
       "zenodo_id": 18878745,
       "doi": "10.5281/zenodo.18878745",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "cf95a44bcfbefcb99ae0d3295aa6da8c317a49bcf0c47af48f96309abfb85c22",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "7f05a73c947d4f26a9c1f2aab7d272e9",
-          "size": 72599
+          "checksum": "a55004711280f4b079d0ff0a129706ac",
+          "size": 72595
         },
         "CKS-MATH-38-2026.zip": {
-          "checksum": "5234e458a967ba55717cba4a5c01545d",
-          "size": 2417018
+          "checksum": "598c30b203213917b6f6d704b2e6baa5",
+          "size": 2425517
         }
       }
     },
     "CKS-MATH-39-2026": {
       "zenodo_id": 18878747,
       "doi": "10.5281/zenodo.18878747",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "02584f46be20d71c794e152e8733b9132590eaee8fc603d48887f754a172a299",
       "files": {
         "!manuscript.pdf": {
@@ -2155,111 +2155,111 @@
           "size": 74401
         },
         "CKS-MATH-39-2026.zip": {
-          "checksum": "0dac00a36f930263b275e78dd5d9a908",
-          "size": 2410155
+          "checksum": "1176bb6afcda38cbc5d467d831d63397",
+          "size": 2414281
         }
       }
     },
     "CKS-MATH-40-2026": {
       "zenodo_id": 18878749,
       "doi": "10.5281/zenodo.18878749",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a3c467e44448ea18005a68e094f03b0bbe20ee70f5c5f409a3c6a44ef730fcac",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "e244fcff78a4a3ba47cebeafab2fb3d0",
+          "size": 61100
         },
         "CKS-MATH-40-2026.zip": {
-          "checksum": "d5993b6435e3ac41cdcc5cebf0163e67",
-          "size": 2415828
+          "checksum": "2b6029d8afe40a2da401a36ec96f5a82",
+          "size": 2409263
         }
       }
     },
     "CKS-MATH-41-2026": {
       "zenodo_id": 18878751,
       "doi": "10.5281/zenodo.18878751",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1fbf8647c5a604654209c6b29044a318ea655bc4140d5534b38346c50f643dd5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "d8e8f4bf4eaaeffa9c6ba14494816d03",
-          "size": 74315
+          "checksum": "7a81af8565a2797bebfb29abfa3207f2",
+          "size": 74317
         },
         "CKS-MATH-41-2026.zip": {
-          "checksum": "62547f8e1fb9a6eff7afda848f73d35e",
-          "size": 2418679
+          "checksum": "af3a3989a489731f44187bc7587061f1",
+          "size": 2427177
         }
       }
     },
     "CKS-MATH-42-2026": {
       "zenodo_id": 18878753,
       "doi": "10.5281/zenodo.18878753",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3260abf33441f300852f61f73b1a632e150c33102793262100ab634fe7a65be6",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "eb86935530aa2b37e2fc4bb61febb931",
+          "size": 61844
         },
         "CKS-MATH-42-2026.zip": {
-          "checksum": "31c0cccb6dac8393b386e871e783d04c",
-          "size": 2415689
+          "checksum": "b35c2a7331c49e9e7c0fafc4755d4d76",
+          "size": 2409734
         }
       }
     },
     "CKS-MATH-43-2026": {
       "zenodo_id": 18878757,
       "doi": "10.5281/zenodo.18878757",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "03339b88c00c5cffb2800deec5fcb859d40bfc6504a88356d90bf93c36f0cbbf",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "6f000730d616aab0daa4cc3a64c929ea",
-          "size": 70969
+          "checksum": "0279d93ef216dbcf50e464cf43880f48",
+          "size": 70966
         },
         "CKS-MATH-43-2026.zip": {
-          "checksum": "fab78b0dbe1f812a7e1ba6a9041f0a0f",
-          "size": 2413690
+          "checksum": "8f418a6dcd4a4db785820f1700bbccdd",
+          "size": 2421328
         }
       }
     },
     "CKS-MATH-44-2026": {
       "zenodo_id": 18878759,
       "doi": "10.5281/zenodo.18878759",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "fd49d0f777c284358e84cb9e634952d848c724a9ec5adf446011c4c2a9cf8882",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "0c6ce3c44767a4612d91780b8d69ee1c",
+          "size": 63580
         },
         "CKS-MATH-44-2026.zip": {
-          "checksum": "c803613193a616827f4c08447a9c812f",
-          "size": 2416778
+          "checksum": "b8061489cfb26e091541ebb390725497",
+          "size": 2413019
         }
       }
     },
     "CKS-MATH-45-2026": {
       "zenodo_id": 18878761,
       "doi": "10.5281/zenodo.18878761",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5ecd49efcc5f0153a9dc9dac7f214e648177e3b9cfc3d0698c782cb05d63088e",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "27e273839aa04a7947cf0c77aa34e488",
-          "size": 69148
+          "checksum": "0121f4f15c2948f7be9178363659d54e",
+          "size": 69152
         },
         "CKS-MATH-45-2026.zip": {
-          "checksum": "50066050e521025cac9f33e4f407825d",
-          "size": 2412297
+          "checksum": "eeedf3c4694bb1e0d1a2ad3401a713a6",
+          "size": 2420092
         }
       }
     },
     "CKS-MATH-46-2026": {
       "zenodo_id": 18878763,
       "doi": "10.5281/zenodo.18878763",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "cfe0a46d8872afbaec8f4d0c9e4c76ae7c5cbb407edbd4710658ea1cd61ac5a7",
       "files": {
         "!manuscript.pdf": {
@@ -2267,127 +2267,127 @@
           "size": 74401
         },
         "CKS-MATH-46-2026.zip": {
-          "checksum": "f6e83b64f75570233dbd041b667c706c",
-          "size": 2410303
+          "checksum": "3c99b1c2de7509684d4afb3cf4f3da0c",
+          "size": 2414505
         }
       }
     },
     "CKS-MATH-47-2026": {
       "zenodo_id": 18878765,
       "doi": "10.5281/zenodo.18878765",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "21740752078a982427fefb4fa153200e6bed036fc3c5bc0f0209e7fbef2505fa",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "235582b15f601ce3f243e74efd47c1d9",
+          "checksum": "af9026792adac854ba79355da1d3c429",
           "size": 69973
         },
         "CKS-MATH-47-2026.zip": {
-          "checksum": "08100b43507fe515c57f19dca4774dcb",
-          "size": 2414159
+          "checksum": "bbb4ee2672e66d8bf11a315a1de0ee7b",
+          "size": 2422520
         }
       }
     },
     "CKS-MATH-48-2026": {
       "zenodo_id": 18878769,
       "doi": "10.5281/zenodo.18878769",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "209ad631ba01cadd99867353fe2acb21599d95097e466375af997d2b5f5900b3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "325188e6305602d5dea1cbdf5689b1b4",
+          "size": 67940
         },
         "CKS-MATH-48-2026.zip": {
-          "checksum": "b90aff74c59ea47039f8abaeb3e992fa",
-          "size": 2418736
+          "checksum": "e34248e61c7e2aa17493afeee3bb932f",
+          "size": 2420123
         }
       }
     },
     "CKS-MATH-49-2026": {
       "zenodo_id": 18878771,
       "doi": "10.5281/zenodo.18878771",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "311b48e74d0dad3662d36f18b30841046e6d89ae484b3d6cf03efa5638fe12fe",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4d34611ddde89f1fe2a715744ffab7d2",
-          "size": 55151
+          "checksum": "e54b93a251ebc5bb19893f4fabddb49b",
+          "size": 55149
         },
         "CKS-MATH-49-2026.zip": {
-          "checksum": "f36249fd58037b26e230c3a363e24240",
-          "size": 2391201
+          "checksum": "58b4c0d540ac3e8d4473931b23c7e66c",
+          "size": 2394926
         }
       }
     },
     "CKS-MATH-50-2026": {
       "zenodo_id": 18878773,
       "doi": "10.5281/zenodo.18878773",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3c8f3d5ed0b4918f475b040794292919fdae4aba64c007d81dd97e4ddaec47b6",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "63b087836ad99cb74f41052dac342675",
+          "checksum": "3cd569832ea0e099bdd299cf1fdfc992",
           "size": 72612
         },
         "CKS-MATH-50-2026.zip": {
-          "checksum": "4bc90867ff78f9f7065eff41257cdd8b",
-          "size": 2417272
+          "checksum": "d2b5fdfe289e37a2e758dc7dc6ec5208",
+          "size": 2425984
         }
       }
     },
     "CKS-MATH-51-2026": {
       "zenodo_id": 18878775,
       "doi": "10.5281/zenodo.18878775",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8028c9304e582436b5339a6c14fef15011a35470773495bc329f701434a19518",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "88325d3cd8ef8e23c9cb9371c153a530",
-          "size": 70935
+          "checksum": "9e840fa8591083a4b83e7a1e6e6102f2",
+          "size": 70943
         },
         "CKS-MATH-51-2026.zip": {
-          "checksum": "e96b1166aa8087d617f48948cd6ba390",
-          "size": 2415232
+          "checksum": "5def162d7db676580c5e623a06464ad1",
+          "size": 2423667
         }
       }
     },
     "CKS-MATH-52-2026": {
       "zenodo_id": 18878779,
       "doi": "10.5281/zenodo.18878779",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "306c4b4d3773c16c5a835819492bad9ea7f59df88e53e3c4ad9503ffc913d9fd",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "210a9ce0bafcb9bf00fb21f9bbd87f36",
-          "size": 79595
+          "checksum": "7a67613530b0aff1fdc71e4f1cd9867d",
+          "size": 79592
         },
         "CKS-MATH-52-2026.zip": {
-          "checksum": "335804894f28d81cc20250985e090ecc",
-          "size": 2427004
+          "checksum": "5ce597915664e53a9b37352bd9af4bb5",
+          "size": 2437247
         }
       }
     },
     "CKS-MATH-53-2026": {
       "zenodo_id": 18878781,
       "doi": "10.5281/zenodo.18878781",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "884a6c4bb20c318c83e733d203c98df74553c2c390eddd85270a78f1622993f7",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "41dfd26b5ac26198c5212da3fe58943e",
-          "size": 72552
+          "checksum": "e81a4036819d95ab7f20af56af31d706",
+          "size": 72554
         },
         "CKS-MATH-53-2026.zip": {
-          "checksum": "554b7d1638a831c39f373484787ed866",
-          "size": 2410588
+          "checksum": "fe66487bc77aeae0aeeacd1078fa8250",
+          "size": 2415524
         }
       }
     },
     "CKS-MATH-54-2026": {
       "zenodo_id": 18878785,
       "doi": "10.5281/zenodo.18878785",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "0a744d20b79b827b1358247328c1a2ca02d606bc3944db026a4779564a9a9503",
       "files": {
         "!manuscript.pdf": {
@@ -2395,79 +2395,79 @@
           "size": 74401
         },
         "CKS-MATH-54-2026.zip": {
-          "checksum": "37c3674bf74503e3326073f069b67c4c",
-          "size": 2410127
+          "checksum": "5111a3e8b6e914a08c58823c1a0f6aaf",
+          "size": 2414243
         }
       }
     },
     "CKS-MATH-55-2026": {
       "zenodo_id": 18878787,
       "doi": "10.5281/zenodo.18878787",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f57e6084306117054017e00986fe87bd1166fb0454ad071bb3af5e61bfc93e07",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "ac202e6d5e08b432797cd19c4a7af939",
+          "size": 76322
         },
         "CKS-MATH-55-2026.zip": {
-          "checksum": "0c524554d68e6f743125e61c8090ef8a",
-          "size": 2419280
+          "checksum": "6ecff7c5bd45e7fe8765adf537340a09",
+          "size": 2430316
         }
       }
     },
     "CKS-MATH-56-2026": {
       "zenodo_id": 18878789,
       "doi": "10.5281/zenodo.18878789",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1bb06f029bf762a6014757269b65f49d2a6cef9319a8c734ba7386536285bdd6",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "eddf1caa0b206a9e98f473deec25ab14",
+          "size": 66336
         },
         "CKS-MATH-56-2026.zip": {
-          "checksum": "fde5d2c187d30f7d7c840f4ba57edd3d",
-          "size": 2418131
+          "checksum": "f5068061895b0994b2ed63476705ddce",
+          "size": 2417502
         }
       }
     },
     "CKS-MATH-57-2026": {
       "zenodo_id": 18878791,
       "doi": "10.5281/zenodo.18878791",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c79d27127d66b12ba331dbfc28afd3786916f956f71b9f282e5a3f56ad2fd8eb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ebfbad487d522463788b5e0ce0bb5b1f",
-          "size": 64948
+          "checksum": "0fdf25ea36dfc8d17cad40e410950882",
+          "size": 64947
         },
         "CKS-MATH-57-2026.zip": {
-          "checksum": "2c82189cc3e92e669c5885cd57a9404d",
-          "size": 2407365
+          "checksum": "91f3e8c5a5749f05c74c5dd5d2813860",
+          "size": 2414791
         }
       }
     },
     "CKS-MATH-58-2026": {
       "zenodo_id": 18878793,
       "doi": "10.5281/zenodo.18878793",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "b89f6bf5674d7279b7c22ebab3c3396b2d7cbdad660c16c7e0e1bab9b6f2bb8b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "617e23df63d133f88eb8def970458dc8",
+          "size": 66886
         },
         "CKS-MATH-58-2026.zip": {
-          "checksum": "356661dde3f47559bacc2e918e0c2849",
-          "size": 2417679
+          "checksum": "3a6101826a653cb30d7164aa0825caa3",
+          "size": 2417430
         }
       }
     },
     "CKS-MATH-59-2026": {
       "zenodo_id": 18878797,
       "doi": "10.5281/zenodo.18878797",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5d7a77e1a61938d17c203018f44afeec9c3bcf8fe0b8a10663c614660697eecc",
       "files": {
         "!manuscript.pdf": {
@@ -2475,111 +2475,111 @@
           "size": 74401
         },
         "CKS-MATH-59-2026.zip": {
-          "checksum": "b18cb37db024179c204b0640638f7a18",
-          "size": 2411182
+          "checksum": "ab82a01826ac8a1b1d90411e797e7b47",
+          "size": 2415824
         }
       }
     },
     "CKS-MATH-60-2026": {
       "zenodo_id": 18878799,
       "doi": "10.5281/zenodo.18878799",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1b5075887f62099f558f5f6f04c96014afa0782417594444d50c27cafbba4a54",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "e4e933fa8bd5044bb4a24f57d036079c",
-          "size": 64047
+          "checksum": "5476df01ded9a5d289201d41a02b1d31",
+          "size": 64042
         },
         "CKS-MATH-60-2026.zip": {
-          "checksum": "6a42fb854b0ca173939c864724be2f56",
-          "size": 2405190
+          "checksum": "4578704e92206a52d9331244f6d99896",
+          "size": 2411880
         }
       }
     },
     "CKS-MATH-61-2026": {
       "zenodo_id": 18878801,
       "doi": "10.5281/zenodo.18878801",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c5b517369e2a653f18f6110116b9b8fffa90e933608fca23de4fb57cadf5219e",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "2f4f43788ec2d97c21abac29516069dd",
-          "size": 62056
+          "checksum": "632d714f0edc0b088027f623917aeda7",
+          "size": 62062
         },
         "CKS-MATH-61-2026.zip": {
-          "checksum": "fea3e257203b1638160d244ca7c73531",
-          "size": 2403883
+          "checksum": "b5f424a9a185ce56e700524d8d40353b",
+          "size": 2410994
         }
       }
     },
     "CKS-MATH-62-2026": {
       "zenodo_id": 18878803,
       "doi": "10.5281/zenodo.18878803",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c57e1b44c854787d0788615c11f19cfefc52c615cac074a4e288fe490401cb81",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "dc9591012b7d796a4a09fe2147fd1ef2",
+          "size": 59038
         },
         "CKS-MATH-62-2026.zip": {
-          "checksum": "a33f10727153fe576d57f95595d6f53d",
-          "size": 2415052
+          "checksum": "f76e91d33d7c46f0a9e7599f3e644518",
+          "size": 2405850
         }
       }
     },
     "CKS-MATH-63-2026": {
       "zenodo_id": 18878805,
       "doi": "10.5281/zenodo.18878805",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c73efc4aa1567b975623eaa17c8fe549a9bc8114743c81eaa1940e3be11c7bdd",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3641cce9f1691676d6b5bad733cff332",
-          "size": 68096
+          "checksum": "a19ebdbf6d1ef1551272e99938c84a14",
+          "size": 68088
         },
         "CKS-MATH-63-2026.zip": {
-          "checksum": "18dcfc3ce2d0a8598887d9c109b21c92",
-          "size": 2414369
+          "checksum": "177906b910cca5ffc07a78856afea6c5",
+          "size": 2423816
         }
       }
     },
     "CKS-MATH-64-2026": {
       "zenodo_id": 18878809,
       "doi": "10.5281/zenodo.18878809",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f3dfb5e0d2cc7a28cd124bdbe3a520488ebd62f7be08fa48661653598bb6cd46",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "0fda2d5765fe52a32e67d3740bc80179",
+          "size": 60690
         },
         "CKS-MATH-64-2026.zip": {
-          "checksum": "001a57a45479c16adb6962b5adcd0655",
-          "size": 2415714
+          "checksum": "f69f3d7684b4e9de7d71694eedf8f1f1",
+          "size": 2408508
         }
       }
     },
     "CKS-MATH-65-2026": {
       "zenodo_id": 18878813,
       "doi": "10.5281/zenodo.18878813",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "51fb9020b7a8bd9af02c5af677795af1a0c542d22d3b55e7a251d736f26b5186",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "d2ec38786c095d8d9e6ff02077fb503b",
-          "size": 61890
+          "checksum": "d31629be1254025a63b3beac035b16ba",
+          "size": 61889
         },
         "CKS-MATH-65-2026.zip": {
-          "checksum": "875ab4c7b54f984b97b32688f9413db7",
-          "size": 2405575
+          "checksum": "34c256c22a031c1dd7aeb3ffe4cc3764",
+          "size": 2413613
         }
       }
     },
     "CKS-MATH-66-2026": {
       "zenodo_id": 18878817,
       "doi": "10.5281/zenodo.18878817",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2458d6f3f54193855c54bbb3982021109bdc2d64359bf972e4206f339b0f7e6a",
       "files": {
         "!manuscript.pdf": {
@@ -2587,415 +2587,415 @@
           "size": 74401
         },
         "CKS-MATH-66-2026.zip": {
-          "checksum": "be98f74a7b11bc8af247840b470a84a4",
-          "size": 2414996
+          "checksum": "26b4d19b6ca45e7ee10225648bcdb5c1",
+          "size": 2421231
         }
       }
     },
     "CKS-MATH-67-2026": {
       "zenodo_id": 18878819,
       "doi": "10.5281/zenodo.18878819",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1bda93de18f4df0e25edfe16a7f2081353935cc2c8160530e1a323d40ddee283",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "45d56a7a43796ea517cddbaee5c97a38",
-          "size": 50212
+          "checksum": "7c8c3d391b32bb5686e3c640f1788661",
+          "size": 50216
         },
         "CKS-MATH-67-2026.zip": {
-          "checksum": "d2fce292cf9792a07b438065b006838e",
-          "size": 2391228
+          "checksum": "a03aba501fe198e3fd334bb39d2d9ddc",
+          "size": 2396763
         }
       }
     },
     "CKS-MATH-68-2026": {
       "zenodo_id": 18878821,
       "doi": "10.5281/zenodo.18878821",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "31ba5a71a582df32b1096336cc3ffea7a70521e120a9fc0a9f8425ad362a98f4",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "213fd1de8d3af3aef65978c8beeca67e",
-          "size": 80543
+          "checksum": "32edf644a1039556f39f4ffaae9c4ce0",
+          "size": 80545
         },
         "CKS-MATH-68-2026.zip": {
-          "checksum": "da366f001f1d1611e8e7985c5384cbbb",
-          "size": 2430847
+          "checksum": "704c176fa03ce0c8c0934519bfe1b46c",
+          "size": 2442368
         }
       }
     },
     "CKS-MATH-69-2026": {
       "zenodo_id": 18878823,
       "doi": "10.5281/zenodo.18878823",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a0520427639458a32556bcf765bee26fd4045019581461cbd53fcb68f9912337",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a55b0eb423993abcb22524b6efc1f67c",
-          "size": 82088
+          "checksum": "f81a3f4c57676e6cc9c57daab3f22dcf",
+          "size": 82089
         },
         "CKS-MATH-69-2026.zip": {
-          "checksum": "020a457019587ead65a27ef715fac634",
-          "size": 2433698
+          "checksum": "ab3a0c8a389e232898342448c1434eb0",
+          "size": 2445287
         }
       }
     },
     "CKS-MATH-70-2026": {
       "zenodo_id": 18878825,
       "doi": "10.5281/zenodo.18878825",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ff6224f66e100329b1877f082bcd9b39590bf04c97ea668e66f0045340598125",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b9d25eed4b74ee71ec5db53ffbdb7f33",
-          "size": 93036
+          "checksum": "a1fe650d04feb3391ed5d9b8b15acd0e",
+          "size": 93038
         },
         "CKS-MATH-70-2026.zip": {
-          "checksum": "12d483faf8363c07236a646593cc70d5",
-          "size": 2451433
+          "checksum": "be9206a184852f5a43826aa4f1d0cbd8",
+          "size": 2466666
         }
       }
     },
     "CKS-MATH-71-2026": {
       "zenodo_id": 18878831,
       "doi": "10.5281/zenodo.18878831",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "461e425f531b74f6d1c8d0d77265079673690c7db6316e268c4d65cbf52492fc",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "561a2a6cd53e92005845b801fb6d80cd",
-          "size": 74342
+          "checksum": "83f8476e53b056bcfaec276f79a267ed",
+          "size": 74336
         },
         "CKS-MATH-71-2026.zip": {
-          "checksum": "cec91d84cc9a1cff92719fbdbd216926",
-          "size": 2421158
+          "checksum": "aac4f1af331e0fb4f31a9f98da2a4e17",
+          "size": 2430782
         }
       }
     },
     "CKS-MATH-72-2026": {
       "zenodo_id": 18878833,
       "doi": "10.5281/zenodo.18878833",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "89c6148a120ffea9295da2ec1d4dc790b4e4b6df3c06c78e02488dd40b3fb082",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "18c9fb7b490caefaf4028d76a2e761ea",
-          "size": 59663
+          "checksum": "032d63c4f347b3a2ab5bbf30c6ee7676",
+          "size": 59667
         },
         "CKS-MATH-72-2026.zip": {
-          "checksum": "eb7a3c1bcddc084686b6606c35cf4e6b",
-          "size": 2403396
+          "checksum": "9631a5ece12fac4c9226116a704f0284",
+          "size": 2410648
         }
       }
     },
     "CKS-MATH-73-2026": {
       "zenodo_id": 18878835,
       "doi": "10.5281/zenodo.18878835",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d63798842052dd98798d67efc62fc51191d894b1b7052bb86b705f4381b51bc2",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c9649224629efe003dc1593d87d4ec15",
-          "size": 89172
+          "checksum": "f579003fc205662a0bd92368e5e59486",
+          "size": 89163
         },
         "CKS-MATH-73-2026.zip": {
-          "checksum": "835e4879ec7bcdb6ed6ca1b38922457c",
-          "size": 2443063
+          "checksum": "4ec96edd0bc3d47127a589885a6abe9d",
+          "size": 2456649
         }
       }
     },
     "CKS-MATH-74-2026": {
       "zenodo_id": 18878837,
       "doi": "10.5281/zenodo.18878837",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "982dbe1032717fab435f9eba2c1c6a491fd9e0e91246ebd0092d9e29478242ee",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8307a01ea2c5171fac109a8d316bc33e",
-          "size": 89875
+          "checksum": "006dc9313c2e2f9336ab975ade77e0cf",
+          "size": 89879
         },
         "CKS-MATH-74-2026.zip": {
-          "checksum": "9f90819588802b1215fc86e11c92a4e1",
-          "size": 2442400
+          "checksum": "eb7bc391d7bccd32717b081cd831f613",
+          "size": 2455313
         }
       }
     },
     "CKS-MATH-75-2026": {
       "zenodo_id": 18878840,
       "doi": "10.5281/zenodo.18878840",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "0da38c150a70f190f59d30c94ad2eccf7c1c97038c2246c0c2178438c6b3599a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "392e4e7649f833763f190257d48cc7bd",
+          "checksum": "aa8a99685fbe50818c4ce7a6c028d1b7",
           "size": 88398
         },
         "CKS-MATH-75-2026.zip": {
-          "checksum": "b1d7abd692ca0c77a18dd232b1e4ee4a",
-          "size": 2441961
+          "checksum": "913f451ef5dce1435d0fef4070136f16",
+          "size": 2455284
         }
       }
     },
     "CKS-MATH-76-2026": {
       "zenodo_id": 18878842,
       "doi": "10.5281/zenodo.18878842",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "41a71bffa68dfa6e2abdde0e50d5745901c60c1352b3f7d9044aa122f9507d89",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "2821f49b12feea55bab367264e230bf8",
-          "size": 79083
+          "checksum": "7dabe45c57d26e3a0b299afe01cb7f17",
+          "size": 79085
         },
         "CKS-MATH-76-2026.zip": {
-          "checksum": "b5aa3b08d582a6453cf1c0d8430724eb",
-          "size": 2431430
+          "checksum": "8402e8d75686fd1321af474eeacb44cf",
+          "size": 2444220
         }
       }
     },
     "CKS-MATH-77-2026": {
       "zenodo_id": 18878844,
       "doi": "10.5281/zenodo.18878844",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "34067cf2400a3f0c93224be4eab8e6caadc722f5b05aa5b8393c2f47e72eaa4a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9ff34c221d4fe2da00ef660e35b88993",
-          "size": 307591
+          "checksum": "0ad2976f1030dafbde6c635979f2208e",
+          "size": 307639
         },
         "CKS-MATH-77-2026.zip": {
-          "checksum": "a3f0286beef3585dc01c25b30bf02a04",
-          "size": 2745652
+          "checksum": "4c6b960d4a1bf77b30429790bdf71f70",
+          "size": 2805011
         }
       }
     },
     "CKS-MATH-78-2026": {
       "zenodo_id": 18878848,
       "doi": "10.5281/zenodo.18878848",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "1ac14112576263f1d452e767d003f5d089ac381eb44a78d800367e76a4acd815",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "8d32d1ebf5f3e427b8efbaa12717a6c7",
-          "size": 223979
+          "checksum": "cf653e259467c4ccacc27bf86cf19ca9",
+          "size": 224027
         },
         "CKS-MATH-78-2026.zip": {
-          "checksum": "df3573a17c6fab19486fa0f869fc6442",
-          "size": 2645896
+          "checksum": "eb391a0e92f74cd89a492fdbf904d77c",
+          "size": 2696177
         }
       }
     },
     "CKS-MATH-79-2026": {
       "zenodo_id": 18878850,
       "doi": "10.5281/zenodo.18878850",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f7c7b74f6768357d9d8ad310ab02521f0c9e15bf816b7b4fa4a4a4b9c665cfe3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "202720dced8c4a4ddde38eb81f175ebb",
-          "size": 173271
+          "checksum": "ca098d404a0ed8850f9e4ad9255d18c6",
+          "size": 173346
         },
         "CKS-MATH-79-2026.zip": {
-          "checksum": "77888a774ca80ae41b43323fa8abdb54",
-          "size": 2566026
+          "checksum": "5f3e49f6d0179ca4614b917dae9a0e51",
+          "size": 2600849
         }
       }
     },
     "CKS-MATH-80-2026": {
       "zenodo_id": 18878852,
       "doi": "10.5281/zenodo.18878852",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9775cf72af68a7e62008b0ab5a6a5c66468c6c2f6611921965a51145d4d96073",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "20465580b8b2373f6a25f0b734b693ae",
-          "size": 322713
+          "checksum": "66009a48f24be5936b04503b0566798b",
+          "size": 322711
         },
         "CKS-MATH-80-2026.zip": {
-          "checksum": "0662f02cdadf6ccffdd155ed9e63bdd6",
-          "size": 2762826
+          "checksum": "2876dcbb0979f3be3849f9cc70ba0185",
+          "size": 2823540
         }
       }
     },
     "CKS-MATH-81-2026": {
       "zenodo_id": 18878855,
       "doi": "10.5281/zenodo.18878855",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "6b8441d85a2c27d03a254c8628a83300fe6ca992900643b46667e50cdc14e864",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "28ad485e00d0bcc204ecc0983f1cf2d6",
-          "size": 67004
+          "checksum": "84ab725b4f336e59e1aac08dfca75a5a",
+          "size": 67006
         },
         "CKS-MATH-81-2026.zip": {
-          "checksum": "b30df216df2754430048ad0dbb759e37",
-          "size": 2413559
+          "checksum": "423dedf5835214ee50da28a90c6cdbaa",
+          "size": 2422234
         }
       }
     },
     "CKS-MATH-82-2026": {
       "zenodo_id": 18878859,
       "doi": "10.5281/zenodo.18878859",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a4286a3da742b51073aeab303cfa560ab31f84584df88de812ede2ea1b67eb9f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c2e8687df42db9e1447224dbfb4cbfe2",
-          "size": 67752
+          "checksum": "599df1136a805ade8973bc980f12b37f",
+          "size": 67755
         },
         "CKS-MATH-82-2026.zip": {
-          "checksum": "abea97bc011858d53bbc5cf0b3187548",
-          "size": 2412913
+          "checksum": "f18994ef69312ab51b4e82e3cde63c34",
+          "size": 2420764
         }
       }
     },
     "CKS-MATH-83-2026": {
       "zenodo_id": 18878863,
       "doi": "10.5281/zenodo.18878863",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7f0e4d68323e1c043b490f79df04d6410ef3662d82726071276a1bd7e34aa892",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "d5b8024fadc7e36eb0334298dbbf040c",
-          "size": 71265
+          "checksum": "1768c4c1b6742e18b92d69be1a4587e6",
+          "size": 71268
         },
         "CKS-MATH-83-2026.zip": {
-          "checksum": "4324cf3bb782514e6daed294fa54409a",
-          "size": 2416823
+          "checksum": "2a0c3f69fd9b524482751bdb6ce6f7ed",
+          "size": 2425004
         }
       }
     },
     "CKS-MATH-84-2026": {
       "zenodo_id": 18878865,
       "doi": "10.5281/zenodo.18878865",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "ba33f8df5bbb3297c2c56a258c065a379adc52f795f5234715d2ae1d9d520ed5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "cb8891c1b3afff7200dd109c3f8cb624",
-          "size": 69298
+          "checksum": "5acd6d8f3887b7adac31dce3a6bced04",
+          "size": 69296
         },
         "CKS-MATH-84-2026.zip": {
-          "checksum": "fb364e44dcaca93ffaca2aecacc4cd8b",
-          "size": 2414230
+          "checksum": "2f7c134b266cca3254f1d9d9a782fd41",
+          "size": 2422137
         }
       }
     },
     "CKS-MATH-85-2026": {
       "zenodo_id": 18878867,
       "doi": "10.5281/zenodo.18878867",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d5e03215dcf089bb6a388a59eb033fcc81f2b7f4653ec85d4c416295974e5ecb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c070b5f42b1912f99b08e611051c84a9",
-          "size": 77840
+          "checksum": "7fc253cfea74b6dbe72ea950834b64a4",
+          "size": 77838
         },
         "CKS-MATH-85-2026.zip": {
-          "checksum": "d2b3ee337d51136d3cabc36b08421e2a",
-          "size": 2424557
+          "checksum": "84a1a6a5baae499a3de846f4b9deb27e",
+          "size": 2433379
         }
       }
     },
     "CKS-MATH-86-2026": {
       "zenodo_id": 18878869,
       "doi": "10.5281/zenodo.18878869",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "550354d6e3a63a359daa2cdeb76ef33cdb3be7dbc3dc0539a27ff032c12bf9ff",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "38a00c28456ec8b01f2ee9b996933bd1",
-          "size": 84635
+          "checksum": "fc47fc28aa18d8bab575bc960f4980ad",
+          "size": 84634
         },
         "CKS-MATH-86-2026.zip": {
-          "checksum": "7a0639989fba87212eb406db43f0e5fa",
-          "size": 2431861
+          "checksum": "2cb162b74e644ee30b2d0aff56fb6adc",
+          "size": 2441025
         }
       }
     },
     "CKS-MATH-87-2026": {
       "zenodo_id": 18878872,
       "doi": "10.5281/zenodo.18878872",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9502e88e08ed7747b1cb37598d7a56b77befa3feecea27c3a2fc0225499b1bfb",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4e3acff9d33551a9d81b3753b03ea123",
-          "size": 86622
+          "checksum": "90da8701f2b4f106f987dfd862338111",
+          "size": 86617
         },
         "CKS-MATH-87-2026.zip": {
-          "checksum": "c0a9ff5d98deb0e37582497ef2140659",
-          "size": 2433915
+          "checksum": "8f89bde567c026915b98c44da861753f",
+          "size": 2443178
         }
       }
     },
     "CKS-MATH-88-2026": {
       "zenodo_id": 18878874,
       "doi": "10.5281/zenodo.18878874",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "531205afeeb0a37d729094f281ad7fe296e40d2d01177ec083f884b8c3b4f0d6",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "fd9fb0245fb63f71edc6189c8a944c58",
-          "size": 72975
+          "checksum": "63710e18a6b3fd614725368ce8407a82",
+          "size": 72973
         },
         "CKS-MATH-88-2026.zip": {
-          "checksum": "82b0ba8adf5d68cdfc5037787d78e69f",
-          "size": 2419911
+          "checksum": "9a928ce12db524e19034f05238799511",
+          "size": 2428780
         }
       }
     },
     "CKS-MATH-89-2026": {
       "zenodo_id": 18878877,
       "doi": "10.5281/zenodo.18878877",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "d2d4b0520fb786860c757844330c955502f859b98357392cc7720327cc1fd777",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4e0bf5fa7e47cfc5e5a9a9a3921a0a0f",
-          "size": 148863
+          "checksum": "0e4337485be64c85dbc2599d614293d5",
+          "size": 148869
         },
         "CKS-MATH-89-2026.zip": {
-          "checksum": "b62dc53d2ba9c1986096eeb70f3cbe13",
-          "size": 2527608
+          "checksum": "f1c0fbf93473d5e7810b2898506b8002",
+          "size": 2553611
         }
       }
     },
     "CKS-MATH-90-2026": {
       "zenodo_id": 18878879,
       "doi": "10.5281/zenodo.18878879",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3c274bf56c6b6d4d37fb2093c240b1363612f35680cf43dfb0692b8c053f5e8d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9592903f7ba9732d2bedee699f1b28e2",
-          "size": 184172
+          "checksum": "c7c92c10956030c28ddde42b12e0a4db",
+          "size": 184242
         },
         "CKS-MATH-90-2026.zip": {
-          "checksum": "14c8851fc5cc89a757e186cbcbf2c46e",
-          "size": 2575696
+          "checksum": "38784533de901459cda44a5d91767d7f",
+          "size": 2608468
         }
       }
     },
     "CKS-MATH-91-2026": {
       "zenodo_id": 18878881,
       "doi": "10.5281/zenodo.18878881",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "75f23cc1aa8c51392c23ddd91f854403d75a9ea1f4c8a531a57f65db83812092",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b7be8c815e16a4a711495fbd576c6718",
-          "size": 117038
+          "checksum": "16ccbe7feb11d0da44b53b316f5352ce",
+          "size": 117042
         },
         "CKS-MATH-91-2026.zip": {
-          "checksum": "ff8a3846b6f537d2e01faa611b619e25",
-          "size": 2479720
+          "checksum": "944908238f5959889fd05e3bece30c4f",
+          "size": 2497718
         }
       }
     },
     "CKS-MATH-92-2026": {
       "zenodo_id": 18878883,
       "doi": "10.5281/zenodo.18878883",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "30faf0f9a1e10d7b174fea4f81e4bff7647c33c375bbd335150364e34dcad515",
       "files": {
         "!manuscript.pdf": {
@@ -3003,15 +3003,15 @@
           "size": 74401
         },
         "CKS-MATH-92-2026.zip": {
-          "checksum": "dde8c6dd7d4b2aff3738c83144939168",
-          "size": 2410404
+          "checksum": "e71f6c26bc95dc23091e4c820673bf45",
+          "size": 2414659
         }
       }
     },
     "CKS-MATH-93-2026": {
       "zenodo_id": 18878885,
       "doi": "10.5281/zenodo.18878885",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "3ea705342db8fc02e2426cc1d952046c2888cfed65be0777ac6b30489304898a",
       "files": {
         "!manuscript.pdf": {
@@ -3019,15 +3019,15 @@
           "size": 74401
         },
         "CKS-MATH-93-2026.zip": {
-          "checksum": "4b06e21aeef7655aa4f99c2589997a12",
-          "size": 2411283
+          "checksum": "3d23f90e0a14994d09c2c26ef7191aa0",
+          "size": 2415974
         }
       }
     },
     "CKS-MATH-94-2026": {
       "zenodo_id": 18878887,
       "doi": "10.5281/zenodo.18878887",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7b84b31b8179340c3bda0b9bc2a5c85195314d19ed2205c7ae6ef4e0f3afdb52",
       "files": {
         "!manuscript.pdf": {
@@ -3035,527 +3035,527 @@
           "size": 74401
         },
         "CKS-MATH-94-2026.zip": {
-          "checksum": "1fc745d709237fbe5b5d26a3f3366a9e",
-          "size": 2414488
+          "checksum": "d55994fb6785a7a5c7e319fd89920fb7",
+          "size": 2420779
         }
       }
     },
     "CKS-MATH-95-2026": {
       "zenodo_id": 18878889,
       "doi": "10.5281/zenodo.18878889",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c907322aadfa585a1be47b64eb74a79c3d27d7cb788a2ff5718af3a0e1513779",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a86daff92637eac91cf6373ffc6252bb",
-          "size": 75187
+          "checksum": "d191b4ec0a72dbb017ab44fccab19fec",
+          "size": 75185
         },
         "CKS-MATH-95-2026.zip": {
-          "checksum": "d5466c4c049a1b15693b4180903ab92f",
-          "size": 2422048
+          "checksum": "a7fc3da09e7b85c24899f3cd746724e7",
+          "size": 2431747
         }
       }
     },
     "CKS-MATH-96-2026": {
       "zenodo_id": 18878892,
       "doi": "10.5281/zenodo.18878892",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "33545d7b78b27ee6f1d36d9c6c284910b2254f2c6a6483bd08909ad36c7d0c66",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "988b0695e805d79015f7bbf6a8937db8",
+          "checksum": "e7eea5452f3690b2dc940efb556b57b0",
           "size": 75190
         },
         "CKS-MATH-96-2026.zip": {
-          "checksum": "08e03cd22e195ac94037d61fc9104f40",
-          "size": 2422041
+          "checksum": "ef7a24b352af828a296df11a4f5da796",
+          "size": 2431747
         }
       }
     },
     "CKS-MATH-97-2026": {
       "zenodo_id": 18878896,
       "doi": "10.5281/zenodo.18878896",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "bc5b40a2f6c5a639e9ba16bb6b22113b0ac9c5d4ed109fdd939dc78301378fb5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a3065f4b39946ca034bd08fc50987897",
-          "size": 143996
+          "checksum": "0bf5c4930d6f4e6fe4f7c460b670824c",
+          "size": 143993
         },
         "CKS-MATH-97-2026.zip": {
-          "checksum": "9e856a5011321aafc31d221f5a11447c",
-          "size": 2517434
+          "checksum": "248b48a3ba17f67fe7f88331fd677856",
+          "size": 2541659
         }
       }
     },
     "CKS-MATH-98-2026": {
       "zenodo_id": 18878898,
       "doi": "10.5281/zenodo.18878898",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "4237638d0ccdf7ff91eeffdf147c36652e29dc300062f5681e9d745b7b72b25f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "02f1681414a5d339264ac888f81532d6",
-          "size": 108239
+          "checksum": "d0da8a978adcd26f725a4c8ea60a9bb8",
+          "size": 108245
         },
         "CKS-MATH-98-2026.zip": {
-          "checksum": "95dfe10a31defad1fd70309e1d255ec1",
-          "size": 2466275
+          "checksum": "cb9f52615c327397f63ce22b3449b041",
+          "size": 2482199
         }
       }
     },
     "CKS-MATH-99-2026": {
       "zenodo_id": 18878900,
       "doi": "10.5281/zenodo.18878900",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "310d743b4c5b706c3b888486bebdc23f82b150d72dbe38856a9f6a672ef6fb0c",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "45f67e3b6e6e54e61d578788ac5c6836",
-          "size": 152194
+          "checksum": "9ebdfca6f0c17d425d6d511c29a1667c",
+          "size": 152189
         },
         "CKS-MATH-99-2026.zip": {
-          "checksum": "d1e4fd7b2403b3ab91bfe85dfe60f20a",
-          "size": 2538224
+          "checksum": "ad9e0b6f524e9d648867b6292c9a3835",
+          "size": 2568928
         }
       }
     },
     "CKS-NEURO-3-2026": {
       "zenodo_id": 18878902,
       "doi": "10.5281/zenodo.18878902",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "036ddc4f5b2d62a1efb83aa460bcefe2965fc24a64328d58e32d439cae1f8766",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ae5a4d5b790b2126f9513ba5f2f3e648",
-          "size": 87552
+          "checksum": "f8363129461759c177aa9f1f7d4de23e",
+          "size": 87602
         },
         "CKS-NEURO-3-2026.zip": {
-          "checksum": "18ca7edb9857f4bd05a86a14aae0c28a",
-          "size": 306973
+          "checksum": "2e2ab53220e4efca52f2f05992239bf7",
+          "size": 320277
         }
       }
     },
     "CKS-OMNI-1-2026": {
       "zenodo_id": 18878904,
       "doi": "10.5281/zenodo.18878904",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "80c3f9e94e43dd61eb03e977ae9ba83b3bf18577c28bc27cd99072e8a9e6cb42",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "991edc36f513527700c2fbd0844cb80c",
-          "size": 96765
+          "checksum": "0ac574efebc7af6f640f5cbd07ca23c6",
+          "size": 96768
         },
         "CKS-OMNI-1-2026.zip": {
-          "checksum": "5246d10b99b88465c1d79fb9e8fc0062",
-          "size": 141929
+          "checksum": "6d0247ea8cea1d24d471d5df2df58428",
+          "size": 156024
         }
       }
     },
     "CKS-OMNI-2-2026": {
       "zenodo_id": 18878906,
       "doi": "10.5281/zenodo.18878906",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c61a445d3f55be53a2986a9711b5de0303498c2debe88aab61dfd7b34380aa03",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b942b6ab985cddd866efcc612486b67b",
-          "size": 99102
+          "checksum": "2ce9ee1b4bc0049e5ac3f19328415bcd",
+          "size": 99086
         },
         "CKS-OMNI-2-2026.zip": {
-          "checksum": "06d7f82202b01bbd48722351d14e527f",
-          "size": 147627
+          "checksum": "49ce97daa997a7e267adb6995c6d11fc",
+          "size": 162073
         }
       }
     },
     "CKS-PHYS-1-2026": {
       "zenodo_id": 18878910,
       "doi": "10.5281/zenodo.18878910",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5662ce4bebfa2e7893786d129d71864109ece81b8de6ca2d49f3205c3431edde",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "22e640ef8a655543784aa891e9631e5e",
-          "size": 112578
+          "checksum": "a78f4587871221873c152cf999c9fae9",
+          "size": 112584
         },
         "CKS-PHYS-1-2026.zip": {
-          "checksum": "b4e85238daf61f438d1eb793e3b541fc",
-          "size": 160974
+          "checksum": "13d6213eb748ea8a7a0e6ac2eb345884",
+          "size": 176554
         }
       }
     },
     "CKS-PHYS-10-2026": {
       "zenodo_id": 18878916,
       "doi": "10.5281/zenodo.18878916",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "c9c630375422b8adae1086b41332685e3c112e640ee5d75630d44d16f02d7a5f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f2f95a6da861c262f104b1b8917c9dfa",
-          "size": 108520
+          "checksum": "c63c476f8a7f467e4f8e5c361bdebeb4",
+          "size": 108565
         },
         "CKS-PHYS-10-2026.zip": {
-          "checksum": "5a6298825eb32cd3f7014bf74c5e19a0",
-          "size": 157443
+          "checksum": "ba25d6b9388a442aa5e4d3c90d97eb48",
+          "size": 172448
         }
       }
     },
     "CKS-PHYS-11-2026": {
       "zenodo_id": 18878918,
       "doi": "10.5281/zenodo.18878918",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "955a2e6abf07b9cf97a9d01e69ad771c744c19d4adf937010acab311abe1e329",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9e210303da9dfd4434f7585c7373fc1f",
-          "size": 108959
+          "checksum": "5b10f62c99635d2e916f2e9b08c24065",
+          "size": 108973
         },
         "CKS-PHYS-11-2026.zip": {
-          "checksum": "96c557bc75466739fe5d267a23c08deb",
-          "size": 159356
+          "checksum": "23389da168721b41a69ad940ebb91eb8",
+          "size": 174976
         }
       }
     },
     "CKS-PHYS-12-2026": {
       "zenodo_id": 18878920,
       "doi": "10.5281/zenodo.18878920",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "22444dbedf953ac5de7e68de1938c0e46505ab6d8745de3534e8dc1d3d6f0c4d",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "f5ad5fd190ecf9abeec0c67a97c1a54b",
-          "size": 101183
+          "checksum": "570af0cd50e65e72f96582619a000fde",
+          "size": 101232
         },
         "CKS-PHYS-12-2026.zip": {
-          "checksum": "495aa11fede2943085cfec257194adad",
-          "size": 150661
+          "checksum": "5139b509e6c01d92f11b9f54f9dabb3e",
+          "size": 165650
         }
       }
     },
     "CKS-PHYS-13-2026": {
       "zenodo_id": 18878922,
       "doi": "10.5281/zenodo.18878922",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "25d9d59947ff3e9caacb3236128f8d36656ad4cdc2111fa0bdd5cf5dffaa7a54",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "9387dda6138383f159f59140361cf3fa",
-          "size": 127863
+          "checksum": "c5d043a5cfd440df58104e7ef10dc730",
+          "size": 127919
         },
         "CKS-PHYS-13-2026.zip": {
-          "checksum": "3477f190a04f5e92a592bb42bd11c0b6",
-          "size": 180740
+          "checksum": "fa52152c068cdcb53eac2aced004ae2c",
+          "size": 197882
         }
       }
     },
     "CKS-PHYS-14-2026": {
       "zenodo_id": 18878924,
       "doi": "10.5281/zenodo.18878924",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2e70723e9529343a5fdf97c60d51655835f880514f76b9b47809e2c70284e132",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "43e48f49980f820823586d25f57f7733",
-          "size": 106827
+          "checksum": "e7e0d1d86a0bb624e900b066b55c409b",
+          "size": 106826
         },
         "CKS-PHYS-14-2026.zip": {
-          "checksum": "27f9bc2a0ed413088b249bee05999e55",
-          "size": 158201
+          "checksum": "bf0680ab2f1b0372f1e46f6cd0b98356",
+          "size": 174311
         }
       }
     },
     "CKS-PHYS-15-2026": {
       "zenodo_id": 18878926,
       "doi": "10.5281/zenodo.18878926",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "41f8128a70d438bc767686a94ee05f7c2e72c1af618ef39ad33c4b0c54b60bcd",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6b1aa93e4ab998a9b98637ad643e773",
-          "size": 125920
+          "checksum": "9e664425e7cd62a13476947d6d5ca447",
+          "size": 125949
         },
         "CKS-PHYS-15-2026.zip": {
-          "checksum": "14c68321ae7d2f7dfc0b47f6c27eec0f",
-          "size": 173237
+          "checksum": "06e40cb0269289b20c1baf898b00468d",
+          "size": 187544
         }
       }
     },
     "CKS-PHYS-16-2026": {
       "zenodo_id": 18878930,
       "doi": "10.5281/zenodo.18878930",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "6e9968469cdd588e6847e6c301f9fd68dec3b083a20cf43c9918a421d9bacb0b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "cc0c5b04837bf26087cfd8dbeabc8935",
-          "size": 121817
+          "checksum": "89f84c80e83e79a19d73ae3e6244b218",
+          "size": 121898
         },
         "CKS-PHYS-16-2026.zip": {
-          "checksum": "57c60248fe8b49a3f3ab3c814fe82ae7",
-          "size": 176925
+          "checksum": "bdc21b5acd106126bbf424580603389f",
+          "size": 195125
         }
       }
     },
     "CKS-PHYS-17-2026": {
       "zenodo_id": 18878932,
       "doi": "10.5281/zenodo.18878932",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2f9cfdfe0fc2d7f0a8bf1886c93671531e683981bb459ca29af255dc26ebe1a3",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "aa59f71b95cf6d701da3d27bb91a18af",
-          "size": 113960
+          "checksum": "edf9a70a2040fca0f88558d52e9c4b63",
+          "size": 113943
         },
         "CKS-PHYS-17-2026.zip": {
-          "checksum": "9c751dfc685eea0190dd2bf44237adb3",
-          "size": 165297
+          "checksum": "5f817f1cbd3e12e6100a01870dcf7726",
+          "size": 181411
         }
       }
     },
     "CKS-PHYS-18-2026": {
       "zenodo_id": 18878934,
       "doi": "10.5281/zenodo.18878934",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f5ade36a0090f14ceba3ed1f74b0ffecb831676ca4c005868489b554fcfd0335",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "610c5e966d7001b49cfb746b344b220d",
-          "size": 117000
+          "checksum": "cd1d4bf110daf8ef51d44af4df898a0c",
+          "size": 117002
         },
         "CKS-PHYS-18-2026.zip": {
-          "checksum": "cf6a0546c2be44829283f7f0a42e0a67",
-          "size": 166321
+          "checksum": "f5fa09819bf5283ffc8691abe9965f71",
+          "size": 181599
         }
       }
     },
     "CKS-PHYS-19-2026": {
       "zenodo_id": 18878936,
       "doi": "10.5281/zenodo.18878936",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a6719211aeee5d7fd9f00872555f01b133ab14770fc46393cdb19ad2f78a37b8",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "240ca2609574c8d10c841f4baaa1ebbc",
+          "checksum": "5d31257a70aef39151f38b66b44dbae6",
           "size": 73863
         },
         "CKS-PHYS-19-2026.zip": {
-          "checksum": "9ce8748c473cab3234e9377412e1a694",
-          "size": 112256
+          "checksum": "b18f96191e39c3b29b9021ab3099bf27",
+          "size": 121639
         }
       }
     },
     "CKS-PHYS-2-2026": {
       "zenodo_id": 18878938,
       "doi": "10.5281/zenodo.18878938",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "80cbfe4df5005b10fb715d0c5e7f76e8b7b3605965a8b0cd5022806463d6ea22",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "71aefaf009dae42d4f253ac200ebe50b",
+          "checksum": "179ef0965d8cfe8b965672a164df29b7",
           "size": 81181
         },
         "CKS-PHYS-2-2026.zip": {
-          "checksum": "a1b4e11514ba1c5b1969e4050e1cdc9e",
-          "size": 124035
+          "checksum": "614d9a93a7f433e22ffdfb039d830c11",
+          "size": 136539
         }
       }
     },
     "CKS-PHYS-20-2026": {
       "zenodo_id": 18878942,
       "doi": "10.5281/zenodo.18878942",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "273b79aa9cf15f4d51989921df61601992073828584ad1271f5eb0094ef5a710",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "723d1a44ab27976ee1fb9b4c750be809",
-          "size": 90456
+          "checksum": "834232ab0737a10135aadd63ff5332ef",
+          "size": 90461
         },
         "CKS-PHYS-20-2026.zip": {
-          "checksum": "5f7f43fa125570ff5c264a7e41723e3d",
-          "size": 134835
+          "checksum": "25a95d59fc1d428ac9118de88c373a8f",
+          "size": 147599
         }
       }
     },
     "CKS-PHYS-21-2026": {
       "zenodo_id": 18878946,
       "doi": "10.5281/zenodo.18878946",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "5fb492d6a536dde358e3ba3ca9542956a3685daa2af6be50282b663b24ad7436",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "7fd206c3889aac79592a67fb0e5ec706",
-          "size": 79180
+          "checksum": "2aa36430d3cdbb0b1677119150eddd57",
+          "size": 79177
         },
         "CKS-PHYS-21-2026.zip": {
-          "checksum": "e2bf68e404f05ea6c74ac5f14842acdb",
-          "size": 118806
+          "checksum": "de75ba2a582e664ed5cac411836c23f2",
+          "size": 128897
         }
       }
     },
     "CKS-PHYS-22-2026": {
       "zenodo_id": 18878950,
       "doi": "10.5281/zenodo.18878950",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "b87a20e079d59106c454a9f7d028285845004fd12f020c38d6fa206f4f7deaa2",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "4316206397918e1a275610d6407cb786",
-          "size": 106650
+          "checksum": "44aca224c9642622082190692ea93177",
+          "size": 106716
         },
         "CKS-PHYS-22-2026.zip": {
-          "checksum": "e0992976780960aa8f0571690434cf81",
-          "size": 156005
+          "checksum": "4001ece0e88cdfa1a16ad37c85f13d60",
+          "size": 171961
         }
       }
     },
     "CKS-PHYS-23-2026": {
       "zenodo_id": 18878952,
       "doi": "10.5281/zenodo.18878952",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "617be6a7e018e1a1183fa6980ed71f804e640d7bf05b761519ab753e6d72e852",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "842cb0c4746734962e2cbfcb2e88e466",
-          "size": 106235
+          "checksum": "4738613625ab275e90a6f8d98bfe1773",
+          "size": 115582
         },
         "CKS-PHYS-23-2026.zip": {
-          "checksum": "05e7f144f2e1c5d960af75ae97bbbb64",
-          "size": 161640
+          "checksum": "9c809352fd91540d89013f3f8909ed0c",
+          "size": 189914
         }
       }
     },
     "CKS-PHYS-24-2026": {
       "zenodo_id": 18878954,
       "doi": "10.5281/zenodo.18878954",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "25688238c131bd0e54fd0557073debe3b93b59d6112b47ede10ac3dc6e343aca",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "99a6d7310b757f6871b1e0e0bf8c439a",
+          "checksum": "45468ea7b466caad9aca8ec6ca737f92",
           "size": 90904
         },
         "CKS-PHYS-24-2026.zip": {
-          "checksum": "4a0c04eda34689450bc88b4fe3ecd6be",
-          "size": 136844
+          "checksum": "05a6d4587da0fad04f65981831174d76",
+          "size": 150363
         }
       }
     },
     "CKS-PHYS-3-2026": {
       "zenodo_id": 18878956,
       "doi": "10.5281/zenodo.18878956",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "54b6f0a02eaf7acf68e4f6df6706dbe80cdd353f375b96b4d399ddcbe1192145",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "520bb025503c6dba4a388e27ace23b2e",
-          "size": 109152
+          "checksum": "1acbdf5b0d92101db759c740f4902eea",
+          "size": 109157
         },
         "CKS-PHYS-3-2026.zip": {
-          "checksum": "91e60cf40741f28340d0b373807a9987",
-          "size": 157362
+          "checksum": "ee7a0e29648b77f3ae174b859d558de9",
+          "size": 173211
         }
       }
     },
     "CKS-PHYS-4-2026": {
       "zenodo_id": 18878958,
       "doi": "10.5281/zenodo.18878958",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a4c909a677766a7bdf73377c297fd5092b7fe0a30583c13696a172cee4d88472",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "ab5ac5d0448c69a86b3e4cb4b0071391",
-          "size": 51929
+          "checksum": "c1f9218c59039bc47f04bfd132e79bcd",
+          "size": 51933
         },
         "CKS-PHYS-4-2026.zip": {
-          "checksum": "836e9626f6750fd5098136cfd77e93a5",
-          "size": 83856
+          "checksum": "57432196b156ad54b6fe0f5ab5d94536",
+          "size": 89692
         }
       }
     },
     "CKS-PHYS-5-2026": {
       "zenodo_id": 18878960,
       "doi": "10.5281/zenodo.18878960",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "98c9cf93d34301d1af5f242b8cced4076d8d785037594dbcd852261fcc94d951",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a9de041ef90ab4cefe709aff7b30250f",
-          "size": 82042
+          "checksum": "022e08027e7c7c430d495cae09c946c9",
+          "size": 82041
         },
         "CKS-PHYS-5-2026.zip": {
-          "checksum": "e35cd502eeb85ead252a2e3806d8d97d",
-          "size": 121320
+          "checksum": "819ca442b83560e44750a0ebe98763f8",
+          "size": 131410
         }
       }
     },
     "CKS-PHYS-6-2026": {
       "zenodo_id": 18878962,
       "doi": "10.5281/zenodo.18878962",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "019120f820e7fe068476c1a1b2e500d95460958c79582f4cbff2275bb78e4f7a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "95b0b1714423c21452e5150a939e16e2",
-          "size": 91714
+          "checksum": "8446ac9d5fbb0245d54f2723d6585509",
+          "size": 91718
         },
         "CKS-PHYS-6-2026.zip": {
-          "checksum": "30356cc12ebe44137d4a40952f649a73",
-          "size": 133677
+          "checksum": "762eca562c93c92b8e8f1f1dce8dbed8",
+          "size": 145248
         }
       }
     },
     "CKS-PHYS-7-2026": {
       "zenodo_id": 18878964,
       "doi": "10.5281/zenodo.18878964",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "9c31cf67649b6eb8f4219d5a06224b98354a6913839785a9fe76b0c64afc6c55",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "682c4fbaef04c207c0e4b70bde859759",
-          "size": 86373
+          "checksum": "b869764caf34ae9029f93f521f17738c",
+          "size": 100087
         },
         "CKS-PHYS-7-2026.zip": {
-          "checksum": "dd0bba8544ff72e25669245abef5eda6",
-          "size": 136223
+          "checksum": "88a3d950f2e79259d1f971f93837103d",
+          "size": 164814
         }
       }
     },
     "CKS-PHYS-8-2026": {
       "zenodo_id": 18878966,
       "doi": "10.5281/zenodo.18878966",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "a4a798caf31afbfc762facf7efd429085c6b524ad5d84b482698a5bd032bb284",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "6702d6d9279a28bff202922d938f03c1",
-          "size": 98185
+          "checksum": "318303683c16ade3900d0b599edc7003",
+          "size": 98177
         },
         "CKS-PHYS-8-2026.zip": {
-          "checksum": "771294ddbefd1b0ceb5b46bf4b5cf2d5",
-          "size": 146553
+          "checksum": "193741f315b0cd2b5bed7eb596b31b64",
+          "size": 160964
         }
       }
     },
     "CKS-PHYS-9-2026": {
       "zenodo_id": 18878968,
       "doi": "10.5281/zenodo.18878968",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "fcbe199b5312f74683685c5b4dbe1369f3d19181fa5f4a197eccd9024372fba7",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "416042d4bdc9a91222be432931925873",
-          "size": 97890
+          "checksum": "22bf918d3cf2efac99bc8894046860b6",
+          "size": 97889
         },
         "CKS-PHYS-9-2026.zip": {
-          "checksum": "e7587d2393b405cd035d6f7ef87d5bc0",
-          "size": 146333
+          "checksum": "6c09e210bea95c6b4935fa6bbcb7ee0f",
+          "size": 160847
         }
       }
     },
     "CKS-RTRT-1-2026": {
       "zenodo_id": 18878970,
       "doi": "10.5281/zenodo.18878970",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "bb549adb39ce2f66347b451760941718a75a0fca7bf9ac3083772d2e6d59c94d",
       "files": {
         "!manuscript.pdf": {
@@ -3563,184 +3563,184 @@
           "size": 158667
         },
         "CKS-RTRT-1-2026.zip": {
-          "checksum": "0f3c7740804c1af2d6b2fccbbe3525fd",
-          "size": 1976470
+          "checksum": "19809fe3227238a5a6fc9e090c8a3262",
+          "size": 2002374
         }
       }
     },
     "CKS-SENS-2-2026": {
       "zenodo_id": 18878972,
       "doi": "10.5281/zenodo.18878972",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "7a5ec660a451113f399505be3d039fcd40c03026174c0cbb940c71fe3735bf7e",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "1f5aec9df7f7c1a65d6f8093115912fb",
-          "size": 88435
+          "checksum": "ac069c097e3dcb599cdf53b5fed9ca17",
+          "size": 88467
         },
         "CKS-SENS-2-2026.zip": {
-          "checksum": "3b4a4f1ac28dbccff1f9141ef47a6971",
-          "size": 142993
+          "checksum": "469808318c4c6ba8ecb498f9e86fc946",
+          "size": 155320
         }
       }
     },
     "CKS-SOC-4-2026": {
       "zenodo_id": 18878976,
       "doi": "10.5281/zenodo.18878976",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2bd19c7adedd8a786c940c7382ef4ce7897397028bf50268e0a51b8f2bc8bbe5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c6771f2511160f28090587ec083f7019",
-          "size": 74401
+          "checksum": "bfbc4b615dcf30450c4ea46151d650f5",
+          "size": 65858
         },
         "CKS-SOC-4-2026.zip": {
-          "checksum": "8df0175c2625f1b0f5a2f6ef1c52ac69",
-          "size": 2417472
+          "checksum": "9a0658409201241d01db4f27295a8903",
+          "size": 2416023
         }
       }
     },
     "CKS-SOC-5-2026": {
       "zenodo_id": 18878980,
       "doi": "10.5281/zenodo.18878980",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "81bf85335dd158d678f11e15f36bb7539c155af9b677ed2cd3fa60fec5fec36a",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "cf48018564806bf5e2a84885f9001734",
-          "size": 76187
+          "checksum": "73d1f30d45ac170090bb2b91b48ca17c",
+          "size": 76186
         },
         "CKS-SOC-5-2026.zip": {
-          "checksum": "00057a9b8df46cd2178884070a6cb0dc",
-          "size": 2423145
+          "checksum": "17effd7b9d988b291d142e949a5ecbb4",
+          "size": 2433011
         }
       }
     },
     "CKS-SOC-6-2026": {
       "zenodo_id": 18878982,
       "doi": "10.5281/zenodo.18878982",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f49ea1668984b7b5d01bdd3e312a9bc408eb77d99c4f38b8da745e0471545d0f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "5ed3ae3059d3326edf748a9c21fb6bff",
-          "size": 76360
+          "checksum": "6ed3c4f702110b8d1a665bf1a4f8fd54",
+          "size": 76357
         },
         "CKS-SOC-6-2026.zip": {
-          "checksum": "075b67921ac5082e4e72514ee98e8e9d",
-          "size": 2425523
+          "checksum": "dbed33876f3974a24f71d69479d8621c",
+          "size": 2435640
         }
       }
     },
     "CKS-WUWU-1-2026": {
       "zenodo_id": 18878984,
       "doi": "10.5281/zenodo.18878984",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "f5639fc36d27a05f9987b04853104de5975544a78b8582ae058c410f53708dc5",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "bfc81a634e561b0cfa54acd2eec88b5f",
-          "size": 129773
+          "checksum": "28e5b11d15a78c39f6497e1e900c1153",
+          "size": 129778
         },
         "CKS-WUWU-1-2026.zip": {
-          "checksum": "8391d1afd72927f6c74eb89cdf30b3f9",
-          "size": 2557045
+          "checksum": "a331afcd185ce3c542f76fdc67de9c26",
+          "size": 2577401
         }
       }
     },
     "CKS-WUWU-2-2026": {
       "zenodo_id": 18878986,
       "doi": "10.5281/zenodo.18878986",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "e34757600fba1580c02e5dff0db437eab6648423d17431e306148f7b441f5707",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "c16779e906c27a04e40d4192d1114e0b",
-          "size": 52028
+          "checksum": "4b31f026c4470ee8ddbc3836b92c8e0f",
+          "size": 52030
         },
         "CKS-WUWU-2-2026.zip": {
-          "checksum": "1543e34ad3edc38942b2d6cf818c7de5",
-          "size": 3016130
+          "checksum": "f7536fb0104a51914ca889bd6890d9fb",
+          "size": 3022413
         }
       }
     },
     "CKS-WUWU-3-2026": {
       "zenodo_id": 18878990,
       "doi": "10.5281/zenodo.18878990",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "52d037259b0e89605e0fced18217c8aae2b5a3e499148f76c570f942253a4d6b",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b46802152d7b4789f092dc2f52e6ef46",
-          "size": 55790
+          "checksum": "4f4a26878cce115318520244e4a7aae2",
+          "size": 55784
         },
         "CKS-WUWU-3-2026.zip": {
-          "checksum": "dbfe160352808e01252345cf18d9bb15",
-          "size": 3020732
+          "checksum": "59ca647ddc703add9fe25b40b3c83eb3",
+          "size": 3027600
         }
       }
     },
     "CKS-WUWU-4-2026": {
       "zenodo_id": 18878992,
       "doi": "10.5281/zenodo.18878992",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "8d150572fcc1ec93735318ac46a424b2139accce9a8632bd9127425198ebc684",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "678b1e2c28e2a6bb08870eda6c1e8370",
-          "size": 115661
+          "checksum": "b51ff5f38adc7763c9bc3cc73bccddec",
+          "size": 115668
         },
         "CKS-WUWU-4-2026.zip": {
-          "checksum": "121b221ef5cecd696fdc2e9d95c81b38",
-          "size": 3104285
+          "checksum": "e0c052304e5270401891a624fe0160f2",
+          "size": 3124686
         }
       }
     },
     "CKS-WUWU-5-2026": {
       "zenodo_id": 18878996,
       "doi": "10.5281/zenodo.18878996",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "2109cb802f39f57fb13980b798c99445fafff8e772b2d28df1863f1e2850ad1f",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "b0af286e16e253cbf7ba70cf1f40ea76",
-          "size": 70883
+          "checksum": "6466f07a263a22e6632e9a917c9f10e7",
+          "size": 70885
         },
         "CKS-WUWU-5-2026.zip": {
-          "checksum": "f3d3082edd75bf6ef7fce6d857a71cfb",
-          "size": 3038591
+          "checksum": "0d5b0e932f4d4b04dfb5a4c4f1a39d85",
+          "size": 3046916
         }
       }
     },
     "CKS-WUWU-6-2026": {
       "zenodo_id": 18878998,
       "doi": "10.5281/zenodo.18878998",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "fe9648a59e4b483770b43dbdbdbd3fff6e507e04b4b67bcbded803e85ae67d30",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "a54f335461e65bb8a38b71c2bf6e657e",
-          "size": 61360
+          "checksum": "71a4e2b5ff3ce2efe27a3c7d561f83ef",
+          "size": 61443
         },
         "CKS-WUWU-6-2026.zip": {
-          "checksum": "7c200094f2c4c84d614042e2b345a806",
-          "size": 3027591
+          "checksum": "bcaf2c1711c31926bb8376224a104953",
+          "size": 3035353
         }
       }
     },
     "CKS-BIO-48-2026": {
       "zenodo_id": 18879510,
       "doi": "10.5281/zenodo.18879510",
-      "status": "draft",
+      "status": "published",
       "metadata_hash": "fcd0f13a5563103997023be751a33a67b833433989c8ff528ebaf8c92ab47dd7",
       "files": {
         "!manuscript.pdf": {
-          "checksum": "3f31e98ad234b9d83e5c51c1438e6f10",
+          "checksum": "c577141bb846c19040641362116ab562",
           "size": 63465
         },
         "CKS-BIO-48-2026.zip": {
-          "checksum": "df22407e7292ca2b68b4523458895390",
-          "size": 109198
+          "checksum": "68a02f55f5091a52aa2a33e29a7178c0",
+          "size": 117187
         }
       }
     }

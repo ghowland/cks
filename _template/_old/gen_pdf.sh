@@ -58,6 +58,9 @@ sed -i 's/\([[:alnum:]\)]\)- /\1\n- /g' manuscript_fixed.md
 # Double Space - Only if line does not start with |
 sed -i '/^|/!{/^$/d;G}' manuscript_fixed.md
 
+# Get rid of newline chars
+sed -i 's/\\n//g' manuscript_fixed.md
+
 # 6. Run Pandoc
 # Added amssymb and amsmath to ensure symbols like \checkmark and \times are recognized
 pandoc manuscript_fixed.md -o !manuscript.pdf \
@@ -83,7 +86,7 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   -V linkcolor=blue
 
 # 7. Clean up
-rm manuscript_fixed.md
+# rm manuscript_fixed.md
 
 # Zip the directory
 ../../../_template/_old/gen_zip.sh
