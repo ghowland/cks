@@ -146,6 +146,7 @@
 | **[[@CKS-MATH-124-2026]](papers/MATH/CKS-MATH-124-2026/manuscript.md)** | **The VFR Resolution of √2** | ℝ was invented because ℚ was incompletely specified - adding remainder tracking eliminates need for infinite decimals while revealing physical forces as lattice tension. |
 | **[[@CKS-MATH-125-2026]](papers/MATH/CKS-MATH-125-2026/manuscript.md)** | **Lisp S-Expressions in Logismos** | VFR remainder field R is literally cons-cell cdr pointer - McCarthy's parenthetical notation accidentally encoded substrate nesting structure making Lisp natural language for substrate computation. |
 | **[[@CKS-MATH-126-2026]](papers/MATH/CKS-MATH-126-2026/manuscript.md)** | **Logismos S-Expression Recursion** | Recursive VFR structure eliminates need for floating-point entirely - substrate naturally implements arbitrary-precision rational arithmetic through geometric nesting. |
+| **[[@CKS-MATH-127-2026]](papers/MATH/CKS-MATH-127-2026/manuscript.md)** | **The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial** | Every decimal number is anonymous Taylor series - by naming the remainder we eliminate need for ℝ entirely replacing infinite accumulation with finite exact addressing. |
 
 
 ---

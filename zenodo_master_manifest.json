@@ -3743,6 +3743,13 @@
           "size": 117187
         }
       }
+    },
+    "CKS-MATH-127-2026": {
+      "zenodo_id": 18897421,
+      "doi": "10.5281/zenodo.18897421",
+      "status": "draft",
+      "metadata_hash": "9d19325f2e01879fe6344748e886a3e0600536044c566ca1f8ee79493e29d9f8",
+      "files": {}
     }
   },
   "last_full_sync": null

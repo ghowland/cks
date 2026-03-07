@@ -1,14 +1,14 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-05 12:53:26 UTC
+**Generated:** 2026-03-07 04:13:56 UTC
 
 ## Summary
 
-- **Total Papers:** 366
-- **Valid:** 344
-- **Invalid:** 22
-- **Total Errors:** 28
-- **Total Warnings:** 716
+- **Total Papers:** 367
+- **Valid:** 346
+- **Invalid:** 21
+- **Total Errors:** 26
+- **Total Warnings:** 484
 
 ## By Subject
 
@@ -30,7 +30,7 @@
 - **LEX:** 12 papers
 - **LOGI:** 13 papers
 - **MAT:** 5 papers
-- **MATH:** 127 papers
+- **MATH:** 128 papers
 - **MED:** 4 papers
 - **NEURO:** 3 papers
 - **OMNI:** 2 papers
@@ -47,8 +47,8 @@
 
 ## By Status
 
-- **Published (has DOI):** 127
-- **Draft (stub .zzz):** 239
+- **Published (has DOI):** 362
+- **Draft (stub .zzz):** 5
 
 ## Validation Issues
 
@@ -58,10 +58,6 @@
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-4-2026**
-  - ❌ Missing Registry field in frontmatter
-
-**CKS-BIO-48-2026**
-  - ❌ Missing title (H1)
   - ❌ Missing Registry field in frontmatter
 
 **CKS-BIO-5-2026**
@@ -127,44 +123,48 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (257 total)
+### Papers with Warnings (214 total)
 
 **CKS-ADHM-1-2026**
-  - ⚠️  DOI is stub (.zzz)
   - ⚠️  Missing ## References section
   - ⚠️  Missing ::: {#refs} ::: delimiter
 
 **CKS-ADHM-2-2026**
-  - ⚠️  DOI is stub (.zzz)
   - ⚠️  Missing ## References section
   - ⚠️  Missing ::: {#refs} ::: delimiter
-  - ... and 1 more
+  - ⚠️  No abstract section found
 
 **CKS-ADHM-3-2026**
-  - ⚠️  DOI is stub (.zzz)
   - ⚠️  Missing ## References section
   - ⚠️  Missing ::: {#refs} ::: delimiter
-  - ... and 1 more
+  - ⚠️  No abstract section found
 
-**CKS-BIO-38-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-47-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-**CKS-BIO-39-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-48-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-**CKS-BIO-40-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-49-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-**CKS-BIO-41-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-50-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-**CKS-BIO-42-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-51-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-**CKS-BIO-43-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-52-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-**CKS-BIO-44-2026**
-  - ⚠️  DOI is stub (.zzz)
+**CKS-BIO-53-2026**
+  - ⚠️  Missing ## References section
+  - ⚠️  Missing ::: {#refs} ::: delimiter
 
-... and 247 more papers with warnings
+... and 204 more papers with warnings
