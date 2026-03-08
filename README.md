@@ -9,8 +9,12 @@
 | ID | Title | Description |
 | :--- | :--- | :--- |
 | **[[@CKS-0-2026]](papers/_CKS/CKS-0-2026/manuscript.md)** | **Root Axioms** | The $N=3M^2$ evolution law and the topological first split. |
+| **[[@CKS-MATH-4-2026]](papers/MATH/CKS-MATH-4-2026/manuscript.md)** | **Derivation of the Fine Structure Constant** | α_EM^(-1) = [144√3 · e · N^(1/3)] / [(4√3-1) · 2π · ln(N)] = 137.035999084 |
+| **[[@CKS-MATH-7-2026]](papers/MATH/CKS-MATH-7-2026/manuscript.md)** | **Derivation of Standard Model Constants from Cymatic K-Space Mechanics** | All 19 SM parameters derived from 2 axioms + 1 measured input (N from H₀) with zero free parameters |
 | **[[@CKS-MATH-10-2026]](papers/MATH/CKS-MATH-10-2026/manuscript.md)** | **Grand Unification v1** | Complete Derivation of Physical Reality from Two Axioms |
+| **[[@CKS-MATH-70-2026]](papers/MATH/CKS-MATH-70-2026/manuscript.md)** | **The Rational Substrate — Why √2 Cannot Exist and 7:5 Cycles Are Fundamental** | The substrate is strictly rational (ℚ), not real (ℝ). All irrationals are infinite procedures, not computable values. √2 doesn't exist—7/5 does. |
 | **[[@CKS-MATH-104-2026]](papers/MATH/CKS-MATH-104-2026/manuscript.md)** | **Grand Unification v23** | The Substrate Measurement Standard |
+| **[[@CKS-MATH-124-2026]](papers/MATH/CKS-MATH-124-2026/manuscript.md)** | **The VFR Resolution of √2** | ℝ was invented because ℚ was incompletely specified - adding remainder tracking eliminates need for infinite decimals while revealing physical forces as lattice tension. |
 
 ---
 
