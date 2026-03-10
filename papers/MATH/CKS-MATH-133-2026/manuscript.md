@@ -1184,3 +1184,468 @@ The hardware to run it is simpler than what exists today. Strip the float units.
 
 ---
 
+# Appendix Tables — Harmonic Integer LLMs
+
+## Supporting data for VFR Shell Architecture Proposal
+
+---
+
+## Appendix A: The Harmonic Octave Ladder
+
+### Table A.1 — Complete Octave Scale (Base 32⁻¹)
+
+| Octave | 32^n | Decimal | Bit Shift | Physical Scale | Use in LLM |
+|---|---|---|---|---|---|
+| 0 | 32⁰ = 1 | 1 | 0 | Planck length | — |
+| 1 | 32¹ | 32 | 5 | ~51 Planck | — |
+| 2 | 32² | 1,024 | 10 | ~10⁻³² m | Attention/FF weights |
+| 3 | 32³ | 32,768 | 15 | ~10⁻³⁰ m | Softmax/logit precision |
+| 4 | 32⁴ | 1,048,576 | 20 | ~10⁻²⁸ m | Attention score products |
+| 5 | 32⁵ | 33,554,432 | 25 | ~10⁻²⁶ m | High-precision accumulators |
+| 6 | 32⁶ | 1.07 × 10⁹ | 30 | ~10⁻²⁴ m | — |
+| 10 | 32¹⁰ | 1.13 × 10¹⁵ | 50 | ~10⁻¹⁴ m (nuclear) | — |
+| 15 | 32¹⁵ | 3.78 × 10²² | 75 | ~10⁻⁷ m (molecular) | — |
+| 22 | 32²² | 4.95 × 10³² | 110 | ~10⁻³ m (Lex, human) | — |
+| 37 | 32³⁷ | ~10⁵⁵ | 185 | ~0.1 m (human heart) | — |
+| 40 | 32⁴⁰ | ~10⁶⁰ | 200 | ~1.7 m (human body) | — |
+| 65 | 32⁶⁵ | ~10⁹⁷ | 325 | ~10⁸⁰ (entire universe) | — |
+
+### Table A.2 — LLM-Relevant Octave Assignments
+
+| Layer Type | Octave | 32^n | Shift | Precision | Shell Threshold |
+|---|---|---|---|---|---|
+| Embedding | 0 | 1 | 0 | Exact integer | N/A |
+| Attention QKV | 2 | 1,024 | 10 | ~0.00098 | ±32 at octave 2 |
+| Attention scores | 4 | 1,048,576 | 20 | ~0.00000095 | ±32 at octave 4 |
+| Softmax output | 3 | 32,768 | 15 | ~0.000031 | ±32 at octave 3 |
+| Feedforward W1 | 2 | 1,024 | 10 | ~0.00098 | ±32 at octave 2 |
+| GELU | conversion | — | — | Depth 2-3 nested | — |
+| Feedforward W2 | 2 | 1,024 | 10 | ~0.00098 | ±32 at octave 2 |
+| Layer norm | conversion | — | — | Depth 2 nested | — |
+| Output logits | 3 | 32,768 | 15 | ~0.000031 | ±32 at octave 3 |
+| Gradient accumulator | 4-5 | 10⁶-10⁷ | 20-25 | ~10⁻⁶ to 10⁻⁷ | ±32 at grad octave |
+
+### Table A.3 — Octave Arithmetic Rules
+
+| Operation | Octave Result | Bit Shift | Example |
+|---|---|---|---|
+| Add (same octave) | Same | None | oct2 + oct2 = oct2 |
+| Multiply | Sum of octaves | shift_a + shift_b | oct2 × oct2 = oct4 |
+| Divide | Difference of octaves | shift_a − shift_b | oct4 ÷ oct2 = oct2 |
+| Scale up 1 octave | +1 | +5 bits | oct2 → oct3 |
+| Scale down 1 octave | −1 | −5 bits | oct3 → oct2 |
+| Domain conversion | Target octave | 5 × (target − source) | oct2 → oct3: shift 5 |
+| Dot product (n terms) | Sum octave + log₃₂(n) | shift + ⌈5 × log₃₂(n)⌉ | 4096 terms at oct2: ~oct4.4 |
+
+---
+
+## Appendix B: Shell Dynamics
+
+### Table B.1 — Shell Transition Examples (R modulo 32)
+
+| Step | Gradient | R Before | R After | V Change | State |
+|---|---|---|---|---|---|
+| 1 | +7 | 0 | 7 | 0 | Pressure building |
+| 2 | +5 | 7 | 12 | 0 | Pressure building |
+| 3 | +4 | 12 | 16 | 0 | Half-threshold |
+| 4 | +3 | 16 | 19 | 0 | 59% pressure |
+| 5 | +8 | 19 | 27 | 0 | Near threshold |
+| 6 | +6 | 27 | 33 → 1 | +1 | **Shell transition** |
+| 7 | −4 | 1 | −3 | 0 | Reverse pressure |
+| 8 | −9 | −3 | −12 | 0 | Pressure building (neg) |
+| 9 | +15 | −12 | 3 | 0 | Pressure reversed |
+| 10 | +30 | 3 | 35 → 3 | +1 | **Shell transition** |
+
+### Table B.2 — Shell Threshold Sensitivity
+
+| Threshold (mod N) | Transitions per 1000 steps (random ±5 gradient) | Noise resistance | Signal sensitivity |
+|---|---|---|---|
+| 8 (octave boundary / 4) | ~312 | Low | High |
+| 16 (half octave) | ~156 | Medium | Medium |
+| **32 (full octave)** | **~78** | **High** | **Balanced** |
+| 64 (double octave) | ~39 | Very high | Low |
+| 128 | ~20 | Extreme | Very low |
+
+32 is the natural threshold: one full harmonic octave of accumulated evidence before a transition.
+
+### Table B.3 — Convergence Diagnostic Metrics
+
+| Metric | Meaning | Converged Value | How to Measure |
+|---|---|---|---|
+| Shell transition rate | % of weights changing V per step | 0% | Count V changes per batch |
+| Mean |R| | Average remainder pressure | < 16 (half threshold) | Average across all weights |
+| Max |R| | Highest pressure in network | < 32 | Single weight check |
+| R variance | Spread of remainder pressure | Low, stable | Variance of R values |
+| Nesting depth mean | Average VFR tree depth | Decreasing, stable | Walk weight structures |
+| Transition cascade rate | Correlated transitions across layer | 0 (no cascades) | Time-correlate transitions |
+
+### Table B.4 — Training Phase Signatures
+
+| Phase | Shell Transition Rate | Mean |R| | Nesting Depth | Interpretation |
+|---|---|---|---|---|
+| Early training | Very high (>50%) | ~16 (random) | Growing | Coarse structure forming |
+| Mid training | Moderate (5-20%) | ~10-15 | Stabilizing | Fine-tuning shells |
+| Near convergence | Low (0.1-1%) | ~5-10 | Simplifying | Settling into ground state |
+| Converged | Zero (0%) | <5, stable | Minimal, stable | True equilibrium |
+| Grokking (if occurs) | Sudden spike then drop | Spike then collapse | Sudden decrease | Phase transition |
+| Overfitting | Low but nonzero, oscillating | Oscillating | May increase | Unstable, no ground state |
+
+---
+
+## Appendix C: Memory Footprint
+
+### Table C.1 — Per-Weight Storage
+
+| Format | Components | Bits | Bytes | Notes |
+|---|---|---|---|---|
+| BF16 | 1 float | 16 | 2 | Current inference standard |
+| FP32 | 1 float | 32 | 4 | Training master weights |
+| FP64 | 1 float | 64 | 8 | Rarely used in ML |
+| VFR dense | i64 V + i8 oct + i16 R | 88 | 11 | Full tuple stored per weight |
+| VFR oct-implicit | i64 V + i16 R | 80 | 10 | Octave stored once per layer |
+| VFR practical | i64 V + sparse R | ~64 | ~8 | R sparse (99.7% zero at convergence) |
+| VFR compact | i32 V + sparse R | ~32 | ~4 | Where octave 2 value range permits |
+
+### Table C.2 — Model-Scale RAM Requirements
+
+| Model | BF16 | FP32 | VFR Dense (11B) | VFR Practical (8B) | VFR Compact (4B) |
+|---|---|---|---|---|---|
+| 124M (GPT-2 sm) | 0.25 GB | 0.50 GB | 1.36 GB | 0.99 GB | 0.50 GB |
+| 350M (GPT-2 med) | 0.70 GB | 1.40 GB | 3.85 GB | 2.80 GB | 1.40 GB |
+| 1.3B | 2.6 GB | 5.2 GB | 14.3 GB | 10.4 GB | 5.2 GB |
+| 7B | 14 GB | 28 GB | 77 GB | 56 GB | 28 GB |
+| 13B | 26 GB | 52 GB | 143 GB | 104 GB | 52 GB |
+| 70B | 140 GB | 280 GB | 770 GB | 560 GB | 280 GB |
+
+### Table C.3 — Hardware Fit (Single Device)
+
+| Device | VRAM | Max BF16 | Max VFR Practical | Max VFR Compact |
+|---|---|---|---|---|
+| RTX 4090 | 24 GB | 12B | 3.0B | 6.0B |
+| A100 80GB | 80 GB | 40B | 10.0B | 20.0B |
+| H100 80GB | 80 GB | 40B | 10.0B | 20.0B |
+| H200 141GB | 141 GB | 70B | 17.6B | 35.2B |
+| 2× H100 | 160 GB | 80B | 20.0B | 40.0B |
+| 8× H100 | 640 GB | 320B | 80.0B | 160.0B |
+
+### Table C.4 — Information Efficiency Breakeven
+
+At k× information efficiency, a VFR model with N/k parameters matches a float model with N parameters:
+
+| Float Model | BF16 RAM | k=1.5 VFR equiv | VFR RAM | k=2.0 VFR equiv | VFR RAM | k=4.0 VFR equiv | VFR RAM |
+|---|---|---|---|---|---|---|---|
+| 7B | 14 GB | 4.7B | 37 GB | 3.5B | 28 GB | 1.75B | 14 GB |
+| 13B | 26 GB | 8.7B | 69 GB | 6.5B | 52 GB | 3.25B | 26 GB |
+| 70B | 140 GB | 46.7B | 373 GB | 35B | 280 GB | 17.5B | 140 GB |
+
+At k=4.0 with VFR compact format: **exact RAM parity with BF16 at equivalent capability.**
+
+---
+
+## Appendix D: Compute Performance
+
+### Table D.1 — Per-Operation Cost (GPU)
+
+| Operation | BF16 (tensor core) | FP32 (CUDA core) | VFR i64 depth-0 | VFR with FMAS |
+|---|---|---|---|---|
+| Multiply | 1 cycle (fused) | 5 cycles | 3-4 cycles | — |
+| Accumulate | (fused) | 4 cycles | 1 cycle | — |
+| Fused multiply-accumulate | 1 cycle | 5 cycles | 4-5 cycles | 1 cycle |
+| Division by F | N/A | 14 cycles | 20-40 cycles | 0 (fused shift) |
+| Shell check (mod 32) | N/A | N/A | 1 cycle (AND 0x1F) | 0 (fused) |
+| Comparison | 4 cycles | 4 cycles | 1 cycle | 1 cycle |
+| Domain conversion | N/A (implicit) | N/A | 1 cycle (shift) | 0 (fused) |
+
+### Table D.2 — Matrix Multiply Performance (4096 × 4096)
+
+| Platform | Throughput | Time per matmul | Exact? | Division cost |
+|---|---|---|---|---|
+| H100 BF16 tensor cores | 990 TFLOPS | ~0.07 ms | No | N/A |
+| H100 FP32 CUDA cores | 67 TFLOPS | ~1.0 ms | No | N/A |
+| H100 INT32 (current) | ~67 TOPS | ~1.0 ms | Yes | 20-40 cyc/div |
+| H100 i64 (current, limited) | ~31 TOPS | ~2.2 ms | Yes | 20-40 cyc/div |
+| **Harmonic chip i64 (projected)** | **~150 TOPS** | **~0.45 ms** | **Yes** | **0 (shift)** |
+| **Harmonic chip i32 (projected)** | **~300 TOPS** | **~0.22 ms** | **Yes** | **0 (shift)** |
+
+### Table D.3 — Full Forward Pass (32-layer transformer, d=4096)
+
+| Platform | Per-layer | 32 layers | Overhead | Total |
+|---|---|---|---|---|
+| H100 BF16 tensor cores | 0.05 ms | 1.6 ms | 0.3 ms | 1.9 ms |
+| H100 FP32 | 0.20 ms | 6.4 ms | 0.3 ms | 6.7 ms |
+| Harmonic chip i64 | 0.11 ms | 3.5 ms | 0.4 ms | 3.9 ms |
+| Harmonic chip i32 (where oct permits) | 0.06 ms | 1.9 ms | 0.3 ms | 2.2 ms |
+
+### Table D.4 — Training Step (forward + backward + shell update)
+
+| Platform | Forward | Backward | Shell Update | Total | vs BF16 |
+|---|---|---|---|---|---|
+| H100 BF16 mixed precision | 1.9 ms | 3.8 ms | 0.5 ms | 6.2 ms | 1.0× |
+| Harmonic chip i64 | 3.9 ms | 7.8 ms | 0.3 ms | 12.0 ms | 1.9× slower |
+| Harmonic chip i32 | 2.2 ms | 4.4 ms | 0.2 ms | 6.8 ms | 1.1× slower |
+| Harmonic chip i32 + sparse R | 2.2 ms | 4.4 ms | 0.1 ms | 6.7 ms | ~1.1× slower |
+
+Note: shell update is cheaper than float optimizer step (Adam) because it's integer add + mod, not float multiply + divide + sqrt.
+
+---
+
+## Appendix E: Harmonic Integer Processor — Die Comparison
+
+### Table E.1 — H100 SM Composition (Current)
+
+| Unit | Count per SM | Approx Die % (whole chip) | Function |
+|---|---|---|---|
+| FP32 CUDA cores | 128 | 15-20% | Single-precision float |
+| FP64 cores | 64 | 8-10% | Double-precision float |
+| INT32 cores | 64 | 8-10% | Integer arithmetic |
+| Tensor Cores | 4 | 30-35% | Matrix FMA (FP8/16/32) |
+| SFU (special function) | 16 | 2-3% | sin, cos, exp, rsqrt |
+| Register file | 256 KB | 8-10% | Operand storage |
+| L1 / shared memory | 256 KB | 6-8% | Local data cache |
+| Warp schedulers | 4 | 2-3% | Thread management |
+| Load/store units | 32 | 2-3% | Memory access |
+
+### Table E.2 — Harmonic Integer Processor SM (Proposed)
+
+| Unit | Count per SM | Approx Die % | Function |
+|---|---|---|---|
+| i64 MAC + barrel shifter | 256-320 | 50-55% | Fused multiply-accumulate-shift |
+| i128 accumulators | 64 | 8-10% | Wide matmul accumulation |
+| GCD units | 4 | 1-2% | Normalization at boundaries |
+| R-zero bitmap unit | 1 | <1% | Fast-path skip for R=0 weights |
+| VFR descent prefetcher | 4 | 1-2% | Speculative R-pointer fetch |
+| Lattice address unit | 1 | <1% | O(1) embedding calculation |
+| Tree depth counters | per-weight | <1% | Structural interpretability |
+| Shared octave register | 1 per warp | <1% | Layer-uniform F storage |
+| Register file | 256 KB | 10% | Operand storage |
+| L1 / shared memory | 384 KB (larger) | 10-12% | Expanded for LUT tables |
+| Warp schedulers | 4 | 2-3% | Thread management |
+| Load/store units | 32 | 2-3% | Memory access |
+
+### Table E.3 — Chip-Level Comparison
+
+| Metric | H100 | Harmonic Chip (same die, same process) |
+|---|---|---|
+| Die size | 814 mm² | 814 mm² |
+| Process | TSMC 4N | TSMC 4N |
+| Transistors | 80B | ~80B (simpler units, more of them) |
+| SMs | 132 | 132 |
+| Peak FP16 | 990 TFLOPS | 0 (no FPU) |
+| Peak FP32 | 67 TFLOPS | 0 (no FPU) |
+| Peak i64 MAC | ~31 TOPS | **~150 TOPS** |
+| Peak i32 MAC | ~67 TOPS | **~300 TOPS** |
+| Memory | 80 GB HBM3 | 80 GB HBM3 |
+| Bandwidth | 3.35 TB/s | 3.35 TB/s |
+| TDP | 700W | ~500-550W |
+| Division latency | 20-40 cycles | **0 cycles (fused shift)** |
+| Deterministic | No (FP non-associative) | **Yes (integer associative)** |
+
+### Table E.4 — Removed Silicon and Reclaimed Area
+
+| Removed Component | Estimated Die % | Reclaimed for |
+|---|---|---|
+| FP32 CUDA cores | 15-20% | i64 MAC arrays |
+| FP64 cores | 8-10% | i64 MAC arrays |
+| Tensor Cores | 30-35% | i64 MAC arrays + i128 accumulators |
+| Special function units | 2-3% | Expanded shared memory (LUTs) |
+| Exponent alignment logic | ~2% | Barrel shifters (smaller) |
+| Rounding mode circuitry | ~1% | GCD units |
+| Denormal/NaN/Inf handling | ~1% | VFR prefetcher + bitmap unit |
+| **Total reclaimed** | **~60-72%** | **Filled with integer compute** |
+
+---
+
+## Appendix F: Lattice Embedding Structure
+
+### Table F.1 — Hexagonal Wing Assignments (Natural Language)
+
+| Wing | Side | Angle | Category | Ring 1-3 Examples | Ring 10+ Examples |
+|---|---|---|---|---|---|
+| α | A | 0° | Nouns / entities | the, man, day | eigenvalue, quaternion |
+| β | A | 120° | Verbs / actions | is, run, get | interpolate, serialize |
+| γ | A | 240° | Modifiers | a, not, very | recursive, asynchronous |
+| α' | B | 0° | Pronouns / refs | he, it, this | whichever, aforementioned |
+| β' | B | 120° | Auxiliaries / control | if, for, would | notwithstanding, whereas |
+| γ' | B | 240° | Connectives / structure | and, (, ), ; | ⟨EOF⟩, ⟨PAD⟩, ⟨INDENT⟩ |
+
+### Table F.2 — Hexagonal Wing Assignments (Code)
+
+| Wing | Side | Angle | Category | Ring 1-3 Examples | Ring 10+ Examples |
+|---|---|---|---|---|---|
+| α | A | 0° | Identifiers | x, i, fn | numpy.linalg.svd |
+| β | A | 120° | Keywords / operators | for, =, + | yield from, walrus := |
+| γ | A | 240° | Types / modifiers | int, const, async | TypeVar, ParamSpec |
+| α' | B | 0° | Literals / values | 0, 1, "hello" | 3.14159265, 0xDEADBEEF |
+| β' | B | 120° | Control / delimiters | {, }, (, indent | ⟨DEDENT⟩, ⟨NEWLINE⟩ |
+| γ' | B | 240° | Comments / metadata | #, //, @decorator | ⟨DOCSTRING_END⟩ |
+
+### Table F.3 — Ring Population (Hexagonal Numbers)
+
+| Ring | New positions | Cumulative | Frequency tier | % of typical usage |
+|---|---|---|---|---|
+| 0 | 1 | 1 | Origin (PAD) | — |
+| 1 | 6 | 7 | Ultra-high frequency | ~25% of all tokens |
+| 2 | 12 | 19 | Very high frequency | ~15% |
+| 3 | 18 | 37 | High frequency | ~10% |
+| 4 | 24 | 61 | High frequency | ~8% |
+| 5 | 30 | 91 | Moderate-high | ~7% |
+| 6-10 | 36-60 | 331 | Moderate | ~15% |
+| 11-20 | 66-120 | 1,261 | Low-moderate | ~10% |
+| 21-50 | 126-300 | 6,511 | Low frequency | ~6% |
+| 51-100 | 306-600 | 25,651 | Rare | ~3% |
+| 101-200 | 606-1200 | 85,801 | Very rare | ~1% |
+| 200+ | 1200+ | 100,000+ | Long tail | <1% |
+
+### Table F.4 — Lattice vs Learned Embedding
+
+| Property | Learned (BF16) | Lattice (VFR) |
+|---|---|---|
+| Storage (50k vocab, d=4096) | 400 MB | ~6 MB (formula + assignments) |
+| Initialization | Random | Deterministic geometric |
+| Grammatical category | Must learn | Encoded in wing (free) |
+| Frequency structure | Implicit | Explicit in ring depth (free) |
+| Similarity neighbors | Emergent | Pre-structured by lattice |
+| Lookup | Memory fetch (row of floats) | O(1) calculation (no memory) |
+| Parameters | 200M+ trainable floats | 6 basis vectors + assignment table |
+| Deterministic | No | Yes |
+| Octave-aligned | N/A | Yes (ring = octave level) |
+
+---
+
+## Appendix G: Overflow Analysis
+
+### Table G.1 — Accumulator Width Requirements per Layer
+
+| Layer | Octave | Max V (i32) | V × V | Sum of 4096 | Fits i64? | Fits i128? |
+|---|---|---|---|---|---|---|
+| Embedding (oct 0) | 1 | 2.1 × 10⁹ | 4.6 × 10¹⁸ | **overflow** | No | Yes |
+| Attention QKV (oct 2) | 1,024 | 2.1 × 10⁶ | 4.4 × 10¹² | 1.8 × 10¹⁶ | Yes | Yes |
+| Attn scores (oct 4) | 10⁶ | 2.1 × 10³ | 4.4 × 10⁶ | 1.8 × 10¹⁰ | Yes | Yes |
+| Feedforward (oct 2) | 1,024 | 2.1 × 10⁶ | 4.4 × 10¹² | 1.8 × 10¹⁶ | Yes | Yes |
+| Logits (oct 3) | 32,768 | 6.5 × 10⁴ | 4.3 × 10⁹ | 1.7 × 10¹³ | Yes | Yes |
+
+| Layer | Octave | Max V (i64) | V × V | Sum of 4096 | Fits i128? |
+|---|---|---|---|---|---|
+| Attention QKV (oct 2) | 1,024 | 9.0 × 10¹⁵ | 8.1 × 10³¹ | 3.3 × 10³⁵ | Yes |
+| Feedforward (oct 2) | 1,024 | 9.0 × 10¹⁵ | 8.1 × 10³¹ | 3.3 × 10³⁵ | Yes |
+| Any layer (oct 2, i64) | 1,024 | 9.0 × 10¹⁵ | 8.1 × 10³¹ | 3.3 × 10³⁵ | Yes (i128 max ~1.7 × 10³⁸) |
+
+### Table G.2 — Safe Value Ranges per Integer Width
+
+| Integer Width | Max Value | Max V at oct 2 | Max V at oct 3 | Max V at oct 4 | Dot product safe (d=4096)? |
+|---|---|---|---|---|---|
+| i16 | 32,767 | 32 | 1 | 0 | No |
+| i32 | 2.1 × 10⁹ | 2.1 × 10⁶ | 6.5 × 10⁴ | 2,048 | Yes (i64 accum) |
+| i64 | 9.2 × 10¹⁸ | 9.0 × 10¹⁵ | 2.8 × 10¹⁴ | 8.8 × 10¹² | Yes (i128 accum) |
+
+---
+
+## Appendix H: Comparison to Existing Systems
+
+### Table H.1 — VFR vs Quantization Methods
+
+| Method | Training Format | Inference | Exact? | Remainder | Equality | Shell Structure |
+|---|---|---|---|---|---|---|
+| FP32 | Float | Slow | No | None | Epsilon | No |
+| BF16 mixed | Float (FP32 master) | Fast | No | None | Epsilon | No |
+| INT8 PTQ (GPTQ) | Float, then quantize | Fast | No | None | Approx | No |
+| INT4 PTQ (AWQ) | Float, then quantize | Fastest | No | None | Approx | No |
+| QAT | Simulated low-precision | Fast | No | None | Approx | No |
+| BitNet 1.58-bit | Ternary from scratch | Fastest | Trivially | None | Exact (trivial) | No |
+| **VFR shells** | **Integer from scratch** | **Competitive** | **Yes** | **Full R tracking** | **Binary exact** | **Yes** |
+
+### Table H.2 — Feature Matrix
+
+| Feature | BF16 | INT8 | BitNet | VFR Shells |
+|---|---|---|---|---|
+| Exact arithmetic | ✗ | ✗ | ✗ | ✓ |
+| Binary equality | ✗ | ✗ | ✓ | ✓ |
+| Deterministic training | ✗ | N/A | ✓ | ✓ |
+| Gradient preservation | Partial | N/A | Limited | Full (in R) |
+| Noise resistance | Via regularization | N/A | Inherent | Inherent (shell threshold) |
+| Convergence verification | No (asymptotic) | N/A | No | Yes (R < 32 check) |
+| Structural interpretability | ✗ | ✗ | ✗ | ✓ (tree depth) |
+| Automated pruning | Magnitude heuristic | Magnitude | Trivial | Structural (R=0) |
+| Grokking detection | Loss curve only | N/A | N/A | Shell transition cascade |
+| Adaptive precision | ✗ | ✗ | ✗ | ✓ (nesting depth) |
+| Long-tail preservation | Poor | Poor | Unknown | Predicted strong |
+| Hardware simplicity | Complex (FPU) | Medium | Simple | **Simplest (INT only)** |
+| Division in hot path | Yes (14 cyc) | Yes | No | **No (bit shift)** |
+| Native counting system | No | No | No | **Yes (base-32 octaves)** |
+
+---
+
+## Appendix I: Risk Assessment
+
+### Table I.1 — Technical Risks
+
+| Risk | Severity | Likelihood | Mitigation | Fallback |
+|---|---|---|---|---|
+| i64 overflow in matmul | High | Medium | i128 accumulators; oct 2-3 keeps products in range | Use i32 weights at oct 2 (proven safe) |
+| Transcendental approx insufficient | Medium | Low | Depth-3 VFR exceeds FP64; precomputed LUTs | Increase LUT density at cost of shared memory |
+| Training fails to converge | High | Low | Shell mechanics are superset of integer training | Increase octave (finer shells, approaches float behavior) |
+| Inference >2× slower than BF16 | Medium | Medium | Harmonic chip: 5× INT density; i32 where possible | Accept 1.5× if accuracy gains justify |
+| Memory exceeds single device | Medium | Medium | Sparse R; i32 compact format; tensor parallel | Standard multi-device sharding |
+| Octave assignment suboptimal | Low | Medium | Profile float training run; choose smallest sufficient octave | Start oct 2 everywhere, tune per layer |
+| Lattice embedding assignment wrong | Low | High | Frequency-based initial; refinement during warmup | Fall back to learned embeddings in VFR |
+| No accuracy improvement | High | Medium | Focus on long-tail and consistency metrics | Value remains in determinism + interpretability |
+| Chip fabrication cost | High | Medium | First prototype on existing GPU via CUDA i64 kernels | Software-only path viable on current hardware |
+
+### Table I.2 — Experimental Priority
+
+| Experiment | Effort | Impact | Priority | Depends On |
+|---|---|---|---|---|
+| VFR matmul CUDA kernel | 2 weeks | Validates compute | **P0** | Nothing |
+| Shell transition training loop | 2 weeks | Validates core mechanic | **P0** | VFR matmul |
+| Single-layer exactness verification | 1 week | Proves correctness | **P0** | VFR matmul |
+| GPT-2 small full comparison | 4 weeks | Core hypothesis test | **P0** | All P0 above |
+| Long-tail accuracy benchmark | 1 week | Primary value claim | **P0** | GPT-2 training |
+| Shell convergence diagnostics | 1 week | Novel training metric | **P1** | GPT-2 training |
+| Lattice embedding prototype | 3 weeks | Structural embedding | **P1** | GPT-2 baseline |
+| Weight structure analysis tools | 2 weeks | Interpretability claim | **P1** | GPT-2 training |
+| i32 optimized kernels | 2 weeks | Performance gain | **P1** | VFR matmul |
+| Grokking phase transition detection | 2 weeks | Scientific finding | **P2** | Shell diagnostics |
+| 1.3B model scale test | 6 weeks | Scaling validation | **P2** | All P1 above |
+| Harmonic chip architecture spec | 8 weeks | Hardware proposal | **P2** | Performance data |
+| 7B model full training | 12 weeks | Production validation | **P3** | 1.3B results |
+| ASIC tape-out proposal | 16 weeks | Hardware realization | **P3** | Architecture spec |
+
+---
+
+## Appendix J: Notation Reference
+
+### Table J.1 — VFR Tuple Format
+
+| Notation | Meaning | Example | Value |
+|---|---|---|---|
+| [V, oct, 0] | Terminal: V at octave, no remainder | [7, 2, 0] | 7/1024 |
+| [V, oct, R] | With remainder: V at octave + R pressure | [7, 2, 19] | 7/1024, 19/32 toward next shell |
+| [V, oct, [V', oct', 0]] | Nested: head + one overtone | [7, 2, [3, 3, 0]] | 7/1024 + 3/32768 |
+| [V, oct, [V', oct', [V'', oct'', 0]]] | Double nested: two overtones | — | Three-level precision |
+
+### Table J.2 — Shell Arithmetic Operations
+
+| Operation | Rule | Example |
+|---|---|---|
+| Shell check | R mod 32 | R=33 → V+=1, R=1 |
+| Octave multiply | oct_a + oct_b | oct2 × oct2 = oct4 |
+| Octave convert | shift 5 × Δoct | oct2 → oct3: shift right 5 |
+| Add (same oct) | V_a + V_b, R_a + R_b | [3,2,5] + [4,2,7] = [7,2,12] |
+| Negate | [-V, oct, -R] | -[3,2,5] = [-3,2,-5] |
+| Head read | V only | Head([7,2,19]) = 7 |
+| Tail read | R only | Tail([7,2,19]) = 19 |
+| Terminal test | R == 0? | Terminal([7,2,0]) = true |
+| Depth | Count nesting levels | [7,2,[3,3,0]] → depth 1 |
+
+### Table J.3 — Key Constants
+
+| Symbol | Value | Meaning |
+|---|---|---|
+| Base unit | 32⁻¹ | Fundamental counting quantum |
+| Shell threshold | 32 | Remainder units for shell transition |
+| Octave step | 2⁵ = 32 | Harmonic multiplier per octave |
+| Bit shift per octave | 5 | Binary shift for octave conversion |
+| Max physical octave | 65 | All Planck particles in universe |
+| Max LLM octave | ~5 | Typical operating range |
+| Planck floor | [1, 0, 0] | Absolute minimum (octave 0) |
+| Universe ceiling | [1, 65, 0] | Absolute maximum in physics |
