@@ -402,3 +402,288 @@ The expected outcome is not a smarter model. It is a more precise model — one 
 ---
 
 *This document draws on the Logismos framework: VFR arithmetic (CKS-MATH-124), exact linear algebra (CKS-MATH-118), S-expression recursion (CKS-MATH-125, CKS-MATH-126), GPU integer compute (CKS-MATH-122), and lattice addressing (CKS-MATH-113).*
+
+---
+
+## Appendix A: Memory Footprint Comparisons
+
+### Table A.1 — Per-Weight Storage Cost
+
+| Format | V | F | R | Total Bits | Total Bytes |
+|---|---|---|---|---|---|
+| BF16 | 16 (combined) | — | — | 16 | 2 |
+| FP32 | 32 (combined) | — | — | 32 | 4 |
+| FP64 | 64 (combined) | — | — | 64 | 8 |
+| VFR dense | i64 (64) | i64 (64) | i16 (16) | 144 | 18 |
+| VFR F-implicit | i64 (64) | implicit (0) | i16 (16) | 80 | 10 |
+| VFR F-implicit R-sparse | i64 (64) | implicit (0) | sparse (~0) | ~64 | ~8 |
+
+### Table A.2 — Model-Scale RAM Requirements
+
+| Model Size | BF16 | FP32 | VFR Dense | VFR Practical (F-implicit, R-sparse) |
+|---|---|---|---|---|
+| 124M (GPT-2 small) | 0.25 GB | 0.50 GB | 2.23 GB | 1.03 GB |
+| 1.3B | 2.6 GB | 5.2 GB | 23.4 GB | 10.8 GB |
+| 7B | 14 GB | 28 GB | 126 GB | 58 GB |
+| 13B | 26 GB | 52 GB | 234 GB | 108 GB |
+| 70B | 140 GB | 280 GB | 1,260 GB | 582 GB |
+
+### Table A.3 — Hardware Fit (Single Device)
+
+| Device | VRAM | Max BF16 | Max FP32 | Max VFR Practical |
+|---|---|---|---|---|
+| RTX 4090 | 24 GB | 12B | 6B | 2.8B |
+| A100 80GB | 80 GB | 40B | 20B | 9.3B |
+| H100 80GB | 80 GB | 40B | 20B | 9.3B |
+| H200 141GB | 141 GB | 70B | 35B | 16.4B |
+| 2× H100 (tensor parallel) | 160 GB | 80B | 40B | 18.6B |
+| 8× H100 (full node) | 640 GB | 320B | 160B | 74.4B |
+
+### Table A.4 — Information Efficiency Breakeven
+
+If VFR achieves k× information efficiency per parameter, then equivalent capability requires fewer parameters. RAM comparison at equivalent capability:
+
+| Float Model | Float RAM (BF16) | VFR Equivalent at k=1.5 | VFR RAM | Net RAM Change |
+|---|---|---|---|---|
+| 7B | 14 GB | 4.7B | 39 GB | +25 GB (2.8×) |
+| 13B | 26 GB | 8.7B | 72 GB | +46 GB (2.8×) |
+| 70B | 140 GB | 46.7B | 387 GB | +247 GB (2.8×) |
+
+| Float Model | Float RAM (BF16) | VFR Equivalent at k=2.0 | VFR RAM | Net RAM Change |
+|---|---|---|---|---|
+| 7B | 14 GB | 3.5B | 29 GB | +15 GB (2.1×) |
+| 13B | 26 GB | 6.5B | 54 GB | +28 GB (2.1×) |
+| 70B | 140 GB | 35B | 290 GB | +150 GB (2.1×) |
+
+| Float Model | Float RAM (BF16) | VFR Equivalent at k=4.0 | VFR RAM | Net RAM Change |
+|---|---|---|---|---|
+| 7B | 14 GB | 1.75B | 14.5 GB | +0.5 GB (1.04×) |
+| 13B | 26 GB | 3.25B | 27 GB | +1 GB (1.04×) |
+| 70B | 140 GB | 17.5B | 145 GB | +5 GB (1.04×) |
+
+Note: at k=4.0, VFR achieves RAM parity with BF16 at equivalent capability.
+
+---
+
+## Appendix B: Compute Performance Projections
+
+### Table B.1 — Per-Operation Cycle Cost (GPU)
+
+| Operation | Float BF16 | Float FP32 | VFR i64 (depth-0) | VFR i64 (depth-1) |
+|---|---|---|---|---|
+| Add | 4 cycles | 4 cycles | 1 cycle | 3 cycles |
+| Multiply | 5 cycles | 5 cycles | 3-4 cycles | 8-10 cycles |
+| Divide | 14 cycles | 14 cycles | 20-40 cycles | 40-80 cycles |
+| FMA (multiply-add) | 5 cycles | 5 cycles | 4-5 cycles | 10-12 cycles |
+| Comparison | 4 cycles | 4 cycles | 1 cycle | 1 cycle (head only) |
+
+### Table B.2 — Matrix Multiply Throughput (4096×4096, RTX 4090)
+
+| Format | Throughput (TOPS) | Time per matmul | Relative |
+|---|---|---|---|
+| BF16 (tensor cores) | 165 TFLOPS | ~0.4 ms | 1.0× (baseline) |
+| FP32 | 82.6 TFLOPS | ~0.8 ms | 2.0× slower |
+| INT8 (tensor cores) | 330 TOPS | ~0.2 ms | 2.0× faster |
+| VFR i64 (integer ALU) | 41.3 TOPS | ~1.6 ms | 4.0× slower |
+| VFR i32 (where F permits) | 82.6 TOPS | ~0.8 ms | 2.0× slower |
+
+### Table B.3 — Full Forward Pass Projection (32-layer transformer, d=4096)
+
+| Format | Per-layer | 32 layers | Overhead | Total |
+|---|---|---|---|---|
+| BF16 | 0.10 ms | 3.2 ms | 0.3 ms (softmax, norm) | 3.5 ms |
+| FP32 | 0.20 ms | 6.4 ms | 0.3 ms | 6.7 ms |
+| VFR i64 | 0.40 ms | 12.8 ms | 0.8 ms (domain conversion) | 13.6 ms |
+| VFR i32 (optimized F) | 0.20 ms | 6.4 ms | 0.5 ms | 6.9 ms |
+
+### Table B.4 — Training Step Projection (forward + backward + update)
+
+| Format | Forward | Backward | Update | Total per step |
+|---|---|---|---|---|
+| BF16 mixed precision | 3.5 ms | 7.0 ms | 0.5 ms | 11.0 ms |
+| VFR i64 | 13.6 ms | 27.2 ms | 1.0 ms | 41.8 ms |
+| VFR i32 (optimized F) | 6.9 ms | 13.8 ms | 0.7 ms | 21.4 ms |
+| VFR i32 + sparse R | 6.9 ms | 13.8 ms | 0.5 ms | 21.2 ms |
+
+Note: VFR i64 is ~3.8× slower per step. VFR i32 with optimized F is ~1.9× slower. If information efficiency reduces required training tokens by 2× or more, wall-clock training time is comparable.
+
+---
+
+## Appendix C: Domain Factor Selection
+
+### Table C.1 — Layer Domain Assignments
+
+| Layer Type | Suggested F | Integer Type | Value Range | Precision |
+|---|---|---|---|---|
+| Embedding | 1 | i32 | ±2.1B | Exact integer |
+| Attention QKV | 1024 | i32 | ±2.1M effective | ~1/1024 ≈ 0.001 |
+| Attention scores | 1048576 (1024²) | i64 | ±8.8T effective | ~1/10⁶ ≈ 0.000001 |
+| Softmax output | 10000 | i32 | ±214K effective | ~1/10000 = 0.0001 |
+| Feedforward W1 | 1024 | i32 | ±2.1M effective | ~0.001 |
+| GELU activation | domain conversion | — | — | nested VFR depth 2-3 |
+| Feedforward W2 | 1024 | i32 | ±2.1M effective | ~0.001 |
+| Layer norm | domain conversion | — | — | nested VFR depth 2 |
+| Output logits | 10000 | i32 | ±214K effective | ~0.0001 |
+
+### Table C.2 — Power-of-2 F Values (Bit-Shift Optimization)
+
+| F Value | Bit Shift | Precision | Division Cost | Recommended For |
+|---|---|---|---|---|
+| 1 | 0 | integer | free | embeddings, particles |
+| 32 | 5 | 0.03125 | 1 shift | skinning weights |
+| 256 | 8 | 0.0039 | 1 shift | UV coordinates |
+| 1024 | 10 | 0.00098 | 1 shift | attention, feedforward |
+| 32768 | 15 | 0.000031 | 1 shift | high-precision layers |
+| 1048576 | 20 | 0.00000095 | 1 shift | attention score products |
+
+Note: Power-of-2 F values replace division with bit shift — eliminating the most expensive integer operation.
+
+### Table C.3 — Overflow Analysis per Layer (i64 accumulator)
+
+| Layer | F | Max V (i32) | Product V×V | Sum of 4096 products | Fits i64? |
+|---|---|---|---|---|---|
+| Embedding (F=1) | 1 | 2.1×10⁹ | 4.6×10¹⁸ | overflow | No — use i128 accumulator |
+| Attention (F=1024) | 1024 | 2.1×10⁶ | 4.4×10¹² | 1.8×10¹⁶ | Yes |
+| Feedforward (F=1024) | 1024 | 2.1×10⁶ | 4.4×10¹² | 1.8×10¹⁶ | Yes |
+| Logits (F=10000) | 10000 | 2.1×10⁵ | 4.6×10¹⁰ | 1.9×10¹⁴ | Yes |
+
+### Table C.4 — Float Precision Equivalence
+
+| VFR Configuration | Decimal Digits of Precision | Float Equivalent |
+|---|---|---|
+| i16 V, F=1024 | ~5 digits | Between FP16 and FP32 |
+| i32 V, F=1024 | ~9 digits | FP32 |
+| i32 V, F=32768 | ~14 digits | FP64 |
+| i64 V, F=1024 | ~19 digits | Beyond FP64 |
+| i64 V, nested depth-1 | ~38 digits | Beyond FP128 |
+| i64 V, nested depth-2 | ~57 digits | No float equivalent |
+
+---
+
+## Appendix D: Lattice Embedding Structure
+
+### Table D.1 — Hexagonal Wing Assignments (Natural Language)
+
+| Wing | Side | Angle | Category | Examples |
+|---|---|---|---|---|
+| α | A (front) | 0° | Nouns / entities | dog, server, matrix, Congress |
+| β | A (front) | 120° | Verbs / actions | run, compute, elect, transform |
+| γ | A (front) | 240° | Modifiers / attributes | fast, recursive, blue, very |
+| α' | B (back) | 0° | Pronouns / references | he, it, this, which, self |
+| β' | B (back) | 120° | Auxiliaries / control | is, would, if, for, while |
+| γ' | B (back) | 240° | Connectives / structure | and, (, ), ;, comma, EOF |
+
+### Table D.2 — Hexagonal Wing Assignments (Programming Languages)
+
+| Wing | Side | Angle | Category | Examples |
+|---|---|---|---|---|
+| α | A | 0° | Identifiers / names | x, myList, numpy, DataFrame |
+| β | A | 120° | Keywords / operators | for, return, +, ==, yield |
+| γ | A | 240° | Type annotations / modifiers | int, static, async, const |
+| α' | B | 0° | Literals / values | 42, "hello", True, 3.14 |
+| β' | B | 120° | Control flow / delimiters | {, }, (, ), [, ], indent, dedent |
+| γ' | B | 240° | Comments / metadata | #, //, @decorator, docstring |
+
+### Table D.3 — Ring Depth by Token Frequency
+
+| Ring | Tokens at Ring | Cumulative Tokens | Frequency Class | Examples |
+|---|---|---|---|---|
+| 0 | 1 | 1 | Origin / padding | PAD |
+| 1 | 6 | 7 | Ultra-common | the, a, is, of, to, in |
+| 2 | 12 | 19 | Very common | and, for, that, it, with, on, as, ... |
+| 3 | 18 | 37 | Common | from, return, if, not, this, ... |
+| 4-5 | 24-30 | 91 | Frequent | class, function, import, while, ... |
+| 6-10 | 36-60 | 331 | Moderate | specific, lambda, yield, enumerate, ... |
+| 11-50 | 66-300 | ~5,000 | Uncommon | eigenvalue, serialization, middleware, ... |
+| 51-200 | 306-1200 | ~50,000 | Rare | numpy.linalg.svd, RuntimeWarning, ... |
+| 200+ | 1200+ | 100,000+ | Long tail | domain-specific, neologisms, ... |
+
+### Table D.4 — Lattice vs Learned Embedding Comparison
+
+| Property | Learned Embedding (float) | Lattice Embedding (VFR) |
+|---|---|---|
+| Initialization | Random | Deterministic geometric |
+| Grammatical structure | Must learn from data | Encoded in wing assignment |
+| Frequency encoding | Implicit in weight magnitudes | Explicit in ring depth |
+| Similarity structure | Emergent after training | Pre-structured by lattice |
+| Token lookup | Matrix row fetch | O(1) lattice calculation |
+| Parameters | vocab_size × d_model floats | Wing basis vectors + ring formula |
+| Storage (50k vocab, d=4096) | 400 MB (BF16) | ~6 MB (lattice rules + assignments) |
+| Trainable | Yes (all parameters) | Partially (assignment refinement) |
+| Deterministic | No (float dependent) | Yes (integer calculation) |
+
+---
+
+## Appendix E: Comparison to Existing Approaches
+
+### Table E.1 — VFR vs Quantization Methods
+
+| Method | Training | Inference | Exactness | Remainder Tracking | Equality |
+|---|---|---|---|---|---|
+| FP32 | Standard | Slow | No | None | Epsilon |
+| BF16 mixed precision | Standard | Fast | No | None | Epsilon |
+| INT8 post-training (GPTQ) | Float, then quantize | Fast | No | None | Approximate |
+| INT4 post-training (AWQ) | Float, then quantize | Fastest | No | None | Approximate |
+| QAT (quantization-aware) | Simulated low-precision | Fast | No | None | Approximate |
+| BitNet (1.58-bit) | Ternary from scratch | Fastest | No | None | Exact (trivially) |
+| **VFR (this proposal)** | **Integer from scratch** | **Competitive** | **Yes** | **Full R tracking** | **Binary exact** |
+
+### Table E.2 — VFR vs Rational Arithmetic Libraries
+
+| System | Representation | Arbitrary Precision | GPU Support | ML Integration | Performance |
+|---|---|---|---|---|---|
+| GMP | Arbitrary-size integer pairs | Yes | No | None | Slow (CPU only) |
+| SymPy Rational | Python fraction objects | Yes | No | None | Very slow |
+| Mathematica Exact | Symbolic expressions | Yes | No | None | Moderate |
+| FLINT | Fast integer library | Yes | Partial | None | Fast (CPU) |
+| **VFR** | **[V, F, R] with F-implicit** | **Yes (via nesting)** | **Yes (native i64)** | **Designed for ML** | **GPU-native** |
+
+### Table E.3 — Feature Comparison Matrix
+
+| Feature | BF16 Float | INT8 Quantized | BitNet | VFR |
+|---|---|---|---|---|
+| Exact arithmetic | ✗ | ✗ | ✗ | ✓ |
+| Binary equality | ✗ | ✗ | ✓ | ✓ |
+| Deterministic training | ✗ | N/A | ✓ | ✓ |
+| Deterministic inference | ✗ | ✗ | ✓ | ✓ |
+| Gradient signal preservation | Partial | N/A | Limited | Full |
+| Structural interpretability | ✗ | ✗ | ✗ | ✓ (tree depth) |
+| Automated pruning criterion | ✗ | ✗ | ✗ | ✓ (R=0 detection) |
+| Adaptive precision | ✗ | ✗ | ✗ | ✓ (nesting depth) |
+| Long-tail pattern preservation | Poor | Poor | Unknown | Predicted strong |
+| GPU throughput | High (tensor cores) | Highest | Highest | Competitive (integer ALU) |
+| Memory per parameter | 2 bytes | 1 byte | 0.2 bytes | 8 bytes (practical) |
+| Information per parameter | Low (noise floor) | Very low | Minimal | High (exact) |
+
+---
+
+## Appendix F: Risk Assessment
+
+### Table F.1 — Technical Risks and Mitigations
+
+| Risk | Severity | Likelihood | Mitigation | Fallback |
+|---|---|---|---|---|
+| Integer overflow in matmul accumulation | High | Medium | i128 accumulators, power-of-2 F with bit shifts | Reduce F per layer until safe |
+| Transcendental approximation insufficient | Medium | Low | Depth-3 nested VFR exceeds FP64 precision | Precomputed lookup tables at any needed density |
+| Training does not converge | High | Low | VFR arithmetic is a superset of rational — convergence properties preserved | Fall back to larger F (approaching float precision) |
+| Inference too slow (>3× float) | Medium | Medium | i32 weights where F permits, bit-shift F values, kernel optimization | Accept 2× slowdown if accuracy gains justify it |
+| Memory exceeds device capacity | Medium | Medium | Sparse R storage, F-implicit layout, i32 where possible | Multi-device tensor parallelism |
+| Lattice embedding assignment suboptimal | Low | High | Frequency-based initial assignment, refinement during warmup | Fall back to learned embeddings with VFR values |
+| No measurable accuracy improvement | High | Medium | Focus measurement on long-tail and consistency metrics | Value proposition shifts to determinism and interpretability alone |
+| Ecosystem resistance (no framework support) | Medium | High | Custom CUDA kernels with Python wrapper | Release as open-source library for community adoption |
+
+### Table F.2 — Experimental Priority Matrix
+
+| Experiment | Effort | Expected Impact | Priority |
+|---|---|---|---|
+| VFR matmul kernel (CUDA) | 2 weeks | Validates compute feasibility | P0 — must do first |
+| Single-layer forward/backward verification | 1 week | Proves exactness end-to-end | P0 |
+| GPT-2 small full training comparison | 4 weeks | Core hypothesis test | P0 |
+| Long-tail accuracy benchmark | 1 week | Tests primary value claim | P0 |
+| Lattice embedding prototype | 3 weeks | Tests structural embedding hypothesis | P1 |
+| Weight structure analysis tooling | 2 weeks | Tests interpretability claim | P1 |
+| i32 optimized kernels | 2 weeks | Performance improvement | P1 |
+| 1.3B model scale test | 6 weeks | Validates scaling behavior | P2 |
+| Grokking detection via tree depth | 2 weeks | Novel scientific finding if confirmed | P2 |
+| 7B model full training | 12 weeks | Production-scale validation | P3 |
+
