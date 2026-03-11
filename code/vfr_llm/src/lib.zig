@@ -900,7 +900,8 @@ pub fn backward_and_update(
         for (0..D_FF) |i| {
             for (0..d) |j| {
                 const w_val: i64 = @intCast(layer.w2.get_v(@intCast(i), @intCast(j)));
-                d_ff_post[i] = @intCast(@as(i64, d_ff_post[i]) + (w_val * @as(i64, d_ff_out[j]) >> OCTAVE_SHIFT));
+                const out: i64 = @intCast(@as(i64, d_ff_post[i]) + (w_val * @as(i64, d_ff_out[j]) >> OCTAVE_SHIFT));
+                d_ff_post[i] = @intCast(std.math.clamp(out, -2147483647, 2147483647));
             }
         }
 
@@ -936,7 +937,7 @@ pub fn backward_and_update(
                 const w_val: i64 = @intCast(layer.w1.get_v(@intCast(i), @intCast(j)));
                 acc += w_val * @as(i64, d_ff_post[j]) >> OCTAVE_SHIFT;
             }
-            d_x[i] = @intCast(acc);
+            d_x[i] = @intCast(std.math.clamp(acc, -2147483647, 2147483647));
         }
 
         // -- Attention backward (simplified) --
