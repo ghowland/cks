@@ -911,7 +911,7 @@ pub fn backward_and_update(
         for (0..D_FF) |i| {
             for (0..d) |j| {
                 const grad: i64 = @as(i64, d_ff_pre_buf[i]) * @as(i64, d_ff_out[j]);
-                const grad_i32: i32 = @intCast(grad >> OCTAVE_SHIFT);
+                const grad_i32: i32 = @intCast(std.math.clamp(grad >> OCTAVE_SHIFT, -2147483647, 2147483647));
                 layer.w2.at_mut(@intCast(i), @intCast(j)).update(grad_i32, lr_shift);
             }
         }
@@ -948,7 +948,8 @@ pub fn backward_and_update(
 
         // update wo: grad = attn_out × d_x^T (approx: use score * v as attn_out)
         for (0..d) |i| {
-            const v_scaled: i64 = @as(i64, v_acts[li][i]) * @as(i64, attn_scores[li]) >> OCTAVE_SHIFT;
+            const v_scaled: i64 = @intCast(std.math.clamp(@as(i64, v_acts[li][i]) * @as(i64, attn_scores[li]) >> OCTAVE_SHIFT, -2147483647, 2147483647));
+
             for (0..d) |j| {
                 const grad: i64 = v_scaled * @as(i64, d_x[j]) >> OCTAVE_SHIFT;
                 const grad_i32: i32 = @intCast(std.math.clamp(grad, -100000, 100000));
@@ -960,7 +961,9 @@ pub fn backward_and_update(
         // (proportional to d_x scaled by layer input)
         for (0..d) |i| {
             for (0..d) |j| {
-                const grad: i64 = @as(i64, layer_in[i]) * @as(i64, d_x[j]) >> OCTAVE_SHIFT;
+                // const grad: i64 = @as(i64, layer_in[i]) * @as(i64, d_x[j]) >> OCTAVE_SHIFT;
+                const grad: i64 = @intCast(std.math.clamp((@as(i128, layer_in[i]) * @as(i128, d_x[j])) >> OCTAVE_SHIFT, -2147483647, 2147483647));
+
                 const grad_i32: i32 = @intCast(std.math.clamp(grad, -100000, 100000));
                 layer.wv.at_mut(@intCast(i), @intCast(j)).update(grad_i32, lr_shift);
                 layer.wq.at_mut(@intCast(i), @intCast(j)).update(grad_i32, lr_shift + 1);
