@@ -6,7 +6,7 @@ const Allocator = std.mem.Allocator;
 pub const SHELL_THRESHOLD: i16 = 32;
 pub const OCTAVE: u8 = 2;
 pub const OCTAVE_SHIFT: u5 = 10; // 5 * OCTAVE
-pub const VOCAB_SIZE: u32 = 512;
+pub const VOCAB_SIZE: u32 = 4096; //512; // Needs to be large enough to take different tokens, upgrading from 512
 pub const D_MODEL: u32 = 128;
 pub const N_LAYERS: u32 = 4;
 pub const N_HEADS: u32 = 4;
@@ -623,7 +623,8 @@ pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
     var fw = file.writer(&write_buf);
     const writer: *std.Io.Writer = &fw.interface;
     try writer.writeAll(std.mem.asBytes(&count));
-    try writer.flush(); // MUST flush
+    try writer.writeAll(std.mem.sliceAsBytes(tokens));
+    try writer.flush();
 }
 
 // pub fn read_tokens(path: []const u8, allocator: Allocator) ![]u16 {
