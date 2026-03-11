@@ -252,13 +252,15 @@ pub fn matmul_vec_weight(input: []const i32, w: *const WeightMatrix, output: []i
 }
 
 /// Multiply two activation vectors: dot product
-/// Returns scalar i32 (shifted by OCTAVE_SHIFT)
 pub fn dot_product(a: []const i32, b: []const i32) i32 {
-    var acc: i64 = 0;
+    var acc: i128 = 0;
     for (a, b) |av, bv| {
-        acc += @as(i64, av) * @as(i64, bv);
+        acc += @as(i128, av) * @as(i128, bv);
     }
-    return @intCast(std.math.clamp(acc >> OCTAVE_SHIFT, -2147483647, 2147483647));
+    const result = acc >> OCTAVE_SHIFT;
+    if (result > 2147483647) return 2147483647;
+    if (result < -2147483647) return -2147483647;
+    return @intCast(result);
 }
 
 /// Element-wise addition of two vectors, result in out
@@ -926,7 +928,8 @@ pub fn backward_and_update(
             for (0..D_FF) |j| {
                 // update w1
                 const grad: i64 = @as(i64, layer_in[i]) * @as(i64, d_ff_post[j]);
-                const grad_i32: i32 = @intCast(grad >> OCTAVE_SHIFT);
+                const grad_i32: i32 = @intCast(std.math.clamp(grad >> OCTAVE_SHIFT, -2147483647, 2147483647));
+
                 layer.w1.at_mut(@intCast(i), @intCast(j)).update(grad_i32, lr_shift);
 
                 // propagate
