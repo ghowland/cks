@@ -259,8 +259,6 @@ def Sync(args):
 
       print(f'Sync: {item["file_path"]}: {topic_name}: {paper_id}')
 
-
-
       # Limit
       cur_count += 1
       if cur_count >= max_count:
