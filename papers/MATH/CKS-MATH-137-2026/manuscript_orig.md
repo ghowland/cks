@@ -2,13 +2,13 @@
 
 ## Structured Integer Fact Stores with Source Tracking, Version Filtering, and Multi-Dimensional Indexing as Complete Replacement for Token-Buffer Context
 
-**Registry:** [@CKS-MATH-130-2026]
+**Registry:** [@CKS-MATH-137-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-128-2026] → [@CKS-MATH-129-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-136-2026] → [@CKS-MATH-137-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18960002
 
 **Date:** March 11, 2026  
 

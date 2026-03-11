@@ -1,0 +1,53 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-134-2026/manuscript.md",
+  "paper_id": "CKS-MATH-134-2026",
+  "subject": "MATH",
+  "number": 134,
+  "year": 2026,
+  "title": "Integer-Only LLM Training via VFR Shell Arithmetic",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "Neural Network Weight Updates Through Exact Integer Remainder Accumulation on Harmonic Base-32 Octaves",
+  "doi": {
+    "raw": "10.5281/zenodo.18959969",
+    "is_stub": false,
+    "zenodo_id": 18959969,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-134-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 11, 2026",
+    "Domain": "Machine Learning / Integer Arithmetic / Neural Network Training",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "We demonstrate neural network training using exclusively integer arithmetic, eliminating all floating-point computation from the forward pass, backward pass, and weight update. Weights are represented as VFR (Value-Factor-Remainder) tuples [V, F, R] where V is an i32 integer shell value, F is an implicit per-layer harmonic octave factor (power of 32), and R is an i16 remainder accumulating gradient pressure. Weight updates occur through shell transitions: gradients accumulate in R via integer addition; when |R| \u2265 32 (one harmonic octave), V increments or decrements and R resets via modulo. No weight change occurs between transitions \u2014 the shell is stable until evidence accumulates. We prove: (1) **Integer forward pass** \u2014 matrix multiplication via i32 multiply-accumulate with i64 accumulators and bit-shift normalization produces exact activations, (2) **Integer backward pass** \u2014 chain rule over integer operations produces exact integer gradients, (3) **Shell convergence** \u2014 gradient accumulation in R preserves signals below the precision floor that floating-point arithmetic destroys, (4) **Deterministic training** \u2014 identical input always produces identical output because integer arithmetic is associative and commutative, (5) **Harmonic octave system** \u2014 base-32 counting provides a universal scale from Planck length to observable universe in 65 octaves with all scale conversions as bit shifts, (6) **Structural interpretability** \u2014 weight nesting depth reveals information density without probing or ablation, (7) **Commodity hardware** \u2014 training runs on CPU with 64 GB RAM, no GPU required. Working implementation in Zig with zero external dependencies demonstrates the complete pipeline: tokenize, train, infer, evaluate. Loss decreases. Shells transition. Output tokens emerge from vocabulary learned through integer-only gradient descent.\n\n**Central claim:** Floating-point arithmetic is not required for neural network training. Integer shell mechanics with exact remainder tracking provide a complete, deterministic, interpretable alternative that preserves gradient signals floats destroy and enables verification impossible in \u211d.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-117-2026",
+    "CKS-MATH-128-2026",
+    "CKS-MATH-129-2026",
+    "CKS-MATH-135-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-11T13:34:07.103868+00:00"
+}

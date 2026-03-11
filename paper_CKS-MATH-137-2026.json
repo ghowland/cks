@@ -1,0 +1,54 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-137-2026/manuscript.md",
+  "paper_id": "CKS-MATH-137-2026",
+  "subject": "MATH",
+  "number": 137,
+  "year": 2026,
+  "title": "Persistent Provenanced Knowledge Base Eliminates Context Window Degradation, Hallucination, and RAG",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "Structured Integer Fact Stores with Source Tracking, Version Filtering, and Multi-Dimensional Indexing as Complete Replacement for Token-Buffer Context",
+  "doi": {
+    "raw": "10.5281/zenodo.18960002",
+    "is_stub": false,
+    "zenodo_id": 18960002,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-130-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 11, 2026",
+    "Domain": "Knowledge Representation / AI Architecture / Information Systems",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "Current large language models store conversational context in a fixed-size token buffer. When the buffer fills, old information is discarded permanently. Over long conversations, this produces progressive degradation: the model forgets instructions, contradicts earlier statements, loses track of established facts, and generates increasingly incoherent output \u2014 a phenomenon users describe as \"AI psychosis.\" Retrieval-Augmented Generation (RAG) attempts to compensate by retrieving text chunks from external databases via approximate float-vector similarity search, but introduces its own failures: irrelevant retrievals, contradictory chunks, no provenance tracking, and no verification of retrieved content. We present a complete replacement for both mechanisms: a persistent, provenanced, version-filtered, multi-dimensionally indexed knowledge base of exact integer facts with Prolog-based consistency enforcement. We prove: (1) **No information loss** \u2014 facts persist indefinitely, never \"scroll off\" a buffer, (2) **No degradation** \u2014 turn 10,000 is as consistent as turn 1 because consistency is enforced structurally by Prolog, not inferred from attention patterns, (3) **No hallucination** \u2014 every fact traces to a source with verifiable provenance; outputs without provenance cannot be emitted, (4) **No RAG needed** \u2014 the KB is the retrieval system, with exact predicate matching replacing approximate vector similarity, (5) **Version filtering** \u2014 queries against a specific version never see facts from other versions, eliminating stale-data contamination, (6) **Multi-dimensional indexing** \u2014 every fact carries source, timestamp, confidence, verification level, and context, enabling non-contradictory coexistence of temporally or contextually varying information, (7) **Sessions as views** \u2014 multiple simultaneous sessions share one KB with independent context filters, no duplication, no synchronization, (8) **LRU eviction without forgetting** \u2014 memory pressure is managed by moving cold facts to disk, not by deleting them. The knowledge base is not an addition to the LLM architecture. It is a replacement for the context window, RAG pipeline, conversation memory, and fact storage \u2014 unified into a single system of exact integers with full provenance.\n\n**Central claim:** The context window is the wrong abstraction for conversational AI. A persistent knowledge base of provenanced facts is the correct abstraction. Every problem attributed to \"context limitations\" \u2014 forgetting, degradation, hallucination, inconsistency \u2014 is a direct consequence of using a token buffer where a fact store is needed.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-128-2026",
+    "CKS-MATH-129-2026",
+    "CKS-MATH-130-2026",
+    "CKS-MATH-135-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "Registry mismatch: path=CKS-MATH-137-2026, content=CKS-MATH-130-2026",
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-11T13:34:07.103903+00:00"
+}

@@ -89,12 +89,12 @@ def Build(args):
 
   for item in args.papers:
     # Only do stubbed
-    if item['doi']['is_stub']:
+    if item['doi']['is_stub'] and not item['skip']:
       directory = os.path.dirname(item['file_path'])
       cmd = f'{GEN_PDF} {directory}' 
       print(cmd)
 
-      if item['paper_id'] != 'CKS-MATH-127-2026': continue # Skip test
+    #   if item['paper_id'] != 'CKS-MATH-127-2026': continue # Skip test
  
       (status, output, error) = execute_command(cmd)
       print(f'  Result: {status}  Output: {output[:40]}')
@@ -253,7 +253,7 @@ def Sync(args):
   for item in args.papers:
 
     # Only do stubbed
-    if item['doi']['is_stub']:
+    if item['doi']['is_stub'] and not item['skip']:
       topic_name = item["paper_id"].split('-')[1]
       paper_id = int(item["paper_id"].split('-')[2])
 

@@ -1,0 +1,51 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-135-2026/manuscript.md",
+  "paper_id": "CKS-MATH-135-2026",
+  "subject": "MATH",
+  "number": 135,
+  "year": 2026,
+  "title": "LLM Domain Eating: Adding Languages and Knowledge Domains Without Retraining",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "Structured Parsing into Universal Term Format with Provenanced Integer Facts, Domain-Specific Prolog Rules, and Zero Neural Network Modification",
+  "doi": {
+    "raw": "10.5281/zenodo.18959985",
+    "is_stub": false,
+    "zenodo_id": 18959985,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-135-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 11, 2026",
+    "Domain": "Machine Learning / Integer Arithmetic / Neural Network Training",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "Adding a new language or knowledge domain to a current large language model requires retraining or fine-tuning on domain-specific data \u2014 a process costing days to weeks of GPU computation, risking catastrophic forgetting of previously learned capabilities, and producing results that cannot be verified against source material. We present an alternative: domain eating. A new domain is added by writing a parser that produces the universal Term format, writing Prolog rules encoding the domain's structural patterns, and loading the resulting provenanced facts into the persistent knowledge base. The neural network is not modified. No retraining occurs. No GPU is needed. The domain is live immediately upon fact ingestion. We prove: (1) **Universal Term format** \u2014 a single typed token representation serves all domains from programming languages to natural languages to specialized knowledge bases, (2) **Parser-per-domain** \u2014 each domain has a deterministic parser converting source material to Terms with provenance; no learned tokenization, (3) **Rules-per-domain** \u2014 each domain has explicit Prolog rules encoding valid patterns; no learned grammar, (4) **Zero retraining** \u2014 the neural network handles fuzzy input comprehension and creative selection; domain knowledge is in the KB and rules, not in the weights, (5) **Hours not months** \u2014 a new domain is operational within hours of beginning parser and rule development, using LLM-assisted generation of parsers and rules reviewed by domain experts, (6) **Cross-domain queries** \u2014 facts from different domains connect through shared predicates automatically, (7) **Domain unloading** \u2014 removing a domain is evicting its facts and unloading its rules; the system does not break, (8) **Version coexistence** \u2014 multiple versions of the same domain coexist with hard version filtering. The architecture treats the LLM as a fixed, general-purpose fuzzy interface and treats knowledge as modular, structured, provenanced data that can be added, removed, updated, and queried without touching the neural network.\n\n**Central claim:** Domain knowledge does not belong in neural network weights. It belongs in structured, provenanced fact stores with explicit rules. The neural network provides the general capability of understanding fuzzy human input and making creative selections. Domain expertise is modular data, not baked-in statistics.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-128-2026",
+    "CKS-MATH-129-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-11T13:34:07.103880+00:00"
+}

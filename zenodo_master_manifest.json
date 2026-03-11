@@ -3750,6 +3750,83 @@
       "status": "draft",
       "metadata_hash": "9d19325f2e01879fe6344748e886a3e0600536044c566ca1f8ee79493e29d9f8",
       "files": {}
+    },
+    "CKS-MATH-128-2026": {
+      "zenodo_id": 18959881,
+      "doi": "10.5281/zenodo.18959881",
+      "status": "draft",
+      "metadata_hash": "ebb62c70ce33861286f20fe8852117dffc88992b0da39789f12ce51de73f3ebd",
+      "files": {}
+    },
+    "CKS-MATH-129-2026": {
+      "zenodo_id": 18959899,
+      "doi": "10.5281/zenodo.18959899",
+      "status": "draft",
+      "metadata_hash": "4c5e3e0a00dae12d52471a3695f14a270c69029c395562ed5ab198c5dc4c0f90",
+      "files": {}
+    },
+    "CKS-MATH-130-2026": {
+      "zenodo_id": 18959904,
+      "doi": "10.5281/zenodo.18959904",
+      "status": "draft",
+      "metadata_hash": "995c53d97d3f75f883a68b4d25b169a5d72a030e52b0ff5bb07dbaab82dc4fa9",
+      "files": {}
+    },
+    "CKS-MATH-131-2026": {
+      "zenodo_id": 18959929,
+      "doi": "10.5281/zenodo.18959929",
+      "status": "draft",
+      "metadata_hash": "60f593f9e0a8608fb5b47a7499d6c68d9b996195691532fc36d32b1320571b5a",
+      "files": {}
+    },
+    "CKS-MATH-132-2026": {
+      "zenodo_id": 18959942,
+      "doi": "10.5281/zenodo.18959942",
+      "status": "draft",
+      "metadata_hash": "68382a3d3ca593d80921c2e401d81b576a822afbae1328faa4e34ae22fd51982",
+      "files": {}
+    },
+    "CKS-MATH-133-2026": {
+      "zenodo_id": 18959955,
+      "doi": "10.5281/zenodo.18959955",
+      "status": "draft",
+      "metadata_hash": "42b000198aee88f9be503f07f3e50caaea4c9e8f4d57c9b9e4dfdc7a5a5b9b39",
+      "files": {}
+    },
+    "CKS-MATH-134-2026": {
+      "zenodo_id": 18959969,
+      "doi": "10.5281/zenodo.18959969",
+      "status": "draft",
+      "metadata_hash": "31b441b702c949c12c8d201ed592d27b5d61cc46fc658065a549b3571df5f5c1",
+      "files": {}
+    },
+    "CKS-MATH-135-2026": {
+      "zenodo_id": 18959985,
+      "doi": "10.5281/zenodo.18959985",
+      "status": "draft",
+      "metadata_hash": "a26eccdb0827be3b741c7b2f95a85c39136534f17e3a91287ce21dc3b45a7fab",
+      "files": {}
+    },
+    "CKS-MATH-136-2026": {
+      "zenodo_id": 18959994,
+      "doi": "10.5281/zenodo.18959994",
+      "status": "draft",
+      "metadata_hash": "ba301455bf73da0ec5b9e32a72d6842cf1ff9eed95a3f60ef6a9c445ffcd6a35",
+      "files": {}
+    },
+    "CKS-MATH-137-2026": {
+      "zenodo_id": 18960002,
+      "doi": "10.5281/zenodo.18960002",
+      "status": "draft",
+      "metadata_hash": "6a57eeb839455ea55f6bf0449460fc1d41714635e9d6997db1c37c38cd829217",
+      "files": {}
+    },
+    "CKS-MATH-138-2026": {
+      "zenodo_id": 18960010,
+      "doi": "10.5281/zenodo.18960010",
+      "status": "draft",
+      "metadata_hash": "9917207dda457c3a33d8c35458615db8882f00367896438bc26aff590a78f01c",
+      "files": {}
     }
   },
   "last_full_sync": null

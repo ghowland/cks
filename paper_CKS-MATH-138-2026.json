@@ -1,0 +1,54 @@
+{
+  "file_path": "papers/MATH/CKS-MATH-138-2026/manuscript.md",
+  "paper_id": "CKS-MATH-138-2026",
+  "subject": "MATH",
+  "number": 138,
+  "year": 2026,
+  "title": "LLM \u2192 Prolog \u2192 LLM: Multi-Step Verified Generation Through Alternating Neural-Symbolic Computation",
+  "key_result": null,
+  "skip": false,
+  "subtitle": "Eliminating Hallucination by Construction via Provenanced Integer Knowledge Bases, Triveritas Evaluation, and Adaptive Goal Decomposition",
+  "doi": {
+    "raw": "10.5281/zenodo.18960010",
+    "is_stub": false,
+    "zenodo_id": 18960010,
+    "status": "draft"
+  },
+  "frontmatter": {
+    "Registry": "[@CKS-MATH-130-2026]",
+    "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+    "Parent Framework": "[@CKS-0-2026]",
+    "DOI": "10.5281/zenodo.zzz",
+    "Date": "March 11, 2026",
+    "Domain": "Machine Learning / Integer Arithmetic / Neural Network Training",
+    "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+    "Classification": "Theory of Everything from First Principles",
+    "Motto": "Axioms first. Axioms always.",
+    "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+    "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+    "Lexicon": "[@CKS-LEX-12-2026]"
+  },
+  "abstract": "Current large language models generate output through unconstrained token prediction \u2014 a process with no verification step, no logical consistency checking, no provenance tracking, and no structured knowledge representation. The result is \"hallucination\": outputs that are statistically plausible but factually wrong, logically inconsistent, or untraceable to any source. We present an alternative architecture in which an integer-trained LLM ([@CKS-MATH-134-2026]) alternates with a Prolog-based verification engine at every step of generation. The LLM handles what neural networks do well: fuzzy input comprehension and creative pattern selection. Prolog handles what logical systems do well: consistency verification, goal decomposition, constraint enforcement, and provenance tracking. We prove: (1) **Hallucination is eliminated by construction** \u2014 every generated fact traces to provenanced sources in the knowledge base; outputs without provenance are structurally impossible, (2) **Term-based tokenization replaces BPE** \u2014 tokens are typed, structured Terms carrying their grammatical role, not arbitrary byte-pair fragments, (3) **Three-dimensional evaluation** \u2014 every claim is evaluated on logical validity (L), mathematical coherence (M), and empirical anchoring (E) via the Triveritas criterion, (4) **Materiality gating** \u2014 the Scales Method prevents computation on non-material concerns, (5) **Adaptive sequencing** \u2014 the Pseudo-Socratic Method determines the number and focus of generation steps based on continuous state assessment, (6) **The knowledge base replaces the context window** \u2014 a persistent, provenanced, version-filtered fact store that never forgets and never degrades, (7) **Domain eating** \u2014 new knowledge domains are added by writing parsers and rules, not by retraining the neural network. From first principles through complete architecture. The LLM is the interface. The knowledge base is the mind.\n\n**Central claim:** The hallucination problem is not a deficiency of neural networks. It is the inevitable consequence of generating output without verification. Interleaving neural creativity with logical verification at every step produces output that is verified by construction, not evaluated after the fact.",
+  "dependencies": [
+    "CKS-LEX-12-2026",
+    "CKS-MATH-0-2026",
+    "CKS-MATH-1-2026",
+    "CKS-MATH-10-2026",
+    "CKS-MATH-104-2026",
+    "CKS-MATH-128-2026",
+    "CKS-MATH-129-2026",
+    "CKS-MATH-130-2026",
+    "CKS-MATH-134-2026"
+  ],
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [
+      "Registry mismatch: path=CKS-MATH-138-2026, content=CKS-MATH-130-2026",
+      "DOI is stub (.zzz)",
+      "Missing ## References section",
+      "Missing ::: {#refs} ::: delimiter"
+    ]
+  },
+  "extracted_at": "2026-03-11T13:34:07.103915+00:00"
+}

@@ -1,14 +1,13 @@
 # Oil and Water: Why ℚ and ℝ Are Different Kinds of Math
-
-
+## Comparing Rational and Irrational Math
 
 **Registry:** [@CKS-MATH-130-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-128-2026] → [@CKS-MATH-129-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-129-2026] → [@CKS-MATH-130-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18959904
 
 **Date:** March 3, 2026  
 
