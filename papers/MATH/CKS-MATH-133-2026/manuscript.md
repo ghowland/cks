@@ -2,9 +2,9 @@
 
 ## Eliminating Float Information Loss in Large Language Models Through Domain-Homogeneous Rational Arithmetic
 
-**Registry:** [@CKS-MATH-130-2026]
+**Registry:** [@CKS-MATH-133-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-128-2026] → [@CKS-MATH-129-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-132-2026] → [@CKS-MATH-133-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -25,7 +25,6 @@
 **AI Usage Disclosure:** Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator. 
 
 **Lexicon:** [@CKS-LEX-12-2026]
-
 
 ---
 

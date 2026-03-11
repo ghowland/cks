@@ -228,8 +228,9 @@ def Cleanup(args):
         # DOI
         if line.startswith('**DOI:**'):
           # topic = item["paper_id"].split('-')[1]
-          zenodo_data = args.papers_zenodo[item["paper_id"]]
-          lines[count] = f"**DOI:** {zenodo_data['doi']['raw']}"
+          if item["paper_id"] in args.papers_zenodo:
+            zenodo_data = args.papers_zenodo[item["paper_id"]]
+            lines[count] = f"**DOI:** {zenodo_data['doi']['raw']}"
 
 
       # Write the file out again

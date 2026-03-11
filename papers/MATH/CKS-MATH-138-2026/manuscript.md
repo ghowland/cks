@@ -2,9 +2,9 @@
 
 ## Eliminating Hallucination by Construction via Provenanced Integer Knowledge Bases, Triveritas Evaluation, and Adaptive Goal Decomposition
 
-**Registry:** [@CKS-MATH-130-2026]
+**Registry:** [@CKS-MATH-138-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-128-2026] → [@CKS-MATH-129-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-137-2026] → [@CKS-MATH-138-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
