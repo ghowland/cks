@@ -11,7 +11,7 @@ pub fn build(b: *std.Build) void {
         .optimize = optimize,
     });
 
-    // ── tokenize ──
+    // -- tokenize --
     const tokenize = b.addExecutable(.{
         .name = "zig-tokenize",
         .root_module = b.createModule(.{
@@ -29,7 +29,7 @@ pub fn build(b: *std.Build) void {
     const tokenize_step = b.step("tokenize", "Run tokenizer");
     tokenize_step.dependOn(&run_tokenize.step);
 
-    // ── train ──
+    // -- train --
     const train = b.addExecutable(.{
         .name = "zig-train",
         .root_module = b.createModule(.{
@@ -47,7 +47,7 @@ pub fn build(b: *std.Build) void {
     const train_step = b.step("train", "Run training");
     train_step.dependOn(&run_train.step);
 
-    // ── infer ──
+    // -- infer --
     const infer = b.addExecutable(.{
         .name = "zig-infer",
         .root_module = b.createModule(.{
@@ -65,7 +65,7 @@ pub fn build(b: *std.Build) void {
     const infer_step = b.step("infer", "Run inference");
     infer_step.dependOn(&run_infer.step);
 
-    // ── eval ──
+    // -- eval --
     const eval_exe = b.addExecutable(.{
         .name = "zig-eval",
         .root_module = b.createModule(.{

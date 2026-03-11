@@ -38,7 +38,7 @@ pub fn main() !void {
     defer allocator.free(prompt_tokens);
     std.debug.print("Prompt: \"{s}\" → {d} tokens\n", .{ prompt, prompt_tokens.len });
 
-    std.debug.print("\n────────────────────────────────────────────────────\nGENERATED OUTPUT:\n────────────────────────────────────────────────────\n", .{});
+    std.debug.print("\n----------------------------------------------------\nGENERATED OUTPUT:\n----------------------------------------------------\n", .{});
 
     // print the prompt first
     std.debug.print("{s}", .{prompt});
@@ -76,6 +76,6 @@ pub fn main() !void {
         current_token = next_token;
     }
 
-    std.debug.print("\n────────────────────────────────────────────────────\n", .{});
+    std.debug.print("\n----------------------------------------------------\n", .{});
     std.debug.print("Generation complete.\n", .{});
 }

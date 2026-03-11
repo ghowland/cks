@@ -1,7 +1,7 @@
 const std = @import("std");
 const Allocator = std.mem.Allocator;
 
-// ─── Constants ──────────────────────────────────────────────
+// --- Constants ----------------------------------------------
 
 pub const SHELL_THRESHOLD: i16 = 32;
 pub const OCTAVE: u8 = 2;
@@ -19,7 +19,7 @@ pub const SPECIAL_EOS: u16 = 2;
 pub const SPECIAL_UNK: u16 = 3;
 pub const NUM_SPECIAL: u16 = 4;
 
-// ─── VFR Weight ─────────────────────────────────────────────
+// --- VFR Weight ---------------------------------------------
 
 pub const VFRWeight = packed struct {
     v: i32 = 0,
@@ -42,7 +42,7 @@ pub const VFRWeight = packed struct {
     }
 };
 
-// ─── Integer Tensor ─────────────────────────────────────────
+// --- Integer Tensor -----------------------------------------
 
 pub const IntTensor = struct {
     data: []i32,
@@ -89,7 +89,7 @@ pub const IntTensor = struct {
     }
 };
 
-// ─── Weight Matrix ──────────────────────────────────────────
+// --- Weight Matrix ------------------------------------------
 
 pub const WeightMatrix = struct {
     weights: []VFRWeight,
@@ -126,7 +126,7 @@ pub const WeightMatrix = struct {
     }
 };
 
-// ─── Layer Norm (simplified) ────────────────────────────────
+// --- Layer Norm (simplified) --------------------------------
 
 pub const LayerNorm = struct {
     scale: []VFRWeight, // [D_MODEL]
@@ -148,7 +148,7 @@ pub const LayerNorm = struct {
     }
 };
 
-// ─── Transformer Block ──────────────────────────────────────
+// --- Transformer Block --------------------------------------
 
 pub const TransformerBlock = struct {
     wq: WeightMatrix,
@@ -185,7 +185,7 @@ pub const TransformerBlock = struct {
     }
 };
 
-// ─── Full Model ─────────────────────────────────────────────
+// --- Full Model ---------------------------------------------
 
 pub const Model = struct {
     embedding: WeightMatrix,
@@ -232,7 +232,7 @@ pub const Model = struct {
     }
 };
 
-// ─── Integer Matmul ─────────────────────────────────────────
+// --- Integer Matmul -----------------------------------------
 
 /// Multiply activation vector (1 × cols) by weight matrix (cols × out_cols)
 /// Result goes into out (1 × out_cols)
@@ -295,7 +295,7 @@ pub fn vec_copy(dst: []i32, src: []const i32) void {
     @memcpy(dst, src);
 }
 
-// ─── Integer Softmax ────────────────────────────────────────
+// --- Integer Softmax ----------------------------------------
 
 /// Integer softmax approximation
 /// Maps i32 logits to i32 probabilities that sum to 1024
@@ -342,7 +342,7 @@ pub fn argmax(values: []const i32) u32 {
     return best_idx;
 }
 
-// ─── Cross-Entropy Gradient ─────────────────────────────────
+// --- Cross-Entropy Gradient ---------------------------------
 
 /// Compute gradient of cross-entropy loss w.r.t. logits
 /// grad[i] = probs[i] - (1024 if i == target, else 0)
@@ -364,7 +364,7 @@ pub fn log_loss_int(probs: []const i32, target: u16) i32 {
     return 1024 - probs[@as(usize, target)];
 }
 
-// ─── Weight Initialization ──────────────────────────────────
+// --- Weight Initialization ----------------------------------
 
 pub const Xorshift = struct {
     state: u64,
@@ -415,7 +415,7 @@ pub fn init_model_weights(model: *Model, seed: u64) void {
     init_weight_matrix(&model.output_proj, &rng, 32);
 }
 
-// ─── Checkpoint I/O ─────────────────────────────────────────
+// --- Checkpoint I/O -----------------------------------------
 
 pub fn save_weights(path: []const u8, model: *const Model) !void {
     const file = try std.fs.cwd().createFile(path, .{});
@@ -475,7 +475,7 @@ pub fn load_weights(path: []const u8, model: *Model) !void {
     _ = try reader.read(std.mem.sliceAsBytes(model.output_proj.weights));
 }
 
-// ─── Tokenizer Types ────────────────────────────────────────
+// --- Tokenizer Types ----------------------------------------
 
 pub const BPEMerge = struct {
     a: u16,
@@ -506,69 +506,68 @@ pub const Tokenizer = struct {
         return @intCast(self.vocab.items.len);
     }
 
-    pub fn save(self: *const Tokenizer, path: []const u8) !void {
-        const file = try std.fs.cwd().createFile(path, .{});
-        defer file.close();
-
-        var buf: [4096]u8 = undefined;
-        var fw = file.writer(&buf);
-        var writer: *std.Io.Writer = &fw.interface;
-
-        // write vocab size
-        const vs: u32 = @intCast(self.vocab.items.len);
-        try writer.writeAll(std.mem.asBytes(&vs));
-
-        // write each vocab entry: length (u16) + bytes
-        for (self.vocab.items) |entry| {
-            const len: u16 = @intCast(entry.len);
-            try writer.writeAll(std.mem.asBytes(&len));
-            try writer.writeAll(entry);
-        }
-
-        // write merge count
-        const mc: u32 = @intCast(self.merges.items.len);
-        try writer.writeAll(std.mem.asBytes(&mc));
-
-        // write merges
-        for (self.merges.items) |merge| {
-            try writer.writeAll(std.mem.asBytes(&merge));
-        }
-    }
-
     pub fn load(allocator: Allocator, path: []const u8) !Tokenizer {
         const file = try std.fs.cwd().openFile(path, .{});
         defer file.close();
-        // const reader = file.reader();
-        var buf: [4096]u8 = undefined;
-        var reader = file.reader(&buf);
 
         var tok = Tokenizer.init(allocator);
+        errdefer tok.deinit();
 
         // read vocab size
-        var vs: u32 = undefined;
-        _ = try reader.read(std.mem.asBytes(&vs));
+        var vs_bytes: [4]u8 = undefined;
+        _ = try file.readAll(&vs_bytes);
+        const vs = std.mem.bytesToValue(u32, &vs_bytes);
 
         // read vocab entries
         for (0..vs) |_| {
-            var len: u16 = undefined;
-            _ = try reader.read(std.mem.asBytes(&len));
+            var len_bytes: [2]u8 = undefined;
+            _ = try file.readAll(&len_bytes);
+            const len = std.mem.bytesToValue(u16, &len_bytes);
             const entry = try allocator.alloc(u8, len);
-            _ = try reader.read(entry);
+            errdefer allocator.free(entry);
+            _ = try file.readAll(entry);
             try tok.vocab.append(entry);
         }
 
         // read merge count
-        var mc: u32 = undefined;
-        _ = try reader.read(std.mem.asBytes(&mc));
+        var mc_bytes: [4]u8 = undefined;
+        _ = try file.readAll(&mc_bytes);
+        const mc = std.mem.bytesToValue(u32, &mc_bytes);
 
         // read merges
         for (0..mc) |_| {
-            var merge: BPEMerge = undefined;
-            _ = try reader.read(std.mem.asBytes(&merge));
+            var merge_bytes: [@sizeOf(BPEMerge)]u8 = undefined;
+            _ = try file.readAll(&merge_bytes);
+            const merge = std.mem.bytesToValue(BPEMerge, &merge_bytes);
             try tok.merges.append(merge);
         }
 
         return tok;
+    }
+
+    pub fn save(self: *const Tokenizer, path: []const u8) !void {
+        const file = try std.fs.cwd().createFile(path, .{});
+        defer file.close();
+
+        // write vocab size
+        const vs: u32 = @intCast(self.vocab.items.len);
+        try file.writeAll(std.mem.asBytes(&vs));
+
+        // write each vocab entry: length (u16) + bytes
+        for (self.vocab.items) |entry| {
+            const len: u16 = @intCast(entry.len);
+            try file.writeAll(std.mem.asBytes(&len));
+            try file.writeAll(entry);
+        }
+
+        // write merge count
+        const mc: u32 = @intCast(self.merges.items.len);
+        try file.writeAll(std.mem.asBytes(&mc));
+
+        // write merges
+        for (self.merges.items) |merge| {
+            try file.writeAll(std.mem.asBytes(&merge));
+        }
     }
 
     /// Encode text to token ids using trained merges
@@ -608,7 +607,7 @@ pub const Tokenizer = struct {
     }
 };
 
-// ─── Token File I/O ─────────────────────────────────────────
+// --- Token File I/O -----------------------------------------
 
 pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
     const count: u32 = @intCast(tokens.len);
@@ -622,20 +621,39 @@ pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
     try writer.flush(); // MUST flush
 }
 
+// pub fn read_tokens(path: []const u8, allocator: Allocator) ![]u16 {
+//     const file = try std.fs.cwd().openFile(path, .{});
+//     defer file.close();
+//     // const reader = file.reader();
+//     var buf: [4096]u8 = undefined;
+//     var reader = file.reader(&buf);
+//     var count: u32 = undefined;
+//     _ = try reader.read(std.mem.asBytes(&count));
+//     const tokens = try allocator.alloc(u16, count);
+//     _ = try reader.read(std.mem.sliceAsBytes(tokens));
+//     return tokens;
+// }
+
 pub fn read_tokens(path: []const u8, allocator: Allocator) ![]u16 {
     const file = try std.fs.cwd().openFile(path, .{});
     defer file.close();
-    // const reader = file.reader();
-    var buf: [4096]u8 = undefined;
-    var reader = file.reader(&buf);
-    var count: u32 = undefined;
-    _ = try reader.read(std.mem.asBytes(&count));
+
+    // read count (first 4 bytes)
+    var count_bytes: [4]u8 = undefined;
+    _ = try file.readAll(&count_bytes);
+    const count = std.mem.bytesToValue(u32, &count_bytes);
+
+    // allocate token buffer
     const tokens = try allocator.alloc(u16, count);
-    _ = try reader.read(std.mem.sliceAsBytes(tokens));
+    errdefer allocator.free(tokens);
+
+    // read token data
+    _ = try file.readAll(std.mem.sliceAsBytes(tokens));
+
     return tokens;
 }
 
-// ─── Forward Pass ───────────────────────────────────────────
+// --- Forward Pass -------------------------------------------
 
 /// Run one token through the model, return logits
 /// This is the simplified v1 forward: single-token context (bigram)
@@ -699,7 +717,7 @@ pub fn forward(model: *const Model, token: u16, allocator: Allocator) ![]i32 {
     return logits;
 }
 
-// ─── Backward Pass (simplified v1) ──────────────────────────
+// --- Backward Pass (simplified v1) --------------------------
 
 /// Backward pass for one token. Returns gradients for all weights.
 /// This is simplified: computes output gradient and propagates back.
@@ -719,7 +737,7 @@ pub fn backward_and_update(
     const d = D_MODEL;
     const vs = VOCAB_SIZE;
 
-    // ── Forward pass (saving activations) ──
+    // -- Forward pass (saving activations) --
     // We need intermediate values for the backward pass
 
     // embedding
@@ -810,7 +828,7 @@ pub fn backward_and_update(
         vec_copy(layer_inputs[li + 1], x);
     }
 
-    // ── Output logits + loss ──
+    // -- Output logits + loss --
     const logits = try allocator.alloc(i32, vs);
     defer allocator.free(logits);
     matmul_vec_weight(x, &model.output_proj, logits);
@@ -821,14 +839,14 @@ pub fn backward_and_update(
 
     const loss = log_loss_int(probs, target);
 
-    // ── Backward ──
+    // -- Backward --
 
     // gradient of loss w.r.t. logits
     const d_logits = try allocator.alloc(i32, vs);
     defer allocator.free(d_logits);
     ce_gradient(probs, target, d_logits);
 
-    // ── Update output projection ──
+    // -- Update output projection --
     // d_output_proj[i][j] = x[i] * d_logits[j]
     // d_x from output = d_logits * output_proj^T
     var d_x = try allocator.alloc(i32, d);
@@ -848,7 +866,7 @@ pub fn backward_and_update(
         }
     }
 
-    // ── Backward through layers (reverse order) ──
+    // -- Backward through layers (reverse order) --
     const d_ff_out = try allocator.alloc(i32, d);
     defer allocator.free(d_ff_out);
     const d_ff_post = try allocator.alloc(i32, D_FF);
@@ -868,7 +886,7 @@ pub fn backward_and_update(
 
         // d_x is the gradient flowing back. residual means it passes through.
 
-        // ── Feedforward backward ──
+        // -- Feedforward backward --
         // d_ff_out = d_x (from residual)
         vec_copy(d_ff_out, d_x);
 
@@ -915,7 +933,7 @@ pub fn backward_and_update(
             d_x[i] = @intCast(acc);
         }
 
-        // ── Attention backward (simplified) ──
+        // -- Attention backward (simplified) --
         // The attention was: proj = wo(score * v), residual add
         // gradient flows through residual, so d_x already has it
 

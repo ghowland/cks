@@ -65,9 +65,9 @@ pub fn main() !void {
     std.debug.print("  Shell threshold: {d}\n", .{lib.SHELL_THRESHOLD});
     std.debug.print("  Log every: {d} steps\n", .{log_interval});
 
-    std.debug.print("\n────────────────────────────────────────────────────\n", .{});
+    std.debug.print("\n----------------------------------------------------\n", .{});
     std.debug.print("TRAINING\n", .{});
-    std.debug.print("────────────────────────────────────────────────────\n\n", .{});
+    std.debug.print("----------------------------------------------------\n\n", .{});
 
     // training loop
     var global_step: u64 = 0;
@@ -139,7 +139,7 @@ pub fn main() !void {
         }
 
         const avg_epoch_loss = if (epoch_steps > 0) @divTrunc(epoch_loss, @as(i64, epoch_steps)) else 0;
-        std.debug.print("\n  ── Epoch {d} complete | Avg loss: {d} | Steps: {d} ──\n\n", .{
+        std.debug.print("\n  -- Epoch {d} complete | Avg loss: {d} | Steps: {d} --\n\n", .{
             epoch, avg_epoch_loss, epoch_steps,
         });
     }
@@ -148,7 +148,7 @@ pub fn main() !void {
 
     // save weights
     try lib.save_weights(weights_path, &model);
-    std.debug.print("────────────────────────────────────────────────────\n", .{});
+    std.debug.print("----------------------------------------------------\n", .{});
     std.debug.print("Saved weights to {s}\n", .{weights_path});
     std.debug.print("Total training steps: {d}\n", .{global_step});
 
