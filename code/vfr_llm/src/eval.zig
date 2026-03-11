@@ -15,26 +15,23 @@ pub fn main() !void {
     defer std.process.argsFree(allocator, args);
 
     if (args.len < 3) {
-        const stderr = std.io.getStdErr().writer();
-        try stderr.print("Usage: {s} <weights_file> <vocab_file> [test_file]\n", .{args[0]});
+        std.debug.print("Usage: {s} <weights_file> <vocab_file> [test_file]\n", .{args[0]});
         return;
     }
 
     const weights_path = args[1];
     const vocab_path = args[2];
 
-    const stdout = std.io.getStdOut().writer();
-
     // load model
     var model = try lib.Model.init(allocator);
     defer model.deinit();
     try lib.load_weights(weights_path, &model);
-    try stdout.print("Loaded weights from {s}\n", .{weights_path});
+    std.debug.print("Loaded weights from {s}\n", .{weights_path});
 
     // load tokenizer
     var tokenizer = try lib.Tokenizer.load(allocator, vocab_path);
     defer tokenizer.deinit();
-    try stdout.print("Loaded vocab ({d} tokens)\n", .{tokenizer.vocab_size()});
+    std.debug.print("Loaded vocab ({d} tokens)\n", .{tokenizer.vocab_size()});
 
     // built-in test prompts (simple zig snippets to complete)
     const builtin_tests = [_]TestCase{
@@ -49,9 +46,9 @@ pub fn main() !void {
     const test_cases: []const TestCase = &builtin_tests;
     _ = test_cases;
 
-    try stdout.print("\n{'─' ** 60}\n", .{});
-    try stdout.print("EVALUATION\n", .{});
-    try stdout.print("{'─' ** 60}\n\n", .{});
+    std.debug.print("\n{'─' ** 60}\n", .{});
+    std.debug.print("EVALUATION\n", .{});
+    std.debug.print("{'─' ** 60}\n\n", .{});
 
     var total: u32 = 0;
     var generated: u32 = 0;
@@ -59,7 +56,7 @@ pub fn main() !void {
 
     for (builtin_tests) |test_case| {
         total += 1;
-        try stdout.print("Test {d}: \"{s}\"\n", .{ total, test_case.prompt });
+        std.debug.print("Test {d}: \"{s}\"\n", .{ total, test_case.prompt });
 
         // tokenize prompt
         const prompt_tokens = try tokenizer.encode(test_case.prompt, allocator);
@@ -102,9 +99,9 @@ pub fn main() !void {
         // show generated code (truncated)
         const gen_text = output.items;
         const show_len = @min(gen_text.len, 200);
-        try stdout.print("  Generated ({d} bytes): {s}", .{ gen_text.len, gen_text[0..show_len] });
-        if (gen_text.len > 200) try stdout.print("...", .{});
-        try stdout.print("\n", .{});
+        std.debug.print("  Generated ({d} bytes): {s}", .{ gen_text.len, gen_text[0..show_len] });
+        if (gen_text.len > 200) std.debug.print("...", .{});
+        std.debug.print("\n", .{});
 
         // try to compile the generated code
         // write to temp file
@@ -120,7 +117,7 @@ pub fn main() !void {
             .allocator = allocator,
             .argv = &[_][]const u8{ "zig", "ast-check", tmp_path },
         }) catch |err| {
-            try stdout.print("  Compile: SKIP (zig not found: {s})\n\n", .{@errorName(err)});
+            std.debug.print("  Compile: SKIP (zig not found: {s})\n\n", .{@errorName(err)});
             continue;
         };
         defer allocator.free(compile_result.stdout);
@@ -128,32 +125,32 @@ pub fn main() !void {
 
         if (compile_result.term.Exited == 0) {
             compile_pass += 1;
-            try stdout.print("  Syntax: PASS ✓\n", .{});
+            std.debug.print("  Syntax: PASS ✓\n", .{});
         } else {
-            try stdout.print("  Syntax: FAIL ✗\n", .{});
+            std.debug.print("  Syntax: FAIL ✗\n", .{});
             // show first line of error
             if (compile_result.stderr.len > 0) {
                 const first_line_end = std.mem.indexOf(u8, compile_result.stderr, "\n") orelse compile_result.stderr.len;
                 const show_err = @min(first_line_end, 120);
-                try stdout.print("  Error: {s}\n", .{compile_result.stderr[0..show_err]});
+                std.debug.print("  Error: {s}\n", .{compile_result.stderr[0..show_err]});
             }
         }
 
-        try stdout.print("\n", .{});
+        std.debug.print("\n", .{});
     }
 
     // cleanup temp file
     std.fs.cwd().deleteFile("data/eval_tmp.zig") catch {};
 
-    try stdout.print("{'─' ** 60}\n", .{});
-    try stdout.print("RESULTS\n", .{});
-    try stdout.print("{'─' ** 60}\n", .{});
-    try stdout.print("  Total tests:    {d}\n", .{total});
-    try stdout.print("  Generated:      {d}\n", .{generated});
-    try stdout.print("  Syntax pass:    {d}/{d} ({d:.0}%)\n", .{
+    std.debug.print("{'─' ** 60}\n", .{});
+    std.debug.print("RESULTS\n", .{});
+    std.debug.print("{'─' ** 60}\n", .{});
+    std.debug.print("  Total tests:    {d}\n", .{total});
+    std.debug.print("  Generated:      {d}\n", .{generated});
+    std.debug.print("  Syntax pass:    {d}/{d} ({d:.0}%)\n", .{
         compile_pass,
         total,
         if (total > 0) @as(f32, @floatFromInt(compile_pass)) / @as(f32, @floatFromInt(total)) * 100.0 else 0.0,
     });
-    try stdout.print("\n  (Expected: 0% for toy model — the harness works)\n", .{});
+    std.debug.print("\n  (Expected: 0% for toy model — the harness works)\n", .{});
 }

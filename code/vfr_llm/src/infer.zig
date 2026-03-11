@@ -10,8 +10,7 @@ pub fn main() !void {
     defer std.process.argsFree(allocator, args);
 
     if (args.len < 4) {
-        const stderr = std.io.getStdErr().writer();
-        try stderr.print("Usage: {s} <weights_file> <vocab_file> \"<prompt>\" [max_tokens]\n", .{args[0]});
+        std.debug.print("Usage: {s} <weights_file> <vocab_file> \"<prompt>\" [max_tokens]\n", .{args[0]});
         return;
     }
 
@@ -23,28 +22,26 @@ pub fn main() !void {
     else
         100;
 
-    const stdout = std.io.getStdOut().writer();
-
     // load model
     var model = try lib.Model.init(allocator);
     defer model.deinit();
     try lib.load_weights(weights_path, &model);
-    try stdout.print("Loaded weights from {s}\n", .{weights_path});
+    std.debug.print("Loaded weights from {s}\n", .{weights_path});
 
     // load tokenizer
     var tokenizer = try lib.Tokenizer.load(allocator, vocab_path);
     defer tokenizer.deinit();
-    try stdout.print("Loaded vocab ({d} tokens) from {s}\n", .{ tokenizer.vocab_size(), vocab_path });
+    std.debug.print("Loaded vocab ({d} tokens) from {s}\n", .{ tokenizer.vocab_size(), vocab_path });
 
     // tokenize prompt
     const prompt_tokens = try tokenizer.encode(prompt, allocator);
     defer allocator.free(prompt_tokens);
-    try stdout.print("Prompt: \"{s}\" → {d} tokens\n", .{ prompt, prompt_tokens.len });
+    std.debug.print("Prompt: \"{s}\" → {d} tokens\n", .{ prompt, prompt_tokens.len });
 
-    try stdout.print("\n{'─' ** 50}\nGENERATED OUTPUT:\n{'─' ** 50}\n", .{});
+    std.debug.print("\n{'─' ** 50}\nGENERATED OUTPUT:\n{'─' ** 50}\n", .{});
 
     // print the prompt first
-    try stdout.print("{s}", .{prompt});
+    std.debug.print("{s}", .{prompt});
 
     // generate tokens autoregressively
     // start from the last prompt token
@@ -73,12 +70,12 @@ pub fn main() !void {
         defer allocator.free(decoded);
 
         if (decoded.len > 0) {
-            try stdout.writeAll(decoded);
+            std.debug.print(decoded);
         }
 
         current_token = next_token;
     }
 
-    try stdout.print("\n{'─' ** 50}\n", .{});
-    try stdout.print("Generation complete.\n", .{});
+    std.debug.print("\n{'─' ** 50}\n", .{});
+    std.debug.print("Generation complete.\n", .{});
 }

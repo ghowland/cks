@@ -10,8 +10,7 @@ pub fn main() !void {
     defer std.process.argsFree(allocator, args);
 
     if (args.len < 4) {
-        const stderr = std.io.getStdErr().writer();
-        try stderr.print("Usage: {s} <input_file> <tokens_out> <vocab_out>\n", .{args[0]});
+        std.debug.print("Usage: {s} <input_file> <tokens_out> <vocab_out>\n", .{args[0]});
         return;
     }
 
@@ -19,15 +18,13 @@ pub fn main() !void {
     const tokens_path = args[2];
     const vocab_path = args[3];
 
-    const stdout = std.io.getStdOut().writer();
-
     // read input file
     const input_file = try std.fs.cwd().openFile(input_path, .{});
     defer input_file.close();
     const input_data = try input_file.readToEndAlloc(allocator, 100 * 1024 * 1024); // 100MB max
     defer allocator.free(input_data);
 
-    try stdout.print("Read {d} bytes from {s}\n", .{ input_data.len, input_path });
+    std.debug.print("Read {d} bytes from {s}\n", .{ input_data.len, input_path });
 
     // initialize tokenizer with byte-level vocab + special tokens
     var tokenizer = lib.Tokenizer.init(allocator);
@@ -48,10 +45,10 @@ pub fn main() !void {
         try tokenizer.vocab.append(entry);
     }
 
-    try stdout.print("Initial vocab: {d} (4 special + 256 bytes)\n", .{tokenizer.vocab_size()});
+    std.debug.print("Initial vocab: {d} (4 special + 256 bytes)\n", .{tokenizer.vocab_size()});
 
     // convert input to initial token sequence (byte-level)
-    var tokens = std.ArrayList(u16).init(allocator);
+    var tokens = std.array_list.Managed(u16).init(allocator);
     defer tokens.deinit();
     for (input_data) |byte| {
         try tokens.append(@as(u16, lib.NUM_SPECIAL) + @as(u16, byte));
@@ -116,14 +113,14 @@ pub fn main() !void {
 
         merge_count += 1;
         if (merge_count % 50 == 0) {
-            try stdout.print("  Merge {d}: vocab={d}, tokens={d}, best_count={d}\n", .{
+            std.debug.print("  Merge {d}: vocab={d}, tokens={d}, best_count={d}\n", .{
                 merge_count, tokenizer.vocab_size(), tokens.items.len, best_count,
             });
         }
     }
 
-    try stdout.print("\nBPE complete: {d} merges, vocab size {d}\n", .{ merge_count, tokenizer.vocab_size() });
-    try stdout.print("Token sequence: {d} bytes → {d} tokens (compression: {d:.1}×)\n", .{
+    std.debug.print("\nBPE complete: {d} merges, vocab size {d}\n", .{ merge_count, tokenizer.vocab_size() });
+    std.debug.print("Token sequence: {d} bytes → {d} tokens (compression: {d:.1}×)\n", .{
         input_data.len,
         tokens.items.len,
         @as(f32, @floatFromInt(input_data.len)) / @as(f32, @floatFromInt(@max(tokens.items.len, 1))),
@@ -131,9 +128,9 @@ pub fn main() !void {
 
     // save tokens
     try lib.write_tokens(tokens_path, tokens.items);
-    try stdout.print("Saved tokens to {s}\n", .{tokens_path});
+    std.debug.print("Saved tokens to {s}\n", .{tokens_path});
 
     // save vocab
     try tokenizer.save(vocab_path);
-    try stdout.print("Saved vocab to {s}\n", .{vocab_path});
+    std.debug.print("Saved vocab to {s}\n", .{vocab_path});
 }

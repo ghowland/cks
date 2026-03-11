@@ -442,7 +442,10 @@ pub fn save_weights(path: []const u8, model: *const Model) !void {
 pub fn load_weights(path: []const u8, model: *Model) !void {
     const file = try std.fs.cwd().openFile(path, .{});
     defer file.close();
-    const reader = file.reader();
+
+    var buf: [4096]u8 = undefined;
+    const reader = file.reader(&buf);
+    // const reader = file.reader();
 
     // read embedding
     const embed_bytes = std.mem.sliceAsBytes(model.embedding.weights);
@@ -474,14 +477,14 @@ pub const BPEMerge = struct {
 };
 
 pub const Tokenizer = struct {
-    vocab: std.ArrayList([]u8), // token id → byte sequence
-    merges: std.ArrayList(BPEMerge),
+    vocab: std.array_list.Managed([]u8), // token id → byte sequence
+    merges: std.array_list.Managed(BPEMerge),
     allocator: Allocator,
 
     pub fn init(allocator: Allocator) Tokenizer {
         return .{
-            .vocab = std.ArrayList([]u8).init(allocator),
-            .merges = std.ArrayList(BPEMerge).init(allocator),
+            .vocab = std.array_list.Managed([]u8).init(allocator),
+            .merges = std.array_list.Managed(BPEMerge).init(allocator),
             .allocator = allocator,
         };
     }
@@ -559,7 +562,7 @@ pub const Tokenizer = struct {
     /// Encode text to token ids using trained merges
     pub fn encode(self: *const Tokenizer, text: []const u8, allocator: Allocator) ![]u16 {
         // start with byte-level tokens
-        var tokens = std.ArrayList(u16).init(allocator);
+        var tokens = std.array_list.Managed(u16).init(allocator);
         for (text) |byte| {
             try tokens.append(@as(u16, NUM_SPECIAL) + @as(u16, byte));
         }
@@ -583,7 +586,7 @@ pub const Tokenizer = struct {
 
     /// Decode token ids back to text
     pub fn decode(self: *const Tokenizer, tokens: []const u16, allocator: Allocator) ![]u8 {
-        var result = std.ArrayList(u8).init(allocator);
+        var result = std.array_list.Managed(u8).init(allocator);
         for (tokens) |token| {
             if (token < self.vocab.items.len) {
                 try result.appendSlice(self.vocab.items[token]);
@@ -598,7 +601,9 @@ pub const Tokenizer = struct {
 pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
     const file = try std.fs.cwd().createFile(path, .{});
     defer file.close();
-    const writer = file.writer();
+    // const writer = file.writer();
+    var buf: [4096]u8 = undefined;
+    const writer = file.writer(&buf);
     const count: u32 = @intCast(tokens.len);
     try writer.writeAll(std.mem.asBytes(&count));
     try writer.writeAll(std.mem.sliceAsBytes(tokens));
@@ -607,7 +612,9 @@ pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
 pub fn read_tokens(path: []const u8, allocator: Allocator) ![]u16 {
     const file = try std.fs.cwd().openFile(path, .{});
     defer file.close();
-    const reader = file.reader();
+    // const reader = file.reader();
+    var buf: [4096]u8 = undefined;
+    const reader = file.reader(&buf);
     var count: u32 = undefined;
     _ = try reader.readAtLeast(std.mem.asBytes(&count), 4);
     const tokens = try allocator.alloc(u16, count);

@@ -10,8 +10,7 @@ pub fn main() !void {
     defer std.process.argsFree(allocator, args);
 
     if (args.len < 4) {
-        const stderr = std.io.getStdErr().writer();
-        try stderr.print("Usage: {s} <tokens_file> <vocab_file> <weights_out> [epochs]\n", .{args[0]});
+        std.debug.print("Usage: {s} <tokens_file> <vocab_file> <weights_out> [epochs]\n", .{args[0]});
         return;
     }
 
@@ -24,21 +23,19 @@ pub fn main() !void {
     else
         10;
 
-    const stdout = std.io.getStdOut().writer();
-
     // load tokens
     const tokens = try lib.read_tokens(tokens_path, allocator);
     defer allocator.free(tokens);
-    try stdout.print("Loaded {d} tokens from {s}\n", .{ tokens.len, tokens_path });
+    std.debug.print("Loaded {d} tokens from {s}\n", .{ tokens.len, tokens_path });
 
     // load vocab to verify size
     var tokenizer = try lib.Tokenizer.load(allocator, vocab_path);
     defer tokenizer.deinit();
-    try stdout.print("Vocab size: {d}\n", .{tokenizer.vocab_size()});
+    std.debug.print("Vocab size: {d}\n", .{tokenizer.vocab_size()});
 
     // check vocab fits our model
     if (tokenizer.vocab_size() > lib.VOCAB_SIZE) {
-        try stdout.print("WARNING: vocab ({d}) > model VOCAB_SIZE ({d}), tokens above {d} will be clamped\n", .{
+        std.debug.print("WARNING: vocab ({d}) > model VOCAB_SIZE ({d}), tokens above {d} will be clamped\n", .{
             tokenizer.vocab_size(), lib.VOCAB_SIZE, lib.VOCAB_SIZE,
         });
     }
@@ -48,29 +45,29 @@ pub fn main() !void {
     defer model.deinit();
 
     const param_count = model.param_count();
-    try stdout.print("Model parameters: {d} ({d:.1} MB at 6 bytes each)\n", .{
+    std.debug.print("Model parameters: {d} ({d:.1} MB at 6 bytes each)\n", .{
         param_count,
         @as(f32, @floatFromInt(param_count * 6)) / (1024.0 * 1024.0),
     });
 
     // initialize weights with random integers
     lib.init_model_weights(&model, 42);
-    try stdout.print("Weights initialized (seed=42)\n", .{});
+    std.debug.print("Weights initialized (seed=42)\n", .{});
 
     // training config
     const lr_shift: u5 = 4; // learning rate = gradient >> 4
     const log_interval: u32 = 100;
 
-    try stdout.print("\nTraining config:\n", .{});
-    try stdout.print("  Epochs: {d}\n", .{num_epochs});
-    try stdout.print("  Tokens: {d}\n", .{tokens.len});
-    try stdout.print("  LR shift: {d} (effective: gradient / {d})\n", .{ lr_shift, @as(u32, 1) << lr_shift });
-    try stdout.print("  Shell threshold: {d}\n", .{lib.SHELL_THRESHOLD});
-    try stdout.print("  Log every: {d} steps\n", .{log_interval});
+    std.debug.print("\nTraining config:\n", .{});
+    std.debug.print("  Epochs: {d}\n", .{num_epochs});
+    std.debug.print("  Tokens: {d}\n", .{tokens.len});
+    std.debug.print("  LR shift: {d} (effective: gradient / {d})\n", .{ lr_shift, @as(u32, 1) << lr_shift });
+    std.debug.print("  Shell threshold: {d}\n", .{lib.SHELL_THRESHOLD});
+    std.debug.print("  Log every: {d} steps\n", .{log_interval});
 
-    try stdout.print("\n{'─' ** 70}\n", .{});
-    try stdout.print("TRAINING\n", .{});
-    try stdout.print("{'─' ** 70}\n\n", .{});
+    std.debug.print("\n{'─' ** 70}\n", .{});
+    std.debug.print("TRAINING\n", .{});
+    std.debug.print("{'─' ** 70}\n\n", .{});
 
     // training loop
     var global_step: u64 = 0;
@@ -84,7 +81,7 @@ pub fn main() !void {
 
         // iterate through token pairs (input, target)
         if (tokens.len < 2) {
-            try stdout.print("Not enough tokens to train\n", .{});
+            std.debug.print("Not enough tokens to train\n", .{});
             return;
         }
 
@@ -132,7 +129,7 @@ pub fn main() !void {
                 }
                 const mean_r = if (weight_count > 0) @divTrunc(sum_abs_r, @as(i64, @intCast(weight_count))) else 0;
 
-                try stdout.print("  Epoch {d:>3} Step {d:>8} | Loss: {d:>6} | Max|R|: {d:>3} | Mean|R|: {d:>3}\n", .{
+                std.debug.print("  Epoch {d:>3} Step {d:>8} | Loss: {d:>6} | Max|R|: {d:>3} | Mean|R|: {d:>3}\n", .{
                     epoch, global_step, avg_loss, max_r, mean_r,
                 });
 
@@ -142,7 +139,7 @@ pub fn main() !void {
         }
 
         const avg_epoch_loss = if (epoch_steps > 0) @divTrunc(epoch_loss, @as(i64, epoch_steps)) else 0;
-        try stdout.print("\n  ── Epoch {d} complete | Avg loss: {d} | Steps: {d} ──\n\n", .{
+        std.debug.print("\n  ── Epoch {d} complete | Avg loss: {d} | Steps: {d} ──\n\n", .{
             epoch, avg_epoch_loss, epoch_steps,
         });
     }
@@ -151,9 +148,9 @@ pub fn main() !void {
 
     // save weights
     try lib.save_weights(weights_path, &model);
-    try stdout.print("{'─' ** 70}\n", .{});
-    try stdout.print("Saved weights to {s}\n", .{weights_path});
-    try stdout.print("Total training steps: {d}\n", .{global_step});
+    std.debug.print("{'─' ** 70}\n", .{});
+    std.debug.print("Saved weights to {s}\n", .{weights_path});
+    std.debug.print("Total training steps: {d}\n", .{global_step});
 
     // print final weight statistics
     var final_max_r: i16 = 0;
@@ -164,5 +161,5 @@ pub fn main() !void {
         if (abs_r > final_max_r) final_max_r = abs_r;
         if (abs_v > final_max_v) final_max_v = abs_v;
     }
-    try stdout.print("Output proj stats: max|V|={d}, max|R|={d}\n", .{ final_max_v, final_max_r });
+    std.debug.print("Output proj stats: max|V|={d}, max|R|={d}\n", .{ final_max_v, final_max_r });
 }

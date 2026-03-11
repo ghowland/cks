@@ -96,12 +96,12 @@ pub fn main() !void {
     const b = sub(50, 30);
     const c = mul(a, b);
 
-    try stdout.print("a={d} b={d} c={d}\n", .{ a, b, c });
+    std.debug.print("a={d} b={d} c={d}\n", .{ a, b, c });
 
     const p1 = Point.init(0, 0);
     const p2 = Point.init(3, 4);
     const dist = p1.distance_sq(p2);
-    try stdout.print("distance_sq={d}\n", .{dist});
+    std.debug.print("distance_sq={d}\n", .{dist});
 
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
     defer _ = gpa.deinit();
@@ -115,9 +115,9 @@ pub fn main() !void {
         try list.append(i * i);
     }
 
-    try stdout.print("squares: ", .{});
+    std.debug.print("squares: ", .{});
     for (0..list.len) |idx| {
-        try stdout.print("{d} ", .{list.get(idx)});
+        std.debug.print("{d} ", .{list.get(idx)});
     }
-    try stdout.print("\n", .{});
+    std.debug.print("\n", .{});
 }
