@@ -258,7 +258,7 @@ pub fn dot_product(a: []const i32, b: []const i32) i32 {
     for (a, b) |av, bv| {
         acc += @as(i64, av) * @as(i64, bv);
     }
-    return @intCast(acc >> OCTAVE_SHIFT);
+    return @intCast(std.math.clamp(acc >> OCTAVE_SHIFT, -2147483647, 2147483647));
 }
 
 /// Element-wise addition of two vectors, result in out
@@ -271,7 +271,8 @@ pub fn vec_add(a: []const i32, b: []const i32, out: []i32) void {
 /// Element-wise addition, in place: a += b
 pub fn vec_add_inplace(a: []i32, b: []const i32) void {
     for (a, b) |*av, bv| {
-        av.* += bv;
+        const value: i64 = @as(i64, av.*) + @as(i64, bv);
+        av.* = @intCast(std.math.clamp(value, -2147483647, 2147483647));
     }
 }
 
@@ -279,7 +280,7 @@ pub fn vec_add_inplace(a: []i32, b: []const i32) void {
 pub fn vec_scale(v: []const i32, scalar: i32, out: []i32) void {
     for (v, out) |val, *o| {
         const prod: i64 = @as(i64, val) * @as(i64, scalar);
-        o.* = @intCast(prod >> OCTAVE_SHIFT);
+        o.* = @intCast(std.math.clamp(prod >> OCTAVE_SHIFT, -2147483647, 2147483647));
     }
 }
 
@@ -311,7 +312,9 @@ pub fn softmax_int(logits: []const i32, probs: []i32) void {
     // exp approximation: clamped linear
     var sum: i64 = 0;
     for (logits, probs) |v, *p| {
-        const shifted = v - max_val; // now in range [-inf, 0]
+        // const shifted = v - max_val; // now in range [-inf, 0]
+        const shifted: i32 = @intCast(std.math.clamp(@as(i64, v) - @as(i64, max_val), -2048, 0));
+
         // piecewise linear exp approximation in integer
         // exp(x) ≈ max(1, 1024 + shifted) for shifted in reasonable range
         const exp_val: i32 = @max(1, @as(i32, 1024) + shifted);
