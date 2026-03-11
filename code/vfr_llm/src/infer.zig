@@ -66,11 +66,11 @@ pub fn main() !void {
 
         // decode and print this token
         const token_slice = &[_]u16{next_token};
-        const decoded = try tokenizer.decode(token_slice, allocator);
+        const decoded: []u8 = try tokenizer.decode(token_slice, allocator);
         defer allocator.free(decoded);
 
         if (decoded.len > 0) {
-            std.debug.print(decoded);
+            std.debug.print("{s}", .{decoded});
         }
 
         current_token = next_token;

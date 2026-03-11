@@ -63,7 +63,7 @@ pub fn main() !void {
         defer allocator.free(prompt_tokens);
 
         // generate continuation
-        var output = std.ArrayList(u8).init(allocator);
+        var output = std.array_list.Managed(u8).init(allocator);
         defer output.deinit();
 
         try output.appendSlice(test_case.prompt);

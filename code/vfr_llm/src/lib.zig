@@ -322,7 +322,9 @@ pub fn softmax_int(logits: []const i32, probs: []i32) void {
     // normalize so sum = 1024
     if (sum > 0) {
         for (probs) |*p| {
-            p.* = @intCast((@as(i64, p.*) * 1024) / sum);
+            const a: i64 = (@as(i64, p.*) * 1024);
+            const b: i64 = @divTrunc(a, sum);
+            p.* = @intCast(b);
         }
     }
 }
@@ -444,28 +446,28 @@ pub fn load_weights(path: []const u8, model: *Model) !void {
     defer file.close();
 
     var buf: [4096]u8 = undefined;
-    const reader = file.reader(&buf);
+    var reader = file.reader(&buf);
     // const reader = file.reader();
 
     // read embedding
     const embed_bytes = std.mem.sliceAsBytes(model.embedding.weights);
-    const embed_read = try reader.readAtLeast(embed_bytes, embed_bytes.len);
+    const embed_read = try reader.read(embed_bytes);
     _ = embed_read;
     // read layers
     for (model.layers) |*layer| {
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.wq.weights), std.mem.sliceAsBytes(layer.wq.weights).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.wk.weights), std.mem.sliceAsBytes(layer.wk.weights).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.wv.weights), std.mem.sliceAsBytes(layer.wv.weights).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.wo.weights), std.mem.sliceAsBytes(layer.wo.weights).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.w1.weights), std.mem.sliceAsBytes(layer.w1.weights).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.w2.weights), std.mem.sliceAsBytes(layer.w2.weights).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.norm1.scale), std.mem.sliceAsBytes(layer.norm1.scale).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.norm1.bias), std.mem.sliceAsBytes(layer.norm1.bias).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.norm2.scale), std.mem.sliceAsBytes(layer.norm2.scale).len);
-        _ = try reader.readAtLeast(std.mem.sliceAsBytes(layer.norm2.bias), std.mem.sliceAsBytes(layer.norm2.bias).len);
+        _ = try reader.read(std.mem.sliceAsBytes(layer.wq.weights));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.wk.weights));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.wv.weights));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.wo.weights));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.w1.weights));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.w2.weights));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.norm1.scale));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.norm1.bias));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.norm2.scale));
+        _ = try reader.read(std.mem.sliceAsBytes(layer.norm2.bias));
     }
     // read output proj
-    _ = try reader.readAtLeast(std.mem.sliceAsBytes(model.output_proj.weights), std.mem.sliceAsBytes(model.output_proj.weights).len);
+    _ = try reader.read(std.mem.sliceAsBytes(model.output_proj.weights));
 }
 
 // ─── Tokenizer Types ────────────────────────────────────────
@@ -528,31 +530,33 @@ pub const Tokenizer = struct {
     pub fn load(allocator: Allocator, path: []const u8) !Tokenizer {
         const file = try std.fs.cwd().openFile(path, .{});
         defer file.close();
-        const reader = file.reader();
+        // const reader = file.reader();
+        var buf: [4096]u8 = undefined;
+        var reader = file.reader(&buf);
 
         var tok = Tokenizer.init(allocator);
 
         // read vocab size
         var vs: u32 = undefined;
-        _ = try reader.readAtLeast(std.mem.asBytes(&vs), 4);
+        _ = try reader.read(std.mem.asBytes(&vs));
 
         // read vocab entries
         for (0..vs) |_| {
             var len: u16 = undefined;
-            _ = try reader.readAtLeast(std.mem.asBytes(&len), 2);
+            _ = try reader.read(std.mem.asBytes(&len));
             const entry = try allocator.alloc(u8, len);
-            _ = try reader.readAtLeast(entry, len);
+            _ = try reader.read(entry);
             try tok.vocab.append(entry);
         }
 
         // read merge count
         var mc: u32 = undefined;
-        _ = try reader.readAtLeast(std.mem.asBytes(&mc), 4);
+        _ = try reader.read(std.mem.asBytes(&mc));
 
         // read merges
         for (0..mc) |_| {
             var merge: BPEMerge = undefined;
-            _ = try reader.readAtLeast(std.mem.asBytes(&merge), @sizeOf(BPEMerge));
+            _ = try reader.read(std.mem.asBytes(&merge));
             try tok.merges.append(merge);
         }
 
@@ -605,7 +609,7 @@ pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
     var buf: [4096]u8 = undefined;
     const writer = file.writer(&buf);
     const count: u32 = @intCast(tokens.len);
-    try writer.writeAll(std.mem.asBytes(&count));
+    try writer.write(std.mem.asBytes(&count));
     try writer.writeAll(std.mem.sliceAsBytes(tokens));
 }
 
@@ -614,11 +618,11 @@ pub fn read_tokens(path: []const u8, allocator: Allocator) ![]u16 {
     defer file.close();
     // const reader = file.reader();
     var buf: [4096]u8 = undefined;
-    const reader = file.reader(&buf);
+    var reader = file.reader(&buf);
     var count: u32 = undefined;
-    _ = try reader.readAtLeast(std.mem.asBytes(&count), 4);
+    _ = try reader.read(std.mem.asBytes(&count));
     const tokens = try allocator.alloc(u16, count);
-    _ = try reader.readAtLeast(std.mem.sliceAsBytes(tokens), count * 2);
+    _ = try reader.read(std.mem.sliceAsBytes(tokens));
     return tokens;
 }
 
