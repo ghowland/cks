@@ -65,9 +65,9 @@ pub fn main() !void {
     std.debug.print("  Shell threshold: {d}\n", .{lib.SHELL_THRESHOLD});
     std.debug.print("  Log every: {d} steps\n", .{log_interval});
 
-    std.debug.print("\n{'─' ** 70}\n", .{});
+    std.debug.print("\n────────────────────────────────────────────────────\n", .{});
     std.debug.print("TRAINING\n", .{});
-    std.debug.print("{'─' ** 70}\n\n", .{});
+    std.debug.print("────────────────────────────────────────────────────\n\n", .{});
 
     // training loop
     var global_step: u64 = 0;
@@ -148,7 +148,7 @@ pub fn main() !void {
 
     // save weights
     try lib.save_weights(weights_path, &model);
-    std.debug.print("{'─' ** 70}\n", .{});
+    std.debug.print("────────────────────────────────────────────────────\n", .{});
     std.debug.print("Saved weights to {s}\n", .{weights_path});
     std.debug.print("Total training steps: {d}\n", .{global_step});
 

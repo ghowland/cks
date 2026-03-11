@@ -46,9 +46,9 @@ pub fn main() !void {
     const test_cases: []const TestCase = &builtin_tests;
     _ = test_cases;
 
-    std.debug.print("\n{'─' ** 60}\n", .{});
+    std.debug.print("\n──────────────────────────────────────────────────────────────────────────\n", .{});
     std.debug.print("EVALUATION\n", .{});
-    std.debug.print("{'─' ** 60}\n\n", .{});
+    std.debug.print("──────────────────────────────────────────────────────────────────────────\n\n", .{});
 
     var total: u32 = 0;
     var generated: u32 = 0;
@@ -142,9 +142,9 @@ pub fn main() !void {
     // cleanup temp file
     std.fs.cwd().deleteFile("data/eval_tmp.zig") catch {};
 
-    std.debug.print("{'─' ** 60}\n", .{});
+    std.debug.print("────────────────────────────────────────────────────\n", .{});
     std.debug.print("RESULTS\n", .{});
-    std.debug.print("{'─' ** 60}\n", .{});
+    std.debug.print("────────────────────────────────────────────────────\n", .{});
     std.debug.print("  Total tests:    {d}\n", .{total});
     std.debug.print("  Generated:      {d}\n", .{generated});
     std.debug.print("  Syntax pass:    {d}/{d} ({d:.0}%)\n", .{

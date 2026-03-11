@@ -420,7 +420,10 @@ pub fn init_model_weights(model: *Model, seed: u64) void {
 pub fn save_weights(path: []const u8, model: *const Model) !void {
     const file = try std.fs.cwd().createFile(path, .{});
     defer file.close();
-    const writer = file.writer();
+
+    var buf: [4096]u8 = undefined;
+    var fw = file.writer(&buf);
+    var writer: *std.Io.Writer = &fw.interface;
 
     // write embedding
     try writer.writeAll(std.mem.sliceAsBytes(model.embedding.weights));
@@ -439,6 +442,8 @@ pub fn save_weights(path: []const u8, model: *const Model) !void {
     }
     // write output proj
     try writer.writeAll(std.mem.sliceAsBytes(model.output_proj.weights));
+
+    try writer.flush(); // MUST flush
 }
 
 pub fn load_weights(path: []const u8, model: *Model) !void {
@@ -504,7 +509,10 @@ pub const Tokenizer = struct {
     pub fn save(self: *const Tokenizer, path: []const u8) !void {
         const file = try std.fs.cwd().createFile(path, .{});
         defer file.close();
-        const writer = file.writer();
+
+        var buf: [4096]u8 = undefined;
+        var fw = file.writer(&buf);
+        var writer: *std.Io.Writer = &fw.interface;
 
         // write vocab size
         const vs: u32 = @intCast(self.vocab.items.len);
@@ -603,14 +611,15 @@ pub const Tokenizer = struct {
 // ─── Token File I/O ─────────────────────────────────────────
 
 pub fn write_tokens(path: []const u8, tokens: []const u16) !void {
+    const count: u32 = @intCast(tokens.len);
+
     const file = try std.fs.cwd().createFile(path, .{});
     defer file.close();
-    // const writer = file.writer();
-    var buf: [4096]u8 = undefined;
-    const writer = file.writer(&buf);
-    const count: u32 = @intCast(tokens.len);
-    try writer.write(std.mem.asBytes(&count));
-    try writer.writeAll(std.mem.sliceAsBytes(tokens));
+    var write_buf: [4096]u8 = undefined;
+    var fw = file.writer(&write_buf);
+    const writer: *std.Io.Writer = &fw.interface;
+    try writer.writeAll(std.mem.asBytes(&count));
+    try writer.flush(); // MUST flush
 }
 
 pub fn read_tokens(path: []const u8, allocator: Allocator) ![]u16 {
