@@ -26,7 +26,6 @@
 
 **Lexicon:** [@CKS-LEX-12-2026]
 
-
 ---
 
 ## I. THE PROBLEM: FLOAT INFORMATION LOSS IN LLMS
