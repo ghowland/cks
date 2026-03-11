@@ -247,7 +247,7 @@ pub fn matmul_vec_weight(input: []const i32, w: *const WeightMatrix, output: []i
             const b: i64 = @intCast(w.weights[i * cols + j].v);
             acc += a * b;
         }
-        output[j] = @intCast(acc >> OCTAVE_SHIFT);
+        output[j] = @intCast(std.math.clamp(acc >> OCTAVE_SHIFT, -2147483647, 2147483647));
     }
 }
 
