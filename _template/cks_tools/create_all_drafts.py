@@ -10,6 +10,9 @@ ZENODO_CRED_PATH = "/mnt/c/Users/Geoff/.secure/zenodo.json"
 # Create Paper Delay, so they dont ban us
 DELAY = 0.5
 
+#NOTE: If NO_OP_MODE == True, then we wont make any papers, just print the messaegs
+# NO_OP_MODE = False
+NO_OP_MODE = True
 
 def get_stub_papers(papers):
     stubs = []
@@ -40,9 +43,12 @@ def create_all_drafts(limit=None, papers_path=PAPERS_JSON_PATH, config_path=ZENO
 
     for paper in to_process:
         paper_id = paper["paper_id"]
-        print("Processing: " + paper_id)
         try:
-            result = create_paper(paper_id, papers_path=papers_path, config_path=config_path)
+            if not NO_OP_MODE:
+                print("Processing: " + paper_id)
+                result = create_paper(paper_id, papers_path=papers_path, config_path=config_path)
+            else:
+                print("Processing - NO-OP: " + paper_id)
             created.append(paper_id)
         except Exception as e:
             print("  FAILED: " + str(e))
