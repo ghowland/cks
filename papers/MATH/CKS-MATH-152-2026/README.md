@@ -1,8 +1,8 @@
-# manuscript.md
+# Hex Lattice Search — Specification v1.0
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-149-2026 copy] → [@CKS-MATH-150-2026 copy]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-151-2026] → [@CKS-MATH-152-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,7 +18,7 @@
 
 ## Abstract
 
-
+We present Hex Lattice Search, a data indexing and retrieval system that replaces traversal-based searching with closed-form geometric calculation. Data items are assigned sequential integer indices as they are created. Each index maps deterministically to a unique position in a tri-wing hexagonal lattice through pure arithmetic. Retrieval is O(1) regardless of dataset size — the position is calculated, never searched for. The lattice is append-only: new items are added at the next index, and the insertion sequence itself serves as a global clock. Every node's edge state, version, and relationship to every other node is computable from two integers — the node's index and the current lattice size. The system stores only key-value pairs (10 bytes per cell). Position, ring depth, wing assignment, neighbor addresses, edge orientations, version history, and integrity checksums are all derived from the index at zero storage cost. The lattice supports time-travel queries (view the dataset as it existed at any past insertion step) without snapshots, copies, or version tables. Capacity is N = 3M² where M is the wing radius, scalable by increasing M with no rehashing and no data migration.
 
 ---
 
@@ -128,7 +128,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ manuscript.md },
+  title={ Hex Lattice Search — Specification v1.0 },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},

@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "manuscript.md",
+    "title": "Veer: Exact Arithmetic Compression Using VFR Integer Coding",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-149-2026 copy] \u2192 [@CKS-MATH-150-2026 copy]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-150-2026] \u2192 [@CKS-MATH-151-2026]",
     "doi": "10.5281/zenodo.zzz",
-    "abstract": "",
+    "abstract": "We present Veer, a data compression system built on VFR (Value, Factor, Remainder) integer arithmetic. Unlike conventional arithmetic coders that accumulate truncation error through integer division and compensate with renormalization heuristics, Veer preserves the exact remainder at every range division step, carrying it forward as input to the next division. The result is a coder whose internal range boundaries are mathematically exact throughout the entire encoding process, producing output that is provably optimal for the given frequency model. We define two modes: Veer Lossless, which achieves byte-perfect reconstruction through full VFR carry propagation, and Veer Lossy, which trades bit-depth precision for compression speed and ratio through a single configurable parameter Q. Both modes operate on arbitrary binary data \u2014 the input need not be VFR-native. The system is implemented as a command-line tool in Zig with zero external dependencies. File extension: `.ver`.",
     "dependencies": [],
-    "raw_content_preview": " **Registry:** [@CKS-MATH-150-2026 copy]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-149-2026 copy] \u2192 [@CKS-MATH..."
+    "raw_content_preview": "# Veer: Exact Arithmetic Compression Using VFR Integer Coding  ## Lossless and Lossy Data Compression Through Remainder-Preserving Range Division   **Registry:** [@CKS-MATH-151-2026]  **Series Path:**..."
 }

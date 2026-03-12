@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "manuscript.md",
+    "title": "Hex Lattice Search \u2014 Specification v1.0",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-149-2026 copy] \u2192 [@CKS-MATH-150-2026 copy]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-151-2026] \u2192 [@CKS-MATH-152-2026]",
     "doi": "10.5281/zenodo.zzz",
-    "abstract": "",
+    "abstract": "We present Hex Lattice Search, a data indexing and retrieval system that replaces traversal-based searching with closed-form geometric calculation. Data items are assigned sequential integer indices as they are created. Each index maps deterministically to a unique position in a tri-wing hexagonal lattice through pure arithmetic. Retrieval is O(1) regardless of dataset size \u2014 the position is calculated, never searched for. The lattice is append-only: new items are added at the next index, and the insertion sequence itself serves as a global clock. Every node's edge state, version, and relationship to every other node is computable from two integers \u2014 the node's index and the current lattice size. The system stores only key-value pairs (10 bytes per cell). Position, ring depth, wing assignment, neighbor addresses, edge orientations, version history, and integrity checksums are all derived from the index at zero storage cost. The lattice supports time-travel queries (view the dataset as it existed at any past insertion step) without snapshots, copies, or version tables. Capacity is N = 3M\u00b2 where M is the wing radius, scalable by increasing M with no rehashing and no data migration.",
     "dependencies": [],
-    "raw_content_preview": " **Registry:** [@CKS-MATH-150-2026 copy]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-149-2026 copy] \u2192 [@CKS-MATH..."
+    "raw_content_preview": "# Hex Lattice Search \u2014 Specification v1.0  ## O(1) Data Retrieval Through Deterministic Geometric Calculation on a Tri-Wing Hexagonal Lattice  **Registry:** [@CKS-MATH-152-2026]  **Series Path:** [@CK..."
 }

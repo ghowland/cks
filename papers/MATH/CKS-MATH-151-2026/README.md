@@ -1,8 +1,8 @@
-# manuscript.md
+# Veer: Exact Arithmetic Compression Using VFR Integer Coding
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-149-2026 copy] → [@CKS-MATH-150-2026 copy]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-150-2026] → [@CKS-MATH-151-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.zzz
 
@@ -18,7 +18,7 @@
 
 ## Abstract
 
-
+We present Veer, a data compression system built on VFR (Value, Factor, Remainder) integer arithmetic. Unlike conventional arithmetic coders that accumulate truncation error through integer division and compensate with renormalization heuristics, Veer preserves the exact remainder at every range division step, carrying it forward as input to the next division. The result is a coder whose internal range boundaries are mathematically exact throughout the entire encoding process, producing output that is provably optimal for the given frequency model. We define two modes: Veer Lossless, which achieves byte-perfect reconstruction through full VFR carry propagation, and Veer Lossy, which trades bit-depth precision for compression speed and ratio through a single configurable parameter Q. Both modes operate on arbitrary binary data — the input need not be VFR-native. The system is implemented as a command-line tool in Zig with zero external dependencies. File extension: `.ver`.
 
 ---
 
@@ -128,7 +128,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ manuscript.md },
+  title={ Veer: Exact Arithmetic Compression Using VFR Integer Coding },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
