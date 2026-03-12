@@ -2,9 +2,9 @@
 
 ## Neural-Symbolic Computation as Native Batch Operations on Integer ALU Architecture
 
-**Registry:** [@CKS-MATH-138-2026]
+**Registry:** [@CKS-MATH-148-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-137-2026] → [@CKS-MATH-138-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-147-2026] → [@CKS-MATH-148-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 

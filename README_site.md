@@ -55,7 +55,7 @@
 | **[[@CKS-MATH-128-2026]](papers/MATH/CKS-MATH-128-2026/manuscript.md)** | **How to Think and Code using Logismos and [V, F, R]** | Learning and Example Code |
 | **[[@CKS-MATH-129-2026]](papers/MATH/CKS-MATH-129-2026/manuscript.md)** | **From Pixels to Pell: How Integer Grids Already Solve the √2 Problem** | None |
 | **[[@CKS-MATH-13-2026]](papers/MATH/CKS-MATH-13-2026/manuscript.md)** | **The Resonant Epoch** | 1.000 s = t_P × √N × K × 32 × 144 × √3 × 10⁹ × (1-α) (all terms derived, zero adjustable parameters) |
-| **[[@CKS-MATH-130-2026]](papers/MATH/CKS-MATH-130-2026/manuscript.md)** | **Oil and Water: Why ℚ and ℝ Are Different Kinds of Math** | None |
+| **[[@CKS-MATH-130-2026]](papers/MATH/CKS-MATH-130-2026/manuscript.md)** | **Oil and Water: Why ℚ and ℝ Are Different Kinds of Math** | Comparing Rational and Irrational Math |
 | **[[@CKS-MATH-131-2026]](papers/MATH/CKS-MATH-131-2026/manuscript.md)** | **Name the Remainder, and Infinity Disappears** | None |
 | **[[@CKS-MATH-132-2026]](papers/MATH/CKS-MATH-132-2026/manuscript.md)** | **The Real Number Tragedy** | How Mathematics Lost Three Values, Kept One, and Spent Centuries Trying to Remember What It Forgot |
 | **[[@CKS-MATH-133-2026]](papers/MATH/CKS-MATH-133-2026/manuscript.md)** | **Integer-Exact LLM Training and Inference via VFR Architecture** | Eliminating Float Information Loss in Large Language Models Through Domain-Homogeneous Rational Arithmetic |
@@ -64,8 +64,21 @@
 | **[[@CKS-MATH-136-2026]](papers/MATH/CKS-MATH-136-2026/manuscript.md)** | **The Harmonic Integer Processor: An AI Chip Without Floating-Point Units** | Replacing IEEE 754 Float Logic with i64 Multiply-Accumulate Arrays, Barrel Shifters, and VFR Shell Instructions for Exact Deterministic AI Computation |
 | **[[@CKS-MATH-137-2026]](papers/MATH/CKS-MATH-137-2026/manuscript.md)** | **Persistent Provenanced Knowledge Base Eliminates Context Window Degradation, Hallucination, and RAG** | Structured Integer Fact Stores with Source Tracking, Version Filtering, and Multi-Dimensional Indexing as Complete Replacement for Token-Buffer Context |
 | **[[@CKS-MATH-138-2026]](papers/MATH/CKS-MATH-138-2026/manuscript.md)** | **LLM → Prolog → LLM: Multi-Step Verified Generation Through Alternating Neural-Symbolic Computation** | Eliminating Hallucination by Construction via Provenanced Integer Knowledge Bases, Triveritas Evaluation, and Adaptive Goal Decomposition |
+| **[[@CKS-MATH-139-2026]](papers/MATH/CKS-MATH-139-2026/manuscript.md)** | **Integer ALU Based Computing** | A Proposal for Eliminating Floating-Point Hardware Through VFR Representation and Massively Parallel Integer Architecture |
 | **[[@CKS-MATH-14-2026]](papers/MATH/CKS-MATH-14-2026/manuscript.md)** | **The Origin of 2.08** | λ_H = N^(1/3) = (9×10⁶⁰)^(1/3) = 2.08008382... × 10²⁰ (zero free parameters, pure cubic geometry) |
+| **[[@CKS-MATH-140-2026]](papers/MATH/CKS-MATH-140-2026/manuscript.md)** | **Integer ALU Based Computing — ISA Specification v1.0** | Instruction Set Architecture for the VFR Integer Processor |
+| **[[@CKS-MATH-141-2026]](papers/MATH/CKS-MATH-141-2026/manuscript.md)** | **Integer ALU Based Computing — Compiler Specification v1.0** | Compiler and Language Design for the VFR Integer Processor |
+| **[[@CKS-MATH-142-2026]](papers/MATH/CKS-MATH-142-2026/manuscript.md)** | **Silo System on VFR Hardware — Technical Mapping Specification v1.0** | Mapping Silo Data-Only Architecture to the Integer ALU Based Computing ISA |
+| **[[@CKS-MATH-143-2026]](papers/MATH/CKS-MATH-143-2026/manuscript.md)** | **Integer ALU Based Computing — Motherboard Specification v2.0** | Hardware Platform for VFR Batch Processing on Zynq ARM+FPGA |
+| **[[@CKS-MATH-144-2026]](papers/MATH/CKS-MATH-144-2026/manuscript.md)** | **Integer ALU Based Computing — Rendering Pipeline Specification v2.0** | Sovereign Volumetric Engine on VFR Hardware: Complete 2D and 3D Graphics Pipeline |
+| **[[@CKS-MATH-145-2026]](papers/MATH/CKS-MATH-145-2026/manuscript.md)** | **Integer ALU Based Computing — FPGA Implementation Specification v1.0** | Verilog Design for VFR Cores on Xilinx Zynq-7020 |
+| **[[@CKS-MATH-146-2026]](papers/MATH/CKS-MATH-146-2026/manuscript.md)** | **Integer ALU Based Computing — System Integration Specification v1.0** | I/O Boundaries, Storage, Networking, Audio, and Error Model |
+| **[[@CKS-MATH-147-2026]](papers/MATH/CKS-MATH-147-2026/manuscript.md)** | **The Philosophy of Q-Computation** | Exact Integer Arithmetic as the Foundation of Universal Computation |
+| **[[@CKS-MATH-148-2026]](papers/MATH/CKS-MATH-148-2026/manuscript.md)** | **LLM-Prolog on VFR Hardware — Inline Intelligence Specification v1.0** | Neural-Symbolic Computation as Native Batch Operations on Integer ALU Architecture |
+| **[[@CKS-MATH-149-2026]](papers/MATH/CKS-MATH-149-2026/manuscript.md)** | **The Q-Foundational Stack** | A Complete Computing Architecture from Number Representation to Artificial Intelligence |
 | **[[@CKS-MATH-15-2026]](papers/MATH/CKS-MATH-15-2026/manuscript.md)** | **Topological Error-Correction** | Ω = 1 (decidability proven), paradoxes → heat conversion mandatory, black holes = error quarantine (information preserved) |
+| **[[@CKS-MATH-150-2026]](papers/MATH/CKS-MATH-150-2026/manuscript.md)** | **VFR Assembler Specification v1.0** | Assembly Language and Binary Format for the VFR Integer Processor |
+| **[[@CKS-MATH-150-2026 copy]](papers/MATH/CKS-MATH-150-2026 copy/manuscript.md)** | **None** | None |
 | **[[@CKS-MATH-16-2026]](papers/MATH/CKS-MATH-16-2026/manuscript.md)** | **The Geometric Necessity of 32** | T_word = 32 seconds from k=3 hexagonal coordination, 32 = 2³ × 2 × 2 (geometry not convention) |
 | **[[@CKS-MATH-17-2026]](papers/MATH/CKS-MATH-17-2026/manuscript.md)** | **The 7-Bubble Jacobian** | J = 2π√84 / 9 ≈ 7.70164 (zero free parameters, geometric necessity from FoL nucleus) |
 | **[[@CKS-MATH-18-2026]](papers/MATH/CKS-MATH-18-2026/manuscript.md)** | **The 84-Bit Word on a 32-Bit Computer** | SSP uses 3 frames × 32 bits = 96 bits capacity, encoding 84-bit payload + 12-bit control, all phase-locked to 1/32 Hz |
