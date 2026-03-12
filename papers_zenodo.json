@@ -612,6 +612,48 @@
     },
     "extracted_at": "2026-03-05T12:53:26.148260+00:00"
   },
+  "CKS-BIO-48-2026": {
+    "file_path": "papers/BIO/CKS-BIO-48-2026/manuscript.md",
+    "paper_id": "CKS-BIO-48-2026",
+    "subject": "BIO",
+    "number": 48,
+    "year": 2026,
+    "title": "Voice as UART",
+    "key_result": "Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing",
+    "skip": false,
+    "subtitle": null,
+    "doi": {
+      "raw": "10.5281/zenodo.18879510",
+      "is_stub": false,
+      "zenodo_id": 18879510,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Key Result": "Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing"
+    },
+    "abstract": "We derive **human voice/eye system as substrate command interface** from biological-registry coupling: Traditional neuroscience treats vocalization as communication tool, eye movement as visual tracking, missing their function as **administrative control peripherals** for direct substrate interaction. Starting from CKS framework (bilateral manifold S=2, 3-dipole coordination D=3, 1/32 Hz Logos Word, 8000 Hz admin carrier from tinnitus analysis), we prove human anatomy includes **Voice-Operated Command Line Interface (VOCLI)** enabling registry modification. Complete specification: (1) **Vocal UART architecture**\u2014larynx = bilateral oscillator producing substrate-compatible frequencies, vocal cavity generates harmonics (base 110 Hz produces overtones to 8000+ Hz), singer's formant (concentrated 3-8 kHz energy spike) = administrative carrier matching substrate clock harmonics, phonemic encoding: k-sounds = discrete impulse (start-bit/clock-sync), m-sounds = Side A write (lips-closed bilabial), n-sounds = Side B mirror (tongue-up alveolar), l-i-o sequence = high-bandwidth payload (logic-lock + UV-laser SNR + toroidal closure), baud rate stratification: 32 Hz (buffer open/soften), 110 Hz (handshake/ready-to-send), 330 Hz (D=3 gearbox streaming), 8000 Hz (root execute). (2) **Ocular dipole selection**\u2014eyes uniquely wired to 3-dipole substrate interface (only voluntary system affecting 8000 Hz tone), experimental verification: tested orientation changes, body movement, eye closure\u2014ONLY eye position modulates carrier (all else unchanged), vertical control: looking up shifts tone to m-phoneme (Yang N=2 excite/write buffer), looking down shifts to n-phoneme (Yin N=3 ground/flush), horizontal control: looking left shifts to e-phoneme (\u03b1-dipole logic selection), looking right shifts to u-phoneme (\u03b2/\u03b3-dipole resonance), center gaze = axle sync (k-phoneme execute state). (3) **Breath as carrier system**\u2014diaphragm pumps 2\u03c0 phase-tension enabling acoustic generation, vocalizing = serial data transmission (not mere sound production), phonemes = instruction set architecture not arbitrary linguistic units, sustained tones = continuous write operations, glottal stops/silence = SNAP_COMMIT triggers, breath + eyes = only two independently controllable biological systems (proving admin interface design intentionality). (4) **Coherence gating mechanism**\u2014administrative access requires R\u22480 (low-remainder coherence), high-noise individuals (R>31 negative feedback loops) cannot achieve pure resonant tone (voice becomes gravelly/flat lacking harmonic clarity, Q-factor insufficient for 8000 Hz spike generation, internal static prevents substrate recognition of admin credentials), self-regulating: only coherent operators access high-privilege functions (evil cannot achieve omnipotence via mechanical necessity from signal processing mathematics). (5) **Sovereignty physiological marker**\u2014saccadic eye movement = animal/survival mode (84-bit render-loop constrained), eyes snap erratically responding to X-space threats (15.19ms lag creates jitter pattern), smooth pursuit = sovereign mode (1024-bit admin phase-locked), eyes LERP continuously without saccades (direct 0ms k-space indexing), smooth non-jittering gaze = visual proof of registry lock achievement, \"looking at\" becomes \"indexing\" (direct address selection not visual scanning). (6) **Complete operational protocol**\u2014spinal alignment establishes transceiver (8000 Hz tone audible confirms active), smooth eye LERP to target coordinates (stone/wound/goal addressing), sustain 330 Hz l-i-o phoneme stream (84-bit instruction via 1024-bit buffer), modulate eye position (up for excite, left for logic-lock), execute k-phoneme glottal stop (registry commit trigger). Applications: megalithic acoustic engineering (singing stones into fusion), healing protocols (vocal registry correction), manifestation (administrative writes to reality), all via biological UART interface.\n\n**Key Result:** Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing",
+    "dependencies": [
+      "CKS-BIO-1-2026",
+      "CKS-BIO-47-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026"
+    ],
+    "validation": {
+      "is_valid": false,
+      "errors": [
+        "Missing title (H1)",
+        "Missing Registry field in frontmatter"
+      ],
+      "warnings": [
+        "DOI is missing",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-05T12:53:26.148273+00:00"
+  },
   "CKS-BIO-49-2026": {
     "file_path": "papers/BIO/CKS-BIO-49-2026/manuscript.md",
     "paper_id": "CKS-BIO-49-2026",
@@ -5727,6 +5769,582 @@
       ]
     },
     "extracted_at": "2026-03-05T12:53:26.150319+00:00"
+  },
+  "CKS-MATH-128-2026": {
+    "file_path": "papers/MATH/CKS-MATH-128-2026/manuscript.md",
+    "paper_id": "CKS-MATH-128-2026",
+    "subject": "MATH",
+    "number": 128,
+    "year": 2026,
+    "title": "How to Think and Code using Logismos and [V, F, R]",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Learning and Example Code",
+    "doi": {
+      "raw": "10.5281/zenodo.18959881",
+      "is_stub": false,
+      "zenodo_id": 18959881,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-128-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-127-2026] \u2192 [@CKS-MATH-128-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": null,
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-127-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter",
+        "No abstract section found"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103788+00:00"
+  },
+  "CKS-MATH-129-2026": {
+    "file_path": "papers/MATH/CKS-MATH-129-2026/manuscript.md",
+    "paper_id": "CKS-MATH-129-2026",
+    "subject": "MATH",
+    "number": 129,
+    "year": 2026,
+    "title": "From Pixels to Pell: How Integer Grids Already Solve the \u221a2 Problem",
+    "key_result": null,
+    "skip": false,
+    "subtitle": null,
+    "doi": {
+      "raw": "10.5281/zenodo.18959899",
+      "is_stub": false,
+      "zenodo_id": 18959899,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-129-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": null,
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter",
+        "No abstract section found"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103799+00:00"
+  },
+  "CKS-MATH-130-2026": {
+    "file_path": "papers/MATH/CKS-MATH-130-2026/manuscript.md",
+    "paper_id": "CKS-MATH-130-2026",
+    "subject": "MATH",
+    "number": 130,
+    "year": 2026,
+    "title": "Oil and Water: Why \u211a and \u211d Are Different Kinds of Math",
+    "key_result": null,
+    "skip": false,
+    "subtitle": null,
+    "doi": {
+      "raw": "10.5281/zenodo.18959904",
+      "is_stub": false,
+      "zenodo_id": 18959904,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-130-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": null,
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter",
+        "No abstract section found"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103822+00:00"
+  },
+  "CKS-MATH-131-2026": {
+    "file_path": "papers/MATH/CKS-MATH-131-2026/manuscript.md",
+    "paper_id": "CKS-MATH-131-2026",
+    "subject": "MATH",
+    "number": 131,
+    "year": 2026,
+    "title": "Name the Remainder, and Infinity Disappears",
+    "key_result": null,
+    "skip": false,
+    "subtitle": null,
+    "doi": {
+      "raw": "10.5281/zenodo.18959929",
+      "is_stub": false,
+      "zenodo_id": 18959929,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-131-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": null,
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter",
+        "No abstract section found"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103834+00:00"
+  },
+  "CKS-MATH-132-2026": {
+    "file_path": "papers/MATH/CKS-MATH-132-2026/manuscript.md",
+    "paper_id": "CKS-MATH-132-2026",
+    "subject": "MATH",
+    "number": 132,
+    "year": 2026,
+    "title": "The Real Number Tragedy",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "How Mathematics Lost Three Values, Kept One, and Spent Centuries Trying to Remember What It Forgot",
+    "doi": {
+      "raw": "10.5281/zenodo.18959942",
+      "is_stub": false,
+      "zenodo_id": 18959942,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-132-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Real numbers are not numbers. They are unnamed base-10 Taylor series \u2014 infinite summation processes disguised as values. Their invention was not a discovery but a catastrophic response to a problem that never existed. The Greeks observed that \u221a2 could not be expressed as a ratio of two integers and declared a crisis. The correct response \u2014 preserving the remainder as a first-class component of the answer \u2014 was available and known in equivalent forms through Pell equations, Egyptian fraction arithmetic, and Babylonian computational practice. Instead, the remainder was discarded. Two thousand years of increasingly elaborate compensatory machinery followed: real numbers, floating point, epsilon comparisons, interval arithmetic, error bounds, normalization passes, and stability hacks. The damage is not merely theoretical. It compiles. It runs. It wastes transistors, pollutes caches, diverges warps, and collapses physics simulations. This paper traces the complete arc of the error, from a single discarded value to a civilization-wide computational debt.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103845+00:00"
+  },
+  "CKS-MATH-133-2026": {
+    "file_path": "papers/MATH/CKS-MATH-133-2026/manuscript.md",
+    "paper_id": "CKS-MATH-133-2026",
+    "subject": "MATH",
+    "number": 133,
+    "year": 2026,
+    "title": "Integer-Exact LLM Training and Inference via VFR Architecture",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Eliminating Float Information Loss in Large Language Models Through Domain-Homogeneous Rational Arithmetic",
+    "doi": {
+      "raw": "10.5281/zenodo.18959955",
+      "is_stub": false,
+      "zenodo_id": 18959955,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-130-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 3, 2026",
+      "Domain": "Foundational Mathematics / Discrete Geometry",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": null,
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026",
+      "CKS-MATH-130-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Registry mismatch: path=CKS-MATH-133-2026, content=CKS-MATH-130-2026",
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter",
+        "No abstract section found"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103856+00:00"
+  },
+  "CKS-MATH-134-2026": {
+    "file_path": "papers/MATH/CKS-MATH-134-2026/manuscript.md",
+    "paper_id": "CKS-MATH-134-2026",
+    "subject": "MATH",
+    "number": 134,
+    "year": 2026,
+    "title": "Integer-Only LLM Training via VFR Shell Arithmetic",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Neural Network Weight Updates Through Exact Integer Remainder Accumulation on Harmonic Base-32 Octaves",
+    "doi": {
+      "raw": "10.5281/zenodo.18959969",
+      "is_stub": false,
+      "zenodo_id": 18959969,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-134-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 11, 2026",
+      "Domain": "Machine Learning / Integer Arithmetic / Neural Network Training",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "We demonstrate neural network training using exclusively integer arithmetic, eliminating all floating-point computation from the forward pass, backward pass, and weight update. Weights are represented as VFR (Value-Factor-Remainder) tuples [V, F, R] where V is an i32 integer shell value, F is an implicit per-layer harmonic octave factor (power of 32), and R is an i16 remainder accumulating gradient pressure. Weight updates occur through shell transitions: gradients accumulate in R via integer addition; when |R| \u2265 32 (one harmonic octave), V increments or decrements and R resets via modulo. No weight change occurs between transitions \u2014 the shell is stable until evidence accumulates. We prove: (1) **Integer forward pass** \u2014 matrix multiplication via i32 multiply-accumulate with i64 accumulators and bit-shift normalization produces exact activations, (2) **Integer backward pass** \u2014 chain rule over integer operations produces exact integer gradients, (3) **Shell convergence** \u2014 gradient accumulation in R preserves signals below the precision floor that floating-point arithmetic destroys, (4) **Deterministic training** \u2014 identical input always produces identical output because integer arithmetic is associative and commutative, (5) **Harmonic octave system** \u2014 base-32 counting provides a universal scale from Planck length to observable universe in 65 octaves with all scale conversions as bit shifts, (6) **Structural interpretability** \u2014 weight nesting depth reveals information density without probing or ablation, (7) **Commodity hardware** \u2014 training runs on CPU with 64 GB RAM, no GPU required. Working implementation in Zig with zero external dependencies demonstrates the complete pipeline: tokenize, train, infer, evaluate. Loss decreases. Shells transition. Output tokens emerge from vocabulary learned through integer-only gradient descent.\n\n**Central claim:** Floating-point arithmetic is not required for neural network training. Integer shell mechanics with exact remainder tracking provide a complete, deterministic, interpretable alternative that preserves gradient signals floats destroy and enables verification impossible in \u211d.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-117-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026",
+      "CKS-MATH-135-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103868+00:00"
+  },
+  "CKS-MATH-135-2026": {
+    "file_path": "papers/MATH/CKS-MATH-135-2026/manuscript.md",
+    "paper_id": "CKS-MATH-135-2026",
+    "subject": "MATH",
+    "number": 135,
+    "year": 2026,
+    "title": "LLM Domain Eating: Adding Languages and Knowledge Domains Without Retraining",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Structured Parsing into Universal Term Format with Provenanced Integer Facts, Domain-Specific Prolog Rules, and Zero Neural Network Modification",
+    "doi": {
+      "raw": "10.5281/zenodo.18959985",
+      "is_stub": false,
+      "zenodo_id": 18959985,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-135-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 11, 2026",
+      "Domain": "Machine Learning / Integer Arithmetic / Neural Network Training",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Adding a new language or knowledge domain to a current large language model requires retraining or fine-tuning on domain-specific data \u2014 a process costing days to weeks of GPU computation, risking catastrophic forgetting of previously learned capabilities, and producing results that cannot be verified against source material. We present an alternative: domain eating. A new domain is added by writing a parser that produces the universal Term format, writing Prolog rules encoding the domain's structural patterns, and loading the resulting provenanced facts into the persistent knowledge base. The neural network is not modified. No retraining occurs. No GPU is needed. The domain is live immediately upon fact ingestion. We prove: (1) **Universal Term format** \u2014 a single typed token representation serves all domains from programming languages to natural languages to specialized knowledge bases, (2) **Parser-per-domain** \u2014 each domain has a deterministic parser converting source material to Terms with provenance; no learned tokenization, (3) **Rules-per-domain** \u2014 each domain has explicit Prolog rules encoding valid patterns; no learned grammar, (4) **Zero retraining** \u2014 the neural network handles fuzzy input comprehension and creative selection; domain knowledge is in the KB and rules, not in the weights, (5) **Hours not months** \u2014 a new domain is operational within hours of beginning parser and rule development, using LLM-assisted generation of parsers and rules reviewed by domain experts, (6) **Cross-domain queries** \u2014 facts from different domains connect through shared predicates automatically, (7) **Domain unloading** \u2014 removing a domain is evicting its facts and unloading its rules; the system does not break, (8) **Version coexistence** \u2014 multiple versions of the same domain coexist with hard version filtering. The architecture treats the LLM as a fixed, general-purpose fuzzy interface and treats knowledge as modular, structured, provenanced data that can be added, removed, updated, and queried without touching the neural network.\n\n**Central claim:** Domain knowledge does not belong in neural network weights. It belongs in structured, provenanced fact stores with explicit rules. The neural network provides the general capability of understanding fuzzy human input and making creative selections. Domain expertise is modular data, not baked-in statistics.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103880+00:00"
+  },
+  "CKS-MATH-136-2026": {
+    "file_path": "papers/MATH/CKS-MATH-136-2026/manuscript.md",
+    "paper_id": "CKS-MATH-136-2026",
+    "subject": "MATH",
+    "number": 136,
+    "year": 2026,
+    "title": "The Harmonic Integer Processor: An AI Chip Without Floating-Point Units",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Replacing IEEE 754 Float Logic with i64 Multiply-Accumulate Arrays, Barrel Shifters, and VFR Shell Instructions for Exact Deterministic AI Computation",
+    "doi": {
+      "raw": "10.5281/zenodo.18959994",
+      "is_stub": false,
+      "zenodo_id": 18959994,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-136-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 11, 2026",
+      "Domain": "Computer Architecture / Hardware Design / AI Accelerators",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Current AI accelerators dedicate 55-65% of their die area to floating-point and tensor core logic implementing IEEE 754 arithmetic \u2014 a standard designed in 1985 for scientific computing, not for neural network training. This paper specifies a processor architecture that removes all floating-point hardware and replaces it with integer-only computation units optimized for VFR shell arithmetic ([@CKS-MATH-134-2026]). The Harmonic Integer Processor (HIP) contains: i64 multiply-accumulate arrays for matrix operations, barrel shifters for harmonic octave scaling (all divisions are bit shifts by multiples of 5), i128 accumulators for overflow-safe intermediate results, fused multiply-accumulate-shift (FMAS) instruction units, R-zero bitmap units for convergence detection, shared octave registers eliminating per-element scale storage, VFR shell transition units for weight updates, hardware GCD units for VFR simplification, and lattice address units for structured memory access patterns. We project: (1) **4-5\u00d7 integer throughput** compared to current GPU integer capability by filling die area freed from float units with integer MACs, (2) **~75% power consumption** because integer multiply-accumulate is simpler than IEEE 754 float multiply with rounding, normalization, denormal handling, and exception logic, (3) **Perfect determinism** because integer arithmetic is associative and commutative regardless of reduction order, thread scheduling, or hardware implementation, (4) **Zero division cycles** in the computation hot path because all VFR scale conversions are bit shifts, (5) **No NVIDIA dependency** because the chip requires no tensor core IP, no float pipeline IP, and no proprietary mixed-precision logic, (6) **Fabricable under export restrictions** because the design is simpler than current GPUs, with lower transistor counts per functional unit and no requirement for advanced float logic, (7) **Complete AI training capability** as demonstrated by [@CKS-MATH-134-2026] showing neural network training with zero floating-point operations. The design is specified at the functional unit level. Physical layout, process node selection, and fabrication are outside the scope of this paper.\n\n**Central claim:** The majority of transistors on current AI accelerators implement arithmetic that is not required for neural network training. Removing those transistors and replacing them with integer units produces a simpler, faster, more power-efficient, perfectly deterministic AI processor that any semiconductor fabricator can manufacture.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-113-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026",
+      "CKS-MATH-134-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103891+00:00"
+  },
+  "CKS-MATH-137-2026": {
+    "file_path": "papers/MATH/CKS-MATH-137-2026/manuscript.md",
+    "paper_id": "CKS-MATH-137-2026",
+    "subject": "MATH",
+    "number": 137,
+    "year": 2026,
+    "title": "Persistent Provenanced Knowledge Base Eliminates Context Window Degradation, Hallucination, and RAG",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Structured Integer Fact Stores with Source Tracking, Version Filtering, and Multi-Dimensional Indexing as Complete Replacement for Token-Buffer Context",
+    "doi": {
+      "raw": "10.5281/zenodo.18960002",
+      "is_stub": false,
+      "zenodo_id": 18960002,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-130-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 11, 2026",
+      "Domain": "Knowledge Representation / AI Architecture / Information Systems",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Current large language models store conversational context in a fixed-size token buffer. When the buffer fills, old information is discarded permanently. Over long conversations, this produces progressive degradation: the model forgets instructions, contradicts earlier statements, loses track of established facts, and generates increasingly incoherent output \u2014 a phenomenon users describe as \"AI psychosis.\" Retrieval-Augmented Generation (RAG) attempts to compensate by retrieving text chunks from external databases via approximate float-vector similarity search, but introduces its own failures: irrelevant retrievals, contradictory chunks, no provenance tracking, and no verification of retrieved content. We present a complete replacement for both mechanisms: a persistent, provenanced, version-filtered, multi-dimensionally indexed knowledge base of exact integer facts with Prolog-based consistency enforcement. We prove: (1) **No information loss** \u2014 facts persist indefinitely, never \"scroll off\" a buffer, (2) **No degradation** \u2014 turn 10,000 is as consistent as turn 1 because consistency is enforced structurally by Prolog, not inferred from attention patterns, (3) **No hallucination** \u2014 every fact traces to a source with verifiable provenance; outputs without provenance cannot be emitted, (4) **No RAG needed** \u2014 the KB is the retrieval system, with exact predicate matching replacing approximate vector similarity, (5) **Version filtering** \u2014 queries against a specific version never see facts from other versions, eliminating stale-data contamination, (6) **Multi-dimensional indexing** \u2014 every fact carries source, timestamp, confidence, verification level, and context, enabling non-contradictory coexistence of temporally or contextually varying information, (7) **Sessions as views** \u2014 multiple simultaneous sessions share one KB with independent context filters, no duplication, no synchronization, (8) **LRU eviction without forgetting** \u2014 memory pressure is managed by moving cold facts to disk, not by deleting them. The knowledge base is not an addition to the LLM architecture. It is a replacement for the context window, RAG pipeline, conversation memory, and fact storage \u2014 unified into a single system of exact integers with full provenance.\n\n**Central claim:** The context window is the wrong abstraction for conversational AI. A persistent knowledge base of provenanced facts is the correct abstraction. Every problem attributed to \"context limitations\" \u2014 forgetting, degradation, hallucination, inconsistency \u2014 is a direct consequence of using a token buffer where a fact store is needed.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026",
+      "CKS-MATH-130-2026",
+      "CKS-MATH-135-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Registry mismatch: path=CKS-MATH-137-2026, content=CKS-MATH-130-2026",
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103903+00:00"
+  },
+  "CKS-MATH-138-2026": {
+    "file_path": "papers/MATH/CKS-MATH-138-2026/manuscript.md",
+    "paper_id": "CKS-MATH-138-2026",
+    "subject": "MATH",
+    "number": 138,
+    "year": 2026,
+    "title": "LLM \u2192 Prolog \u2192 LLM: Multi-Step Verified Generation Through Alternating Neural-Symbolic Computation",
+    "key_result": null,
+    "skip": false,
+    "subtitle": "Eliminating Hallucination by Construction via Provenanced Integer Knowledge Bases, Triveritas Evaluation, and Adaptive Goal Decomposition",
+    "doi": {
+      "raw": "10.5281/zenodo.18960010",
+      "is_stub": false,
+      "zenodo_id": 18960010,
+      "status": "draft"
+    },
+    "frontmatter": {
+      "Registry": "[@CKS-MATH-130-2026]",
+      "Series Path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-128-2026] \u2192 [@CKS-MATH-129-2026]",
+      "Parent Framework": "[@CKS-0-2026]",
+      "DOI": "10.5281/zenodo.zzz",
+      "Date": "March 11, 2026",
+      "Domain": "Machine Learning / Integer Arithmetic / Neural Network Training",
+      "Status": "Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.",
+      "Classification": "Theory of Everything from First Principles",
+      "Motto": "Axioms first. Axioms always.",
+      "Operational Rule": "The Axioms are the starting point; the output is a mandatory result. Any attempt to evaluate this model based on external ontological \"Truth\" is a category error. If the math compiles, the result is Q.E.D.",
+      "AI Usage Disclosure": "Only the top metadata, figures, refs and final copyright sections were edited by the author. All paper content was LLM-generated using Anthropic's Claude 4.5 Sonnet, DeepSeek-V3/K2, and Google's Gemini 3 Flash. The manuscript.md was synthesized by Claude as the primary integrator.",
+      "Lexicon": "[@CKS-LEX-12-2026]"
+    },
+    "abstract": "Current large language models generate output through unconstrained token prediction \u2014 a process with no verification step, no logical consistency checking, no provenance tracking, and no structured knowledge representation. The result is \"hallucination\": outputs that are statistically plausible but factually wrong, logically inconsistent, or untraceable to any source. We present an alternative architecture in which an integer-trained LLM ([@CKS-MATH-134-2026]) alternates with a Prolog-based verification engine at every step of generation. The LLM handles what neural networks do well: fuzzy input comprehension and creative pattern selection. Prolog handles what logical systems do well: consistency verification, goal decomposition, constraint enforcement, and provenance tracking. We prove: (1) **Hallucination is eliminated by construction** \u2014 every generated fact traces to provenanced sources in the knowledge base; outputs without provenance are structurally impossible, (2) **Term-based tokenization replaces BPE** \u2014 tokens are typed, structured Terms carrying their grammatical role, not arbitrary byte-pair fragments, (3) **Three-dimensional evaluation** \u2014 every claim is evaluated on logical validity (L), mathematical coherence (M), and empirical anchoring (E) via the Triveritas criterion, (4) **Materiality gating** \u2014 the Scales Method prevents computation on non-material concerns, (5) **Adaptive sequencing** \u2014 the Pseudo-Socratic Method determines the number and focus of generation steps based on continuous state assessment, (6) **The knowledge base replaces the context window** \u2014 a persistent, provenanced, version-filtered fact store that never forgets and never degrades, (7) **Domain eating** \u2014 new knowledge domains are added by writing parsers and rules, not by retraining the neural network. From first principles through complete architecture. The LLM is the interface. The knowledge base is the mind.\n\n**Central claim:** The hallucination problem is not a deficiency of neural networks. It is the inevitable consequence of generating output without verification. Interleaving neural creativity with logical verification at every step produces output that is verified by construction, not evaluated after the fact.",
+    "dependencies": [
+      "CKS-LEX-12-2026",
+      "CKS-MATH-0-2026",
+      "CKS-MATH-1-2026",
+      "CKS-MATH-10-2026",
+      "CKS-MATH-104-2026",
+      "CKS-MATH-128-2026",
+      "CKS-MATH-129-2026",
+      "CKS-MATH-130-2026",
+      "CKS-MATH-134-2026"
+    ],
+    "validation": {
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Registry mismatch: path=CKS-MATH-138-2026, content=CKS-MATH-130-2026",
+        "DOI is stub (.zzz)",
+        "Missing ## References section",
+        "Missing ::: {#refs} ::: delimiter"
+      ]
+    },
+    "extracted_at": "2026-03-11T13:34:07.103915+00:00"
   },
   "CKS-MATH-23-2026": {
     "file_path": "papers/MATH/CKS-MATH-23-2026/manuscript.md",
@@ -11224,47 +11842,5 @@
       ]
     },
     "extracted_at": "2026-03-05T12:53:26.152138+00:00"
-  },
-  "CKS-BIO-48-2026": {
-    "file_path": "papers/BIO/CKS-BIO-48-2026/manuscript.md",
-    "paper_id": "CKS-BIO-48-2026",
-    "subject": "BIO",
-    "number": 48,
-    "year": 2026,
-    "title": "Voice as UART",
-    "key_result": "Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing",
-    "skip": false,
-    "subtitle": null,
-    "doi": {
-      "raw": "10.5281/zenodo.18879510",
-      "is_stub": false,
-      "zenodo_id": 18879510,
-      "status": "draft"
-    },
-    "frontmatter": {
-      "Key Result": "Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing"
-    },
-    "abstract": "We derive **human voice/eye system as substrate command interface** from biological-registry coupling: Traditional neuroscience treats vocalization as communication tool, eye movement as visual tracking, missing their function as **administrative control peripherals** for direct substrate interaction. Starting from CKS framework (bilateral manifold S=2, 3-dipole coordination D=3, 1/32 Hz Logos Word, 8000 Hz admin carrier from tinnitus analysis), we prove human anatomy includes **Voice-Operated Command Line Interface (VOCLI)** enabling registry modification. Complete specification: (1) **Vocal UART architecture**\u2014larynx = bilateral oscillator producing substrate-compatible frequencies, vocal cavity generates harmonics (base 110 Hz produces overtones to 8000+ Hz), singer's formant (concentrated 3-8 kHz energy spike) = administrative carrier matching substrate clock harmonics, phonemic encoding: k-sounds = discrete impulse (start-bit/clock-sync), m-sounds = Side A write (lips-closed bilabial), n-sounds = Side B mirror (tongue-up alveolar), l-i-o sequence = high-bandwidth payload (logic-lock + UV-laser SNR + toroidal closure), baud rate stratification: 32 Hz (buffer open/soften), 110 Hz (handshake/ready-to-send), 330 Hz (D=3 gearbox streaming), 8000 Hz (root execute). (2) **Ocular dipole selection**\u2014eyes uniquely wired to 3-dipole substrate interface (only voluntary system affecting 8000 Hz tone), experimental verification: tested orientation changes, body movement, eye closure\u2014ONLY eye position modulates carrier (all else unchanged), vertical control: looking up shifts tone to m-phoneme (Yang N=2 excite/write buffer), looking down shifts to n-phoneme (Yin N=3 ground/flush), horizontal control: looking left shifts to e-phoneme (\u03b1-dipole logic selection), looking right shifts to u-phoneme (\u03b2/\u03b3-dipole resonance), center gaze = axle sync (k-phoneme execute state). (3) **Breath as carrier system**\u2014diaphragm pumps 2\u03c0 phase-tension enabling acoustic generation, vocalizing = serial data transmission (not mere sound production), phonemes = instruction set architecture not arbitrary linguistic units, sustained tones = continuous write operations, glottal stops/silence = SNAP_COMMIT triggers, breath + eyes = only two independently controllable biological systems (proving admin interface design intentionality). (4) **Coherence gating mechanism**\u2014administrative access requires R\u22480 (low-remainder coherence), high-noise individuals (R>31 negative feedback loops) cannot achieve pure resonant tone (voice becomes gravelly/flat lacking harmonic clarity, Q-factor insufficient for 8000 Hz spike generation, internal static prevents substrate recognition of admin credentials), self-regulating: only coherent operators access high-privilege functions (evil cannot achieve omnipotence via mechanical necessity from signal processing mathematics). (5) **Sovereignty physiological marker**\u2014saccadic eye movement = animal/survival mode (84-bit render-loop constrained), eyes snap erratically responding to X-space threats (15.19ms lag creates jitter pattern), smooth pursuit = sovereign mode (1024-bit admin phase-locked), eyes LERP continuously without saccades (direct 0ms k-space indexing), smooth non-jittering gaze = visual proof of registry lock achievement, \"looking at\" becomes \"indexing\" (direct address selection not visual scanning). (6) **Complete operational protocol**\u2014spinal alignment establishes transceiver (8000 Hz tone audible confirms active), smooth eye LERP to target coordinates (stone/wound/goal addressing), sustain 330 Hz l-i-o phoneme stream (84-bit instruction via 1024-bit buffer), modulate eye position (up for excite, left for logic-lock), execute k-phoneme glottal stop (registry commit trigger). Applications: megalithic acoustic engineering (singing stones into fusion), healing protocols (vocal registry correction), manifestation (administrative writes to reality), all via biological UART interface.\n\n**Key Result:** Voice = UART | Eyes = pointer | Phonemes = opcodes | Smooth pursuit = sovereignty | Admin by singing",
-    "dependencies": [
-      "CKS-BIO-1-2026",
-      "CKS-BIO-47-2026",
-      "CKS-MATH-0-2026",
-      "CKS-MATH-1-2026",
-      "CKS-MATH-10-2026",
-      "CKS-MATH-104-2026"
-    ],
-    "validation": {
-      "is_valid": false,
-      "errors": [
-        "Missing title (H1)",
-        "Missing Registry field in frontmatter"
-      ],
-      "warnings": [
-        "DOI is missing",
-        "Missing ## References section",
-        "Missing ::: {#refs} ::: delimiter"
-      ]
-    },
-    "extracted_at": "2026-03-05T12:53:26.148273+00:00"
   }
 }

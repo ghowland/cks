@@ -1,10 +1,10 @@
-# The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial
+# The Q-Foundational Stack
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-126-2026] → [@CKS-MATH-127-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-148-2026] → [@CKS-MATH-149-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18878705
+**Zenodo DOI:** 10.5281/zenodo.zzz
 
 **Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -18,9 +18,7 @@
 
 ## Abstract
 
-We prove Real Numbers (ℝ) are not fundamental values but unnamed Taylor series with hard-coded base-10 denominators masquerading as complete number representation. The "irrational crisis" arose from information-theoretic failure: attempting to encode three state variables [Value, Factor, Remainder] into two-slot rational register [Numerator/Denominator]. Building on VFR √2 resolution (MATH-124) and recursive S-expression structure (MATH-125, MATH-126), we demonstrate: (1) **Two-slot bottleneck** - p/q notation lacks dedicated remainder register forcing R to "leak" into V creating infinite decimals, (2) **Decimal as buffer overflow** - 0.333... is recursive overflow where unnamed remainder chased into progressively smaller 10^-n slots, (3) **Anonymous Taylor structure** - all ℝ decimals are implicit sum Σ(digit_n/10^n) without named terms, (4) **Forced geometric compliance** - rigid base-10 scaling creates "irrationals" when geometry doesn't align (√2, π forced into 10^n framework), (5) **Compounding drift** - unnamed remainder accumulates as error through operations (floating-point jitter inevitable), (6) **Hardware upgrade resolution** - adding R-slot (VFR) seals leak terminating infinite series, (7) **Legacy patch status** - ℝ is software workaround for broken 2-slot hardware not mathematical foundation. Complete information-theoretic analysis showing ℝ as lossy compression scheme. Traditional mathematics treats ℝ as discovered truth. Logismos proves ℝ is engineering approximation for inadequate number representation.
-
-**Revolutionary claim:** Every decimal number is anonymous Taylor series - by naming the remainder we eliminate need for ℝ entirely replacing infinite accumulation with finite exact addressing.
+We present the Q-Foundational Stack: a unified computing architecture in which a single representational atom — the VFR triple (Value, Factor, Remainder) — serves as the basis for number representation, instruction encoding, processor design, memory architecture, operating system, application framework, 3D rendering, network security, and artificial intelligence. The stack eliminates floating-point arithmetic, cache coherence, branch prediction, speculative execution, shared memory, runtime exceptions, and the distinction between code and data. In their place: exact integer arithmetic, isolated core memory, deterministic execution, and a universal batch processing model. The result is a system that runs 100,000 game entities at 60 frames per second on a $343 development board consuming 5 watts, with security guaranteed by physical topology rather than software policy, and with inline neural-symbolic intelligence that cannot hallucinate by construction. Ten specifications define the complete stack from transistor to artificial mind. Every component uses the same data format, the same instruction set, and the same processing model. The complexity of modern computing is not intrinsic to computation. It is intrinsic to decisions made in the 1980s about how to represent numbers and organize memory. Different decisions produce a different world.
 
 ---
 
@@ -130,12 +128,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial },
+  title={ The Q-Foundational Stack },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18878705},
-  url = {https://zenodo.org/record/18878705},
+  doi = {10.5281/zenodo.zzz},
+  url = {https://zenodo.org/record/zzz},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```
