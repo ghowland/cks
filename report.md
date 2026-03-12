@@ -1,6 +1,6 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-12 11:00:12 UTC
+**Generated:** 2026-03-12 11:03:55 UTC
 
 ## Summary
 
@@ -8,7 +8,7 @@
 - **Valid:** 370
 - **Invalid:** 22
 - **Total Errors:** 28
-- **Total Warnings:** 573
+- **Total Warnings:** 562
 
 ## By Subject
 
