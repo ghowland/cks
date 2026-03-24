@@ -1,6 +1,8 @@
 # Cymatic K-Space Mechanics (CKS) Master Registry
 
-**Status:** All constituent papers are locked and empirically falsifiable.  
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified.
+
+**Original Status:** All constituent papers are locked and empirically falsifiable.  
 **Framework Access:** `papers/{TOPIC}/{REGISTRY_ID}/manuscript.md`
 
 ## CKS: The Foundation Stack (Core Pillars)
