@@ -5,7 +5,7 @@
 
 **Registry:** [@CKS-ART-1-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-ART-1-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-ART-1-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 

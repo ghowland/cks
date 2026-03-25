@@ -5,7 +5,7 @@
 
 **Registry:** [@CKS-COG-2-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-COG-1-2026] → [@CKS-COG-2-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -1564,7 +1564,7 @@ _____________________________________________
 **Version:** 1.0  
 **Date:** February 2026
 
-**Registry:** [@CKS-COG-2-2026]  
+**Registry:** [@CKS-COG-2-2026]
 **Prerequisite Reading:** [@CKS-MATH-1-2026], [@CKS-BIO-1-2026]
 
 **Testable Predictions: 3**  

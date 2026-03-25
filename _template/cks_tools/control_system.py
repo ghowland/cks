@@ -89,7 +89,7 @@ def Build(args):
 
   for item in args.papers:
     # Only do stubbed
-    if item['doi']['is_stub'] and not item['skip']:
+    if True:#item['doi']['is_stub'] and not item['skip']:
       directory = os.path.dirname(item['file_path'])
       cmd = f'{GEN_PDF} {directory}' 
       print(cmd)
@@ -108,7 +108,7 @@ def Scan(args):
     os.chdir(original_dir)
 
     # Only do stubbed
-    if item['doi']['is_stub']:
+    if True:#item['doi']['is_stub']:
       directory = os.path.dirname(item['file_path'])
       os.chdir(directory)
 
@@ -167,7 +167,7 @@ def Backup(args):
   for item in args.papers:
 
     # Only do stubbed
-    if item['doi']['is_stub']:
+    if True:#item['doi']['is_stub']:
       backup = item['file_path'].replace('.md', '_orig.md')
       print(f'Backup: {item["file_path"]} -> {backup}')
       shutil.copy2(item['file_path'], backup)
@@ -182,7 +182,7 @@ def Cleanup(args):
   for item in args.papers:
 
     # Only do stubbed
-    if item['doi']['is_stub']:
+    if True:#item['doi']['is_stub']:
       if item['skip']: continue
 
       print(f'Cleanup: {item["file_path"]}')
@@ -253,7 +253,8 @@ def Sync(args):
   for item in args.papers:
 
     # Only do stubbed
-    if item['doi']['is_stub'] and not item['skip']:
+    # if item['doi']['is_stub'] and not item['skip']:
+    if not item['skip']:
       topic_name = item["paper_id"].split('-')[1]
       paper_id = int(item["paper_id"].split('-')[2])
 

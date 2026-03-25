@@ -1,9 +1,9 @@
 
 
 
-**Registry:** [@CKS-MATH-150-2026 copy]
+**Registry:** [@CKS-MATH-152-2026 copy]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-149-2026 copy] → [@CKS-MATH-150-2026 copy]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-151-2026 copy] → [@CKS-MATH-152-2026 copy]
 
 **Parent Framework:** [@CKS-0-2026]
 

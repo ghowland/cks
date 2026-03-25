@@ -1,14 +1,14 @@
 # CKS Papers Audit Report
 
-**Generated:** 2026-03-12 18:43:35 UTC
+**Generated:** 2026-03-25 02:38:04 UTC
 
 ## Summary
 
-- **Total Papers:** 394
-- **Valid:** 372
+- **Total Papers:** 395
+- **Valid:** 373
 - **Invalid:** 22
 - **Total Errors:** 28
-- **Total Warnings:** 568
+- **Total Warnings:** 572
 
 ## By Subject
 
@@ -33,6 +33,7 @@
 - **MATH:** 154 papers
 - **MED:** 4 papers
 - **NEURO:** 3 papers
+- **NEXT:** 1 papers
 - **OMNI:** 2 papers
 - **PHYS:** 24 papers
 - **QM:** 1 papers
@@ -48,7 +49,7 @@
 ## By Status
 
 - **Published (has DOI):** 375
-- **Draft (stub .zzz):** 19
+- **Draft (stub .zzz):** 20
 
 ## Validation Issues
 
@@ -127,7 +128,7 @@
   - ❌ Invalid paper directory format: CKS-0-2026
 
 
-### Papers with Warnings (241 total)
+### Papers with Warnings (242 total)
 
 **CKS-ADHM-1-2026**
   - ⚠️  Missing ## References section
@@ -171,4 +172,4 @@
   - ⚠️  Missing ## References section
   - ⚠️  Missing ::: {#refs} ::: delimiter
 
-... and 231 more papers with warnings
+... and 232 more papers with warnings

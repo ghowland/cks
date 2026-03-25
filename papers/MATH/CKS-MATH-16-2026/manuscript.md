@@ -4,9 +4,9 @@
 
 ### Word Length Derivation; 32-Second Period; Binary Architecture; Hexagonal Quantization  
 
-**Registry:** [@CKS-MATH-16-2026]  
+**Registry:** [@CKS-MATH-16-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-15-2026] → [@CKS-MATH-16-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 

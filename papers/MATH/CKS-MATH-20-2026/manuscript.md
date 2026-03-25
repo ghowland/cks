@@ -2,9 +2,9 @@
 ## Deriving the Toroidal Soliton as the Fundamental Unit of Identity
 ### Toroidal Soliton Geometry; Winding Number Topology; Phase Saturation Prevention; Surface Word Encoding  
 
-**Registry:** [@CKS-MATH-20-2026]  
+**Registry:** [@CKS-MATH-20-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -1047,7 +1047,7 @@ Must form torus.
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [CKS-MATH-20-2026]  
+**Registry:** [@CKS-MATH-20-2026]
 **Prerequisites:** [CKS-MATH-17-2026], [CKS-MATH-19-2026]
 
 **Axioms: 2**  

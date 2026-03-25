@@ -2,9 +2,9 @@
 ## Manifold Saturation and Phase Decay
 ### Derivation of Euler's Number from Hexagonal Coordinate Saturation  
 
-**Registry:** [@CKS-MATH-5-2026]  
+**Registry:** [@CKS-MATH-5-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
@@ -1121,7 +1121,7 @@ Connects e and π through probability theory.
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-5-2026]  
+**Registry:** [@CKS-MATH-5-2026]
 **Prerequisites:** [@CKS-MATH-1-2026], [@CKS-MATH-4-2026]  
 
 **Axioms: 2**  

@@ -5,11 +5,11 @@
 
 **Registry:** [@CKS-EDU-3-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-13-2026] → [@CKS-MATH-16-2026] → [@CKS-DWDM-5-2026] → [@CKS-MATH-17-2026] → [@CKS-MATH-18-2026] → [@CKS-MATH-19-2026] → [@CKS-MATH-20-2026] → [@CKS-MATH-21-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-EDU-3-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878548
 
 **Date:** February 2026
 
@@ -29,11 +29,11 @@
 ---
 
 **Registry:** [@CKS-EDU-3-2026]
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-110-2026] → [@CKS-EDU-3-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-EDU-3-2026]
 **Parent Framework:** [@CKS-0-2026]  
 **Logical Dependencies:** Complete CKS framework papers  
 
-**DOI:** [Pending]  
+**DOI:** 10.5281/zenodo.18878548
 **Date:** February 2026  
 **Domain:** Epistemology / Science History / Educational Framework / Paradigm Transition  
 **Status:** Knowledge System Reclassification / Operational Standard  

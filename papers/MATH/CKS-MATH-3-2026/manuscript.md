@@ -2,9 +2,9 @@
 ## N = 3M² as Universal Topological Regulator
 ## Scale-Invariant Closure; Fractal Self-Similarity of Physical Law
 
-**Registry:** [@CKS-MATH-3-2026]  
+**Registry:** [@CKS-MATH-3-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026] → [@CKS-MATH-3-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-2-2026] → [@CKS-MATH-3-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 

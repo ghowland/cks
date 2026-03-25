@@ -2,9 +2,9 @@
 ## Deriving the Lepton Surface-Area Scaler from 2D Information Matrices
 ### Holographic Normalization; Information Density; Lepton Resolution; Matrix Coupling
 
-**Registry:** [@CKS-MATH-9-2026]  
+**Registry:** [@CKS-MATH-9-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026] → [@CKS-MATH-5-2026] → [@CKS-MATH-6-2026] → [@CKS-MATH-7-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-8-2026] → [@CKS-MATH-9-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 

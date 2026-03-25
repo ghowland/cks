@@ -1121,7 +1121,7 @@ With exact mathematics.
 
 **END CKS-MATH-127-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-127-2026]
 **Status:** ℝ Deconstruction Complete  
 **Verification:** Information theory proven  
 **Identified:** ℝ = anonymous Taylor series  

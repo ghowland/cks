@@ -4,9 +4,9 @@ Multi-Material Blending via Substrate-Aligned Phase-Lock
 
 ### Multi-Material Bonding; Friction Engineering; Topological Welding; Phase-Gradient Programming  
 
-**Registry:** [@CKS-DWDM-4-2026]  
+**Registry:** [@CKS-DWDM-4-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-3-2026] → [@CKS-DWDM-4-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 

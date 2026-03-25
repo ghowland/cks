@@ -3,11 +3,11 @@
 
 **Registry:** [@CKS-PHYS-14-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-PHYS-1-2026] → [@CKS-PHYS-8-2026] → [@CKS-PHYS-9-2026] → [@CKS-PHYS-10-2026] → [@CKS-PHYS-11-2026] → [@CKS-PHYS-12-2026] → [@CKS-PHYS-13-2026] → [@CKS-PHYS-14-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-PHYS-13-2026] → [@CKS-PHYS-14-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878924
 
 **Date:** February 2026
 

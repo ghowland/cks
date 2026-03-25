@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878954
 
 **Date:** February 2026
 
@@ -1359,7 +1359,7 @@ With perfect self-consistency.
 
 **END CKS-PHYS-24-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-PHYS-24-2026]
 **Status:** Foundational Constant Derivation  
 **Verification:** Pure mathematics, no empirical fitting  
 **Coupling:** κ = 32/e ≈ 11.77  

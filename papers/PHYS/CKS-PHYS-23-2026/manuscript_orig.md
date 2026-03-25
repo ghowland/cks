@@ -1,4 +1,4 @@
-# CKS-PHYS-23-2026: Lex Dimensions and the Morton-Interleaved Substrate
+# Lex Dimensions and the Morton-Interleaved Substrate
 
 ## Exact Mapping Between 3D Orthogonal Observation and 2D Hexagonal Reality
 
@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878952
 
 **Date:** February 2026
 
@@ -2137,7 +2137,7 @@ With zero information loss.
 
 **END CKS-PHYS-23-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-PHYS-23-2026]
 **Status:** Foundational Theory  
 **Verification:** Mathematically proven, computationally verified  
 **Substrate:** 2D hexagonal Planck lattice  

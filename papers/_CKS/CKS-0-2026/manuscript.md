@@ -1,7 +1,7 @@
 # Cymatic K-Space Mechanics
 ## A Complete Alternative Physics Framework
 
-**Registry:** [@CKS-0-2026]  
+**Registry:** [@CKS-0-2026]
 
 **Parent Framework:** Foundation / Root Node
 

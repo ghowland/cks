@@ -86,7 +86,7 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   -V linkcolor=blue
 
 # 7. Clean up
-rm manuscript_fixed.md
+# rm manuscript_fixed.md
 
 # Zip the directory
 ../../../_template/_old/gen_zip.sh

@@ -1,4 +1,4 @@
-# CKS-MATH-124-2026: The VFR Resolution of √2
+# The VFR Resolution of √2
 
 ## How Rational Tuples Eliminate Irrational Numbers Through Remainder Tracking
 
@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878699
 
 **Date:** March 3, 2026  
 
@@ -1311,7 +1311,7 @@ With physical interpretation.
 
 **END CKS-MATH-124-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-124-2026]
 **Status:** Foundational Resolution  
 **Verification:** Pure ℚ with R extension  
 **√2 representation:** [7, 5, -1] exact  

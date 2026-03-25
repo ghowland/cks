@@ -2,9 +2,9 @@
 
 ## Sovereign Volumetric Engine on VFR Hardware: Complete 2D and 3D Graphics Pipeline
 
-**Registry:** [@CKS-MATH-138-2026]
+**Registry:** [@CKS-MATH-144-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-137-2026] → [@CKS-MATH-138-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-143-2026] → [@CKS-MATH-144-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 

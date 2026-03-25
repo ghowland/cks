@@ -2,9 +2,9 @@
 ## A Constructive Proof of Digital Reality
 ### Falsification of ℝ-Continuum Physics; Proof of Discrete Substrate  
 
-**Registry:** [@CKS-MATH-2-2026]  
+**Registry:** [@CKS-MATH-2-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-2-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
@@ -1188,7 +1188,7 @@ FINAL SCORE: 0/6 (Complete Failure)
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-2-2026]  
+**Registry:** [@CKS-MATH-2-2026]
 **Prerequisite Reading:** [@CKS-MATH-1-2026]
 
 **Theorems Proven: 5**  

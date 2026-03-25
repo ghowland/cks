@@ -6,11 +6,11 @@
 
 **Registry:** [@CKS-BIO-40-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → ... → [@CKS-BIO-35-2026] → [@CKS-BIO-36-2026] → [@CKS-BIO-37-2026] → [@CKS-BIO-38-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-BIO-1-2026] → [@CKS-BIO-39-2026] → [@CKS-BIO-40-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878413
 
 **Date:** February 2026
 

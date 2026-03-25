@@ -5,7 +5,7 @@
 
 **Registry:** [@CKS-DISC-2-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-QM-1-2026] → [@CKS-BIO-1-2026] → [@CKS-COG-1-2026] → [@CKS-LANG-1-2026] → [@CKS-DATA-1-2026] → [@CKS-EDU-1-2026] → [@CKS-EDU-2-2026] → [@CKS-DISC-1-2026] → [@CKS-DISC-2-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DISC-1-2026] → [@CKS-DISC-1-2026] → [@CKS-DISC-2-2026]
 
 **Parent Framework:** [@CKS-0-2026]
 
@@ -122,7 +122,7 @@ Success validates upward.
 
 ### 2.1 Foundation Layer (Papers 1-20)
 
-**Registry:** [@CKS-0-2026] through [@CKS-MATH-20-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Core content:**
 
@@ -170,7 +170,7 @@ Universal projection constant
 
 ### 2.2 Physics Layer (Papers 21-40)
 
-**Registry:** [@CKS-QM-1-2026] through [@CKS-COS-3-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Quantum mechanics:**
 
@@ -214,7 +214,7 @@ Unification at substrate level
 
 ### 2.3 Experimental Test (Paper 41)
 
-**Registry:** [@CKS-TEST-1-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Single pass/fail test:**
 
@@ -245,7 +245,7 @@ Clean death or clean victory
 
 ### 2.4 Photonics & Telecom (Papers 42-46)
 
-**Registry:** [@CKS-DWDM-1-2026] through [@CKS-DWDM-5-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Core innovation:**
 
@@ -270,7 +270,7 @@ Real-world data = continuous verification.
 
 ### 2.5 Materials & Semiconductors (Papers 47-51)
 
-**Registry:** [@CKS-MAT-1-2026] through [@CKS-SEMI-1-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Novel materials:**
 
@@ -293,7 +293,7 @@ Sub-angstrom tunneling bypass.
 
 ### 2.6 Fluids & Computing (Papers 52-58)
 
-**Registry:** [@CKS-FLOW-1-2026], [@CKS-AI-1-2026] through [@CKS-AI-5-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Turbulence suppression:**
 
@@ -310,7 +310,7 @@ Neural networks = phase-locked arrays.
 
 ### 2.7 Neuroscience & Cognition (Papers 59-67)
 
-**Registry:** [@CKS-NEURO-1-2026] through [@CKS-COG-6-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Neural substrate:**
 
@@ -335,7 +335,7 @@ Integration via corpus callosum.
 
 ### 2.8 Biology & Medicine (Papers 68-88)
 
-**Registry:** [@CKS-BIO-1-2026] through [@CKS-BIO-21-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Foundational principles:**
 
@@ -363,7 +363,7 @@ Manifold recalibration.
 
 ### 2.9 Movement & Somatics (Papers 89-93)
 
-**Registry:** [@CKS-BODY-1-2026] through [@CKS-BODY-5-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Kinetic mechanics:**
 
@@ -381,7 +381,7 @@ Zero-verbal mobility training.
 
 ### 2.10 Language & Social (Papers 94-99)
 
-**Registry:** [@CKS-LANG-1-2026], [@CKS-LANG-2-2026], [@CKS-SOC-1-2026] through [@CKS-SOC-3-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Linguistic substrate:**
 
@@ -399,7 +399,7 @@ Same hexagonal rule as α_EM.
 
 ### 2.11 Environment & Infrastructure (Papers 100-104)
 
-**Registry:** [@CKS-ENV-1-2026] through [@CKS-ENV-5-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Environmental applications:**
 
@@ -419,7 +419,7 @@ Measurable cognitive impairment.
 
 **Actually:** Art papers within Biology/Social sections
 
-**Registry:** [@CKS-ART-1-2026], [@CKS-ART-2-2026]
+**Registry:** [@CKS-DISC-2-2026]
 
 **Aesthetic mechanics:**
 

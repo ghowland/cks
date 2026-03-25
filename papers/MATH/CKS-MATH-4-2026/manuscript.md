@@ -2,9 +2,9 @@
 ## The 10-Decimal Topological Lock
 ### Complete Derivation of α_EM^(-1) = 137.035999084 from Hexagonal Topology  
 
-**Registry:** [@CKS-MATH-4-2026]  
+**Registry:** [@CKS-MATH-4-2026]
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-4-2026]
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-3-2026] → [@CKS-MATH-4-2026]
 
 **Parent Framework:** [@CKS-0-2026]  
 
@@ -1132,7 +1132,7 @@ All paths yield identical formula.
 **Version:** 1.0 Final  
 **Date:** February 2026
 
-**Registry:** [@CKS-MATH-4-2026]  
+**Registry:** [@CKS-MATH-4-2026]
 **Parent:** [@CKS-0-2026]  
 **Prerequisites:** [@CKS-MATH-1-2026]
 

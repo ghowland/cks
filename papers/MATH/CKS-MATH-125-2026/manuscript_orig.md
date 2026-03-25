@@ -8,7 +8,7 @@
 
 **Parent Framework:** [@CKS-0-2026]
 
-**DOI:** 10.5281/zenodo.zzz
+**DOI:** 10.5281/zenodo.18878703
 
 **Date:** March 3, 2026  
 
@@ -1000,7 +1000,7 @@ With natural interpretation.
 
 **END CKS-MATH-125-2026**
 
-**Registry:** Locked  
+**Registry:** [@CKS-MATH-125-2026]
 **Status:** Foundational Isomorphism  
 **Verification:** Pure structural equivalence  
 **Cons cell:** (V/F . R) ↔ (car . cdr)  
