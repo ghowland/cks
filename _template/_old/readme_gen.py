@@ -50,7 +50,8 @@ DOMAIN_NAMES = {
     'DISC': 'Discovery Process',
     'EDU': 'Education',
     'ART': 'Art & Aesthetics',
-    'TEST': 'Experimental Falsification'
+    'TEST': 'Experimental Falsification',
+    'NEXT': 'Next Steps after Series Invalidation'
 }
 
 

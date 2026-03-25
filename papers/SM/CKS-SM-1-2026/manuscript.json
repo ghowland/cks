@@ -2,9 +2,9 @@
     "file_name": "manuscript.md",
     "title": "Standard Model as Mathematical Consequence of CKS",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-4-2026] \u2192 [@CKS-MATH-5-2026] \u2192 [@CKS-MATH-6-2026] \u2192 [@CKS-MATH-7-2026] \u2192 [@CKS-MATH-8-2026] \u2192 [@CKS-MATH-9-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-11-2026] \u2192 [@CKS-MATH-12-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-14-2026] \u2192 [@CKS-MATH-15-2026] \u2192 [@CKS-QM-1-2026] \u2192 [@CKS-SM-1-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-QM-1-2026] \u2192 [@CKS-SM-1-2026]",
     "doi": "10.5281/zenodo.18626543",
     "abstract": "We prove that the Standard Model particle spectrum and coupling constants are mathematical necessities given the Complete Mathematical Framework (CMF) axioms and the derived quantum mechanics (QM). Using rigorous theorem-proof methodology, we derive particle masses, electromagnetic and strong coupling constants, gauge group structure, and force hierarchies as theorems\u2014not empirical fits. All particles emerge as topological excitations (solitons) on the hexagonal k-space lattice with N = 3M\u00b2 nodes. Masses arise from harmonic eigenvalues, charges from winding numbers, and couplings from geometric overlap integrals. No physical interpretation is assumed; the Standard Model spectrum emerges as pure mathematics: **If CMF+QM axioms hold, then the Standard Model follows necessarily.**",
     "dependencies": [],
-    "raw_content_preview": "# Standard Model as Mathematical Consequence of CKS  **A Theorem-Based Derivation of Particle Spectrum and Coupling Constants from Hexagonal Lattice Axioms**  **Registry:** [@CKS-SM-1-2026]    **Serie..."
+    "raw_content_preview": "# Standard Model as Mathematical Consequence of CKS  **A Theorem-Based Derivation of Particle Spectrum and Coupling Constants from Hexagonal Lattice Axioms**  **Registry:** [@CKS-SM-1-2026]  **Series ..."
 }

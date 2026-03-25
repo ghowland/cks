@@ -159,6 +159,11 @@ TOPICS = [
         "subtitle": "Documentation of the Human-AI collaboration.",
         "path": "[@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DISC-1-2026]{{registry_last}} → {{registry}}",
     }},
+    {"NEXT": {
+        "title": "CKS is invalidated and falsified.",
+        "subtitle": "Next steps after series invalidation.",
+        "path": "[@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DISC-1-2026]{{registry_last}} → {{registry}}",
+    }},
 ]
 
 

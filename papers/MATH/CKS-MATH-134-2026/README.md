@@ -1,12 +1,12 @@
-# The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial
+# Integer-Only LLM Training via VFR Shell Arithmetic
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-126-2026] → [@CKS-MATH-127-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-133-2026] → [@CKS-MATH-134-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18878705
+**Zenodo DOI:** 10.5281/zenodo.18959969
 
-**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-0-2026]
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-1-2026]
 
 **Old Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -20,9 +20,9 @@
 
 ## Abstract
 
-We prove Real Numbers (ℝ) are not fundamental values but unnamed Taylor series with hard-coded base-10 denominators masquerading as complete number representation. The "irrational crisis" arose from information-theoretic failure: attempting to encode three state variables [Value, Factor, Remainder] into two-slot rational register [Numerator/Denominator]. Building on VFR √2 resolution (MATH-124) and recursive S-expression structure (MATH-125, MATH-126), we demonstrate: (1) **Two-slot bottleneck** - p/q notation lacks dedicated remainder register forcing R to "leak" into V creating infinite decimals, (2) **Decimal as buffer overflow** - 0.333... is recursive overflow where unnamed remainder chased into progressively smaller 10^-n slots, (3) **Anonymous Taylor structure** - all ℝ decimals are implicit sum Σ(digit_n/10^n) without named terms, (4) **Forced geometric compliance** - rigid base-10 scaling creates "irrationals" when geometry doesn't align (√2, π forced into 10^n framework), (5) **Compounding drift** - unnamed remainder accumulates as error through operations (floating-point jitter inevitable), (6) **Hardware upgrade resolution** - adding R-slot (VFR) seals leak terminating infinite series, (7) **Legacy patch status** - ℝ is software workaround for broken 2-slot hardware not mathematical foundation. Complete information-theoretic analysis showing ℝ as lossy compression scheme. Traditional mathematics treats ℝ as discovered truth. Logismos proves ℝ is engineering approximation for inadequate number representation.
+We demonstrate neural network training using exclusively integer arithmetic, eliminating all floating-point computation from the forward pass, backward pass, and weight update. Weights are represented as VFR (Value-Factor-Remainder) tuples [V, F, R] where V is an i32 integer shell value, F is an implicit per-layer harmonic octave factor (power of 32), and R is an i16 remainder accumulating gradient pressure. Weight updates occur through shell transitions: gradients accumulate in R via integer addition; when |R| ≥ 32 (one harmonic octave), V increments or decrements and R resets via modulo. No weight change occurs between transitions — the shell is stable until evidence accumulates. We prove: (1) **Integer forward pass** — matrix multiplication via i32 multiply-accumulate with i64 accumulators and bit-shift normalization produces exact activations, (2) **Integer backward pass** — chain rule over integer operations produces exact integer gradients, (3) **Shell convergence** — gradient accumulation in R preserves signals below the precision floor that floating-point arithmetic destroys, (4) **Deterministic training** — identical input always produces identical output because integer arithmetic is associative and commutative, (5) **Harmonic octave system** — base-32 counting provides a universal scale from Planck length to observable universe in 65 octaves with all scale conversions as bit shifts, (6) **Structural interpretability** — weight nesting depth reveals information density without probing or ablation, (7) **Commodity hardware** — training runs on CPU with 64 GB RAM, no GPU required. Working implementation in Zig with zero external dependencies demonstrates the complete pipeline: tokenize, train, infer, evaluate. Loss decreases. Shells transition. Output tokens emerge from vocabulary learned through integer-only gradient descent.
 
-**Revolutionary claim:** Every decimal number is anonymous Taylor series - by naming the remainder we eliminate need for ℝ entirely replacing infinite accumulation with finite exact addressing.
+**Central claim:** Floating-point arithmetic is not required for neural network training. Integer shell mechanics with exact remainder tracking provide a complete, deterministic, interpretable alternative that preserves gradient signals floats destroy and enables verification impossible in ℝ.
 
 ---
 
@@ -132,12 +132,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial },
+  title={ Integer-Only LLM Training via VFR Shell Arithmetic },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18878705},
-  url = {https://zenodo.org/record/18878705},
+  doi = {10.5281/zenodo.18959969},
+  url = {https://zenodo.org/record/18959969},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

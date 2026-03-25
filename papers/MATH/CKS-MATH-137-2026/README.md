@@ -1,12 +1,12 @@
-# The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial
+# Persistent Provenanced Knowledge Base Eliminates Context Window Degradation, Hallucination, and RAG
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-126-2026] → [@CKS-MATH-127-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-136-2026] → [@CKS-MATH-137-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18878705
+**Zenodo DOI:** 10.5281/zenodo.18960002
 
-**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-0-2026]
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-1-2026]
 
 **Old Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -20,9 +20,9 @@
 
 ## Abstract
 
-We prove Real Numbers (ℝ) are not fundamental values but unnamed Taylor series with hard-coded base-10 denominators masquerading as complete number representation. The "irrational crisis" arose from information-theoretic failure: attempting to encode three state variables [Value, Factor, Remainder] into two-slot rational register [Numerator/Denominator]. Building on VFR √2 resolution (MATH-124) and recursive S-expression structure (MATH-125, MATH-126), we demonstrate: (1) **Two-slot bottleneck** - p/q notation lacks dedicated remainder register forcing R to "leak" into V creating infinite decimals, (2) **Decimal as buffer overflow** - 0.333... is recursive overflow where unnamed remainder chased into progressively smaller 10^-n slots, (3) **Anonymous Taylor structure** - all ℝ decimals are implicit sum Σ(digit_n/10^n) without named terms, (4) **Forced geometric compliance** - rigid base-10 scaling creates "irrationals" when geometry doesn't align (√2, π forced into 10^n framework), (5) **Compounding drift** - unnamed remainder accumulates as error through operations (floating-point jitter inevitable), (6) **Hardware upgrade resolution** - adding R-slot (VFR) seals leak terminating infinite series, (7) **Legacy patch status** - ℝ is software workaround for broken 2-slot hardware not mathematical foundation. Complete information-theoretic analysis showing ℝ as lossy compression scheme. Traditional mathematics treats ℝ as discovered truth. Logismos proves ℝ is engineering approximation for inadequate number representation.
+Current large language models store conversational context in a fixed-size token buffer. When the buffer fills, old information is discarded permanently. Over long conversations, this produces progressive degradation: the model forgets instructions, contradicts earlier statements, loses track of established facts, and generates increasingly incoherent output — a phenomenon users describe as "AI psychosis." Retrieval-Augmented Generation (RAG) attempts to compensate by retrieving text chunks from external databases via approximate float-vector similarity search, but introduces its own failures: irrelevant retrievals, contradictory chunks, no provenance tracking, and no verification of retrieved content. We present a complete replacement for both mechanisms: a persistent, provenanced, version-filtered, multi-dimensionally indexed knowledge base of exact integer facts with Prolog-based consistency enforcement. We prove: (1) **No information loss** — facts persist indefinitely, never "scroll off" a buffer, (2) **No degradation** — turn 10,000 is as consistent as turn 1 because consistency is enforced structurally by Prolog, not inferred from attention patterns, (3) **No hallucination** — every fact traces to a source with verifiable provenance; outputs without provenance cannot be emitted, (4) **No RAG needed** — the KB is the retrieval system, with exact predicate matching replacing approximate vector similarity, (5) **Version filtering** — queries against a specific version never see facts from other versions, eliminating stale-data contamination, (6) **Multi-dimensional indexing** — every fact carries source, timestamp, confidence, verification level, and context, enabling non-contradictory coexistence of temporally or contextually varying information, (7) **Sessions as views** — multiple simultaneous sessions share one KB with independent context filters, no duplication, no synchronization, (8) **LRU eviction without forgetting** — memory pressure is managed by moving cold facts to disk, not by deleting them. The knowledge base is not an addition to the LLM architecture. It is a replacement for the context window, RAG pipeline, conversation memory, and fact storage — unified into a single system of exact integers with full provenance.
 
-**Revolutionary claim:** Every decimal number is anonymous Taylor series - by naming the remainder we eliminate need for ℝ entirely replacing infinite accumulation with finite exact addressing.
+**Central claim:** The context window is the wrong abstraction for conversational AI. A persistent knowledge base of provenanced facts is the correct abstraction. Every problem attributed to "context limitations" — forgetting, degradation, hallucination, inconsistency — is a direct consequence of using a token buffer where a fact store is needed.
 
 ---
 
@@ -132,12 +132,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial },
+  title={ Persistent Provenanced Knowledge Base Eliminates Context Window Degradation, Hallucination, and RAG },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18878705},
-  url = {https://zenodo.org/record/18878705},
+  doi = {10.5281/zenodo.18960002},
+  url = {https://zenodo.org/record/18960002},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

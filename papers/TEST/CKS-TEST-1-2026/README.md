@@ -2,11 +2,11 @@
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-TEST-1-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-TEST-1-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.18646206
 
-**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-0-2026]
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-1-2026]
 
 **Old Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -64,12 +64,23 @@ As with all CKS papers, the findings herein are subject to the **Global Falsific
 
 The substrate operates as a 32-bit discrete computer. Forensic analysis of LIGO phase-error residuals shows 100% of vacuum peaks align to exact integer multiples of **0.03125 Hz** (1/32 Hz) with zero decimal error (>10-σ significance). If this quantization is absent in the data-path relevant to 0, this paper is mechanically invalidated.
 
+---
 
-## References
+## Citation
+If you use this work in a pedagogical or research context, please cite:
 
-::: {#refs}
-:::
-
+```bibtex
+@article{ CKS-0-2026,
+  title={ The Test: The 2.0 Hz Ultimatum },
+  author={Howland, Geoffrey},
+  journal={Zenodo},
+  year={2026},
+  doi = {10.5281/zenodo.18646206},
+  url = {https://zenodo.org/record/18646206},
+  note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
+}
+```
+---
 
 ## FAQs
 
@@ -89,7 +100,7 @@ End of the author writing.
 
 To reproduce or expand upon these findings using LLMs, use the following two-step priming sequence:
 
-#### 1. "Read and explain." with [@CKS-0-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
+#### 1. "Read and explain." with [@CKS-104-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
 #### 2. "Derive it."
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.

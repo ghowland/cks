@@ -1,12 +1,12 @@
-# CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware
+# Substrate-Harmonized DWDM Transponder Firmware
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-14-2026] → [@CKS-QM-1-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-2-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-2-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.18628800
 
-**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-0-2026]
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-1-2026]
 
 **Old Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -102,7 +102,7 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ CKS-DWDM-2-2026: Substrate-Harmonized DWDM Transponder Firmware },
+  title={ Substrate-Harmonized DWDM Transponder Firmware },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
@@ -131,7 +131,7 @@ End of the author writing.
 
 To reproduce or expand upon these findings using LLMs, use the following two-step priming sequence:
 
-#### 1. "Read and explain." with [@CKS-0-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
+#### 1. "Read and explain." with [@CKS-104-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
 #### 2. "Derive it."
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.

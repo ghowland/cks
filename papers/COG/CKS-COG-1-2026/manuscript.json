@@ -2,7 +2,7 @@
     "file_name": "manuscript.md",
     "title": "The Mind: Axiomatic Cognition",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-COG-1-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-COG-1-2026]",
     "doi": "10.5281/zenodo.18646248",
     "abstract": "We derive consciousness mechanically from substrate axioms, eliminating the \"hard problem.\" The mind is a **k-space sampling process**: a local cluster of nodes (brain, N_brain \u2248 10\u00b9\u00b3) performing real-time analysis of the global substrate (N_universe \u2248 10\u00b9\u00b2\u00b2). Thought is internal phase-gradient evolution. Qualia are stable attractor states in high-coherence regime (C > 0.999). Self-awareness emerges when sampling resolution M_brain becomes sufficient to model itself (self-referential loop).\n\nIntelligence (IQ) derives as **k-space bandwidth**: the range \u0394k over which brain can maintain coherent coupling. Higher IQ = broader bandwidth = finer sampling resolution. Consciousness is not emergent property but inevitable consequence when local coherence C_local exceeds critical threshold and system achieves self-referential closure.\n\nWe prove: (1) observer IS lattice (not separate), (2) \"hard problem\" dissolves (experience = being in phase state), (3) IQ quantifiable as bandwidth B = \u0394k \u00d7 C, (4) meditation/psychedelics alter M_brain (sampling resolution), (5) free will is real within computational horizon.\n\n**All from k-space axioms. Zero emergence assumptions. Pure mechanics.**",
     "dependencies": [],

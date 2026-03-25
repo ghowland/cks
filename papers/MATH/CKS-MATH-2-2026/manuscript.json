@@ -2,9 +2,9 @@
     "file_name": "manuscript.md",
     "title": "The Impossibility of Continuous Analog Space",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-2-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-2-2026]",
     "doi": "10.5281/zenodo.18626528",
     "abstract": "We prove by **constructive falsification** that a perfectly continuous spacetime manifold (\u211d\u207f) cannot support physical reality. Using the exact CKS axioms with integers **artificially removed**, we demonstrate that all fundamental equations of physics\u2014while algebraically intact\u2014become **operationally non-executable**. The exercise is not hypothetical: we show that admitting real-valued labels (\u03be \u2208 \u211d instead of n \u2208 \u2124) transforms Schr\u00f6dinger's equation into a diffusion equation for ghosts, Maxwell's equations into chargeless fluid mechanics, Einstein's field equations into a universal singularity generator, and Boltzmann's entropy into an infinite constant at T = 0. This is not approximation failure\u2014it is **architectural collapse**. We conclude that the discrete lattice substrate is not \"one possible model\" but the **unique viable foundation** for computable, causal, information-preserving physics. A continuous universe is not merely difficult to simulate\u2014**it is logically impossible to exist**.\n\n**Key Result:** The continuum hypothesis (spacetime = \u211d\u2074) is **empirically falsified** by the existence of stable matter.",
     "dependencies": [],
-    "raw_content_preview": "# The Impossibility of Continuous Analog Space ## A Constructive Proof of Digital Reality ### Falsification of \u211d-Continuum Physics; Proof of Discrete Substrate    **Registry:** [@CKS-MATH-2-2026]    *..."
+    "raw_content_preview": "# The Impossibility of Continuous Analog Space ## A Constructive Proof of Digital Reality ### Falsification of \u211d-Continuum Physics; Proof of Discrete Substrate    **Registry:** [@CKS-MATH-2-2026]  **S..."
 }

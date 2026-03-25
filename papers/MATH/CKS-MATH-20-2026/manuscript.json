@@ -1,8 +1,8 @@
 {
     "file_name": "manuscript.md",
     "title": "The Winding Torus",
-    "registry_id": "[CKS-MATH-20-2026]",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-13-2026] \u2192 [@CKS-MATH-16-2026] \u2192 [@CKS-DWDM-5-2026] \u2192 [@CKS-MATH-17-2026] \u2192 [@CKS-MATH-18-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026]",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MATH-19-2026] \u2192 [@CKS-MATH-20-2026]",
     "doi": "10.5281/zenodo.18639609",
     "abstract": "We derive the **Toroidal Soliton** as the mandatory geometric form of stable identity in CKS, proving the 12-bond winding loop cannot exist as a planar circle but must form a **torus** to prevent phase saturation. Starting from the dimensional incompatibility between Axiom 1 (discrete 2D lattice) and Axiom 2 (continuous liquid phase), we prove a third spatial degree of freedom is geometrically necessary\u2014the phase must rotate **around** the bond (poloidal) as it travels **along** the loop (toroidal). This creates a torus with major circumference C_M = 12 bonds (identity/software) and minor circumference C_m = 7 bubbles (address/hardware), yielding exact surface area of 12\u00d77 = **84 bits** (the universal instruction word). The 15.19 ms lag derives as **spiral pitch** from incomplete poloidal closure at word boundary, and the 7.70 Jacobian emerges as **volumetric ratio** (toroidal volume / 2D hole area). We specify complete toroidal topology: major radius R from 12-bond path, minor radius r from hexagonal packing (\u221a3/2), winding numbers (n_toroidal = 1, n_poloidal = 12/7), and prove particles are not points or waves but **self-recirculating pressure vessels** in k-space. With zero free parameters, all topology derives from preventing phase overlap: torus is unique 3D manifold allowing continuous recirculation without address collision.\n\n**Key Result:** Particle = toroidal soliton, surface area = 84 bits, spiral pitch = 15.19 ms lag, volume/hole ratio = 7.70",
     "dependencies": [

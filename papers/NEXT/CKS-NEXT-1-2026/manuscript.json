@@ -1,0 +1,10 @@
+{
+    "file_name": "manuscript.md",
+    "title": "Post-CKS",
+    "registry_id": "CKS-0-2026",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-DISC-1-2026] \u2192 [@CKS-NEXT-1-2026]",
+    "doi": "10.5281/zenodo.19212677",
+    "abstract": "The author previously published Cymatic K-Space Mechanics (CKS), a theory of everything that achieved omni-domain explanatory coverage across physics, cosmology, biomechanics, material science, information theory, and other domains. CKS was subsequently fully falsified by the author through mechanical verification \u2014 a simple Python script exposed arithmetic errors that three large language models failed to catch across 45 days of red-teaming and 390 published papers on Zenodo.\n\nThis paper presents the lessons learned from that failure, identifies the specific failure modes, and describes the methodology for a corrected second attempt. The core failure was twofold: the arithmetic foundation could not hold the structures being described, and the verification process relied on LLMs performing approximate pattern matching rather than exact mechanical checking.\n\nThe corrected methodology is built on three pillars: an exact discrete integer arithmetic system called VDR (Value, Denominator, Remainder) currently in v1 development, a compiled Zig implementation that mechanically verifies every derivation step, and a brute force search across all measured constants, all known equations, and all geometric relationships using exact equality rather than epsilon comparison.\n\nEverything described here is work in progress. Nothing is assumed from the prior attempt. Every level of the program has an explicit abandonment condition. The search continues, but on a foundation designed to fail honestly rather than silently.",
+    "dependencies": [],
+    "raw_content_preview": "# Post-CKS ## A Methodology for Geometry-Forced Derivation of Measured Constants Using Exact Discrete Arithmetic   **Registry:** [@CKS-NEXT-1-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026]..."
+}

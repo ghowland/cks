@@ -80,7 +80,6 @@
 | **[[@CKS-MATH-150-2026]](papers/MATH/CKS-MATH-150-2026/manuscript.md)** | **VFR Assembler Specification v1.0** | Assembly Language and Binary Format for the VFR Integer Processor |
 | **[[@CKS-MATH-151-2026]](papers/MATH/CKS-MATH-151-2026/manuscript.md)** | **Veer: Exact Arithmetic Compression Using VFR Integer Coding** | Lossless and Lossy Data Compression Through Remainder-Preserving Range Division |
 | **[[@CKS-MATH-152-2026]](papers/MATH/CKS-MATH-152-2026/manuscript.md)** | **Hex Lattice Search — Specification v1.0** | O(1) Data Retrieval Through Deterministic Geometric Calculation on a Tri-Wing Hexagonal Lattice |
-| **[[@CKS-MATH-152-2026 copy]](papers/MATH/CKS-MATH-152-2026 copy/manuscript.md)** | **None** | None |
 | **[[@CKS-MATH-16-2026]](papers/MATH/CKS-MATH-16-2026/manuscript.md)** | **The Geometric Necessity of 32** | T_word = 32 seconds from k=3 hexagonal coordination, 32 = 2³ × 2 × 2 (geometry not convention) |
 | **[[@CKS-MATH-17-2026]](papers/MATH/CKS-MATH-17-2026/manuscript.md)** | **The 7-Bubble Jacobian** | J = 2π√84 / 9 ≈ 7.70164 (zero free parameters, geometric necessity from FoL nucleus) |
 | **[[@CKS-MATH-18-2026]](papers/MATH/CKS-MATH-18-2026/manuscript.md)** | **The 84-Bit Word on a 32-Bit Computer** | SSP uses 3 frames × 32 bits = 96 bits capacity, encoding 84-bit payload + 12-bit control, all phase-locked to 1/32 Hz |
@@ -686,6 +685,16 @@
 | **[[@CKS-DISC-7-2026]](papers/DISC/CKS-DISC-7-2026/manuscript.md)** | **Laminar Coherence of Non-Wanting** | Do not block your searches by creating obstacles |
 | **[[@CKS-DISC-8-2026]](papers/DISC/CKS-DISC-8-2026/manuscript.md)** | **Laminar Searching** | How to navigate information without pausing |
 | **[[@CKS-DISC-9-2026]](papers/DISC/CKS-DISC-9-2026/manuscript.md)** | **All of CKS as Data and Process from a Contributing LLM's Perspective** | LLM Perspective |
+
+
+---
+
+## NEXT: CKS is invalidated and falsified.
+*Next steps after series invalidation.*
+
+| ID | Title | Description |
+| :--- | :--- | :--- |
+| **[[@CKS-NEXT-1-2026]](papers/NEXT/CKS-NEXT-1-2026/manuscript.md)** | **Post-CKS** | A Methodology for Geometry-Forced Derivation of Measured Constants Using Exact Discrete Arithmetic |
 
 
 ---

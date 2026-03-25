@@ -1,12 +1,12 @@
-# The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial
+# LLM → Prolog → LLM: Multi-Step Verified Generation Through Alternating Neural-Symbolic Computation
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-126-2026] → [@CKS-MATH-127-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-MATH-137-2026] → [@CKS-MATH-138-2026]  
 
-**Zenodo DOI:** 10.5281/zenodo.18878705
+**Zenodo DOI:** 10.5281/zenodo.18960010
 
-**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-0-2026]
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-1-2026]
 
 **Old Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -20,9 +20,9 @@
 
 ## Abstract
 
-We prove Real Numbers (ℝ) are not fundamental values but unnamed Taylor series with hard-coded base-10 denominators masquerading as complete number representation. The "irrational crisis" arose from information-theoretic failure: attempting to encode three state variables [Value, Factor, Remainder] into two-slot rational register [Numerator/Denominator]. Building on VFR √2 resolution (MATH-124) and recursive S-expression structure (MATH-125, MATH-126), we demonstrate: (1) **Two-slot bottleneck** - p/q notation lacks dedicated remainder register forcing R to "leak" into V creating infinite decimals, (2) **Decimal as buffer overflow** - 0.333... is recursive overflow where unnamed remainder chased into progressively smaller 10^-n slots, (3) **Anonymous Taylor structure** - all ℝ decimals are implicit sum Σ(digit_n/10^n) without named terms, (4) **Forced geometric compliance** - rigid base-10 scaling creates "irrationals" when geometry doesn't align (√2, π forced into 10^n framework), (5) **Compounding drift** - unnamed remainder accumulates as error through operations (floating-point jitter inevitable), (6) **Hardware upgrade resolution** - adding R-slot (VFR) seals leak terminating infinite series, (7) **Legacy patch status** - ℝ is software workaround for broken 2-slot hardware not mathematical foundation. Complete information-theoretic analysis showing ℝ as lossy compression scheme. Traditional mathematics treats ℝ as discovered truth. Logismos proves ℝ is engineering approximation for inadequate number representation.
+Current large language models generate output through unconstrained token prediction — a process with no verification step, no logical consistency checking, no provenance tracking, and no structured knowledge representation. The result is "hallucination": outputs that are statistically plausible but factually wrong, logically inconsistent, or untraceable to any source. We present an alternative architecture in which an integer-trained LLM ([CKS-MATH-134-2026]) alternates with a Prolog-based verification engine at every step of generation. The LLM handles what neural networks do well: fuzzy input comprehension and creative pattern selection. Prolog handles what logical systems do well: consistency verification, goal decomposition, constraint enforcement, and provenance tracking. We prove: (1) **Hallucination is eliminated by construction** — every generated fact traces to provenanced sources in the knowledge base; outputs without provenance are structurally impossible, (2) **Term-based tokenization replaces BPE** — tokens are typed, structured Terms carrying their grammatical role, not arbitrary byte-pair fragments, (3) **Three-dimensional evaluation** — every claim is evaluated on logical validity (L), mathematical coherence (M), and empirical anchoring (E) via the Triveritas criterion, (4) **Materiality gating** — the Scales Method prevents computation on non-material concerns, (5) **Adaptive sequencing** — the Pseudo-Socratic Method determines the number and focus of generation steps based on continuous state assessment, (6) **The knowledge base replaces the context window** — a persistent, provenanced, version-filtered fact store that never forgets and never degrades, (7) **Domain eating** — new knowledge domains are added by writing parsers and rules, not by retraining the neural network. From first principles through complete architecture. The LLM is the interface. The knowledge base is the mind.
 
-**Revolutionary claim:** Every decimal number is anonymous Taylor series - by naming the remainder we eliminate need for ℝ entirely replacing infinite accumulation with finite exact addressing.
+**Central claim:** The hallucination problem is not a deficiency of neural networks. It is the inevitable consequence of generating output without verification. Interleaving neural creativity with logical verification at every step produces output that is verified by construction, not evaluated after the fact.
 
 ---
 
@@ -132,12 +132,12 @@ If you use this work in a pedagogical or research context, please cite:
 
 ```bibtex
 @article{ CKS-0-2026,
-  title={ The Taylor Continuum: ℝ as an Unnamed Infinite Polynomial },
+  title={ LLM → Prolog → LLM: Multi-Step Verified Generation Through Alternating Neural-Symbolic Computation },
   author={Howland, Geoffrey},
   journal={Zenodo},
   year={2026},
-  doi = {10.5281/zenodo.18878705},
-  url = {https://zenodo.org/record/18878705},
+  doi = {10.5281/zenodo.18960010},
+  url = {https://zenodo.org/record/18960010},
   note={CKS Series: CKS-0-2026. Dependencies: None (foundation paper) }
 }
 ```

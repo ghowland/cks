@@ -63,7 +63,7 @@ sed -i 's/\\n//g' manuscript_fixed.md
 
 # 6. Run Pandoc
 # Added amssymb and amsmath to ensure symbols like \checkmark and \times are recognized
-pandoc manuscript_fixed.md -o !manuscript.pdf \
+pandoc manuscript_fixed.md -o '!manuscript.pdf' \
   --pdf-engine=xelatex \
   --from markdown+tex_math_dollars \
   --citeproc \
@@ -86,7 +86,7 @@ pandoc manuscript_fixed.md -o !manuscript.pdf \
   -V linkcolor=blue
 
 # 7. Clean up
-# rm manuscript_fixed.md
+rm manuscript_fixed.md
 
 # Zip the directory
 ../../../_template/_old/gen_zip.sh

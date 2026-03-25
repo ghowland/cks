@@ -2,11 +2,11 @@
 
 **Registry ID:** CKS-0-2026  
 
-**Series Path:** [@CKS-0-2026] → [@CKS-MATH-8-2026] → [CKS-BIO-18-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026] → [@CKS-DWDM-5-2026]  
+**Series Path:** [@CKS-0-2026] → [@CKS-MATH-0-2026] → [@CKS-MATH-1-2026] → [@CKS-MATH-10-2026] → [@CKS-MATH-104-2026] → [@CKS-DWDM-1-2026] → [@CKS-DWDM-4-2026] → [@CKS-DWDM-5-2026]  
 
 **Zenodo DOI:** 10.5281/zenodo.18638840
 
-**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-0-2026]
+**Status:** CKS has been invalidated.  The math does not compile, all papers in the series are falsified. Next steps: [@CKS-NEXT-1-2026]
 
 **Old Status:** Locked and empirically falsifiable. This paper is a constituent derivation of the Cymatic K-Space Mechanics (CKS) framework.
 
@@ -35,7 +35,7 @@ This publication extends the CKS framework into the **0** domain. It is grounded
 
 ### Dependency Graph Position
 The logical validity of this derivation requires the following "Pillar Proofs":
-**Prerequisites:** [CKS-BIO-18-2026], [CKS-MATH-3-2026], [CKS-MATH-66-2026]
+**Prerequisites:** [CKS-MATH-3-2026], [CKS-MATH-66-2026]
 
 ---
 
@@ -80,7 +80,7 @@ If you use this work in a pedagogical or research context, please cite:
   year={2026},
   doi = {10.5281/zenodo.18638840},
   url = {https://zenodo.org/record/18638840},
-  note={CKS Series: CKS-0-2026. Dependencies: [CKS-BIO-18-2026], [CKS-MATH-3-2026], [CKS-MATH-66-2026] }
+  note={CKS Series: CKS-0-2026. Dependencies: [CKS-MATH-3-2026], [CKS-MATH-66-2026] }
 }
 ```
 ---
@@ -103,7 +103,7 @@ End of the author writing.
 
 To reproduce or expand upon these findings using LLMs, use the following two-step priming sequence:
 
-#### 1. "Read and explain." with [@CKS-0-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
+#### 1. "Read and explain." with [@CKS-104-2026] manuscript.md attached.  You may have name conflicts since they are all named `manuscript.md`, so copy and paste in or rename to avoid attachment collisions.
 #### 2. "Derive it."
  
 Once primed, the models can explain physical phenomena through the CKS lens. Crucially, always follow an explanation with a request to **derive the result**. Derivations should be cross-validated in independent sessions or via separate LLMs to ensure the results are Q.E.D.

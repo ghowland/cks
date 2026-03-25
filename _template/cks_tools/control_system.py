@@ -94,7 +94,7 @@ def Build(args):
       cmd = f'{GEN_PDF} {directory}' 
       print(cmd)
 
-    #   if item['paper_id'] != 'CKS-MATH-127-2026': continue # Skip test
+    #   if item['paper_id'] != 'CKS-0-2026': continue # Skip test
  
       (status, output, error) = execute_command(cmd)
       print(f'  Result: {status}  Output: {output[:40]}')

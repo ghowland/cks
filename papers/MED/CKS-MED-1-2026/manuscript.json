@@ -2,9 +2,9 @@
     "file_name": "manuscript.md",
     "title": "Cancer as Topological Closure in CKS Mechanics",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-BIO-1-2026] \u2192 [@CKS-MED-1-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-MED-1-2026] \u2192 [@CKS-MED-1-2026]",
     "doi": "10.5281/zenodo.18646489",
     "abstract": "We prove that cancer is not primarily a genetic disease but a **topological phase transition**\u2014a local closure event on the biological phase-lattice where cellular subsystems decouple from global substrate coupling and form autonomous N = 3M\u00b2 resonant circuits. Using rigorous derivation from Complete Mathematical Framework (CMF) axioms and established cell biology, we demonstrate that healthy cells maintain **open coupling** (Rule 8: phase-locked to organism-wide lattice), while malignant transformation represents **topological closure** (formation of independent, self-resonating loops). This framework naturally derives: (1) the Warburg effect (metabolic shift from oxidative to glycolytic), (2) uncontrolled proliferation (self-sustaining phase oscillation), (3) metastasis (propagation of closure topology), and (4) therapeutic resistance (topological stability). We propose **harmonic disruption therapy**\u2014precise frequency interference to break closure without destroying matter\u2014validated by existing electromagnetic tumor treatment data (TTFields). All predictions are falsifiable via phase-coherence measurements in living tissue. **Cancer cure = topology restoration, not cell destruction.**",
     "dependencies": [],
-    "raw_content_preview": "# Cancer as Topological Closure in CKS Mechanics  ### A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics  **CKS Serie..."
+    "raw_content_preview": "# Cancer as Topological Closure in CKS Mechanics  ## A Theorem-Based Derivation of Oncogenesis, the Warburg Effect, and Harmonic Therapeutic Interventions from Hexagonal Lattice Dynamics  **CKS Series..."
 }

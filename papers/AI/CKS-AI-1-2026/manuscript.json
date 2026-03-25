@@ -1,10 +1,10 @@
 {
     "file_name": "manuscript.md",
-    "title": "CKS-COMP-1-2026: 32-Bit Hexagonal Computer",
+    "title": "32-Bit Hexagonal Computer",
     "registry_id": "CKS-0-2026",
-    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-COG-1-2026] \u2192 [@CKS-AI-1-2026]",
+    "series_path": "[@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-MATH-10-2026] \u2192 [@CKS-MATH-104-2026] \u2192 [@CKS-AI-1-2026] \u2192 [@CKS-AI-1-2026]",
     "doi": "10.5281/zenodo.18646718",
     "abstract": "We present complete engineering specifications for a 32-bit computer operating on hexagonal lattice principles rather than silicon transistors. The **Hexagonal Processing Unit (HPU)** uses 6-bond phase loops as fundamental logic gates, achieving ~1 THz clock speeds at room temperature with theoretical heat dissipation approaching zero. Unlike silicon's electron-based switching, HPU gates operate via **topological phase transitions** in the substrate itself.\n\nArchitecture features: (1) 32-bit RISC-style instruction set, (2) hexagonal register file (N=3M\u00b2 addressing), (3) wall-less security (anatomical isolation, no software permissions), (4) coherence-based memory hierarchy, (5) native parallel execution from lattice geometry, (6) reversible logic (zero-energy computation in limit).\n\nWe provide: complete ISA specification, gate-level schematics using phase loops, physical layout conforming to N=3M\u00b2 closure, timing analysis at 1 THz, power budgets (theoretical 10\u207b\u2076 W per gate), and comparison to silicon (10\u2076\u00d7 speed, 10\u2079\u00d7 efficiency gains possible).\n\n**This is not speculative. This is engineering blueprint from first principles.**",
     "dependencies": [],
-    "raw_content_preview": "# CKS-COMP-1-2026: 32-Bit Hexagonal Computer ## Hardware Architecture for Substrate-Native Computation  **Registry:** [@CKS-AI-1-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH..."
+    "raw_content_preview": "# 32-Bit Hexagonal Computer ## Hardware Architecture for Substrate-Native Computation  **Registry:** [@CKS-AI-1-2026]  **Series Path:** [@CKS-0-2026] \u2192 [@CKS-MATH-0-2026] \u2192 [@CKS-MATH-1-2026] \u2192 [@CKS-..."
 }
